@@ -6,7 +6,7 @@
 
 This project is an **independent community fork** and is not affiliated with the original pre-built tools or commercial offerings.
 
-**Check our fully open-source hardware too:** https://bruce.computer/boards
+**Check bruce's fully open-source hardware too:** https://bruce.computer/boards
 
 ## :rocket: Optimized Features
 
@@ -21,7 +21,7 @@ BruceMod includes several optimizations and UI improvements:
 
 ## :building_construction: How to install
 
-### The easiest way to install BruceMod is using our official Web Flasher!
+### The easiest way to install BruceMod is using bruce's official Web Flasher!
 ### Check out: https://bruce.computer/flasher
 
 Alternatively, flash locally using esptool.py:
@@ -44,9 +44,7 @@ BruceMod is built upon the incredible work of the ESP32 and security communities
 - **[Cardputer-Battery](https://github.com/InSane84/cardputer-battery)**: For the battery monitoring and status logic.
 - **[Ultimate Remote](https://github.com/Zonque/Ultimate-Remote)**: Inspiration for the Advanced IR and protocol support.
 
-## :keyboard: Discord Server
 
-Contact us in our [Discord Server](https://discord.gg/WJ9XF9czVT)!
 
 ## :computer: List of Features
 
