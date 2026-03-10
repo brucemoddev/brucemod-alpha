@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 25
+#
+name: VOLUME -
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 29
+#
+name: 
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 40
+#
+name: TV
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 42
+#

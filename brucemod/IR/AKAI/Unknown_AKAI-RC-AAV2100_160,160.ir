@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: delay.T+
+type: parsed
+protocol: necx1
+address: 160.160
+command: 1
+#
+name: Dolby_Digital
+type: parsed
+protocol: necx1
+address: 160.160
+command: 2
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 160.160
+command: 3
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx1
+address: 160.160
+command: 4
+#
+name: KEY_VIDEO
+type: parsed
+protocol: necx1
+address: 160.160
+command: 5
+#
+name: KEY_DOWN
+type: parsed
+protocol: necx1
+address: 160.160
+command: 6
+#
+name: T_Tone
+type: parsed
+protocol: necx1
+address: 160.160
+command: 7
+#
+name: surround
+type: parsed
+protocol: necx1
+address: 160.160
+command: 9
+#
+name: KEY_DVD
+type: parsed
+protocol: necx1
+address: 160.160
+command: 10
+#
+name: CH.Trim
+type: parsed
+protocol: necx1
+address: 160.160
+command: 11
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 160.160
+command: 12
+#
+name: SPK_on_Off
+type: parsed
+protocol: necx1
+address: 160.160
+command: 13
+#
+name: Stereo
+type: parsed
+protocol: necx1
+address: 160.160
+command: 14
+#
+name: KEY_AUX
+type: parsed
+protocol: necx1
+address: 160.160
+command: 15
+#
+name: KEY_TAPE
+type: parsed
+protocol: necx1
+address: 160.160
+command: 17
+#
+name: SPK_Setting
+type: parsed
+protocol: necx1
+address: 160.160
+command: 18
+#
+name: Dynamic
+type: parsed
+protocol: necx1
+address: 160.160
+command: 19
+#
+name: bass_mgt
+type: parsed
+protocol: necx1
+address: 160.160
+command: 20
+#
+name: KEY_UP
+type: parsed
+protocol: necx1
+address: 160.160
+command: 21
+#
+name: Memory
+type: parsed
+protocol: necx1
+address: 160.160
+command: 22
+#
+name: X_KEY_2Ch
+type: parsed
+protocol: necx1
+address: 160.160
+command: 23
+#
+name: delay.T-
+type: parsed
+protocol: necx1
+address: 160.160
+command: 25
+#
+name: Pro_Logic
+type: parsed
+protocol: necx1
+address: 160.160
+command: 26
+#
+name: Station-
+type: parsed
+protocol: necx1
+address: 160.160
+command: 27
+#
+name: Band
+type: parsed
+protocol: necx1
+address: 160.160
+command: 28
+#
+name: Auto
+type: parsed
+protocol: necx1
+address: 160.160
+command: 30
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 160.160
+command: 31
+#
+name: KEY_TUNER
+type: parsed
+protocol: necx1
+address: 160.160
+command: 96
+#
+name: KEY_CD
+type: parsed
+protocol: necx1
+address: 160.160
+command: 160
+#
+name: Station+
+type: parsed
+protocol: necx1
+address: 160.160
+command: 224
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER/LINE 1
+type: parsed
+protocol: rc5
+address: 17
+command: 63
+#

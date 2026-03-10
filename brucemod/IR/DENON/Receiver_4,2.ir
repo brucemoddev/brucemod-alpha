@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER NEW TUNE UP
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 144
+#
+name: TUNER NEW TUNE DOWN
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 145
+#
+name: TUNER NEW PRESET UP
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 146
+#
+name: TUNER NEW PRESET DOW
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 147
+#
+name: TUNER NEW SHIFT
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 148
+#
+name: TUNER NEW BAND TOGGL
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 152
+#
+name: TUNER NEW BAND FM
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 153
+#
+name: TUNER NEW BAND AM
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 154
+#
+name: TUNER NEW MODE TOGGL
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 156
+#
+name: TUNER NEW MEMORY
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 160
+#
+name: TUNER NEW SEARCH/RDS
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 163
+#
+name: TUNER NEW RT
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 166
+#
+name: TUNER NEW PTY
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 169
+#
+name: TUNER NEW PRESET 1
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 176
+#
+name: TUNER NEW PRESET 2
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 177
+#
+name: TUNER NEW PRESET 3
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 178
+#
+name: TUNER NEW PRESET 4
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 179
+#
+name: TUNER NEW PRESET 5
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 180
+#
+name: TUNER NEW PRESET 6
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 181
+#
+name: TUNER NEW PRESET 7
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 182
+#
+name: TUNER NEW PRESET 8
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 183
+#
+name: TUNER NEW SHIFT A
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 248
+#
+name: TUNER NEW SHIFT B
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 249
+#
+name: TUNER NEW SHIFT C
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 250
+#
+name: TUNER NEW SHIFT D
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 251
+#
+name: TUNER NEW SHIFT E
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 252
+#
+name: TUNER NEW SHIFT F
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 253
+#
+name: TUNER NEW SHIFT G
+type: parsed
+protocol: Denon-K
+address: 4.2
+command: 254
+#

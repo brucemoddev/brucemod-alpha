@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 182
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 182
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 182
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 182
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 182
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 182
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 182
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 182
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 182
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 182
+command: 9
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 182
+command: 10
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 182
+command: 17
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 182
+command: 19
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 182
+command: 20
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 182
+command: 21
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 182
+command: 22
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 182
+command: 23
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 182
+command: 24
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 182
+command: 25
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 182
+command: 26
+#
+name: Check
+type: parsed
+protocol: nec
+address: 182
+command: 27
+#
+name: PMode
+type: parsed
+protocol: nec
+address: 182
+command: 31
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 182
+command: 72
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 182
+command: 73
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 182
+command: 74
+#
+name: Random
+type: parsed
+protocol: nec
+address: 182
+command: 79
+#

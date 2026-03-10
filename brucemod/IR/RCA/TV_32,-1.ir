@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 32
+command: 82
+#
+name: source
+type: parsed
+protocol: nec
+address: 32
+command: 64
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 32
+command: 3
+#
+name: Vol_Down
+type: parsed
+protocol: nec
+address: 32
+command: 65
+#
+name: Up
+type: parsed
+protocol: nec
+address: 32
+command: 71
+#
+name: Down
+type: parsed
+protocol: nec
+address: 32
+command: 77
+#
+name: Left
+type: parsed
+protocol: nec
+address: 32
+command: 73
+#
+name: Right
+type: parsed
+protocol: nec
+address: 32
+command: 75
+#
+name: enter
+type: parsed
+protocol: nec
+address: 32
+command: 74
+#
+name: SMODE
+type: parsed
+protocol: nec
+address: 32
+command: 83
+#
+name: Menu
+type: parsed
+protocol: nec
+address: 32
+command: 6
+#
+name: Exit
+type: parsed
+protocol: nec
+address: 32
+command: 10
+#
+name: chan_up
+type: parsed
+protocol: nec
+address: 32
+command: 2
+#
+name: chan_down
+type: parsed
+protocol: nec
+address: 32
+command: 9
+#
+name: Sleep
+type: parsed
+protocol: nec
+address: 32
+command: 78
+#
+name: Info
+type: parsed
+protocol: nec
+address: 32
+command: 15
+#
+name: cc
+type: parsed
+protocol: nec
+address: 32
+command: 66
+#

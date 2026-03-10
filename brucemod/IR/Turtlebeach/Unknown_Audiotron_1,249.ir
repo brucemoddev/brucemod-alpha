@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Group
+type: parsed
+protocol: nec
+address: 1.249
+command: 0
+#
+name: Add
+type: parsed
+protocol: nec
+address: 1.249
+command: 1
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 1.249
+command: 2
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 1.249
+command: 3
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 1.249
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 1.249
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 1.249
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 1.249
+command: 7
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 1.249
+command: 8
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 1.249
+command: 9
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 1.249
+command: 10
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 1.249
+command: 11
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 1.249
+command: 12
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 1.249
+command: 13
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 1.249
+command: 14
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 1.249
+command: 15
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 1.249
+command: 16
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 1.249
+command: 17
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 1.249
+command: 18
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 1.249
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 1.249
+command: 20
+#
+name: addfav
+type: parsed
+protocol: nec
+address: 1.249
+command: 21
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 1.249
+command: 24
+#
+name: skiprev
+type: parsed
+protocol: nec
+address: 1.249
+command: 25
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 1.249
+command: 26
+#
+name: random
+type: parsed
+protocol: nec
+address: 1.249
+command: 28
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 1.249
+command: 29
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 1.249
+command: 30
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 1.249
+command: 31
+#
+name: KEY_A
+type: parsed
+protocol: nec
+address: 1.249
+command: 64
+#
+name: KEY_B
+type: parsed
+protocol: nec
+address: 1.249
+command: 65
+#
+name: KEY_C
+type: parsed
+protocol: nec
+address: 1.249
+command: 66
+#
+name: KEY_D
+type: parsed
+protocol: nec
+address: 1.249
+command: 67
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 1.249
+command: 71
+#
+name: artist
+type: parsed
+protocol: nec
+address: 1.249
+command: 72
+#
+name: album
+type: parsed
+protocol: nec
+address: 1.249
+command: 73
+#
+name: genre
+type: parsed
+protocol: nec
+address: 1.249
+command: 74
+#
+name: net
+type: parsed
+protocol: nec
+address: 1.249
+command: 75
+#
+name: lists
+type: parsed
+protocol: nec
+address: 1.249
+command: 76
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 1.249
+command: 79
+#

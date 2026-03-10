@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BASS SHAPE - CINEMA
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 2
+#
+name: BASS SHAPE - REF.
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 3
+#
+name: BASS LEVEL +4
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 4
+#
+name: BASS LEVEL +6
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 7
+#
+name: BASS LEVEL -4
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 8
+#
+name: BASS LEVEL -6
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 9
+#
+name: BASS LEVEL +2
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 15
+#
+name: BASS LEVEL -2
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 17
+#
+name: BASS LEVEL 0
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 19
+#
+name: TREBLE - CUT
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 30
+#
+name: TREBLE - BOOST
+type: parsed
+protocol: aiwa
+address: 80.0
+command: 31
+#

@@ -1,0 +1,417 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON
+type: parsed
+protocol: nec1
+address: 128.93
+command: 0
+#
+name: ALL
+type: parsed
+protocol: nec1
+address: 128.93
+command: 1
+#
+name: PROCESS
+type: parsed
+protocol: nec1
+address: 128.93
+command: 2
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.93
+command: 3
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 128.93
+command: 4
+#
+name: BASS ^
+type: parsed
+protocol: nec1
+address: 128.93
+command: 5
+#
+name: BASS V
+type: parsed
+protocol: nec1
+address: 128.93
+command: 6
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 128.93
+command: 7
+#
+name: BAL <<
+type: parsed
+protocol: nec1
+address: 128.93
+command: 8
+#
+name: FLAT
+type: parsed
+protocol: nec1
+address: 128.93
+command: 9
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 128.93
+command: 10
+#
+name: AUX 2
+type: parsed
+protocol: nec1
+address: 128.93
+command: 11
+#
+name: BAL >>
+type: parsed
+protocol: nec1
+address: 128.93
+command: 12
+#
+name: TREB ^
+type: parsed
+protocol: nec1
+address: 128.93
+command: 13
+#
+name: TREB V
+type: parsed
+protocol: nec1
+address: 128.93
+command: 14
+#
+name: A
+type: parsed
+protocol: nec1
+address: 128.93
+command: 15
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128.93
+command: 16
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 128.93
+command: 17
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 128.93
+command: 18
+#
+name: B
+type: parsed
+protocol: nec1
+address: 128.93
+command: 19
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 128.93
+command: 20
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 128.93
+command: 21
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 128.93
+command: 22
+#
+name: DISC 6
+type: parsed
+protocol: nec1
+address: 128.93
+command: 23
+#
+name: DISC 7
+type: parsed
+protocol: nec1
+address: 128.93
+command: 24
+#
+name: F2
+type: parsed
+protocol: nec1
+address: 128.93
+command: 25
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 128.93
+command: 26
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 128.93
+command: 27
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 128.93
+command: 28
+#
+name: DISC 9
+type: parsed
+protocol: nec1
+address: 128.93
+command: 29
+#
+name: F4
+type: parsed
+protocol: nec1
+address: 128.93
+command: 30
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 128.93
+command: 31
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 128.93
+command: 64
+#
+name: C/P 1
+type: parsed
+protocol: nec1
+address: 128.93
+command: 65
+#
+name: C/P 6
+type: parsed
+protocol: nec1
+address: 128.93
+command: 66
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 128.93
+command: 67
+#
+name: AUX 1
+type: parsed
+protocol: nec1
+address: 128.93
+command: 68
+#
+name: C/P 2
+type: parsed
+protocol: nec1
+address: 128.93
+command: 69
+#
+name: C/P 7
+type: parsed
+protocol: nec1
+address: 128.93
+command: 70
+#
+name: CUT <<
+type: parsed
+protocol: nec1
+address: 128.93
+command: 71
+#
+name: C/P 3
+type: parsed
+protocol: nec1
+address: 128.93
+command: 72
+#
+name: C/P 8
+type: parsed
+protocol: nec1
+address: 128.93
+command: 73
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 128.93
+command: 74
+#
+name: CUT >>
+type: parsed
+protocol: nec1
+address: 128.93
+command: 75
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 128.93
+command: 76
+#
+name: C/P 4
+type: parsed
+protocol: nec1
+address: 128.93
+command: 77
+#
+name: C/P 9
+type: parsed
+protocol: nec1
+address: 128.93
+command: 78
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 128.93
+command: 79
+#
+name: LOCAL
+type: parsed
+protocol: nec1
+address: 128.93
+command: 80
+#
+name: C/P 5
+type: parsed
+protocol: nec1
+address: 128.93
+command: 81
+#
+name: C/P 10
+type: parsed
+protocol: nec1
+address: 128.93
+command: 82
+#
+name: REV
+type: parsed
+protocol: nec1
+address: 128.93
+command: 83
+#
+name: F1
+type: parsed
+protocol: nec1
+address: 128.93
+command: 84
+#
+name: SAVE
+type: parsed
+protocol: nec1
+address: 128.93
+command: 85
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 128.93
+command: 86
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 128.93
+command: 87
+#
+name: DISC 8
+type: parsed
+protocol: nec1
+address: 128.93
+command: 88
+#
+name: F3
+type: parsed
+protocol: nec1
+address: 128.93
+command: 89
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 128.93
+command: 90
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 128.93
+command: 91
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 128.93
+command: 92
+#
+name: DISC 10
+type: parsed
+protocol: nec1
+address: 128.93
+command: 93
+#
+name: F5
+type: parsed
+protocol: nec1
+address: 128.93
+command: 94
+#
+name: *
+type: parsed
+protocol: nec1
+address: 128.93
+command: 95
+#
+name: SPEAKER ON/OFF
+type: parsed
+protocol: nec1
+address: 128.93
+command: 199
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 128.93
+command: 203
+#
+name: ALL SPEAKERS OFF
+type: parsed
+protocol: nec1
+address: 128.93
+command: 211
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 128.93
+command: 215
+#
+name: ALL SPEAKERS ON
+type: parsed
+protocol: nec1
+address: 128.93
+command: 223
+#

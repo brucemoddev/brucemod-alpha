@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TIMER
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 37
+#
+name: KEY_SLEEP
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 39
+#
+name: SWING
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 41
+#
+name: TEMP-
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 49
+#
+name: TEMP+
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 50
+#
+name: FAN_LOW
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 53
+#
+name: FAN_MED
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 54
+#
+name: FAN_HIGH
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 55
+#
+name: FAN
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 57
+#
+name: HEAT
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 58
+#
+name: COOL
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 60
+#
+name: KEY_POWER
+type: parsed
+protocol: Samsung20
+address: 1.8
+command: 63
+#

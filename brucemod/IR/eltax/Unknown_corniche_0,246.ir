@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Angle_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 0
+#
+name: Zoom_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.246
+command: 2
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.246
+command: 3
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.246
+command: 5
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.246
+command: 6
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.246
+command: 7
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 0.246
+command: 8
+#
+name: Mono/Stereo_(Tuner_F
+type: parsed
+protocol: nec
+address: 0.246
+command: 9
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.246
+command: 10
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.246
+command: 13
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.246
+command: 15
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 0.246
+command: 16
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.246
+command: 17
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.246
+command: 18
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.246
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.246
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.246
+command: 23
+#
+name: Slow_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 24
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.246
+command: 25
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.246
+command: 27
+#
+name: Pre/Tun_(Tuner_Funct
+type: parsed
+protocol: nec
+address: 0.246
+command: 29
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0.246
+command: 30
+#
+name: Prog_(CD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 31
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.246
+command: 64
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.246
+command: 65
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.246
+command: 66
+#
+name: Menu_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 67
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.246
+command: 68
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0.246
+command: 69
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.246
+command: 70
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.246
+command: 71
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 0.246
+command: 72
+#
+name: Aux1
+type: parsed
+protocol: nec
+address: 0.246
+command: 73
+#
+name: Aux2
+type: parsed
+protocol: nec
+address: 0.246
+command: 74
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 0.246
+command: 75
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.246
+command: 80
+#
+name: Repeat_(CD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 82
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0.246
+command: 83
+#
+name: Audio_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 85
+#
+name: Display_RDS_(Tuner_F
+type: parsed
+protocol: nec
+address: 0.246
+command: 86
+#
+name: Setup_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 87
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.246
+command: 89
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 0.246
+command: 94
+#
+name: Title_(DVD_Function)
+type: parsed
+protocol: nec
+address: 0.246
+command: 95
+#

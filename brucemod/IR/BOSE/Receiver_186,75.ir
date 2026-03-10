@@ -1,0 +1,807 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 1
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 186.75
+command: 1
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 2
+#
+name: VOL -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 3
+#
+name: VOL +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 3
+#
+name: INPUT - AM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 5
+#
+name: INP - AMFM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 6
+#
+name: AM/FM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 6
+#
+name: IPOD
+type: parsed
+protocol: nec
+address: 186.75
+command: 7
+#
+name: USB
+type: parsed
+protocol: nec
+address: 186.75
+command: 8
+#
+name: FRONT HDMI
+type: parsed
+protocol: nec
+address: 186.75
+command: 9
+#
+name: FRONT AV
+type: parsed
+protocol: nec
+address: 186.75
+command: 10
+#
+name: VCR
+type: parsed
+protocol: nec2
+address: 186.75
+command: 13
+#
+name: INP - TV
+type: parsed
+protocol: nec2
+address: 186.75
+command: 14
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 186.75
+command: 14
+#
+name: TV
+type: parsed
+protocol: nec
+address: 186.75
+command: 14
+#
+name: INP - AUX
+type: parsed
+protocol: nec2
+address: 186.75
+command: 15
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 186.75
+command: 15
+#
+name: IN 2
+type: parsed
+protocol: nec
+address: 186.75
+command: 18
+#
+name: IN 3
+type: parsed
+protocol: nec
+address: 186.75
+command: 19
+#
+name: LAST CHANNEL
+type: parsed
+protocol: nec
+address: 186.75
+command: 20
+#
+name: INP - CBL
+type: parsed
+protocol: nec2
+address: 186.75
+command: 21
+#
+name: SAT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 21
+#
+name: CABLE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 21
+#
+name: CBL/SAT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 21
+#
+name: IN 4
+type: parsed
+protocol: nec
+address: 186.75
+command: 21
+#
+name: CHAP/TRK -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 24
+#
+name: CHANNEL -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 24
+#
+name: CH -
+type: parsed
+protocol: nec
+address: 186.75
+command: 24
+#
+name: CHAP/TRK +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 25
+#
+name: CHANNEL +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 25
+#
+name: CH +
+type: parsed
+protocol: nec
+address: 186.75
+command: 25
+#
+name: TRANS - STOP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 26
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 26
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 186.75
+command: 26
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec2
+address: 186.75
+command: 32
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 186.75
+command: 32
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 37
+#
+name: FM
+type: parsed
+protocol: nec
+address: 186.75
+command: 37
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 40
+#
+name: AM
+type: parsed
+protocol: nec
+address: 186.75
+command: 40
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 48
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 186.75
+command: 48
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 186.75
+command: 48
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 186.75
+command: 64
+#
+name: 0
+type: parsed
+protocol: nec
+address: 186.75
+command: 64
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.75
+command: 65
+#
+name: 1
+type: parsed
+protocol: nec
+address: 186.75
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.75
+command: 66
+#
+name: 2
+type: parsed
+protocol: nec
+address: 186.75
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.75
+command: 67
+#
+name: 3
+type: parsed
+protocol: nec
+address: 186.75
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.75
+command: 68
+#
+name: 4
+type: parsed
+protocol: nec
+address: 186.75
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.75
+command: 69
+#
+name: 5
+type: parsed
+protocol: nec
+address: 186.75
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.75
+command: 70
+#
+name: 6
+type: parsed
+protocol: nec
+address: 186.75
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 186.75
+command: 71
+#
+name: 7
+type: parsed
+protocol: nec
+address: 186.75
+command: 71
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 186.75
+command: 72
+#
+name: 8
+type: parsed
+protocol: nec
+address: 186.75
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 186.75
+command: 73
+#
+name: 9
+type: parsed
+protocol: nec
+address: 186.75
+command: 73
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 186.75
+command: 76
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 186.75
+command: 76
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 186.75
+command: 76
+#
+name: MUTE ALL
+type: parsed
+protocol: nec
+address: 186.75
+command: 77
+#
+name: IN 5
+type: parsed
+protocol: nec
+address: 186.75
+command: 82
+#
+name: INP - CDDVD
+type: parsed
+protocol: nec2
+address: 186.75
+command: 83
+#
+name: DVD
+type: parsed
+protocol: nec2
+address: 186.75
+command: 83
+#
+name: CD/DVD
+type: parsed
+protocol: nec2
+address: 186.75
+command: 83
+#
+name: TRANS - PLAY
+type: parsed
+protocol: nec2
+address: 186.75
+command: 85
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 186.75
+command: 85
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 186.75
+command: 85
+#
+name: TRANS - PAUSE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 86
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 86
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 186.75
+command: 86
+#
+name: TRANS - SEEK <<
+type: parsed
+protocol: nec2
+address: 186.75
+command: 87
+#
+name: SEEK -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 87
+#
+name: SEEK/SCAN <<
+type: parsed
+protocol: nec2
+address: 186.75
+command: 87
+#
+name: REV
+type: parsed
+protocol: nec
+address: 186.75
+command: 87
+#
+name: TRANS - SEEK >>
+type: parsed
+protocol: nec2
+address: 186.75
+command: 88
+#
+name: SEEK +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 88
+#
+name: SEEK/SCAN >>
+type: parsed
+protocol: nec2
+address: 186.75
+command: 88
+#
+name: FF
+type: parsed
+protocol: nec
+address: 186.75
+command: 88
+#
+name: INPUT - FM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 89
+#
+name: REPLAY
+type: parsed
+protocol: nec
+address: 186.75
+command: 89
+#
+name: SKIP
+type: parsed
+protocol: nec
+address: 186.75
+command: 90
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 92
+#
+name: SHUFFLE
+type: parsed
+protocol: nec
+address: 186.75
+command: 93
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 96
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 96
+#
+name: CD #
+type: parsed
+protocol: nec2
+address: 186.75
+command: 99
+#
+name: INFO
+type: parsed
+protocol: nec2
+address: 186.75
+command: 100
+#
+name: ENCORE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 101
+#
+name: UMUSIC
+type: parsed
+protocol: nec2
+address: 186.75
+command: 102
+#
+name: WHOLE CD
+type: parsed
+protocol: nec2
+address: 186.75
+command: 103
+#
+name: PG DN
+type: parsed
+protocol: nec2
+address: 186.75
+command: 104
+#
+name: RATING -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 104
+#
+name: PAGE -
+type: parsed
+protocol: nec
+address: 186.75
+command: 104
+#
+name: PG UP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 105
+#
+name: RATING +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 105
+#
+name: PAGE +
+type: parsed
+protocol: nec
+address: 186.75
+command: 105
+#
+name: SYSTEM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 112
+#
+name: SYSTEM
+type: parsed
+protocol: nec
+address: 186.75
+command: 112
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 186.75
+command: 128
+#
+name: MORE
+type: parsed
+protocol: nec
+address: 186.75
+command: 128
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 186.75
+command: 140
+#
+name: ON
+type: parsed
+protocol: nec
+address: 186.75
+command: 140
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 186.75
+command: 144
+#
+name: DVD MENU
+type: parsed
+protocol: nec2
+address: 186.75
+command: 144
+#
+name: DVD MENU
+type: parsed
+protocol: nec
+address: 186.75
+command: 144
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 157
+#
+name: REPEAT
+type: parsed
+protocol: nec
+address: 186.75
+command: 157
+#
+name: PLAYLIST
+type: parsed
+protocol: nec2
+address: 186.75
+command: 159
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 160
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 160
+#
+name: ZOOM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 176
+#
+name: LIBRARY
+type: parsed
+protocol: nec2
+address: 186.75
+command: 176
+#
+name: STORED
+type: parsed
+protocol: nec2
+address: 186.75
+command: 179
+#
+name: IN 1
+type: parsed
+protocol: nec
+address: 186.75
+command: 179
+#
+name: ARROW UP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 192
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 192
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 186.75
+command: 204
+#
+name: OFF
+type: parsed
+protocol: nec
+address: 186.75
+command: 204
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 208
+#
+name: SOURCE
+type: parsed
+protocol: nec
+address: 186.75
+command: 211
+#
+name: ASPECT RATIO
+type: parsed
+protocol: nec
+address: 186.75
+command: 220
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 186.75
+command: 224
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec
+address: 186.75
+command: 224
+#
+name: NET 1
+type: parsed
+protocol: nec
+address: 186.75
+command: 245
+#
+name: NET 2
+type: parsed
+protocol: nec
+address: 186.75
+command: 246
+#

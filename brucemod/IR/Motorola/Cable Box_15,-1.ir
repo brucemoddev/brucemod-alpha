@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME -
+type: parsed
+protocol: rca_38
+address: 15
+command: 46
+#
+name: VOLUME +
+type: parsed
+protocol: rca_38
+address: 15
+command: 47
+#
+name: MUTE
+type: parsed
+protocol: rca_38
+address: 15
+command: 63
+#

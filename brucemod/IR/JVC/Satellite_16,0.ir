@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 26
+#
+name: TV
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 42
+#

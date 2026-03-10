@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 0
+#
+name: KEY_RADIO
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 5
+#
+name: KEY_SLEEP
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 16
+#
+name: KEY_AUX
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 17
+#
+name: bass
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 18
+#
+name: tuning
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 19
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 32
+#
+name: discskip
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 33
+#
+name: KEY_FORWARD
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 34
+#
+name: KEY_TAPE
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 38
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 48
+#
+name: fade
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 49
+#
+name: KEY_REWIND
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 50
+#
+name: timer
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 52
+#
+name: soudmode
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 64
+#
+name: KEY_CD
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 65
+#
+name: KEY_AGAIN
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 71
+#
+name: cdplay
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 81
+#
+name: program
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 83
+#
+name: fmam
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 96
+#
+name: tapeplay
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 97
+#

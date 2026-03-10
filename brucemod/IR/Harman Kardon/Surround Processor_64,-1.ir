@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ALL OFF
+type: parsed
+protocol: nec1
+address: 64
+command: 18
+#
+name: ALL ON
+type: parsed
+protocol: nec1
+address: 64
+command: 18
+#
+name: CHAN. +
+type: parsed
+protocol: nec1
+address: 64
+command: 27
+#
+name: CHAN.-
+type: parsed
+protocol: nec1
+address: 64
+command: 31
+#

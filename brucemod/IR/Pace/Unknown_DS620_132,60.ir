@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_5
+type: parsed
+protocol: nec
+address: 132.60
+command: 32
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 132.60
+command: 33
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 132.60
+command: 34
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 132.60
+command: 35
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 132.60
+command: 36
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 132.60
+command: 37
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 132.60
+command: 38
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 132.60
+command: 39
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 132.60
+command: 40
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 132.60
+command: 41
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 132.60
+command: 42
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 132.60
+command: 43
+#
+name: ?
+type: parsed
+protocol: nec
+address: 132.60
+command: 44
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 132.60
+command: 45
+#
+name: KEY_G
+type: parsed
+protocol: nec
+address: 132.60
+command: 46
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 132.60
+command: 48
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 132.60
+command: 49
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 132.60
+command: 50
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 132.60
+command: 51
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 132.60
+command: 52
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 132.60
+command: 53
+#
+name: BOX
+type: parsed
+protocol: nec
+address: 132.60
+command: 54
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 132.60
+command: 55
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 132.60
+command: 56
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 132.60
+command: 57
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 132.60
+command: 58
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 132.60
+command: 59
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 132.60
+command: 60
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 132.60
+command: 61
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 132.60
+command: 62
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 132.60
+command: 63
+#

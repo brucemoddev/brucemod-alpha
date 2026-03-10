@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: operate
+type: parsed
+protocol: sony15
+address: 68
+command: 21
+#
+name: function
+type: parsed
+protocol: sony15
+address: 68
+command: 71
+#
+name: band
+type: parsed
+protocol: sony15
+address: 100
+command: 111
+#
+name: play
+type: parsed
+protocol: sony15
+address: 100
+command: 51
+#
+name: rew
+type: parsed
+protocol: sony15
+address: 100
+command: 67
+#
+name: forw
+type: parsed
+protocol: sony15
+address: 100
+command: 68
+#
+name: stop
+type: parsed
+protocol: sony15
+address: 100
+command: 56
+#
+name: vol+
+type: parsed
+protocol: sony15
+address: 68
+command: 18
+#
+name: vol-
+type: parsed
+protocol: sony15
+address: 68
+command: 19
+#

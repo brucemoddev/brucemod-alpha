@@ -1,0 +1,537 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ALT
+type: parsed
+protocol: rca_old
+address: 15
+command: 3
+#
+name: CTR +
+type: parsed
+protocol: rca_old
+address: 15
+command: 3
+#
+name: GUIDE
+type: parsed
+protocol: rca_old
+address: 15
+command: 5
+#
+name: NEXT
+type: parsed
+protocol: rca_old
+address: 15
+command: 5
+#
+name: SOURCE
+type: parsed
+protocol: rca_old
+address: 15
+command: 5
+#
+name: SUB +
+type: parsed
+protocol: rca_old
+address: 15
+command: 5
+#
+name: PREV CH
+type: parsed
+protocol: rca_old
+address: 15
+command: 23
+#
+name: MENU
+type: parsed
+protocol: rca_old
+address: 15
+command: 24
+#
+name: EXIT
+type: parsed
+protocol: rca_old
+address: 15
+command: 39
+#
+name: FLASHBK
+type: parsed
+protocol: rca_old
+address: 15
+command: 39
+#
+name: POWER ON
+type: parsed
+protocol: rca_old
+address: 15
+command: 41
+#
+name: POWER
+type: parsed
+protocol: rca_old
+address: 15
+command: 42
+#
+name: OFF/ON
+type: parsed
+protocol: rca_old
+address: 15
+command: 42
+#
+name: POWER OFF
+type: parsed
+protocol: rca_old
+address: 15
+command: 42
+#
+name: CH -
+type: parsed
+protocol: rca_old
+address: 15
+command: 44
+#
+name: CH V
+type: parsed
+protocol: rca_old
+address: 15
+command: 44
+#
+name: CH +
+type: parsed
+protocol: rca_old
+address: 15
+command: 45
+#
+name: CH ^
+type: parsed
+protocol: rca_old
+address: 15
+command: 45
+#
+name: VOL -
+type: parsed
+protocol: rca_old
+address: 15
+command: 46
+#
+name: VOL V
+type: parsed
+protocol: rca_old
+address: 15
+command: 46
+#
+name: VOL +
+type: parsed
+protocol: rca_old
+address: 15
+command: 47
+#
+name: VOL ^
+type: parsed
+protocol: rca_old
+address: 15
+command: 47
+#
+name: 0
+type: parsed
+protocol: rca_old
+address: 15
+command: 48
+#
+name: 0 - DVI2
+type: parsed
+protocol: rca_old
+address: 15
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 49
+#
+name: 1 - COMPOSITE 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca_old
+address: 15
+command: 50
+#
+name: 2 - COMPOSITE 2
+type: parsed
+protocol: rca_old
+address: 15
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca_old
+address: 15
+command: 51
+#
+name: 3 - SVIDEO 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca_old
+address: 15
+command: 52
+#
+name: 4 - SVIDEO 2
+type: parsed
+protocol: rca_old
+address: 15
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca_old
+address: 15
+command: 53
+#
+name: 5 - COMPONENT 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca_old
+address: 15
+command: 54
+#
+name: 6 - COMPONENT 2
+type: parsed
+protocol: rca_old
+address: 15
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca_old
+address: 15
+command: 55
+#
+name: 7 - RGB1
+type: parsed
+protocol: rca_old
+address: 15
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca_old
+address: 15
+command: 56
+#
+name: 8 - RGB2
+type: parsed
+protocol: rca_old
+address: 15
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca_old
+address: 15
+command: 57
+#
+name: 9 - DVI 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 57
+#
+name: +10
+type: parsed
+protocol: rca_old
+address: 15
+command: 58
+#
+name: CURSOR UP
+type: parsed
+protocol: rca_old
+address: 15
+command: 59
+#
+name: SELECT ^
+type: parsed
+protocol: rca_old
+address: 15
+command: 59
+#
+name: ARROW UP
+type: parsed
+protocol: rca_old
+address: 15
+command: 59
+#
+name: UP
+type: parsed
+protocol: rca_old
+address: 15
+command: 59
+#
+name: ENTER
+type: parsed
+protocol: rca_old
+address: 15
+command: 60
+#
+name: MUTE
+type: parsed
+protocol: rca_old
+address: 15
+command: 63
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rca_old
+address: 15
+command: 100
+#
+name: ADJ <
+type: parsed
+protocol: rca_old
+address: 15
+command: 100
+#
+name: ARROW LEFT
+type: parsed
+protocol: rca_old
+address: 15
+command: 100
+#
+name: LEFT
+type: parsed
+protocol: rca_old
+address: 15
+command: 100
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rca_old
+address: 15
+command: 101
+#
+name: ADJ >
+type: parsed
+protocol: rca_old
+address: 15
+command: 101
+#
+name: ARROW RIGHT
+type: parsed
+protocol: rca_old
+address: 15
+command: 101
+#
+name: RIGHT
+type: parsed
+protocol: rca_old
+address: 15
+command: 101
+#
+name: SELECT
+type: parsed
+protocol: rca_old
+address: 15
+command: 102
+#
+name: MENU
+type: parsed
+protocol: rca_old
+address: 15
+command: 115
+#
+name: EXIT
+type: parsed
+protocol: rca_old
+address: 15
+command: 116
+#
+name: OFF
+type: parsed
+protocol: rca_old
+address: 15
+command: 117
+#
+name: SOURCE
+type: parsed
+protocol: rca_old
+address: 15
+command: 118
+#
+name: ON
+type: parsed
+protocol: rca_old
+address: 15
+command: 119
+#
+name: 0
+type: parsed
+protocol: rca_old
+address: 15
+command: 124
+#
+name: 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 125
+#
+name: 2
+type: parsed
+protocol: rca_old
+address: 15
+command: 126
+#
+name: 3
+type: parsed
+protocol: rca_old
+address: 15
+command: 127
+#
+name: 4
+type: parsed
+protocol: rca_old
+address: 15
+command: 128
+#
+name: 5
+type: parsed
+protocol: rca_old
+address: 15
+command: 129
+#
+name: 6
+type: parsed
+protocol: rca_old
+address: 15
+command: 130
+#
+name: 7
+type: parsed
+protocol: rca_old
+address: 15
+command: 131
+#
+name: 8
+type: parsed
+protocol: rca_old
+address: 15
+command: 132
+#
+name: 9
+type: parsed
+protocol: rca_old
+address: 15
+command: 133
+#
+name: UP
+type: parsed
+protocol: rca_old
+address: 15
+command: 135
+#
+name: LEFT
+type: parsed
+protocol: rca_old
+address: 15
+command: 138
+#
+name: RIGHT
+type: parsed
+protocol: rca_old
+address: 15
+command: 139
+#
+name: ENTER
+type: parsed
+protocol: rca_old
+address: 15
+command: 140
+#
+name: DOWN
+type: parsed
+protocol: rca_old
+address: 15
+command: 141
+#
+name: INFO
+type: parsed
+protocol: rca_old
+address: 15
+command: 142
+#
+name: GUIDE
+type: parsed
+protocol: rca_old
+address: 15
+command: 143
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rca_old
+address: 15
+command: 176
+#
+name: SELECT V
+type: parsed
+protocol: rca_old
+address: 15
+command: 176
+#
+name: ARROW DN
+type: parsed
+protocol: rca_old
+address: 15
+command: 176
+#
+name: DOWN
+type: parsed
+protocol: rca_old
+address: 15
+command: 176
+#
+name: INFO
+type: parsed
+protocol: rca_old
+address: 15
+command: 225
+#
+name: MODE +
+type: parsed
+protocol: rca_old
+address: 15
+command: 225
+#
+name: FAV
+type: parsed
+protocol: rca_old
+address: 15
+command: 226
+#
+name: GUIDE
+type: parsed
+protocol: rca_old
+address: 15
+command: 226
+#
+name: SCREEN R
+type: parsed
+protocol: rca_old
+address: 15
+command: 226
+#

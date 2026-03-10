@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2 CH
+type: parsed
+protocol: sony15
+address: 176
+command: 65
+#
+name: AFD
+type: parsed
+protocol: sony15
+address: 176
+command: 66
+#
+name: MOVIE
+type: parsed
+protocol: sony15
+address: 176
+command: 67
+#
+name: MUSIC
+type: parsed
+protocol: sony15
+address: 176
+command: 73
+#
+name: TEST TONE
+type: parsed
+protocol: sony15
+address: 176
+command: 74
+#
+name: BASS BOOST
+type: parsed
+protocol: sony15
+address: 176
+command: 77
+#
+name: BASS UP
+type: parsed
+protocol: sony15
+address: 176
+command: 80
+#
+name: BASS DOWN
+type: parsed
+protocol: sony15
+address: 176
+command: 81
+#
+name: TREB UP
+type: parsed
+protocol: sony15
+address: 176
+command: 86
+#
+name: TREB DOWN
+type: parsed
+protocol: sony15
+address: 176
+command: 87
+#
+name: SHIFT
+type: parsed
+protocol: sony15
+address: 176
+command: 113
+#

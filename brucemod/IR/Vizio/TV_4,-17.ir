@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: Input
+type: parsed
+protocol: nec
+address: 4
+command: 47
+#
+name: VUDU
+type: parsed
+protocol: nec
+address: 4
+command: 236
+#
+name: NETFLIX
+type: parsed
+protocol: nec
+address: 4
+command: 235
+#
+name: PRIME_VIDEO
+type: parsed
+protocol: nec
+address: 4
+command: 234
+#
+name: XUMO
+type: parsed
+protocol: nec
+address: 4
+command: 111
+#
+name: HULU
+type: parsed
+protocol: nec
+address: 4
+command: 249
+#
+name: REDBOX
+type: parsed
+protocol: nec
+address: 4
+command: 66
+#
+name: Exit
+type: parsed
+protocol: nec
+address: 4
+command: 73
+#
+name: Menu
+type: parsed
+protocol: nec
+address: 4
+command: 79
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4
+command: 69
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4
+command: 71
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4
+command: 72
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4
+command: 70
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4
+command: 74
+#
+name: Info
+type: parsed
+protocol: nec
+address: 4
+command: 27
+#
+name: WATCHFREE
+type: parsed
+protocol: nec
+address: 4
+command: 247
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: home
+type: parsed
+protocol: nec
+address: 4
+command: 45
+#
+name: cc
+type: parsed
+protocol: nec
+address: 4
+command: 57
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: return
+type: parsed
+protocol: nec
+address: 4
+command: 26
+#
+name: 1
+type: parsed
+protocol: nec
+address: 4
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec
+address: 4
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec
+address: 4
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec
+address: 4
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec
+address: 4
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec
+address: 4
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec
+address: 4
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec
+address: 4
+command: 25
+#
+name: 0
+type: parsed
+protocol: nec
+address: 4
+command: 16
+#
+name: PIC
+type: parsed
+protocol: nec
+address: 4
+command: 103
+#
+name: -
+type: parsed
+protocol: nec
+address: 4
+command: 255
+#

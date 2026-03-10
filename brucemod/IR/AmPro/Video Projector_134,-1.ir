@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: fujitsu
+address: 134
+command: 0
+#
+name: VIDEO 1
+type: parsed
+protocol: fujitsu
+address: 134
+command: 5
+#
+name: VIDEO 2
+type: parsed
+protocol: fujitsu
+address: 134
+command: 6
+#
+name: RGB1
+type: parsed
+protocol: fujitsu
+address: 134
+command: 8
+#
+name: O.S.D.
+type: parsed
+protocol: fujitsu
+address: 134
+command: 10
+#
+name: SVIDEO 1
+type: parsed
+protocol: fujitsu
+address: 134
+command: 13
+#
+name: SVIDEO 2
+type: parsed
+protocol: fujitsu
+address: 134
+command: 14
+#
+name: INPUT MODE STATUS
+type: parsed
+protocol: fujitsu
+address: 134
+command: 16
+#
+name: FOCUS ^
+type: parsed
+protocol: fujitsu
+address: 134
+command: 21
+#
+name: FOCUS V
+type: parsed
+protocol: fujitsu
+address: 134
+command: 22
+#
+name: ZOOM ^
+type: parsed
+protocol: fujitsu
+address: 134
+command: 23
+#
+name: ZOOM V
+type: parsed
+protocol: fujitsu
+address: 134
+command: 24
+#
+name: ADJUST MODE PICTURE
+type: parsed
+protocol: fujitsu
+address: 134
+command: 32
+#
+name: INPUT MODE
+type: parsed
+protocol: fujitsu
+address: 134
+command: 33
+#
+name: ADJUST MODE STAND
+type: parsed
+protocol: fujitsu
+address: 134
+command: 36
+#
+name: ADJUST MODE FUNCTION
+type: parsed
+protocol: fujitsu
+address: 134
+command: 48
+#
+name: VOLUME V
+type: parsed
+protocol: fujitsu
+address: 134
+command: 49
+#
+name: MUTE
+type: parsed
+protocol: fujitsu
+address: 134
+command: 50
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 134
+command: 64
+#
+name: ADJUST MODE <
+type: parsed
+protocol: fujitsu
+address: 134
+command: 65
+#
+name: >
+type: parsed
+protocol: fujitsu
+address: 134
+command: 65
+#
+name: ADJUST MODE >
+type: parsed
+protocol: fujitsu
+address: 134
+command: 66
+#
+name: <
+type: parsed
+protocol: fujitsu
+address: 134
+command: 66
+#
+name: VOLUME ^
+type: parsed
+protocol: fujitsu
+address: 134
+command: 81
+#
+name: SET
+type: parsed
+protocol: fujitsu
+address: 134
+command: 91
+#

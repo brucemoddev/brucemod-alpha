@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: necx2
+address: 9.9
+command: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: necx2
+address: 9.9
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: necx2
+address: 9.9
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: necx2
+address: 9.9
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: necx2
+address: 9.9
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: necx2
+address: 9.9
+command: 8
+#
+name: KEY_5
+type: parsed
+protocol: necx2
+address: 9.9
+command: 9
+#
+name: KEY_6
+type: parsed
+protocol: necx2
+address: 9.9
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: necx2
+address: 9.9
+command: 12
+#
+name: KEY_8
+type: parsed
+protocol: necx2
+address: 9.9
+command: 13
+#
+name: KEY_9
+type: parsed
+protocol: necx2
+address: 9.9
+command: 14
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: necx2
+address: 9.9
+command: 16
+#
+name: KEY_0
+type: parsed
+protocol: necx2
+address: 9.9
+command: 17
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: necx2
+address: 9.9
+command: 18
+#
+name: PRE-CH
+type: parsed
+protocol: necx2
+address: 9.9
+command: 19
+#
+name: KEY_MENU
+type: parsed
+protocol: necx2
+address: 9.9
+command: 26
+#
+name: KEY_INFO
+type: parsed
+protocol: necx2
+address: 9.9
+command: 31
+#
+name: KEY_EXIT
+type: parsed
+protocol: necx2
+address: 9.9
+command: 45
+#
+name: P.SIZE
+type: parsed
+protocol: necx2
+address: 9.9
+command: 62
+#
+name: KEY_REWIND
+type: parsed
+protocol: necx2
+address: 9.9
+command: 69
+#
+name: KEY_STOP
+type: parsed
+protocol: necx2
+address: 9.9
+command: 70
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: necx2
+address: 9.9
+command: 71
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: necx2
+address: 9.9
+command: 72
+#
+name: KEY_RECORD
+type: parsed
+protocol: necx2
+address: 9.9
+command: 73
+#
+name: KEY_INFO
+type: parsed
+protocol: necx2
+address: 9.9
+command: 79
+#
+name: KEY_UP
+type: parsed
+protocol: necx2
+address: 9.9
+command: 96
+#
+name: KEY_DOWN
+type: parsed
+protocol: necx2
+address: 9.9
+command: 97
+#
+name: KEY_RIGHT
+type: parsed
+protocol: necx2
+address: 9.9
+command: 98
+#
+name: KEY_LEFT
+type: parsed
+protocol: necx2
+address: 9.9
+command: 101
+#
+name: KEY_OK
+type: parsed
+protocol: necx2
+address: 9.9
+command: 104
+#

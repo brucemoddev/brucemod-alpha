@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET UP
+type: parsed
+protocol: sony12
+address: 7
+command: 16
+#
+name: PRESET DOWN
+type: parsed
+protocol: sony12
+address: 7
+command: 17
+#

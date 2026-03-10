@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 240
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 241
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 130.114
+command: 242
+#
+name: FAST FOWARD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 243
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 130.114
+command: 244
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 245
+#
+name: SCROLL FOWARD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 246
+#
+name: SCROLL BACK
+type: parsed
+protocol: nec2
+address: 130.114
+command: 247
+#

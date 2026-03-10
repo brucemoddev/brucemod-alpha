@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SURR REAR ON/OFF(-)
+type: parsed
+protocol: jvc
+address: 163
+command: 5
+#
+name: FM/AM
+type: parsed
+protocol: jvc
+address: 163
+command: 11
+#
+name: TV SOUND
+type: parsed
+protocol: jvc
+address: 163
+command: 16
+#
+name: VCR
+type: parsed
+protocol: jvc
+address: 163
+command: 17
+#
+name: AUDIO POWER
+type: parsed
+protocol: jvc
+address: 163
+command: 23
+#
+name: FADE MUTE
+type: parsed
+protocol: jvc
+address: 163
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: jvc
+address: 163
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: jvc
+address: 163
+command: 31
+#
+name: FM/AM 1
+type: parsed
+protocol: jvc
+address: 163
+command: 33
+#
+name: FM/AM 2
+type: parsed
+protocol: jvc
+address: 163
+command: 34
+#
+name: FM/AM 3
+type: parsed
+protocol: jvc
+address: 163
+command: 35
+#
+name: FM/AM 4
+type: parsed
+protocol: jvc
+address: 163
+command: 36
+#
+name: FM/AM 5
+type: parsed
+protocol: jvc
+address: 163
+command: 37
+#
+name: FM/AM 6
+type: parsed
+protocol: jvc
+address: 163
+command: 38
+#
+name: FM/AM 7/P
+type: parsed
+protocol: jvc
+address: 163
+command: 39
+#
+name: FM/AM 8
+type: parsed
+protocol: jvc
+address: 163
+command: 40
+#
+name: FM/AM 9
+type: parsed
+protocol: jvc
+address: 163
+command: 41
+#
+name: FM/AM 10
+type: parsed
+protocol: jvc
+address: 163
+command: 42
+#
+name: FM/AM 10+
+type: parsed
+protocol: jvc
+address: 163
+command: 47
+#
+name: PHONO
+type: parsed
+protocol: jvc
+address: 163
+command: 60
+#
+name: CD
+type: parsed
+protocol: jvc
+address: 163
+command: 61
+#
+name: TAPE
+type: parsed
+protocol: jvc
+address: 163
+command: 63
+#
+name: SURR DELAY (+)
+type: parsed
+protocol: jvc
+address: 163
+command: 72
+#
+name: SURR CENTER MODE (-)
+type: parsed
+protocol: jvc
+address: 163
+command: 88
+#
+name: SURR TEST (+)
+type: parsed
+protocol: jvc
+address: 163
+command: 215
+#

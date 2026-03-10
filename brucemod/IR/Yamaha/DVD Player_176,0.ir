@@ -1,0 +1,525 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 0
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 1
+#
+name: SEARCH <<
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 4
+#
+name: SCAN <<
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 4
+#
+name: SEARCH >>
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 5
+#
+name: SCAN >>
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 5
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 6
+#
+name: SLOW MOTION -
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 7
+#
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 10
+#
+name: SLOW MOTION +
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 15
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 25
+#
+name: AUDIO MODE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 51
+#
+name: AUDIO
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 51
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 61
+#
+name: POWER ON/OFF
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 61
+#
+name: POWER ON
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 62
+#
+name: POWER OFF
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 63
+#
+name: POS. MEMO
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 70
+#
+name: SIDE A/B
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 72
+#
+name: REPEAT A-B
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 72
+#
+name: A-B
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 72
+#
+name: SEARCH <<
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 73
+#
+name: SKIP <<
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 73
+#
+name: SKIP [<<
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 73
+#
+name: CHAPTER <<
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 73
+#
+name: SEARCH >>
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 74
+#
+name: SKIP >>
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 74
+#
+name: SKIP >>]
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 74
+#
+name: CHAPTER >>
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 74
+#
+name: RANDOM
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 77
+#
+name: MENU
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 128
+#
+name: MENU/PLAY LIST
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 128
+#
+name: RETURN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 129
+#
+name: ENTER
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 130
+#
+name: SELECT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 130
+#
+name: CANCEL
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 131
+#
+name: MENU UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 133
+#
+name: CURSER UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 133
+#
+name: CURSOR UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 133
+#
+name: UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 133
+#
+name: MENU DOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 134
+#
+name: CURSER DOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 134
+#
+name: CURSOR DOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 134
+#
+name: DOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 134
+#
+name: MENU LEFT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 135
+#
+name: CURSER LEFT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 135
+#
+name: CURSOR LEFT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 135
+#
+name: LEFT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 135
+#
+name: MENU RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: CURSER RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: +10
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 137
+#
+name: >10
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 137
+#
+name: PROGRAM
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 138
+#
+name: REPEAT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 140
+#
+name: PLAY MODE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 141
+#
+name: MARKER
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 142
+#
+name: ANGLE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 144
+#
+name: 
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 144
+#
+name: SUBTITLE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 145
+#
+name: SUB-TITLE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 145
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 146
+#
+name: ON SCREEN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 146
+#
+name: SET UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 148
+#
+name: SET-UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 148
+#
+name: SETUP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 148
+#
+name: TITLE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 155
+#
+name: TOP MENU
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 155
+#
+name: TOP MENU/DIR NAVI
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 155
+#
+name: V.S.S.
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 158
+#
+name: VSS
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 158
+#
+name: 
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 158
+#
+name: ZOOM
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 193
+#
+name: GROUP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 224
+#
+name: VIDEO OFF
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 225
+#
+name: PAGE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 229
+#
+name: CINEMA
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 229
+#

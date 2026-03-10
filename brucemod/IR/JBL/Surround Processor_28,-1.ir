@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SET UP
+type: parsed
+protocol: denon
+address: 28
+command: 131
+#
+name: ON/OFF
+type: parsed
+protocol: denon
+address: 28
+command: 132
+#
+name: STORE
+type: parsed
+protocol: denon
+address: 28
+command: 135
+#
+name: PANORAMA NORMAL(1)
+type: parsed
+protocol: denon
+address: 28
+command: 137
+#
+name: PANORAMA WIDE(2)
+type: parsed
+protocol: denon
+address: 28
+command: 138
+#
+name: PANORAMA BINAURAL(3)
+type: parsed
+protocol: denon
+address: 28
+command: 139
+#
+name: BANK
+type: parsed
+protocol: denon
+address: 28
+command: 140
+#
+name: AMBIENCE SMALL(4)
+type: parsed
+protocol: denon
+address: 28
+command: 141
+#
+name: AMBIENCE MEDIUM(5)
+type: parsed
+protocol: denon
+address: 28
+command: 142
+#
+name: AMBIENCE LARGE(6)
+type: parsed
+protocol: denon
+address: 28
+command: 143
+#
+name: PARAM
+type: parsed
+protocol: denon
+address: 28
+command: 144
+#
+name: REVERB SMALL(7)
+type: parsed
+protocol: denon
+address: 28
+command: 145
+#
+name: REVERB MEDIUM(8)
+type: parsed
+protocol: denon
+address: 28
+command: 146
+#
+name: REVERB LARGE(9)
+type: parsed
+protocol: denon
+address: 28
+command: 147
+#
+name: ^
+type: parsed
+protocol: denon
+address: 28
+command: 148
+#
+name: SRND TV(10)
+type: parsed
+protocol: denon
+address: 28
+command: 149
+#
+name: SRND MUSIC(11)
+type: parsed
+protocol: denon
+address: 28
+command: 150
+#
+name: SRND FULL(12)
+type: parsed
+protocol: denon
+address: 28
+command: 151
+#
+name: V
+type: parsed
+protocol: denon
+address: 28
+command: 152
+#
+name: SRND MONO(13)
+type: parsed
+protocol: denon
+address: 28
+command: 153
+#
+name: SRND PRO-LOGIC(14)
+type: parsed
+protocol: denon
+address: 28
+command: 154
+#
+name: SRND THX CINEMA(15)
+type: parsed
+protocol: denon
+address: 28
+command: 155
+#
+name: BALANCE ^
+type: parsed
+protocol: denon
+address: 28
+command: 158
+#
+name: VOLUME ^
+type: parsed
+protocol: denon
+address: 28
+command: 160
+#
+name: BALANCE <
+type: parsed
+protocol: denon
+address: 28
+command: 161
+#
+name: BALANCE >
+type: parsed
+protocol: denon
+address: 28
+command: 163
+#
+name: VOLUME V
+type: parsed
+protocol: denon
+address: 28
+command: 164
+#
+name: BALANCE V
+type: parsed
+protocol: denon
+address: 28
+command: 166
+#
+name: EFFECTS V
+type: parsed
+protocol: denon
+address: 28
+command: 169
+#
+name: EFFECTS ^
+type: parsed
+protocol: denon
+address: 28
+command: 170
+#
+name: EFX MUTE
+type: parsed
+protocol: denon
+address: 28
+command: 171
+#
+name: MAIN MUTE
+type: parsed
+protocol: denon
+address: 28
+command: 172
+#
+name: INPUT 1
+type: parsed
+protocol: denon
+address: 28
+command: 173
+#
+name: INPUT 2
+type: parsed
+protocol: denon
+address: 28
+command: 174
+#
+name: INPUT 3
+type: parsed
+protocol: denon
+address: 28
+command: 175
+#
+name: INPUT 4
+type: parsed
+protocol: denon
+address: 28
+command: 176
+#

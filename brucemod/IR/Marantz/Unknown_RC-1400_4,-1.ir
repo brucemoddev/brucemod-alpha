@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc6
+address: 4
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc6
+address: 4
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc6
+address: 4
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc6
+address: 4
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc6
+address: 4
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc6
+address: 4
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc6
+address: 4
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc6
+address: 4
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc6
+address: 4
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc6
+address: 4
+command: 9
+#
+name: KEY_MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 15
+#
+name: SHUFFLE
+type: parsed
+protocol: rc6
+address: 4
+command: 28
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc6
+address: 4
+command: 29
+#
+name: SKIP-FORWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: SKIP-BACK
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: KEY_BACK
+type: parsed
+protocol: rc6
+address: 4
+command: 34
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc6
+address: 4
+command: 41
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: KEY_STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: KEY_CLEAR
+type: parsed
+protocol: rc6
+address: 4
+command: 58
+#
+name: A/B
+type: parsed
+protocol: rc6
+address: 4
+command: 59
+#
+name: TRAY
+type: parsed
+protocol: rc6
+address: 4
+command: 66
+#
+name: MEMO
+type: parsed
+protocol: rc6
+address: 4
+command: 69
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: KEY_AUDIO
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: KEY_3-D
+type: parsed
+protocol: rc6
+address: 4
+command: 82
+#
+name: KEY_MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 84
+#
+name: KEY_UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: KEY_TITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: KEY_0+
+type: parsed
+protocol: rc6
+address: 4
+command: 120
+#
+name: KEY_SETUP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 4
+command: 131
+#
+name: KEY_ANGLE
+type: parsed
+protocol: rc6
+address: 4
+command: 133
+#
+name: T/C
+type: parsed
+protocol: rc6
+address: 4
+command: 200
+#
+name: KEY_INFO
+type: parsed
+protocol: rc6
+address: 4
+command: 209
+#
+name: L-PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 215
+#
+name: KEY_ZOOM
+type: parsed
+protocol: rc6
+address: 4
+command: 247
+#

@@ -1,0 +1,543 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 8
+type: parsed
+protocol: nec1
+address: 80
+command: 4
+#
+name: TV 8
+type: parsed
+protocol: nec1
+address: 80
+command: 4
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 80
+command: 5
+#
+name: TV 9
+type: parsed
+protocol: nec1
+address: 80
+command: 5
+#
+name: 100 ENTER
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: 100
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: VTR/TV 100
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: VTR/TV SA
+type: parsed
+protocol: nec1
+address: 80
+command: 8
+#
+name: AVX
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: VCR AVX
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: VTR/TV AVX
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: LAST CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: VCR LST-CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: LAST CHANNEL
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: LST-CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: VTR/TV LST-CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: TV PREV CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 80
+command: 12
+#
+name: TV 0
+type: parsed
+protocol: nec1
+address: 80
+command: 12
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 80
+command: 13
+#
+name: TV 1
+type: parsed
+protocol: nec1
+address: 80
+command: 13
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 80
+command: 14
+#
+name: TV 2
+type: parsed
+protocol: nec1
+address: 80
+command: 14
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 80
+command: 15
+#
+name: TV 3
+type: parsed
+protocol: nec1
+address: 80
+command: 15
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: VCR RECALL
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: VTR/TV RECALL
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: VTR/TV OFF-TIMER
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 80
+command: 20
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: TV POWER
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: CHANNEL V
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: TV CH V
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: TV CHANNEL V
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL ^
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: TV CH ^
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: VTR/TV SURROUND
+type: parsed
+protocol: nec1
+address: 80
+command: 27
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 80
+command: 28
+#
+name: TV 4
+type: parsed
+protocol: nec1
+address: 80
+command: 28
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 80
+command: 29
+#
+name: TV 5
+type: parsed
+protocol: nec1
+address: 80
+command: 29
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 80
+command: 30
+#
+name: TV 6
+type: parsed
+protocol: nec1
+address: 80
+command: 30
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 80
+command: 31
+#
+name: TV 7
+type: parsed
+protocol: nec1
+address: 80
+command: 31
+#
+name: VCR ENTER
+type: parsed
+protocol: nec1
+address: 80
+command: 51
+#
+name: C.S. (MOUSE)
+type: parsed
+protocol: nec1
+address: 80
+command: 60
+#
+name: PIPC
+type: parsed
+protocol: nec1
+address: 80
+command: 76
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 80
+command: 83
+#
+name: VCR MENU
+type: parsed
+protocol: nec1
+address: 80
+command: 83
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 80
+command: 83
+#
+name: POSITION (H)
+type: parsed
+protocol: nec1
+address: 80
+command: 88
+#
+name: POSITION (V)
+type: parsed
+protocol: nec1
+address: 80
+command: 89
+#
+name: SIZE (H)
+type: parsed
+protocol: nec1
+address: 80
+command: 90
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 80
+command: 91
+#
+name: VTR/TV RESET
+type: parsed
+protocol: nec1
+address: 80
+command: 91
+#
+name: +
+type: parsed
+protocol: nec1
+address: 80
+command: 92
+#
+name: VTR/TV +
+type: parsed
+protocol: nec1
+address: 80
+command: 92
+#
+name: -
+type: parsed
+protocol: nec1
+address: 80
+command: 93
+#
+name: VTR/TV -
+type: parsed
+protocol: nec1
+address: 80
+command: 93
+#
+name: PICTURE
+type: parsed
+protocol: nec1
+address: 80
+command: 94
+#
+name: VTR/TV P/S MODE
+type: parsed
+protocol: nec1
+address: 80
+command: 94
+#
+name: SOUND
+type: parsed
+protocol: nec1
+address: 80
+command: 95
+#
+name: SIZE (V)
+type: parsed
+protocol: nec1
+address: 80
+command: 97
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 80
+command: 100
+#
+name: VCR ^
+type: parsed
+protocol: nec1
+address: 80
+command: 112
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 80
+command: 112
+#
+name: VCR V
+type: parsed
+protocol: nec1
+address: 80
+command: 113
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 113
+#
+name: VCR >
+type: parsed
+protocol: nec1
+address: 80
+command: 114
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 80
+command: 114
+#
+name: VCR <
+type: parsed
+protocol: nec1
+address: 80
+command: 115
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 80
+command: 115
+#

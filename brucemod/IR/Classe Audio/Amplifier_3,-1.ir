@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 8
+#
+name: ON T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 8
+#
+name: OFF T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 9
+#
+name: OFF T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 9
+#
+name: AMP4 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 24
+#
+name: AMP4 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 24
+#
+name: AMP3 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 25
+#
+name: AMP3 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 25
+#
+name: AMP2 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 26
+#
+name: AMP2 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 26
+#
+name: AMP1 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 27
+#
+name: AMP1 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 27
+#
+name: AMP6 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 34
+#
+name: AMP6 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 34
+#
+name: AMP5 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 35
+#
+name: AMP5 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 35
+#

@@ -1,0 +1,465 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU +
+type: parsed
+protocol: nec1
+address: 130.11
+command: 1
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 130.11
+command: 1
+#
+name: OSD OFF
+type: parsed
+protocol: nec1
+address: 130.11
+command: 2
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 4
+#
+name: BALANCE REAR
+type: parsed
+protocol: nec1
+address: 130.11
+command: 5
+#
+name: OSD ON
+type: parsed
+protocol: nec1
+address: 130.11
+command: 5
+#
+name: BALANCE LEFT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 6
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 8
+#
+name: DONE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 10
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 12
+#
+name: INPUT:TAPE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 12
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 130.11
+command: 13
+#
+name: INPUT:TUNER
+type: parsed
+protocol: nec1
+address: 130.11
+command: 13
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 130.11
+command: 14
+#
+name: INPUT:CD
+type: parsed
+protocol: nec1
+address: 130.11
+command: 14
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 130.11
+command: 15
+#
+name: INPUT:AUX
+type: parsed
+protocol: nec1
+address: 130.11
+command: 15
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 130.11
+command: 16
+#
+name: INPUT:TV
+type: parsed
+protocol: nec1
+address: 130.11
+command: 16
+#
+name: VIDEO DISC
+type: parsed
+protocol: nec1
+address: 130.11
+command: 17
+#
+name: INPUT:V DISC
+type: parsed
+protocol: nec1
+address: 130.11
+command: 17
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 130.11
+command: 18
+#
+name: INPUT:DVD
+type: parsed
+protocol: nec1
+address: 130.11
+command: 18
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 130.11
+command: 19
+#
+name: INPUT:VCR
+type: parsed
+protocol: nec1
+address: 130.11
+command: 19
+#
+name: RECORD ZONE II
+type: parsed
+protocol: nec1
+address: 130.11
+command: 20
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 21
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 130.11
+command: 22
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 130.11
+command: 23
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 130.11
+command: 24
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 130.11
+command: 25
+#
+name: EFFECT +
+type: parsed
+protocol: nec1
+address: 130.11
+command: 26
+#
+name: FX UP
+type: parsed
+protocol: nec1
+address: 130.11
+command: 26
+#
+name: EFFECT -
+type: parsed
+protocol: nec1
+address: 130.11
+command: 27
+#
+name: FS DOWN
+type: parsed
+protocol: nec1
+address: 130.11
+command: 27
+#
+name: MENU -
+type: parsed
+protocol: nec1
+address: 130.11
+command: 29
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 130.11
+command: 29
+#
+name: BALANCE FRONT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 30
+#
+name: EFFECT BYPASS
+type: parsed
+protocol: nec1
+address: 130.11
+command: 31
+#
+name: DOLBY PRO LOGIC
+type: parsed
+protocol: nec1
+address: 130.11
+command: 32
+#
+name: THX CINEMA
+type: parsed
+protocol: nec1
+address: 130.11
+command: 33
+#
+name: LOGIC 7
+type: parsed
+protocol: nec1
+address: 130.11
+command: 34
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 130.11
+command: 35
+#
+name: 2 CHANNEL STEREO
+type: parsed
+protocol: nec1
+address: 130.11
+command: 36
+#
+name: PARTY
+type: parsed
+protocol: nec1
+address: 130.11
+command: 37
+#
+name: TV M
+type: parsed
+protocol: nec1
+address: 130.11
+command: 38
+#
+name: MUSIC
+type: parsed
+protocol: nec1
+address: 130.11
+command: 39
+#
+name: ZONE 2:TAPE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 76
+#
+name: ZONE 2:TUNER
+type: parsed
+protocol: nec1
+address: 130.11
+command: 77
+#
+name: ZONE 2:CD
+type: parsed
+protocol: nec1
+address: 130.11
+command: 78
+#
+name: ZONE 2:AUX
+type: parsed
+protocol: nec1
+address: 130.11
+command: 79
+#
+name: ZONE 2:TV
+type: parsed
+protocol: nec1
+address: 130.11
+command: 80
+#
+name: ZONE 2:V DISC
+type: parsed
+protocol: nec1
+address: 130.11
+command: 81
+#
+name: ZONE 2:DVD
+type: parsed
+protocol: nec1
+address: 130.11
+command: 82
+#
+name: ZONE 2:VCR
+type: parsed
+protocol: nec1
+address: 130.11
+command: 83
+#
+name: +5DB
+type: parsed
+protocol: nec1
+address: 130.11
+command: 132
+#
+name: REMOTE TRIGGER OFF
+type: parsed
+protocol: nec1
+address: 130.11
+command: 133
+#
+name: -5DB
+type: parsed
+protocol: nec1
+address: 130.11
+command: 134
+#
+name: DEACTIVATE ZONE 2
+type: parsed
+protocol: nec1
+address: 130.11
+command: 136
+#
+name: U R HERE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 138
+#
+name: ACCY + TAPE MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 140
+#
+name: ACCY + TUNER MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 141
+#
+name: ACCY + CD MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 142
+#
+name: ACCY + AUX MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 143
+#
+name: ACCY + TV MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 144
+#
+name: ACCY + V DISC MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 145
+#
+name: ACCY + VCR2 MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 146
+#
+name: ACCY + VCR1 MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 147
+#
+name: ZONE 2 MODE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 148
+#
+name: FULL MUTE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 149
+#
+name: TREBLE -
+type: parsed
+protocol: nec1
+address: 130.11
+command: 150
+#
+name: TREBLE +
+type: parsed
+protocol: nec1
+address: 130.11
+command: 151
+#
+name: OSD ON
+type: parsed
+protocol: nec1
+address: 130.11
+command: 152
+#
+name: OSD OFF
+type: parsed
+protocol: nec1
+address: 130.11
+command: 153
+#
+name: BASS +
+type: parsed
+protocol: nec1
+address: 130.11
+command: 154
+#
+name: BASS -
+type: parsed
+protocol: nec1
+address: 130.11
+command: 155
+#
+name: REMOTE TRIGGER ON
+type: parsed
+protocol: nec1
+address: 130.11
+command: 158
+#

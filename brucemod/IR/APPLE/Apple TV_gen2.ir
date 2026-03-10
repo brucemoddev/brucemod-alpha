@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Menu
+type: parsed
+protocol: nec2
+address: 238.135
+command: 2
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec2
+address: 238.135
+command: 94
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 238.135
+command: 11
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 238.135
+command: 13
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 238.135
+command: 8
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 238.135
+command: 7
+#
+name: C ENTER
+type: parsed
+protocol: nec2
+address: 238.135
+command: 4
+#
+name: REBOOT
+type: parsed
+protocol: nec2
+address: 238.135
+command: 24
+#

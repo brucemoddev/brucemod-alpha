@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: mce
+address: 2.22
+command: 0
+#
+name: 2
+type: parsed
+protocol: mce
+address: 2.22
+command: 2
+#
+name: 4
+type: parsed
+protocol: mce
+address: 2.22
+command: 4
+#
+name: 6
+type: parsed
+protocol: mce
+address: 2.22
+command: 6
+#
+name: 8
+type: parsed
+protocol: mce
+address: 2.22
+command: 8
+#
+name: CH/PAGE -
+type: parsed
+protocol: mce
+address: 2.22
+command: 14
+#
+name: POWER
+type: parsed
+protocol: mce
+address: 2.22
+command: 15
+#
+name: ENTER
+type: parsed
+protocol: mce
+address: 2.22
+command: 16
+#
+name: MODE
+type: parsed
+protocol: mce
+address: 2.22
+command: 17
+#
+name: OPTIONS
+type: parsed
+protocol: mce
+address: 2.22
+command: 19
+#
+name: GUIDE TOGGLE
+type: parsed
+protocol: mce
+address: 2.22
+command: 20
+#
+name: ARROW UP
+type: parsed
+protocol: mce
+address: 2.22
+command: 22
+#
+name: ARROW LEFT
+type: parsed
+protocol: mce
+address: 2.22
+command: 24
+#
+name: SELECT
+type: parsed
+protocol: mce
+address: 2.22
+command: 26
+#
+name: VIEW TOGGLE
+type: parsed
+protocol: mce
+address: 2.22
+command: 28
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 2.22
+command: 33
+#
+name: FF
+type: parsed
+protocol: mce
+address: 2.22
+command: 34
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 2.22
+command: 35
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 2.22
+command: 36
+#
+name: IRADIO
+type: parsed
+protocol: mce
+address: 2.22
+command: 42
+#
+name: MUSIC
+type: parsed
+protocol: mce
+address: 2.22
+command: 44
+#
+name: ADD TO FAVORITES
+type: parsed
+protocol: mce
+address: 2.22
+command: 45
+#
+name: DISC -
+type: parsed
+protocol: mce
+address: 2.22
+command: 50
+#
+name: POWER ON
+type: parsed
+protocol: mce
+address: 2.22
+command: 65
+#
+name: POWER OFF
+type: parsed
+protocol: mce
+address: 2.22
+command: 66
+#
+name: PLAYMODE-NORMAL
+type: parsed
+protocol: mce
+address: 2.22
+command: 67
+#
+name: PLAYMODE-RPT TRACK
+type: parsed
+protocol: mce
+address: 2.22
+command: 68
+#
+name: PLAYMODE-RPT TITLE
+type: parsed
+protocol: mce
+address: 2.22
+command: 69
+#
+name: PLAYMODE-RPT GROUP
+type: parsed
+protocol: mce
+address: 2.22
+command: 70
+#
+name: PLAYMODE-RAND TITLE
+type: parsed
+protocol: mce
+address: 2.22
+command: 71
+#
+name: PLAYMODE-RAND GROUP
+type: parsed
+protocol: mce
+address: 2.22
+command: 72
+#
+name: VIEW BY ARTIST
+type: parsed
+protocol: mce
+address: 2.22
+command: 73
+#
+name: VIEW BY TITLE
+type: parsed
+protocol: mce
+address: 2.22
+command: 74
+#
+name: VIEW BY SONG
+type: parsed
+protocol: mce
+address: 2.22
+command: 75
+#
+name: VIEW BY COVER
+type: parsed
+protocol: mce
+address: 2.22
+command: 76
+#
+name: PLAYER
+type: parsed
+protocol: mce
+address: 2.22
+command: 77
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 2.22
+command: 78
+#

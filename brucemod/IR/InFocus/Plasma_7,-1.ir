@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RESET
+type: parsed
+protocol: nec1
+address: 7
+command: 130
+#
+name: MTS
+type: parsed
+protocol: nec1
+address: 7
+command: 131
+#
+name: SWAP
+type: parsed
+protocol: nec1
+address: 7
+command: 132
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 7
+command: 133
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 7
+command: 134
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 7
+command: 135
+#
+name: FAV+-
+type: parsed
+protocol: nec1
+address: 7
+command: 136
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 7
+command: 137
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 7
+command: 138
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 7
+command: 140
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 7
+command: 141
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 7
+command: 142
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 7
+command: 143
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 7
+command: 144
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 7
+command: 145
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 7
+command: 146
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 7
+command: 147
+#
+name: AUDIO SOURCE
+type: parsed
+protocol: nec1
+address: 7
+command: 148
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 7
+command: 150
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 7
+command: 151
+#
+name: 100
+type: parsed
+protocol: nec1
+address: 7
+command: 152
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 7
+command: 153
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 7
+command: 156
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 7
+command: 157
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 7
+command: 159
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 7
+command: 192
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 7
+command: 196
+#
+name: CH+-
+type: parsed
+protocol: nec1
+address: 7
+command: 200
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 7
+command: 204
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 7
+command: 208
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 7
+command: 212
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 7
+command: 217
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 7
+command: 220
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 7
+command: 221
+#

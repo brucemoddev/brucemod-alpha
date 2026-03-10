@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NEXT SONG
+type: parsed
+protocol: nec1
+address: 1.222
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 1.222
+command: 7
+#
+name: PREV SONG
+type: parsed
+protocol: nec1
+address: 1.222
+command: 11
+#
+name: NEXT ALBUM
+type: parsed
+protocol: nec1
+address: 1.222
+command: 12
+#
+name: PREV ALBUM
+type: parsed
+protocol: nec1
+address: 1.222
+command: 13
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 1.222
+command: 14
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 16
+#
+name: NEXT PLAY LIST
+type: parsed
+protocol: nec1
+address: 1.222
+command: 20
+#
+name: PREV PLAY LIST
+type: parsed
+protocol: nec1
+address: 1.222
+command: 21
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 22
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 1.222
+command: 23
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 1.222
+command: 24
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: FAST FORWARD
+type: parsed
+protocol: nec1
+address: 1.222
+command: 32
+#
+name: NEXT BOOK CHAPTER
+type: parsed
+protocol: nec1
+address: 1.222
+command: 32
+#
+name: PREVIOUS BOOK CHAPTE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 33
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 1.222
+command: 33
+#
+name: BACKLIGHT
+type: parsed
+protocol: nec1
+address: 1.222
+command: 34
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 1.222
+command: 34
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 1.222
+command: 35
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 1.222
+command: 36
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 1.222
+command: 37
+#
+name: LED
+type: parsed
+protocol: nec1
+address: 1.222
+command: 48
+#

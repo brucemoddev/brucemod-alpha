@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP
+type: parsed
+protocol: akai
+address: 2
+command: 33
+#
+name: DOWN
+type: parsed
+protocol: akai
+address: 2
+command: 34
+#
+name: STOP
+type: parsed
+protocol: akai
+address: 2
+command: 37
+#

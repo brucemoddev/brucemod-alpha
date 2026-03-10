@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NUMBER_1
+type: parsed
+protocol: sony20
+address: 26.18
+command: 0
+#
+name: NUMBER_2
+type: parsed
+protocol: sony20
+address: 26.18
+command: 1
+#
+name: NUMBER_3
+type: parsed
+protocol: sony20
+address: 26.18
+command: 2
+#
+name: NUMBER_4
+type: parsed
+protocol: sony20
+address: 26.18
+command: 3
+#
+name: NUMBER_5
+type: parsed
+protocol: sony20
+address: 26.18
+command: 4
+#
+name: NUMBER_6
+type: parsed
+protocol: sony20
+address: 26.18
+command: 5
+#
+name: NUMBER_7
+type: parsed
+protocol: sony20
+address: 26.18
+command: 6
+#
+name: NUMBER_8
+type: parsed
+protocol: sony20
+address: 26.18
+command: 7
+#
+name: NUMBER_9
+type: parsed
+protocol: sony20
+address: 26.18
+command: 8
+#
+name: NUMBER_0
+type: parsed
+protocol: sony20
+address: 26.18
+command: 9
+#
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.18
+command: 11
+#
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.18
+command: 14
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony20
+address: 26.18
+command: 15
+#
+name: KEY_POWER
+type: parsed
+protocol: sony20
+address: 26.18
+command: 21
+#
+name: KEY_TITLE
+type: parsed
+protocol: sony20
+address: 26.18
+command: 26
+#
+name: KEY_MENU
+type: parsed
+protocol: sony20
+address: 26.18
+command: 27
+#
+name: PROGRAM
+type: parsed
+protocol: sony20
+address: 26.18
+command: 31
+#
+name: SCAN_BACKWARD
+type: parsed
+protocol: sony20
+address: 26.18
+command: 34
+#
+name: SCAN_FORWARD
+type: parsed
+protocol: sony20
+address: 26.18
+command: 35
+#
+name: TIME_TEXT
+type: parsed
+protocol: sony20
+address: 26.18
+command: 40
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony20
+address: 26.18
+command: 44
+#
+name: SKIP_BACKWARD
+type: parsed
+protocol: sony20
+address: 26.18
+command: 48
+#
+name: SKIP_FORWAD
+type: parsed
+protocol: sony20
+address: 26.18
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony20
+address: 26.18
+command: 50
+#
+name: SHUFFLE
+type: parsed
+protocol: sony20
+address: 26.18
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: sony20
+address: 26.18
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony20
+address: 26.18
+command: 57
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 26.18
+command: 84
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: sony20
+address: 26.18
+command: 99
+#
+name: KEY_AUDIO
+type: parsed
+protocol: sony20
+address: 26.18
+command: 100
+#
+name: KEY_ANGLE
+type: parsed
+protocol: sony20
+address: 26.18
+command: 101
+#
+name: ARROW_UP
+type: parsed
+protocol: sony20
+address: 26.18
+command: 121
+#
+name: ARROW_DOWN
+type: parsed
+protocol: sony20
+address: 26.18
+command: 122
+#
+name: ARROW_LEFT
+type: parsed
+protocol: sony20
+address: 26.18
+command: 123
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: sony20
+address: 26.18
+command: 124
+#

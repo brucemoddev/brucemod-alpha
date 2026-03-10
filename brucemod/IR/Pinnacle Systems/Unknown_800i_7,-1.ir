@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: key_mute
+type: parsed
+protocol: rc5
+address: 7
+command: 0
+#
+name: key_menu
+type: parsed
+protocol: rc5
+address: 7
+command: 1
+#
+name: key_volumeup
+type: parsed
+protocol: rc5
+address: 7
+command: 3
+#
+name: key_channelup
+type: parsed
+protocol: rc5
+address: 7
+command: 6
+#
+name: key_volumedown
+type: parsed
+protocol: rc5
+address: 7
+command: 9
+#
+name: key_channeldown
+type: parsed
+protocol: rc5
+address: 7
+command: 12
+#
+name: btn_1
+type: parsed
+protocol: rc5
+address: 7
+command: 15
+#
+name: btn_3
+type: parsed
+protocol: rc5
+address: 7
+command: 16
+#
+name: btn_7
+type: parsed
+protocol: rc5
+address: 7
+command: 17
+#
+name: btn_9
+type: parsed
+protocol: rc5
+address: 7
+command: 18
+#
+name: btn_2
+type: parsed
+protocol: rc5
+address: 7
+command: 21
+#
+name: btn_4
+type: parsed
+protocol: rc5
+address: 7
+command: 24
+#
+name: btn_5
+type: parsed
+protocol: rc5
+address: 7
+command: 27
+#
+name: btn_6
+type: parsed
+protocol: rc5
+address: 7
+command: 30
+#
+name: btn_8
+type: parsed
+protocol: rc5
+address: 7
+command: 33
+#
+name: key_screen
+type: parsed
+protocol: rc5
+address: 7
+command: 36
+#
+name: btn_0
+type: parsed
+protocol: rc5
+address: 7
+command: 39
+#
+name: key_t
+type: parsed
+protocol: rc5
+address: 7
+command: 42
+#
+name: key_rewind
+type: parsed
+protocol: rc5
+address: 7
+command: 45
+#
+name: key_playpause
+type: parsed
+protocol: rc5
+address: 7
+command: 48
+#
+name: key_fastforward
+type: parsed
+protocol: rc5
+address: 7
+command: 51
+#
+name: key_record
+type: parsed
+protocol: rc5
+address: 7
+command: 54
+#
+name: key_power
+type: parsed
+protocol: rc5
+address: 7
+command: 57
+#
+name: key_stop
+type: parsed
+protocol: rc5
+address: 7
+command: 60
+#
+name: key_question
+type: parsed
+protocol: rc5
+address: 7
+command: 63
+#

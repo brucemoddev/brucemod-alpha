@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 0
+#
+name: POWER TOGGLE
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 0
+#
+name: TV
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 14
+#
+name: INPUT TV
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 14
+#
+name: VIDEO
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 22
+#
+name: INPUT VIDEO
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 22
+#
+name: RGB
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 23
+#
+name: INPUT RGB
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 23
+#
+name: VIDEO1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: VIDEO 1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: VIDEO 1-COMPOSITE
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: VID 1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: INPUT1-COMPOSITE
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: VIDEO 1 COMPOSITE
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: VIDEO 2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VIDEO 2 (S)
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VIDEO 2-S VIDEO
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VID 2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: INPUT2-S-VIDEO
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VIDEO 2 S-VIDEO
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VIDEO 2 / S-VIDEO
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VIDEO 3
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: INPUT 3 - COMPONENT1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: VIDEO 3 (BACK)
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: VIDEO 3-COMPONENT
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: VID 3
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: INPUT3-COMPONENT1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: VIDEO 3 / COMP 1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: VIDEO 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: INPUT 4 - COMPONENT2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: VIDEO 4 (FRONT)
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: VIDEO 4-COMPONENT
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: INPUT4-COMPONENT2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: VIDEO 4 / COMP 2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: VIDEO 5
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 68
+#
+name: INPUT 5 - HDMI
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 68
+#
+name: VIDEO 5 (HDMI)
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 68
+#
+name: VIDEO 5-HDMI
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 68
+#
+name: INPUT5-HDMI
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 68
+#
+name: VIDEO 5 / HDMI
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 68
+#
+name: RGB 1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 104
+#
+name: RGB1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 104
+#
+name: RGB 1: DVI-D
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 104
+#
+name: RGB1: DVI-D
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 104
+#
+name: RGB 1 / DVI-D
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 104
+#
+name: RGB 2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 105
+#
+name: RGB2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 105
+#
+name: RGB 2: D-SUB15P
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 105
+#
+name: RGB2: D-SUB15
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 105
+#
+name: RGB3/VIDEO4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#
+name: RGB 3/ VIDEO 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#
+name: VIDEO 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#
+name: RGB3/VIDEO 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#
+name: RGB 3/VID 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#
+name: INPUT4 - #2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#
+name: RGB 3/VIDEO 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 106
+#

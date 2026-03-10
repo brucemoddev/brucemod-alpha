@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 2
+command: 0
+#
+name: CH/TIME SET ^
+type: parsed
+protocol: Proton
+address: 2
+command: 1
+#
+name: CH/TIME SET V
+type: parsed
+protocol: Proton
+address: 2
+command: 2
+#
+name: VOLUME ^
+type: parsed
+protocol: Proton
+address: 2
+command: 3
+#
+name: VOLUME V
+type: parsed
+protocol: Proton
+address: 2
+command: 4
+#
+name: TV/CATV
+type: parsed
+protocol: Proton
+address: 2
+command: 5
+#
+name: SLEEP
+type: parsed
+protocol: Proton
+address: 2
+command: 7
+#
+name: RETURN
+type: parsed
+protocol: Proton
+address: 2
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 2
+command: 9
+#
+name: TIMER
+type: parsed
+protocol: Proton
+address: 2
+command: 10
+#
+name: CURSOR
+type: parsed
+protocol: Proton
+address: 2
+command: 11
+#
+name: CANCEL
+type: parsed
+protocol: Proton
+address: 2
+command: 12
+#
+name: TV/AV(VGA)
+type: parsed
+protocol: Proton
+address: 2
+command: 13
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 2
+command: 14
+#
+name: MTS
+type: parsed
+protocol: Proton
+address: 2
+command: 15
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 2
+command: 16
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 2
+command: 17
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 2
+command: 18
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 2
+command: 19
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 2
+command: 20
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 2
+command: 21
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 2
+command: 22
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 2
+command: 23
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 2
+command: 24
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 2
+command: 25
+#
+name: NORMAL
+type: parsed
+protocol: Proton
+address: 2
+command: 53
+#
+name: FUNCTION
+type: parsed
+protocol: Proton
+address: 2
+command: 88
+#
+name: FUNCTION LEVEL ^
+type: parsed
+protocol: Proton
+address: 2
+command: 89
+#
+name: FUNCTION LEVEL V
+type: parsed
+protocol: Proton
+address: 2
+command: 90
+#

@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: rc5
+address: 27
+command: 1
+#
+name: 
+type: parsed
+protocol: rc5
+address: 27
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 27
+command: 2
+#
+name: 
+type: parsed
+protocol: rc5
+address: 27
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 27
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 27
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 27
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 27
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 27
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 27
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 27
+command: 9
+#
+name: 10
+type: parsed
+protocol: rc5
+address: 27
+command: 10
+#
+name: ON - OFF
+type: parsed
+protocol: rc5
+address: 27
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 27
+command: 13
+#
+name: SHIFT
+type: parsed
+protocol: rc5
+address: 27
+command: 14
+#
+name: ZONE
+type: parsed
+protocol: rc5
+address: 27
+command: 15
+#
+name: DIGITAL +
+type: parsed
+protocol: rc5
+address: 27
+command: 16
+#
+name: DIGITAL -
+type: parsed
+protocol: rc5
+address: 27
+command: 17
+#
+name: VID 1
+type: parsed
+protocol: rc5
+address: 27
+command: 20
+#
+name: VID 2
+type: parsed
+protocol: rc5
+address: 27
+command: 21
+#
+name: 
+type: parsed
+protocol: rc5
+address: 27
+command: 21
+#
+name: VID 3
+type: parsed
+protocol: rc5
+address: 27
+command: 22
+#
+name: VID 4
+type: parsed
+protocol: rc5
+address: 27
+command: 23
+#
+name: VID 5
+type: parsed
+protocol: rc5
+address: 27
+command: 24
+#
+name: 
+type: parsed
+protocol: rc5
+address: 27
+command: 24
+#
+name: VID 6
+type: parsed
+protocol: rc5
+address: 27
+command: 25
+#
+name: 
+type: parsed
+protocol: rc5
+address: 27
+command: 25
+#
+name: FM/AM
+type: parsed
+protocol: rc5
+address: 27
+command: 28
+#
+name: A. CAL
+type: parsed
+protocol: rc5
+address: 27
+command: 29
+#
+name: DIM
+type: parsed
+protocol: rc5
+address: 27
+command: 30
+#
+name: SLEEP
+type: parsed
+protocol: rc5
+address: 27
+command: 31
+#
+name: SURROUND +
+type: parsed
+protocol: rc5
+address: 27
+command: 32
+#
+name: 
+type: parsed
+protocol: rc5
+address: 27
+command: 32
+#
+name: SETUP/TRIM
+type: parsed
+protocol: rc5
+address: 27
+command: 33
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 27
+command: 34
+#
+name: TUNE -
+type: parsed
+protocol: rc5
+address: 27
+command: 35
+#
+name: TUNE +
+type: parsed
+protocol: rc5
+address: 27
+command: 36
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 27
+command: 37
+#
+name: MEM
+type: parsed
+protocol: rc5
+address: 27
+command: 38
+#
+name: AUD 1
+type: parsed
+protocol: rc5
+address: 27
+command: 48
+#
+name: AUD 2
+type: parsed
+protocol: rc5
+address: 27
+command: 49
+#
+name: AUD 3
+type: parsed
+protocol: rc5
+address: 27
+command: 50
+#
+name: AUD 4
+type: parsed
+protocol: rc5
+address: 27
+command: 51
+#
+name: AUD 5
+type: parsed
+protocol: rc5
+address: 27
+command: 52
+#
+name: AUD 6
+type: parsed
+protocol: rc5
+address: 27
+command: 53
+#
+name: SURROUND -
+type: parsed
+protocol: rc5
+address: 27
+command: 56
+#
+name: THX
+type: parsed
+protocol: rc5
+address: 27
+command: 57
+#
+name: STATUS
+type: parsed
+protocol: rc5
+address: 27
+command: 60
+#
+name: DYN
+type: parsed
+protocol: rc5
+address: 27
+command: 61
+#
+name: TUNING
+type: parsed
+protocol: rc5
+address: 27
+command: 62
+#

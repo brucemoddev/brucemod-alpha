@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 231.10
+command: 11
+#
+name: rgb
+type: parsed
+protocol: nec
+address: 231.10
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 231.10
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 231.10
+command: 18
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 231.10
+command: 19
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 231.10
+command: 27
+#
+name: reset
+type: parsed
+protocol: nec
+address: 231.10
+command: 29
+#
+name: key
+type: parsed
+protocol: nec
+address: 231.10
+command: 31
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 231.10
+command: 64
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 231.10
+command: 65
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 231.10
+command: 66
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 231.10
+command: 67
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 231.10
+command: 68
+#
+name: freeze
+type: parsed
+protocol: nec
+address: 231.10
+command: 69
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 231.10
+command: 70
+#

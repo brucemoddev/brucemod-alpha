@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Tuner-preset+
+type: parsed
+protocol: nec
+address: 210.109
+command: 0
+#
+name: Tuner-preset-
+type: parsed
+protocol: nec
+address: 210.109
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 210.109
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 210.109
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 210.109
+command: 4
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 210.109
+command: 5
+#
+name: Tape-2
+type: parsed
+protocol: nec
+address: 210.109
+command: 7
+#
+name: Tape-1
+type: parsed
+protocol: nec
+address: 210.109
+command: 8
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 210.109
+command: 9
+#
+name: Phono
+type: parsed
+protocol: nec
+address: 210.109
+command: 10
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 210.109
+command: 11
+#
+name: Deck-b-stop
+type: parsed
+protocol: nec
+address: 210.109
+command: 19
+#
+name: Deck-b-play-forward
+type: parsed
+protocol: nec
+address: 210.109
+command: 21
+#
+name: Deck-b-play-back
+type: parsed
+protocol: nec
+address: 210.109
+command: 22
+#
+name: Deck-b-rec/pause
+type: parsed
+protocol: nec
+address: 210.109
+command: 24
+#
+name: Deck-b-fastforward
+type: parsed
+protocol: nec
+address: 210.109
+command: 25
+#
+name: Deck-b-rewind
+type: parsed
+protocol: nec
+address: 210.109
+command: 26
+#
+name: CD-play
+type: parsed
+protocol: nec
+address: 210.109
+command: 27
+#
+name: CD-stop
+type: parsed
+protocol: nec
+address: 210.109
+command: 28
+#
+name: CD-next
+type: parsed
+protocol: nec
+address: 210.109
+command: 29
+#
+name: CD-back
+type: parsed
+protocol: nec
+address: 210.109
+command: 30
+#
+name: CD-pause
+type: parsed
+protocol: nec
+address: 210.109
+command: 31
+#
+name: Tuner-class
+type: parsed
+protocol: nec
+address: 210.109
+command: 74
+#
+name: Deck-a-stop
+type: parsed
+protocol: nec
+address: 210.109
+command: 77
+#
+name: Deck-a-play-forward
+type: parsed
+protocol: nec
+address: 210.109
+command: 78
+#
+name: Deck-a-play-back
+type: parsed
+protocol: nec
+address: 210.109
+command: 79
+#
+name: Deck-a-rec/pause
+type: parsed
+protocol: nec
+address: 210.109
+command: 80
+#
+name: Deck-a-fastforward
+type: parsed
+protocol: nec
+address: 210.109
+command: 81
+#
+name: Deck-a-rewind
+type: parsed
+protocol: nec
+address: 210.109
+command: 82
+#
+name: CD-eject
+type: parsed
+protocol: nec
+address: 210.109
+command: 92
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 210.109
+command: 93
+#

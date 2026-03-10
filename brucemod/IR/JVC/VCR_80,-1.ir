@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV CANCEL(CRESET/CH)
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#

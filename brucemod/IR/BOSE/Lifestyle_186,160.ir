@@ -1,0 +1,909 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 1
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 1
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 1
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 1
+#
+name: VOLYM -
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 186.160
+command: 2
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 186.160
+command: 2
+#
+name: VOLYM +
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 186.160
+command: 3
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 186.160
+command: 3
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 186.160
+command: 5
+#
+name: FM
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 6
+#
+name: FM/AM TOGGLE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 6
+#
+name: FM-AM
+type: parsed
+protocol: nec2
+address: 186.160
+command: 6
+#
+name: FM/AM TOGGLE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 6
+#
+name: VCR
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 13
+#
+name: VCR 1
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 13
+#
+name: VCR
+type: parsed
+protocol: nec2
+address: 186.160
+command: 13
+#
+name: TV
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 14
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 186.160
+command: 14
+#
+name: AUX
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 15
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 186.160
+command: 15
+#
+name: CBL/SAT
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 21
+#
+name: SAT
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 21
+#
+name: CBL-SAT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 21
+#
+name: CBL/SAT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 21
+#
+name: CH -
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 24
+#
+name: TRACK DOWN
+type: parsed
+protocol: nec2
+address: 186.160
+command: 24
+#
+name: TCPC DOWN
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 24
+#
+name: TRK/CHPTR/PRE/DWN
+type: parsed
+protocol: nec2
+address: 186.160
+command: 24
+#
+name: TRACK/CH./PRE DOWN
+type: parsed
+protocol: nec2
+address: 186.160
+command: 24
+#
+name: CH +
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 25
+#
+name: TRACK UP
+type: parsed
+protocol: nec2
+address: 186.160
+command: 25
+#
+name: TCPC UP
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 25
+#
+name: TRK/CHPTR/PRESET/UP
+type: parsed
+protocol: nec2
+address: 186.160
+command: 25
+#
+name: TRACK/CH./PRE. UP
+type: parsed
+protocol: nec2
+address: 186.160
+command: 25
+#
+name: STOPP
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 26
+#
+name: STOP
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 26
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 186.160
+command: 26
+#
+name: CURSOR NER
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 32
+#
+name: ARROW DOWN
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 32
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec2
+address: 186.160
+command: 32
+#
+name: FM ASSERT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 37
+#
+name: AM ASSERT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 40
+#
+name: EXIT
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 48
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 48
+#
+name: 0
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 64
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 186.160
+command: 64
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 65
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.160
+command: 65
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 66
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.160
+command: 66
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 67
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.160
+command: 67
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 68
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.160
+command: 68
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 69
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.160
+command: 69
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 70
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.160
+command: 70
+#
+name: 7
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 71
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 186.160
+command: 71
+#
+name: 8
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 72
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 186.160
+command: 72
+#
+name: 9
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 73
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 186.160
+command: 73
+#
+name: POWER ON OFF
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 76
+#
+name: POWER TOGGLE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 76
+#
+name: ON/OFF
+type: parsed
+protocol: nec2
+address: 186.160
+command: 76
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec2
+address: 186.160
+command: 76
+#
+name: MUTE ALL
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 77
+#
+name: MUTE ALL TOGGLE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 77
+#
+name: MUTE ALL
+type: parsed
+protocol: nec2
+address: 186.160
+command: 77
+#
+name: MUTE ALL TOGGLE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 77
+#
+name: CD DVD
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 83
+#
+name: CD/DVD
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 83
+#
+name: CD-DVD
+type: parsed
+protocol: nec2
+address: 186.160
+command: 83
+#
+name: CD/DVD
+type: parsed
+protocol: nec2
+address: 186.160
+command: 83
+#
+name: PLAY
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 85
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 186.160
+command: 85
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 86
+#
+name: PAUSE TOGGLE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 86
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 86
+#
+name: PAUSE TOGGLE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 86
+#
+name: SEARCH <<
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 87
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 87
+#
+name: I<< SEEK
+type: parsed
+protocol: nec2
+address: 186.160
+command: 87
+#
+name: SEEK/SCAN<<
+type: parsed
+protocol: nec2
+address: 186.160
+command: 87
+#
+name: SEARCH >>
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 88
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 88
+#
+name: >>I SEEK
+type: parsed
+protocol: nec2
+address: 186.160
+command: 88
+#
+name: SEEK/SCAN >>
+type: parsed
+protocol: nec2
+address: 186.160
+command: 88
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 186.160
+command: 89
+#
+name: SHUFFLE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 92
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 92
+#
+name: GER
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 96
+#
+name: ARROW RIGHT
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 96
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 96
+#
+name: CD#
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 99
+#
+name: CD #
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 99
+#
+name: CD #
+type: parsed
+protocol: nec2
+address: 186.160
+command: 99
+#
+name: INFO
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 100
+#
+name: INFO
+type: parsed
+protocol: nec2
+address: 186.160
+command: 100
+#
+name: ENCORE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 101
+#
+name: ENCORE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 101
+#
+name: SIMILAR (ENCOR)
+type: parsed
+protocol: nec2
+address: 186.160
+command: 101
+#
+name: UMUSIC
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 102
+#
+name: UMUSIC
+type: parsed
+protocol: nec2
+address: 186.160
+command: 102
+#
+name: WHOLE CD
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 103
+#
+name: WHOLE CD
+type: parsed
+protocol: nec2
+address: 186.160
+command: 103
+#
+name: UM -
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 104
+#
+name: RATING -
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 104
+#
+name: RATING -
+type: parsed
+protocol: nec2
+address: 186.160
+command: 104
+#
+name: UM +
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 105
+#
+name: RATING +
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 105
+#
+name: RATING +
+type: parsed
+protocol: nec2
+address: 186.160
+command: 105
+#
+name: SYSTEM
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 112
+#
+name: SYSTEM
+type: parsed
+protocol: nec2
+address: 186.160
+command: 112
+#
+name: SETTING
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 128
+#
+name: SETTINGS
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 128
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 186.160
+command: 128
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 186.160
+command: 140
+#
+name: POWER ON ASSERT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 140
+#
+name: DVD MENY
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 144
+#
+name: DVD MENU
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 144
+#
+name: DVD MENU
+type: parsed
+protocol: nec2
+address: 186.160
+command: 144
+#
+name: REPEAT
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 157
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 157
+#
+name: PLAYLIST
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 159
+#
+name: PLAYLIST
+type: parsed
+protocol: nec2
+address: 186.160
+command: 159
+#
+name: NSTER
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 160
+#
+name: ARROW LEFT
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 160
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 160
+#
+name: LIBARY
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 176
+#
+name: LIBRARY
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 176
+#
+name: LIBRARY
+type: parsed
+protocol: nec2
+address: 186.160
+command: 176
+#
+name: STORED MUSIC
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 179
+#
+name: STORED
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 179
+#
+name: STORED
+type: parsed
+protocol: nec2
+address: 186.160
+command: 179
+#
+name: CURSOR UPP
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 192
+#
+name: ARROW UP
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 192
+#
+name: ARROW UP
+type: parsed
+protocol: nec2
+address: 186.160
+command: 192
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 186.160
+command: 204
+#
+name: POWER OFF ASSERT
+type: parsed
+protocol: nec2
+address: 186.160
+command: 204
+#
+name: GUIDE
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 208
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 208
+#
+name: CURSOR ENTER
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 224
+#
+name: ENTER
+type: parsed
+protocol: pioneer
+address: 186.160
+command: 224
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 186.160
+command: 224
+#

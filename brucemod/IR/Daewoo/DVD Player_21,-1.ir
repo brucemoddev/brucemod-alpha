@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: 100
+type: parsed
+protocol: Proton
+address: 21
+command: 10
+#
+name: SETUP
+type: parsed
+protocol: Proton
+address: 21
+command: 11
+#
+name: OUTPUT
+type: parsed
+protocol: Proton
+address: 21
+command: 12
+#
+name: STOP
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: PAUSE
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: PLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: REC
+type: parsed
+protocol: Proton
+address: 21
+command: 18
+#
+name: SEARCH >>
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: SKIP >>
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: SEARCH <<
+type: parsed
+protocol: Proton
+address: 21
+command: 20
+#
+name: SKIP <<
+type: parsed
+protocol: Proton
+address: 21
+command: 20
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: TV/VCR
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: CURSER UP
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: CURSER DOWN
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: CURSER RIGHT
+type: parsed
+protocol: Proton
+address: 21
+command: 25
+#
+name: CURSER LEFT
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: ANGLE/DIGEST SPEED
+type: parsed
+protocol: Proton
+address: 21
+command: 27
+#
+name: SEARCH
+type: parsed
+protocol: Proton
+address: 21
+command: 29
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Proton
+address: 21
+command: 30
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 31
+#
+name: TITLE/PB
+type: parsed
+protocol: Proton
+address: 21
+command: 32
+#
+name: ZOOM
+type: parsed
+protocol: Proton
+address: 21
+command: 33
+#
+name: ENTER
+type: parsed
+protocol: Proton
+address: 21
+command: 35
+#
+name: SUBTITLE
+type: parsed
+protocol: Proton
+address: 21
+command: 37
+#
+name: VCR
+type: parsed
+protocol: Proton
+address: 21
+command: 38
+#
+name: DVD
+type: parsed
+protocol: Proton
+address: 21
+command: 39
+#
+name: REPEAT
+type: parsed
+protocol: Proton
+address: 21
+command: 41
+#
+name: PROGRAM
+type: parsed
+protocol: Proton
+address: 21
+command: 44
+#
+name: AUDIO MODE
+type: parsed
+protocol: Proton
+address: 21
+command: 55
+#
+name: A-B
+type: parsed
+protocol: Proton
+address: 21
+command: 60
+#
+name: SIDE A/B
+type: parsed
+protocol: Proton
+address: 21
+command: 60
+#

@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 60
+command: 204
+#
+name: Info
+type: parsed
+protocol: nec
+address: 134
+command: 172
+#
+name: SETTINGS
+type: parsed
+protocol: nec
+address: 134
+command: 164
+#
+name: 1
+type: parsed
+protocol: nec
+address: 134
+command: 193
+#
+name: 2
+type: parsed
+protocol: nec
+address: 134
+command: 194
+#
+name: 3
+type: parsed
+protocol: nec
+address: 134
+command: 195
+#
+name: 4
+type: parsed
+protocol: nec
+address: 134
+command: 196
+#
+name: 5
+type: parsed
+protocol: nec
+address: 134
+command: 197
+#
+name: 6
+type: parsed
+protocol: nec
+address: 134
+command: 198
+#
+name: 7
+type: parsed
+protocol: nec
+address: 134
+command: 199
+#
+name: 8
+type: parsed
+protocol: nec
+address: 134
+command: 200
+#
+name: 9
+type: parsed
+protocol: nec
+address: 134
+command: 201
+#
+name: Input
+type: parsed
+protocol: nec
+address: 134
+command: 1
+#
+name: 0
+type: parsed
+protocol: nec
+address: 134
+command: 202
+#
+name: Ttx
+type: parsed
+protocol: nec
+address: 134
+command: 0
+#
+name: Guide
+type: parsed
+protocol: nec
+address: 134
+command: 162
+#
+name: UNKNOWN
+type: parsed
+protocol: nec
+address: 134
+command: 5
+#
+name: ch+
+type: parsed
+protocol: nec
+address: 134
+command: 170
+#
+name: UNKNOWN
+type: parsed
+protocol: nec
+address: 134
+command: 11
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 134
+command: 13
+#
+name: UNKNOWN
+type: parsed
+protocol: nec
+address: 134
+command: 12
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 134
+command: 161
+#
+name: UNKNOWN
+type: parsed
+protocol: nec
+address: 134
+command: 6
+#
+name: ch-
+type: parsed
+protocol: nec
+address: 134
+command: 171
+#
+name: MI
+type: parsed
+protocol: nec
+address: 134
+command: 8
+#
+name: Back
+type: parsed
+protocol: nec
+address: 134
+command: 7
+#
+name: o
+type: parsed
+protocol: nec
+address: 134
+command: 4
+#
+name: r
+type: parsed
+protocol: nec
+address: 134
+command: 203
+#
+name: VOL +
+type: parsed
+protocol: nec
+address: 134
+command: 14
+#
+name: y
+type: parsed
+protocol: nec
+address: 134
+command: 205
+#
+name: g
+type: parsed
+protocol: nec
+address: 134
+command: 204
+#
+name: VOL -
+type: parsed
+protocol: nec
+address: 134
+command: 15
+#
+name: b
+type: parsed
+protocol: nec
+address: 134
+command: 206
+#
+name: RADIO
+type: parsed
+protocol: nec
+address: 134
+command: 210
+#
+name: SUBTITLES
+type: parsed
+protocol: nec
+address: 134
+command: 211
+#
+name: LAST-CH
+type: parsed
+protocol: nec
+address: 134
+command: 212
+#
+name: AUDIODESC
+type: parsed
+protocol: nec
+address: 134
+command: 213
+#
+name: AUDIOTRACK
+type: parsed
+protocol: nec
+address: 134
+command: 214
+#

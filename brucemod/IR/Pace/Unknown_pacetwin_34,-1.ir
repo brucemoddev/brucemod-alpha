@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: power
+type: parsed
+protocol: Proton
+address: 34
+command: 0
+#
+name: mute
+type: parsed
+protocol: Proton
+address: 34
+command: 11
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 34
+command: 32
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 34
+command: 33
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 34
+command: 34
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 34
+command: 35
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 34
+command: 36
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 34
+command: 37
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 34
+command: 38
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 34
+command: 39
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 34
+command: 40
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 34
+command: 41
+#
+name: red
+type: parsed
+protocol: Proton
+address: 34
+command: 42
+#
+name: green
+type: parsed
+protocol: Proton
+address: 34
+command: 43
+#
+name: yellow
+type: parsed
+protocol: Proton
+address: 34
+command: 44
+#
+name: blue
+type: parsed
+protocol: Proton
+address: 34
+command: 45
+#
+name: d_up
+type: parsed
+protocol: Proton
+address: 34
+command: 46
+#
+name: d_left
+type: parsed
+protocol: Proton
+address: 34
+command: 47
+#
+name: OK
+type: parsed
+protocol: Proton
+address: 34
+command: 48
+#
+name: d_right
+type: parsed
+protocol: Proton
+address: 34
+command: 49
+#
+name: d_down
+type: parsed
+protocol: Proton
+address: 34
+command: 50
+#
+name: ch_up
+type: parsed
+protocol: Proton
+address: 34
+command: 51
+#
+name: ext
+type: parsed
+protocol: Proton
+address: 34
+command: 52
+#
+name: vol_up
+type: parsed
+protocol: Proton
+address: 34
+command: 53
+#
+name: ch_down
+type: parsed
+protocol: Proton
+address: 34
+command: 54
+#
+name: record
+type: parsed
+protocol: Proton
+address: 34
+command: 55
+#
+name: vol_down
+type: parsed
+protocol: Proton
+address: 34
+command: 56
+#
+name: tvdtv
+type: parsed
+protocol: Proton
+address: 34
+command: 58
+#
+name: return
+type: parsed
+protocol: Proton
+address: 34
+command: 59
+#
+name: menu
+type: parsed
+protocol: Proton
+address: 34
+command: 60
+#
+name: library
+type: parsed
+protocol: Proton
+address: 34
+command: 61
+#
+name: clip
+type: parsed
+protocol: Proton
+address: 34
+command: 65
+#
+name: pause
+type: parsed
+protocol: Proton
+address: 34
+command: 68
+#
+name: list
+type: parsed
+protocol: Proton
+address: 34
+command: 81
+#
+name: guide
+type: parsed
+protocol: Proton
+address: 34
+command: 82
+#
+name: exit
+type: parsed
+protocol: Proton
+address: 34
+command: 83
+#
+name: text
+type: parsed
+protocol: Proton
+address: 34
+command: 84
+#
+name: subtitle
+type: parsed
+protocol: Proton
+address: 34
+command: 85
+#
+name: info
+type: parsed
+protocol: Proton
+address: 34
+command: 86
+#
+name: play
+type: parsed
+protocol: Proton
+address: 34
+command: 87
+#
+name: ffwd
+type: parsed
+protocol: Proton
+address: 34
+command: 88
+#
+name: rew
+type: parsed
+protocol: Proton
+address: 34
+command: 89
+#
+name: next
+type: parsed
+protocol: Proton
+address: 34
+command: 90
+#
+name: prev
+type: parsed
+protocol: Proton
+address: 34
+command: 91
+#
+name: stop
+type: parsed
+protocol: Proton
+address: 34
+command: 92
+#
+name: ch_up_2
+type: parsed
+protocol: Proton
+address: 34
+command: 93
+#
+name: ch_down_2
+type: parsed
+protocol: Proton
+address: 34
+command: 94
+#
+name: timer
+type: parsed
+protocol: Proton
+address: 34
+command: 95
+#

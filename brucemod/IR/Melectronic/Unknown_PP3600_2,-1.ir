@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: gainup
+type: parsed
+protocol: Proton
+address: 2
+command: 3
+#
+name: gaindown
+type: parsed
+protocol: Proton
+address: 2
+command: 4
+#
+name: brightdown
+type: parsed
+protocol: Proton
+address: 2
+command: 5
+#
+name: brightup
+type: parsed
+protocol: Proton
+address: 2
+command: 6
+#
+name: contrastdown
+type: parsed
+protocol: Proton
+address: 2
+command: 7
+#
+name: contrastup
+type: parsed
+protocol: Proton
+address: 2
+command: 8
+#
+name: mute
+type: parsed
+protocol: Proton
+address: 2
+command: 9
+#
+name: tvav
+type: parsed
+protocol: Proton
+address: 2
+command: 13
+#
+name: on
+type: parsed
+protocol: Proton
+address: 2
+command: 14
+#
+name: one
+type: parsed
+protocol: Proton
+address: 2
+command: 16
+#
+name: two
+type: parsed
+protocol: Proton
+address: 2
+command: 17
+#
+name: three
+type: parsed
+protocol: Proton
+address: 2
+command: 18
+#
+name: four
+type: parsed
+protocol: Proton
+address: 2
+command: 19
+#
+name: five
+type: parsed
+protocol: Proton
+address: 2
+command: 20
+#
+name: six
+type: parsed
+protocol: Proton
+address: 2
+command: 21
+#
+name: seven
+type: parsed
+protocol: Proton
+address: 2
+command: 22
+#
+name: eight
+type: parsed
+protocol: Proton
+address: 2
+command: 23
+#
+name: nine
+type: parsed
+protocol: Proton
+address: 2
+command: 24
+#
+name: zero
+type: parsed
+protocol: Proton
+address: 2
+command: 25
+#
+name: ten
+type: parsed
+protocol: Proton
+address: 2
+command: 26
+#
+name: twenty
+type: parsed
+protocol: Proton
+address: 2
+command: 27
+#

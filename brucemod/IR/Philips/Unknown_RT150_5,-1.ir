@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 5
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: KEY_SELECT
+type: parsed
+protocol: rc5
+address: 5
+command: 11
+#
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: Tracking
+type: parsed
+protocol: rc5
+address: 5
+command: 14
+#
+name: Timer
+type: parsed
+protocol: rc5
+address: 5
+command: 29
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 5
+command: 37
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rc5
+address: 5
+command: 38
+#
+name: Still
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: KEY_CLEAR
+type: parsed
+protocol: rc5
+address: 5
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#
+name: SP/LP
+type: parsed
+protocol: rc5
+address: 5
+command: 58
+#
+name: KEY_NEXT
+type: parsed
+protocol: rc5
+address: 5
+command: 112
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: rc5
+address: 5
+command: 113
+#
+name: Monitor
+type: parsed
+protocol: rc5
+address: 5
+command: 122
+#
+name: KEY_TUNER
+type: parsed
+protocol: rc5
+address: 5
+command: 125
+#
+name: Cassette_Eject
+type: parsed
+protocol: rc5
+address: 5
+command: 126
+#

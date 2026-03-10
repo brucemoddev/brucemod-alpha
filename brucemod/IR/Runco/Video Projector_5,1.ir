@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ARROW LEFT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 6
+#
+name: CURSOR LEFT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 6
+#
+name: SOURCE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 13
+#
+name: POWER
+type: parsed
+protocol: zenith
+address: 5.1
+command: 14
+#
+name: ARROW RIGHT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 15
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 15
+#
+name: 0
+type: parsed
+protocol: zenith
+address: 5.1
+command: 16
+#
+name: 1
+type: parsed
+protocol: zenith
+address: 5.1
+command: 17
+#
+name: 2
+type: parsed
+protocol: zenith
+address: 5.1
+command: 18
+#
+name: 3
+type: parsed
+protocol: zenith
+address: 5.1
+command: 19
+#
+name: 4
+type: parsed
+protocol: zenith
+address: 5.1
+command: 20
+#
+name: 5
+type: parsed
+protocol: zenith
+address: 5.1
+command: 21
+#
+name: 6
+type: parsed
+protocol: zenith
+address: 5.1
+command: 22
+#
+name: 7
+type: parsed
+protocol: zenith
+address: 5.1
+command: 23
+#
+name: 8
+type: parsed
+protocol: zenith
+address: 5.1
+command: 24
+#
+name: 9
+type: parsed
+protocol: zenith
+address: 5.1
+command: 25
+#
+name: ENTER
+type: parsed
+protocol: zenith
+address: 5.1
+command: 28
+#
+name: ARROW DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 29
+#
+name: CURSOR DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 29
+#
+name: ARROW UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 30
+#
+name: CURSOR UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 30
+#
+name: MENU
+type: parsed
+protocol: zenith
+address: 5.1
+command: 31
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 31
+#

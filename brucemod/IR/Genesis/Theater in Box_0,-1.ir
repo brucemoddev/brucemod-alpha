@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BASS-
+type: parsed
+protocol: nec1
+address: 0
+command: 0
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 0
+command: 1
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 0
+command: 2
+#
+name: MP3
+type: parsed
+protocol: nec1
+address: 0
+command: 3
+#
+name: BASS+
+type: parsed
+protocol: nec1
+address: 0
+command: 4
+#
+name: SW-
+type: parsed
+protocol: nec1
+address: 0
+command: 5
+#
+name: CEN-
+type: parsed
+protocol: nec1
+address: 0
+command: 6
+#
+name: TREB+
+type: parsed
+protocol: nec1
+address: 0
+command: 7
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 0
+command: 8
+#
+name: SW+
+type: parsed
+protocol: nec1
+address: 0
+command: 9
+#
+name: CEN+
+type: parsed
+protocol: nec1
+address: 0
+command: 10
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0
+command: 11
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0
+command: 12
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0
+command: 13
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0
+command: 14
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0
+command: 15
+#
+name: TUNER+
+type: parsed
+protocol: nec1
+address: 0
+command: 16
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 0
+command: 17
+#
+name: CHURCH
+type: parsed
+protocol: nec1
+address: 0
+command: 18
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 0
+command: 19
+#
+name: TUNER-
+type: parsed
+protocol: nec1
+address: 0
+command: 20
+#
+name: R
+type: parsed
+protocol: nec1
+address: 0
+command: 21
+#
+name: VOL -
+type: parsed
+protocol: nec1
+address: 0
+command: 22
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 0
+command: 23
+#
+name: TREB -
+type: parsed
+protocol: nec1
+address: 0
+command: 64
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 0
+command: 65
+#
+name: SL-
+type: parsed
+protocol: nec1
+address: 0
+command: 68
+#
+name: SR-
+type: parsed
+protocol: nec1
+address: 0
+command: 69
+#
+name: VOL +
+type: parsed
+protocol: nec1
+address: 0
+command: 70
+#
+name: L
+type: parsed
+protocol: nec1
+address: 0
+command: 71
+#
+name: SL+
+type: parsed
+protocol: nec1
+address: 0
+command: 72
+#
+name: SR+
+type: parsed
+protocol: nec1
+address: 0
+command: 73
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 0
+command: 74
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 0
+command: 75
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0
+command: 76
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0
+command: 77
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0
+command: 78
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0
+command: 79
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 0
+command: 80
+#
+name: POP
+type: parsed
+protocol: nec1
+address: 0
+command: 81
+#
+name: DSP OFF
+type: parsed
+protocol: nec1
+address: 0
+command: 82
+#
+name: JAZZ
+type: parsed
+protocol: nec1
+address: 0
+command: 83
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 0
+command: 84
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 0
+command: 85
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 0
+command: 86
+#
+name: MEM
+type: parsed
+protocol: nec1
+address: 0
+command: 87
+#

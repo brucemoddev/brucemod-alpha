@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128.123
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128.123
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128.123
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128.123
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128.123
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128.123
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128.123
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128.123
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128.123
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128.123
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 128.123
+command: 10
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 128.123
+command: 11
+#
+name: input_select
+type: parsed
+protocol: nec
+address: 128.123
+command: 12
+#
+name: timer_rec
+type: parsed
+protocol: nec
+address: 128.123
+command: 13
+#
+name: tv_vcr_scart_sw
+type: parsed
+protocol: nec
+address: 128.123
+command: 18
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128.123
+command: 19
+#
+name: index
+type: parsed
+protocol: nec
+address: 128.123
+command: 20
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 128.123
+command: 21
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 128.123
+command: 22
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128.123
+command: 23
+#
+name: f.fwd
+type: parsed
+protocol: nec
+address: 128.123
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 128.123
+command: 25
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 128.123
+command: 26
+#
+name: showview
+type: parsed
+protocol: nec
+address: 128.123
+command: 29
+#
+name: sp_lp
+type: parsed
+protocol: nec
+address: 128.123
+command: 30
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 128.123
+command: 31
+#
+name: preset
+type: parsed
+protocol: nec
+address: 128.123
+command: 64
+#
+name: set_plus
+type: parsed
+protocol: nec
+address: 128.123
+command: 65
+#
+name: set_minus
+type: parsed
+protocol: nec
+address: 128.123
+command: 66
+#
+name: trck_fine_plus
+type: parsed
+protocol: nec
+address: 128.123
+command: 67
+#
+name: trck_fine_minus
+type: parsed
+protocol: nec
+address: 128.123
+command: 68
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 128.123
+command: 69
+#
+name: aft_vps
+type: parsed
+protocol: nec
+address: 128.123
+command: 70
+#
+name: daily
+type: parsed
+protocol: nec
+address: 128.123
+command: 73
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 128.123
+command: 74
+#
+name: memory
+type: parsed
+protocol: nec
+address: 128.123
+command: 75
+#
+name: reset
+type: parsed
+protocol: nec
+address: 128.123
+command: 76
+#
+name: weekly
+type: parsed
+protocol: nec
+address: 128.123
+command: 77
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 128.123
+command: 78
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 128.123
+command: 80
+#
+name: clock_counter
+type: parsed
+protocol: nec
+address: 128.123
+command: 81
+#
+name: trck_auto
+type: parsed
+protocol: nec
+address: 128.123
+command: 82
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128.123
+command: 88
+#
+name: call
+type: parsed
+protocol: nec
+address: 128.123
+command: 95
+#

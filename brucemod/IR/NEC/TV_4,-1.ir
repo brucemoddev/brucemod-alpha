@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 4
+command: 0
+#
+name: CH ^
+type: parsed
+protocol: nec1
+address: 4
+command: 0
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 4
+command: 1
+#
+name: CH V
+type: parsed
+protocol: nec1
+address: 4
+command: 1
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 4
+command: 2
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 4
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 4
+command: 3
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 4
+command: 3
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 4
+command: 8
+#
+name: TV/VIDEO
+type: parsed
+protocol: nec1
+address: 4
+command: 9
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 4
+command: 10
+#
+name: ANT/AUX
+type: parsed
+protocol: nec1
+address: 4
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 4
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 4
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 4
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 4
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 4
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 4
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 4
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 4
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 4
+command: 25
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 4
+command: 27
+#

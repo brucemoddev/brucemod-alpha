@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 4
+command: 127
+#

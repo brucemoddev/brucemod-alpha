@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 20
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 20
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 20
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 20
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 20
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 20
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 20
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 20
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 20
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 20
+command: 9
+#
+name: sleep
+type: parsed
+protocol: Proton
+address: 20
+command: 13
+#
+name: recall
+type: parsed
+protocol: Proton
+address: 20
+command: 17
+#
+name: mute
+type: parsed
+protocol: Proton
+address: 20
+command: 18
+#
+name: Next
+type: parsed
+protocol: Proton
+address: 20
+command: 19
+#
+name: Prev
+type: parsed
+protocol: Proton
+address: 20
+command: 20
+#
+name: off
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: AV
+type: parsed
+protocol: Proton
+address: 20
+command: 22
+#
+name: Up
+type: parsed
+protocol: Proton
+address: 20
+command: 23
+#
+name: down
+type: parsed
+protocol: Proton
+address: 20
+command: 24
+#
+name: center
+type: parsed
+protocol: Proton
+address: 20
+command: 34
+#
+name: ---
+type: parsed
+protocol: Proton
+address: 20
+command: 37
+#
+name: Normal--Ok
+type: parsed
+protocol: Proton
+address: 20
+command: 39
+#
+name: skip
+type: parsed
+protocol: Proton
+address: 20
+command: 50
+#
+name: move
+type: parsed
+protocol: Proton
+address: 20
+command: 51
+#
+name: delete
+type: parsed
+protocol: Proton
+address: 20
+command: 52
+#
+name: mode
+type: parsed
+protocol: Proton
+address: 20
+command: 53
+#
+name: X
+type: parsed
+protocol: Proton
+address: 20
+command: 72
+#

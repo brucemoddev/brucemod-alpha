@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON
+type: parsed
+protocol: velleman
+address: 0
+command: 1
+#
+name: O9
+type: parsed
+protocol: velleman
+address: 0
+command: 5
+#
+name: O10
+type: parsed
+protocol: velleman
+address: 0
+command: 13
+#
+name: POWER
+type: parsed
+protocol: velleman
+address: 0
+command: 18
+#
+name: O1
+type: parsed
+protocol: velleman
+address: 0
+command: 19
+#
+name: O2
+type: parsed
+protocol: velleman
+address: 0
+command: 20
+#
+name: O3
+type: parsed
+protocol: velleman
+address: 0
+command: 21
+#
+name: O4
+type: parsed
+protocol: velleman
+address: 0
+command: 22
+#
+name: O13
+type: parsed
+protocol: velleman
+address: 0
+command: 23
+#
+name: MUTE
+type: parsed
+protocol: velleman
+address: 0
+command: 26
+#
+name: O5
+type: parsed
+protocol: velleman
+address: 0
+command: 27
+#
+name: O6
+type: parsed
+protocol: velleman
+address: 0
+command: 28
+#
+name: O7
+type: parsed
+protocol: velleman
+address: 0
+command: 29
+#
+name: O8
+type: parsed
+protocol: velleman
+address: 0
+command: 30
+#
+name: O14
+type: parsed
+protocol: velleman
+address: 0
+command: 31
+#
+name: O11
+type: parsed
+protocol: velleman
+address: 0
+command: 37
+#
+name: O12
+type: parsed
+protocol: velleman
+address: 0
+command: 45
+#
+name: O15
+type: parsed
+protocol: velleman
+address: 0
+command: 47
+#
+name: MANUAL
+type: parsed
+protocol: velleman
+address: 0
+command: 50
+#
+name: I1
+type: parsed
+protocol: velleman
+address: 0
+command: 51
+#
+name: I2
+type: parsed
+protocol: velleman
+address: 0
+command: 52
+#
+name: I3
+type: parsed
+protocol: velleman
+address: 0
+command: 53
+#
+name: I4
+type: parsed
+protocol: velleman
+address: 0
+command: 54
+#
+name: OFF
+type: parsed
+protocol: velleman
+address: 0
+command: 57
+#
+name: AUTO
+type: parsed
+protocol: velleman
+address: 0
+command: 58
+#
+name: I5
+type: parsed
+protocol: velleman
+address: 0
+command: 59
+#
+name: I6
+type: parsed
+protocol: velleman
+address: 0
+command: 60
+#
+name: I7
+type: parsed
+protocol: velleman
+address: 0
+command: 61
+#
+name: I8
+type: parsed
+protocol: velleman
+address: 0
+command: 62
+#
+name: O16
+type: parsed
+protocol: velleman
+address: 0
+command: 63
+#

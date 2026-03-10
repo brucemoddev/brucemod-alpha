@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 0
+command: 26
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 0
+command: 17
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 0
+command: 51
+#

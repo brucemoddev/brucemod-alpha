@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 26.197
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 26.197
+command: 3
+#
+name: AUDIO POWER
+type: parsed
+protocol: nec1
+address: 26.197
+command: 8
+#
+name: AUDIO MUTE
+type: parsed
+protocol: nec1
+address: 26.197
+command: 9
+#
+name: REAR VOLUME +
+type: parsed
+protocol: nec1
+address: 26.197
+command: 70
+#
+name: REAR VOLUME -
+type: parsed
+protocol: nec1
+address: 26.197
+command: 71
+#
+name: SURROUND SELECTOR
+type: parsed
+protocol: nec1
+address: 26.197
+command: 73
+#
+name: PRESET VOLUME
+type: parsed
+protocol: nec1
+address: 26.197
+command: 79
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 26.197
+command: 83
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 26.197
+command: 84
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 26.197
+command: 94
+#

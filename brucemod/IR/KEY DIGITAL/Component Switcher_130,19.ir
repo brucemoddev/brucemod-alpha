@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.19
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.19
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.19
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.19
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.19
+command: 9
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 82
+#
+name: INPUT 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 82
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 83
+#
+name: INPUT 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 83
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 84
+#
+name: INPUT 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 84
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 85
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.19
+command: 85
+#
+name: INPUT 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 85
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.19
+command: 87
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.19
+command: 88
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.19
+command: 89
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.19
+command: 90
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 130.19
+command: 92
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 130.19
+command: 97
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 130.19
+command: 102
+#
+name: R1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 113
+#
+name: R2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 114
+#
+name: R3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 115
+#

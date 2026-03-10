@@ -1,0 +1,471 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ARROW LEFT
+type: parsed
+protocol: mce
+address: 17.20
+command: 8
+#
+name: ARROW LEFT B
+type: parsed
+protocol: mce
+address: 17.20
+command: 8
+#
+name: DEL
+type: parsed
+protocol: mce
+address: 17.20
+command: 10
+#
+name: DEL B
+type: parsed
+protocol: mce
+address: 17.20
+command: 10
+#
+name: OK
+type: parsed
+protocol: mce
+address: 17.20
+command: 13
+#
+name: OK B
+type: parsed
+protocol: mce
+address: 17.20
+command: 13
+#
+name: VOLUME -
+type: parsed
+protocol: mce
+address: 17.20
+command: 30
+#
+name: VOLUME - B
+type: parsed
+protocol: mce
+address: 17.20
+command: 30
+#
+name: TV
+type: parsed
+protocol: mce
+address: 17.20
+command: 38
+#
+name: TV B
+type: parsed
+protocol: mce
+address: 17.20
+command: 38
+#
+name: REC
+type: parsed
+protocol: mce
+address: 17.20
+command: 41
+#
+name: REC B
+type: parsed
+protocol: mce
+address: 17.20
+command: 41
+#
+name: VOLUME +
+type: parsed
+protocol: mce
+address: 17.20
+command: 45
+#
+name: VOLUME + B
+type: parsed
+protocol: mce
+address: 17.20
+command: 45
+#
+name: EPG
+type: parsed
+protocol: mce
+address: 17.20
+command: 61
+#
+name: EPG B
+type: parsed
+protocol: mce
+address: 17.20
+command: 61
+#
+name: ?
+type: parsed
+protocol: mce
+address: 17.20
+command: 136
+#
+name: ? B
+type: parsed
+protocol: mce
+address: 17.20
+command: 136
+#
+name: B
+type: parsed
+protocol: mce
+address: 17.20
+command: 140
+#
+name: B B
+type: parsed
+protocol: mce
+address: 17.20
+command: 140
+#
+name: C
+type: parsed
+protocol: mce
+address: 17.20
+command: 153
+#
+name: C B
+type: parsed
+protocol: mce
+address: 17.20
+command: 153
+#
+name: CHANNEL +
+type: parsed
+protocol: mce
+address: 17.20
+command: 158
+#
+name: CHANNEL + B
+type: parsed
+protocol: mce
+address: 17.20
+command: 158
+#
+name: CHANNEL -
+type: parsed
+protocol: mce
+address: 17.20
+command: 159
+#
+name: CHANNEL - B
+type: parsed
+protocol: mce
+address: 17.20
+command: 159
+#
+name: UP
+type: parsed
+protocol: mce
+address: 17.20
+command: 168
+#
+name: UP B
+type: parsed
+protocol: mce
+address: 17.20
+command: 168
+#
+name: DOWN
+type: parsed
+protocol: mce
+address: 17.20
+command: 169
+#
+name: DOWN B
+type: parsed
+protocol: mce
+address: 17.20
+command: 169
+#
+name: LEFT
+type: parsed
+protocol: mce
+address: 17.20
+command: 170
+#
+name: LEFT B
+type: parsed
+protocol: mce
+address: 17.20
+command: 170
+#
+name: RIGHT
+type: parsed
+protocol: mce
+address: 17.20
+command: 171
+#
+name: RIGHT B
+type: parsed
+protocol: mce
+address: 17.20
+command: 171
+#
+name: PIP
+type: parsed
+protocol: mce
+address: 17.20
+command: 183
+#
+name: PIP B
+type: parsed
+protocol: mce
+address: 17.20
+command: 183
+#
+name: A
+type: parsed
+protocol: mce
+address: 17.20
+command: 208
+#
+name: A B
+type: parsed
+protocol: mce
+address: 17.20
+command: 208
+#
+name: P
+type: parsed
+protocol: mce
+address: 17.20
+command: 209
+#
+name: P B
+type: parsed
+protocol: mce
+address: 17.20
+command: 209
+#
+name: POWER
+type: parsed
+protocol: mce
+address: 17.20
+command: 210
+#
+name: POWER B
+type: parsed
+protocol: mce
+address: 17.20
+command: 210
+#
+name: PAUSE
+type: parsed
+protocol: mce
+address: 17.20
+command: 211
+#
+name: PAUSE B
+type: parsed
+protocol: mce
+address: 17.20
+command: 211
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 17.20
+command: 212
+#
+name: STOP B
+type: parsed
+protocol: mce
+address: 17.20
+command: 212
+#
+name: REW
+type: parsed
+protocol: mce
+address: 17.20
+command: 213
+#
+name: REW B
+type: parsed
+protocol: mce
+address: 17.20
+command: 213
+#
+name: FF
+type: parsed
+protocol: mce
+address: 17.20
+command: 214
+#
+name: FF B
+type: parsed
+protocol: mce
+address: 17.20
+command: 214
+#
+name: SKIP <<
+type: parsed
+protocol: mce
+address: 17.20
+command: 219
+#
+name: SKIP << B
+type: parsed
+protocol: mce
+address: 17.20
+command: 219
+#
+name: SKIP >>
+type: parsed
+protocol: mce
+address: 17.20
+command: 220
+#
+name: SKIP >> B
+type: parsed
+protocol: mce
+address: 17.20
+command: 220
+#
+name: STAR
+type: parsed
+protocol: mce
+address: 17.20
+command: 225
+#
+name: STAR B
+type: parsed
+protocol: mce
+address: 17.20
+command: 225
+#
+name: 0
+type: parsed
+protocol: mce
+address: 17.20
+command: 241
+#
+name: 0 B
+type: parsed
+protocol: mce
+address: 17.20
+command: 241
+#
+name: 1
+type: parsed
+protocol: mce
+address: 17.20
+command: 242
+#
+name: 1B
+type: parsed
+protocol: mce
+address: 17.20
+command: 242
+#
+name: 2
+type: parsed
+protocol: mce
+address: 17.20
+command: 243
+#
+name: 2B
+type: parsed
+protocol: mce
+address: 17.20
+command: 243
+#
+name: 3
+type: parsed
+protocol: mce
+address: 17.20
+command: 244
+#
+name: 3B
+type: parsed
+protocol: mce
+address: 17.20
+command: 244
+#
+name: 4
+type: parsed
+protocol: mce
+address: 17.20
+command: 245
+#
+name: 4B
+type: parsed
+protocol: mce
+address: 17.20
+command: 245
+#
+name: 5
+type: parsed
+protocol: mce
+address: 17.20
+command: 246
+#
+name: 5B
+type: parsed
+protocol: mce
+address: 17.20
+command: 246
+#
+name: 6
+type: parsed
+protocol: mce
+address: 17.20
+command: 247
+#
+name: 6B
+type: parsed
+protocol: mce
+address: 17.20
+command: 247
+#
+name: 7
+type: parsed
+protocol: mce
+address: 17.20
+command: 248
+#
+name: 7B
+type: parsed
+protocol: mce
+address: 17.20
+command: 248
+#
+name: 8
+type: parsed
+protocol: mce
+address: 17.20
+command: 249
+#
+name: 8B
+type: parsed
+protocol: mce
+address: 17.20
+command: 249
+#
+name: 9
+type: parsed
+protocol: mce
+address: 17.20
+command: 250
+#
+name: 9 B
+type: parsed
+protocol: mce
+address: 17.20
+command: 250
+#
+name: C/N
+type: parsed
+protocol: mce
+address: 17.20
+command: 252
+#
+name: C/NB
+type: parsed
+protocol: mce
+address: 17.20
+command: 252
+#

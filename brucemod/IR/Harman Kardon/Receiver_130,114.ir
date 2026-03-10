@@ -1,0 +1,1689 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CAS.PLAY >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CASS PLAY >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CASS_TRACK+
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CASS FAST FORWARD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CASS.DECK PLAY >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: TAPE PLAY > (AF)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CAS.REV.PLAY <
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS REV PLAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS REV.PLAY <
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS_TRACK-
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS REWIND
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS.DECK REV PLAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: TAPE1 REV PLAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: TAPE REV PLAY < (FM)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CAS.STOP []
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CASS STOP []
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CASS_STOP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CASS DECK STOP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CASS.DECK STOP []
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: TAPE STOP [] (RDS)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CAS.F.FWD >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS FWD >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS F.FWD >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS_SCAN+
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS SEARCH>>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS.DECK FF >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: TUNING +
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: TAPE1 TUNE/SRCH >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: TAPE TUNE/SCH >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CAS.REW <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CASS REW <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CASS_SCAN-
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CASS SEARCH<<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CASS.DECK REW <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: TUNING -
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: TAPE1 TUNE/SRCH <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: TAPE TUNE/SCH <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CAS.REC/PAUSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CASS REC/PAUSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CASS_PAUSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CASS RECORD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CASS.DECK REC/PAUSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: TAPE REC/PAUSE (PTY)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CAS.SKIP >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: CASS SKIP >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: CASS.DECK SRCH >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: TAPE1 CHAN/SKIP >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: TAPE SKIP >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: CAS.SKIP <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#
+name: CASS SKIP <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#
+name: CASS.DECK SRCH <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#
+name: TAPE1 CHAN/SKIP <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#
+name: TAPE SKIP <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#
+name: # (P-SCAN)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 10
+#
+name: CASS SELECT A/B
+type: parsed
+protocol: nec2
+address: 130.114
+command: 29
+#
+name: CASS_A-B
+type: parsed
+protocol: nec2
+address: 130.114
+command: 29
+#
+name: TAPE1 DISC/DECK/ANT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 29
+#
+name: TAPE PRESET DISC +/-
+type: parsed
+protocol: nec2
+address: 130.114
+command: 29
+#
+name: CASS A/B (SELECT)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 29
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 130.114
+command: 33
+#
+name: 
+type: parsed
+protocol: nec1
+address: 130.114
+command: 33
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 34
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 130.114
+command: 34
+#
+name: DVD POWER OFF
+type: parsed
+protocol: nec1
+address: 130.114
+command: 34
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 40
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 41
+#
+name: SET
+type: parsed
+protocol: nec1
+address: 130.114
+command: 42
+#
+name: DVD PLAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 43
+#
+name: DVD STOP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 45
+#
+name: SKIP NER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 48
+#
+name: DVD SKIP -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 48
+#
+name: SKIP UPP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 49
+#
+name: DVD SKIP +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 49
+#
+name: TAPE1 SOURCE POW ON
+type: parsed
+protocol: nec2
+address: 130.114
+command: 64
+#
+name: TAPE ON (SRCE PWR)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 64
+#
+name: TAPE1 SOURCE POW OFF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 65
+#
+name: TAPE OFF (SRCH PWR)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 65
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 80
+#
+name: DOLBY SUR
+type: parsed
+protocol: nec2
+address: 130.114
+command: 80
+#
+name: AC-3
+type: parsed
+protocol: nec2
+address: 130.114
+command: 80
+#
+name: DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 82
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 82
+#
+name: PREV CH / DELAY / BL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 82
+#
+name: PREV. CH./DELAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 82
+#
+name: SPKR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 83
+#
+name: SPEAKER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 83
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 130.114
+command: 83
+#
+name: MENU / SPKR / GRE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 83
+#
+name: MENU/SPKR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 83
+#
+name: DIGITAL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 84
+#
+name: DIGITAL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 84
+#
+name: EXIT / DIGITAL / YEL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 84
+#
+name: EXIT/DIGITAL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 84
+#
+name: RF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 85
+#
+name: OPT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 86
+#
+name: OPTICAL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 86
+#
+name: COAX
+type: parsed
+protocol: nec2
+address: 130.114
+command: 87
+#
+name: CHAN DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 88
+#
+name: CH- / SURR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 88
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 130.114
+command: 88
+#
+name: SURR./CH -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 88
+#
+name: SURR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 88
+#
+name: OSD
+type: parsed
+protocol: nec1
+address: 130.114
+command: 92
+#
+name: AVR (MENY)
+type: parsed
+protocol: nec1
+address: 130.114
+command: 92
+#
+name: OSD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 92
+#
+name: CH
+type: parsed
+protocol: nec2
+address: 130.114
+command: 93
+#
+name: CHANNEL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: CH.
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 93
+#
+name: GUIDE / CH / RED
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: CH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: GUIDE/CH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: CH SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 93
+#
+name: CH. SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 93
+#
+name: ON SCREEN ^
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 128
+#
+name: ON SCREEN ^
+type: parsed
+protocol: nec2
+address: 130.114
+command: 128
+#
+name: UP ARROW
+type: parsed
+protocol: nec2
+address: 130.114
+command: 128
+#
+name: SELECT ^
+type: parsed
+protocol: nec2
+address: 130.114
+command: 128
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 128
+#
+name: ON SCREEN V
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 129
+#
+name: ON SCREEN V
+type: parsed
+protocol: nec2
+address: 130.114
+command: 129
+#
+name: DOWN ARROW
+type: parsed
+protocol: nec2
+address: 130.114
+command: 129
+#
+name: SELECT V
+type: parsed
+protocol: nec2
+address: 130.114
+command: 129
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 130.114
+command: 129
+#
+name: ON SCREEN >
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 130
+#
+name: ON SCREEN >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 130
+#
+name: RIGHT ARROW
+type: parsed
+protocol: nec2
+address: 130.114
+command: 130
+#
+name: SELECT >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 130
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 130
+#
+name: ON SCREEN <
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 131
+#
+name: ON SCREEN <
+type: parsed
+protocol: nec2
+address: 130.114
+command: 131
+#
+name: LEFT ARROW
+type: parsed
+protocol: nec2
+address: 130.114
+command: 131
+#
+name: SELECT <
+type: parsed
+protocol: nec2
+address: 130.114
+command: 131
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 131
+#
+name: ON SCREEN ENTER
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 132
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 132
+#
+name: CURSOR OK
+type: parsed
+protocol: nec1
+address: 130.114
+command: 132
+#
+name: ON SCREEN ENTER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 132
+#
+name: SET
+type: parsed
+protocol: nec1
+address: 130.114
+command: 132
+#
+name: CURSOR SET
+type: parsed
+protocol: nec1
+address: 130.114
+command: 132
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 132
+#
+name: SURROUND UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 133
+#
+name: SURROUND DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 134
+#
+name: EFFECTS ^
+type: parsed
+protocol: nec2
+address: 130.114
+command: 135
+#
+name: EFFECTS V
+type: parsed
+protocol: nec2
+address: 130.114
+command: 136
+#
+name: SURROUND OFF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 137
+#
+name: SURR_OFF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 137
+#
+name: OFF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 137
+#
+name: DIRECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 137
+#
+name: SURROUND DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 138
+#
+name: SURR_DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 138
+#
+name: DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 138
+#
+name: SURR TEST
+type: parsed
+protocol: nec2
+address: 130.114
+command: 140
+#
+name: TEST
+type: parsed
+protocol: nec2
+address: 130.114
+command: 140
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 130.114
+command: 140
+#
+name: T/V / TEST
+type: parsed
+protocol: nec1
+address: 130.114
+command: 140
+#
+name: TEST TONE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 140
+#
+name: SURR CENT MODE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 141
+#
+name: CENTER_MODE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 141
+#
+name: CENT MODE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 141
+#
+name: CENTER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 141
+#
+name: SPEAKER ^
+type: parsed
+protocol: nec2
+address: 130.114
+command: 142
+#
+name: SPEAKER +
+type: parsed
+protocol: nec2
+address: 130.114
+command: 142
+#
+name: SPEAKER V
+type: parsed
+protocol: nec2
+address: 130.114
+command: 143
+#
+name: SPEAKER -
+type: parsed
+protocol: nec2
+address: 130.114
+command: 143
+#
+name: SURROUND HALL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 144
+#
+name: SURR_HALL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 144
+#
+name: HALL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 144
+#
+name: CLUB
+type: parsed
+protocol: nec2
+address: 130.114
+command: 145
+#
+name: SURROUND THEATER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 146
+#
+name: THEATER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 146
+#
+name: SIM.SURR.
+type: parsed
+protocol: nec2
+address: 130.114
+command: 147
+#
+name: SIM. SURR
+type: parsed
+protocol: nec2
+address: 130.114
+command: 147
+#
+name: MATRIX
+type: parsed
+protocol: nec2
+address: 130.114
+command: 147
+#
+name: SURROUND STADIUM
+type: parsed
+protocol: nec2
+address: 130.114
+command: 148
+#
+name: STADIUM
+type: parsed
+protocol: nec2
+address: 130.114
+command: 148
+#
+name: MOVIE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 149
+#
+name: NIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 150
+#
+name: NIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 150
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 153
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 153
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 153
+#
+name: UP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 153
+#
+name: UP ARROW
+type: parsed
+protocol: nec1
+address: 130.114
+command: 153
+#
+name: PIL UPP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 153
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 154
+#
+name: DN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 154
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 130.114
+command: 154
+#
+name: DOWN
+type: parsed
+protocol: nec2
+address: 130.114
+command: 154
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 154
+#
+name: DOWN ARROW
+type: parsed
+protocol: nec1
+address: 130.114
+command: 154
+#
+name: PIL NER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 154
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 130.114
+command: 155
+#
+name: STEREO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 155
+#
+name: STEREO/BYPASS
+type: parsed
+protocol: nec2
+address: 130.114
+command: 155
+#
+name: VMAX
+type: parsed
+protocol: nec1
+address: 130.114
+command: 156
+#
+name: SURROUND 3 STEREO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: SURR_3STEREO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: SURROUND 3-CH
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: 3-CH
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: 3 ST
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: 3 CHAN. STEREO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: MOVIE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 158
+#
+name: SURROUND PRO-LOGIC
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: SURR_PRO-LOGIC
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: PRO-LOGIC
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: PROLOGIC
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: P/L
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 130.114
+command: 160
+#
+name: DTS SURR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 160
+#
+name: DTS SUR
+type: parsed
+protocol: nec2
+address: 130.114
+command: 160
+#
+name: DTS SURROUND
+type: parsed
+protocol: nec1
+address: 130.114
+command: 160
+#
+name: DTS NEO:6
+type: parsed
+protocol: nec1
+address: 130.114
+command: 161
+#
+name: DTS NEO:6
+type: parsed
+protocol: nec2
+address: 130.114
+command: 161
+#
+name: DTS NEO 6
+type: parsed
+protocol: nec1
+address: 130.114
+command: 161
+#
+name: DTS NEO
+type: parsed
+protocol: nec1
+address: 130.114
+command: 161
+#
+name: LOGIC 7
+type: parsed
+protocol: nec1
+address: 130.114
+command: 162
+#
+name: AUDIO EFFECTS
+type: parsed
+protocol: nec1
+address: 130.114
+command: 167
+#
+name: SURROUND MODES
+type: parsed
+protocol: nec1
+address: 130.114
+command: 168
+#
+name: LEFT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 193
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 193
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 193
+#
+name: LEFT ARROW
+type: parsed
+protocol: nec1
+address: 130.114
+command: 193
+#
+name: NSTER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 193
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 194
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 194
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 194
+#
+name: RIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 194
+#
+name: RIGHT ARROW
+type: parsed
+protocol: nec1
+address: 130.114
+command: 194
+#
+name: GER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 194
+#
+name: SPEAKER 1
+type: parsed
+protocol: nec1
+address: 130.114
+command: 195
+#
+name: SPEAKERS 1
+type: parsed
+protocol: nec1
+address: 130.114
+command: 195
+#
+name: SPEAKER 2
+type: parsed
+protocol: nec1
+address: 130.114
+command: 196
+#
+name: SPEAKERS 2
+type: parsed
+protocol: nec1
+address: 130.114
+command: 196
+#
+name: TONE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 197
+#
+name: PRES+
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET+
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET UP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 208
+#
+name: PSET UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET >>
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: AM/FM PRESET DISC +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: TUNER PRESET +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: FM PRESET +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRES-
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET-
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec2
+address: 130.114
+command: 209
+#
+name: PSET DN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET <<
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: AM/FM PRESET DISC -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: TUNER PRESET -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: FM PRESET -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: AM/FM SKIP >>
+type: parsed
+protocol: nec1
+address: 130.114
+command: 210
+#
+name: AM/FM SKIP <<
+type: parsed
+protocol: nec1
+address: 130.114
+command: 211
+#
+name: AM/FM PTY (REC/)
+type: parsed
+protocol: nec1
+address: 130.114
+command: 212
+#
+name: AM/FM AF (>)
+type: parsed
+protocol: nec1
+address: 130.114
+command: 213
+#
+name: 6 CH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 216
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 217
+#
+name: CLEAR/M4
+type: parsed
+protocol: nec1
+address: 130.114
+command: 217
+#
+name: 6/8 CH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 219
+#
+name: 6 CHAN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 219
+#
+name: 6/8CH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 219
+#
+name: 6/8CH
+type: parsed
+protocol: nec2
+address: 130.114
+command: 219
+#
+name: 6 CH.
+type: parsed
+protocol: nec1
+address: 130.114
+command: 219
+#
+name: INPUT 6 CHANNEL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 219
+#
+name: RDS
+type: parsed
+protocol: nec1
+address: 130.114
+command: 221
+#
+name: D.SKIP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 221
+#
+name: AM/FM RDS DISP (STOP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 221
+#
+name: AUTO PRESET
+type: parsed
+protocol: nec1
+address: 130.114
+command: 222
+#
+name: AUTO-PRESET MODE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 222
+#
+name: M-ROOM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#
+name: MULTI-ROOM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#
+name: MULTI ROOM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#
+name: MULTI
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#
+name: M-RUM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#

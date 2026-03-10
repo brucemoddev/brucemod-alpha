@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: > PLAY
+type: parsed
+protocol: sony12
+address: 16
+command: 50
+#
+name: << REWIND
+type: parsed
+protocol: sony12
+address: 16
+command: 51
+#
+name: >> FAST FORWARD
+type: parsed
+protocol: sony12
+address: 16
+command: 52
+#
+name: RECORD
+type: parsed
+protocol: sony12
+address: 16
+command: 54
+#
+name: < PLAY
+type: parsed
+protocol: sony12
+address: 16
+command: 55
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 16
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 16
+command: 57
+#
+name: REC MUTE
+type: parsed
+protocol: sony12
+address: 16
+command: 63
+#

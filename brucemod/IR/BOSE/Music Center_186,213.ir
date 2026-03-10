@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186.213
+command: 1
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 186.213
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 186.213
+command: 3
+#
+name: AM/FM
+type: parsed
+protocol: nec2
+address: 186.213
+command: 6
+#
+name: SURROUND -
+type: parsed
+protocol: nec1
+address: 186.213
+command: 10
+#
+name: SURROUND +
+type: parsed
+protocol: nec1
+address: 186.213
+command: 11
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 186.213
+command: 12
+#
+name: VIDEO 2
+type: parsed
+protocol: nec2
+address: 186.213
+command: 13
+#
+name: VIDEO 1
+type: parsed
+protocol: nec2
+address: 186.213
+command: 14
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 186.213
+command: 15
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 186.213
+command: 16
+#
+name: SKIP <<
+type: parsed
+protocol: nec2
+address: 186.213
+command: 24
+#
+name: <<
+type: parsed
+protocol: nec2
+address: 186.213
+command: 24
+#
+name: SKIP >>
+type: parsed
+protocol: nec2
+address: 186.213
+command: 25
+#
+name: >>
+type: parsed
+protocol: nec2
+address: 186.213
+command: 25
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 186.213
+command: 26
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 186.213
+command: 27
+#
+name: PRESET +
+type: parsed
+protocol: nec2
+address: 186.213
+command: 29
+#
+name: PRESET -
+type: parsed
+protocol: nec2
+address: 186.213
+command: 31
+#
+name: RANDOM DISC
+type: parsed
+protocol: nec2
+address: 186.213
+command: 74
+#
+name: STEREO MODE
+type: parsed
+protocol: nec1
+address: 186.213
+command: 75
+#
+name: ON/OFF
+type: parsed
+protocol: nec2
+address: 186.213
+command: 76
+#
+name: OFF
+type: parsed
+protocol: nec2
+address: 186.213
+command: 76
+#
+name: 5 SPEAKER MODE
+type: parsed
+protocol: nec1
+address: 186.213
+command: 78
+#
+name: 3 SPEAKER MODE
+type: parsed
+protocol: nec1
+address: 186.213
+command: 79
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 186.213
+command: 82
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 186.213
+command: 83
+#
+name: DISC -
+type: parsed
+protocol: nec2
+address: 186.213
+command: 84
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 186.213
+command: 85
+#
+name: SCAN <<
+type: parsed
+protocol: nec2
+address: 186.213
+command: 87
+#
+name: <<
+type: parsed
+protocol: nec2
+address: 186.213
+command: 87
+#
+name: SCAN >>
+type: parsed
+protocol: nec2
+address: 186.213
+command: 88
+#
+name: >>
+type: parsed
+protocol: nec2
+address: 186.213
+command: 88
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 186.213
+command: 92
+#
+name: RANDOM ALL
+type: parsed
+protocol: nec2
+address: 186.213
+command: 92
+#
+name: NEXT DISC
+type: parsed
+protocol: nec2
+address: 186.213
+command: 93
+#
+name: DISC +
+type: parsed
+protocol: nec2
+address: 186.213
+command: 93
+#
+name: MUTE ALL
+type: parsed
+protocol: nec2
+address: 186.213
+command: 223
+#

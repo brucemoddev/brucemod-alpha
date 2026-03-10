@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VDP POWER
+type: parsed
+protocol: denon
+address: 6
+command: 129
+#
+name: VDP POWER (DISC SKIP
+type: parsed
+protocol: denon
+address: 6
+command: 129
+#
+name: VDP STOP []
+type: parsed
+protocol: denon
+address: 6
+command: 131
+#
+name: VDP PLAY >
+type: parsed
+protocol: denon
+address: 6
+command: 132
+#
+name: VDP PAUSE 
+type: parsed
+protocol: denon
+address: 6
+command: 133
+#
+name: VDP SKIP >>
+type: parsed
+protocol: denon
+address: 6
+command: 134
+#
+name: VDP >>
+type: parsed
+protocol: denon
+address: 6
+command: 134
+#
+name: VDP SKIP <<
+type: parsed
+protocol: denon
+address: 6
+command: 135
+#
+name: VDP <<
+type: parsed
+protocol: denon
+address: 6
+command: 135
+#
+name: VDP SCAN >>
+type: parsed
+protocol: denon
+address: 6
+command: 136
+#
+name: 
+type: parsed
+protocol: denon
+address: 6
+command: 136
+#
+name: VDP >>
+type: parsed
+protocol: denon_2
+address: 6
+command: 136
+#
+name: VDP FFWD >>
+type: parsed
+protocol: denon
+address: 6
+command: 136
+#
+name: VDP SCAN <<
+type: parsed
+protocol: denon
+address: 6
+command: 137
+#
+name: VDP <<
+type: parsed
+protocol: denon
+address: 6
+command: 137
+#
+name: VDP REW <<
+type: parsed
+protocol: denon
+address: 6
+command: 137
+#
+name: POWER OFF
+type: parsed
+protocol: denon
+address: 6
+command: 192
+#
+name: MD-STOP
+type: parsed
+protocol: denon
+address: 6
+command: 225
+#
+name: MD-PLAY
+type: parsed
+protocol: denon
+address: 6
+command: 226
+#
+name: MD-PAUSE
+type: parsed
+protocol: denon
+address: 6
+command: 227
+#
+name: MD-FF
+type: parsed
+protocol: denon
+address: 6
+command: 233
+#
+name: MD-RW
+type: parsed
+protocol: denon
+address: 6
+command: 234
+#
+name: MD-SEARCH+
+type: parsed
+protocol: denon
+address: 6
+command: 235
+#
+name: MD-SEARCH-
+type: parsed
+protocol: denon
+address: 6
+command: 236
+#

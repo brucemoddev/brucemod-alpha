@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: TAPE_REVERSE
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: TAPE_FAST_FORWARD
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: TAPE_STOP
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: TAPE_RECORD/PAUSE
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: TAPE_REC_MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 5
+#
+name: TAPE_DECK_A/B
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: TAPE_DIR_DECK_A
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: CD_PAUSE/STOP
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: CD_SKIP_FORWARD
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: CD_SKIP_REVERSE
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: CD_SEARCH_FORWARD
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: CD_SEARCH_REVERSE
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: PHONO_PLAY/CUT
+type: parsed
+protocol: nec
+address: 122
+command: 14
+#
+name: VCR1
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: TUNER_PRESET_UP
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: TUNER_PRESET_DOWN
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: TUNER_A/B/C
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: VCR2
+type: parsed
+protocol: nec
+address: 122
+command: 19
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: CDV
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: DAT
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 122
+command: 25
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: MUTING
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: TAPE_DIR_DECK_B
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: SOURCE_DIRECT
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#

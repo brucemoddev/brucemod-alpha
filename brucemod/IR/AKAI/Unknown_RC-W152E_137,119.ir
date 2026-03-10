@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 137.119
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 137.119
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 137.119
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 137.119
+command: 6
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 137.119
+command: 7
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 137.119
+command: 8
+#
+name: STILL
+type: parsed
+protocol: nec
+address: 137.119
+command: 9
+#
+name: RESET
+type: parsed
+protocol: nec
+address: 137.119
+command: 10
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 137.119
+command: 13
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 137.119
+command: 14
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 137.119
+command: 15
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 137.119
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 137.119
+command: 19
+#
+name: KEY_F11
+type: parsed
+protocol: nec
+address: 137.119
+command: 20
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 137.119
+command: 22
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 137.119
+command: 23
+#
+name: AUTO
+type: parsed
+protocol: nec
+address: 137.119
+command: 24
+#
+name: SPEED_UP
+type: parsed
+protocol: nec
+address: 137.119
+command: 26
+#
+name: SPEED_DOWN
+type: parsed
+protocol: nec
+address: 137.119
+command: 27
+#
+name: VID_MODE
+type: parsed
+protocol: nec
+address: 137.119
+command: 78
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 137.119
+command: 80
+#
+name: DIMMER
+type: parsed
+protocol: nec
+address: 137.119
+command: 81
+#
+name: TIMER
+type: parsed
+protocol: nec
+address: 137.119
+command: 83
+#
+name: PROG_LIST
+type: parsed
+protocol: nec
+address: 137.119
+command: 84
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 137.119
+command: 85
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 137.119
+command: 86
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 137.119
+command: 88
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 137.119
+command: 89
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 137.119
+command: 92
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 137.119
+command: 93
+#
+name: PROG
+type: parsed
+protocol: nec
+address: 137.119
+command: 95
+#

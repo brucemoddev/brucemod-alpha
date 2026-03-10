@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV POWER
+type: parsed
+protocol: nec1
+address: 4
+command: 8
+#
+name: TV 0
+type: parsed
+protocol: nec1
+address: 4
+command: 16
+#
+name: TV 1
+type: parsed
+protocol: nec1
+address: 4
+command: 17
+#
+name: TV 2
+type: parsed
+protocol: nec1
+address: 4
+command: 18
+#
+name: TV 3
+type: parsed
+protocol: nec1
+address: 4
+command: 19
+#
+name: TV 4
+type: parsed
+protocol: nec1
+address: 4
+command: 20
+#
+name: TV 5
+type: parsed
+protocol: nec1
+address: 4
+command: 21
+#
+name: TV 6
+type: parsed
+protocol: nec1
+address: 4
+command: 22
+#
+name: TV 7
+type: parsed
+protocol: nec1
+address: 4
+command: 23
+#
+name: TV 8
+type: parsed
+protocol: nec1
+address: 4
+command: 24
+#
+name: TV 9
+type: parsed
+protocol: nec1
+address: 4
+command: 25
+#

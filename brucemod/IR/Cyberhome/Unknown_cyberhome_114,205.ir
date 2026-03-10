@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 114.205
+command: 3
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 114.205
+command: 4
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 114.205
+command: 5
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 114.205
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 114.205
+command: 9
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 114.205
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 114.205
+command: 11
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 114.205
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 114.205
+command: 13
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 114.205
+command: 14
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 114.205
+command: 15
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 114.205
+command: 16
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 114.205
+command: 17
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 114.205
+command: 18
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 114.205
+command: 19
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 114.205
+command: 23
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 114.205
+command: 28
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 114.205
+command: 29
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 114.205
+command: 31
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 114.205
+command: 68
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 114.205
+command: 69
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 114.205
+command: 72
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 114.205
+command: 73
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 114.205
+command: 92
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 114.205
+command: 93
+#

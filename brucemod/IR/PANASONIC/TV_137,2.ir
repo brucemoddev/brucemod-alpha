@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 208
+#
+name: picture
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: tv
+type: parsed
+protocol: panasonic
+address: 130.2
+command: 0
+#
+name: Av
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: Menu
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: Text
+type: parsed
+protocol: panasonic
+address: 129.2
+command: 48
+#
+name: STTL
+type: parsed
+protocol: panasonic
+address: 129.2
+command: 80
+#
+name: PROVIDER
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 144
+#
+name: Info
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: Exit
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: NETFLIX
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 32
+#
+name: home
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 80
+#
+name: Guide
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 112
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 160
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 176
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 224
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 240
+#
+name: Ok
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: OPTION
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 112
+#
+name: Back
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: red
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: green
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: Yellow
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: blue
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: Vol_Up
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: VOL_DN
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: Mute
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: CN_NEXT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: CN_PREV
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 96
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 112
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 128
+#
+name: EHELP
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 192
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: FREEVIEW
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 96
+#
+name: SEEK_LEFT
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 64
+#
+name: Play
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 0
+#
+name: SEEK_RIGHT
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 48
+#
+name: skip_backward
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 192
+#
+name: Pause
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 16
+#
+name: SEEK_FORWARD
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 208
+#
+name: MY_APP
+type: parsed
+protocol: panasonic
+address: 132.2
+command: 96
+#
+name: Stop
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 32
+#
+name: Record
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 80
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SCROLL DOWN
+type: parsed
+protocol: dish_netwo
+address: 1.14
+command: 7
+#
+name: 
+type: parsed
+protocol: dish_netwo
+address: 1.14
+command: 15
+#

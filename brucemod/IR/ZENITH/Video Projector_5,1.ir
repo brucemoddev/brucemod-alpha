@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: B-MUTE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 0
+#
+name: - HORIZONTAL
+type: parsed
+protocol: zenith
+address: 5.1
+command: 2
+#
+name: H- PULSE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 3
+#
+name: ARROW LEFT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 6
+#
+name: R-MUTE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 8
+#
+name: + HORIZONTAL
+type: parsed
+protocol: zenith
+address: 5.1
+command: 10
+#
+name: BLUE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 11
+#
+name: DIG ANALOG
+type: parsed
+protocol: zenith
+address: 5.1
+command: 13
+#
+name: ARROW RIGHT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 15
+#
+name: IN-KEY
+type: parsed
+protocol: zenith
+address: 5.1
+command: 16
+#
+name: BOW
+type: parsed
+protocol: zenith
+address: 5.1
+command: 18
+#
+name: IN-PIN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 19
+#
+name: KEY
+type: parsed
+protocol: zenith
+address: 5.1
+command: 20
+#
+name: G-MUTE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 26
+#
+name: GREEN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 27
+#
+name: ADJ TOGGLE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 28
+#
+name: ARROW DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 29
+#
+name: ARROW UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 30
+#
+name: LIN C / LI - LIN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 31
+#

@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR STOP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: VCR FFWD
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCR REW
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCR POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: VCR PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: VCR PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: TV (CONTROL)
+type: parsed
+protocol: jvc
+address: 67
+command: 16
+#
+name: VCR REC/PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: VCR REC/PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 205
+#

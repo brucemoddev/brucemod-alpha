@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 0
+#
+name: KEY_CD
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 1
+#
+name: KEY_TAPE
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 2
+#
+name: Tuner_(Band)
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 3
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 6
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 7
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 8
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 9
+#
+name: KEY_NEXT
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 10
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 11
+#
+name: Repeat/Preset_up
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 12
+#
+name: Shuffle
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 13
+#
+name: EEPS
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 14
+#
+name: Time_Mode
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 15
+#
+name: Memory/Time_set
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 16
+#
+name: KEY_MUTE
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 17
+#
+name: FM_Mode
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 18
+#
+name: KEY_OPEN
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 19
+#
+name: Intro_Check
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 20
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 21
+#
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 22
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 23
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 24
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 25
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 27
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 28
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 29
+#
+name: KEY_9
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 30
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: aiwa
+address: 34.1
+command: 31
+#

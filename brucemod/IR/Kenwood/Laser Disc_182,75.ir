@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 182.75
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 182.75
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 182.75
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 182.75
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 182.75
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 182.75
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 182.75
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 182.75
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 182.75
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 182.75
+command: 9
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 182.75
+command: 10
+#
+name: AUDIO MONI.
+type: parsed
+protocol: nec1
+address: 182.75
+command: 15
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 182.75
+command: 16
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 182.75
+command: 17
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 182.75
+command: 18
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 182.75
+command: 20
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 182.75
+command: 21
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 182.75
+command: 22
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 182.75
+command: 23
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 182.75
+command: 24
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 182.75
+command: 25
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 182.75
+command: 26
+#
+name: CHECK
+type: parsed
+protocol: nec1
+address: 182.75
+command: 27
+#
+name: P.MODE
+type: parsed
+protocol: nec1
+address: 182.75
+command: 31
+#
+name: AUTO DIGITAL
+type: parsed
+protocol: nec1
+address: 182.75
+command: 64
+#
+name: TV/DISC
+type: parsed
+protocol: nec1
+address: 182.75
+command: 65
+#
+name: SPACE
+type: parsed
+protocol: nec1
+address: 182.75
+command: 66
+#
+name: REPEAT A-B
+type: parsed
+protocol: nec1
+address: 182.75
+command: 67
+#
+name: EDIT
+type: parsed
+protocol: nec1
+address: 182.75
+command: 74
+#
+name: INTRO SCAN
+type: parsed
+protocol: nec1
+address: 182.75
+command: 78
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 182.75
+command: 79
+#
+name: FRAME/TIME
+type: parsed
+protocol: nec1
+address: 182.75
+command: 87
+#
+name: STILL/STEP <
+type: parsed
+protocol: nec1
+address: 182.75
+command: 88
+#
+name: STILL/STEP >
+type: parsed
+protocol: nec1
+address: 182.75
+command: 89
+#
+name: MULTI SPEED <
+type: parsed
+protocol: nec1
+address: 182.75
+command: 90
+#
+name: MULTI SPEED >
+type: parsed
+protocol: nec1
+address: 182.75
+command: 91
+#
+name: MULTI SPEED -
+type: parsed
+protocol: nec1
+address: 182.75
+command: 92
+#
+name: MULTI SPEED +
+type: parsed
+protocol: nec1
+address: 182.75
+command: 93
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 182.75
+command: 95
+#
+name: JOG FWD >>
+type: parsed
+protocol: nec1
+address: 182.75
+command: 128
+#
+name: JOG REV <<
+type: parsed
+protocol: nec1
+address: 182.75
+command: 136
+#
+name: MNT/HIT MASTER
+type: parsed
+protocol: nec1
+address: 182.75
+command: 151
+#
+name: MIDNIGHT THEATER
+type: parsed
+protocol: nec1
+address: 182.75
+command: 151
+#
+name: A
+type: parsed
+protocol: nec1
+address: 182.75
+command: 152
+#
+name: B
+type: parsed
+protocol: nec1
+address: 182.75
+command: 153
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 182.75
+command: 154
+#
+name: M-STOP
+type: parsed
+protocol: nec1
+address: 182.75
+command: 155
+#
+name: M-SHOT
+type: parsed
+protocol: nec1
+address: 182.75
+command: 156
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 182.75
+command: 157
+#
+name: CX
+type: parsed
+protocol: nec1
+address: 182.75
+command: 159
+#

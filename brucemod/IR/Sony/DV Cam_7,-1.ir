@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: X 2
+type: parsed
+protocol: sony12
+address: 7
+command: 20
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 7
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 7
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 7
+command: 26
+#
+name: REW <<
+type: parsed
+protocol: sony12
+address: 7
+command: 27
+#
+name: FF >>
+type: parsed
+protocol: sony12
+address: 7
+command: 28
+#
+name: RECORD DV IN
+type: parsed
+protocol: sony12
+address: 7
+command: 29
+#
+name: SLOW >
+type: parsed
+protocol: sony12
+address: 7
+command: 35
+#
+name: <
+type: parsed
+protocol: sony12
+address: 7
+command: 48
+#
+name: ZERO SET MEMORY
+type: parsed
+protocol: sony12
+address: 7
+command: 71
+#
+name: SEARCH MODE >>
+type: parsed
+protocol: sony12
+address: 7
+command: 86
+#
+name: SEARCH MODE <<
+type: parsed
+protocol: sony12
+address: 7
+command: 87
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 7
+command: 90
+#
+name: AUDIO DUB
+type: parsed
+protocol: sony12
+address: 7
+command: 104
+#

@@ -1,0 +1,807 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR CHANNEL ^
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: CHANNEL ^
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: VCR CH ^ (SET +)
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: CH/SET ^
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: VCR CH ^
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: VCR CHANNEL V
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: CHANNEL V
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: VCR CH V (SET -)
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: CH/SET V
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: VCR CH V
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: VCR SLOW +
+type: parsed
+protocol: nec1
+address: 25
+command: 2
+#
+name: VCR SLOW ^
+type: parsed
+protocol: nec1
+address: 25
+command: 2
+#
+name: SLOW +
+type: parsed
+protocol: nec1
+address: 25
+command: 2
+#
+name: VCR SLOW -
+type: parsed
+protocol: nec1
+address: 25
+command: 3
+#
+name: VCR SLOW V
+type: parsed
+protocol: nec1
+address: 25
+command: 3
+#
+name: SLOW -
+type: parsed
+protocol: nec1
+address: 25
+command: 3
+#
+name: VCR STOP []
+type: parsed
+protocol: nec1
+address: 25
+command: 4
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 25
+command: 4
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 25
+command: 4
+#
+name: VCR PLAY >
+type: parsed
+protocol: nec1
+address: 25
+command: 5
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 25
+command: 5
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 25
+command: 5
+#
+name: VCR REC
+type: parsed
+protocol: nec1
+address: 25
+command: 6
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 25
+command: 6
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 25
+command: 6
+#
+name: VCR RECORD
+type: parsed
+protocol: nec1
+address: 25
+command: 6
+#
+name: VCR SR
+type: parsed
+protocol: nec1
+address: 25
+command: 7
+#
+name: SR
+type: parsed
+protocol: nec1
+address: 25
+command: 7
+#
+name: VCR POWER
+type: parsed
+protocol: nec1
+address: 25
+command: 8
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 25
+command: 8
+#
+name: VCR RESET
+type: parsed
+protocol: nec1
+address: 25
+command: 9
+#
+name: RESET COUNTER
+type: parsed
+protocol: nec1
+address: 25
+command: 9
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 25
+command: 9
+#
+name: VCR VCR/TV
+type: parsed
+protocol: nec1
+address: 25
+command: 10
+#
+name: VCR/TV
+type: parsed
+protocol: nec1
+address: 25
+command: 10
+#
+name: VCR TV/VCR
+type: parsed
+protocol: nec1
+address: 25
+command: 10
+#
+name: TV/VIDEO
+type: parsed
+protocol: nec1
+address: 25
+command: 10
+#
+name: VCR COUNTER MEMORY
+type: parsed
+protocol: nec1
+address: 25
+command: 11
+#
+name: MEMORY COUNTER
+type: parsed
+protocol: nec1
+address: 25
+command: 11
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 25
+command: 11
+#
+name: VCR FF/SRCH >>
+type: parsed
+protocol: nec1
+address: 25
+command: 12
+#
+name: FF/PICTURE SRCH >>
+type: parsed
+protocol: nec1
+address: 25
+command: 12
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 25
+command: 12
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: nec1
+address: 25
+command: 12
+#
+name: 
+type: parsed
+protocol: nec1
+address: 25
+command: 12
+#
+name: VCR REW/SRCH <<
+type: parsed
+protocol: nec1
+address: 25
+command: 13
+#
+name: REW/PICTURE SRCH <<
+type: parsed
+protocol: nec1
+address: 25
+command: 13
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 25
+command: 13
+#
+name: REWIND <<
+type: parsed
+protocol: nec1
+address: 25
+command: 13
+#
+name: VCR PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 25
+command: 14
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 25
+command: 14
+#
+name: VCR PAUSE/STILL
+type: parsed
+protocol: nec1
+address: 25
+command: 14
+#
+name: PAUSE/STILL  / ><
+type: parsed
+protocol: nec1
+address: 25
+command: 14
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 25
+command: 14
+#
+name: VCR EJECT
+type: parsed
+protocol: nec1
+address: 25
+command: 15
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 25
+command: 15
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 25
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 25
+command: 16
+#
+name: VCR 1 (AM/SUN)
+type: parsed
+protocol: nec1
+address: 25
+command: 16
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 25
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 25
+command: 17
+#
+name: VCR 2 (PM/MON)
+type: parsed
+protocol: nec1
+address: 25
+command: 17
+#
+name: VCR 3
+type: parsed
+protocol: nec1
+address: 25
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 25
+command: 18
+#
+name: VCR 3 (TUE)
+type: parsed
+protocol: nec1
+address: 25
+command: 18
+#
+name: VCR 4
+type: parsed
+protocol: nec1
+address: 25
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 25
+command: 19
+#
+name: VCR 4 (WED)
+type: parsed
+protocol: nec1
+address: 25
+command: 19
+#
+name: VCR 5
+type: parsed
+protocol: nec1
+address: 25
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 25
+command: 20
+#
+name: VCR 5 (THU)
+type: parsed
+protocol: nec1
+address: 25
+command: 20
+#
+name: VCR 6
+type: parsed
+protocol: nec1
+address: 25
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 25
+command: 21
+#
+name: VCR 6 (FRI)
+type: parsed
+protocol: nec1
+address: 25
+command: 21
+#
+name: VCR 7
+type: parsed
+protocol: nec1
+address: 25
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 25
+command: 22
+#
+name: VCR 7 (SAT)
+type: parsed
+protocol: nec1
+address: 25
+command: 22
+#
+name: VCR 8
+type: parsed
+protocol: nec1
+address: 25
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 25
+command: 23
+#
+name: VCR 9
+type: parsed
+protocol: nec1
+address: 25
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 25
+command: 24
+#
+name: VCR INPUT
+type: parsed
+protocol: nec1
+address: 25
+command: 25
+#
+name: VCR 0
+type: parsed
+protocol: nec1
+address: 25
+command: 26
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 25
+command: 26
+#
+name: VCR REC MODE
+type: parsed
+protocol: nec1
+address: 25
+command: 27
+#
+name: REC MODE
+type: parsed
+protocol: nec1
+address: 25
+command: 27
+#
+name: SP/EP RECORD MODE
+type: parsed
+protocol: nec1
+address: 25
+command: 27
+#
+name: VCR SHIFT +
+type: parsed
+protocol: nec1
+address: 25
+command: 30
+#
+name: SHIFT
+type: parsed
+protocol: nec1
+address: 25
+command: 30
+#
+name: FWD >
+type: parsed
+protocol: nec1
+address: 25
+command: 96
+#
+name: REV <
+type: parsed
+protocol: nec1
+address: 25
+command: 97
+#
+name: INDEX SEARCH
+type: parsed
+protocol: nec1
+address: 25
+command: 98
+#
+name: VCR TRACKING +
+type: parsed
+protocol: nec1
+address: 25
+command: 99
+#
+name: TRACKING +
+type: parsed
+protocol: nec1
+address: 25
+command: 99
+#
+name: VCR TRACKING -
+type: parsed
+protocol: nec1
+address: 25
+command: 100
+#
+name: TRACKING -
+type: parsed
+protocol: nec1
+address: 25
+command: 100
+#
+name: REAL/NORM. COUNTER
+type: parsed
+protocol: nec1
+address: 25
+command: 101
+#
+name: NAT.SL
+type: parsed
+protocol: nec1
+address: 25
+command: 104
+#
+name: PRGM CHECK
+type: parsed
+protocol: nec1
+address: 25
+command: 105
+#
+name: VCR MONITOR
+type: parsed
+protocol: nec1
+address: 25
+command: 111
+#
+name: VCR TIMER MODE
+type: parsed
+protocol: nec1
+address: 25
+command: 130
+#
+name: OSD PRGM
+type: parsed
+protocol: nec1
+address: 25
+command: 130
+#
+name: TIMER MODE
+type: parsed
+protocol: nec1
+address: 25
+command: 130
+#
+name: TIMER REC
+type: parsed
+protocol: nec1
+address: 25
+command: 131
+#
+name: VCR TIMER REC
+type: parsed
+protocol: nec1
+address: 25
+command: 131
+#
+name: VCR TIMER RECORD
+type: parsed
+protocol: nec1
+address: 25
+command: 131
+#
+name: VCR ON SCREEN
+type: parsed
+protocol: nec1
+address: 25
+command: 132
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 25
+command: 132
+#
+name: VCR CLOCK/COUNTER
+type: parsed
+protocol: nec1
+address: 25
+command: 133
+#
+name: VCR COUNTER/TIMER
+type: parsed
+protocol: nec1
+address: 25
+command: 133
+#
+name: TIMER/COUNTER
+type: parsed
+protocol: nec1
+address: 25
+command: 133
+#
+name: VCR ANT/AUX
+type: parsed
+protocol: nec1
+address: 25
+command: 133
+#
+name: VCR F ADV
+type: parsed
+protocol: nec1
+address: 25
+command: 134
+#
+name: VCR STILL ADV.
+type: parsed
+protocol: nec1
+address: 25
+command: 134
+#
+name: VCR SHIFT -
+type: parsed
+protocol: nec1
+address: 25
+command: 136
+#
+name: VCR BACK
+type: parsed
+protocol: nec1
+address: 25
+command: 136
+#
+name: DIGITAL MEM.
+type: parsed
+protocol: nec1
+address: 25
+command: 144
+#
+name: ST/SAP
+type: parsed
+protocol: nec1
+address: 25
+command: 145
+#
+name: HI-FI/NORM
+type: parsed
+protocol: nec1
+address: 25
+command: 146
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 25
+command: 147
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 25
+command: 148
+#
+name: STROBE
+type: parsed
+protocol: nec1
+address: 25
+command: 154
+#
+name: DIGITAL NR
+type: parsed
+protocol: nec1
+address: 25
+command: 156
+#
+name: VCR TIME SEARCH
+type: parsed
+protocol: nec1
+address: 25
+command: 157
+#
+name: REAL SEARCH
+type: parsed
+protocol: nec1
+address: 25
+command: 157
+#
+name: VCR DSR
+type: parsed
+protocol: nec1
+address: 25
+command: 158
+#
+name: D.S.R.
+type: parsed
+protocol: nec1
+address: 25
+command: 158
+#
+name: VCR X2
+type: parsed
+protocol: nec1
+address: 25
+command: 159
+#
+name: VCR SLOW
+type: parsed
+protocol: nec1
+address: 25
+command: 197
+#
+name: VCR ADD/ERASE
+type: parsed
+protocol: nec1
+address: 25
+command: 198
+#
+name: VCR REPEAT
+type: parsed
+protocol: nec1
+address: 25
+command: 199
+#
+name: VCR CH SEARCH
+type: parsed
+protocol: nec1
+address: 25
+command: 200
+#

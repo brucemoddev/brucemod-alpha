@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: KEY_FORWARD
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: >
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: ||
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: TV/VCR
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: KEY_NEXT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: KEY_AUDIO
+type: parsed
+protocol: jvc
+address: 67
+command: 23
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: ^
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: KEY_V
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: SP/LP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: Timer
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: KEY_X
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: KEY_MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: --:--
+type: parsed
+protocol: jvc
+address: 67
+command: 56
+#
+name: OK/START
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: Timer?
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: VHS
+type: parsed
+protocol: jvc
+address: 67
+command: 67
+#
+name: DV
+type: parsed
+protocol: jvc
+address: 67
+command: 68
+#
+name: jog_cc
+type: parsed
+protocol: jvc
+address: 67
+command: 175
+#
+name: l_shuttle
+type: parsed
+protocol: jvc
+address: 67
+command: 183
+#
+name: r_shuttle
+type: parsed
+protocol: jvc
+address: 67
+command: 184
+#
+name: PROG
+type: parsed
+protocol: jvc
+address: 67
+command: 193
+#
+name: Date+
+type: parsed
+protocol: jvc
+address: 67
+command: 198
+#
+name: Date-
+type: parsed
+protocol: jvc
+address: 67
+command: 199
+#
+name: Start+
+type: parsed
+protocol: jvc
+address: 67
+command: 200
+#
+name: Start-
+type: parsed
+protocol: jvc
+address: 67
+command: 201
+#
+name: Stop+
+type: parsed
+protocol: jvc
+address: 67
+command: 202
+#
+name: Stop-
+type: parsed
+protocol: jvc
+address: 67
+command: 203
+#
+name: KEY_RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: R.A.EDIT
+type: parsed
+protocol: jvc
+address: 67
+command: 221
+#
+name: IN/OUT
+type: parsed
+protocol: jvc
+address: 67
+command: 222
+#
+name: jog_cw
+type: parsed
+protocol: jvc
+address: 67
+command: 237
+#

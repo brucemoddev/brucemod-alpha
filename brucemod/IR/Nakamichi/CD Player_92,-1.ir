@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 92
+command: 128
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 92
+command: 130
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 92
+command: 131
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 92
+command: 197
+#

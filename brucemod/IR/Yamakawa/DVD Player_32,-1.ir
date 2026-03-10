@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOCAL-ASSIST
+type: parsed
+protocol: nec1
+address: 32
+command: 1
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 32
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 32
+command: 3
+#
+name: MENU/RETURN
+type: parsed
+protocol: nec1
+address: 32
+command: 6
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 32
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 32
+command: 9
+#
+name: RESUME
+type: parsed
+protocol: nec1
+address: 32
+command: 10
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 32
+command: 11
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 32
+command: 12
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 32
+command: 13
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 32
+command: 14
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 32
+command: 15
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 32
+command: 16
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 32
+command: 17
+#
+name: SUB-TITLE
+type: parsed
+protocol: nec1
+address: 32
+command: 18
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 32
+command: 19
+#
+name: REPEAT 1/ALL
+type: parsed
+protocol: nec1
+address: 32
+command: 20
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 32
+command: 21
+#
+name: LANGUAGE
+type: parsed
+protocol: nec1
+address: 32
+command: 22
+#
+name: REPEAT A-B
+type: parsed
+protocol: nec1
+address: 32
+command: 23
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 32
+command: 24
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 32
+command: 25
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 32
+command: 26
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 32
+command: 27
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 32
+command: 28
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 32
+command: 29
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 32
+command: 30
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 32
+command: 31
+#
+name: TITLE/DIGEST
+type: parsed
+protocol: nec1
+address: 32
+command: 64
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 32
+command: 65
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 32
+command: 68
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 32
+command: 72
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 32
+command: 73
+#
+name: PBC
+type: parsed
+protocol: nec1
+address: 32
+command: 76
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 32
+command: 77
+#
+name: T/C SEARCH
+type: parsed
+protocol: nec1
+address: 32
+command: 80
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 32
+command: 81
+#
+name: ANGLE/CLEAR
+type: parsed
+protocol: nec1
+address: 32
+command: 84
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 32
+command: 85
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 32
+command: 88
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 32
+command: 89
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 32
+command: 92
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 32
+command: 93
+#

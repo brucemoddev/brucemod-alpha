@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO 2
+type: parsed
+protocol: jvc
+address: 3
+command: 18
+#
+name: VIDEO 3
+type: parsed
+protocol: jvc
+address: 3
+command: 20
+#
+name: TV POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#

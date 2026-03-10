@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LOCAL KEYS +
+type: parsed
+protocol: rc5
+address: 27
+command: 15
+#
+name: LOCAL KEYS RADIO
+type: parsed
+protocol: rc5
+address: 27
+command: 19
+#
+name: LOCAL KEYS -
+type: parsed
+protocol: rc5
+address: 27
+command: 45
+#

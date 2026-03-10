@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 137.119
+command: 1
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 137.119
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 137.119
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 137.119
+command: 6
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 137.119
+command: 9
+#
+name: Pic+
+type: parsed
+protocol: nec
+address: 137.119
+command: 13
+#
+name: Pic-
+type: parsed
+protocol: nec
+address: 137.119
+command: 14
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 137.119
+command: 15
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 137.119
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 137.119
+command: 19
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 137.119
+command: 22
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 137.119
+command: 23
+#
+name: Auto
+type: parsed
+protocol: nec
+address: 137.119
+command: 24
+#
+name: Tracking+
+type: parsed
+protocol: nec
+address: 137.119
+command: 88
+#
+name: Tracking-
+type: parsed
+protocol: nec
+address: 137.119
+command: 89
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 137.119
+command: 94
+#

@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 0.189
+command: 1
+#
+name: Input
+type: parsed
+protocol: nec2
+address: 0.189
+command: 8
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 0.189
+command: 11
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 0.189
+command: 15
+#
+name: sx
+type: parsed
+protocol: nec2
+address: 0.189
+command: 73
+#
+name: dx
+type: parsed
+protocol: nec2
+address: 0.189
+command: 74
+#
+name: Ok
+type: parsed
+protocol: nec2
+address: 0.189
+command: 13
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 0.189
+command: 12
+#
+name: Vol_Down
+type: parsed
+protocol: nec2
+address: 0.189
+command: 16
+#
+name: Menu
+type: parsed
+protocol: nec2
+address: 0.189
+command: 10
+#
+name: CH_NEXT
+type: parsed
+protocol: nec2
+address: 0.189
+command: 24
+#
+name: CH_PREV
+type: parsed
+protocol: nec2
+address: 0.189
+command: 28
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 0.189
+command: 4
+#

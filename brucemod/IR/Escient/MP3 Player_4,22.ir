@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: mce
+address: 4.22
+command: 13
+#
+name: ENTER
+type: parsed
+protocol: mce
+address: 4.22
+command: 16
+#
+name: INPUT/SETUP
+type: parsed
+protocol: mce
+address: 4.22
+command: 18
+#
+name: LEFT
+type: parsed
+protocol: mce
+address: 4.22
+command: 24
+#
+name: RIGHT
+type: parsed
+protocol: mce
+address: 4.22
+command: 25
+#
+name: 
+type: parsed
+protocol: mce
+address: 4.22
+command: 25
+#
+name: OK/SELECT
+type: parsed
+protocol: mce
+address: 4.22
+command: 26
+#
+name: SELECT
+type: parsed
+protocol: mce
+address: 4.22
+command: 26
+#
+name: MENU/VIEW
+type: parsed
+protocol: mce
+address: 4.22
+command: 28
+#
+name: MENU
+type: parsed
+protocol: mce
+address: 4.22
+command: 28
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 4.22
+command: 33
+#
+name: SPACE/FOREWARD
+type: parsed
+protocol: mce
+address: 4.22
+command: 34
+#
+name: MOVIES
+type: parsed
+protocol: mce
+address: 4.22
+command: 38
+#
+name: SEEK BACK
+type: parsed
+protocol: mce
+address: 4.22
+command: 41
+#
+name: RAND
+type: parsed
+protocol: mce
+address: 4.22
+command: 47
+#
+name: PREV
+type: parsed
+protocol: mce
+address: 4.22
+command: 50
+#
+name: HOME
+type: parsed
+protocol: mce
+address: 4.22
+command: 52
+#

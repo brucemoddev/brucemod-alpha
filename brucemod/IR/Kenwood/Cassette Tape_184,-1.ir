@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PHONO
+type: parsed
+protocol: nec1
+address: 184
+command: 144
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 184
+command: 145
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 184
+command: 146
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 184
+command: 147
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 184
+command: 148
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 184
+command: 149
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 184
+command: 150
+#
+name: VOL CONTROL V
+type: parsed
+protocol: nec1
+address: 184
+command: 154
+#
+name: VOL CONTROL ^
+type: parsed
+protocol: nec1
+address: 184
+command: 155
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 184
+command: 156
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 184
+command: 157
+#
+name: TAPEA R.PLAY <
+type: parsed
+protocol: nec1
+address: 184
+command: 208
+#
+name: TAPEA PLAY >
+type: parsed
+protocol: nec1
+address: 184
+command: 209
+#
+name: TAPEA REW <<
+type: parsed
+protocol: nec1
+address: 184
+command: 210
+#
+name: TAPEA FF >>
+type: parsed
+protocol: nec1
+address: 184
+command: 211
+#
+name: TAPEA STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 213
+#
+name: TAPEB REV PLAY <
+type: parsed
+protocol: nec1
+address: 184
+command: 216
+#
+name: TAPEB PLAY >
+type: parsed
+protocol: nec1
+address: 184
+command: 217
+#
+name: TAPEB REW <<
+type: parsed
+protocol: nec1
+address: 184
+command: 218
+#
+name: TAPEB FF >>
+type: parsed
+protocol: nec1
+address: 184
+command: 219
+#
+name: TAPEB PAUSE (ONLY)
+type: parsed
+protocol: nec1
+address: 184
+command: 220
+#
+name: TAPEB STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 221
+#
+name: TAPEB REC (ONLY)
+type: parsed
+protocol: nec1
+address: 184
+command: 222
+#

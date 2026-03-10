@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: XM MEMORY
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 12
+#
+name: XM SHIFT
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 13
+#
+name: XM SEARCH
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 18
+#
+name: XM PRESET -
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 21
+#
+name: XM PRESET +
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 22
+#
+name: XM CH-
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 49
+#
+name: XM CH+
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 50
+#
+name: XM CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 67
+#
+name: XM CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 68
+#
+name: XM CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 69
+#
+name: XM CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 70
+#
+name: XM ENTER
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 71
+#
+name: XM SHIFT A
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 80
+#
+name: XM SHIFT B
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 81
+#
+name: XM SHIFT C
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 82
+#
+name: XM SHIFT D
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 83
+#
+name: XM SHIFT E
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 84
+#
+name: XM SHIFT F
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 85
+#
+name: XM SHIFT G
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 86
+#
+name: XM 1
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 96
+#
+name: XM 2
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 97
+#
+name: XM 3
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 98
+#
+name: XM 4
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 99
+#
+name: XM 5
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 100
+#
+name: XM 6
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 101
+#
+name: XM 7
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 102
+#
+name: XM 8
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 103
+#
+name: XM 9
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 104
+#
+name: XM 0
+type: parsed
+protocol: Denon-K
+address: 7.5
+command: 105
+#

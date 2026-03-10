@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.73
+command: 11
+#
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.73
+command: 14
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony20
+address: 26.73
+command: 15
+#
+name: KEY_POWER
+type: parsed
+protocol: sony20
+address: 26.73
+command: 21
+#
+name: KEY_OPEN
+type: parsed
+protocol: sony20
+address: 26.73
+command: 22
+#
+name: KEY_TITLE
+type: parsed
+protocol: sony20
+address: 26.73
+command: 26
+#
+name: KEY_MENU
+type: parsed
+protocol: sony20
+address: 26.73
+command: 27
+#
+name: program
+type: parsed
+protocol: sony20
+address: 26.73
+command: 31
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony20
+address: 26.73
+command: 34
+#
+name: KEY_FORWARD
+type: parsed
+protocol: sony20
+address: 26.73
+command: 35
+#
+name: time/text
+type: parsed
+protocol: sony20
+address: 26.73
+command: 40
+#
+name: a-b
+type: parsed
+protocol: sony20
+address: 26.73
+command: 42
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony20
+address: 26.73
+command: 44
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: sony20
+address: 26.73
+command: 48
+#
+name: KEY_NEXT
+type: parsed
+protocol: sony20
+address: 26.73
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony20
+address: 26.73
+command: 50
+#
+name: shuffle
+type: parsed
+protocol: sony20
+address: 26.73
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: sony20
+address: 26.73
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony20
+address: 26.73
+command: 57
+#
+name: bnr
+type: parsed
+protocol: sony20
+address: 26.73
+command: 72
+#
+name: KEY_SEARCH
+type: parsed
+protocol: sony20
+address: 26.73
+command: 75
+#
+name: KEY_SETUP
+type: parsed
+protocol: sony20
+address: 26.73
+command: 83
+#
+name: display
+type: parsed
+protocol: sony20
+address: 26.73
+command: 84
+#
+name: surround
+type: parsed
+protocol: sony20
+address: 26.73
+command: 90
+#
+name: instant-replay
+type: parsed
+protocol: sony20
+address: 26.73
+command: 92
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: sony20
+address: 26.73
+command: 99
+#
+name: KEY_AUDIO
+type: parsed
+protocol: sony20
+address: 26.73
+command: 100
+#
+name: KEY_ANGLE
+type: parsed
+protocol: sony20
+address: 26.73
+command: 101
+#
+name: KEY_UP
+type: parsed
+protocol: sony20
+address: 26.73
+command: 121
+#
+name: KEY_DOWN
+type: parsed
+protocol: sony20
+address: 26.73
+command: 122
+#
+name: KEY_LEFT
+type: parsed
+protocol: sony20
+address: 26.73
+command: 123
+#
+name: KEY_RIGHT
+type: parsed
+protocol: sony20
+address: 26.73
+command: 124
+#

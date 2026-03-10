@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER
+type: parsed
+protocol: sony20
+address: 25.11
+command: 33
+#
+name: CD
+type: parsed
+protocol: sony20
+address: 25.11
+command: 37
+#
+name: VID 3
+type: parsed
+protocol: sony20
+address: 25.11
+command: 66
+#
+name: TV SAT
+type: parsed
+protocol: sony20
+address: 25.11
+command: 106
+#

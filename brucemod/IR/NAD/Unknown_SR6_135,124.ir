@@ -1,0 +1,369 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: cd-play
+type: parsed
+protocol: nec
+address: 135.124
+command: 1
+#
+name: cd-stop
+type: parsed
+protocol: nec
+address: 135.124
+command: 2
+#
+name: cd-scan-rev
+type: parsed
+protocol: nec
+address: 135.124
+command: 4
+#
+name: cd-prev
+type: parsed
+protocol: nec
+address: 135.124
+command: 5
+#
+name: cd-next
+type: parsed
+protocol: nec
+address: 135.124
+command: 6
+#
+name: cd-scan-fwd
+type: parsed
+protocol: nec
+address: 135.124
+command: 7
+#
+name: disp-info
+type: parsed
+protocol: nec
+address: 135.124
+command: 8
+#
+name: cd-disp-info
+type: parsed
+protocol: nec
+address: 135.124
+command: 8
+#
+name: rpt
+type: parsed
+protocol: nec
+address: 135.124
+command: 10
+#
+name: cd-rpt
+type: parsed
+protocol: nec
+address: 135.124
+command: 10
+#
+name: cd-1
+type: parsed
+protocol: nec
+address: 135.124
+command: 12
+#
+name: cd-2
+type: parsed
+protocol: nec
+address: 135.124
+command: 13
+#
+name: cd-3
+type: parsed
+protocol: nec
+address: 135.124
+command: 14
+#
+name: cd-4
+type: parsed
+protocol: nec
+address: 135.124
+command: 15
+#
+name: cd-5
+type: parsed
+protocol: nec
+address: 135.124
+command: 16
+#
+name: cd-6
+type: parsed
+protocol: nec
+address: 135.124
+command: 17
+#
+name: cd-7
+type: parsed
+protocol: nec
+address: 135.124
+command: 18
+#
+name: cd-8
+type: parsed
+protocol: nec
+address: 135.124
+command: 19
+#
+name: cd-9
+type: parsed
+protocol: nec
+address: 135.124
+command: 21
+#
+name: cd-0
+type: parsed
+protocol: nec
+address: 135.124
+command: 22
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.124
+command: 37
+#
+name: tuner-disp-info
+type: parsed
+protocol: nec
+address: 135.124
+command: 38
+#
+name: tuner-blend
+type: parsed
+protocol: nec
+address: 135.124
+command: 53
+#
+name: tuner-fm-mute
+type: parsed
+protocol: nec
+address: 135.124
+command: 55
+#
+name: cd-eject
+type: parsed
+protocol: nec
+address: 135.124
+command: 72
+#
+name: cd-pause
+type: parsed
+protocol: nec
+address: 135.124
+command: 74
+#
+name: cd-10
+type: parsed
+protocol: nec
+address: 135.124
+command: 76
+#
+name: cd-+10
+type: parsed
+protocol: nec
+address: 135.124
+command: 77
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 135.124
+command: 133
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 135.124
+command: 136
+#
+name: disc
+type: parsed
+protocol: nec
+address: 135.124
+command: 137
+#
+name: tuner-1
+type: parsed
+protocol: nec
+address: 135.124
+command: 138
+#
+name: tuner-5
+type: parsed
+protocol: nec
+address: 135.124
+command: 139
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 135.124
+command: 140
+#
+name: tape-mon
+type: parsed
+protocol: nec
+address: 135.124
+command: 141
+#
+name: tuner-2
+type: parsed
+protocol: nec
+address: 135.124
+command: 142
+#
+name: tuner-6
+type: parsed
+protocol: nec
+address: 135.124
+command: 143
+#
+name: tape2
+type: parsed
+protocol: nec
+address: 135.124
+command: 145
+#
+name: tuner-3
+type: parsed
+protocol: nec
+address: 135.124
+command: 146
+#
+name: tuner-7
+type: parsed
+protocol: nec
+address: 135.124
+command: 147
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 135.124
+command: 148
+#
+name: tuner-4
+type: parsed
+protocol: nec
+address: 135.124
+command: 150
+#
+name: tuner-8
+type: parsed
+protocol: nec
+address: 135.124
+command: 151
+#
+name: tuner-9
+type: parsed
+protocol: nec
+address: 135.124
+command: 152
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 135.124
+command: 155
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 135.124
+command: 192
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 135.124
+command: 193
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 135.124
+command: 194
+#
+name: tuner-enter
+type: parsed
+protocol: nec
+address: 135.124
+command: 197
+#
+name: tuner-0
+type: parsed
+protocol: nec
+address: 135.124
+command: 199
+#
+name: off
+type: parsed
+protocol: nec
+address: 135.124
+command: 200
+#
+name: spk-a
+type: parsed
+protocol: nec
+address: 135.124
+command: 206
+#
+name: spk-b
+type: parsed
+protocol: nec
+address: 135.124
+command: 207
+#
+name: tuner-preset-down
+type: parsed
+protocol: nec
+address: 135.124
+command: 209
+#
+name: tuner-preset-up
+type: parsed
+protocol: nec
+address: 135.124
+command: 210
+#
+name: tuner-tune-left
+type: parsed
+protocol: nec
+address: 135.124
+command: 211
+#
+name: tuner-tune-right
+type: parsed
+protocol: nec
+address: 135.124
+command: 212
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 135.124
+command: 221
+#
+name: tuner-am-fm-dab
+type: parsed
+protocol: nec
+address: 135.124
+command: 221
+#
+name: tuner-10
+type: parsed
+protocol: nec
+address: 135.124
+command: 242
+#
+name: tuner-+10
+type: parsed
+protocol: nec
+address: 135.124
+command: 243
+#

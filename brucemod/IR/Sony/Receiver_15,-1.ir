@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony12
+address: 15
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 15
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 15
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 15
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 15
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 15
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 15
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 15
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 15
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony12
+address: 15
+command: 9
+#
+name: PRE DOWN
+type: parsed
+protocol: sony12
+address: 15
+command: 32
+#
+name: PRE UP
+type: parsed
+protocol: sony12
+address: 15
+command: 33
+#
+name: 
+type: parsed
+protocol: sony12
+address: 15
+command: 46
+#

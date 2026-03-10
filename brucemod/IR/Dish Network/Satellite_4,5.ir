@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: dish_netwo
+address: 4.5
+command: 41
+#

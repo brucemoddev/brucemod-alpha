@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO_PRIVACY
+type: parsed
+protocol: nec
+address: 130.19
+command: 128
+#
+name: SELF/REMOTE_VIEW
+type: parsed
+protocol: nec
+address: 130.19
+command: 129
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 130.19
+command: 131
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 130.19
+command: 133
+#
+name: CONTRAST
+type: parsed
+protocol: nec
+address: 130.19
+command: 134
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 130.19
+command: 135
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 130.19
+command: 136
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 130.19
+command: 138
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 130.19
+command: 139
+#
+name: SPEAKER_PHONE
+type: parsed
+protocol: nec
+address: 130.19
+command: 140
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 130.19
+command: 141
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 130.19
+command: 144
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 130.19
+command: 145
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 130.19
+command: 146
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 130.19
+command: 147
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 130.19
+command: 148
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 130.19
+command: 149
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 130.19
+command: 150
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 130.19
+command: 153
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 130.19
+command: 154
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: nec
+address: 130.19
+command: 155
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 130.19
+command: 156
+#
+name: KEY_NUMERIC_STAR
+type: parsed
+protocol: nec
+address: 130.19
+command: 157
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 130.19
+command: 158
+#

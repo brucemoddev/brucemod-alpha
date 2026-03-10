@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CLEAR
+type: parsed
+protocol: rca_38
+address: 5
+command: 6
+#
+name: KEY_MENU
+type: parsed
+protocol: rca_38
+address: 5
+command: 8
+#
+name: KEY_PLAY
+type: parsed
+protocol: rca_38
+address: 5
+command: 21
+#
+name: KEY_RECORD
+type: parsed
+protocol: rca_38
+address: 5
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rca_38
+address: 5
+command: 25
+#
+name: KEY_INFO
+type: parsed
+protocol: rca_38
+address: 5
+command: 26
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rca_38
+address: 5
+command: 28
+#
+name: KEY_REWIND
+type: parsed
+protocol: rca_38
+address: 5
+command: 29
+#
+name: KEY_STOP
+type: parsed
+protocol: rca_38
+address: 5
+command: 31
+#
+name: KEY_NEXT
+type: parsed
+protocol: rca_38
+address: 5
+command: 32
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rca_38
+address: 5
+command: 34
+#
+name: KEY_BACK
+type: parsed
+protocol: rca_38
+address: 5
+command: 39
+#
+name: Xbox
+type: parsed
+protocol: rca_38
+address: 5
+command: 42
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rca_38
+address: 5
+command: 44
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rca_38
+address: 5
+command: 45
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rca_38
+address: 5
+command: 46
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rca_38
+address: 5
+command: 47
+#
+name: KEY_0
+type: parsed
+protocol: rca_38
+address: 5
+command: 48
+#
+name: KEY_1
+type: parsed
+protocol: rca_38
+address: 5
+command: 49
+#
+name: KEY_2
+type: parsed
+protocol: rca_38
+address: 5
+command: 50
+#
+name: KEY_3
+type: parsed
+protocol: rca_38
+address: 5
+command: 51
+#
+name: KEY_4
+type: parsed
+protocol: rca_38
+address: 5
+command: 52
+#
+name: KEY_5
+type: parsed
+protocol: rca_38
+address: 5
+command: 53
+#
+name: KEY_6
+type: parsed
+protocol: rca_38
+address: 5
+command: 54
+#
+name: KEY_7
+type: parsed
+protocol: rca_38
+address: 5
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: rca_38
+address: 5
+command: 56
+#
+name: KEY_9
+type: parsed
+protocol: rca_38
+address: 5
+command: 57
+#
+name: KEY_POWER
+type: parsed
+protocol: rca_38
+address: 5
+command: 59
+#
+name: More
+type: parsed
+protocol: rca_38
+address: 5
+command: 60
+#
+name: KEY_MUTE
+type: parsed
+protocol: rca_38
+address: 5
+command: 63
+#
+name: KEY_LEFT
+type: parsed
+protocol: rca_38
+address: 5
+command: 86
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rca_38
+address: 5
+command: 87
+#
+name: KEY_DOWN
+type: parsed
+protocol: rca_38
+address: 5
+command: 88
+#
+name: KEY_UP
+type: parsed
+protocol: rca_38
+address: 5
+command: 89
+#
+name: KEY_RECORD
+type: parsed
+protocol: rca_38
+address: 5
+command: 154
+#
+name: KEY_TV
+type: parsed
+protocol: rca_38
+address: 5
+command: 206
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: rca_38
+address: 5
+command: 214
+#
+name: KEY_NUMERIC_STAR
+type: parsed
+protocol: rca_38
+address: 5
+command: 215
+#
+name: KEY_HOME
+type: parsed
+protocol: rca_38
+address: 5
+command: 218
+#
+name: KEY_TV
+type: parsed
+protocol: rca_38
+address: 5
+command: 231
+#
+name: KEY_OK
+type: parsed
+protocol: rca_38
+address: 5
+command: 244
+#
+name: KEY_OK
+type: parsed
+protocol: rca_38
+address: 5
+command: 244
+#
+name: KEY_AUDIO
+type: parsed
+protocol: rca_38
+address: 5
+command: 246
+#
+name: KEY_VIDEO
+type: parsed
+protocol: rca_38
+address: 5
+command: 248
+#
+name: KEY_IMAGES
+type: parsed
+protocol: rca_38
+address: 5
+command: 249
+#

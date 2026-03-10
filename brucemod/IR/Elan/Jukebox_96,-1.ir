@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 12 NOW PLAYING
+type: parsed
+protocol: nec
+address: 96
+command: 129
+#
+name: 1 UP/REPEAT
+type: parsed
+protocol: nec
+address: 96
+command: 134
+#
+name: 2 DOWN/SHUFFLE
+type: parsed
+protocol: nec
+address: 96
+command: 135
+#
+name: 4 LIBRARY/MENU
+type: parsed
+protocol: nec
+address: 96
+command: 136
+#
+name: 6 SKIP-
+type: parsed
+protocol: nec
+address: 96
+command: 137
+#
+name: 8 PAUSE
+type: parsed
+protocol: nec
+address: 96
+command: 138
+#
+name: 10 SKIP+
+type: parsed
+protocol: nec
+address: 96
+command: 139
+#
+name: 5 X HIDE/BACK
+type: parsed
+protocol: nec
+address: 96
+command: 142
+#
+name: 7 DISPLAY/X REMOVE
+type: parsed
+protocol: nec
+address: 96
+command: 143
+#
+name: 9 STOP/I CLEAR
+type: parsed
+protocol: nec
+address: 96
+command: 144
+#
+name: 11 PLAY/SELECT
+type: parsed
+protocol: nec
+address: 96
+command: 145
+#
+name: 3 I VIEW/ALPHA
+type: parsed
+protocol: nec
+address: 96
+command: 148
+#

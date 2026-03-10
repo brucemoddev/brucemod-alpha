@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: @
+type: parsed
+protocol: nec1
+address: 182.0
+command: 64
+#
+name: A
+type: parsed
+protocol: nec1
+address: 182.0
+command: 65
+#
+name: B
+type: parsed
+protocol: nec1
+address: 182.0
+command: 66
+#
+name: C
+type: parsed
+protocol: nec1
+address: 182.0
+command: 67
+#
+name: D
+type: parsed
+protocol: nec1
+address: 182.0
+command: 68
+#
+name: E
+type: parsed
+protocol: nec1
+address: 182.0
+command: 69
+#
+name: F
+type: parsed
+protocol: nec1
+address: 182.0
+command: 70
+#
+name: G
+type: parsed
+protocol: nec1
+address: 182.0
+command: 71
+#
+name: H
+type: parsed
+protocol: nec1
+address: 182.0
+command: 72
+#
+name: I
+type: parsed
+protocol: nec1
+address: 182.0
+command: 73
+#
+name: J
+type: parsed
+protocol: nec1
+address: 182.0
+command: 74
+#
+name: K
+type: parsed
+protocol: nec1
+address: 182.0
+command: 75
+#
+name: L
+type: parsed
+protocol: nec1
+address: 182.0
+command: 76
+#
+name: M
+type: parsed
+protocol: nec2
+address: 182.0
+command: 77
+#
+name: N
+type: parsed
+protocol: nec1
+address: 182.0
+command: 78
+#
+name: O
+type: parsed
+protocol: nec1
+address: 182.0
+command: 79
+#
+name: P
+type: parsed
+protocol: nec1
+address: 182.0
+command: 80
+#
+name: Q
+type: parsed
+protocol: nec1
+address: 182.0
+command: 81
+#
+name: R
+type: parsed
+protocol: nec1
+address: 182.0
+command: 82
+#
+name: S
+type: parsed
+protocol: nec1
+address: 182.0
+command: 83
+#
+name: T
+type: parsed
+protocol: nec1
+address: 182.0
+command: 84
+#
+name: U
+type: parsed
+protocol: nec1
+address: 182.0
+command: 85
+#
+name: V
+type: parsed
+protocol: nec1
+address: 182.0
+command: 86
+#
+name: W
+type: parsed
+protocol: nec1
+address: 182.0
+command: 87
+#
+name: X
+type: parsed
+protocol: nec1
+address: 182.0
+command: 88
+#
+name: Z
+type: parsed
+protocol: nec1
+address: 182.0
+command: 90
+#
+name: ^
+type: parsed
+protocol: nec1
+address: 182.0
+command: 94
+#
+name: &
+type: parsed
+protocol: nec1
+address: 182.0
+command: 95
+#
+name: SPACE
+type: parsed
+protocol: nec1
+address: 182.0
+command: 128
+#
+name: !
+type: parsed
+protocol: nec1
+address: 182.0
+command: 129
+#
+name: #
+type: parsed
+protocol: nec1
+address: 182.0
+command: 131
+#
+name: $
+type: parsed
+protocol: nec2
+address: 182.0
+command: 132
+#
+name: (
+type: parsed
+protocol: nec2
+address: 182.0
+command: 136
+#
+name: )
+type: parsed
+protocol: nec2
+address: 182.0
+command: 137
+#
+name: *
+type: parsed
+protocol: nec1
+address: 182.0
+command: 138
+#
+name: +
+type: parsed
+protocol: nec1
+address: 182.0
+command: 139
+#
+name: _
+type: parsed
+protocol: nec2
+address: 182.0
+command: 141
+#
+name: :
+type: parsed
+protocol: nec1
+address: 182.0
+command: 154
+#

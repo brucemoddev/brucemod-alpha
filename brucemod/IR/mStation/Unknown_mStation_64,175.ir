@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FR
+type: parsed
+protocol: nec
+address: 64.175
+command: 1
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 64.175
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 64.175
+command: 3
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 64.175
+command: 5
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 64.175
+command: 6
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 64.175
+command: 14
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 64.175
+command: 15
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 64.175
+command: 18
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 64.175
+command: 25
+#
+name: PROGRAM
+type: parsed
+protocol: nec
+address: 64.175
+command: 26
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 64.175
+command: 28
+#
+name: EQ
+type: parsed
+protocol: nec
+address: 64.175
+command: 30
+#

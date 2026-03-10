@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: Proton
+address: 3
+command: 0
+#
+name: TV/AV
+type: parsed
+protocol: Proton
+address: 3
+command: 4
+#
+name: RECALL
+type: parsed
+protocol: Proton
+address: 3
+command: 5
+#
+name: CHANNEL -
+type: parsed
+protocol: Proton
+address: 3
+command: 6
+#
+name: CHANNEL +
+type: parsed
+protocol: Proton
+address: 3
+command: 7
+#
+name: RGB1/2
+type: parsed
+protocol: Proton
+address: 3
+command: 9
+#
+name: VOLUME -
+type: parsed
+protocol: Proton
+address: 3
+command: 10
+#
+name: VOLUME +
+type: parsed
+protocol: Proton
+address: 3
+command: 11
+#
+name: SLEEP
+type: parsed
+protocol: Proton
+address: 3
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 3
+command: 15
+#
+name: CURSOR
+type: parsed
+protocol: Proton
+address: 3
+command: 16
+#
+name: SELECT
+type: parsed
+protocol: Proton
+address: 3
+command: 17
+#
+name: LEVEL-
+type: parsed
+protocol: Proton
+address: 3
+command: 18
+#
+name: LEVEL+
+type: parsed
+protocol: Proton
+address: 3
+command: 19
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 3
+command: 20
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 3
+command: 21
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 3
+command: 22
+#
+name: RESET
+type: parsed
+protocol: Proton
+address: 3
+command: 23
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 3
+command: 24
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 3
+command: 25
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 3
+command: 26
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 3
+command: 28
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 3
+command: 29
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 3
+command: 30
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 3
+command: 31
+#

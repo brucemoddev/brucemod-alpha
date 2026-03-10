@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZOOM 2
+type: parsed
+protocol: fujitsu
+address: 132.134
+command: 22
+#

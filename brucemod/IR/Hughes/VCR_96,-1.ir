@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 8
+type: parsed
+protocol: nec1
+address: 96
+command: 4
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 96
+command: 5
+#
+name: ENTER / 100
+type: parsed
+protocol: nec1
+address: 96
+command: 6
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: nec1
+address: 96
+command: 9
+#
+name: REWIND <<
+type: parsed
+protocol: nec1
+address: 96
+command: 10
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 96
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 96
+command: 12
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 96
+command: 13
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 96
+command: 14
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 96
+command: 15
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 96
+command: 20
+#
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 96
+command: 22
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 96
+command: 23
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 96
+command: 28
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 96
+command: 29
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 96
+command: 30
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 96
+command: 31
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 96
+command: 65
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 96
+command: 66
+#
+name: SHUTTLE <<
+type: parsed
+protocol: nec
+address: 96
+command: 108
+#
+name: 
+type: parsed
+protocol: nec
+address: 96
+command: 112
+#
+name: SHUTTLE >>
+type: parsed
+protocol: nec
+address: 96
+command: 113
+#

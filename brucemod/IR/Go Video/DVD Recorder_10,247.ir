@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: nec1
+address: 10.247
+command: 0
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 10.247
+command: 0
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 10.247
+command: 1
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 10.247
+command: 2
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 10.247
+command: 3
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 10.247
+command: 5
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 10.247
+command: 6
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 10.247
+command: 7
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 10.247
+command: 9
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 10.247
+command: 10
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 10.247
+command: 11
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 10.247
+command: 13
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 10.247
+command: 14
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 10.247
+command: 15
+#
+name: EDIT
+type: parsed
+protocol: nec1
+address: 10.247
+command: 16
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 10.247
+command: 19
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 10.247
+command: 20
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 10.247
+command: 23
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 10.247
+command: 24
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 10.247
+command: 28
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 10.247
+command: 31
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 10.247
+command: 64
+#
+name: DISC MENU
+type: parsed
+protocol: nec1
+address: 10.247
+command: 65
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 10.247
+command: 66
+#
+name: PLAY OPTIONS
+type: parsed
+protocol: nec1
+address: 10.247
+command: 67
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 10.247
+command: 71
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 10.247
+command: 74
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 10.247
+command: 75
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 10.247
+command: 76
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 10.247
+command: 77
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 10.247
+command: 78
+#
+name: GUIDER
+type: parsed
+protocol: nec1
+address: 10.247
+command: 79
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 10.247
+command: 80
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 10.247
+command: 84
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 10.247
+command: 85
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 10.247
+command: 92
+#

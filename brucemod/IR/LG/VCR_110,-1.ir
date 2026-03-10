@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec2
+address: 110.0
+command: 20
+#
+name: EJECT
+type: parsed
+protocol: nec2
+address: 110.0
+command: 0
+#
+name: AV
+type: parsed
+protocol: nec2
+address: 110.0
+command: 86
+#
+name: TV V
+type: parsed
+protocol: nec2
+address: 110.0
+command: 21
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 110.0
+command: 8
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 110.0
+command: 1
+#
+name: PREV
+type: parsed
+protocol: nec2
+address: 110.0
+command: 2
+#
+name: NEXT
+type: parsed
+protocol: nec2
+address: 110.0
+command: 3
+#
+name: OK
+type: parsed
+protocol: nec2
+address: 110.0
+command: 142
+#
+name: LEFT
+type: parsed
+protocol: nec2
+address: 110.0
+command: 131
+#
+name: RIGHT
+type: parsed
+protocol: nec2
+address: 110.0
+command: 144
+#
+name: UP
+type: parsed
+protocol: nec2
+address: 110.0
+command: 130
+#
+name: DOWN
+type: parsed
+protocol: nec2
+address: 110.0
+command: 137
+#
+name: DEL
+type: parsed
+protocol: nec2
+address: 110.0
+command: 31
+#
+name: REC
+type: parsed
+protocol: nec2
+address: 110.0
+command: 9
+#

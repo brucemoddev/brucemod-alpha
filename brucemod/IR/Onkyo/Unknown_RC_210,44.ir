@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEARCH >>
+type: parsed
+protocol: nec2
+address: 210.44
+command: 0
+#
+name: SEARCH <<
+type: parsed
+protocol: nec2
+address: 210.44
+command: 1
+#
+name: NEXT SELECTION
+type: parsed
+protocol: nec1
+address: 210.44
+command: 5
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.44
+command: 6
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 210.44
+command: 8
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 210.44
+command: 9
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 210.44
+command: 11
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.44
+command: 12
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.44
+command: 13
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 210.44
+command: 14
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 210.44
+command: 15
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.44
+command: 16
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.44
+command: 17
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.44
+command: 18
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.44
+command: 19
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.44
+command: 24
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.44
+command: 25
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.44
+command: 26
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 210.44
+command: 27
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 210.44
+command: 28
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 210.44
+command: 29
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 210.44
+command: 30
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 210.44
+command: 31
+#
+name: DISC INTRO SCAN
+type: parsed
+protocol: nec1
+address: 210.44
+command: 69
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 210.44
+command: 70
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 210.44
+command: 213
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 210.44
+command: 214
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 210.44
+command: 215
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 210.44
+command: 216
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 210.44
+command: 217
+#
+name: DISC 6
+type: parsed
+protocol: nec1
+address: 210.44
+command: 218
+#

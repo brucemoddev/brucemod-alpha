@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#

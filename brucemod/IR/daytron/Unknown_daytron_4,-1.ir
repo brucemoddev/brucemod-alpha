@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 4
+command: 4
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 4
+command: 5
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 4
+command: 6
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 4
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 4
+command: 12
+#
+name: tvvcr
+type: parsed
+protocol: nec
+address: 4
+command: 13
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 4
+command: 14
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 4
+command: 30
+#

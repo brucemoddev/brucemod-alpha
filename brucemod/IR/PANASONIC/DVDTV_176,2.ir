@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD_POWER
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 208
+#
+name: TV_POWER
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 208
+#
+name: TV_Video
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: TV_CHAN_UP
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: TV_CHAN_DOWN
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: TV_VOL_UP
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: TV_VOL_DOWN
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: ch_up
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: ch_down
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: ADD_DEL_CH
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: delete
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: CANCEL_ASTERISK
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: INPUT_SELECT
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: skip_back
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: Skip_Forward
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 160
+#
+name: SLOW_BACK
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: SLOW_FORWARD
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: Stop
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: Pause
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: Play
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 160
+#
+name: TIME_SLIP
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 176
+#
+name: CM_SKIP
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 192
+#
+name: DIRECT_NAVIGATOR
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 176
+#
+name: SCHEDULE
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 192
+#
+name: FUNCTIONS
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: enter
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: SUB_MENU
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: return
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: Audio
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: display
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: CREATE_CHAPTER
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: setup
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: rec
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: REC_MODE
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: Status
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 240
+#
+name: F_REC
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#

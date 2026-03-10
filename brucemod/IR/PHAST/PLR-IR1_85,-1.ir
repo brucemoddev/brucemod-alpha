@@ -1,0 +1,795 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Z - RECORD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 68
+#
+name: Z - RECORD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 69
+#
+name: Z - RECORD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 70
+#
+name: Z - RECORD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 71
+#
+name: 7
+type: parsed
+protocol: Dgtec
+address: 85
+command: 72
+#
+name: 7
+type: parsed
+protocol: Dgtec
+address: 85
+command: 73
+#
+name: 7
+type: parsed
+protocol: Dgtec
+address: 85
+command: 74
+#
+name: 7
+type: parsed
+protocol: Dgtec
+address: 85
+command: 75
+#
+name: 6
+type: parsed
+protocol: Dgtec
+address: 85
+command: 76
+#
+name: 6
+type: parsed
+protocol: Dgtec
+address: 85
+command: 77
+#
+name: 6
+type: parsed
+protocol: Dgtec
+address: 85
+command: 78
+#
+name: 6
+type: parsed
+protocol: Dgtec
+address: 85
+command: 79
+#
+name: INFO
+type: parsed
+protocol: Dgtec
+address: 85
+command: 80
+#
+name: INFO
+type: parsed
+protocol: Dgtec
+address: 85
+command: 81
+#
+name: INFO
+type: parsed
+protocol: Dgtec
+address: 85
+command: 82
+#
+name: INFO
+type: parsed
+protocol: Dgtec
+address: 85
+command: 83
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 84
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 85
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 86
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 87
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 88
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 89
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 90
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 91
+#
+name: Z - FAST REWIND
+type: parsed
+protocol: Dgtec
+address: 85
+command: 96
+#
+name: Z - FAST REWIND
+type: parsed
+protocol: Dgtec
+address: 85
+command: 97
+#
+name: Z - FAST REWIND
+type: parsed
+protocol: Dgtec
+address: 85
+command: 98
+#
+name: Z - FAST REWIND
+type: parsed
+protocol: Dgtec
+address: 85
+command: 99
+#
+name: Z - PAUSE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 100
+#
+name: Z - PAUSE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 101
+#
+name: Z - PAUSE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 102
+#
+name: Z - PAUSE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 103
+#
+name: 8
+type: parsed
+protocol: Dgtec
+address: 85
+command: 104
+#
+name: 8
+type: parsed
+protocol: Dgtec
+address: 85
+command: 105
+#
+name: 8
+type: parsed
+protocol: Dgtec
+address: 85
+command: 106
+#
+name: 8
+type: parsed
+protocol: Dgtec
+address: 85
+command: 107
+#
+name: 1
+type: parsed
+protocol: Dgtec
+address: 85
+command: 108
+#
+name: 1
+type: parsed
+protocol: Dgtec
+address: 85
+command: 109
+#
+name: 1
+type: parsed
+protocol: Dgtec
+address: 85
+command: 110
+#
+name: 1
+type: parsed
+protocol: Dgtec
+address: 85
+command: 111
+#
+name: CANCEL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 112
+#
+name: CANCEL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 113
+#
+name: CANCEL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 114
+#
+name: CANCEL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 115
+#
+name: CURSOR - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 116
+#
+name: CURSOR - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 117
+#
+name: CURSOR - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 118
+#
+name: CURSOR - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 119
+#
+name: MENU
+type: parsed
+protocol: Dgtec
+address: 85
+command: 120
+#
+name: MENU
+type: parsed
+protocol: Dgtec
+address: 85
+command: 121
+#
+name: MENU
+type: parsed
+protocol: Dgtec
+address: 85
+command: 122
+#
+name: MENU
+type: parsed
+protocol: Dgtec
+address: 85
+command: 123
+#
+name: Z - PLAY
+type: parsed
+protocol: Dgtec
+address: 85
+command: 128
+#
+name: Z - PLAY
+type: parsed
+protocol: Dgtec
+address: 85
+command: 129
+#
+name: Z - PLAY
+type: parsed
+protocol: Dgtec
+address: 85
+command: 130
+#
+name: Z - PLAY
+type: parsed
+protocol: Dgtec
+address: 85
+command: 131
+#
+name: ALL OFF
+type: parsed
+protocol: Dgtec
+address: 85
+command: 132
+#
+name: ALL OFF
+type: parsed
+protocol: Dgtec
+address: 85
+command: 133
+#
+name: ALL OFF
+type: parsed
+protocol: Dgtec
+address: 85
+command: 134
+#
+name: ALL OFF
+type: parsed
+protocol: Dgtec
+address: 85
+command: 135
+#
+name: 9
+type: parsed
+protocol: Dgtec
+address: 85
+command: 136
+#
+name: 9
+type: parsed
+protocol: Dgtec
+address: 85
+command: 137
+#
+name: 9
+type: parsed
+protocol: Dgtec
+address: 85
+command: 138
+#
+name: 9
+type: parsed
+protocol: Dgtec
+address: 85
+command: 139
+#
+name: 2
+type: parsed
+protocol: Dgtec
+address: 85
+command: 140
+#
+name: 2
+type: parsed
+protocol: Dgtec
+address: 85
+command: 141
+#
+name: 2
+type: parsed
+protocol: Dgtec
+address: 85
+command: 142
+#
+name: 2
+type: parsed
+protocol: Dgtec
+address: 85
+command: 143
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 144
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 145
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 146
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 147
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 148
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 149
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 150
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: Dgtec
+address: 85
+command: 151
+#
+name: Z - FAST FORWARD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 160
+#
+name: Z - FAST FORWARD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 161
+#
+name: Z - FAST FORWARD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 162
+#
+name: Z - FAST FORWARD
+type: parsed
+protocol: Dgtec
+address: 85
+command: 163
+#
+name: 0
+type: parsed
+protocol: Dgtec
+address: 85
+command: 164
+#
+name: 0
+type: parsed
+protocol: Dgtec
+address: 85
+command: 165
+#
+name: 0
+type: parsed
+protocol: Dgtec
+address: 85
+command: 166
+#
+name: 0
+type: parsed
+protocol: Dgtec
+address: 85
+command: 167
+#
+name: 4
+type: parsed
+protocol: Dgtec
+address: 85
+command: 168
+#
+name: 4
+type: parsed
+protocol: Dgtec
+address: 85
+command: 169
+#
+name: 4
+type: parsed
+protocol: Dgtec
+address: 85
+command: 170
+#
+name: 4
+type: parsed
+protocol: Dgtec
+address: 85
+command: 171
+#
+name: 3
+type: parsed
+protocol: Dgtec
+address: 85
+command: 172
+#
+name: 3
+type: parsed
+protocol: Dgtec
+address: 85
+command: 173
+#
+name: 3
+type: parsed
+protocol: Dgtec
+address: 85
+command: 174
+#
+name: 3
+type: parsed
+protocol: Dgtec
+address: 85
+command: 175
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 176
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 177
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 178
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: Dgtec
+address: 85
+command: 179
+#
+name: GUIDE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 180
+#
+name: GUIDE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 181
+#
+name: GUIDE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 182
+#
+name: GUIDE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 183
+#
+name: PHAST
+type: parsed
+protocol: Dgtec
+address: 85
+command: 184
+#
+name: PHAST
+type: parsed
+protocol: Dgtec
+address: 85
+command: 185
+#
+name: PHAST
+type: parsed
+protocol: Dgtec
+address: 85
+command: 186
+#
+name: PHAST
+type: parsed
+protocol: Dgtec
+address: 85
+command: 187
+#
+name: Z - STOP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 192
+#
+name: Z - STOP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 193
+#
+name: Z - STOP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 194
+#
+name: Z - STOP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 195
+#
+name: RECALL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 196
+#
+name: RECALL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 197
+#
+name: RECALL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 198
+#
+name: RECALL
+type: parsed
+protocol: Dgtec
+address: 85
+command: 199
+#
+name: 5
+type: parsed
+protocol: Dgtec
+address: 85
+command: 200
+#
+name: 5
+type: parsed
+protocol: Dgtec
+address: 85
+command: 201
+#
+name: 5
+type: parsed
+protocol: Dgtec
+address: 85
+command: 202
+#
+name: 5
+type: parsed
+protocol: Dgtec
+address: 85
+command: 203
+#
+name: SOURCE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 204
+#
+name: SOURCE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 205
+#
+name: SOURCE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 206
+#
+name: SOURCE
+type: parsed
+protocol: Dgtec
+address: 85
+command: 207
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 208
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 209
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 210
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 211
+#
+name: VOLUME - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 212
+#
+name: VOLUME - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 213
+#
+name: VOLUME - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 214
+#
+name: VOLUME - UP
+type: parsed
+protocol: Dgtec
+address: 85
+command: 215
+#
+name: POWER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 216
+#
+name: POWER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 217
+#
+name: POWER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 218
+#
+name: POWER
+type: parsed
+protocol: Dgtec
+address: 85
+command: 219
+#

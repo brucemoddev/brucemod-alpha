@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 STOP
+type: parsed
+protocol: jvc
+address: 193
+command: 62
+#

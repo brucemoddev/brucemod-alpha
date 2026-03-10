@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FM MONO MODE
+type: parsed
+protocol: nec1
+address: 26.232
+command: 20
+#
+name: FM STEREO MODE
+type: parsed
+protocol: nec1
+address: 26.232
+command: 21
+#
+name: BYPASS ON
+type: parsed
+protocol: nec1
+address: 26.232
+command: 22
+#
+name: BYPASS OFF
+type: parsed
+protocol: nec1
+address: 26.232
+command: 23
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 26.232
+command: 84
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 26.232
+command: 84
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 26.232
+command: 85
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 26.232
+command: 85
+#
+name: MUTE ON
+type: parsed
+protocol: nec1
+address: 26.232
+command: 86
+#
+name: MUTE OFF
+type: parsed
+protocol: nec1
+address: 26.232
+command: 87
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 26.232
+command: 128
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 26.232
+command: 129
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 26.232
+command: 130
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 26.232
+command: 131
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 26.232
+command: 132
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 26.232
+command: 133
+#
+name: BASS +
+type: parsed
+protocol: nec1
+address: 26.232
+command: 135
+#
+name: ROOM 1
+type: parsed
+protocol: nec1
+address: 26.232
+command: 136
+#
+name: REMOTE INDIV
+type: parsed
+protocol: nec1
+address: 26.232
+command: 137
+#
+name: REMOTE ALL
+type: parsed
+protocol: nec1
+address: 26.232
+command: 138
+#
+name: TUNE MODE
+type: parsed
+protocol: nec1
+address: 26.232
+command: 139
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 26.232
+command: 192
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 26.232
+command: 193
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 26.232
+command: 194
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 26.232
+command: 195
+#
+name: BASE -
+type: parsed
+protocol: nec1
+address: 26.232
+command: 196
+#
+name: TREBLE +
+type: parsed
+protocol: nec1
+address: 26.232
+command: 197
+#
+name: TREBLE -
+type: parsed
+protocol: nec1
+address: 26.232
+command: 198
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 26.232
+command: 199
+#
+name: PRESET MODE
+type: parsed
+protocol: nec1
+address: 26.232
+command: 200
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 26.232
+command: 201
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 26.232
+command: 202
+#

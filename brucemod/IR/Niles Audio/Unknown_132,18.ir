@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SPKR 2
+type: parsed
+protocol: nec1
+address: 132.18
+command: 198
+#
+name: SPKR 1
+type: parsed
+protocol: nec1
+address: 132.18
+command: 199
+#
+name: SPKR 4
+type: parsed
+protocol: nec1
+address: 132.18
+command: 202
+#
+name: SPKR 3
+type: parsed
+protocol: nec1
+address: 132.18
+command: 203
+#
+name: SPKR 6
+type: parsed
+protocol: nec1
+address: 132.18
+command: 206
+#
+name: SPKR 5
+type: parsed
+protocol: nec1
+address: 132.18
+command: 207
+#
+name: ALL OFF
+type: parsed
+protocol: nec1
+address: 132.18
+command: 214
+#
+name: ALL ON
+type: parsed
+protocol: nec1
+address: 132.18
+command: 215
+#

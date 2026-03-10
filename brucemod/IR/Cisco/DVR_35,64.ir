@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 0
+#
+name: 1
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 1
+#
+name: 2
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 2
+#
+name: 3
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 3
+#
+name: 4
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 4
+#
+name: 5
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 5
+#
+name: 6
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 6
+#
+name: 8
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 8
+#
+name: 9
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 9
+#
+name: LAST
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 10
+#
+name: CHANNEL +
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 32
+#
+name: CHANNEL -
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 33
+#
+name: SEARCH >>
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 40
+#
+name: SEARCH <<
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 41
+#
+name: RECORDED TV
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 68
+#
+name: MENU
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 84
+#
+name: EXIT TO TV
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 85
+#
+name: CURSOR UP
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 88
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 89
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 90
+#
+name: C
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 134
+#

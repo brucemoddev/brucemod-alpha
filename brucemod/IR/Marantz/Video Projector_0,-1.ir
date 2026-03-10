@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF/STANDBY2
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: STANDBY - B
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: V-MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: VIDEO MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: INFORMATION
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: BACK LIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: INFO
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: TINT -
+type: parsed
+protocol: rc5
+address: 0
+command: 31
+#
+name: TINT +
+type: parsed
+protocol: rc5
+address: 0
+command: 39
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: EXIT
+type: parsed
+protocol: rc5
+address: 0
+command: 45
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: INPUT
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: POWER ON 2
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: POWER ON - B
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: MENU ON
+type: parsed
+protocol: rc5
+address: 0
+command: 82
+#
+name: MENU OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 83
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 0
+command: 87
+#
+name: PIP ON/OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 88
+#
+name: PIC MODE -FREEZE
+type: parsed
+protocol: rc5
+address: 0
+command: 93
+#
+name: FREEZE
+type: parsed
+protocol: rc5
+address: 0
+command: 93
+#
+name: SMOOTH
+type: parsed
+protocol: rc5
+address: 0
+command: 97
+#
+name: PICTURE SHIFT
+type: parsed
+protocol: rc5
+address: 0
+command: 105
+#
+name: ASPECT -ZOOM
+type: parsed
+protocol: rc5
+address: 0
+command: 116
+#
+name: ZOOM/ZOOM 1
+type: parsed
+protocol: rc5
+address: 0
+command: 116
+#
+name: ZOOM
+type: parsed
+protocol: rc5
+address: 0
+command: 116
+#
+name: ZOOM (ASPECT)
+type: parsed
+protocol: rc5
+address: 0
+command: 116
+#
+name: CINEMA
+type: parsed
+protocol: rc5
+address: 0
+command: 118
+#
+name: CENEMA
+type: parsed
+protocol: rc5
+address: 0
+command: 118
+#
+name: BACK LIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 119
+#
+name: INFORMATION (OSD)
+type: parsed
+protocol: rc5
+address: 0
+command: 119
+#
+name: ASPECT
+type: parsed
+protocol: rc5
+address: 0
+command: 125
+#
+name: ASPECT -FULL
+type: parsed
+protocol: rc5
+address: 0
+command: 126
+#
+name: ASPECT -SQUEEZE
+type: parsed
+protocol: rc5
+address: 0
+command: 126
+#
+name: FULL SQUEEZE
+type: parsed
+protocol: rc5
+address: 0
+command: 126
+#
+name: FULL
+type: parsed
+protocol: rc5
+address: 0
+command: 126
+#
+name: FULL (ASPECT)
+type: parsed
+protocol: rc5
+address: 0
+command: 126
+#

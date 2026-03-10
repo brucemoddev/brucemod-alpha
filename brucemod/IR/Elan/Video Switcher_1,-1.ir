@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: O17
+type: parsed
+protocol: velleman
+address: 1
+command: 20
+#
+name: O18
+type: parsed
+protocol: velleman
+address: 1
+command: 21
+#
+name: O19
+type: parsed
+protocol: velleman
+address: 1
+command: 22
+#
+name: O20
+type: parsed
+protocol: velleman
+address: 1
+command: 23
+#
+name: O21
+type: parsed
+protocol: velleman
+address: 1
+command: 52
+#
+name: O22
+type: parsed
+protocol: velleman
+address: 1
+command: 53
+#
+name: O23
+type: parsed
+protocol: velleman
+address: 1
+command: 54
+#
+name: O24
+type: parsed
+protocol: velleman
+address: 1
+command: 55
+#

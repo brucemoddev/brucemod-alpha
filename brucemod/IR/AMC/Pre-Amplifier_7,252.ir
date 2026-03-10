@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TEST
+type: parsed
+protocol: nec1
+address: 7.252
+command: 128
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 7.252
+command: 130
+#
+name: SSE
+type: parsed
+protocol: nec1
+address: 7.252
+command: 132
+#
+name: D1/D2
+type: parsed
+protocol: nec1
+address: 7.252
+command: 136
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 7.252
+command: 143
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 7.252
+command: 153
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 7.252
+command: 154
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 7.252
+command: 155
+#
+name: SCAN +
+type: parsed
+protocol: nec1
+address: 7.252
+command: 156
+#
+name: SCAN -
+type: parsed
+protocol: nec1
+address: 7.252
+command: 157
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 7.252
+command: 192
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 7.252
+command: 193
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 7.252
+command: 194
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 7.252
+command: 195
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 7.252
+command: 196
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 7.252
+command: 197
+#
+name: LD
+type: parsed
+protocol: nec1
+address: 7.252
+command: 198
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 7.252
+command: 200
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 7.252
+command: 216
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 7.252
+command: 217
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 7.252
+command: 218
+#
+name: MONO
+type: parsed
+protocol: nec1
+address: 7.252
+command: 220
+#
+name: NORMAL STEREO
+type: parsed
+protocol: nec1
+address: 7.252
+command: 221
+#
+name: DOLBY PROLOGIC
+type: parsed
+protocol: nec1
+address: 7.252
+command: 222
+#
+name: PBX/THX CINEMA
+type: parsed
+protocol: nec1
+address: 7.252
+command: 223
+#

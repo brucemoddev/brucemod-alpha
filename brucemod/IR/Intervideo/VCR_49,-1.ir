@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CH/TRACKING ^
+type: parsed
+protocol: nec1
+address: 49
+command: 1
+#
+name: CH/TRACKING V
+type: parsed
+protocol: nec1
+address: 49
+command: 2
+#
+name: AUDIO OUT
+type: parsed
+protocol: nec1
+address: 49
+command: 3
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 49
+command: 4
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 49
+command: 5
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 49
+command: 6
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 49
+command: 7
+#
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 49
+command: 8
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 49
+command: 12
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 49
+command: 13
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 49
+command: 14
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 49
+command: 15
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 49
+command: 16
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 49
+command: 17
+#
+name: REW/SRCH <<
+type: parsed
+protocol: nec1
+address: 49
+command: 18
+#
+name: FF/SRCH >>
+type: parsed
+protocol: nec1
+address: 49
+command: 19
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 49
+command: 20
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 49
+command: 21
+#
+name: INDEX
+type: parsed
+protocol: nec1
+address: 49
+command: 25
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 49
+command: 26
+#
+name: 1--
+type: parsed
+protocol: nec1
+address: 49
+command: 27
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 49
+command: 28
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 49
+command: 29
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 49
+command: 30
+#
+name: AUTO TRACKING
+type: parsed
+protocol: nec1
+address: 49
+command: 31
+#
+name: OTR OFF
+type: parsed
+protocol: nec1
+address: 49
+command: 64
+#
+name: OTR ON
+type: parsed
+protocol: nec1
+address: 49
+command: 65
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 49
+command: 67
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 49
+command: 68
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 49
+command: 70
+#
+name: SLOW ^
+type: parsed
+protocol: nec1
+address: 49
+command: 71
+#
+name: SLOW V
+type: parsed
+protocol: nec1
+address: 49
+command: 72
+#
+name: AUDIO DUB
+type: parsed
+protocol: nec1
+address: 49
+command: 73
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 49
+command: 74
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 49
+command: 76
+#
+name: TV MONITOR
+type: parsed
+protocol: nec1
+address: 49
+command: 81
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 49
+command: 91
+#
+name: CHANNEL SCAN
+type: parsed
+protocol: nec1
+address: 49
+command: 92
+#
+name: TAPE SPEED
+type: parsed
+protocol: nec1
+address: 49
+command: 94
+#
+name: ADD
+type: parsed
+protocol: nec1
+address: 49
+command: 153
+#
+name: CH PROG AUTO
+type: parsed
+protocol: nec1
+address: 49
+command: 158
+#
+name: ERASE
+type: parsed
+protocol: nec1
+address: 49
+command: 159
+#
+name: BLANK SEARCH
+type: parsed
+protocol: nec1
+address: 49
+command: 208
+#

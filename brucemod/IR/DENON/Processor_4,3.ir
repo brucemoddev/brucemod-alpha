@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUX ZONE 2
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 711
+#

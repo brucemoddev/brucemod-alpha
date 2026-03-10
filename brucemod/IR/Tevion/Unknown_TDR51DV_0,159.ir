@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.159
+command: 0
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 0.159
+command: 1
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.159
+command: 2
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.159
+command: 3
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.159
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.159
+command: 7
+#
+name: Display
+type: parsed
+protocol: nec
+address: 0.159
+command: 8
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 0.159
+command: 9
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.159
+command: 10
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.159
+command: 11
+#
+name: GoTo
+type: parsed
+protocol: nec
+address: 0.159
+command: 12
+#
+name: PS/IS
+type: parsed
+protocol: nec
+address: 0.159
+command: 13
+#
+name: Scan
+type: parsed
+protocol: nec
+address: 0.159
+command: 14
+#
+name: AV
+type: parsed
+protocol: nec
+address: 0.159
+command: 15
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.159
+command: 16
+#
+name: Pause/Step
+type: parsed
+protocol: nec
+address: 0.159
+command: 17
+#
+name: DiskOper
+type: parsed
+protocol: nec
+address: 0.159
+command: 18
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.159
+command: 20
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 0.159
+command: 21
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 0.159
+command: 22
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.159
+command: 23
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.159
+command: 24
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 0.159
+command: 25
+#
+name: Nav
+type: parsed
+protocol: nec
+address: 0.159
+command: 26
+#
+name: AddClear
+type: parsed
+protocol: nec
+address: 0.159
+command: 27
+#
+name: Erase
+type: parsed
+protocol: nec
+address: 0.159
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.159
+command: 30
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 0.159
+command: 31
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0.159
+command: 64
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.159
+command: 65
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 0.159
+command: 66
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 0.159
+command: 67
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.159
+command: 69
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.159
+command: 70
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 0.159
+command: 72
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.159
+command: 73
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.159
+command: 74
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 0.159
+command: 75
+#
+name: Random
+type: parsed
+protocol: nec
+address: 0.159
+command: 76
+#
+name: DV
+type: parsed
+protocol: nec
+address: 0.159
+command: 77
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.159
+command: 78
+#
+name: Prog
+type: parsed
+protocol: nec
+address: 0.159
+command: 79
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.159
+command: 81
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.159
+command: 82
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.159
+command: 84
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 0.159
+command: 85
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.159
+command: 86
+#
+name: Rev
+type: parsed
+protocol: nec
+address: 0.159
+command: 87
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.159
+command: 88
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.159
+command: 89
+#
+name: tIMER
+type: parsed
+protocol: nec
+address: 0.159
+command: 90
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 0.159
+command: 91
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 0.159
+command: 93
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 0.159
+command: 94
+#
+name: Finalize
+type: parsed
+protocol: nec
+address: 0.159
+command: 95
+#

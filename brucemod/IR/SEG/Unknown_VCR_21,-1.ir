@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: Proton
+address: 21
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: KEY_STOP
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: KEY_PLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Proton
+address: 21
+command: 15
+#
+name: KEY_REWIND
+type: parsed
+protocol: Proton
+address: 21
+command: 16
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: KEY_RECORD
+type: parsed
+protocol: Proton
+address: 21
+command: 18
+#
+name: KEY_SLOW
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: KEY_SLEEP
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: TV_VCR
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: unlabeled_1
+type: parsed
+protocol: Proton
+address: 21
+command: 25
+#
+name: ASEL
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: SP_LP
+type: parsed
+protocol: Proton
+address: 21
+command: 27
+#
+name: COUNT
+type: parsed
+protocol: Proton
+address: 21
+command: 29
+#
+name: >>30
+type: parsed
+protocol: Proton
+address: 21
+command: 30
+#
+name: PAL_SEC
+type: parsed
+protocol: Proton
+address: 21
+command: 31
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: Proton
+address: 21
+command: 33
+#
+name: KEY_MENU
+type: parsed
+protocol: Proton
+address: 21
+command: 34
+#
+name: unlabeled_2
+type: parsed
+protocol: Proton
+address: 21
+command: 39
+#
+name: KEY_OK
+type: parsed
+protocol: Proton
+address: 21
+command: 41
+#
+name: TUNE_LEFT
+type: parsed
+protocol: Proton
+address: 21
+command: 49
+#
+name: INDEX+
+type: parsed
+protocol: Proton
+address: 21
+command: 51
+#
+name: TUNE_RIGHT
+type: parsed
+protocol: Proton
+address: 21
+command: 53
+#
+name: AV
+type: parsed
+protocol: Proton
+address: 21
+command: 54
+#
+name: PROG
+type: parsed
+protocol: Proton
+address: 21
+command: 57
+#
+name: INDEX-
+type: parsed
+protocol: Proton
+address: 21
+command: 63
+#

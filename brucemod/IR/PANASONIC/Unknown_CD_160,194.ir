@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP/CLEAR
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 128
+#
+name: KEY_AGAIN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 129
+#
+name: KEY_BACK
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 132
+#
+name: KEY_FORWARD
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 133
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 135
+#
+name: MEMORY
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 139
+#
+name: KEY_TAPE
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 172
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 176
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 177
+#
+name: XBS
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 181
+#
+name: KEY_CD
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 182
+#
+name: BAND
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 184
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 191
+#
+name: FM_MODE
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 228
+#
+name: TUNER_CH_UP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 231
+#
+name: TUNER_CH_DOWN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 232
+#
+name: TUNER+
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 233
+#
+name: TUNER-
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 234
+#

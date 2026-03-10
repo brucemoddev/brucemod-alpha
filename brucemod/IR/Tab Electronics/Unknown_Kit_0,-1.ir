@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: wallright
+type: parsed
+protocol: nec
+address: 0
+command: 0
+#
+name: wallleft
+type: parsed
+protocol: nec
+address: 0
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0
+command: 5
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0
+command: 6
+#
+name: maze
+type: parsed
+protocol: nec
+address: 0
+command: 8
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 0
+command: 9
+#
+name: awaylight
+type: parsed
+protocol: nec
+address: 0
+command: 10
+#
+name: turnright
+type: parsed
+protocol: nec
+address: 0
+command: 12
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0
+command: 13
+#
+name: turnleft
+type: parsed
+protocol: nec
+address: 0
+command: 14
+#
+name: seeklight
+type: parsed
+protocol: nec
+address: 0
+command: 20
+#
+name: foreward
+type: parsed
+protocol: nec
+address: 0
+command: 21
+#
+name: forewardright
+type: parsed
+protocol: nec
+address: 0
+command: 22
+#

@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 134.118
+command: 0
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 134.118
+command: 1
+#
+name: SOURCE CABLE/SAT
+type: parsed
+protocol: nec1
+address: 134.118
+command: 4
+#
+name: SOURCE DVD
+type: parsed
+protocol: nec1
+address: 134.118
+command: 5
+#
+name: SOURCE THE BRIDGE
+type: parsed
+protocol: nec1
+address: 134.118
+command: 6
+#
+name: SOURCE RADIO
+type: parsed
+protocol: nec1
+address: 134.118
+command: 8
+#
+name: SOURCE TV
+type: parsed
+protocol: nec1
+address: 134.118
+command: 9
+#
+name: SOURCE GAME
+type: parsed
+protocol: nec1
+address: 134.118
+command: 10
+#
+name: SOURCE MEDIA SERVR
+type: parsed
+protocol: nec1
+address: 134.118
+command: 11
+#
+name: SOURCE AUX
+type: parsed
+protocol: nec1
+address: 134.118
+command: 12
+#
+name: LAST
+type: parsed
+protocol: nec1
+address: 134.118
+command: 27
+#
+name: BACK/EXIT
+type: parsed
+protocol: nec1
+address: 134.118
+command: 28
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 134.118
+command: 29
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 134.118
+command: 31
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 134.118
+command: 32
+#
+name: CURSOR OK
+type: parsed
+protocol: nec1
+address: 134.118
+command: 33
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 134.118
+command: 34
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 134.118
+command: 35
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 134.118
+command: 40
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 134.118
+command: 41
+#
+name: VOLUME MUTE
+type: parsed
+protocol: nec1
+address: 134.118
+command: 42
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 134.118
+command: 43
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 134.118
+command: 44
+#
+name: TR SKIP <<
+type: parsed
+protocol: nec1
+address: 134.118
+command: 45
+#
+name: TR PAUSE
+type: parsed
+protocol: nec1
+address: 134.118
+command: 46
+#
+name: TR SKIP >>
+type: parsed
+protocol: nec1
+address: 134.118
+command: 47
+#
+name: TR SCAN <<
+type: parsed
+protocol: nec1
+address: 134.118
+command: 48
+#
+name: TR PLAY
+type: parsed
+protocol: nec1
+address: 134.118
+command: 49
+#
+name: TR SCAN >>
+type: parsed
+protocol: nec1
+address: 134.118
+command: 50
+#
+name: TR STOP
+type: parsed
+protocol: nec1
+address: 134.118
+command: 51
+#
+name: TR REC
+type: parsed
+protocol: nec1
+address: 134.118
+command: 52
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 134.118
+command: 54
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 134.118
+command: 56
+#

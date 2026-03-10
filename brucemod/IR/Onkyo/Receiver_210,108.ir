@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MULTI-CH INPUT
+type: parsed
+protocol: nec1
+address: 210.108
+command: 4
+#
+name: DSP
+type: parsed
+protocol: nec1
+address: 210.108
+command: 24
+#
+name: 3/DSP>
+type: parsed
+protocol: nec1
+address: 210.108
+command: 24
+#
+name: 6/DSP<
+type: parsed
+protocol: nec1
+address: 210.108
+command: 25
+#
+name: INPUT SELECTOR >
+type: parsed
+protocol: nec1
+address: 210.108
+command: 30
+#
+name: INPUT SELECTOR <
+type: parsed
+protocol: nec1
+address: 210.108
+command: 31
+#
+name: LEVEL +
+type: parsed
+protocol: nec2
+address: 210.108
+command: 66
+#
+name: LEVEL UP
+type: parsed
+protocol: nec2
+address: 210.108
+command: 66
+#
+name: SURR CH SEL +
+type: parsed
+protocol: nec2
+address: 210.108
+command: 66
+#
+name: LEVEL -
+type: parsed
+protocol: nec2
+address: 210.108
+command: 67
+#
+name: LEVEL DOWN
+type: parsed
+protocol: nec2
+address: 210.108
+command: 67
+#
+name: SURR CH SEL -
+type: parsed
+protocol: nec2
+address: 210.108
+command: 67
+#
+name: CH SEL
+type: parsed
+protocol: nec1
+address: 210.108
+command: 68
+#
+name: CH SEL/TOP MENU
+type: parsed
+protocol: nec1
+address: 210.108
+command: 68
+#
+name: SURR CH SEL
+type: parsed
+protocol: nec1
+address: 210.108
+command: 68
+#
+name: SURR MODE <
+type: parsed
+protocol: nec1
+address: 210.108
+command: 69
+#
+name: STNBY
+type: parsed
+protocol: nec1
+address: 210.108
+command: 71
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.108
+command: 71
+#
+name: 1/STEREO
+type: parsed
+protocol: nec1
+address: 210.108
+command: 76
+#
+name: 4/SURR
+type: parsed
+protocol: nec1
+address: 210.108
+command: 77
+#
+name: 5/A.ST
+type: parsed
+protocol: nec1
+address: 210.108
+command: 82
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 210.108
+command: 83
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 210.108
+command: 84
+#
+name: +10/DISPLAY
+type: parsed
+protocol: nec1
+address: 210.108
+command: 85
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 210.108
+command: 140
+#
+name: 9/RE-EQ
+type: parsed
+protocol: nec1
+address: 210.108
+command: 214
+#
+name: A/AUDIO
+type: parsed
+protocol: nec1
+address: 210.108
+command: 217
+#

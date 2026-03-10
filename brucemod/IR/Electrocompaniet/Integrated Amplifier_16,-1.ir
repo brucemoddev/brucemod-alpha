@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 16
+command: 21
+#
+name: TAPE
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: DVD
+type: parsed
+protocol: rc5
+address: 16
+command: 57
+#
+name: VCR
+type: parsed
+protocol: rc5
+address: 16
+command: 61
+#

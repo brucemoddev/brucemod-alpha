@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony15
+address: 84
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony15
+address: 84
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: sony15
+address: 84
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: sony15
+address: 84
+command: 21
+#
+name: CONTRAST+
+type: parsed
+protocol: sony15
+address: 84
+command: 24
+#
+name: CONTRAST-
+type: parsed
+protocol: sony15
+address: 84
+command: 25
+#
+name: COLOR+
+type: parsed
+protocol: sony15
+address: 84
+command: 26
+#
+name: COLOR-
+type: parsed
+protocol: sony15
+address: 84
+command: 27
+#
+name: BRIGHT+
+type: parsed
+protocol: sony15
+address: 84
+command: 30
+#
+name: BRIGHT-
+type: parsed
+protocol: sony15
+address: 84
+command: 31
+#
+name: HUE+
+type: parsed
+protocol: sony15
+address: 84
+command: 32
+#
+name: HUE-
+type: parsed
+protocol: sony15
+address: 84
+command: 33
+#
+name: SHARP+
+type: parsed
+protocol: sony15
+address: 84
+command: 34
+#
+name: SHARP-
+type: parsed
+protocol: sony15
+address: 84
+command: 35
+#
+name: PICTURE_MUTE
+type: parsed
+protocol: sony15
+address: 84
+command: 36
+#
+name: STATUS_ON
+type: parsed
+protocol: sony15
+address: 84
+command: 37
+#
+name: STATUS_OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 38
+#
+name: KEY_MENU
+type: parsed
+protocol: sony15
+address: 84
+command: 41
+#
+name: KEY_VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 42
+#
+name: INPUT_A
+type: parsed
+protocol: sony15
+address: 84
+command: 43
+#
+name: KEY_POWER
+type: parsed
+protocol: sony15
+address: 84
+command: 46
+#
+name: KEY_POWER
+type: parsed
+protocol: sony15
+address: 84
+command: 47
+#
+name: CURSOR_LEFT
+type: parsed
+protocol: sony15
+address: 84
+command: 52
+#
+name: CURSOR_UP
+type: parsed
+protocol: sony15
+address: 84
+command: 53
+#
+name: CURSOR_DOWN
+type: parsed
+protocol: sony15
+address: 84
+command: 54
+#
+name: RGB_HSIZE
+type: parsed
+protocol: sony15
+address: 84
+command: 71
+#
+name: RGB_SHIFT
+type: parsed
+protocol: sony15
+address: 84
+command: 72
+#
+name: ASPECT_SELECT
+type: parsed
+protocol: sony15
+address: 84
+command: 76
+#
+name: INPUT
+type: parsed
+protocol: sony15
+address: 84
+command: 87
+#
+name: KEY_OK
+type: parsed
+protocol: sony15
+address: 84
+command: 90
+#
+name: MEMORY
+type: parsed
+protocol: sony15
+address: 84
+command: 94
+#
+name: CURSOR_RIGHT
+type: parsed
+protocol: sony15
+address: 84
+command: 99
+#
+name: RESET
+type: parsed
+protocol: sony15
+address: 84
+command: 123
+#

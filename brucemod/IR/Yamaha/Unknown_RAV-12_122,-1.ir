@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TapePlay
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: TapeRewind
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: TapeForward
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: TapeStop
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: TapeRec
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: TapeDeckA/B
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: TapeDirA
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: CDPlay
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: CDPause/Stop
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: CDSkipForward
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: CDSkipBack
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: CDForward
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: CDRewind
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: SourceVCR
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: RadioPreset+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: RadioPreset-
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: A/B/C/D/E
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: SourceCD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: SourceTuner
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: SourceDVD/LD
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: Tape/MD_Monitor
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: TapeDirB
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: DiscSkip
+type: parsed
+protocol: nec
+address: 122
+command: 79
+#
+name: DSP+
+type: parsed
+protocol: nec
+address: 122
+command: 82
+#
+name: DSP-
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: DSP_Prg-
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: SourceSAT/D-TV
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: SourceAUX
+type: parsed
+protocol: nec
+address: 122
+command: 85
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: DSP_Prg+
+type: parsed
+protocol: nec
+address: 122
+command: 88
+#
+name: Time/Level
+type: parsed
+protocol: nec
+address: 122
+command: 134
+#
+name: ExternalDecoder
+type: parsed
+protocol: nec
+address: 122
+command: 135
+#
+name: SetMenu
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#

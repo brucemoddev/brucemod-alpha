@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: directv
+address: 12
+command: 1
+#
+name: 2
+type: parsed
+protocol: directv
+address: 12
+command: 2
+#
+name: 3
+type: parsed
+protocol: directv
+address: 12
+command: 3
+#
+name: 4
+type: parsed
+protocol: directv
+address: 12
+command: 4
+#
+name: 5
+type: parsed
+protocol: directv
+address: 12
+command: 5
+#
+name: 6
+type: parsed
+protocol: directv
+address: 12
+command: 6
+#
+name: 7
+type: parsed
+protocol: directv
+address: 12
+command: 7
+#
+name: 8
+type: parsed
+protocol: directv
+address: 12
+command: 8
+#
+name: 9
+type: parsed
+protocol: directv
+address: 12
+command: 9
+#
+name: Chan+
+type: parsed
+protocol: directv
+address: 12
+command: 13
+#
+name: Chan-
+type: parsed
+protocol: directv
+address: 12
+command: 14
+#
+name: Previous
+type: parsed
+protocol: directv
+address: 12
+command: 15
+#
+name: Power
+type: parsed
+protocol: directv
+address: 12
+command: 16
+#
+name: 0
+type: parsed
+protocol: directv
+address: 12
+command: 17
+#
+name: Dash
+type: parsed
+protocol: directv
+address: 12
+command: 18
+#
+name: Enter
+type: parsed
+protocol: directv
+address: 12
+command: 19
+#
+name: Menu
+type: parsed
+protocol: directv
+address: 12
+command: 32
+#
+name: Up
+type: parsed
+protocol: directv
+address: 12
+command: 33
+#
+name: Down
+type: parsed
+protocol: directv
+address: 12
+command: 34
+#
+name: Left
+type: parsed
+protocol: directv
+address: 12
+command: 35
+#
+name: Right
+type: parsed
+protocol: directv
+address: 12
+command: 36
+#
+name: Select
+type: parsed
+protocol: directv
+address: 12
+command: 37
+#
+name: Exit
+type: parsed
+protocol: directv
+address: 12
+command: 38
+#
+name: Back
+type: parsed
+protocol: directv
+address: 12
+command: 39
+#
+name: Guide
+type: parsed
+protocol: directv
+address: 12
+command: 40
+#
+name: Active
+type: parsed
+protocol: directv
+address: 12
+command: 41
+#
+name: List
+type: parsed
+protocol: directv
+address: 12
+command: 42
+#
+name: Info
+type: parsed
+protocol: directv
+address: 12
+command: 46
+#
+name: Play
+type: parsed
+protocol: directv
+address: 12
+command: 48
+#
+name: Stop
+type: parsed
+protocol: directv
+address: 12
+command: 49
+#
+name: Pause
+type: parsed
+protocol: directv
+address: 12
+command: 50
+#
+name: Rewind
+type: parsed
+protocol: directv
+address: 12
+command: 51
+#
+name: Forward
+type: parsed
+protocol: directv
+address: 12
+command: 52
+#
+name: Record
+type: parsed
+protocol: directv
+address: 12
+command: 53
+#
+name: Replay
+type: parsed
+protocol: directv
+address: 12
+command: 54
+#
+name: Skip
+type: parsed
+protocol: directv
+address: 12
+command: 55
+#
+name: Red
+type: parsed
+protocol: directv
+address: 12
+command: 65
+#
+name: Yellow
+type: parsed
+protocol: directv
+address: 12
+command: 66
+#
+name: Green
+type: parsed
+protocol: directv
+address: 12
+command: 67
+#
+name: Blue
+type: parsed
+protocol: directv
+address: 12
+command: 68
+#
+name: On
+type: parsed
+protocol: directv
+address: 12
+command: 128
+#
+name: Off
+type: parsed
+protocol: directv
+address: 12
+command: 129
+#

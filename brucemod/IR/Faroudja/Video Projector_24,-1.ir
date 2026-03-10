@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 24
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 24
+command: 3
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 24
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 24
+command: 9
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 24
+command: 10
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 24
+command: 15
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 24
+command: 25
+#
+name: OFF TIMER
+type: parsed
+protocol: nec1
+address: 24
+command: 30
+#
+name: AUTO ADJUST
+type: parsed
+protocol: nec1
+address: 24
+command: 31
+#
+name: RGB/PC
+type: parsed
+protocol: nec1
+address: 24
+command: 88
+#

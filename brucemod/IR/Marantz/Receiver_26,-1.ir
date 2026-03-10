@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD-R
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: RECORDER 1
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: CDR
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: EQ
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: CD-R (RECORDER 1)
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: CDR/MD
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: CDR INPUT
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: INPUT - CD-R
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: INPUT: CD-R
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#
+name: 
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#

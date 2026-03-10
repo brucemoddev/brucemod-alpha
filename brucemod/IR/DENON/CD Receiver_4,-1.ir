@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE REVERSE
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: TAPE FORWARD
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#

@@ -1,0 +1,1965 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD STOP []
+type: parsed
+protocol: nec2
+address: 128.112
+command: 1
+#
+name: CD_STOP
+type: parsed
+protocol: nec2
+address: 128.112
+command: 1
+#
+name: CD STOP
+type: parsed
+protocol: nec2
+address: 128.112
+command: 1
+#
+name: CD STOP (RDS DISP)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 1
+#
+name: CD STOP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 1
+#
+name: CD PLAY >
+type: parsed
+protocol: nec2
+address: 128.112
+command: 2
+#
+name: CD_PLAY
+type: parsed
+protocol: nec2
+address: 128.112
+command: 2
+#
+name: CD PLAY
+type: parsed
+protocol: nec2
+address: 128.112
+command: 2
+#
+name: CD PLAY (AF)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 2
+#
+name: CD PLAY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 2
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec2
+address: 128.112
+command: 3
+#
+name: CD_PAUSE
+type: parsed
+protocol: nec2
+address: 128.112
+command: 3
+#
+name: CD MUTE
+type: parsed
+protocol: nec2
+address: 128.112
+command: 3
+#
+name: CD REC/PAUSE (PTY)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 3
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 4
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 4
+#
+name: CD CHAN/SKIP >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 4
+#
+name: CD SKIP +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 4
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 5
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 5
+#
+name: CD CHAN/SKIP <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 5
+#
+name: CD SKIP -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 5
+#
+name: CD SEARCH >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 6
+#
+name: CD_SEARCH>>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 6
+#
+name: CD SEARCH>>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 6
+#
+name: CD SCAN >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 6
+#
+name: CD TUNE/SRCH >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 6
+#
+name: CD SEARCH <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 7
+#
+name: CD_SEARCH<<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 7
+#
+name: CD SEARCH<<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 7
+#
+name: CD SCAN <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 7
+#
+name: CD TUNE/SRCH <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 7
+#
+name: CD REPEAT
+type: parsed
+protocol: nec2
+address: 128.112
+command: 10
+#
+name: CD A-B
+type: parsed
+protocol: nec2
+address: 128.112
+command: 11
+#
+name: CD_A-B
+type: parsed
+protocol: nec2
+address: 128.112
+command: 11
+#
+name: CD A - B
+type: parsed
+protocol: nec2
+address: 128.112
+command: 11
+#
+name: CD INTRO
+type: parsed
+protocol: nec2
+address: 128.112
+command: 13
+#
+name: CD_INTRO
+type: parsed
+protocol: nec2
+address: 128.112
+command: 13
+#
+name: INTRO
+type: parsed
+protocol: nec2
+address: 128.112
+command: 13
+#
+name: CD # (P-SCAN)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 13
+#
+name: CD * (MEMO)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 14
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 15
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 16
+#
+name: CD 1 (ABC)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 17
+#
+name: CD 2 (DEF)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 18
+#
+name: CD 3 (GHI)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 19
+#
+name: CD 4 (JKL)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 20
+#
+name: CD 5 (MNO)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 21
+#
+name: CD 6 (PQR)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 22
+#
+name: CD 7 (STU)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 23
+#
+name: CD 8 (VWX)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 24
+#
+name: CD 9 (YZ)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 25
+#
+name: CD 0
+type: parsed
+protocol: nec2
+address: 128.112
+command: 26
+#
+name: TUNING+
+type: parsed
+protocol: nec1
+address: 128.112
+command: 40
+#
+name: TUNING-
+type: parsed
+protocol: nec1
+address: 128.112
+command: 41
+#
+name: CD 0 (CLEAR)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 64
+#
+name: CD DISC
+type: parsed
+protocol: nec2
+address: 128.112
+command: 80
+#
+name: CD_DISC
+type: parsed
+protocol: nec2
+address: 128.112
+command: 80
+#
+name: DISC
+type: parsed
+protocol: nec2
+address: 128.112
+command: 80
+#
+name: CD DISC SKIP
+type: parsed
+protocol: nec2
+address: 128.112
+command: 80
+#
+name: CD DISC +
+type: parsed
+protocol: nec2
+address: 128.112
+command: 80
+#
+name: CD PRESET DISC +
+type: parsed
+protocol: nec2
+address: 128.112
+command: 80
+#
+name: DISC +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 80
+#
+name: CD SOURCE POWER ON
+type: parsed
+protocol: nec2
+address: 128.112
+command: 86
+#
+name: 
+type: parsed
+protocol: nec1
+address: 128.112
+command: 86
+#
+name: CD ON
+type: parsed
+protocol: nec2
+address: 128.112
+command: 86
+#
+name: CD SOURCE POWER OFF
+type: parsed
+protocol: nec2
+address: 128.112
+command: 87
+#
+name: CD OFF
+type: parsed
+protocol: nec2
+address: 128.112
+command: 87
+#
+name: CD POWER OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 87
+#
+name: CD PRESET DISC -
+type: parsed
+protocol: nec2
+address: 128.112
+command: 91
+#
+name: DISC -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 91
+#
+name: CD REV PLAY < (FM M)
+type: parsed
+protocol: nec2
+address: 128.112
+command: 95
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: IN AM/FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: AM/FM
+type: parsed
+protocol: nec2
+address: 128.112
+command: 129
+#
+name: SOURCE RADIO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: INPUT AM/FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 130
+#
+name: TUNING ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNING +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: AVR30 CH ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNING_UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNE+
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNE ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNE +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNING UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNE UP
+type: parsed
+protocol: nec2
+address: 128.112
+command: 132
+#
+name: TUNE UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNING >>
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: AM/FM TUNE/SRCH >>
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNER SCAN +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNING V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNING -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: AVR30 CH V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNING_DOWN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE-
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNING DOWN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec2
+address: 128.112
+command: 133
+#
+name: TUNE DN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNING <<
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: AM/FM TUNE/SRCH <<
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNER SCAN -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 134
+#
+name: MEM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 134
+#
+name: AM/FM * (MEMO)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 134
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: AVR30 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: DELAY1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: AM/FM 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 128.112
+command: 135
+#
+name: AM/FM 1 (ABC)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: TUNER PRESET 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: AVR30 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 128.112
+command: 136
+#
+name: AM/FM 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: AM/FM 2 (DEF)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: TUNER PRESET 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: AVR30 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 128.112
+command: 137
+#
+name: AM/FM 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: AM/FM 3 (GHI)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: TUNER PRESET 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: AVR30 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: AM/FM 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 128.112
+command: 138
+#
+name: AM/FM 4 (JKL)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: TUNER PRESET 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: AVR30 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: AM/FM 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 128.112
+command: 139
+#
+name: AM/FM 5 (MNO)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: TUNER PRESET 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: AVR30 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: AM/FM 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: AM/FM 6 (PQR)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: TUNER PRESET 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: AVR30 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: 6CH
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: AM/FM 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 128.112
+command: 141
+#
+name: AM/FM 7 (STU)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: TUNER PRESET 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: AVR30 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: AM/FM 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 128.112
+command: 142
+#
+name: AM/FM 8 (VWX)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: TUNER PRESET 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: SHIFT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 143
+#
+name: AVR30 SHIFT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 143
+#
+name: SEEK
+type: parsed
+protocol: nec1
+address: 128.112
+command: 145
+#
+name: SEEK-STEREO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 145
+#
+name: TUN-M
+type: parsed
+protocol: nec1
+address: 128.112
+command: 147
+#
+name: FM MODE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 147
+#
+name: TUNE-M
+type: parsed
+protocol: nec1
+address: 128.112
+command: 147
+#
+name: AM/FM FM MODE (<)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 147
+#
+name: P.SCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: PRESET SCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: TUNER P.SCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: PRESET_SCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: PSCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: P. SCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: AM/FM # (P-SCAN)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 155
+#
+name: DIRECT
+type: parsed
+protocol: nec2
+address: 128.112
+command: 155
+#
+name: DIRECT/M3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 155
+#
+name: ON (MAIN POWER)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 156
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 156
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128.112
+command: 157
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 128.112
+command: 157
+#
+name: AM/FM 9 (YZ)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 157
+#
+name: TUNER PRESET 9
+type: parsed
+protocol: nec1
+address: 128.112
+command: 157
+#
+name: 9
+type: parsed
+protocol: nec
+address: 128.112
+command: 157
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128.112
+command: 158
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 128.112
+command: 158
+#
+name: AM/FM 0 (CLEAR)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 158
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: OFF (MAIN POWER)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: RECEIVER POWER OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: SOURCE CABLE/SAT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 176
+#
+name: SOURCE TV
+type: parsed
+protocol: nec1
+address: 128.112
+command: 177
+#
+name: SOURCE GAME
+type: parsed
+protocol: nec1
+address: 128.112
+command: 178
+#
+name: SOURCE MEDIA SERVR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 179
+#
+name: SOURCE AUX
+type: parsed
+protocol: nec1
+address: 128.112
+command: 180
+#
+name: LAST
+type: parsed
+protocol: nec1
+address: 128.112
+command: 182
+#
+name: BACK/EXIT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 183
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128.112
+command: 184
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 189
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 190
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 191
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: RECEIVER POWER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: AVR30 POWER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: AVR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: IN AVR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: AVR / ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: ON/AVR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: STANDBY
+type: parsed
+protocol: nec
+address: 128.112
+command: 192
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 193
+#
+name: VOLUME MUTE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 193
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 128.112
+command: 193
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 128.112
+command: 193
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 194
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 195
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 196
+#
+name: IN CD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 196
+#
+name: CD
+type: parsed
+protocol: nec
+address: 128.112
+command: 196
+#
+name: A/V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 197
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 128.112
+command: 197
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 198
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: MASTER VOLUME ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME+
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLYM +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: MASTER VOLUME V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VOLYM -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VCR1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VID1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VCR/TAPE1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: IN VIDEO 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VIDEO1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VID 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VCR1
+type: parsed
+protocol: nec
+address: 128.112
+command: 202
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VCR2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VID2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VCR/TAPE2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: IN VIDEO 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VIDEO2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VID 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VCR2
+type: parsed
+protocol: nec
+address: 128.112
+command: 203
+#
+name: TAPE/CDR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: IN TAPE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: TAPE1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: TAPE MON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 205
+#
+name: TAPE MON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 205
+#
+name: IN AUX
+type: parsed
+protocol: nec1
+address: 128.112
+command: 205
+#
+name: TAPE2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 205
+#
+name: TAPE MON
+type: parsed
+protocol: nec
+address: 128.112
+command: 205
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: TV/AUX
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: VID3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: IN VIDEO 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: VIDEO3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: TV / AUX
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: VID 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: INPUT VIDEO 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: TV/AUX
+type: parsed
+protocol: nec
+address: 128.112
+command: 206
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#
+name: IN DVD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#
+name: VDP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#
+name: SOURCE DVD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#
+name: VIDEO4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 209
+#
+name: VCP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 209
+#
+name: VID 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 209
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 209
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 210
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 128.112
+command: 211
+#
+name: R LEV ^(REAR LEVEL)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 215
+#
+name: SURR REAR LVL ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 215
+#
+name: REAR_LEVEL+
+type: parsed
+protocol: nec1
+address: 128.112
+command: 215
+#
+name: REAR LEVEL +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 215
+#
+name: REAR LEVEL ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 215
+#
+name: R LEV V(REAR LEVEL)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 216
+#
+name: SURR REAR LVL V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 216
+#
+name: REAR_LEVEL-
+type: parsed
+protocol: nec1
+address: 128.112
+command: 216
+#
+name: REAR LEVEL -
+type: parsed
+protocol: nec
+address: 128.112
+command: 216
+#
+name: REAR LEVEL V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 216
+#
+name: SURR CENTER LVL ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 217
+#
+name: CENTER_LEVEL+
+type: parsed
+protocol: nec1
+address: 128.112
+command: 217
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 217
+#
+name: SURR CENTER LVL V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 218
+#
+name: CENTER_LEVEL-
+type: parsed
+protocol: nec1
+address: 128.112
+command: 218
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 218
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 219
+#
+name: CHAN UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 219
+#
+name: CH+ / SLEEP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 219
+#
+name: SLEEP/CH +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 219
+#
+name: SLEEP
+type: parsed
+protocol: nec
+address: 128.112
+command: 219
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 220
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 220
+#
+name: DIM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 220
+#
+name: THE BRIDGE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 241
+#
+name: SOURCE THE BRIDGE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 241
+#
+name: HDMI
+type: parsed
+protocol: nec1
+address: 128.112
+command: 242
+#
+name: IN HDMI 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 242
+#
+name: HDMI 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 242
+#
+name: IN HDMI 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 243
+#
+name: HDMI 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 243
+#
+name: XM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 244
+#
+name: VIDEO MODES
+type: parsed
+protocol: nec1
+address: 128.112
+command: 251
+#
+name: IN HDMI 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 252
+#
+name: AVR30 0/9
+type: parsed
+protocol: nec1
+address: 128.112
+command: 255
+#

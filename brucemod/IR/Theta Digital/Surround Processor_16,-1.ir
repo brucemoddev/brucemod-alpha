@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: rc5
+address: 16
+command: 1
+#
+name: INPUT 1
+type: parsed
+protocol: rc5
+address: 16
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: INPUT 2
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: INPUT 3
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: INPUT 4
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: INPUT 5
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: INPUT 6
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: A-D
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: MODE
+type: parsed
+protocol: rc5
+address: 16
+command: 9
+#
+name: TAPE OUT
+type: parsed
+protocol: rc5
+address: 16
+command: 10
+#
+name: SET UP
+type: parsed
+protocol: rc5
+address: 16
+command: 11
+#
+name: SETUP
+type: parsed
+protocol: rc5
+address: 16
+command: 11
+#
+name: BALANCE
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 16
+command: 14
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 16
+command: 14
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: LEVEL UP
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: LEVEL DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: ACCY
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: REMOTE
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: STATUS
+type: parsed
+protocol: rc5
+address: 16
+command: 18
+#
+name: <
+type: parsed
+protocol: rc5
+address: 16
+command: 19
+#
+name: LEVEL LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 19
+#
+name: >
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: LEVEL RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: PHASE
+type: parsed
+protocol: rc5
+address: 16
+command: 21
+#
+name: +
+type: parsed
+protocol: rc5
+address: 16
+command: 22
+#
+name: SELECT +
+type: parsed
+protocol: rc5
+address: 16
+command: 22
+#
+name: _
+type: parsed
+protocol: rc5
+address: 16
+command: 23
+#
+name: SELECT -
+type: parsed
+protocol: rc5
+address: 16
+command: 23
+#

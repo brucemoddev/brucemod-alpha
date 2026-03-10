@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 66.187
+command: 129
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 66.187
+command: 130
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 66.187
+command: 131
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 66.187
+command: 132
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 66.187
+command: 133
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 66.187
+command: 134
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 66.187
+command: 135
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 66.187
+command: 136
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 66.187
+command: 137
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 66.187
+command: 138
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 66.187
+command: 139
+#
+name: antenna
+type: parsed
+protocol: nec
+address: 66.187
+command: 142
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 66.187
+command: 146
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 66.187
+command: 148
+#
+name: surf
+type: parsed
+protocol: nec
+address: 66.187
+command: 149
+#
+name: dss
+type: parsed
+protocol: nec
+address: 66.187
+command: 154
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 66.187
+command: 155
+#
+name: alternate
+type: parsed
+protocol: nec
+address: 66.187
+command: 156
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 66.187
+command: 159
+#
+name: timer
+type: parsed
+protocol: nec
+address: 66.187
+command: 192
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 66.187
+command: 200
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 66.187
+command: 201
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 66.187
+command: 202
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 66.187
+command: 203
+#
+name: display
+type: parsed
+protocol: nec
+address: 66.187
+command: 204
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 66.187
+command: 209
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 66.187
+command: 212
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 66.187
+command: 215
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 66.187
+command: 219
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CASSETTE FF >>
+type: parsed
+protocol: pioneer
+address: 161
+command: 16
+#
+name: CASSETTE REW <<
+type: parsed
+protocol: pioneer
+address: 161
+command: 17
+#
+name: CASSETTE POWER
+type: parsed
+protocol: pioneer
+address: 161
+command: 18
+#
+name: CASSETTE STOP []
+type: parsed
+protocol: pioneer
+address: 161
+command: 22
+#
+name: CASSETTE PLAY >
+type: parsed
+protocol: pioneer
+address: 161
+command: 23
+#
+name: CASSETTE PAUSE 
+type: parsed
+protocol: pioneer
+address: 161
+command: 24
+#

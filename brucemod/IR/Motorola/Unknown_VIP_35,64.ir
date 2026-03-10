@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 9
+#
+name: KEY_LAST
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 12
+#
+name: KEY_INFO
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 15
+#
+name: CHPG+
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 32
+#
+name: CHPG-
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 33
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 40
+#
+name: KEY_REWIND
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 41
+#
+name: KEY_PLAY
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 44
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 48
+#
+name: KEY_STOP
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 49
+#
+name: KEY_RECORD
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 55
+#
+name: KEY_A
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 56
+#
+name: KEY_B
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 57
+#
+name: KEY_RECORD
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 68
+#
+name: KEY_FORWARD
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 76
+#
+name: KEY_AGAIN
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 77
+#
+name: KEY_MENU
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 84
+#
+name: KEY_EXIT
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 85
+#
+name: KEY_UP
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 92
+#
+name: KEY_BACK
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 131
+#
+name: KEY_C
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 134
+#
+name: KEY_DELETE
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 158
+#
+name: TVVIDEO
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 168
+#
+name: KEY_INFO
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 204
+#
+name: KEY_OK
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 225
+#
+name: KEY_VIDEO
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 240
+#
+name: gointeractive
+type: parsed
+protocol: Nokia32
+address: 35.64
+command: 253
+#

@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: recs80_45
+address: 2
+command: 3
+#
+name: 4
+type: parsed
+protocol: recs80_45
+address: 2
+command: 4
+#
+name: 7
+type: parsed
+protocol: recs80_45
+address: 2
+command: 5
+#
+name: 2
+type: parsed
+protocol: recs80_45
+address: 2
+command: 11
+#
+name: 5
+type: parsed
+protocol: recs80_45
+address: 2
+command: 12
+#
+name: 8
+type: parsed
+protocol: recs80_45
+address: 2
+command: 13
+#
+name: 3
+type: parsed
+protocol: recs80_45
+address: 2
+command: 19
+#
+name: 6
+type: parsed
+protocol: recs80_45
+address: 2
+command: 20
+#
+name: 9
+type: parsed
+protocol: recs80_45
+address: 2
+command: 21
+#
+name: 0
+type: parsed
+protocol: recs80_45
+address: 2
+command: 35
+#

@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Mute
+type: parsed
+protocol: Proton
+address: 6
+command: 0
+#
+name: StdBy
+type: parsed
+protocol: Proton
+address: 6
+command: 1
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 6
+command: 2
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 6
+command: 3
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 6
+command: 4
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 6
+command: 5
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 6
+command: 6
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 6
+command: 7
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 6
+command: 8
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 6
+command: 9
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 6
+command: 10
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 6
+command: 11
+#
+name: No
+type: parsed
+protocol: Proton
+address: 6
+command: 12
+#
+name: Up
+type: parsed
+protocol: Proton
+address: 6
+command: 13
+#
+name: Yes
+type: parsed
+protocol: Proton
+address: 6
+command: 14
+#
+name: Left
+type: parsed
+protocol: Proton
+address: 6
+command: 15
+#
+name: Menu
+type: parsed
+protocol: Proton
+address: 6
+command: 16
+#
+name: Right
+type: parsed
+protocol: Proton
+address: 6
+command: 17
+#
+name: Down
+type: parsed
+protocol: Proton
+address: 6
+command: 18
+#
+name: Red
+type: parsed
+protocol: Proton
+address: 6
+command: 19
+#
+name: Yellow
+type: parsed
+protocol: Proton
+address: 6
+command: 20
+#
+name: Blue
+type: parsed
+protocol: Proton
+address: 6
+command: 21
+#
+name: Rewind
+type: parsed
+protocol: Proton
+address: 6
+command: 22
+#
+name: Start
+type: parsed
+protocol: Proton
+address: 6
+command: 23
+#
+name: Forward
+type: parsed
+protocol: Proton
+address: 6
+command: 24
+#
+name: Record
+type: parsed
+protocol: Proton
+address: 6
+command: 25
+#
+name: Stop
+type: parsed
+protocol: Proton
+address: 6
+command: 26
+#
+name: F1
+type: parsed
+protocol: Proton
+address: 6
+command: 27
+#
+name: F2
+type: parsed
+protocol: Proton
+address: 6
+command: 28
+#
+name: F3
+type: parsed
+protocol: Proton
+address: 6
+command: 29
+#
+name: TV
+type: parsed
+protocol: Proton
+address: 6
+command: 30
+#
+name: Quit
+type: parsed
+protocol: Proton
+address: 6
+command: 31
+#
+name: Wish
+type: parsed
+protocol: Proton
+address: 6
+command: 32
+#
+name: Key
+type: parsed
+protocol: Proton
+address: 6
+command: 33
+#
+name: VTX
+type: parsed
+protocol: Proton
+address: 6
+command: 34
+#
+name: Green
+type: parsed
+protocol: Proton
+address: 6
+command: 35
+#
+name: Pause
+type: parsed
+protocol: Proton
+address: 6
+command: 52
+#
+name: Help
+type: parsed
+protocol: Proton
+address: 6
+command: 53
+#
+name: EPG
+type: parsed
+protocol: Proton
+address: 6
+command: 54
+#
+name: TV
+type: parsed
+protocol: Proton
+address: 6
+command: 54
+#
+name: PC
+type: parsed
+protocol: Proton
+address: 6
+command: 54
+#
+name: VCR
+type: parsed
+protocol: Proton
+address: 6
+command: 54
+#

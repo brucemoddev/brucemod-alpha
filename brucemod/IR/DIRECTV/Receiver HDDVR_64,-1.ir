@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: nec1
+address: 64
+command: 16
+#
+name: 
+type: parsed
+protocol: nec1
+address: 64
+command: 26
+#
+name: 
+type: parsed
+protocol: nec1
+address: 64
+command: 30
+#
+name: 
+type: parsed
+protocol: nec1
+address: 64
+command: 126
+#
+name: 
+type: parsed
+protocol: nec1
+address: 64
+command: 127
+#

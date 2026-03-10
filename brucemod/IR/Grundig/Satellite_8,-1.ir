@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 7
+type: parsed
+protocol: directv
+address: 8
+command: 0
+#

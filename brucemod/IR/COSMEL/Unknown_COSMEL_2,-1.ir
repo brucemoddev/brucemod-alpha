@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: chplus
+type: parsed
+protocol: Proton
+address: 2
+command: 1
+#
+name: chmin
+type: parsed
+protocol: Proton
+address: 2
+command: 2
+#
+name: volplus
+type: parsed
+protocol: Proton
+address: 2
+command: 3
+#
+name: volmin
+type: parsed
+protocol: Proton
+address: 2
+command: 4
+#
+name: mute
+type: parsed
+protocol: Proton
+address: 2
+command: 9
+#
+name: sleep
+type: parsed
+protocol: Proton
+address: 2
+command: 12
+#
+name: tvav
+type: parsed
+protocol: Proton
+address: 2
+command: 13
+#
+name: power
+type: parsed
+protocol: Proton
+address: 2
+command: 14
+#
+name: call
+type: parsed
+protocol: Proton
+address: 2
+command: 15
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 2
+command: 16
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 2
+command: 17
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 2
+command: 18
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 2
+command: 19
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 2
+command: 20
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 2
+command: 21
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 2
+command: 22
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 2
+command: 23
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 2
+command: 24
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 2
+command: 25
+#
+name: 1-
+type: parsed
+protocol: Proton
+address: 2
+command: 26
+#
+name: 2-
+type: parsed
+protocol: Proton
+address: 2
+command: 27
+#
+name: 3-
+type: parsed
+protocol: Proton
+address: 2
+command: 28
+#
+name: 4-
+type: parsed
+protocol: Proton
+address: 2
+command: 29
+#
+name: funct
+type: parsed
+protocol: Proton
+address: 2
+command: 88
+#
+name: functplus
+type: parsed
+protocol: Proton
+address: 2
+command: 89
+#
+name: functmin
+type: parsed
+protocol: Proton
+address: 2
+command: 90
+#

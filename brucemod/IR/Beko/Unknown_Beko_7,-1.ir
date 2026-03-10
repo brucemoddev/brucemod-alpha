@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Stop
+type: parsed
+protocol: recs80_45
+address: 7
+command: 6
+#
+name: Doub
+type: parsed
+protocol: recs80_45
+address: 7
+command: 7
+#
+name: Mix
+type: parsed
+protocol: recs80_45
+address: 7
+command: 10
+#
+name: Rev
+type: parsed
+protocol: recs80_45
+address: 7
+command: 14
+#
+name: 0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: 1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: 2
+type: parsed
+protocol: recs80_45
+address: 7
+command: 18
+#
+name: 3
+type: parsed
+protocol: recs80_45
+address: 7
+command: 19
+#
+name: 4
+type: parsed
+protocol: recs80_45
+address: 7
+command: 20
+#
+name: 5
+type: parsed
+protocol: recs80_45
+address: 7
+command: 21
+#
+name: 6
+type: parsed
+protocol: recs80_45
+address: 7
+command: 22
+#
+name: 7
+type: parsed
+protocol: recs80_45
+address: 7
+command: 23
+#
+name: 8
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: 9
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: Pr-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: Pr+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 28
+#
+name: Power
+type: parsed
+protocol: recs80_45
+address: 7
+command: 32
+#
+name: PP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 35
+#
+name: Vol+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 36
+#
+name: Vol-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 37
+#
+name: White
+type: parsed
+protocol: recs80_45
+address: 7
+command: 38
+#
+name: Sleep
+type: parsed
+protocol: recs80_45
+address: 7
+command: 41
+#
+name: Nul_SP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 43
+#
+name: Red
+type: parsed
+protocol: recs80_45
+address: 7
+command: 44
+#
+name: Green
+type: parsed
+protocol: recs80_45
+address: 7
+command: 46
+#
+name: Blue
+type: parsed
+protocol: recs80_45
+address: 7
+command: 47
+#
+name: TV/TX
+type: parsed
+protocol: recs80_45
+address: 7
+command: 49
+#
+name: Yellow
+type: parsed
+protocol: recs80_45
+address: 7
+command: 51
+#

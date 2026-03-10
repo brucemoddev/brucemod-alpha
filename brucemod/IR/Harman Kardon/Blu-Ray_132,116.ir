@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 132.116
+command: 192
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 132.116
+command: 193
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 132.116
+command: 194
+#
+name: DISC MENU
+type: parsed
+protocol: nec1
+address: 132.116
+command: 195
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 132.116
+command: 196
+#
+name: POPUP/TITLE MENU
+type: parsed
+protocol: nec1
+address: 132.116
+command: 197
+#
+name: STATUS
+type: parsed
+protocol: nec1
+address: 132.116
+command: 198
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 132.116
+command: 201
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 132.116
+command: 202
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 132.116
+command: 203
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 132.116
+command: 204
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 132.116
+command: 205
+#
+name: CURSOR OK
+type: parsed
+protocol: nec1
+address: 132.116
+command: 206
+#
+name: COLOR A RED
+type: parsed
+protocol: nec1
+address: 132.116
+command: 207
+#
+name: COLOR B GREEN
+type: parsed
+protocol: nec1
+address: 132.116
+command: 208
+#
+name: COLOR D BLUE
+type: parsed
+protocol: nec1
+address: 132.116
+command: 209
+#
+name: COLOR C YELLOW
+type: parsed
+protocol: nec1
+address: 132.116
+command: 210
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 132.116
+command: 211
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 132.116
+command: 212
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 132.116
+command: 213
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 132.116
+command: 214
+#
+name: TR SEARCH <<
+type: parsed
+protocol: nec1
+address: 132.116
+command: 218
+#
+name: TR SEARCH >>
+type: parsed
+protocol: nec1
+address: 132.116
+command: 219
+#
+name: TR SKIP <<
+type: parsed
+protocol: nec1
+address: 132.116
+command: 220
+#
+name: TR SKIP >>
+type: parsed
+protocol: nec1
+address: 132.116
+command: 221
+#
+name: TR PLAY
+type: parsed
+protocol: nec1
+address: 132.116
+command: 222
+#
+name: TR PAUSE
+type: parsed
+protocol: nec1
+address: 132.116
+command: 223
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 132.116
+command: 224
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 132.116
+command: 225
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 132.116
+command: 226
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 132.116
+command: 227
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 132.116
+command: 228
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 132.116
+command: 229
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 132.116
+command: 230
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 132.116
+command: 231
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 132.116
+command: 232
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 132.116
+command: 233
+#
+name: TR STOP
+type: parsed
+protocol: nec1
+address: 132.116
+command: 234
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 132.116
+command: 238
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 132.116
+command: 241
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 132.116
+command: 242
+#
+name: REPEAT A-B
+type: parsed
+protocol: nec1
+address: 132.116
+command: 243
+#
+name: PIP AUDIO MONITOR
+type: parsed
+protocol: nec1
+address: 132.116
+command: 244
+#
+name: FIND
+type: parsed
+protocol: nec1
+address: 132.116
+command: 245
+#

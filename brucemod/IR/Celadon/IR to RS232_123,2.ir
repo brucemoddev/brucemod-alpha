@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO 1
+type: parsed
+protocol: nec
+address: 123.2
+command: 0
+#
+name: VIDEO 2
+type: parsed
+protocol: nec
+address: 123.2
+command: 1
+#
+name: VIDEO 3
+type: parsed
+protocol: nec2
+address: 123.2
+command: 2
+#
+name: HD
+type: parsed
+protocol: nec
+address: 123.2
+command: 3
+#
+name: HD2
+type: parsed
+protocol: nec
+address: 123.2
+command: 4
+#
+name: RGB 1
+type: parsed
+protocol: nec2
+address: 123.2
+command: 5
+#
+name: RGB 3
+type: parsed
+protocol: nec
+address: 123.2
+command: 6
+#
+name: RGB 2
+type: parsed
+protocol: nec
+address: 123.2
+command: 7
+#
+name: ZOOM
+type: parsed
+protocol: nec
+address: 123.2
+command: 9
+#
+name: NORMAL
+type: parsed
+protocol: nec2
+address: 123.2
+command: 10
+#
+name: FULL
+type: parsed
+protocol: nec
+address: 123.2
+command: 11
+#

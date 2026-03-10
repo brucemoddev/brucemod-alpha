@@ -1,0 +1,513 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAUSE/STEP
+type: parsed
+protocol: nec1
+address: 69
+command: 0
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 69
+command: 0
+#
+name: Z - PAUSE
+type: parsed
+protocol: nec1
+address: 69
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 69
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 69
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 69
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 69
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 69
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 69
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 69
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 69
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 69
+command: 9
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 69
+command: 10
+#
+name: QUICK
+type: parsed
+protocol: nec1
+address: 69
+command: 11
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 69
+command: 13
+#
+name: Z - SLOW FORWARD
+type: parsed
+protocol: nec1
+address: 69
+command: 13
+#
+name: REV SLOW
+type: parsed
+protocol: nec1
+address: 69
+command: 14
+#
+name: Z - SLOW REWIND
+type: parsed
+protocol: nec1
+address: 69
+command: 14
+#
+name: V-REMOTE
+type: parsed
+protocol: nec1
+address: 69
+command: 16
+#
+name: REV PLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 17
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 69
+command: 18
+#
+name: FWD >>
+type: parsed
+protocol: nec1
+address: 69
+command: 19
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 69
+command: 20
+#
+name: Z - STOP
+type: parsed
+protocol: nec1
+address: 69
+command: 20
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 21
+#
+name: Z - PLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 21
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 22
+#
+name: NAVI
+type: parsed
+protocol: nec1
+address: 69
+command: 22
+#
+name: REV <<
+type: parsed
+protocol: nec1
+address: 69
+command: 25
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 69
+command: 32
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 69
+command: 33
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: nec1
+address: 69
+command: 33
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 69
+command: 34
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 69
+command: 35
+#
+name: Z - TRACK ( - )
+type: parsed
+protocol: nec1
+address: 69
+command: 35
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 69
+command: 36
+#
+name: Z - TRACK ( + )
+type: parsed
+protocol: nec1
+address: 69
+command: 36
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 69
+command: 37
+#
+name: >10
+type: parsed
+protocol: nec1
+address: 69
+command: 37
+#
+name: T
+type: parsed
+protocol: nec1
+address: 69
+command: 38
+#
+name: TITLE SEARCH
+type: parsed
+protocol: nec1
+address: 69
+command: 38
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 69
+command: 39
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 69
+command: 39
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 69
+command: 40
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 41
+#
+name: ANGLE
+type: parsed
+protocol: nec
+address: 69
+command: 41
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 69
+command: 42
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 69
+command: 43
+#
+name: A-B REPEAT
+type: parsed
+protocol: nec1
+address: 69
+command: 44
+#
+name: LAST PLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 45
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 69
+command: 46
+#
+name: SUBTITLE ON/OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 47
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 69
+command: 64
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 69
+command: 65
+#
+name: FL DIMMER
+type: parsed
+protocol: nec1
+address: 69
+command: 65
+#
+name: 3D
+type: parsed
+protocol: nec1
+address: 69
+command: 67
+#
+name: DNR
+type: parsed
+protocol: nec1
+address: 69
+command: 73
+#
+name: DISC SELECT
+type: parsed
+protocol: nec1
+address: 69
+command: 74
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 69
+command: 77
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 69
+command: 77
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 69
+command: 77
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: nec1
+address: 69
+command: 77
+#
+name: COLOR STREAM SELECT
+type: parsed
+protocol: nec1
+address: 69
+command: 78
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 69
+command: 81
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 69
+command: 81
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 69
+command: 81
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: nec1
+address: 69
+command: 81
+#
+name: DISC SELECT
+type: parsed
+protocol: nec1
+address: 69
+command: 83
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 69
+command: 128
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 69
+command: 128
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 69
+command: 128
+#
+name: CURSOR - UP
+type: parsed
+protocol: nec1
+address: 69
+command: 128
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 69
+command: 129
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 69
+command: 129
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 69
+command: 129
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: nec1
+address: 69
+command: 129
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 69
+command: 132
+#
+name: Z - FAST FORWARD
+type: parsed
+protocol: nec1
+address: 69
+command: 219
+#
+name: Z - FAST REWIND
+type: parsed
+protocol: nec1
+address: 69
+command: 220
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 69
+command: 222
+#
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 69
+command: 222
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 69
+command: 239
+#
+name: ZOOM ( - )
+type: parsed
+protocol: nec1
+address: 69
+command: 240
+#
+name: ZOOM ( + )
+type: parsed
+protocol: nec1
+address: 69
+command: 241
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 69
+command: 245
+#

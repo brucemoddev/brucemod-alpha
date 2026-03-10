@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEUP
+type: parsed
+protocol: jvc
+address: 143
+command: 132
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: jvc
+address: 143
+command: 133
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: jvc
+address: 143
+command: 136
+#
+name: Sound
+type: parsed
+protocol: jvc
+address: 143
+command: 141
+#
+name: Att
+type: parsed
+protocol: jvc
+address: 143
+command: 142
+#
+name: Track+
+type: parsed
+protocol: jvc
+address: 143
+command: 146
+#
+name: Track-
+type: parsed
+protocol: jvc
+address: 143
+command: 147
+#
+name: Disc+
+type: parsed
+protocol: jvc
+address: 143
+command: 148
+#
+name: Disc-
+type: parsed
+protocol: jvc
+address: 143
+command: 149
+#

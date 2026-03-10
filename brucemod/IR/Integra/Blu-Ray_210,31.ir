@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 2
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 3
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 4
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 5
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 6
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 7
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 8
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: 9
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: A - RED
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: A-B
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: ANGLE
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: AUDIO
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: B - GREEN
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: C - BLUE
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: CLEAR
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: D - YELLOW
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: DISPLAY
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: ENTER
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: MODE
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: PAUSE
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: PIP
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: PLAY
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: POP-UP MENU/MENU
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: POWER
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: POWER ON
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: REPEAT
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: RESOLUTION
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: RETURN
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: SCAN -
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: SCAN +
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: SEARCH
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: SETUP
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: STANDBY
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: STOP
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: TOP MENU
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: TRACK -
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#
+name: TRACK +
+type: parsed
+protocol: nec1_f16
+address: 210.31
+command: 0
+#

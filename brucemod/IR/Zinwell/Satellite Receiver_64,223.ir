@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 64.223
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 64.223
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 64.223
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 64.223
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 64.223
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 64.223
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 64.223
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 64.223
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 64.223
+command: 9
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 64.223
+command: 11
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 64.223
+command: 13
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 64.223
+command: 14
+#
+name: RADIO
+type: parsed
+protocol: nec1
+address: 64.223
+command: 16
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 64.223
+command: 18
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 64.223
+command: 19
+#
+name: LAST
+type: parsed
+protocol: nec1
+address: 64.223
+command: 20
+#
+name: PAGE +
+type: parsed
+protocol: nec1
+address: 64.223
+command: 22
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 64.223
+command: 23
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 64.223
+command: 26
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 64.223
+command: 26
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 64.223
+command: 27
+#
+name: PAGE -
+type: parsed
+protocol: nec1
+address: 64.223
+command: 28
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 64.223
+command: 30
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 64.223
+command: 30
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 64.223
+command: 31
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 64.223
+command: 68
+#

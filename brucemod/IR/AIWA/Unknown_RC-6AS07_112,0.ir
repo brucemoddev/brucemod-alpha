@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 17
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 18
+#
+name: tuner_band
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 19
+#
+name: geq
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 31
+#
+name: KEY_SLEEP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 64
+#
+name: tuner_mode
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 78
+#
+name: set
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 82
+#
+name: timer
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 90
+#
+name: random
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 143
+#
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 145
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 146
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 147
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 148
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 149
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 150
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 151
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 152
+#
+name: KEY_9
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 153
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 154
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 155
+#
+name: KEY_PLAY
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 196
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 197
+#
+name: KEY_FORWARD
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 198
+#
+name: KEY_BACK
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 199
+#

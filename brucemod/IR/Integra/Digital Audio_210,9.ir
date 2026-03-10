@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEARCH +
+type: parsed
+protocol: nec2
+address: 210.9
+command: 128
+#
+name: SEARCH -
+type: parsed
+protocol: nec2
+address: 210.9
+command: 129
+#
+name: MUSIC SERVER
+type: parsed
+protocol: nec1
+address: 210.9
+command: 136
+#
+name: INET RADIO
+type: parsed
+protocol: nec1
+address: 210.9
+command: 137
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 210.9
+command: 141
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 210.9
+command: 143
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 210.9
+command: 144
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 210.9
+command: 145
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.9
+command: 146
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 210.9
+command: 147
+#
+name: ALBUM
+type: parsed
+protocol: nec1
+address: 210.9
+command: 152
+#
+name: ARTIST
+type: parsed
+protocol: nec1
+address: 210.9
+command: 153
+#
+name: GENRE
+type: parsed
+protocol: nec1
+address: 210.9
+command: 154
+#
+name: PLAYLIST
+type: parsed
+protocol: nec1
+address: 210.9
+command: 155
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 210.9
+command: 158
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 210.9
+command: 159
+#
+name: MENU UP
+type: parsed
+protocol: nec2
+address: 210.9
+command: 192
+#
+name: MENU DOWN
+type: parsed
+protocol: nec2
+address: 210.9
+command: 193
+#
+name: MENU LEFT
+type: parsed
+protocol: nec2
+address: 210.9
+command: 194
+#
+name: MENU RIGHT
+type: parsed
+protocol: nec2
+address: 210.9
+command: 195
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 210.9
+command: 196
+#
+name: CAPS
+type: parsed
+protocol: nec1
+address: 210.9
+command: 208
+#
+name: DELETE
+type: parsed
+protocol: nec1
+address: 210.9
+command: 209
+#
+name: 1/@.-'/
+type: parsed
+protocol: nec1
+address: 210.9
+command: 213
+#
+name: 2/ABC
+type: parsed
+protocol: nec1
+address: 210.9
+command: 214
+#
+name: 3/DEF
+type: parsed
+protocol: nec1
+address: 210.9
+command: 215
+#
+name: 4/GHI
+type: parsed
+protocol: nec1
+address: 210.9
+command: 216
+#
+name: 5/JKL
+type: parsed
+protocol: nec1
+address: 210.9
+command: 217
+#
+name: 6/MNO
+type: parsed
+protocol: nec1
+address: 210.9
+command: 218
+#
+name: 7/PQRS
+type: parsed
+protocol: nec1
+address: 210.9
+command: 219
+#
+name: 8/TUV
+type: parsed
+protocol: nec1
+address: 210.9
+command: 220
+#
+name: 9/WXYZ
+type: parsed
+protocol: nec1
+address: 210.9
+command: 221
+#
+name: 0/SPACE
+type: parsed
+protocol: nec1
+address: 210.9
+command: 222
+#

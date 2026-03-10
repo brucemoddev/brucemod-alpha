@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.127
+command: 0
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.127
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.127
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.127
+command: 3
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 0.127
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.127
+command: 5
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.127
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.127
+command: 7
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.127
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.127
+command: 9
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.127
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.127
+command: 11
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.127
+command: 13
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.127
+command: 14
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 0.127
+command: 15
+#
+name: KEY_I
+type: parsed
+protocol: nec
+address: 0.127
+command: 16
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.127
+command: 17
+#
+name: KEY_EPG
+type: parsed
+protocol: nec
+address: 0.127
+command: 18
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 0.127
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.127
+command: 20
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 0.127
+command: 21
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 0.127
+command: 22
+#
+name: schnell-hoch
+type: parsed
+protocol: nec
+address: 0.127
+command: 23
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.127
+command: 25
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.127
+command: 26
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.127
+command: 27
+#
+name: schnell-runter
+type: parsed
+protocol: nec
+address: 0.127
+command: 28
+#
+name: musik
+type: parsed
+protocol: nec
+address: 0.127
+command: 30
+#
+name: lt
+type: parsed
+protocol: nec
+address: 0.127
+command: 66
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.127
+command: 68
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.127
+command: 72
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 0.127
+command: 73
+#

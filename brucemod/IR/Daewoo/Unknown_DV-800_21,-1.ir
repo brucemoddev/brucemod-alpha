@@ -1,0 +1,309 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0/10
+type: parsed
+protocol: Proton
+address: 21
+command: 144
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 145
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 146
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 147
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 148
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 149
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 150
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 151
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 152
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 153
+#
+name: SYSTEM
+type: parsed
+protocol: Proton
+address: 21
+command: 154
+#
+name: SETUP
+type: parsed
+protocol: Proton
+address: 21
+command: 155
+#
+name: RESUME
+type: parsed
+protocol: Proton
+address: 21
+command: 156
+#
+name: STOP
+type: parsed
+protocol: Proton
+address: 21
+command: 157
+#
+name: PLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 158
+#
+name: FAST_FWD
+type: parsed
+protocol: Proton
+address: 21
+command: 159
+#
+name: FAST_REV
+type: parsed
+protocol: Proton
+address: 21
+command: 160
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 21
+command: 161
+#
+name: PAUSE
+type: parsed
+protocol: Proton
+address: 21
+command: 162
+#
+name: NEXT
+type: parsed
+protocol: Proton
+address: 21
+command: 163
+#
+name: PREV
+type: parsed
+protocol: Proton
+address: 21
+command: 164
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 21
+command: 165
+#
+name: MARK
+type: parsed
+protocol: Proton
+address: 21
+command: 166
+#
+name: UP
+type: parsed
+protocol: Proton
+address: 21
+command: 167
+#
+name: DOWN
+type: parsed
+protocol: Proton
+address: 21
+command: 168
+#
+name: RIGHT
+type: parsed
+protocol: Proton
+address: 21
+command: 169
+#
+name: LEFT
+type: parsed
+protocol: Proton
+address: 21
+command: 170
+#
+name: ANGLE
+type: parsed
+protocol: Proton
+address: 21
+command: 171
+#
+name: AUDIO
+type: parsed
+protocol: Proton
+address: 21
+command: 173
+#
+name: EJECT
+type: parsed
+protocol: Proton
+address: 21
+command: 174
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 175
+#
+name: TITLE/PBC
+type: parsed
+protocol: Proton
+address: 21
+command: 176
+#
+name: ZOOM
+type: parsed
+protocol: Proton
+address: 21
+command: 177
+#
+name: A-B
+type: parsed
+protocol: Proton
+address: 21
+command: 179
+#
+name: 3D
+type: parsed
+protocol: Proton
+address: 21
+command: 180
+#
+name: SUBTITLE
+type: parsed
+protocol: Proton
+address: 21
+command: 181
+#
+name: VOL+
+type: parsed
+protocol: Proton
+address: 21
+command: 182
+#
+name: VOL-
+type: parsed
+protocol: Proton
+address: 21
+command: 183
+#
+name: REPEAT
+type: parsed
+protocol: Proton
+address: 21
+command: 184
+#
+name: RETURN
+type: parsed
+protocol: Proton
+address: 21
+command: 185
+#
+name: CHANNEL
+type: parsed
+protocol: Proton
+address: 21
+command: 186
+#
+name: PROGRAM
+type: parsed
+protocol: Proton
+address: 21
+command: 187
+#
+name: SLOW
+type: parsed
+protocol: Proton
+address: 21
+command: 188
+#
+name: INTRO
+type: parsed
+protocol: Proton
+address: 21
+command: 189
+#
+name: SEARCH
+type: parsed
+protocol: Proton
+address: 21
+command: 190
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 21
+command: 191
+#
+name: V-MODE
+type: parsed
+protocol: Proton
+address: 21
+command: 192
+#
+name: 10+
+type: parsed
+protocol: Proton
+address: 21
+command: 193
+#
+name: FN1
+type: parsed
+protocol: Proton
+address: 21
+command: 194
+#
+name: FN2
+type: parsed
+protocol: Proton
+address: 21
+command: 195
+#
+name: FN3
+type: parsed
+protocol: Proton
+address: 21
+command: 196
+#

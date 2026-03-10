@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Snap
+type: parsed
+protocol: nec
+address: 202.177
+command: 31
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 202.177
+command: 64
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 202.177
+command: 65
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 202.177
+command: 66
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 202.177
+command: 67
+#
+name: Multi
+type: parsed
+protocol: nec
+address: 202.177
+command: 68
+#
+name: Magnify
+type: parsed
+protocol: nec
+address: 202.177
+command: 70
+#
+name: Display
+type: parsed
+protocol: nec
+address: 202.177
+command: 71
+#

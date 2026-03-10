@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK004 POWER OFF
+type: parsed
+protocol: nec2
+address: 75.75
+command: 1
+#
+name: BK004 POWER ON
+type: parsed
+protocol: nec2
+address: 75.75
+command: 2
+#
+name: BK004 MUTE
+type: parsed
+protocol: nec2
+address: 75.75
+command: 3
+#
+name: BK004 V1
+type: parsed
+protocol: nec2
+address: 75.75
+command: 5
+#
+name: BK004 TV
+type: parsed
+protocol: nec2
+address: 75.75
+command: 6
+#
+name: BK004 V2
+type: parsed
+protocol: nec2
+address: 75.75
+command: 9
+#
+name: BK004 TAPE
+type: parsed
+protocol: nec2
+address: 75.75
+command: 11
+#
+name: BK004 DVD
+type: parsed
+protocol: nec2
+address: 75.75
+command: 13
+#
+name: BK004 CD
+type: parsed
+protocol: nec2
+address: 75.75
+command: 15
+#
+name: BK004 TUNE-
+type: parsed
+protocol: nec2
+address: 75.75
+command: 27
+#
+name: BK004 TUNE+
+type: parsed
+protocol: nec2
+address: 75.75
+command: 28
+#
+name: BK004 BALANCE LEFT
+type: parsed
+protocol: nec2
+address: 75.75
+command: 31
+#
+name: BK004 LEFT
+type: parsed
+protocol: nec2
+address: 75.75
+command: 31
+#
+name: BK004 BALANCE RIGHT
+type: parsed
+protocol: nec2
+address: 75.75
+command: 32
+#
+name: BK004 RIGHT
+type: parsed
+protocol: nec2
+address: 75.75
+command: 32
+#
+name: BK004 VOLUME-
+type: parsed
+protocol: nec2
+address: 75.75
+command: 35
+#
+name: BK004 VOLUME+
+type: parsed
+protocol: nec2
+address: 75.75
+command: 36
+#
+name: BK004 NUMBER +10
+type: parsed
+protocol: nec2
+address: 75.75
+command: 41
+#
+name: BK004 DOWN
+type: parsed
+protocol: nec2
+address: 75.75
+command: 45
+#
+name: BK004 UP
+type: parsed
+protocol: nec2
+address: 75.75
+command: 46
+#
+name: BK004 ENTER
+type: parsed
+protocol: nec2
+address: 75.75
+command: 48
+#
+name: BK004 NUMBER 1
+type: parsed
+protocol: nec2
+address: 75.75
+command: 49
+#
+name: BK004 NUMBER 2
+type: parsed
+protocol: nec2
+address: 75.75
+command: 50
+#
+name: BK004 NUMBER 3
+type: parsed
+protocol: nec2
+address: 75.75
+command: 51
+#
+name: BK004 NUMBER 4
+type: parsed
+protocol: nec2
+address: 75.75
+command: 53
+#
+name: BK004 NUMBER 5
+type: parsed
+protocol: nec2
+address: 75.75
+command: 54
+#
+name: BK004 NUMBER 6
+type: parsed
+protocol: nec2
+address: 75.75
+command: 55
+#
+name: BK004 NUMBER 7
+type: parsed
+protocol: nec2
+address: 75.75
+command: 57
+#
+name: BK004 NUMBER 8
+type: parsed
+protocol: nec2
+address: 75.75
+command: 58
+#
+name: BK004 NUMBER 9
+type: parsed
+protocol: nec2
+address: 75.75
+command: 59
+#
+name: BK004 NUMBER 0
+type: parsed
+protocol: nec2
+address: 75.75
+command: 62
+#
+name: BK004 Z
+type: parsed
+protocol: nec2
+address: 75.75
+command: 63
+#
+name: BK004 SAVE
+type: parsed
+protocol: nec2
+address: 75.75
+command: 64
+#
+name: BK004 SAT
+type: parsed
+protocol: nec2
+address: 75.75
+command: 74
+#
+name: BK004 PRESET+
+type: parsed
+protocol: nec2
+address: 75.75
+command: 75
+#
+name: BK004 AM
+type: parsed
+protocol: nec2
+address: 75.75
+command: 118
+#
+name: BK004 EXIT
+type: parsed
+protocol: nec2
+address: 75.75
+command: 125
+#
+name: BK004 FM
+type: parsed
+protocol: nec2
+address: 75.75
+command: 142
+#
+name: BK004 MONO
+type: parsed
+protocol: nec2
+address: 75.75
+command: 154
+#
+name: BK004 SLEEP
+type: parsed
+protocol: nec2
+address: 75.75
+command: 179
+#
+name: BK004 PRESET-
+type: parsed
+protocol: nec2
+address: 75.75
+command: 198
+#
+name: BK004 STEREO
+type: parsed
+protocol: nec2
+address: 75.75
+command: 226
+#

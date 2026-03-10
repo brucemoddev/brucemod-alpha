@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#

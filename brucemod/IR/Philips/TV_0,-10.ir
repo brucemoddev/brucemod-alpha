@@ -1,0 +1,405 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: EXIT
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: STATUS
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: TV GUIDE + UP
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: TV GUIDE + DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: CHANNEL +
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CHANNEL -
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: A/CH
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: ALT. AUDIO
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: SLEEP
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: M
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: TV GUIDE + SETUP
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 47
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 47
+#
+name: RED
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: EXT. INPUT
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 58
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 58
+#
+name: DTV FREEZE
+type: parsed
+protocol: rc5
+address: 0
+command: 93
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 93
+#

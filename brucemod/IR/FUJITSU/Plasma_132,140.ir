@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 16
+#
+name: VOL +
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 16
+#
+name: VOLUME UP
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 17
+#
+name: VOL --
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 17
+#
+name: VOL -
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 17
+#
+name: VOLUME DN
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 17
+#
+name: MUTE
+type: parsed
+protocol: fujitsu
+address: 132.140
+command: 18
+#

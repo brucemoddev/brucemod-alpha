@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 160
+command: 95
+#
+name: Input
+type: parsed
+protocol: nec
+address: 160
+command: 26
+#
+name: Menu
+type: parsed
+protocol: nec
+address: 160
+command: 19
+#
+name: Info
+type: parsed
+protocol: nec
+address: 160
+command: 27
+#
+name: Back
+type: parsed
+protocol: nec
+address: 160
+command: 16
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 160
+command: 85
+#
+name: Up
+type: parsed
+protocol: nec
+address: 160
+command: 89
+#
+name: Down
+type: parsed
+protocol: nec
+address: 160
+command: 81
+#
+name: Left
+type: parsed
+protocol: nec
+address: 160
+command: 86
+#
+name: Right
+type: parsed
+protocol: nec
+address: 160
+command: 20
+#
+name: Next
+type: parsed
+protocol: nec
+address: 160
+command: 73
+#
+name: Prev
+type: parsed
+protocol: nec
+address: 160
+command: 74
+#
+name: FAST_FO
+type: parsed
+protocol: nec
+address: 160
+command: 8
+#
+name: FAST_BA
+type: parsed
+protocol: nec
+address: 160
+command: 9
+#
+name: PLAY_PA
+type: parsed
+protocol: nec
+address: 160
+command: 77
+#
+name: Pause
+type: parsed
+protocol: nec
+address: 160
+command: 77
+#
+name: Play
+type: parsed
+protocol: nec
+address: 160
+command: 77
+#
+name: Stop
+type: parsed
+protocol: nec
+address: 160
+command: 13
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 160
+command: 28
+#
+name: mode
+type: parsed
+protocol: nec
+address: 160
+command: 90
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 160
+command: 64
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 160
+command: 93
+#
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 160
+command: 3
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 160
+command: 31
+#

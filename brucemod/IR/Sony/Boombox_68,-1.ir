@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MODE
+type: parsed
+protocol: sony15
+address: 68
+command: 17
+#
+name: VOLUME +
+type: parsed
+protocol: sony15
+address: 68
+command: 18
+#
+name: VOLUME -
+type: parsed
+protocol: sony15
+address: 68
+command: 19
+#
+name: POWER
+type: parsed
+protocol: sony15
+address: 68
+command: 21
+#
+name: SOUND
+type: parsed
+protocol: sony15
+address: 68
+command: 48
+#
+name: MEGA BASS
+type: parsed
+protocol: sony15
+address: 68
+command: 63
+#
+name: FUNCTION
+type: parsed
+protocol: sony15
+address: 68
+command: 71
+#
+name: SLEEP
+type: parsed
+protocol: sony15
+address: 68
+command: 96
+#
+name: STANDBY
+type: parsed
+protocol: sony15
+address: 68
+command: 97
+#

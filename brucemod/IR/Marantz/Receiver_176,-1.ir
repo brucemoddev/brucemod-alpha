@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AM
+type: parsed
+protocol: nec1
+address: 176
+command: 0
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 176
+command: 1
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 176
+command: 3
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 176
+command: 4
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 176
+command: 5
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 176
+command: 6
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 176
+command: 7
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 176
+command: 8
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 176
+command: 9
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 176
+command: 10
+#
+name: TUNING UP
+type: parsed
+protocol: nec1
+address: 176
+command: 11
+#
+name: TUNING DOWN
+type: parsed
+protocol: nec1
+address: 176
+command: 12
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 176
+command: 20
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 176
+command: 64
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 176
+command: 65
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 176
+command: 81
+#

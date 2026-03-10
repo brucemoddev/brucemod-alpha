@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 130.19
+command: 128
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 130.19
+command: 129
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 130.19
+command: 130
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 130.19
+command: 131
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 130.19
+command: 132
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 130.19
+command: 133
+#
+name: select-
+type: parsed
+protocol: nec
+address: 130.19
+command: 134
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 130.19
+command: 135
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 130.19
+command: 136
+#
+name: random
+type: parsed
+protocol: nec
+address: 130.19
+command: 137
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 130.19
+command: 138
+#
+name: select+
+type: parsed
+protocol: nec
+address: 130.19
+command: 140
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 130.19
+command: 141
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 130.19
+command: 142
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 130.19
+command: 144
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 130.19
+command: 145
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 130.19
+command: 146
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 130.19
+command: 147
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 130.19
+command: 148
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 130.19
+command: 149
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 130.19
+command: 150
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 130.19
+command: 153
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 130.19
+command: 154
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 130.19
+command: 156
+#
+name: KEY_LIST
+type: parsed
+protocol: nec
+address: 130.19
+command: 157
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 130.19
+command: 158
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 130.19
+command: 159
+#

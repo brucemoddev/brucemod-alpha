@@ -1,0 +1,387 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BTN01
+type: parsed
+protocol: rc5
+address: 4
+command: 0
+#
+name: BTN02
+type: parsed
+protocol: rc5
+address: 4
+command: 1
+#
+name: BTN03
+type: parsed
+protocol: rc5
+address: 4
+command: 2
+#
+name: BTN04
+type: parsed
+protocol: rc5
+address: 4
+command: 3
+#
+name: BTN05
+type: parsed
+protocol: rc5
+address: 4
+command: 4
+#
+name: BTN06
+type: parsed
+protocol: rc5
+address: 4
+command: 5
+#
+name: BTN07
+type: parsed
+protocol: rc5
+address: 4
+command: 6
+#
+name: BTN08
+type: parsed
+protocol: rc5
+address: 4
+command: 7
+#
+name: BTN09
+type: parsed
+protocol: rc5
+address: 4
+command: 8
+#
+name: BTN10
+type: parsed
+protocol: rc5
+address: 4
+command: 9
+#
+name: BTN11
+type: parsed
+protocol: rc5
+address: 4
+command: 10
+#
+name: BTN12
+type: parsed
+protocol: rc5
+address: 4
+command: 11
+#
+name: BTN13
+type: parsed
+protocol: rc5
+address: 4
+command: 12
+#
+name: BTN14
+type: parsed
+protocol: rc5
+address: 4
+command: 13
+#
+name: BTN15
+type: parsed
+protocol: rc5
+address: 4
+command: 14
+#
+name: BTN16
+type: parsed
+protocol: rc5
+address: 4
+command: 15
+#
+name: BTN17
+type: parsed
+protocol: rc5
+address: 4
+command: 16
+#
+name: BTN18
+type: parsed
+protocol: rc5
+address: 4
+command: 17
+#
+name: BTN19
+type: parsed
+protocol: rc5
+address: 4
+command: 18
+#
+name: BTN20
+type: parsed
+protocol: rc5
+address: 4
+command: 19
+#
+name: BTN21
+type: parsed
+protocol: rc5
+address: 4
+command: 20
+#
+name: BTN22
+type: parsed
+protocol: rc5
+address: 4
+command: 21
+#
+name: BTN23
+type: parsed
+protocol: rc5
+address: 4
+command: 22
+#
+name: BTN24
+type: parsed
+protocol: rc5
+address: 4
+command: 23
+#
+name: BTN25
+type: parsed
+protocol: rc5
+address: 4
+command: 24
+#
+name: BTN26
+type: parsed
+protocol: rc5
+address: 4
+command: 25
+#
+name: BTN27
+type: parsed
+protocol: rc5
+address: 4
+command: 26
+#
+name: BTN28
+type: parsed
+protocol: rc5
+address: 4
+command: 27
+#
+name: BTN29
+type: parsed
+protocol: rc5
+address: 4
+command: 28
+#
+name: BTN30
+type: parsed
+protocol: rc5
+address: 4
+command: 29
+#
+name: BTN31
+type: parsed
+protocol: rc5
+address: 4
+command: 30
+#
+name: BTN32
+type: parsed
+protocol: rc5
+address: 4
+command: 31
+#
+name: BTN33
+type: parsed
+protocol: rc5
+address: 4
+command: 32
+#
+name: BTN34
+type: parsed
+protocol: rc5
+address: 4
+command: 33
+#
+name: BTN35
+type: parsed
+protocol: rc5
+address: 4
+command: 34
+#
+name: BTN36
+type: parsed
+protocol: rc5
+address: 4
+command: 35
+#
+name: BTN37
+type: parsed
+protocol: rc5
+address: 4
+command: 36
+#
+name: BTN38
+type: parsed
+protocol: rc5
+address: 4
+command: 37
+#
+name: BTN39
+type: parsed
+protocol: rc5
+address: 4
+command: 38
+#
+name: BTN40
+type: parsed
+protocol: rc5
+address: 4
+command: 39
+#
+name: BTN41
+type: parsed
+protocol: rc5
+address: 4
+command: 40
+#
+name: BTN42
+type: parsed
+protocol: rc5
+address: 4
+command: 41
+#
+name: BTN43
+type: parsed
+protocol: rc5
+address: 4
+command: 42
+#
+name: BTN44
+type: parsed
+protocol: rc5
+address: 4
+command: 43
+#
+name: BTN45
+type: parsed
+protocol: rc5
+address: 4
+command: 44
+#
+name: BTN46
+type: parsed
+protocol: rc5
+address: 4
+command: 45
+#
+name: BTN47
+type: parsed
+protocol: rc5
+address: 4
+command: 46
+#
+name: BTN48
+type: parsed
+protocol: rc5
+address: 4
+command: 47
+#
+name: BTN49
+type: parsed
+protocol: rc5
+address: 4
+command: 48
+#
+name: BTN50
+type: parsed
+protocol: rc5
+address: 4
+command: 49
+#
+name: BTN51
+type: parsed
+protocol: rc5
+address: 4
+command: 50
+#
+name: BTN52
+type: parsed
+protocol: rc5
+address: 4
+command: 51
+#
+name: BTN53
+type: parsed
+protocol: rc5
+address: 4
+command: 52
+#
+name: BTN54
+type: parsed
+protocol: rc5
+address: 4
+command: 53
+#
+name: BTN55
+type: parsed
+protocol: rc5
+address: 4
+command: 54
+#
+name: BTN56
+type: parsed
+protocol: rc5
+address: 4
+command: 55
+#
+name: BTN57
+type: parsed
+protocol: rc5
+address: 4
+command: 56
+#
+name: BTN58
+type: parsed
+protocol: rc5
+address: 4
+command: 57
+#
+name: BTN59
+type: parsed
+protocol: rc5
+address: 4
+command: 58
+#
+name: BTN60
+type: parsed
+protocol: rc5
+address: 4
+command: 59
+#
+name: BTN61
+type: parsed
+protocol: rc5
+address: 4
+command: 60
+#
+name: BTN62
+type: parsed
+protocol: rc5
+address: 4
+command: 61
+#
+name: BTN63
+type: parsed
+protocol: rc5
+address: 4
+command: 62
+#
+name: BTN64
+type: parsed
+protocol: rc5
+address: 4
+command: 63
+#

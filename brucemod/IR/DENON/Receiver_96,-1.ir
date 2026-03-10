@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR FFWD >> (SURR)
+type: parsed
+protocol: nec1
+address: 96
+command: 9
+#
+name: VCR REW << (2)
+type: parsed
+protocol: nec1
+address: 96
+command: 10
+#
+name: VCR STOP [] (PARAMTR
+type: parsed
+protocol: nec1
+address: 96
+command: 11
+#
+name: VCR PLAY > (CTR MODE
+type: parsed
+protocol: nec1
+address: 96
+command: 20
+#
+name: VCR TV/VCR (EFFECT)
+type: parsed
+protocol: nec1
+address: 96
+command: 22
+#
+name: VCR POWER (CLEAR)
+type: parsed
+protocol: nec1
+address: 96
+command: 23
+#
+name: VCR CHAN V (INPT ADJ
+type: parsed
+protocol: nec1
+address: 96
+command: 24
+#
+name: VCR CHAN ^ (T TONE)
+type: parsed
+protocol: nec1
+address: 96
+command: 25
+#
+name: VCR PAUSE (SET +)
+type: parsed
+protocol: nec1
+address: 96
+command: 26
+#

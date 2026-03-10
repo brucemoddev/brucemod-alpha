@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 2.160
+command: 128
+#
+name: Vol_Up
+type: parsed
+protocol: necx2
+address: 2.160
+command: 170
+#
+name: VOL_DN
+type: parsed
+protocol: necx2
+address: 2.160
+command: 106
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 2.160
+command: 234
+#
+name: Input
+type: parsed
+protocol: necx2
+address: 2.160
+command: 8
+#
+name: SPEAKER LEVEL
+type: parsed
+protocol: necx2
+address: 2.160
+command: 10
+#
+name: effect
+type: parsed
+protocol: necx2
+address: 2.160
+command: 14
+#
+name: INPUT1
+type: parsed
+protocol: necx2
+address: 2.160
+command: 4
+#
+name: INPUT2
+type: parsed
+protocol: necx2
+address: 2.160
+command: 130
+#
+name: INPUT3
+type: parsed
+protocol: necx2
+address: 2.160
+command: 12
+#
+name: INPUT4
+type: parsed
+protocol: necx2
+address: 2.160
+command: 140
+#
+name: INPUT5
+type: parsed
+protocol: necx2
+address: 2.160
+command: 2
+#
+name: INPUT AUX
+type: parsed
+protocol: necx2
+address: 2.160
+command: 66
+#
+name: SPEAKERTEST
+type: parsed
+protocol: necx2
+address: 2.160
+command: 1
+#

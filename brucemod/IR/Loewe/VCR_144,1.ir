@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UPP
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 2
+#
+name: CURSOR NER
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 3
+#
+name: GER
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 4
+#
+name: NSTER
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 5
+#
+name: LP / SP
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 10
+#
+name: M (MENY)
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 86
+#
+name: CURSOR OK
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 88
+#
+name: SHOWVIEW
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 93
+#
+name: AV KANALER
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 95
+#
+name: E (EXIT)
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 102
+#

@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GREEN +
+type: parsed
+protocol: nec1
+address: 2.189
+command: 0
+#
+name: BLUE +
+type: parsed
+protocol: nec1
+address: 2.189
+command: 1
+#
+name: SOUND MODE
+type: parsed
+protocol: nec1
+address: 2.189
+command: 2
+#
+name: GREEN -
+type: parsed
+protocol: nec1
+address: 2.189
+command: 3
+#
+name: BLUE -
+type: parsed
+protocol: nec1
+address: 2.189
+command: 4
+#
+name: WHITE
+type: parsed
+protocol: nec1
+address: 2.189
+command: 5
+#
+name: MEMORY 2
+type: parsed
+protocol: nec1
+address: 2.189
+command: 6
+#
+name: MEMORY 3
+type: parsed
+protocol: nec1
+address: 2.189
+command: 7
+#
+name: MEMORY 4
+type: parsed
+protocol: nec1
+address: 2.189
+command: 8
+#
+name: MEMORY 6
+type: parsed
+protocol: nec1
+address: 2.189
+command: 9
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 2.189
+command: 10
+#
+name: STEP
+type: parsed
+protocol: nec1
+address: 2.189
+command: 11
+#
+name: 100 %
+type: parsed
+protocol: nec1
+address: 2.189
+command: 13
+#
+name: RED +
+type: parsed
+protocol: nec1
+address: 2.189
+command: 14
+#
+name: MEMORY 1
+type: parsed
+protocol: nec1
+address: 2.189
+command: 15
+#
+name: SLEEP TIMER
+type: parsed
+protocol: nec1
+address: 2.189
+command: 16
+#
+name: COLOR
+type: parsed
+protocol: nec1
+address: 2.189
+command: 17
+#
+name: FAST SPEED (1 SEC)
+type: parsed
+protocol: nec1
+address: 2.189
+command: 19
+#
+name: POWER: OFF
+type: parsed
+protocol: nec1
+address: 2.189
+command: 20
+#
+name: FADE
+type: parsed
+protocol: nec1
+address: 2.189
+command: 21
+#
+name: MEMORY 7
+type: parsed
+protocol: nec1
+address: 2.189
+command: 22
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 2.189
+command: 23
+#
+name: SLOW SPEED (60 SEC)
+type: parsed
+protocol: nec1
+address: 2.189
+command: 24
+#
+name: POWER: ON
+type: parsed
+protocol: nec1
+address: 2.189
+command: 25
+#
+name: MEMORY 5
+type: parsed
+protocol: nec1
+address: 2.189
+command: 26
+#
+name: 25%
+type: parsed
+protocol: nec1
+address: 2.189
+command: 27
+#
+name: MEDIUM SPEED (5 SEC)
+type: parsed
+protocol: nec1
+address: 2.189
+command: 28
+#
+name: 75%
+type: parsed
+protocol: nec1
+address: 2.189
+command: 29
+#
+name: 50%
+type: parsed
+protocol: nec1
+address: 2.189
+command: 30
+#
+name: RED -
+type: parsed
+protocol: nec1
+address: 2.189
+command: 31
+#

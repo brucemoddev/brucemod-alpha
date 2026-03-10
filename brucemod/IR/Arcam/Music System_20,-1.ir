@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD 0
+type: parsed
+protocol: rc5
+address: 20
+command: 0
+#
+name: CD 1
+type: parsed
+protocol: rc5
+address: 20
+command: 1
+#
+name: CD 2
+type: parsed
+protocol: rc5
+address: 20
+command: 2
+#
+name: CD 3
+type: parsed
+protocol: rc5
+address: 20
+command: 3
+#
+name: CD 4
+type: parsed
+protocol: rc5
+address: 20
+command: 4
+#
+name: CD 5
+type: parsed
+protocol: rc5
+address: 20
+command: 5
+#
+name: CD 6
+type: parsed
+protocol: rc5
+address: 20
+command: 6
+#
+name: CD 7
+type: parsed
+protocol: rc5
+address: 20
+command: 7
+#
+name: CD 8
+type: parsed
+protocol: rc5
+address: 20
+command: 8
+#
+name: CD 9
+type: parsed
+protocol: rc5
+address: 20
+command: 9
+#
+name: CD REPEAT
+type: parsed
+protocol: rc5
+address: 20
+command: 29
+#
+name: SKIP/SEARCH >>
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: CD NEXT TRACK
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: SKIP/SEARCH <<
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: CD PREVIOUS TRACK
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: CD PROGRAM
+type: parsed
+protocol: rc5
+address: 20
+command: 41
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: CD EJECT
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 20
+command: 48
+#
+name: CD PAUSE
+type: parsed
+protocol: rc5
+address: 20
+command: 48
+#
+name: CD SCAN BACK
+type: parsed
+protocol: rc5
+address: 20
+command: 50
+#
+name: CD SCAN FORWARD
+type: parsed
+protocol: rc5
+address: 20
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: CD PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#
+name: CD STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#
+name: CD CLEAR
+type: parsed
+protocol: rc5
+address: 20
+command: 58
+#

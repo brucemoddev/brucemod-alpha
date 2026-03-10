@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SOURCES
+type: parsed
+protocol: nec
+address: 0
+command: 70
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 0
+command: 65
+#
+name: SUBTITLES
+type: parsed
+protocol: nec
+address: 0
+command: 80
+#
+name: TITLE
+type: parsed
+protocol: nec
+address: 0
+command: 94
+#
+name: Audio
+type: parsed
+protocol: nec
+address: 0
+command: 72
+#
+name: setup
+type: parsed
+protocol: nec
+address: 0
+command: 24
+#
+name: Menu
+type: parsed
+protocol: nec
+address: 0
+command: 74
+#
+name: Up
+type: parsed
+protocol: nec
+address: 0
+command: 6
+#
+name: Down
+type: parsed
+protocol: nec
+address: 0
+command: 68
+#
+name: Left
+type: parsed
+protocol: nec
+address: 0
+command: 71
+#
+name: Right
+type: parsed
+protocol: nec
+address: 0
+command: 64
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 0
+command: 7
+#
+name: mode
+type: parsed
+protocol: nec
+address: 0
+command: 2
+#
+name: PLAY / PAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 3
+#
+name: Stop
+type: parsed
+protocol: nec
+address: 0
+command: 5
+#
+name: VOL DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 15
+#
+name: VOL UP
+type: parsed
+protocol: nec
+address: 0
+command: 81
+#
+name: program
+type: parsed
+protocol: nec
+address: 0
+command: 83
+#
+name: Previous
+type: parsed
+protocol: nec
+address: 0
+command: 14
+#
+name: Next
+type: parsed
+protocol: nec
+address: 0
+command: 26
+#
+name: BACKWARD
+type: parsed
+protocol: nec
+address: 0
+command: 1
+#
+name: forward
+type: parsed
+protocol: nec
+address: 0
+command: 69
+#
+name: REPEAT
+type: parsed
+protocol: nec
+address: 0
+command: 10
+#
+name: slow
+type: parsed
+protocol: nec
+address: 0
+command: 30
+#

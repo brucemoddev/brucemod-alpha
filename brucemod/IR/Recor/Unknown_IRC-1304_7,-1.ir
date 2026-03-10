@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 0
+#
+name: KEY_MUTE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 6
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 6
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 7
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 7
+#
+name: SCREEN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 9
+#
+name: BRIGHT+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 10
+#
+name: BRIGHT-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: CONTRAST+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 12
+#
+name: CONTRAST-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 13
+#
+name: COLOR+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 14
+#
+name: COLOR-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 15
+#
+name: KEY_0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: recs80_45
+address: 7
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: recs80_45
+address: 7
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: recs80_45
+address: 7
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: recs80_45
+address: 7
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: recs80_45
+address: 7
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: recs80_45
+address: 7
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: KEY_1-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: SYSTEM
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: STORE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: recs80_45
+address: 7
+command: 32
+#
+name: SWOPT
+type: parsed
+protocol: recs80_45
+address: 7
+command: 35
+#
+name: FT+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 36
+#
+name: FT-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 37
+#
+name: KEY_M
+type: parsed
+protocol: recs80_45
+address: 7
+command: 38
+#
+name: AV
+type: parsed
+protocol: recs80_45
+address: 7
+command: 40
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 41
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 42
+#
+name: TIMER
+type: parsed
+protocol: recs80_45
+address: 7
+command: 43
+#
+name: KEY_RED
+type: parsed
+protocol: recs80_45
+address: 7
+command: 44
+#
+name: KEY_GREEN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 46
+#
+name: KEY_BLUE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 47
+#
+name: TV|TL
+type: parsed
+protocol: recs80_45
+address: 7
+command: 49
+#
+name: KEY_YELLOW
+type: parsed
+protocol: recs80_45
+address: 7
+command: 51
+#
+name: KEY_NEXT
+type: parsed
+protocol: recs80_45
+address: 7
+command: 53
+#
+name: BAND
+type: parsed
+protocol: recs80_45
+address: 7
+command: 54
+#
+name: KEY_OK
+type: parsed
+protocol: recs80_45
+address: 7
+command: 63
+#

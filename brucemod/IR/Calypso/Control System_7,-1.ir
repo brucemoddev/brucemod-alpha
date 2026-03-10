@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CT 106
+type: parsed
+protocol: sony12
+address: 7
+command: 0
+#
+name: CT 107
+type: parsed
+protocol: sony12
+address: 7
+command: 1
+#
+name: CT 108
+type: parsed
+protocol: sony12
+address: 7
+command: 2
+#
+name: CT 109
+type: parsed
+protocol: sony12
+address: 7
+command: 3
+#
+name: CT 110
+type: parsed
+protocol: sony12
+address: 7
+command: 4
+#
+name: CT 111
+type: parsed
+protocol: sony12
+address: 7
+command: 5
+#
+name: CT 112
+type: parsed
+protocol: sony12
+address: 7
+command: 6
+#
+name: CT 113
+type: parsed
+protocol: sony12
+address: 7
+command: 7
+#
+name: CT 114
+type: parsed
+protocol: sony12
+address: 7
+command: 8
+#
+name: CT 105
+type: parsed
+protocol: sony12
+address: 7
+command: 9
+#
+name: CT 115
+type: parsed
+protocol: sony12
+address: 7
+command: 11
+#
+name: CT 100
+type: parsed
+protocol: sony12
+address: 7
+command: 16
+#
+name: CT 101
+type: parsed
+protocol: sony12
+address: 7
+command: 17
+#
+name: CT 099
+type: parsed
+protocol: sony12
+address: 7
+command: 21
+#
+name: CT 116
+type: parsed
+protocol: sony12
+address: 7
+command: 22
+#
+name: CT 124
+type: parsed
+protocol: sony12
+address: 7
+command: 29
+#
+name: CT 097
+type: parsed
+protocol: sony12
+address: 7
+command: 38
+#
+name: CT 098
+type: parsed
+protocol: sony12
+address: 7
+command: 41
+#
+name: CT 121
+type: parsed
+protocol: sony12
+address: 7
+command: 42
+#
+name: CT 125
+type: parsed
+protocol: sony12
+address: 7
+command: 48
+#
+name: CT 120
+type: parsed
+protocol: sony12
+address: 7
+command: 49
+#
+name: CT 126
+type: parsed
+protocol: sony12
+address: 7
+command: 70
+#
+name: CT 102
+type: parsed
+protocol: sony12
+address: 7
+command: 77
+#
+name: CT 117
+type: parsed
+protocol: sony12
+address: 7
+command: 79
+#
+name: CT 122
+type: parsed
+protocol: sony12
+address: 7
+command: 80
+#
+name: CT 123
+type: parsed
+protocol: sony12
+address: 7
+command: 88
+#
+name: CT 103
+type: parsed
+protocol: sony12
+address: 7
+command: 90
+#
+name: CT 104
+type: parsed
+protocol: sony12
+address: 7
+command: 99
+#
+name: CT 118
+type: parsed
+protocol: sony12
+address: 7
+command: 100
+#
+name: CT 119
+type: parsed
+protocol: sony12
+address: 7
+command: 101
+#
+name: CT 127
+type: parsed
+protocol: sony12
+address: 7
+command: 104
+#

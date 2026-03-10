@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER2
+type: parsed
+protocol: nec
+address: 0.252
+command: 128
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 0.252
+command: 130
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.252
+command: 132
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 0.252
+command: 133
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 0.252
+command: 134
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 0.252
+command: 135
+#

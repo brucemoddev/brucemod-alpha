@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME ^
+type: parsed
+protocol: necx1
+address: 7.7
+command: 7
+#
+name: VOLUME V
+type: parsed
+protocol: necx1
+address: 7.7
+command: 11
+#

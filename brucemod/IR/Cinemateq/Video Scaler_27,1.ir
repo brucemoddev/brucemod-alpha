@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 2
+#
+name: SCART-1
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 2
+#
+name: 2
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 5
+#
+name: SCART-2
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 5
+#
+name: 3
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 6
+#
+name: FBAS/SDI-1
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 6
+#
+name: 4
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 9
+#
+name: FBAS/SDI-2
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 9
+#
+name: 5
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 10
+#
+name: S-VIDEO-1
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 10
+#
+name: 6
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 13
+#
+name: S-VIDEO-2
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 13
+#
+name: 7
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 14
+#
+name: YUV-1
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 14
+#
+name: 8
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 17
+#
+name: YUV-2
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 17
+#
+name: 9
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 18
+#
+name: BYPASS RGB
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 18
+#
+name: 0
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 21
+#
+name: BYPASS VGA
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 21
+#
+name: POWER OFF
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 22
+#
+name: ENTER
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 26
+#
+name: CURSOR UP
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 30
+#
+name: POWER ON
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 38
+#
+name: LENSSHIFT UP
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 46
+#
+name: RESOLUTION
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 49
+#
+name: ASPECT RATIO
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 50
+#
+name: LENSSHIFT DOWN
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 53
+#
+name: OVERSCAN
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 54
+#
+name: TV MODE
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 57
+#
+name: EXIT
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 58
+#
+name: CURSOR LEFT
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 62
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 65
+#
+name: CURSOR DOWN
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 69
+#
+name: OPTION A
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 70
+#
+name: OPTION B
+type: parsed
+protocol: canalsat
+address: 27.1
+command: 73
+#

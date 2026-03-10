@@ -1,0 +1,351 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: pacemss
+address: 1
+command: 0
+#
+name: 0
+type: parsed
+protocol: pacemss
+address: 1
+command: 0
+#
+name: 1
+type: parsed
+protocol: pacemss
+address: 1
+command: 1
+#
+name: 1
+type: parsed
+protocol: pacemss
+address: 1
+command: 1
+#
+name: 2
+type: parsed
+protocol: pacemss
+address: 1
+command: 2
+#
+name: 2
+type: parsed
+protocol: pacemss
+address: 1
+command: 2
+#
+name: 3
+type: parsed
+protocol: pacemss
+address: 1
+command: 3
+#
+name: 3
+type: parsed
+protocol: pacemss
+address: 1
+command: 3
+#
+name: 4
+type: parsed
+protocol: pacemss
+address: 1
+command: 4
+#
+name: 4
+type: parsed
+protocol: pacemss
+address: 1
+command: 4
+#
+name: 5
+type: parsed
+protocol: pacemss
+address: 1
+command: 5
+#
+name: 5
+type: parsed
+protocol: pacemss
+address: 1
+command: 5
+#
+name: 6
+type: parsed
+protocol: pacemss
+address: 1
+command: 6
+#
+name: 6
+type: parsed
+protocol: pacemss
+address: 1
+command: 6
+#
+name: 7
+type: parsed
+protocol: pacemss
+address: 1
+command: 7
+#
+name: 7
+type: parsed
+protocol: pacemss
+address: 1
+command: 7
+#
+name: 8
+type: parsed
+protocol: pacemss
+address: 1
+command: 8
+#
+name: 8
+type: parsed
+protocol: pacemss
+address: 1
+command: 8
+#
+name: 9
+type: parsed
+protocol: pacemss
+address: 1
+command: 9
+#
+name: 9
+type: parsed
+protocol: pacemss
+address: 1
+command: 9
+#
+name: FAV
+type: parsed
+protocol: pacemss
+address: 1
+command: 11
+#
+name: FAV
+type: parsed
+protocol: pacemss
+address: 1
+command: 11
+#
+name: STEREO
+type: parsed
+protocol: pacemss
+address: 1
+command: 12
+#
+name: STEREO
+type: parsed
+protocol: pacemss
+address: 1
+command: 12
+#
+name: EFFECT
+type: parsed
+protocol: pacemss
+address: 1
+command: 13
+#
+name: EFFECT
+type: parsed
+protocol: pacemss
+address: 1
+command: 13
+#
+name: SHAPE
+type: parsed
+protocol: pacemss
+address: 1
+command: 14
+#
+name: SHAPE
+type: parsed
+protocol: pacemss
+address: 1
+command: 14
+#
+name: RADIO
+type: parsed
+protocol: pacemss
+address: 1
+command: 15
+#
+name: RADIO
+type: parsed
+protocol: pacemss
+address: 1
+command: 15
+#
+name: POWER
+type: parsed
+protocol: pacemss
+address: 1
+command: 16
+#
+name: POWER
+type: parsed
+protocol: pacemss
+address: 1
+command: 16
+#
+name: CHAN+
+type: parsed
+protocol: pacemss
+address: 1
+command: 17
+#
+name: CHAN+
+type: parsed
+protocol: pacemss
+address: 1
+command: 17
+#
+name: LEVEL
+type: parsed
+protocol: pacemss
+address: 1
+command: 18
+#
+name: LEVEL
+type: parsed
+protocol: pacemss
+address: 1
+command: 18
+#
+name: STORE
+type: parsed
+protocol: pacemss
+address: 1
+command: 19
+#
+name: STORE
+type: parsed
+protocol: pacemss
+address: 1
+command: 19
+#
+name: TV/SAT
+type: parsed
+protocol: pacemss
+address: 1
+command: 20
+#
+name: TV/SAT
+type: parsed
+protocol: pacemss
+address: 1
+command: 20
+#
+name: NORM
+type: parsed
+protocol: pacemss
+address: 1
+command: 21
+#
+name: NORM
+type: parsed
+protocol: pacemss
+address: 1
+command: 21
+#
+name: CHAN-
+type: parsed
+protocol: pacemss
+address: 1
+command: 22
+#
+name: CHAN-
+type: parsed
+protocol: pacemss
+address: 1
+command: 22
+#
+name: MENU
+type: parsed
+protocol: pacemss
+address: 1
+command: 23
+#
+name: MENU
+type: parsed
+protocol: pacemss
+address: 1
+command: 23
+#
+name: VOL+
+type: parsed
+protocol: pacemss
+address: 1
+command: 24
+#
+name: VOL+
+type: parsed
+protocol: pacemss
+address: 1
+command: 24
+#
+name: F
+type: parsed
+protocol: pacemss
+address: 1
+command: 25
+#
+name: F
+type: parsed
+protocol: pacemss
+address: 1
+command: 25
+#
+name: RCL
+type: parsed
+protocol: pacemss
+address: 1
+command: 26
+#
+name: RCL
+type: parsed
+protocol: pacemss
+address: 1
+command: 26
+#
+name: VOL-
+type: parsed
+protocol: pacemss
+address: 1
+command: 27
+#
+name: VOL-
+type: parsed
+protocol: pacemss
+address: 1
+command: 27
+#
+name: MUTE
+type: parsed
+protocol: pacemss
+address: 1
+command: 30
+#
+name: MUTE
+type: parsed
+protocol: pacemss
+address: 1
+command: 30
+#
+name: I
+type: parsed
+protocol: pacemss
+address: 1
+command: 31
+#
+name: I
+type: parsed
+protocol: pacemss
+address: 1
+command: 31
+#

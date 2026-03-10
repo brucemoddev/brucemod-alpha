@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ENTER
+type: parsed
+protocol: apple
+address: 238.135
+command: 1
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: apple
+address: 238.135
+command: 2
+#
+name: NEXT
+type: parsed
+protocol: apple
+address: 238.135
+command: 3
+#
+name: PREVIOUS
+type: parsed
+protocol: apple
+address: 238.135
+command: 4
+#
+name: VOLUME +
+type: parsed
+protocol: apple
+address: 238.135
+command: 5
+#
+name: VOLUME UP
+type: parsed
+protocol: apple
+address: 238.135
+command: 5
+#
+name: VOLUME -
+type: parsed
+protocol: apple
+address: 238.135
+command: 6
+#
+name: VOLUME DOWN
+type: parsed
+protocol: apple
+address: 238.135
+command: 6
+#
+name: SCREEN SAVER ON
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 16
+#
+name: MENU LEFT
+type: parsed
+protocol: nec1_rnc
+address: 238.135
+command: 26
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1_rnc
+address: 238.135
+command: 26
+#
+name: DOCK MODE
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 32
+#
+name: MUTE
+type: parsed
+protocol: apple
+address: 238.135
+command: 38
+#
+name: RANDOM
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 41
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 41
+#
+name: MENU UP
+type: parsed
+protocol: apple
+address: 238.135
+command: 46
+#
+name: CURSOR UP
+type: parsed
+protocol: apple
+address: 238.135
+command: 46
+#
+name: SHUFFLE ON
+type: parsed
+protocol: apple
+address: 238.135
+command: 48
+#
+name: POWER
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 56
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 56
+#
+name: POWER OFF
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 64
+#
+name: SCREENSAVER OFF
+type: parsed
+protocol: apple
+address: 238.135
+command: 72
+#
+name: HOME PAGE
+type: parsed
+protocol: apple
+address: 238.135
+command: 80
+#
+name: IPOD MODE
+type: parsed
+protocol: apple
+address: 238.135
+command: 96
+#
+name: REPEAT
+type: parsed
+protocol: apple
+address: 238.135
+command: 98
+#
+name: VIDEO MODE/OSD
+type: parsed
+protocol: apple
+address: 238.135
+command: 106
+#
+name: MODE
+type: parsed
+protocol: apple
+address: 238.135
+command: 106
+#
+name: VIDEO MODE/ OSD
+type: parsed
+protocol: apple
+address: 238.135
+command: 106
+#
+name: PREVIOUS PLAYLIST
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 110
+#
+name: SCAN <<
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 110
+#
+name: REW
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 110
+#
+name: POWER ON
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 128
+#
+name: SCREEN SAVER
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 131
+#
+name: SCREENSAVER
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 131
+#
+name: MENU DOWN
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 146
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 146
+#
+name: NEXT PLAYLIST
+type: parsed
+protocol: nec1
+address: 238.135
+command: 161
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 238.135
+command: 161
+#
+name: FWD
+type: parsed
+protocol: nec1
+address: 238.135
+command: 161
+#
+name: SHUFFLE OFF
+type: parsed
+protocol: nec1_rnc
+address: 238.135
+command: 224
+#
+name: MENU RIGHT
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 230
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1_f16
+address: 238.135
+command: 230
+#

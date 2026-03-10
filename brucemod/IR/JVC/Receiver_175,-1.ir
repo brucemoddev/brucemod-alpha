@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DAP DELAY/EFECT(<<)
+type: parsed
+protocol: jvc
+address: 175
+command: 0
+#
+name: SURR EFFECT + (9)
+type: parsed
+protocol: jvc
+address: 175
+command: 0
+#
+name: EFFECT
+type: parsed
+protocol: jvc
+address: 175
+command: 0
+#
+name: SURR EFFECT - (8)
+type: parsed
+protocol: jvc
+address: 175
+command: 1
+#
+name: DAP MODE ()
+type: parsed
+protocol: jvc
+address: 175
+command: 5
+#
+name: DAP MODE (0)
+type: parsed
+protocol: jvc
+address: 175
+command: 5
+#
+name: SURR:MIDNIGHT
+type: parsed
+protocol: jvc
+address: 175
+command: 8
+#
+name: INPUT - USB
+type: parsed
+protocol: jvc
+address: 175
+command: 51
+#
+name: CSRP MODE
+type: parsed
+protocol: jvc
+address: 175
+command: 96
+#
+name: ^ (SHIFT+^)
+type: parsed
+protocol: jvc
+address: 175
+command: 112
+#
+name: CURSOR ^
+type: parsed
+protocol: jvc
+address: 175
+command: 112
+#
+name: V (SHIFT+V)
+type: parsed
+protocol: jvc
+address: 175
+command: 113
+#
+name: CURSOR V
+type: parsed
+protocol: jvc
+address: 175
+command: 113
+#
+name: > (SHIFT+>)
+type: parsed
+protocol: jvc
+address: 175
+command: 114
+#
+name: CURSOR >
+type: parsed
+protocol: jvc
+address: 175
+command: 114
+#
+name: < (SHIFT+<)
+type: parsed
+protocol: jvc
+address: 175
+command: 115
+#
+name: CURSOR <
+type: parsed
+protocol: jvc
+address: 175
+command: 115
+#
+name: EXIT (SHIFT+CHANNEL)
+type: parsed
+protocol: jvc
+address: 175
+command: 120
+#
+name: MENU EXIT
+type: parsed
+protocol: jvc
+address: 175
+command: 120
+#
+name: SET (SHIFT+MUTE)
+type: parsed
+protocol: jvc
+address: 175
+command: 121
+#
+name: MENU SET
+type: parsed
+protocol: jvc
+address: 175
+command: 121
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LAST PLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 45
+#

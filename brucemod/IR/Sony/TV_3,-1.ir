@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CLOCK
+type: parsed
+protocol: sony12
+address: 3
+command: 43
+#
+name: AUDIO/RED
+type: parsed
+protocol: sony12
+address: 3
+command: 76
+#
+name: AUDIO MENU
+type: parsed
+protocol: sony12
+address: 3
+command: 76
+#
+name: RED
+type: parsed
+protocol: sony12
+address: 3
+command: 76
+#
+name: PICTURE/GREEN
+type: parsed
+protocol: sony12
+address: 3
+command: 77
+#
+name: GREEN
+type: parsed
+protocol: sony12
+address: 3
+command: 77
+#
+name: VIDEO MENU
+type: parsed
+protocol: sony12
+address: 3
+command: 77
+#
+name: MULTISELECT/YELLOW
+type: parsed
+protocol: sony12
+address: 3
+command: 78
+#
+name: MULTI-PIP
+type: parsed
+protocol: sony12
+address: 3
+command: 78
+#
+name: YELLOW
+type: parsed
+protocol: sony12
+address: 3
+command: 78
+#
+name: 16/9/BLUE
+type: parsed
+protocol: sony12
+address: 3
+command: 79
+#
+name: BLUE
+type: parsed
+protocol: sony12
+address: 3
+command: 79
+#
+name: ZOOM
+type: parsed
+protocol: sony12
+address: 3
+command: 79
+#

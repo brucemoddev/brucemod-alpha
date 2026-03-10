@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: N10
+type: parsed
+protocol: nec
+address: 162
+command: 0
+#
+name: N1
+type: parsed
+protocol: nec
+address: 162
+command: 1
+#
+name: N2
+type: parsed
+protocol: nec
+address: 162
+command: 2
+#
+name: N3
+type: parsed
+protocol: nec
+address: 162
+command: 3
+#
+name: N4
+type: parsed
+protocol: nec
+address: 162
+command: 4
+#
+name: N5
+type: parsed
+protocol: nec
+address: 162
+command: 5
+#
+name: N6
+type: parsed
+protocol: nec
+address: 162
+command: 6
+#
+name: N7
+type: parsed
+protocol: nec
+address: 162
+command: 7
+#
+name: N8
+type: parsed
+protocol: nec
+address: 162
+command: 8
+#
+name: N9
+type: parsed
+protocol: nec
+address: 162
+command: 9
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 162
+command: 10
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 162
+command: 11
+#
+name: PROG
+type: parsed
+protocol: nec
+address: 162
+command: 13
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 162
+command: 14
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 162
+command: 15
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 162
+command: 16
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 162
+command: 17
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 162
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 162
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 162
+command: 24
+#
+name: RANDOM
+type: parsed
+protocol: nec
+address: 162
+command: 74
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 162
+command: 75
+#
+name: >10
+type: parsed
+protocol: nec
+address: 162
+command: 86
+#
+name: HI-LITE
+type: parsed
+protocol: nec
+address: 162
+command: 94
+#

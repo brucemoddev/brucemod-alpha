@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 0.48
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0.48
+command: 3
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0.48
+command: 4
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0.48
+command: 5
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0.48
+command: 6
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0.48
+command: 7
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0.48
+command: 8
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0.48
+command: 9
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0.48
+command: 10
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0.48
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0.48
+command: 12
+#
+name: -
+type: parsed
+protocol: nec1
+address: 0.48
+command: 13
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 0.48
+command: 14
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0.48
+command: 15
+#
+name: CH. LIST
+type: parsed
+protocol: nec1
+address: 0.48
+command: 16
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 0.48
+command: 17
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0.48
+command: 18
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0.48
+command: 19
+#
+name: CURSOR ENTER/OK
+type: parsed
+protocol: nec1
+address: 0.48
+command: 20
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0.48
+command: 21
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0.48
+command: 22
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 0.48
+command: 24
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 0.48
+command: 25
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 0.48
+command: 26
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 0.48
+command: 27
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 0.48
+command: 28
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 0.48
+command: 29
+#
+name: CC
+type: parsed
+protocol: nec1
+address: 0.48
+command: 64
+#
+name: FORMAT
+type: parsed
+protocol: nec1
+address: 0.48
+command: 65
+#
+name: SIGNAL METER
+type: parsed
+protocol: nec1
+address: 0.48
+command: 66
+#
+name: CH. ADD/SKIP
+type: parsed
+protocol: nec1
+address: 0.48
+command: 67
+#

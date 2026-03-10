@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LD 0
+type: parsed
+protocol: nec1
+address: 182.75
+command: 0
+#
+name: LD 1
+type: parsed
+protocol: nec1
+address: 182.75
+command: 1
+#
+name: LD 2
+type: parsed
+protocol: nec1
+address: 182.75
+command: 2
+#
+name: LD 3
+type: parsed
+protocol: nec1
+address: 182.75
+command: 3
+#
+name: LD 4
+type: parsed
+protocol: nec1
+address: 182.75
+command: 4
+#
+name: LD 5
+type: parsed
+protocol: nec1
+address: 182.75
+command: 5
+#
+name: LD 6
+type: parsed
+protocol: nec1
+address: 182.75
+command: 6
+#
+name: LD 7
+type: parsed
+protocol: nec1
+address: 182.75
+command: 7
+#
+name: LD 8
+type: parsed
+protocol: nec1
+address: 182.75
+command: 8
+#
+name: LD 9
+type: parsed
+protocol: nec1
+address: 182.75
+command: 9
+#
+name: LD +10
+type: parsed
+protocol: nec1
+address: 182.75
+command: 10
+#
+name: LD FUNCTION
+type: parsed
+protocol: nec1
+address: 182.75
+command: 16
+#
+name: LD STOP
+type: parsed
+protocol: nec1
+address: 182.75
+command: 17
+#
+name: LD PAUSE
+type: parsed
+protocol: nec1
+address: 182.75
+command: 18
+#
+name: LD SCAN <<
+type: parsed
+protocol: nec1
+address: 182.75
+command: 20
+#
+name: LD SCAN >>
+type: parsed
+protocol: nec1
+address: 182.75
+command: 21
+#
+name: LD ANY V
+type: parsed
+protocol: nec1
+address: 182.75
+command: 22
+#
+name: LD ANY ^
+type: parsed
+protocol: nec1
+address: 182.75
+command: 23
+#
+name: LD ENTER
+type: parsed
+protocol: nec1
+address: 182.75
+command: 25
+#
+name: LD PLAY
+type: parsed
+protocol: nec1
+address: 182.75
+command: 154
+#
+name: LD POWER
+type: parsed
+protocol: nec1
+address: 182.75
+command: 157
+#

@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: rc6
+address: 0
+command: 12
+#
+name: reverse
+type: parsed
+protocol: rc6
+address: 0
+command: 43
+#
+name: forward
+type: parsed
+protocol: rc6
+address: 0
+command: 40
+#
+name: Play
+type: parsed
+protocol: rc6
+address: 0
+command: 44
+#
+name: Stop
+type: parsed
+protocol: rc6
+address: 0
+command: 49
+#
+name: Pause
+type: parsed
+protocol: rc6
+address: 0
+command: 48
+#
+name: source
+type: parsed
+protocol: rc6
+address: 0
+command: 56
+#
+name: home
+type: parsed
+protocol: rc6
+address: 0
+command: 84
+#
+name: format
+type: parsed
+protocol: rc6
+address: 0
+command: 245
+#
+name: Back
+type: parsed
+protocol: rc6
+address: 0
+command: 10
+#
+name: List
+type: parsed
+protocol: rc6
+address: 0
+command: 204
+#
+name: Info
+type: parsed
+protocol: rc6
+address: 0
+command: 15
+#
+name: Adjust
+type: parsed
+protocol: rc6
+address: 0
+command: 144
+#
+name: OPTIONS
+type: parsed
+protocol: rc6
+address: 0
+command: 64
+#
+name: Up
+type: parsed
+protocol: rc6
+address: 0
+command: 88
+#
+name: Down
+type: parsed
+protocol: rc6
+address: 0
+command: 89
+#
+name: Left
+type: parsed
+protocol: rc6
+address: 0
+command: 90
+#
+name: Right
+type: parsed
+protocol: rc6
+address: 0
+command: 91
+#
+name: Ok
+type: parsed
+protocol: rc6
+address: 0
+command: 92
+#
+name: VOLUME UP
+type: parsed
+protocol: rc6
+address: 0
+command: 16
+#
+name: VOL -
+type: parsed
+protocol: rc6
+address: 0
+command: 17
+#
+name: Mute
+type: parsed
+protocol: rc6
+address: 0
+command: 13
+#
+name: red
+type: parsed
+protocol: rc6
+address: 0
+command: 109
+#
+name: green
+type: parsed
+protocol: rc6
+address: 0
+command: 110
+#
+name: Yellow
+type: parsed
+protocol: rc6
+address: 0
+command: 111
+#
+name: blue
+type: parsed
+protocol: rc6
+address: 0
+command: 112
+#
+name: 1
+type: parsed
+protocol: rc6
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc6
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc6
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc6
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc6
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc6
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc6
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc6
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc6
+address: 0
+command: 9
+#
+name: 0
+type: parsed
+protocol: rc6
+address: 0
+command: 0
+#

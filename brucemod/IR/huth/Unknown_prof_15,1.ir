@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TIMER
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 0
+#
+name: EXT
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 1
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 2
+#
+name: KEY_SLEEP
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 4
+#
+name: KEY_9
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 5
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 7
+#
+name: KEY_AUDIO
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 8
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 9
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 10
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 11
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 12
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 13
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 14
+#
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 15
+#
+name: KEY_AGAIN
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 16
+#
+name: KEY_LIST
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 17
+#
+name: HEADP
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 18
+#
+name: KEY_RADIO
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 19
+#
+name: STORE
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 20
+#
+name: X_KEY_0_DN
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 21
+#
+name: X_KEY_1_DN
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 22
+#
+name: LNB
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 23
+#
+name: STATUS
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 24
+#
+name: X_KEY_0_UP
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 25
+#
+name: X_KEY_1_UP
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 26
+#
+name: KEY_VIDEO
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 28
+#
+name: STEREO
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 29
+#
+name: AFC
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 30
+#
+name: KEY_MUTE
+type: parsed
+protocol: aiwa
+address: 15.1
+command: 31
+#

@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RMT_AH411U_PWR
+type: parsed
+protocol: sony15
+address: 48.0
+command: 21
+#
+name: Input
+type: parsed
+protocol: sony15
+address: 176.0
+command: 105
+#
+name: AUTO_SOUND
+type: parsed
+protocol: sony20
+address: 16.13
+command: 47
+#
+name: standard
+type: parsed
+protocol: sony20
+address: 16.13
+command: 29
+#
+name: CINEMA
+type: parsed
+protocol: sony15
+address: 176.0
+command: 67
+#
+name: MUSIC
+type: parsed
+protocol: sony15
+address: 176.0
+command: 73
+#
+name: VOICE
+type: parsed
+protocol: sony20
+address: 16.5
+command: 57
+#
+name: night
+type: parsed
+protocol: sony15
+address: 176.0
+command: 32
+#
+name: Vol_Up
+type: parsed
+protocol: sony15
+address: 48.0
+command: 18
+#
+name: VOL_DN
+type: parsed
+protocol: sony15
+address: 48.0
+command: 19
+#
+name: INDICATOR
+type: parsed
+protocol: sony15
+address: 176.0
+command: 16
+#
+name: Mute
+type: parsed
+protocol: sony15
+address: 48.0
+command: 20
+#
+name: PLAY_MODE
+type: parsed
+protocol: sony20
+address: 16.1
+command: 38
+#
+name: Audio
+type: parsed
+protocol: sony20
+address: 16.1
+command: 18
+#
+name: Up
+type: parsed
+protocol: sony15
+address: 176.0
+command: 120
+#
+name: Down
+type: parsed
+protocol: sony15
+address: 176.0
+command: 121
+#
+name: enter
+type: parsed
+protocol: sony15
+address: 48.0
+command: 12
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: sony20
+address: 16.1
+command: 58
+#
+name: track_back
+type: parsed
+protocol: sony20
+address: 16.1
+command: 48
+#
+name: TRACK_FWD
+type: parsed
+protocol: sony20
+address: 16.1
+command: 49
+#

@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony15
+address: 183
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony15
+address: 183
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony15
+address: 183
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony15
+address: 183
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony15
+address: 183
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony15
+address: 183
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony15
+address: 183
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony15
+address: 183
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony15
+address: 183
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony15
+address: 183
+command: 9
+#
+name: sat_menu
+type: parsed
+protocol: sony15
+address: 183
+command: 56
+#
+name: KEY_EXIT
+type: parsed
+protocol: sony15
+address: 183
+command: 99
+#
+name: KEY_EXIT
+type: parsed
+protocol: sony15
+address: 183
+command: 99
+#
+name: sat_satguide
+type: parsed
+protocol: sony15
+address: 183
+command: 110
+#
+name: sat_up
+type: parsed
+protocol: sony15
+address: 183
+command: 114
+#
+name: sat_down
+type: parsed
+protocol: sony15
+address: 183
+command: 115
+#
+name: sat_right
+type: parsed
+protocol: sony15
+address: 183
+command: 116
+#
+name: sat_left
+type: parsed
+protocol: sony15
+address: 183
+command: 117
+#
+name: sat_enter
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#

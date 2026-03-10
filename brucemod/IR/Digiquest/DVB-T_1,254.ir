@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RIGHT
+type: parsed
+protocol: nec
+address: 1.254
+command: 0
+#
+name: TV
+type: parsed
+protocol: nec
+address: 1.254
+command: 1
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 1.254
+command: 2
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 1.254
+command: 3
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 1.254
+command: 4
+#
+name: 2
+type: parsed
+protocol: nec
+address: 1.254
+command: 5
+#
+name: 3
+type: parsed
+protocol: nec
+address: 1.254
+command: 6
+#
+name: 1
+type: parsed
+protocol: nec
+address: 1.254
+command: 7
+#
+name: UP
+type: parsed
+protocol: nec
+address: 1.254
+command: 8
+#
+name: 5
+type: parsed
+protocol: nec
+address: 1.254
+command: 9
+#
+name: 6
+type: parsed
+protocol: nec
+address: 1.254
+command: 10
+#
+name: 4
+type: parsed
+protocol: nec
+address: 1.254
+command: 11
+#
+name: OK
+type: parsed
+protocol: nec
+address: 1.254
+command: 12
+#
+name: 8
+type: parsed
+protocol: nec
+address: 1.254
+command: 13
+#
+name: 9
+type: parsed
+protocol: nec
+address: 1.254
+command: 14
+#
+name: 7
+type: parsed
+protocol: nec
+address: 1.254
+command: 15
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 1.254
+command: 16
+#
+name: 0
+type: parsed
+protocol: nec
+address: 1.254
+command: 17
+#
+name: NAVI
+type: parsed
+protocol: nec
+address: 1.254
+command: 18
+#
+name: FAV
+type: parsed
+protocol: nec
+address: 1.254
+command: 19
+#
+name: UNUSED
+type: parsed
+protocol: nec
+address: 1.254
+command: 20
+#
+name: SUBTITLE
+type: parsed
+protocol: nec
+address: 1.254
+command: 21
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 1.254
+command: 22
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 1.254
+command: 23
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 1.254
+command: 24
+#
+name: RED
+type: parsed
+protocol: nec
+address: 1.254
+command: 25
+#
+name: GREEN
+type: parsed
+protocol: nec
+address: 1.254
+command: 26
+#
+name: TEXT
+type: parsed
+protocol: nec
+address: 1.254
+command: 27
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 1.254
+command: 28
+#
+name: YELLOW
+type: parsed
+protocol: nec
+address: 1.254
+command: 29
+#
+name: BLUE
+type: parsed
+protocol: nec
+address: 1.254
+command: 30
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 1.254
+command: 31
+#
+name: FF
+type: parsed
+protocol: nec
+address: 1.254
+command: 80
+#
+name: RECORD
+type: parsed
+protocol: nec
+address: 1.254
+command: 88
+#
+name: REW
+type: parsed
+protocol: nec
+address: 1.254
+command: 92
+#

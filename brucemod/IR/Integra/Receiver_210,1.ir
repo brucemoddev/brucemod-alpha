@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DOCK STOP
+type: parsed
+protocol: nec1
+address: 210.1
+command: 199
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.1
+command: 199
+#

@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 24
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.2
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 210.2
+command: 26
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 27
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 210.2
+command: 28
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 210.2
+command: 29
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 30
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 31
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 66
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 210.2
+command: 67
+#
+name: ALBUM UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 80
+#
+name: ALBUM DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 81
+#
+name: PLAYLIST UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 82
+#
+name: PLAYLIST DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 83
+#
+name: CHAPTER UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 84
+#
+name: CHAPTER DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 85
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 86
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 87
+#
+name: BACKLIGHT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 89
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 210.2
+command: 90
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 91
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 130
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 131
+#

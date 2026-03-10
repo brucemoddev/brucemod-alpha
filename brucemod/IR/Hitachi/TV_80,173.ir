@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 80.173
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 80.173
+command: 2
+#
+name: PINP
+type: parsed
+protocol: nec1
+address: 80.173
+command: 6
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 80.173
+command: 7
+#
+name: RGB1
+type: parsed
+protocol: nec1
+address: 80.173
+command: 9
+#
+name: RGB2
+type: parsed
+protocol: nec1
+address: 80.173
+command: 10
+#
+name: AV1
+type: parsed
+protocol: nec1
+address: 80.173
+command: 11
+#
+name: AV2
+type: parsed
+protocol: nec1
+address: 80.173
+command: 12
+#
+name: AV3
+type: parsed
+protocol: nec1
+address: 80.173
+command: 13
+#
+name: AV4
+type: parsed
+protocol: nec1
+address: 80.173
+command: 14
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 80.173
+command: 19
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 80.173
+command: 20
+#
+name: DN
+type: parsed
+protocol: nec1
+address: 80.173
+command: 21
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 80.173
+command: 22
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 80.173
+command: 23
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 80.173
+command: 24
+#
+name: SIZE
+type: parsed
+protocol: nec1
+address: 80.173
+command: 25
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 80.173
+command: 26
+#

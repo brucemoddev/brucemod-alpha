@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44
+command: 30
+#
+name: source
+type: parsed
+protocol: nec2
+address: 44
+command: 138
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 44
+command: 23
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 44
+command: 22
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44
+command: 31
+#
+name: Play
+type: parsed
+protocol: nec2
+address: 44
+command: 79
+#
+name: Skip_Forward
+type: parsed
+protocol: nec2
+address: 44
+command: 7
+#
+name: skip_back
+type: parsed
+protocol: nec2
+address: 44
+command: 6
+#
+name: WOOFER_UP
+type: parsed
+protocol: nec2
+address: 44
+command: 202
+#
+name: WOOFER_DOWN
+type: parsed
+protocol: nec2
+address: 44
+command: 201
+#
+name: NIGHT_MODE_ON
+type: parsed
+protocol: nec2
+address: 44
+command: 156
+#
+name: NIGHT_MODE_OFF
+type: parsed
+protocol: nec2
+address: 44
+command: 155
+#
+name: AUTOPOWER_ON
+type: parsed
+protocol: nec2
+address: 44
+command: 199
+#
+name: AUTOPOWER_OFF
+type: parsed
+protocol: nec2
+address: 44
+command: 200
+#
+name: CINEMA_MODE
+type: parsed
+protocol: nec2
+address: 44
+command: 144
+#
+name: STANDARD_MODE
+type: parsed
+protocol: nec2
+address: 44
+command: 54
+#
+name: ASC_MODE
+type: parsed
+protocol: nec2
+address: 44
+command: 150
+#

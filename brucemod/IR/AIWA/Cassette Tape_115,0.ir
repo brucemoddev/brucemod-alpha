@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DECK1 MS >>
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 1
+#
+name: DECK1 MS <<
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 2
+#
+name: DECK1 REC MUTE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 3
+#
+name: DECK1 REC
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 4
+#
+name: DECK1 PLAY >
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 5
+#
+name: DECK1 R.PLAY <
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 6
+#
+name: DECK1 PAUSE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 7
+#
+name: MONITOR SOURCE/TAPE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 8
+#
+name: DECK1 STOP []
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 10
+#
+name: DECK1
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 14
+#
+name: COUNTER RESET
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 15
+#
+name: DECK2
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 15
+#
+name: DISPLAY
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 16
+#
+name: MS/CUE >>
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 17
+#
+name: DECK2 MS >>
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 17
+#
+name: MS/REVIEW <<
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 18
+#
+name: DECK2 MS <<
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 18
+#
+name: REC MUTE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 19
+#
+name: DECK2 REC MUTE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 19
+#
+name: REC
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 20
+#
+name: DECK2 REC
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 20
+#
+name: PLAY >
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 21
+#
+name: DECK2 PLAY >
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 21
+#
+name: DECK2 R.PLAY <
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 22
+#
+name: PAUSE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 23
+#
+name: DECK2 PAUSE
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 23
+#
+name: STOP []
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 26
+#
+name: DECK2 STOP []
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 26
+#
+name: COUNTER ZERO RETURN
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 27
+#
+name: NORMAL
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 28
+#
+name: HIGH
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 29
+#
+name: DUAL REC
+type: parsed
+protocol: aiwa
+address: 115.0
+command: 31
+#

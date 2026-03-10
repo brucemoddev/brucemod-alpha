@@ -1,0 +1,963 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TRIGGER A ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 4
+#
+name: 12V TRIGGER A ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 4
+#
+name: TRIGGER A OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 5
+#
+name: 12V TRIGGER A OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 5
+#
+name: TRIGGER B ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 6
+#
+name: 12V TRIGGER B ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 6
+#
+name: 12V TRIGGER C OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 6
+#
+name: 12V TRIGGER C ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 6
+#
+name: TRIGGER B OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 7
+#
+name: 12V TRIGGER B OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 7
+#
+name: TRIGGER C ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 8
+#
+name: 12V TRIGGER C ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 8
+#
+name: TRIGGER C OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 9
+#
+name: 12V TRIGGER C OFF
+type: parsed
+protocol: nec1
+address: 210.2
+command: 9
+#
+name: 12V TRIGGER C ON
+type: parsed
+protocol: nec1
+address: 210.2
+command: 9
+#
+name: MODE: PLXLL MOVIE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 10
+#
+name: MODE PLLX MOVIE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 10
+#
+name: PROLOGICIIX MOVIE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 10
+#
+name: MODE PLIIX MOVIE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 10
+#
+name: PLIIX MOVIE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 10
+#
+name: MODE: PLXLL MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 11
+#
+name: MODE PLLX MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 11
+#
+name: PROLOGICIIX MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 11
+#
+name: MODE PLIIX MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 11
+#
+name: PLIIX MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 11
+#
+name: MODE: PLXLL GAME
+type: parsed
+protocol: nec1
+address: 210.2
+command: 12
+#
+name: MODE PLLX GAME
+type: parsed
+protocol: nec1
+address: 210.2
+command: 12
+#
+name: PROLOGICIIX GAME
+type: parsed
+protocol: nec1
+address: 210.2
+command: 12
+#
+name: MODE PLIIX GAME
+type: parsed
+protocol: nec1
+address: 210.2
+command: 12
+#
+name: PLIIX GAME
+type: parsed
+protocol: nec1
+address: 210.2
+command: 12
+#
+name: MODE:NEO6 CINEMA
+type: parsed
+protocol: nec1
+address: 210.2
+command: 13
+#
+name: MODE NEO6 CINEMA
+type: parsed
+protocol: nec1
+address: 210.2
+command: 13
+#
+name: NEO 6 CINEMA
+type: parsed
+protocol: nec1
+address: 210.2
+command: 13
+#
+name: MODE NEO:6 CINEMA
+type: parsed
+protocol: nec1
+address: 210.2
+command: 13
+#
+name: NEO:6 CINEMA
+type: parsed
+protocol: nec1
+address: 210.2
+command: 13
+#
+name: MODE: NEO6 CINEMA
+type: parsed
+protocol: nec1
+address: 210.2
+command: 13
+#
+name: MODE:NEO6 MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 14
+#
+name: MODE NEO6 MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 14
+#
+name: NEO 6 MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 14
+#
+name: MODE NEO:6 MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 14
+#
+name: NEO:6 MUSIC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 14
+#
+name: MODE: NEO6 MOVIE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 14
+#
+name: LOCK
+type: parsed
+protocol: nec1
+address: 210.2
+command: 20
+#
+name: UNLOCK
+type: parsed
+protocol: nec1
+address: 210.2
+command: 21
+#
+name: TUNING UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 64
+#
+name: TUNE DIRECT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 64
+#
+name: TUNE UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 64
+#
+name: TUNE +
+type: parsed
+protocol: nec1
+address: 210.2
+command: 64
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 64
+#
+name: TUNING DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 65
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 65
+#
+name: TUNE -
+type: parsed
+protocol: nec1
+address: 210.2
+command: 65
+#
+name: TUNE DN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 65
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 65
+#
+name: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 77
+#
+name: TUNE SEARCH MODE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 77
+#
+name: XM SEARCH
+type: parsed
+protocol: nec1
+address: 210.2
+command: 77
+#
+name: STORE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 92
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 210.2
+command: 93
+#
+name: NET FWD
+type: parsed
+protocol: nec1
+address: 210.2
+command: 128
+#
+name: NET/USB FFWD
+type: parsed
+protocol: nec1
+address: 210.2
+command: 128
+#
+name: NET RWD
+type: parsed
+protocol: nec1
+address: 210.2
+command: 129
+#
+name: NET/USB REW
+type: parsed
+protocol: nec1
+address: 210.2
+command: 129
+#
+name: NET/USB RETURN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 134
+#
+name: NET AUDIO
+type: parsed
+protocol: nec1
+address: 210.2
+command: 135
+#
+name: INPUT NET AUDIO
+type: parsed
+protocol: nec1
+address: 210.2
+command: 135
+#
+name: INPUT MUSIC SERVER
+type: parsed
+protocol: nec1
+address: 210.2
+command: 136
+#
+name: MSRV
+type: parsed
+protocol: nec2
+address: 210.2
+command: 136
+#
+name: 
+type: parsed
+protocol: nec2
+address: 210.2
+command: 136
+#
+name: INPUT INTERNET RADIO
+type: parsed
+protocol: nec1
+address: 210.2
+command: 137
+#
+name: IRD
+type: parsed
+protocol: nec2
+address: 210.2
+command: 137
+#
+name: 
+type: parsed
+protocol: nec2
+address: 210.2
+command: 137
+#
+name: NET PLAY
+type: parsed
+protocol: nec1
+address: 210.2
+command: 141
+#
+name: NET/USB PLAY
+type: parsed
+protocol: nec1
+address: 210.2
+command: 141
+#
+name: NET STOP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 142
+#
+name: NET/USB STOP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 142
+#
+name: NET TRACK +
+type: parsed
+protocol: nec1
+address: 210.2
+command: 143
+#
+name: NET/USB TRACK +
+type: parsed
+protocol: nec1
+address: 210.2
+command: 143
+#
+name: NET TRACK -
+type: parsed
+protocol: nec1
+address: 210.2
+command: 144
+#
+name: NET/USB TRACK -
+type: parsed
+protocol: nec1
+address: 210.2
+command: 144
+#
+name: NET PAUSE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 145
+#
+name: NET/USB PAUSE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 145
+#
+name: NET/USB REPEAT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 146
+#
+name: NET/USB MENU
+type: parsed
+protocol: nec1
+address: 210.2
+command: 148
+#
+name: NET/USB TOP MENU
+type: parsed
+protocol: nec1
+address: 210.2
+command: 149
+#
+name: NET/USB RANDOM
+type: parsed
+protocol: nec1
+address: 210.2
+command: 155
+#
+name: NET/USB DISPLAY
+type: parsed
+protocol: nec1
+address: 210.2
+command: 158
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 210.2
+command: 158
+#
+name: NET/USB SETUP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 159
+#
+name: NET UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 192
+#
+name: NET/USB UP
+type: parsed
+protocol: nec1
+address: 210.2
+command: 192
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 210.2
+command: 192
+#
+name: NET DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 193
+#
+name: NET/USB DOWN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 193
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 210.2
+command: 193
+#
+name: NET LEFT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 194
+#
+name: NET/USB LEFT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 194
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 210.2
+command: 194
+#
+name: NET RIGHT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 195
+#
+name: NET/USB RIGHT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 195
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 210.2
+command: 195
+#
+name: NET ENTER
+type: parsed
+protocol: nec1
+address: 210.2
+command: 196
+#
+name: NET/USB SELECT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 196
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 210.2
+command: 196
+#
+name: NET/USB CAPS
+type: parsed
+protocol: nec1
+address: 210.2
+command: 208
+#
+name: NET/USB DELETE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 209
+#
+name: FM MODE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 211
+#
+name: DISC
+type: parsed
+protocol: nec1
+address: 210.2
+command: 212
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.2
+command: 213
+#
+name: NET/USB 1
+type: parsed
+protocol: nec1
+address: 210.2
+command: 213
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 213
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 210.2
+command: 213
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.2
+command: 214
+#
+name: NET/USB 2
+type: parsed
+protocol: nec1
+address: 210.2
+command: 214
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 214
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 210.2
+command: 214
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.2
+command: 215
+#
+name: NET/USB 3
+type: parsed
+protocol: nec1
+address: 210.2
+command: 215
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 215
+#
+name: 13
+type: parsed
+protocol: nec1
+address: 210.2
+command: 215
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.2
+command: 216
+#
+name: NET/USB 4
+type: parsed
+protocol: nec1
+address: 210.2
+command: 216
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 216
+#
+name: 14
+type: parsed
+protocol: nec1
+address: 210.2
+command: 216
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.2
+command: 217
+#
+name: NET/USB 5
+type: parsed
+protocol: nec1
+address: 210.2
+command: 217
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 217
+#
+name: 15
+type: parsed
+protocol: nec1
+address: 210.2
+command: 217
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.2
+command: 218
+#
+name: NET/USB 6
+type: parsed
+protocol: nec1
+address: 210.2
+command: 218
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 218
+#
+name: 16
+type: parsed
+protocol: nec1
+address: 210.2
+command: 218
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.2
+command: 219
+#
+name: NET/USB 7
+type: parsed
+protocol: nec1
+address: 210.2
+command: 219
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 219
+#
+name: 17
+type: parsed
+protocol: nec1
+address: 210.2
+command: 219
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.2
+command: 220
+#
+name: NET/USB 8
+type: parsed
+protocol: nec1
+address: 210.2
+command: 220
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 220
+#
+name: 18
+type: parsed
+protocol: nec1
+address: 210.2
+command: 220
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.2
+command: 221
+#
+name: NET/USB 9
+type: parsed
+protocol: nec1
+address: 210.2
+command: 221
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 221
+#
+name: 19
+type: parsed
+protocol: nec1
+address: 210.2
+command: 221
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 210.2
+command: 222
+#
+name: 0/10
+type: parsed
+protocol: nec1
+address: 210.2
+command: 222
+#
+name: NET/USB 0
+type: parsed
+protocol: nec1
+address: 210.2
+command: 222
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 222
+#
+name: 0 / 10
+type: parsed
+protocol: nec1
+address: 210.2
+command: 222
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 210.2
+command: 222
+#
+name: DIRECT ACCESS
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: TUNE DIRECT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: DIRECT TUNING
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: DIRECT TUNE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: D-TUNE
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: 0/10
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#
+name: D. TUN
+type: parsed
+protocol: nec1
+address: 210.2
+command: 223
+#

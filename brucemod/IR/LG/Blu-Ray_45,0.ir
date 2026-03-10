@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 45.0
+command: 48
+#
+name: eject
+type: parsed
+protocol: nec2
+address: 45.0
+command: 54
+#
+name: Pause
+type: parsed
+protocol: nec2
+address: 45.0
+command: 56
+#
+name: Play
+type: parsed
+protocol: nec2
+address: 45.0
+command: 49
+#
+name: Stop
+type: parsed
+protocol: nec2
+address: 45.0
+command: 57
+#
+name: forward
+type: parsed
+protocol: nec2
+address: 45.0
+command: 51
+#
+name: BACKWARD
+type: parsed
+protocol: nec2
+address: 45.0
+command: 50
+#
+name: CHPTR_NEXT
+type: parsed
+protocol: nec2
+address: 45.0
+command: 52
+#
+name: CHPTER_BACK
+type: parsed
+protocol: nec2
+address: 45.0
+command: 53
+#
+name: TITLE_POPUP
+type: parsed
+protocol: nec2
+address: 45.0
+command: 74
+#
+name: INFO_MENU
+type: parsed
+protocol: nec2
+address: 45.0
+command: 58
+#
+name: home
+type: parsed
+protocol: nec2
+address: 45.0
+command: 103
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 45.0
+command: 71
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 45.0
+command: 72
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 45.0
+command: 89
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 45.0
+command: 90
+#
+name: enter
+type: parsed
+protocol: nec2
+address: 45.0
+command: 88
+#
+name: disc_menu
+type: parsed
+protocol: nec2
+address: 45.0
+command: 75
+#

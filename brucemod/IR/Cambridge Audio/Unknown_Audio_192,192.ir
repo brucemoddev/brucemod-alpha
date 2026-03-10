@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_SETUP
+type: parsed
+protocol: necx1
+address: 192.192
+command: 1
+#
+name: PLII_NEO6
+type: parsed
+protocol: necx1
+address: 192.192
+command: 2
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 192.192
+command: 3
+#
+name: DISPLAY
+type: parsed
+protocol: necx1
+address: 192.192
+command: 4
+#
+name: KEY_LEFT
+type: parsed
+protocol: necx1
+address: 192.192
+command: 6
+#
+name: TEST_TONE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 7
+#
+name: DSP_MODE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 9
+#
+name: BASS_TREBLE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 192.192
+command: 12
+#
+name: CH_SELECT
+type: parsed
+protocol: necx1
+address: 192.192
+command: 13
+#
+name: STEREO_MONO
+type: parsed
+protocol: necx1
+address: 192.192
+command: 14
+#
+name: X_KEY_1_DIRECT
+type: parsed
+protocol: necx1
+address: 192.192
+command: 15
+#
+name: I-O
+type: parsed
+protocol: necx1
+address: 192.192
+command: 17
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 18
+#
+name: DYNAMIC
+type: parsed
+protocol: necx1
+address: 192.192
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 20
+#
+name: KEY_RIGHT
+type: parsed
+protocol: necx1
+address: 192.192
+command: 21
+#
+name: PTY
+type: parsed
+protocol: necx1
+address: 192.192
+command: 22
+#
+name: DDEX_DTSES
+type: parsed
+protocol: necx1
+address: 192.192
+command: 23
+#
+name: STEREO
+type: parsed
+protocol: necx1
+address: 192.192
+command: 26
+#
+name: APS
+type: parsed
+protocol: necx1
+address: 192.192
+command: 27
+#
+name: TUNER_AM_FM
+type: parsed
+protocol: necx1
+address: 192.192
+command: 28
+#
+name: STORE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 29
+#
+name: KEY_MODE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 30
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 192.192
+command: 31
+#
+name: LFE_TRIM
+type: parsed
+protocol: necx1
+address: 192.192
+command: 32
+#
+name: KEY_OK
+type: parsed
+protocol: necx1
+address: 192.192
+command: 33
+#
+name: KEY_DVD
+type: parsed
+protocol: necx1
+address: 192.192
+command: 34
+#
+name: KEY_VIDEO
+type: parsed
+protocol: necx1
+address: 192.192
+command: 35
+#
+name: X_KEY_VIDEO2
+type: parsed
+protocol: necx1
+address: 192.192
+command: 36
+#
+name: X_KEY_VIDEO3
+type: parsed
+protocol: necx1
+address: 192.192
+command: 37
+#
+name: TAPE_MD_CDR
+type: parsed
+protocol: necx1
+address: 192.192
+command: 38
+#
+name: CD_AUX
+type: parsed
+protocol: necx1
+address: 192.192
+command: 39
+#
+name: INPUT_MODE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 96
+#
+name: DELAY
+type: parsed
+protocol: necx1
+address: 192.192
+command: 160
+#

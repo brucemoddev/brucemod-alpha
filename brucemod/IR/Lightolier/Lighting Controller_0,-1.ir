@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SCENE A
+type: parsed
+protocol: denon
+address: 0
+command: 1
+#
+name: SCENE B
+type: parsed
+protocol: denon
+address: 0
+command: 3
+#
+name: SCENE C
+type: parsed
+protocol: denon
+address: 0
+command: 5
+#
+name: SCENE D
+type: parsed
+protocol: denon
+address: 0
+command: 7
+#
+name: OFF
+type: parsed
+protocol: denon
+address: 0
+command: 33
+#

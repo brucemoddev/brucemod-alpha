@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 130.110
+command: 1
+#
+name: SAT/TV
+type: parsed
+protocol: nec1
+address: 130.110
+command: 2
+#
+name: M
+type: parsed
+protocol: nec1
+address: 130.110
+command: 3
+#
+name: TI
+type: parsed
+protocol: nec1
+address: 130.110
+command: 4
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 130.110
+command: 5
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 130.110
+command: 6
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 130.110
+command: 7
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 130.110
+command: 7
+#
+name: MESG
+type: parsed
+protocol: nec1
+address: 130.110
+command: 8
+#
+name: TEXT
+type: parsed
+protocol: nec1
+address: 130.110
+command: 9
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 130.110
+command: 10
+#
+name: SET UP
+type: parsed
+protocol: nec1
+address: 130.110
+command: 12
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 130.110
+command: 13
+#
+name: VIEW
+type: parsed
+protocol: nec1
+address: 130.110
+command: 14
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 130.110
+command: 15
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 130.110
+command: 15
+#
+name: 2 (T)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 16
+#
+name: 2 T
+type: parsed
+protocol: nec1
+address: 130.110
+command: 16
+#
+name: 1 (G)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 17
+#
+name: 1 G
+type: parsed
+protocol: nec1
+address: 130.110
+command: 17
+#
+name: 3 (F)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 18
+#
+name: 3 F
+type: parsed
+protocol: nec1
+address: 130.110
+command: 18
+#
+name: CH ^
+type: parsed
+protocol: nec1
+address: 130.110
+command: 19
+#
+name: CHANNEL ^
+type: parsed
+protocol: nec1
+address: 130.110
+command: 19
+#
+name: 5 (W)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 20
+#
+name: 5 W
+type: parsed
+protocol: nec1
+address: 130.110
+command: 20
+#
+name: 4 (A)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 21
+#
+name: 4 A
+type: parsed
+protocol: nec1
+address: 130.110
+command: 21
+#
+name: 6 (C)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 22
+#
+name: 6 C
+type: parsed
+protocol: nec1
+address: 130.110
+command: 22
+#
+name: 8 (R)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 24
+#
+name: 8 R
+type: parsed
+protocol: nec1
+address: 130.110
+command: 24
+#
+name: 7 (S)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 25
+#
+name: 7 S
+type: parsed
+protocol: nec1
+address: 130.110
+command: 25
+#
+name: 9 (K)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 26
+#
+name: 9 K
+type: parsed
+protocol: nec1
+address: 130.110
+command: 26
+#
+name: CH V
+type: parsed
+protocol: nec1
+address: 130.110
+command: 27
+#
+name: CHANNEL V
+type: parsed
+protocol: nec1
+address: 130.110
+command: 27
+#
+name: 0 (B)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 28
+#
+name: 0 B
+type: parsed
+protocol: nec1
+address: 130.110
+command: 28
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 130.110
+command: 29
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 130.110
+command: 30
+#
+name: ENTR
+type: parsed
+protocol: nec1
+address: 130.110
+command: 64
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 130.110
+command: 64
+#
+name: ^ (UP)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 68
+#
+name: UP ^
+type: parsed
+protocol: nec1
+address: 130.110
+command: 68
+#
+name: < (LEFT)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 72
+#
+name: LEFT <
+type: parsed
+protocol: nec1
+address: 130.110
+command: 72
+#
+name: V (DOWN)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 76
+#
+name: DOWN V
+type: parsed
+protocol: nec1
+address: 130.110
+command: 76
+#
+name: > (RIGHT)
+type: parsed
+protocol: nec1
+address: 130.110
+command: 80
+#
+name: RIGHT >
+type: parsed
+protocol: nec1
+address: 130.110
+command: 80
+#
+name: LAST
+type: parsed
+protocol: nec1
+address: 130.110
+command: 84
+#
+name: CNCL
+type: parsed
+protocol: nec1
+address: 130.110
+command: 88
+#

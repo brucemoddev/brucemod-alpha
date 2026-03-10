@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 184
+command: 8
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 184
+command: 13
+#
+name: TEST TONE
+type: parsed
+protocol: nec1
+address: 184
+command: 86
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 184
+command: 128
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 184
+command: 129
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 184
+command: 130
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 184
+command: 131
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 184
+command: 132
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 184
+command: 133
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 184
+command: 134
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 184
+command: 135
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 184
+command: 136
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 184
+command: 137
+#
+name: P.CALL V
+type: parsed
+protocol: nec1
+address: 184
+command: 140
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 184
+command: 143
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 184
+command: 149
+#
+name: P.CALL ^
+type: parsed
+protocol: nec1
+address: 184
+command: 153
+#
+name: VOLUME CTRL V
+type: parsed
+protocol: nec1
+address: 184
+command: 154
+#
+name: VOLUME CTRL ^
+type: parsed
+protocol: nec1
+address: 184
+command: 155
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 184
+command: 156
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 184
+command: 157
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 201
+#
+name: CD PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 184
+command: 203
+#
+name: CD <<
+type: parsed
+protocol: nec1
+address: 184
+command: 206
+#
+name: CD >>
+type: parsed
+protocol: nec1
+address: 184
+command: 207
+#
+name: TAPEA REV PLAY <
+type: parsed
+protocol: nec1
+address: 184
+command: 208
+#
+name: TAPEA PLAY >
+type: parsed
+protocol: nec1
+address: 184
+command: 209
+#
+name: TAPEA <<
+type: parsed
+protocol: nec1
+address: 184
+command: 210
+#
+name: TAPEA >>
+type: parsed
+protocol: nec1
+address: 184
+command: 211
+#
+name: TAPEA STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 213
+#
+name: TAPEA REC
+type: parsed
+protocol: nec1
+address: 184
+command: 214
+#
+name: BYPASS
+type: parsed
+protocol: nec1
+address: 184
+command: 215
+#
+name: TAPEB REV PLAY <
+type: parsed
+protocol: nec1
+address: 184
+command: 216
+#
+name: TAPEB PLAY >
+type: parsed
+protocol: nec1
+address: 184
+command: 217
+#
+name: TAPEB <<
+type: parsed
+protocol: nec1
+address: 184
+command: 218
+#
+name: TAPEB >>
+type: parsed
+protocol: nec1
+address: 184
+command: 219
+#
+name: TAPEB STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 221
+#
+name: TAPEB REC
+type: parsed
+protocol: nec1
+address: 184
+command: 222
+#
+name: SURR.MODE
+type: parsed
+protocol: nec1
+address: 184
+command: 223
+#

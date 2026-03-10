@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 202.20
+command: 9
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 202.20
+command: 11
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 202.20
+command: 13
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 202.20
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 202.20
+command: 15
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 202.20
+command: 17
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 202.20
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 202.20
+command: 19
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 202.20
+command: 21
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 202.20
+command: 22
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 202.20
+command: 23
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 202.20
+command: 25
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 202.20
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 202.20
+command: 27
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 202.20
+command: 29
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 202.20
+command: 31
+#

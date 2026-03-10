@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_SAT
+type: parsed
+protocol: rc5
+address: 16
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: KEY_DVD
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: KEY_TAPE
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: KEY_VCR
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: KEY_CD
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: KEY_AUX
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: silent
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: KEY_MODE
+type: parsed
+protocol: rc5
+address: 16
+command: 32
+#
+name: trim
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 16
+command: 42
+#
+name: am
+type: parsed
+protocol: rc5
+address: 16
+command: 52
+#
+name: KEY_RADIO
+type: parsed
+protocol: rc5
+address: 16
+command: 53
+#
+name: t-mode
+type: parsed
+protocol: rc5
+address: 16
+command: 54
+#
+name: KEY_INFO
+type: parsed
+protocol: rc5
+address: 16
+command: 55
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 57
+#
+name: dyn
+type: parsed
+protocol: rc5
+address: 16
+command: 62
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 80
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 81
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 85
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 16
+command: 86
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 16
+command: 87
+#
+name: test
+type: parsed
+protocol: rc5
+address: 16
+command: 88
+#

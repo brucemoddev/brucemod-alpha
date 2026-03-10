@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER - 5
+type: parsed
+protocol: rc5
+address: 26
+command: 16
+#
+name: POWER - 6A
+type: parsed
+protocol: rc6
+address: 26
+command: 16
+#
+name: STOP - 5
+type: parsed
+protocol: rc5
+address: 26
+command: 19
+#
+name: STOP - 6A
+type: parsed
+protocol: rc6
+address: 26
+command: 19
+#
+name: OPEN/CLOSE - 5
+type: parsed
+protocol: rc5
+address: 26
+command: 20
+#
+name: OPEN/CLOSE - 6A
+type: parsed
+protocol: rc6
+address: 26
+command: 20
+#
+name: PLAY - 5
+type: parsed
+protocol: rc5
+address: 26
+command: 28
+#
+name: PLAY - 6A
+type: parsed
+protocol: rc6
+address: 26
+command: 28
+#

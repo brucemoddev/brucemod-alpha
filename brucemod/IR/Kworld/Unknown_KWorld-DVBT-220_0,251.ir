@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.251
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.251
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.251
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.251
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.251
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.251
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.251
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.251
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.251
+command: 8
+#
+name: numpad_up
+type: parsed
+protocol: nec
+address: 0.251
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.251
+command: 10
+#
+name: numpad_enter
+type: parsed
+protocol: nec
+address: 0.251
+command: 11
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.251
+command: 12
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 0.251
+command: 13
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 0.251
+command: 14
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.251
+command: 16
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.251
+command: 17
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.251
+command: 18
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.251
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.251
+command: 20
+#
+name: stereo
+type: parsed
+protocol: nec
+address: 0.251
+command: 21
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 0.251
+command: 22
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 0.251
+command: 23
+#
+name: min
+type: parsed
+protocol: nec
+address: 0.251
+command: 24
+#
+name: timeshift
+type: parsed
+protocol: nec
+address: 0.251
+command: 25
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.251
+command: 26
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 0.251
+command: 27
+#
+name: snap
+type: parsed
+protocol: nec
+address: 0.251
+command: 28
+#
+name: shut_down
+type: parsed
+protocol: nec
+address: 0.251
+command: 29
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0.251
+command: 30
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.251
+command: 31
+#
+name: scan_rev
+type: parsed
+protocol: nec
+address: 0.251
+command: 64
+#
+name: scan_fwd
+type: parsed
+protocol: nec
+address: 0.251
+command: 65
+#
+name: chapter_rev
+type: parsed
+protocol: nec
+address: 0.251
+command: 66
+#
+name: chapter_fwd
+type: parsed
+protocol: nec
+address: 0.251
+command: 67
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 0.251
+command: 68
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.251
+command: 69
+#
+name: fun1
+type: parsed
+protocol: nec
+address: 0.251
+command: 72
+#
+name: fun2
+type: parsed
+protocol: nec
+address: 0.251
+command: 73
+#
+name: fun3
+type: parsed
+protocol: nec
+address: 0.251
+command: 74
+#
+name: fun4
+type: parsed
+protocol: nec
+address: 0.251
+command: 75
+#

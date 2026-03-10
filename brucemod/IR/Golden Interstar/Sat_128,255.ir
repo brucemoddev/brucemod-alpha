@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec
+address: 128.255
+command: 89
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 128.255
+command: 13
+#
+name: REC
+type: parsed
+protocol: nec
+address: 128.255
+command: 89
+#
+name: GOTO
+type: parsed
+protocol: nec
+address: 128.255
+command: 94
+#
+name: ASPECT
+type: parsed
+protocol: nec
+address: 128.255
+command: 12
+#
+name: V.FORMAT
+type: parsed
+protocol: nec
+address: 128.255
+command: 65
+#
+name: REWIND
+type: parsed
+protocol: nec
+address: 128.255
+command: 68
+#
+name: FFWD
+type: parsed
+protocol: nec
+address: 128.255
+command: 69
+#
+name: NEXT
+type: parsed
+protocol: nec
+address: 128.255
+command: 70
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 128.255
+command: 71
+#
+name: TTX/RED
+type: parsed
+protocol: nec
+address: 128.255
+command: 5
+#
+name: SUB.T/GREEN
+type: parsed
+protocol: nec
+address: 128.255
+command: 9
+#
+name: ZOOM/YELLOW
+type: parsed
+protocol: nec
+address: 128.255
+command: 66
+#
+name: OPTION/BLUE
+type: parsed
+protocol: nec
+address: 128.255
+command: 67
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 128.255
+command: 4
+#
+name: FAV
+type: parsed
+protocol: nec
+address: 128.255
+command: 27
+#
+name: UP/CH+
+type: parsed
+protocol: nec
+address: 128.255
+command: 0
+#
+name: DOWN/CH-
+type: parsed
+protocol: nec
+address: 128.255
+command: 1
+#
+name: LEFT/VOL-
+type: parsed
+protocol: nec
+address: 128.255
+command: 3
+#
+name: RIGHT/VOL+
+type: parsed
+protocol: nec
+address: 128.255
+command: 2
+#
+name: OK
+type: parsed
+protocol: nec
+address: 128.255
+command: 31
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 128.255
+command: 26
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 128.255
+command: 28
+#
+name: VOL+
+type: parsed
+protocol: nec
+address: 128.255
+command: 88
+#
+name: VOL-
+type: parsed
+protocol: nec
+address: 128.255
+command: 93
+#
+name: SAT
+type: parsed
+protocol: nec
+address: 128.255
+command: 30
+#
+name: EPG
+type: parsed
+protocol: nec
+address: 128.255
+command: 64
+#
+name: PAGE+
+type: parsed
+protocol: nec
+address: 128.255
+command: 90
+#
+name: PAGE-
+type: parsed
+protocol: nec
+address: 128.255
+command: 95
+#
+name: 1
+type: parsed
+protocol: nec
+address: 128.255
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec
+address: 128.255
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec
+address: 128.255
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec
+address: 128.255
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec
+address: 128.255
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec
+address: 128.255
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec
+address: 128.255
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec
+address: 128.255
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec
+address: 128.255
+command: 25
+#
+name: FIND
+type: parsed
+protocol: nec
+address: 128.255
+command: 101
+#
+name: 0
+type: parsed
+protocol: nec
+address: 128.255
+command: 16
+#
+name: MP
+type: parsed
+protocol: nec
+address: 128.255
+command: 7
+#

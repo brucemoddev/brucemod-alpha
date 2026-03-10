@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 48
+#
+name: KEY_PLAY
+type: parsed
+protocol: necx1
+address: 45.45
+command: 49
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: necx1
+address: 45.45
+command: 52
+#
+name: KEY_REWIND
+type: parsed
+protocol: necx1
+address: 45.45
+command: 53
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: necx1
+address: 45.45
+command: 54
+#
+name: Freeze
+type: parsed
+protocol: necx1
+address: 45.45
+command: 55
+#
+name: KEY_PAUSE
+type: parsed
+protocol: necx1
+address: 45.45
+command: 56
+#
+name: KEY_STOP
+type: parsed
+protocol: necx1
+address: 45.45
+command: 57
+#
+name: Display
+type: parsed
+protocol: necx1
+address: 45.45
+command: 58
+#
+name: KEY_1
+type: parsed
+protocol: necx1
+address: 45.45
+command: 59
+#
+name: KEY_2
+type: parsed
+protocol: necx1
+address: 45.45
+command: 60
+#
+name: KEY_3
+type: parsed
+protocol: necx1
+address: 45.45
+command: 61
+#
+name: KEY_4
+type: parsed
+protocol: necx1
+address: 45.45
+command: 62
+#
+name: KEY_5
+type: parsed
+protocol: necx1
+address: 45.45
+command: 63
+#
+name: KEY_6
+type: parsed
+protocol: necx1
+address: 45.45
+command: 64
+#
+name: KEY_7
+type: parsed
+protocol: necx1
+address: 45.45
+command: 65
+#
+name: KEY_8
+type: parsed
+protocol: necx1
+address: 45.45
+command: 66
+#
+name: KEY_9
+type: parsed
+protocol: necx1
+address: 45.45
+command: 67
+#
+name: KEY_0
+type: parsed
+protocol: necx1
+address: 45.45
+command: 68
+#
+name: KEY_OK
+type: parsed
+protocol: necx1
+address: 45.45
+command: 69
+#
+name: KEY_CLEAR
+type: parsed
+protocol: necx1
+address: 45.45
+command: 70
+#
+name: KEY_UP
+type: parsed
+protocol: necx1
+address: 45.45
+command: 71
+#
+name: KEY_DOWN
+type: parsed
+protocol: necx1
+address: 45.45
+command: 72
+#
+name: KEY_TITLE
+type: parsed
+protocol: necx1
+address: 45.45
+command: 74
+#
+name: KEY_MENU
+type: parsed
+protocol: necx1
+address: 45.45
+command: 75
+#
+name: KEY_ANGLE
+type: parsed
+protocol: necx1
+address: 45.45
+command: 76
+#
+name: KEY_AUDIO
+type: parsed
+protocol: necx1
+address: 45.45
+command: 79
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: necx1
+address: 45.45
+command: 80
+#
+name: Random
+type: parsed
+protocol: necx1
+address: 45.45
+command: 81
+#
+name: KEY_AGAIN
+type: parsed
+protocol: necx1
+address: 45.45
+command: 83
+#
+name: A-B
+type: parsed
+protocol: necx1
+address: 45.45
+command: 85
+#
+name: KEY_SETUP
+type: parsed
+protocol: necx1
+address: 45.45
+command: 86
+#
+name: Program
+type: parsed
+protocol: necx1
+address: 45.45
+command: 87
+#
+name: KEY_SELECT
+type: parsed
+protocol: necx1
+address: 45.45
+command: 88
+#
+name: KEY_LEFT
+type: parsed
+protocol: necx1
+address: 45.45
+command: 89
+#
+name: KEY_RIGHT
+type: parsed
+protocol: necx1
+address: 45.45
+command: 90
+#
+name: Freeze_Back
+type: parsed
+protocol: necx1
+address: 45.45
+command: 96
+#
+name: Marker
+type: parsed
+protocol: necx1
+address: 45.45
+command: 97
+#
+name: KEY_SEARCH
+type: parsed
+protocol: necx1
+address: 45.45
+command: 98
+#
+name: KEY_ZOOM
+type: parsed
+protocol: necx1
+address: 45.45
+command: 100
+#

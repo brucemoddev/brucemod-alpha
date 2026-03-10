@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44
+command: 30
+#
+name: v_up
+type: parsed
+protocol: nec2
+address: 44
+command: 23
+#
+name: V_DWN
+type: parsed
+protocol: nec2
+address: 44
+command: 22
+#
+name: Function
+type: parsed
+protocol: nec2
+address: 44
+command: 138
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44
+command: 31
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec2
+address: 44
+command: 79
+#
+name: skipforward
+type: parsed
+protocol: nec2
+address: 44
+command: 7
+#
+name: SKIP BACK
+type: parsed
+protocol: nec2
+address: 44
+command: 6
+#
+name: soundEffect
+type: parsed
+protocol: nec2
+address: 44
+command: 47
+#
+name: Eq
+type: parsed
+protocol: nec2
+address: 44
+command: 152
+#
+name: AV_SYNC
+type: parsed
+protocol: nec2
+address: 44
+command: 217
+#
+name: AUTOVOL
+type: parsed
+protocol: nec2
+address: 44
+command: 28
+#
+name: AUTO_POWER
+type: parsed
+protocol: nec2
+address: 44
+command: 147
+#
+name: Info
+type: parsed
+protocol: nec2
+address: 44
+command: 163
+#

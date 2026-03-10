@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 134.97
+command: 0
+#
+name: discskip
+type: parsed
+protocol: nec
+address: 134.97
+command: 2
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 134.97
+command: 4
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 134.97
+command: 5
+#
+name: shuffle
+type: parsed
+protocol: nec
+address: 134.97
+command: 6
+#
+name: introcheck
+type: parsed
+protocol: nec
+address: 134.97
+command: 7
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 134.97
+command: 8
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 134.97
+command: 9
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 134.97
+command: 10
+#
+name: memory
+type: parsed
+protocol: nec
+address: 134.97
+command: 11
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 134.97
+command: 12
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 134.97
+command: 13
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 134.97
+command: 14
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 134.97
+command: 15
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 134.97
+command: 16
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 134.97
+command: 17
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 134.97
+command: 18
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 134.97
+command: 19
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 134.97
+command: 20
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 134.97
+command: 21
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 134.97
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 134.97
+command: 23
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 134.97
+command: 24
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 134.97
+command: 25
+#
+name: memorycheck
+type: parsed
+protocol: nec
+address: 134.97
+command: 26
+#
+name: disc1
+type: parsed
+protocol: nec
+address: 134.97
+command: 27
+#
+name: disc2
+type: parsed
+protocol: nec
+address: 134.97
+command: 28
+#
+name: disc3
+type: parsed
+protocol: nec
+address: 134.97
+command: 29
+#
+name: disc4
+type: parsed
+protocol: nec
+address: 134.97
+command: 30
+#
+name: disc5
+type: parsed
+protocol: nec
+address: 134.97
+command: 31
+#

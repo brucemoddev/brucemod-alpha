@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: barco
+address: 0
+command: 1
+#
+name: MIXED
+type: parsed
+protocol: barco
+address: 0
+command: 13
+#
+name: 1
+type: parsed
+protocol: barco
+address: 0
+command: 16
+#
+name: 2
+type: parsed
+protocol: barco
+address: 0
+command: 17
+#
+name: 3
+type: parsed
+protocol: barco
+address: 0
+command: 18
+#
+name: 4
+type: parsed
+protocol: barco
+address: 0
+command: 19
+#
+name: 5
+type: parsed
+protocol: barco
+address: 0
+command: 20
+#
+name: 6
+type: parsed
+protocol: barco
+address: 0
+command: 21
+#
+name: 7
+type: parsed
+protocol: barco
+address: 0
+command: 22
+#
+name: 8
+type: parsed
+protocol: barco
+address: 0
+command: 23
+#
+name: 9
+type: parsed
+protocol: barco
+address: 0
+command: 24
+#
+name: 0
+type: parsed
+protocol: barco
+address: 0
+command: 25
+#
+name: TEXT
+type: parsed
+protocol: barco
+address: 0
+command: 32
+#
+name: TIME
+type: parsed
+protocol: barco
+address: 0
+command: 33
+#
+name: 1-
+type: parsed
+protocol: barco
+address: 0
+command: 34
+#
+name: 2-
+type: parsed
+protocol: barco
+address: 0
+command: 35
+#

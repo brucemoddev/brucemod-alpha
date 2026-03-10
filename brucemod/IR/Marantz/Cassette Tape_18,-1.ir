@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: rc5
+address: 18
+command: 42
+#
+name: DECK A
+type: parsed
+protocol: rc5
+address: 18
+command: 44
+#
+name: TAPE 1
+type: parsed
+protocol: rc5
+address: 18
+command: 44
+#
+name: DECK B
+type: parsed
+protocol: rc5
+address: 18
+command: 46
+#
+name: TAPE 2
+type: parsed
+protocol: rc5
+address: 18
+command: 46
+#
+name: REVERSE PLAY
+type: parsed
+protocol: rc5
+address: 18
+command: 47
+#
+name: RECALL
+type: parsed
+protocol: rc5
+address: 18
+command: 47
+#
+name: REC PAUSE
+type: parsed
+protocol: rc5
+address: 18
+command: 48
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 18
+command: 48
+#
+name: REW
+type: parsed
+protocol: rc5
+address: 18
+command: 50
+#
+name: SEARCH <<
+type: parsed
+protocol: rc5
+address: 18
+command: 50
+#
+name: FF
+type: parsed
+protocol: rc5
+address: 18
+command: 52
+#
+name: SEARCH >>
+type: parsed
+protocol: rc5
+address: 18
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 18
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 18
+command: 54
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 18
+command: 55
+#

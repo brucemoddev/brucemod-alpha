@@ -1,0 +1,14997 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SCENE 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 0
+#
+name: SYS MEM 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 0
+#
+name: SYS MEM 1 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 0
+#
+name: SCENE: BD/DVD
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 0
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 0
+#
+name: SCENE BD/DVD
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 0
+#
+name: TAPE PLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 0
+#
+name: MZ: SYSM RC/SV 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 0
+#
+name: SYS MEM 1 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 1
+#
+name: TAPE REW
+type: parsed
+protocol: nec1
+address: 122
+command: 1
+#
+name: Z2: SYSM REC/SV 1
+type: parsed
+protocol: nec1
+address: 122
+command: 1
+#
+name: SYS MEM 1 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 2
+#
+name: TAPE FF
+type: parsed
+protocol: nec1
+address: 122
+command: 2
+#
+name: Z3: SYSM REC/SV 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 2
+#
+name: SCENE 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 3
+#
+name: SYS MEM 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 3
+#
+name: SYS MEM 2 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 3
+#
+name: SCENE: TV
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 3
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 3
+#
+name: SCENE TV
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 3
+#
+name: TAPE STOP
+type: parsed
+protocol: nec1
+address: 122
+command: 3
+#
+name: MZ: SYSM RE/SV 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 3
+#
+name: SYS MEM 2 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 4
+#
+name: TAPE REC/PAUSE
+type: parsed
+protocol: nec1
+address: 122
+command: 4
+#
+name: Z2: SYSM REC/SV 2
+type: parsed
+protocol: nec1
+address: 122
+command: 4
+#
+name: SYS MEM 2 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 5
+#
+name: TAPE REC MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 5
+#
+name: Z3: SYSM REC/SV 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 5
+#
+name: A/B
+type: parsed
+protocol: nec1
+address: 122
+command: 6
+#
+name: SCENE 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 6
+#
+name: SYS MEM 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 6
+#
+name: SYS MEM 3 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 6
+#
+name: SCENE: CD
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 6
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 6
+#
+name: SCENE CD
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 6
+#
+name: TAPE DECK A/B
+type: parsed
+protocol: nec1
+address: 122
+command: 6
+#
+name: MZ: SYSM RE/SV 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 6
+#
+name: DIR A
+type: parsed
+protocol: nec1
+address: 122
+command: 7
+#
+name: SYS MEM 3 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 7
+#
+name: TAPE DIR A
+type: parsed
+protocol: nec1
+address: 122
+command: 7
+#
+name: Z2: SYSM REC/SV 3
+type: parsed
+protocol: nec1
+address: 122
+command: 7
+#
+name: SYS MEM 3 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 8
+#
+name: CD PLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 8
+#
+name: Z3: SYSM REC/SV 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 8
+#
+name: SCENE 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 9
+#
+name: SYS MEM 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 9
+#
+name: SYS MEM 4 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 9
+#
+name: SCENE: RADIO
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 9
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 9
+#
+name: SCENE RADIO
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 9
+#
+name: CD PAUSE/STOP
+type: parsed
+protocol: nec1
+address: 122
+command: 9
+#
+name: MZ: SYSM RE/SV 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 9
+#
+name: SYS MEM 4 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 10
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 122
+command: 10
+#
+name: Z2: SYSM REC/SV 4
+type: parsed
+protocol: nec1
+address: 122
+command: 10
+#
+name: SYS MEM 4 TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 11
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 122
+command: 11
+#
+name: Z3: SYSM REC/SV 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 11
+#
+name: CD SEARCH >>
+type: parsed
+protocol: nec1
+address: 122
+command: 12
+#
+name: CD SEARCH <<
+type: parsed
+protocol: nec1
+address: 122
+command: 13
+#
+name: SELECT VCR-1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUR VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUT VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUT: VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUT: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUT VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: MZ: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: VCR-1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: MZ IN: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUT VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INPUT: VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: MAIN: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: INP VCR1(VCR)
+type: parsed
+protocol: nec2
+address: 122
+command: 15
+#
+name: MZ: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: MZ INP: VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: MZ INP: VCR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 15
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: PRESET >
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: PRESET/CH. UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: PRESET UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER PRESET +
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER PRESET CH UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: PRESET NO. +
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER: PRES (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER: PRESET NO (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 16
+#
+name: TUNER +
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER: PRESET CH +
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: PRESET CH. UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: NAV UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER:TUNE/PST NO UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 16
+#
+name: TUNER: PRESET UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER: PRESET (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUN PRES/CH UP
+type: parsed
+protocol: nec2
+address: 122
+command: 16
+#
+name: TUNER PRESET
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 16
+#
+name: TUNER: UP
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 16
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET --
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET <
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET/ CH. DN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET DOWN
+type: parsed
+protocol: pioneer
+address: 122
+command: 17
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER PRESET -
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER PRESET CH DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET NO. -
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER: PRES (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER: PRESET NO (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 17
+#
+name: TUNER -
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER: PRESET CH -
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: PRESET CH. DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: NAV DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER:TUNE/PST NO DN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 17
+#
+name: PRESET DN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER: PRESET (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUN PRES/CH DN
+type: parsed
+protocol: nec2
+address: 122
+command: 17
+#
+name: TUNER: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 17
+#
+name: TUNER: DOWN
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 17
+#
+name: A/B/C/D/E
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: PRESET BANK
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: A-E/CAT.+
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER CAT +
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER PAGE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: PRESET PAGE
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: PAGE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: PG TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: PRESET PG (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER A/B/C/D/E
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER PRESET PG +
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: PRESET A/B/C/D/E
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: PRESET PG +
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: CLASS UP
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: NAV RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: PRES PG TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: A-E UP
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 18
+#
+name: TUNER: PRESET PG TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUN A-B/CAT (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 18
+#
+name: PRESET MODE (A-E)
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 18
+#
+name: TUNER: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 18
+#
+name: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT: VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT: VCR 2/DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: VCR2/DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: VCR 2/DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT: VCR2 / DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT DVR/ VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: MZ: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: MZ: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: VCR-2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: MZ IN: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT: VCR 2 / DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: DVR INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: MZ: VCR2/DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: DVR/VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INPUT: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 19
+#
+name: MAIN: VCR2/DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: INP DVR/VCR2
+type: parsed
+protocol: nec2
+address: 122
+command: 19
+#
+name: MZ: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: MZ INP: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: MZ INP: DVR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 19
+#
+name: SELECT PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: PHONO
+type: parsed
+protocol: pioneer
+address: 122
+command: 20
+#
+name: INPUT PHONO
+type: parsed
+protocol: nec2
+address: 122
+command: 20
+#
+name: INPUT PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: INPUT: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: MZ: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: MZ IN: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 20
+#
+name: MAIN: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: INP PHONO
+type: parsed
+protocol: nec2
+address: 122
+command: 20
+#
+name: MZ: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: MZ INP: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: MZ INP: PHONO
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 20
+#
+name: SELECT CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: INPUT CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: INPUT: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: MZ: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: CB
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: CD (MP3)
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: MZ IN: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: CD INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 21
+#
+name: MAIN: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: INP CD
+type: parsed
+protocol: nec2
+address: 122
+command: 21
+#
+name: MZ: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: Z2: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: MZ INP: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: MZ INP: CD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 21
+#
+name: SELECT TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 122
+command: 22
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: TUNER
+type: parsed
+protocol: pioneer
+address: 122
+command: 22
+#
+name: INPUT TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: MZ: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: MZ IN: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: TUNER INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 22
+#
+name: MAIN: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: INP TUNER
+type: parsed
+protocol: nec2
+address: 122
+command: 22
+#
+name: MZ: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: MZ INP: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: MZ INP: TUNER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 22
+#
+name: SELECT DVD / LD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: LD/TV
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: AUX
+type: parsed
+protocol: pioneer
+address: 122
+command: 23
+#
+name: VIDEO/AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: INPUT DVD
+type: parsed
+protocol: nec2
+address: 122
+command: 23
+#
+name: INPUT: LD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: LD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: TV LD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: DVD/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: LDV
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: LASER DISC
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: SELECT TAPE / MD
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: TAPE/MD
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: INPUT: TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: INPUT MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: MZ: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: INPUT: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: MZ IN: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: MZ: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: TAPE /MD
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: TAPE 2/VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: MZ: INP MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: Z4: SYSM REC/SV 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 24
+#
+name: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: INPUT: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: INPUT: TAPE2
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: INPUT CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: MZ: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: MZ IN: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: INPUT:CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: INP MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: TAPE 1/DAT
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: MZ: INP CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: Z4: SYSM REC/SV 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 25
+#
+name: MZ INP: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 25
+#
+name: MZ INP: MD/CD-R
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 25
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOL+
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: MAINZONE VOL +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOL UP
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: MZ: VOL (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: MZ VOL +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOL +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: MZ: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: MAIN: VOLUME+
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 26
+#
+name: MASTER VOL +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: MAIN: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOLUME (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 26
+#
+name: MZ: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: Z4: SYSM REC/SV 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 26
+#
+name: MZ: VOLUME UP
+type: parsed
+protocol: nec1_f16
+address: 122
+command: 26
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: VOL-
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MAINZONE VOL -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: VOL DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MZ: VOL (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MZ VOL -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: VOL -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MZ: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MAIN: VOLUME-
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 27
+#
+name: MASTER VOL -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: VIOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MAIN: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: VOLUME (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 27
+#
+name: MZ: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: Z4: SYSM REC/SV 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 27
+#
+name: MZ: VOLUME DOWN
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 27
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 122
+command: 28
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: AUDIO MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MZ: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MZ MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MZ: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MAIN: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 28
+#
+name: MUTE-TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MUTE: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MAIN: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: MUTE TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 28
+#
+name: DIAGNOSTIC
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: SYSTEM POWER
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 122
+command: 29
+#
+name: POWER ON
+type: parsed
+protocol: nec
+address: 122
+command: 29
+#
+name: SYSTEM POWER (ON)
+type: parsed
+protocol: nec
+address: 122
+command: 29
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: MZ: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: MZ: SYSTEM POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: ALL ZONE POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: ALL POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: SYSTEM POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: ALL ZONES ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER ON ALL
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER ON (ALL)
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 29
+#
+name: ALL: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: MAIN: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: SYSTEM POWER ON
+type: parsed
+protocol: nec2
+address: 122
+command: 29
+#
+name: MZ + Z2 POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: AZ: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: STAND BY
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: STANDBY (OFF)
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: MZ: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: MZ: SYSTEM POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: ALL ZONE POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: ALL POWER STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: POWER OFF
+type: parsed
+protocol: nec
+address: 122
+command: 30
+#
+name: ALL ZONES OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: POWER OFF/STNDBY ALL
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: POWER OFF (ALL)
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: STANDBY ALL
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 30
+#
+name: ALL: STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: MAIN: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: SYSTEM POWER OFF
+type: parsed
+protocol: nec2
+address: 122
+command: 30
+#
+name: MZ + Z2 POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: AZ: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: MZ: POWER TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: MZ: SYSTEM POWER TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: ALL ZONE POWER TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: INPUT +
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 31
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 31
+#
+name: INPUT UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 31
+#
+name: MAIN: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 31
+#
+name: MZ: INPUT UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 31
+#
+name: INPUT +
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 32
+#
+name: Z2 INPUT UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 32
+#
+name: Z2: INPUT +
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 32
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 32
+#
+name: Z2 INPUT +
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 32
+#
+name: Z4: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 32
+#
+name: Z2: INPUT UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 32
+#
+name: Z4 INP: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 32
+#
+name: Z4 INP: TUNER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 32
+#
+name: INPUT +
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 33
+#
+name: Z4: INP MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 33
+#
+name: Z3: INPUT UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 33
+#
+name: Z4: INP CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 34
+#
+name: Z4: INPUT UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 34
+#
+name: Z4 INP: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 34
+#
+name: Z4 INP: MD/CD-R
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 34
+#
+name: INPUT -
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 35
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 35
+#
+name: INPUT DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 35
+#
+name: MZ: INPUT DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 35
+#
+name: Z4: INP DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 35
+#
+name: Z4 INP: TV
+type: parsed
+protocol: nec1
+address: 122
+command: 35
+#
+name: Z4 INP: TV
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 35
+#
+name: INPUT -
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 36
+#
+name: Z2 INPUT DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 36
+#
+name: Z2: INPUT -
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 36
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 36
+#
+name: Z2 INPUT -
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 36
+#
+name: Z4: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 36
+#
+name: Z2: INPUT DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 36
+#
+name: Z4 INP: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 36
+#
+name: Z4 INP: CBL/SAT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 36
+#
+name: INPUT -
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 37
+#
+name: Z3: INPUT DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 37
+#
+name: Z4: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 38
+#
+name: Z4: INPUT DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 38
+#
+name: Z4 INP: VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 38
+#
+name: Z4 INP: VCR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 38
+#
+name: DISP INFO TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 39
+#
+name: INFO
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 39
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 39
+#
+name: DISPLAY INFO
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 39
+#
+name: Z4: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 39
+#
+name: INFO TOGGLE
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 39
+#
+name: INFO TOGGLE
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 39
+#
+name: Z4 INP: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 39
+#
+name: Z4 INP: DVR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 39
+#
+name: DISP INFO TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 40
+#
+name: Z4: INP BD/HDDVD
+type: parsed
+protocol: nec1
+address: 122
+command: 40
+#
+name: INFO TOGGLE
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 40
+#
+name: INFO TOGGLE
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 40
+#
+name: Z4 INP: BD/HD
+type: parsed
+protocol: nec1
+address: 122
+command: 40
+#
+name: Z4 INP: BD/HD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 40
+#
+name: DISP INFO TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 41
+#
+name: Z4: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 41
+#
+name: INFO
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 41
+#
+name: INFO
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 41
+#
+name: Z4 INP: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 41
+#
+name: Z4 INP: DVD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 41
+#
+name: Z4: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 42
+#
+name: Z4 INP: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 42
+#
+name: INFO TOGGLE
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 42
+#
+name: Z4 INP: XM
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 42
+#
+name: INFO TOGGLE
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 42
+#
+name: SETUP UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 43
+#
+name: Z4: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 43
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 43
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 43
+#
+name: SETUP DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 44
+#
+name: Z4: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 44
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 44
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 44
+#
+name: SETUP LEFT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 45
+#
+name: Z4: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 45
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 45
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 45
+#
+name: SETUP RIGHT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 46
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 46
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 46
+#
+name: SETUP ENTER
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 47
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 47
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 47
+#
+name: SLEEP TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 48
+#
+name: SETUP UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 48
+#
+name: MZ: SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 48
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 48
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 48
+#
+name: SLEEP TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 49
+#
+name: SETUP DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 49
+#
+name: Z2: SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 49
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 49
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 49
+#
+name: SLEEP TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 50
+#
+name: SETUP LEFT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 50
+#
+name: Z3: SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 50
+#
+name: Z3: SLEEP
+type: parsed
+protocol: nec1
+address: 122
+command: 50
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 50
+#
+name: Z3: SLEEP
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 50
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 50
+#
+name: SETUP RIGHT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 51
+#
+name: Z4 SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 51
+#
+name: Z4: SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 51
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 51
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 51
+#
+name: Z4: SLEEP
+type: parsed
+protocol: nec1
+address: 122
+command: 51
+#
+name: Z4: SLEEP
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 51
+#
+name: SETUP ENTER
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 52
+#
+name: MZ: PARTY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 52
+#
+name: PARTY: ZONE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 52
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 52
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 52
+#
+name: HDMI OUT TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 53
+#
+name: MZ: HDMI OUT TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 53
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 53
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 53
+#
+name: DISP DISPLAY TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 54
+#
+name: Z2: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 54
+#
+name: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 54
+#
+name: DISPLAY TOGGLE
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 54
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_f16
+address: 122
+command: 54
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 54
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 54
+#
+name: DISP DISPLAY TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 55
+#
+name: Z3: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 55
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 55
+#
+name: DISPLAY
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 55
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 55
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 55
+#
+name: Z4: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 56
+#
+name: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 56
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 56
+#
+name: DISPLAY TOGGLE
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 56
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 56
+#
+name: INP SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 57
+#
+name: SIRIUS INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 57
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 57
+#
+name: SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 57
+#
+name: INPUT SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 57
+#
+name: MZ INP: SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 57
+#
+name: MZ INP: SIRIUS
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 57
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 57
+#
+name: INP SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 58
+#
+name: DISP STATUS TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 58
+#
+name: ZONE 2 SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 58
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 58
+#
+name: Z2 INPUT SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 58
+#
+name: Z2: SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 58
+#
+name: Z2 INP: SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 58
+#
+name: STATUS TOGGLE
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 58
+#
+name: Z2 INP: SIRIUS
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 58
+#
+name: STATUS TOGGLE
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 58
+#
+name: SETUP MENU
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 59
+#
+name: INP SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 59
+#
+name: SETUP: MENU
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 59
+#
+name: SETUP: MENU
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 59
+#
+name: Z3 INP: SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 59
+#
+name: Z3 INP: SIRIUS
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 59
+#
+name: SETUP RTRN/SUBMEN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 60
+#
+name: SETUP: RETURN (SUB)
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 60
+#
+name: SETUP: RETURN (SUB)
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 60
+#
+name: Z4 INP: SIRIUS
+type: parsed
+protocol: nec1
+address: 122
+command: 60
+#
+name: Z4 INP: SIRIUS
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 60
+#
+name: DISP STATUS TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 61
+#
+name: XM INFO
+type: parsed
+protocol: nec1
+address: 122
+command: 61
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 61
+#
+name: STATUS
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 61
+#
+name: STATUS
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 61
+#
+name: MZ: SYSM REC 10
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 62
+#
+name: SETUP RTRN/SUBMEN
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 63
+#
+name: SETUP: RETURN (SUB)
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 63
+#
+name: SETUP: RETURN (SUB)
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 63
+#
+name: DIR B
+type: parsed
+protocol: nec1
+address: 122
+command: 64
+#
+name: TAPE DIR B
+type: parsed
+protocol: nec1
+address: 122
+command: 64
+#
+name: STATUS TOGGLE
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 64
+#
+name: STATUS TOGGLE
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 64
+#
+name: SETUP: MENU
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 65
+#
+name: SETUP: MENU
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 65
+#
+name: SETUP: RETURN (SUB)
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 66
+#
+name: SETUP: RETURN (SUB)
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 66
+#
+name: DISP STATUS
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 67
+#
+name: DISP STATUS TOG
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 67
+#
+name: STATUS TOGGLE
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 67
+#
+name: STATUS TOGGLE
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 67
+#
+name: SETUP MENU
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 68
+#
+name: SETUP: MENU
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 68
+#
+name: SETUP: MENU
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 68
+#
+name: Z2: POWER/STANDBY
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 69
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 69
+#
+name: INPUT HDMI 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 71
+#
+name: HDMI 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 71
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 71
+#
+name: INPUT HDMI-1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 71
+#
+name: INPUT HDMI 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 74
+#
+name: HDMI 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 74
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 74
+#
+name: INPUT HDMI-2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 74
+#
+name: INPUT HDMI 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 77
+#
+name: HDMI 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 77
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 77
+#
+name: INPUT HDMI-3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 77
+#
+name: Z4 INP: DOCK
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 77
+#
+name: CD DISK SKIP
+type: parsed
+protocol: nec1
+address: 122
+command: 79
+#
+name: INPUT HDMI 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 80
+#
+name: HDMI 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 80
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 80
+#
+name: INPUT HDMI-4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 80
+#
+name: MENU>
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: DSP +
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: C-RT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: LEVEL/SET MENU: (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: MENU: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 122
+command: 82
+#
+name: TIME/LEVEL RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: LEVEL +
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: C RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: YRIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: SET MENU: (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: SET MENU RIGHT
+type: parsed
+protocol: nec2
+address: 122
+command: 82
+#
+name: DELAY TIME +
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: SELECT +
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: MENU<
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: DSP -
+type: parsed
+protocol: nec2
+address: 122
+command: 83
+#
+name: C-LF
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: INPUT AV 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 83
+#
+name: LEVEL/SET MENU: (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: MENU: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 122
+command: 83
+#
+name: TIME/LEVEL LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: AV 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 83
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 83
+#
+name: LEVEL -
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: C LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: YLEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: SET MENU: (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: SET MENU LEFT
+type: parsed
+protocol: nec2
+address: 122
+command: 83
+#
+name: INPUT AV-1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 83
+#
+name: DELAY TIME -
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: SELECT -
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: SELECT TV / DBS
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: TV/CBL
+type: parsed
+protocol: nec2
+address: 122
+command: 84
+#
+name: DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: D-TV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT: D-TV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT: D-TV/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: D-TV/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT: D-TV / LD
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: MZ: DTV/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: DBS
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: TV/DBS
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: MZ IN: D-TV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: DTV/CBL INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INP TV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: MZ: DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: Z2: DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INPUT: DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 84
+#
+name: MAIN: D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: ZONE2: D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: INP DTV/CBL
+type: parsed
+protocol: nec2
+address: 122
+command: 84
+#
+name: MZ: INP DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: MZ INP: TV
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: MZ INP: TV
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 84
+#
+name: SELECT V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: V-AUX
+type: parsed
+protocol: nec2
+address: 122
+command: 85
+#
+name: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INPUT V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INPUT: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: V AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INPUT VAUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MZ: VIDEO AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MZ: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INPUT V-AUX/DCK
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INPUT: VIDEO AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MZ IN: V-AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MZ: V-AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: V.AUX/DOCK INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INP V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: V. AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 85
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: V.AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: V. AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MAIN: VIDEO AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: INP V-AUX
+type: parsed
+protocol: nec2
+address: 122
+command: 85
+#
+name: MZ: INP V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MZ INP: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: MZ INP: V-AUX
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 85
+#
+name: EFECT ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: STEREO (EFFECT)
+type: parsed
+protocol: nec2
+address: 122
+command: 86
+#
+name: STRAIGHT/EFFECT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: INPUT AV 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 86
+#
+name: EFFECT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: EFFECT ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP TOG: EFFECT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP TOG: STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP STR/EFF TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: EFFECTS
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP: EFFECT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP TOG: STRAIGHT/
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP TOG STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: AV 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 86
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 86
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 86
+#
+name: DSP EFFECT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP: STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: STRIAGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP STRAIGHT TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 86
+#
+name: PROGRAM STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: INPUT AV-2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 86
+#
+name: DSP EFFECT ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSP: T STRAIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: DSPTOG: STRAIT/EFECT
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: SLEEP
+type: parsed
+protocol: nec2
+address: 122
+command: 87
+#
+name: SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: MZ: SLEEP TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: SLEEP: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: SLEEP TIMER SET
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: MAIN: SLEEP TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: ?AZ: SLEEP TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: DSP UP
+type: parsed
+protocol: nec
+address: 122
+command: 88
+#
+name: DSP PROGRAM+
+type: parsed
+protocol: nec1
+address: 122
+command: 88
+#
+name: DSP PROGRAM +
+type: parsed
+protocol: nec1
+address: 122
+command: 88
+#
+name: PROGRAM UP
+type: parsed
+protocol: nec1
+address: 122
+command: 88
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 88
+#
+name: PRGRM PRESET UP
+type: parsed
+protocol: nec1
+address: 122
+command: 88
+#
+name: DSP DOWN
+type: parsed
+protocol: nec
+address: 122
+command: 89
+#
+name: DSP PROGRAM-
+type: parsed
+protocol: nec1
+address: 122
+command: 89
+#
+name: INPUT AV 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 89
+#
+name: DSP PROGRAM -
+type: parsed
+protocol: nec1
+address: 122
+command: 89
+#
+name: AV 3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 89
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 89
+#
+name: PROGRAM DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 89
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 89
+#
+name: PRGRM PRESET DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 89
+#
+name: INPUT AV-3
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 89
+#
+name: EQ ON/FLAT
+type: parsed
+protocol: nec1
+address: 122
+command: 90
+#
+name: EQ PRESET +
+type: parsed
+protocol: nec1
+address: 122
+command: 91
+#
+name: EQ PRESET -
+type: parsed
+protocol: nec1
+address: 122
+command: 92
+#
+name: INPUT AV 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 92
+#
+name: AV 4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 92
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 92
+#
+name: INPUT AV-4
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 92
+#
+name: REAR LEVEL +
+type: parsed
+protocol: nec1
+address: 122
+command: 94
+#
+name: INPUT AV 5
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 95
+#
+name: AV 5
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 95
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 95
+#
+name: INPUT AV-5
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 95
+#
+name: REAR LEVEL -
+type: parsed
+protocol: nec1
+address: 122
+command: 95
+#
+name: XM PRESET/NUM 0
+type: parsed
+protocol: nec1
+address: 122
+command: 96
+#
+name: XM: 0
+type: parsed
+protocol: nec2
+address: 122
+command: 96
+#
+name: XM NUM 0
+type: parsed
+protocol: nec1
+address: 122
+command: 96
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 122
+command: 96
+#
+name: XM: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 96
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 96
+#
+name: XM 0
+type: parsed
+protocol: nec1
+address: 122
+command: 96
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 96
+#
+name: XM 0
+type: parsed
+protocol: nec2
+address: 122
+command: 96
+#
+name: XM: PRESET 0
+type: parsed
+protocol: nec1
+address: 122
+command: 96
+#
+name: Z2: AV 5
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 96
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 96
+#
+name: Z2 INPUT AV-5
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 96
+#
+name: XM: 0
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 96
+#
+name: XM PRESET/NUM 1
+type: parsed
+protocol: nec1
+address: 122
+command: 97
+#
+name: XM: 1
+type: parsed
+protocol: nec2
+address: 122
+command: 97
+#
+name: XM NUM 1
+type: parsed
+protocol: nec1
+address: 122
+command: 97
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 122
+command: 97
+#
+name: XM: 1
+type: parsed
+protocol: nec1
+address: 122
+command: 97
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 122
+command: 97
+#
+name: XM 1
+type: parsed
+protocol: nec1
+address: 122
+command: 97
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 97
+#
+name: XM 1
+type: parsed
+protocol: nec2
+address: 122
+command: 97
+#
+name: XM: PRESET 1
+type: parsed
+protocol: nec1
+address: 122
+command: 97
+#
+name: XM: 1
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 97
+#
+name: XM PRESET/NUM 2
+type: parsed
+protocol: nec1
+address: 122
+command: 98
+#
+name: INPUT AV 6
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 98
+#
+name: XM: 2
+type: parsed
+protocol: nec2
+address: 122
+command: 98
+#
+name: XM NUM 2
+type: parsed
+protocol: nec1
+address: 122
+command: 98
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 122
+command: 98
+#
+name: XM: 2
+type: parsed
+protocol: nec1
+address: 122
+command: 98
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 122
+command: 98
+#
+name: XM 2
+type: parsed
+protocol: nec1
+address: 122
+command: 98
+#
+name: AV 6
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 98
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 98
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 98
+#
+name: XM: PRESET 2
+type: parsed
+protocol: nec1
+address: 122
+command: 98
+#
+name: INPUT AV-6
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 98
+#
+name: XM: 2
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 98
+#
+name: XM PRESET/NUM 3
+type: parsed
+protocol: nec1
+address: 122
+command: 99
+#
+name: XM: 3
+type: parsed
+protocol: nec2
+address: 122
+command: 99
+#
+name: XM NUM 3
+type: parsed
+protocol: nec1
+address: 122
+command: 99
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 122
+command: 99
+#
+name: XM: 3
+type: parsed
+protocol: nec1
+address: 122
+command: 99
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 122
+command: 99
+#
+name: XM 3
+type: parsed
+protocol: nec1
+address: 122
+command: 99
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 99
+#
+name: XM 3
+type: parsed
+protocol: nec2
+address: 122
+command: 99
+#
+name: XM: PRESET 3
+type: parsed
+protocol: nec1
+address: 122
+command: 99
+#
+name: Z2: AV 6
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 99
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 99
+#
+name: Z2 INPUT AV-6
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 99
+#
+name: XM: 3
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 99
+#
+name: XM PRESET/NUM 4
+type: parsed
+protocol: nec1
+address: 122
+command: 100
+#
+name: XM: 4
+type: parsed
+protocol: nec2
+address: 122
+command: 100
+#
+name: XM NUM 4
+type: parsed
+protocol: nec1
+address: 122
+command: 100
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 122
+command: 100
+#
+name: XM: 4
+type: parsed
+protocol: nec1
+address: 122
+command: 100
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 122
+command: 100
+#
+name: XM 4
+type: parsed
+protocol: nec1
+address: 122
+command: 100
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 100
+#
+name: XM: PRESET 4
+type: parsed
+protocol: nec1
+address: 122
+command: 100
+#
+name: XM: 4
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 100
+#
+name: XM PRESET/NUM 5
+type: parsed
+protocol: nec1
+address: 122
+command: 101
+#
+name: INPUT AUDIO 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 101
+#
+name: AUDIO INPUT 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 101
+#
+name: XM: 5
+type: parsed
+protocol: nec2
+address: 122
+command: 101
+#
+name: XM NUM 5
+type: parsed
+protocol: nec1
+address: 122
+command: 101
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 122
+command: 101
+#
+name: XM: 5
+type: parsed
+protocol: nec1
+address: 122
+command: 101
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 122
+command: 101
+#
+name: XM 5
+type: parsed
+protocol: nec1
+address: 122
+command: 101
+#
+name: AUDIO 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 101
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 101
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 101
+#
+name: XM: PRESET 5
+type: parsed
+protocol: nec1
+address: 122
+command: 101
+#
+name: INPUT AUDIO-1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 101
+#
+name: XM: 5
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 101
+#
+name: XM PRESET/NUM 6
+type: parsed
+protocol: nec1
+address: 122
+command: 102
+#
+name: XM: 6
+type: parsed
+protocol: nec2
+address: 122
+command: 102
+#
+name: XM NUM 6
+type: parsed
+protocol: nec1
+address: 122
+command: 102
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 122
+command: 102
+#
+name: XM: 6
+type: parsed
+protocol: nec1
+address: 122
+command: 102
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 122
+command: 102
+#
+name: XM 6
+type: parsed
+protocol: nec1
+address: 122
+command: 102
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 102
+#
+name: XM 6
+type: parsed
+protocol: nec2
+address: 122
+command: 102
+#
+name: XM: PRESET 6
+type: parsed
+protocol: nec1
+address: 122
+command: 102
+#
+name: Z2: AUDIO 1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 102
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 102
+#
+name: Z2 INPUT AUDIO-1
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 102
+#
+name: XM: 6
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 102
+#
+name: XM PRESET/NUM 7
+type: parsed
+protocol: nec1
+address: 122
+command: 103
+#
+name: XM: 7
+type: parsed
+protocol: nec2
+address: 122
+command: 103
+#
+name: XM NUM 7
+type: parsed
+protocol: nec1
+address: 122
+command: 103
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 122
+command: 103
+#
+name: XM: 7
+type: parsed
+protocol: nec1
+address: 122
+command: 103
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 122
+command: 103
+#
+name: XM 7
+type: parsed
+protocol: nec1
+address: 122
+command: 103
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 103
+#
+name: XM 7
+type: parsed
+protocol: nec2
+address: 122
+command: 103
+#
+name: XM: PRESET 7
+type: parsed
+protocol: nec1
+address: 122
+command: 103
+#
+name: XM: 7
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 103
+#
+name: XM PRESET/NUM 8
+type: parsed
+protocol: nec1
+address: 122
+command: 104
+#
+name: INPUT AUDIO 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 104
+#
+name: XM: 8
+type: parsed
+protocol: nec2
+address: 122
+command: 104
+#
+name: XM NUM 8
+type: parsed
+protocol: nec1
+address: 122
+command: 104
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 122
+command: 104
+#
+name: XM: 8
+type: parsed
+protocol: nec1
+address: 122
+command: 104
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 122
+command: 104
+#
+name: XM 8
+type: parsed
+protocol: nec1
+address: 122
+command: 104
+#
+name: AUDIO 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 104
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 104
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 104
+#
+name: XM: PRESET 8
+type: parsed
+protocol: nec1
+address: 122
+command: 104
+#
+name: INPUT AUDIO-2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 104
+#
+name: XM: 8
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 104
+#
+name: XM PRESET/NUM 9
+type: parsed
+protocol: nec1
+address: 122
+command: 105
+#
+name: XM: 9
+type: parsed
+protocol: nec2
+address: 122
+command: 105
+#
+name: XM NUM 9
+type: parsed
+protocol: nec1
+address: 122
+command: 105
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 122
+command: 105
+#
+name: XM: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 105
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 105
+#
+name: XM 9
+type: parsed
+protocol: nec1
+address: 122
+command: 105
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 105
+#
+name: XM: PRESET 9
+type: parsed
+protocol: nec1
+address: 122
+command: 105
+#
+name: Z2: AUDIO 2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 105
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 105
+#
+name: Z2 INPUT AUDIO-2
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 105
+#
+name: XM: 9
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 105
+#
+name: XM PRESET CH UP
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: XM: PRE/CH UP
+type: parsed
+protocol: nec2
+address: 122
+command: 106
+#
+name: XM PRESET/CH +
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: XM: PRESET/CH +
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: NAV UP
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: XM:CH/PRESET # UP
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 106
+#
+name: XM: PRESET UP
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: XM CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: XM CH/PR NO UP
+type: parsed
+protocol: nec1
+address: 122
+command: 106
+#
+name: XM: UP
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 106
+#
+name: XM PRESET CH DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: XM: PRE/CH DOWN
+type: parsed
+protocol: nec2
+address: 122
+command: 107
+#
+name: XM PRESET/CH -
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: XM: PRESET/CH -
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: NAV DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: XM:CH/PRESET # DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: OPTION
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 107
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 107
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 122
+command: 107
+#
+name: XM: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: XM CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: XM CH/PR NO DN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: MENU OPTION
+type: parsed
+protocol: nec1_y1
+address: 122
+command: 107
+#
+name: XM: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 107
+#
+name: XM: DOWN
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 107
+#
+name: XM CAT +
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM: A-E/CAT. (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 108
+#
+name: XM A-E/CAT. +
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM: A-E/CAT +
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: NAV RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM CATEGORY +
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM:CAT/PST GRP UP
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 108
+#
+name: XM: A-E UP
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM CAT/PR GROUP UP
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 108
+#
+name: XM: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 108
+#
+name: XM SEACH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 109
+#
+name: XM: SEARCH MD TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 109
+#
+name: XM SRCH MD TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 109
+#
+name: XM: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 109
+#
+name: XM SEARCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 109
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 109
+#
+name: XM:CAT/PST GP DOWN
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 109
+#
+name: XM SRCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 109
+#
+name: XM CAT -
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM: A-E/CAT (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 110
+#
+name: XM A-E/CAT. -
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM: A-E/CAT -
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: NAV LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM CATEGORY -
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 110
+#
+name: XM A-E DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM CAT/PR GROUP DN
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 110
+#
+name: XM: LEFT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 110
+#
+name: XM ENTER(HOLD/DSPL)
+type: parsed
+protocol: nec1
+address: 122
+command: 111
+#
+name: XM: ENTER TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 111
+#
+name: XM ENTER TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 111
+#
+name: XM: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 111
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 111
+#
+name: XM ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 111
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 111
+#
+name: XM SETUP: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 111
+#
+name: XM: ENTER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 111
+#
+name: XM TITLE
+type: parsed
+protocol: nec1
+address: 122
+command: 112
+#
+name: XM: TITLE TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 112
+#
+name: XM TITLE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 112
+#
+name: XM: TITLE
+type: parsed
+protocol: nec1
+address: 122
+command: 112
+#
+name: XM MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 113
+#
+name: XM: MEMORY PRESET
+type: parsed
+protocol: nec2
+address: 122
+command: 113
+#
+name: XM PRESET MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 113
+#
+name: XM: MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 113
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 113
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 113
+#
+name: XM: MEMORY
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 113
+#
+name: XM DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 114
+#
+name: XM: DISPLAY TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 114
+#
+name: XM DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 114
+#
+name: XM: DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 114
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 114
+#
+name: Z2: BASS (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 115
+#
+name: Z2 TONE BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 115
+#
+name: Z2: BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 115
+#
+name: TONE BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 115
+#
+name: BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 115
+#
+name: BASS +
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 115
+#
+name: Z2: BASS (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 116
+#
+name: Z2 TONE BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 116
+#
+name: Z2: BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 116
+#
+name: TONE BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 116
+#
+name: BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 116
+#
+name: BASS -
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 116
+#
+name: Z2: TREBLE (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 117
+#
+name: Z2 TONE TREB +
+type: parsed
+protocol: nec1
+address: 122
+command: 117
+#
+name: Z2: TREBLE +
+type: parsed
+protocol: nec1
+address: 122
+command: 117
+#
+name: TONE TREBLE +
+type: parsed
+protocol: nec1
+address: 122
+command: 117
+#
+name: TREBLE +
+type: parsed
+protocol: nec1
+address: 122
+command: 117
+#
+name: TREBLE +
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 117
+#
+name: Z2: TREBLE (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 118
+#
+name: Z2 TONE TREB -
+type: parsed
+protocol: nec1
+address: 122
+command: 118
+#
+name: Z2: TREBLE -
+type: parsed
+protocol: nec1
+address: 122
+command: 118
+#
+name: TONE TREBLE -
+type: parsed
+protocol: nec1
+address: 122
+command: 118
+#
+name: TREBLE -
+type: parsed
+protocol: nec1
+address: 122
+command: 118
+#
+name: TREBLE -
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 118
+#
+name: Z3: BASS (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 119
+#
+name: Z3: BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 119
+#
+name: TONE BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 119
+#
+name: BASS +
+type: parsed
+protocol: nec1
+address: 122
+command: 119
+#
+name: BASS +
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 119
+#
+name: Z3: BASS (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 120
+#
+name: Z3: BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 120
+#
+name: TONE BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 120
+#
+name: BASS -
+type: parsed
+protocol: nec1
+address: 122
+command: 120
+#
+name: BASS -
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 120
+#
+name: Z3: TREBLE (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 121
+#
+name: Z3: TREBLE +
+type: parsed
+protocol: nec1
+address: 122
+command: 121
+#
+name: TONE TREBLE +
+type: parsed
+protocol: nec1
+address: 122
+command: 121
+#
+name: TREBLE +
+type: parsed
+protocol: nec1
+address: 122
+command: 121
+#
+name: TREBLE +
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 121
+#
+name: Z3: TREBLE (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 122
+#
+name: Z3: TREBLE -
+type: parsed
+protocol: nec1
+address: 122
+command: 122
+#
+name: TONE TREBLE -
+type: parsed
+protocol: nec1
+address: 122
+command: 122
+#
+name: TREBLE -
+type: parsed
+protocol: nec1
+address: 122
+command: 122
+#
+name: TREBLE -
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 122
+#
+name: Z4: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 123
+#
+name: Z4: POWER ON
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 123
+#
+name: Z4: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 124
+#
+name: Z4: STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 124
+#
+name: Z4: STANDBY
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 124
+#
+name: Z4: INP V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 125
+#
+name: Z4 INP: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 125
+#
+name: Z4 INP: V-AUX
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 125
+#
+name: Z4: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 126
+#
+name: Z4 INP: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 126
+#
+name: Z4 INP: PHONO
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 126
+#
+name: Z4: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 127
+#
+name: Z4 INP: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 127
+#
+name: Z4 INP: CD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 127
+#
+name: FRONT LEVEL +
+type: parsed
+protocol: nec1
+address: 122
+command: 128
+#
+name: FRONT LEVEL -
+type: parsed
+protocol: nec1
+address: 122
+command: 129
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: nec1
+address: 122
+command: 130
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: nec1
+address: 122
+command: 131
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: MENU SET MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: MENU: SET MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: GUI: SET MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: SETUP MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 132
+#
+name: SET MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: MENU SETUP
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: DSP CENTER MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: MZ: MENU TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 132
+#
+name: TEST TONE
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: TEST
+type: parsed
+protocol: nec2
+address: 122
+command: 133
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: PARAMETER TEST
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: TEST MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: PARAMETER: TEST
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: SET MENU TEST
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: DSP TOG: TEST MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: TEST TONE OFF
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: TEST TONE ON
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: SET MENU RTRN/TEST
+type: parsed
+protocol: nec2
+address: 122
+command: 133
+#
+name: DSP TEST
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: LEVEL
+type: parsed
+protocol: nec2
+address: 122
+command: 134
+#
+name: LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: DSP LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: PARAMETER LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: PARAMETER: LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: MZ: LEVEL TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: LEVEL TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: SET MENU LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: DSP TOG: EFFECT LEVL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: SPEAKER LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: SETUP LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: PARAMETER: SPKR LEVL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: DSP: LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 134
+#
+name: DSP LEVEL
+type: parsed
+protocol: nec2
+address: 122
+command: 134
+#
+name: MZ: SET LEVEL TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: EXTERNAL DECODER
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: 6CH INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI CH INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: INPUT MULTI CH
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: 6CH. INPUT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: 6 CH. INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: 6 CH INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI IN
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MZ: EXT INP TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MZ: MULTI-CH TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTICH IN ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: EXT. DEC.
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: EXT.DEC
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI CH ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI-CH INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: INP MULTI CH IN
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI CH IN
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI CHANNEL
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 135
+#
+name: MULTI-CHANNEL
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: INPUT: MULTI-CHANNEL
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MAIN: EXT INPUT TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MULTI CH IN TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 135
+#
+name: INPUT MULTI CH IN
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: ?MZ: INP MULTCH DIR
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MZ: M.CH IN TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MZ INP: MULTI CH
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: MZ INP: MULTI CH
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 135
+#
+name: MODE PROLOGIC
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: HALL
+type: parsed
+protocol: nec2
+address: 122
+command: 136
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP CLASSICAL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: HALL 1 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: HALL 1
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP CONCERT HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: 1 STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP TOG: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: PRO-LOGIC
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP DD/PRO LOGIC
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP CONCERT HALL 1
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSPTOG: CLASSICAL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP TOG: CLASSICAL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP TOG CLASSICAL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 136
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP CNCT HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP TOG: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP: CLASSICAL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP STEREO TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 136
+#
+name: PROGRAM MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DOLBY SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP PRO LOGIC
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: CLASSICAL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DIG. PRO-LOGIC
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: CONCERT HALL 1
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSP: T CLASSICAL1
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: DSPTOG: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: MODE MOVIE-1
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP LIVE/CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: HALL 2 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: HALL 2
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: 2 HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP TOG: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP TOG: MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP ENHANCED
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP CONCERT HALL 2
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSPTOG: LIVE/CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP TOG: LIVE/CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP TOG LIVE/CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 137
+#
+name: ENHANCED
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP TOG: JAZZ
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP: LIVE/CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP MUSIC TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 137
+#
+name: PROGRAM MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP PRO LOGIC ENH.
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: LIVE
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: PRO-LOGIC ENHANCED
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: CONCERT HALL 2
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSP: T CLASSICAL2
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: DSPTOG: HALL 1
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: MODE MOVIE-2
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: ROCK CONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: JAZZ
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: CHURCH TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: 3 JAZZ
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP TOG: JAZZ
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP TOG: ENTERTAIN.
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP THEATER
+type: parsed
+protocol: nec
+address: 122
+command: 138
+#
+name: DSP CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP TOG: CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSPTOG: ENTERTAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP TOG ENTERTAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: ENTERTAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: MOVIE THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP TOG: ROCKCONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 138
+#
+name: DSP ENTERTAIN TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 138
+#
+name: DSP CONCERT VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: MOVIE THEATRE
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSP: T LIVE/CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: CHUCH
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: DSPTOG: HALL 2
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: MODE MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: ENTERTAINMENT
+type: parsed
+protocol: nec2
+address: 122
+command: 139
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: JAZZ CLUB TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: JAZZ
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: ROCK CONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP ROCK CONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: 4 ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TOG: ROCKCONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TOG: ROCK CNCRT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TOG: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TOG: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSPTOG: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TOG MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP FIVE CH STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP TOG: ENTERTNMNT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 139
+#
+name: DSP TOG: ROCK CONCRT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP MOVIE TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 139
+#
+name: DSP MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSP: T ENTERTAINME
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: DSPTOG: CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: MODE TV-SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: ENTERTAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: ROCK CONCERT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: ROCK CONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: 5 ENTITAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG: ENTERTNMNT
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG: ENTERTAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG: THX
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP ROCK
+type: parsed
+protocol: nec
+address: 122
+command: 140
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP ROCK CONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG: ROCKCONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSPTOG: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP TOG: MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 140
+#
+name: DSP TOG: MUSIC VID
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSP: T MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: DSPTOG: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: MODE DISCO
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: MONO MOVIE
+type: parsed
+protocol: nec2
+address: 122
+command: 141
+#
+name: MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP SUR. DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP SURR. DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: ENTERTAINMENT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: STADIUM
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: 6 MUSIC
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: STANDARD
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: PRO LOGIC
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP SUR.DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP JAZZ CLUB
+type: parsed
+protocol: nec
+address: 122
+command: 141
+#
+name: DSP ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: ENTERTNMNT
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSPTOG: SUR. DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: SUR. DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: STADIUM TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: SURR DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG SUR. DEC
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: STANDARD
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: SUR. DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 141
+#
+name: DISCO
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP: SURR DECODE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP TOG: ENTERTAIN
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: PROGRAM SUR.DECOD
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSP HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DECOD: T SUR.DEC
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: DSPTOG: ROCKCONCERT
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: SUR DECODE
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 141
+#
+name: MODE ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: CONCERT VID 1 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: CONCERT VIDEO 1
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DISCO
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: 7 TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP TOG: TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP STADIUM
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: STADIUM
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP TOG: MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP MOV THTR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP TOG: MOVIETHEATR
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: CONCERT VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSP: T STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: DSPTOG: MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: MODE JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: CONCERT VID 2 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: CONCERT VIDEO 2
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: 8 MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP TOG: MOVIETHEATR
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP TOG: MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: STADIUM
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP DISCO
+type: parsed
+protocol: nec
+address: 122
+command: 143
+#
+name: CONCERT VIDEO
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP TOG: TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: TV THEATER TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP MOV THTR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP TOG: MOVIETHEAT2
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DISCO
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSP: T THX
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DSPTOG: ENTERTNMNT
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: MODE CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DD/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: TV THEATER TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: TV THEATER
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: 9 THX
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP TOG: THX
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP CHURCH
+type: parsed
+protocol: nec
+address: 122
+command: 144
+#
+name: MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP TOG: MOVIETHEATR
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: MOVIE 1 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP D DIGITAL
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSP TOG: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: CHURCH
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: DSPTOG: MOVIETHEATR
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: MODE HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: MOVIE 1 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: MOVIE 1
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DOLBY/DTS/AAC SUR
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: 0 DD/ DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DSP TOG: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DSP HALL
+type: parsed
+protocol: nec
+address: 122
+command: 145
+#
+name: MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DSP MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DSP TOG: THX
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: MOVIE 2 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: AC-3/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: DSPTOG: THX
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: MOVIE 2 TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: MOVIE 2
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: DOLOBY SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: DOLBY/DTS/AAC SUR
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: DSP TOG: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: DSPTOG: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: DOLBY/DTS TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DTS/SURR.
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DD/DTS SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DOLBY DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DOLBY/DTS SUR
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DOLBY/DTS SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: DSP ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: DSP STEREO/ENHANR
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: DSPTOG: ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: DSP TOG: ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: DSP TOG ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: STEREO ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 148
+#
+name: DSP: ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: PROGRAM ST/ENHANC
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: DSP: T ENHANCER
+type: parsed
+protocol: nec1
+address: 122
+command: 148
+#
+name: NIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: DSP NIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: +10 NIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: DSP TOG: NIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: NIGHT: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: DSP: NIGHT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: DSP NIGHT TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 149
+#
+name: DSP: T NIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: DSPTOG: NIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 149
+#
+name: SELECT DD/DTS
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: DSP SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: SURROUND SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: DSP TOG: SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: DSP 3D DSP
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: DSPTOG: SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: DSP TOG 3D DSP
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: DSP SELECT TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 150
+#
+name: DSP: T 3D DSP
+type: parsed
+protocol: nec1
+address: 122
+command: 150
+#
+name: MATRIX 6.1
+type: parsed
+protocol: nec2
+address: 122
+command: 151
+#
+name: EX/ES
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP EXTD SUR.
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: 6.1/ES TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: 6.1/ES
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: 6.1 ES
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: ENTER EX/ ES
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP TOG: EX/ES
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP TOG: EX. SURRND
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP TOG: EX.SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: EXT SUR: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: SETUP EXTED SURR
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: EXTENDED SURROUND
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: EXTD. SURR.
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP: EXTENDED SURR
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP EXTD SUR TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 151
+#
+name: DECOD: T EX SURR.
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSPTOG: EX/ES
+type: parsed
+protocol: nec1
+address: 122
+command: 151
+#
+name: DSP (UP)
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: C-UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: LEVEL/SET MENU: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: MENU: CURSOR UP
+type: parsed
+protocol: nec2
+address: 122
+command: 152
+#
+name: TIME/LEVEL UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: C UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: YUP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: SET MENU: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: SET MENU UP
+type: parsed
+protocol: nec2
+address: 122
+command: 152
+#
+name: CURSER UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: DSP (DOWN)
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: C-DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: LEVEL/SET MENU: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: MENU: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 122
+command: 153
+#
+name: TIME/LEVEL DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: C-DWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: C DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: YDOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: SET MENU: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: SET MENU DOWN
+type: parsed
+protocol: nec2
+address: 122
+command: 153
+#
+name: CURSER DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: SPEAKER A
+type: parsed
+protocol: nec1
+address: 122
+command: 154
+#
+name: SPEAKERS A
+type: parsed
+protocol: nec1
+address: 122
+command: 154
+#
+name: MZ: SPKR A TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 154
+#
+name: A SPEAKERS
+type: parsed
+protocol: nec1
+address: 122
+command: 154
+#
+name: SPKRS A
+type: parsed
+protocol: nec1
+address: 122
+command: 154
+#
+name: SPEAKERS A: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 154
+#
+name: SPKRS A TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 154
+#
+name: MZ: SPKR A TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 154
+#
+name: SPEAKER B
+type: parsed
+protocol: nec1
+address: 122
+command: 155
+#
+name: SPEAKERS B
+type: parsed
+protocol: nec1
+address: 122
+command: 155
+#
+name: MZ: SPKR B TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 155
+#
+name: B SPEAKERS
+type: parsed
+protocol: nec1
+address: 122
+command: 155
+#
+name: SPKRS B
+type: parsed
+protocol: nec1
+address: 122
+command: 155
+#
+name: SPKRS B TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 155
+#
+name: MZ: SPKR B TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 155
+#
+name: SETUP MENU DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SET MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: DIRECTION DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: CURSER DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SET MENU DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SET MENU: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: MENU: ON/OFF
+type: parsed
+protocol: nec2
+address: 122
+command: 156
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: MENU CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SET MENU DOWN
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#
+name: SET MENU CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: GUI: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: GUI: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: MENU: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SETUP DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: MENU: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 156
+#
+name: PARAMETER: MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: YMENU
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SET MENU: ON
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SET MENU
+type: parsed
+protocol: nec2
+address: 122
+command: 156
+#
+name: MENU DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: MZ: SET CURS DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: SETUP MENU UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: DIRECTION UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: CURSER UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: SET MENU UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: SET MENU: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: MENU CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: SET MENU UP
+type: parsed
+protocol: nec
+address: 122
+command: 157
+#
+name: SET MENU CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: GUI: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: GUI: CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: MENU: CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: SETUP UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: MENU: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 157
+#
+name: MZ: SET CURSOR UP
+type: parsed
+protocol: nec1
+address: 122
+command: 157
+#
+name: SETUP MENU +
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: DIRECTION RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: CURSER +
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: +
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: SET MENU +
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: SET MENU: (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: MENU CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: SET MENU RIGHT
+type: parsed
+protocol: nec
+address: 122
+command: 158
+#
+name: SET MENU CURSOR RIGH
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: GUI: (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: GUI: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: MENU: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: SETUP RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: MENU: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 158
+#
+name: MENU RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: MZ: SET CURS RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 158
+#
+name: SETUP MENU -
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: DIRECTION LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: CURSER -
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: -
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: SET MENU -
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: SET MENU: (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: MENU CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: SET MENU LEFT
+type: parsed
+protocol: nec
+address: 122
+command: 159
+#
+name: SET MENU CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: GUI: (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: GUI: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: MENU: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: SETUP LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: MENU: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 159
+#
+name: MENU LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: MZ: SET CURS LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 159
+#
+name: GUI: TOP MENU
+type: parsed
+protocol: nec2
+address: 122
+command: 160
+#
+name: MENU ON
+type: parsed
+protocol: nec1
+address: 122
+command: 160
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 122
+command: 160
+#
+name: MZ: MENU ON
+type: parsed
+protocol: nec1
+address: 122
+command: 160
+#
+name: GUI: TOP
+type: parsed
+protocol: nec1
+address: 122
+command: 160
+#
+name: MZ: MENU OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 160
+#
+name: MZ: MENU ON
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 160
+#
+name: GUI: EXIT
+type: parsed
+protocol: nec2
+address: 122
+command: 161
+#
+name: MENU: EXIT
+type: parsed
+protocol: nec1
+address: 122
+command: 161
+#
+name: MENU OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 161
+#
+name: MZ: MENU OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 161
+#
+name: GUI: EXIT
+type: parsed
+protocol: nec1
+address: 122
+command: 161
+#
+name: MZ: MENU ON
+type: parsed
+protocol: nec1
+address: 122
+command: 161
+#
+name: MZ: MENU OFF
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 161
+#
+name: FREQ/TEXT
+type: parsed
+protocol: nec1
+address: 122
+command: 164
+#
+name: TUNER HD INFO
+type: parsed
+protocol: nec1
+address: 122
+command: 164
+#
+name: TUNER INFO
+type: parsed
+protocol: nec1
+address: 122
+command: 164
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 164
+#
+name: EON DATA
+type: parsed
+protocol: nec1
+address: 122
+command: 165
+#
+name: TUNER EON
+type: parsed
+protocol: nec1
+address: 122
+command: 165
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 165
+#
+name: TUNER HD EON
+type: parsed
+protocol: nec1
+address: 122
+command: 165
+#
+name: PARTY MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 166
+#
+name: TUNER PARTY MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 166
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 166
+#
+name: TUNER HD PRG SEL DWN
+type: parsed
+protocol: nec1
+address: 122
+command: 166
+#
+name: TUNER PTY SEEK MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 166
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 166
+#
+name: TUNER PROG SEL DWN
+type: parsed
+protocol: nec1
+address: 122
+command: 166
+#
+name: PARTY START
+type: parsed
+protocol: nec1
+address: 122
+command: 167
+#
+name: TUNER PARTY START
+type: parsed
+protocol: nec1
+address: 122
+command: 167
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 167
+#
+name: TUNER HD PRG SEL UP
+type: parsed
+protocol: nec1
+address: 122
+command: 167
+#
+name: TUNER PTY SEEK START
+type: parsed
+protocol: nec1
+address: 122
+command: 167
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 167
+#
+name: TUNER PROG SEL UP
+type: parsed
+protocol: nec1
+address: 122
+command: 167
+#
+name: SYS MEMORY 1
+type: parsed
+protocol: nec1
+address: 122
+command: 168
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 168
+#
+name: MZ: INP MODE DIGTL
+type: parsed
+protocol: nec1
+address: 122
+command: 169
+#
+name: SYS MEMORY 2
+type: parsed
+protocol: nec1
+address: 122
+command: 169
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 169
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: MZ: INP MODE ANLOG
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: MZ: AUDIO ANALOG
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: MENU: RETURN
+type: parsed
+protocol: nec2
+address: 122
+command: 170
+#
+name: MENU CURSORRETURN
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: MENU: RETURN
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: SETUP RTRN/SUBMEN
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 170
+#
+name: MAIN: INP MODE ANLOG
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: SET MENU RETURN
+type: parsed
+protocol: nec2
+address: 122
+command: 170
+#
+name: MENU RETURN
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: MZ: SET CURS RETUR
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: SUB MENU TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 170
+#
+name: SUB MENU TOGGLE
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 170
+#
+name: TUNER: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 171
+#
+name: TUNER: SEARCH MOD
+type: parsed
+protocol: nec1
+address: 122
+command: 171
+#
+name: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 171
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 171
+#
+name: TUNER SEARCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 171
+#
+name: TUN SRCH MODE XM
+type: parsed
+protocol: nec2
+address: 122
+command: 171
+#
+name: TUNER SRCH MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 171
+#
+name: TUNER CAT -
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: TUNER: PRESET PG (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 172
+#
+name: TUNER PRESET PG -
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: TUNER: PRESET PG -
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: CLASS DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: NAV LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: TUNER: A-E DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: TUNER CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 172
+#
+name: TUN A-B/CAT (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 172
+#
+name: TUNER: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 172
+#
+name: TUNER: LEFT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 172
+#
+name: TUNER HD ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 173
+#
+name: TUN ENTER XM
+type: parsed
+protocol: nec2
+address: 122
+command: 173
+#
+name: TUNER ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 173
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 173
+#
+name: TUNER BAND
+type: parsed
+protocol: nec1
+address: 122
+command: 174
+#
+name: TUNER: BAND AM/FM
+type: parsed
+protocol: nec2
+address: 122
+command: 174
+#
+name: TUNER BAND TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 174
+#
+name: TUNER: BAND
+type: parsed
+protocol: nec1
+address: 122
+command: 174
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 122
+command: 174
+#
+name: TUNER: BAND TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 174
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 174
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 175
+#
+name: TUNER MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 175
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 175
+#
+name: TUNER: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 175
+#
+name: TUNER: MEMORY
+type: parsed
+protocol: nec1
+address: 122
+command: 175
+#
+name: TUNER: MEMORY
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 175
+#
+name: TUNER HD DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 176
+#
+name: TUN DISPLAY XM
+type: parsed
+protocol: nec2
+address: 122
+command: 176
+#
+name: TUNER DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 176
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 176
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 177
+#
+name: TUNER: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 177
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 177
+#
+name: TUNER 9
+type: parsed
+protocol: nec1
+address: 122
+command: 177
+#
+name: TUNER NUM 9
+type: parsed
+protocol: nec1
+address: 122
+command: 177
+#
+name: TUN 9 XM
+type: parsed
+protocol: nec2
+address: 122
+command: 177
+#
+name: TUNER: 9
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 177
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 178
+#
+name: TUNER: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 178
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 178
+#
+name: TUNER 0
+type: parsed
+protocol: nec1
+address: 122
+command: 178
+#
+name: TUNER NUM 0
+type: parsed
+protocol: nec1
+address: 122
+command: 178
+#
+name: TUN 0 XM
+type: parsed
+protocol: nec2
+address: 122
+command: 178
+#
+name: TUNER: 0
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 178
+#
+name: ENT
+type: parsed
+protocol: nec1
+address: 122
+command: 179
+#
+name: TUNER: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 179
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 179
+#
+name: TUNER ENT
+type: parsed
+protocol: nec1
+address: 122
+command: 179
+#
+name: TUNER NUM ENT
+type: parsed
+protocol: nec1
+address: 122
+command: 179
+#
+name: TUN ENT XM
+type: parsed
+protocol: nec2
+address: 122
+command: 179
+#
+name: TUNER: ENTER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 179
+#
+name: INPUT XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: MZ: XM
+type: parsed
+protocol: nec2
+address: 122
+command: 180
+#
+name: MZ IN: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: XM INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 180
+#
+name: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: INPUT: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: TUN BAND TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 180
+#
+name: MZ: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: MZ INP: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 180
+#
+name: MZ INP: XM
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 180
+#
+name: XM ALL CH SRCH
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM: SEARCH ALL CH
+type: parsed
+protocol: nec2
+address: 122
+command: 181
+#
+name: XM SRCH MODE ALL
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM: SEARCH ALL CH
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: SEARCH ALL CH
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM: ALL CHANNEL
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 181
+#
+name: XM: ALL CH SEARCH
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM MODE ALL
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM ALL CH
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM: ALL MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 181
+#
+name: XM: ALL CHANNEL
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 181
+#
+name: XM CAT. SRCH
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM: SEARCH CATEG
+type: parsed
+protocol: nec2
+address: 122
+command: 182
+#
+name: XM SRCH MODE CAT.
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM: SEARCH CATEGORY
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: SEARCH CATEGORY
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM: CATEGORY
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 182
+#
+name: XM: CATAGORY SRCH
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM MODE CATEGORY
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM CATEGORY
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM: CATEGORY MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 182
+#
+name: XM: CATEGORY
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 182
+#
+name: XM PRESET SRCH
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM: SEARCH PRESET
+type: parsed
+protocol: nec2
+address: 122
+command: 183
+#
+name: XM SRCH MODE PRES
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM: SEARCH PRESET
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: SEARCH PRESET
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM: PRESET
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 183
+#
+name: XM: PRESET SRCH
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM MODE PRESET
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM PRESET
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM: PRESET MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 183
+#
+name: XM: PRESET
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 183
+#
+name: Z2 INPUT XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: Z2: XM
+type: parsed
+protocol: nec2
+address: 122
+command: 184
+#
+name: IN XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: Z2 IN XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: Z2 IN: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: ZONE 2 XM INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: ZONE2 XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: ZONE 2: INPUT XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: ZONE 2 XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 184
+#
+name: Z2: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: Z2: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: Z2 INP: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 184
+#
+name: Z2 INP: XM
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 184
+#
+name: IN XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: Z3 IN XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: Z3 IN: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: Z3: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: Z3: INP XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: Z3 INP: XM
+type: parsed
+protocol: nec1
+address: 122
+command: 185
+#
+name: Z3 INP: XM
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 185
+#
+name: XM PRESET A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: XM: PRESET PG A
+type: parsed
+protocol: nec2
+address: 122
+command: 186
+#
+name: XM PRESET PAGE A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: XM: PRESET PG A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: ZONE 2 POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: XM: CATAGORY A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: XM: PRESET A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: XM: A
+type: parsed
+protocol: nec1
+address: 122
+command: 186
+#
+name: XM: A
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 186
+#
+name: XM PRESET B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: XM: PRESET PG B
+type: parsed
+protocol: nec2
+address: 122
+command: 187
+#
+name: XM PRESET PAGE B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: XM: PRESET PG B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: XM: CATAGORY B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: XM: PRESET B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: XM: B
+type: parsed
+protocol: nec1
+address: 122
+command: 187
+#
+name: XM: B
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 187
+#
+name: XM PRESET C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: XM: PRESET PG C
+type: parsed
+protocol: nec2
+address: 122
+command: 188
+#
+name: XM PRESET PAGE C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: XM: PRESET PG C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: XM: CATAGORY C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: XM: PRESET C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: XM: C
+type: parsed
+protocol: nec1
+address: 122
+command: 188
+#
+name: TUNER: FM
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 188
+#
+name: XM: C
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 188
+#
+name: XM PRESET D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: XM: PRESET PG D
+type: parsed
+protocol: nec2
+address: 122
+command: 189
+#
+name: XM PRESET PAGE D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: XM: PRESET PG D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: XM: CATAGORY D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: XM: PRESET D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: XM: D
+type: parsed
+protocol: nec1
+address: 122
+command: 189
+#
+name: TUNER: AM
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 189
+#
+name: XM: D
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 189
+#
+name: XM PRESET E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: XM: PRESET PG E
+type: parsed
+protocol: nec2
+address: 122
+command: 190
+#
+name: XM PRESET PAGE E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: XM: PRESET PG E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: XM: CATAGORY E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: XM: PRESET E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: XM: E
+type: parsed
+protocol: nec1
+address: 122
+command: 190
+#
+name: XM: E
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 190
+#
+name: XM PRESET/NUM ENT
+type: parsed
+protocol: nec1
+address: 122
+command: 191
+#
+name: XM: NUMERIC ENTER
+type: parsed
+protocol: nec2
+address: 122
+command: 191
+#
+name: XM NUM ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 191
+#
+name: XM: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 191
+#
+name: ENT
+type: parsed
+protocol: nec1
+address: 122
+command: 191
+#
+name: XM ENT NUM INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 191
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 191
+#
+name: XM ENT
+type: parsed
+protocol: nec1
+address: 122
+command: 191
+#
+name: XM SETUP: ENTER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 191
+#
+name: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INPUT: CB-SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INPUT: CBL-SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INPUT: CBL / SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INPUT CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: MZ: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INPUT: CABLE
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: MZ IN: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: CBLE/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: INPUT D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: MZ: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: MZ: CABLE
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: MZ INP: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 192
+#
+name: MZ INP: CBL/SAT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 192
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: INPUT DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: INPUT: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: MZ: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: MZ IN: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: DVD INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 193
+#
+name: MAIN: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: INP DVD
+type: parsed
+protocol: nec2
+address: 122
+command: 193
+#
+name: MZ: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: MZ INP: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: MZ INP: DVD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 193
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: DISP
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: ON SCREEN TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: ONSCREEN DISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: OSD
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: MZ: OSD TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: MZ: OSD TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 194
+#
+name: DSP PARAMETER
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: DISP DISPLAY TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: YDISPLAY
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: ON SCREEN: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 194
+#
+name: MAIN: OSD TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: OSD TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 194
+#
+name: MZ: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: DISPLAY TOGGLE
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 194
+#
+name: INPUT MODE
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: AUDIO SEL
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: MZ: AUDIO TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 195
+#
+name: AUDIO SELECT TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: AUDIO SEL: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: AUDIO SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: INP AUDIO SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 195
+#
+name: MZ: INPUT TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: INPUT MODE TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 195
+#
+name: MZ: AUDIO SEL TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 195
+#
+name: PARAMETER DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 196
+#
+name: PAR. CURSER DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 196
+#
+name: PARAMETER: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 196
+#
+name: PARAMETER
+type: parsed
+protocol: nec1
+address: 122
+command: 196
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 196
+#
+name: GUI: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 196
+#
+name: EFFECT LEVELS DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 197
+#
+name: EFFECT LEVELS UP
+type: parsed
+protocol: nec1
+address: 122
+command: 197
+#
+name: PARAMETER UP
+type: parsed
+protocol: nec1
+address: 122
+command: 197
+#
+name: PAR. CURSER UP
+type: parsed
+protocol: nec1
+address: 122
+command: 197
+#
+name: PARAMETER: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 197
+#
+name: GUI: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 197
+#
+name: EFFECT LEVELS +
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: PARAMETER RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: PARAMETER +
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: Z2 VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: PAR. CURSER RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: PARAMETER: (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: GUI: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 198
+#
+name: EFFECT LEVELS -
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: PARAMETER LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: PARAMETER -
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: Z2 VCR 2 / DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: PAR. CURSER LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: PARAMETER: (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: GUI: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 199
+#
+name: INPUT: VCR 3
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: VCR 3
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: Z2 V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: INPUT BD/HDDVD
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: INP BD/HD DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: INPUT: VCR3 / DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: MZ: INP BDHDDVD
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: MZ: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: MZ INP: BD/HD
+type: parsed
+protocol: nec1
+address: 122
+command: 200
+#
+name: MZ INP: BD/HD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 200
+#
+name: MD/CDR
+type: parsed
+protocol: nec2
+address: 122
+command: 201
+#
+name: INPUT MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: INPUT: MD
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: MD
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: INPUT: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: Z2 D-TV / LD
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: INPUT: MD / TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: MD/CD-R INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: MZ: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: INPUT: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 201
+#
+name: MAIN: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: INP MD/CD-R
+type: parsed
+protocol: nec2
+address: 122
+command: 201
+#
+name: ZONE 2 D-TV / LD
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#
+name: INPUT: SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 202
+#
+name: INPUT: SATELLITE
+type: parsed
+protocol: nec1
+address: 122
+command: 202
+#
+name: INPUT:SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 202
+#
+name: ZONE 2 SIRIUS INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 202
+#
+name: ZONE 2 STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 202
+#
+name: MZ: SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 202
+#
+name: INPUT: SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 203
+#
+name: ZONE 2 SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 203
+#
+name: Z2: SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 203
+#
+name: INPUT: CB-SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2 CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: IN CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2 IN: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: INPUT: CABLE
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: ZONE 2 CABLE
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2: CABLE
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2 INP: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 204
+#
+name: Z2 INP: CBL/SAT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 204
+#
+name: Z2 INPUT DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: INPUT: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2 DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: IN DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2 IN DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2 IN: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: ZONE 2 DVD INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: ZONE2 DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: ZONE 2: INPUT DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: ZONE 2 DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 205
+#
+name: ZONE2: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2 DVD
+type: parsed
+protocol: nec2
+address: 122
+command: 205
+#
+name: Z2: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2 INP: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 205
+#
+name: Z2 INP: DVD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 205
+#
+name: INPUT: VCR 3
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: Z2 IN BD/HD-DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: INP BD/HD DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: ZONE 2 VCR 3 / DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: Z2: INP BD/HDDVD
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: Z2: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: Z2 INP: BD/HD
+type: parsed
+protocol: nec1
+address: 122
+command: 206
+#
+name: Z2 INP: BD/HD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 206
+#
+name: Z2 INPUT MD/CD
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: INPUT: MD
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: Z2 MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: INPUT: MD / TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: DSP PARAMETER
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: ZONE 2 MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: Z2: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: ZONE2 CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: ZONE 2: INPUT MD
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 207
+#
+name: ZONE2: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 207
+#
+name: Z2 MD/CD-R
+type: parsed
+protocol: nec2
+address: 122
+command: 207
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 INPUT PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: INPUT: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2: PHONO
+type: parsed
+protocol: nec2
+address: 122
+command: 208
+#
+name: IN PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 IN PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 IN: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: ZONE 2: INPUT PHON
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: ZONE 2 PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 208
+#
+name: ZONE2: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 PHONO
+type: parsed
+protocol: nec2
+address: 122
+command: 208
+#
+name: Z2: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 INP: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 208
+#
+name: Z2 INP: PHONO
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 208
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2 INPUT CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: INPUT: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2 CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: IN CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2 IN CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: ZONE 2 CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2 IN: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: ZONE 2 CD INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: ZONE2 CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: ZONE 2: INPUT CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 209
+#
+name: ZONE2: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2 CD
+type: parsed
+protocol: nec2
+address: 122
+command: 209
+#
+name: Z2 INP: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 209
+#
+name: Z2 INP: CD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 209
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 INPUT TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: IN TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 IN TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: ZONE 2 TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 IN: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: ZONE 2 TUNER INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: ZONE2 TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: ZONE 2: INPUT TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 210
+#
+name: ZONE2: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 TUNER
+type: parsed
+protocol: nec2
+address: 122
+command: 210
+#
+name: Z2: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 INP: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 210
+#
+name: Z2 INP: TUNER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 210
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: INPUT: TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: Z2: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: IN MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: Z2 IN MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: Z2 IN: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: Z2: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: ZONE 2 MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: Z2: INP MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 211
+#
+name: Z2 CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: Z2: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: IN CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: Z2 IN CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: Z2 IN: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: INPUT: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: INP MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: ZONE 2 CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: Z2: INP CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: Z2 INP: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 212
+#
+name: Z2 INP: MD/CD-R
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 212
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 213
+#
+name: INPUT: LD
+type: parsed
+protocol: nec1
+address: 122
+command: 213
+#
+name: ZONE 2 DVD/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 213
+#
+name: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2 INPUT VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: INPUT: VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: VCR-1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: IN VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2 IN VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: ZONE 2 VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2 IN: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: ZONE2 VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: ZONE 2: INPUT VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: ZONE2: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2 VCR1(VCR)
+type: parsed
+protocol: nec2
+address: 122
+command: 214
+#
+name: Z2: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2 INP: VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 214
+#
+name: Z2 INP: VCR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 214
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2 INPUT DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: INPUT: VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: IN DVR/VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2 IN DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: ZONE 2 VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2 IN: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: INPUT: VCR 2 / DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: ZONE 2 DVR INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: ZONE2 DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: ZONE 2: INPUT DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: ZONE 2 DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 215
+#
+name: Z2 DVR/VCR2
+type: parsed
+protocol: nec2
+address: 122
+command: 215
+#
+name: Z2: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2 INP: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 215
+#
+name: Z2 INP: DVR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 215
+#
+name: V AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2 INPUT V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: INPUT: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2: V-AUX
+type: parsed
+protocol: nec2
+address: 122
+command: 216
+#
+name: IN V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2 IN V-AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2 IN: V-AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2: V-AUX/DOCK
+type: parsed
+protocol: nec2
+address: 122
+command: 216
+#
+name: INP V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: ZONE 2 V.AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: ZONE2 V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: ZONE 2: INPUT V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 216
+#
+name: Z2: V. AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: ZONE2: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2 VOLUME (-)
+type: parsed
+protocol: nec2
+address: 122
+command: 216
+#
+name: ZONE 2 V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2: INPUT V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2 INP: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 216
+#
+name: Z2 INP: V-AUX
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 216
+#
+name: TV/DBS
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2 INPUT DTV/CB
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: INPUT: D-TV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2: DTV/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2: DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: IN DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2 IN D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: ZONE 2 TV/DBS
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2 IN: D-TV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: INPUT: D-TV / LD
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: INP TV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: ZONE 2 DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: ZONE2 DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: ZONE 2: INPUT DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 217
+#
+name: Z2: DTV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2 DTV/CBL
+type: parsed
+protocol: nec2
+address: 122
+command: 217
+#
+name: MENU UP
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2: INP DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2 INP: TV
+type: parsed
+protocol: nec1
+address: 122
+command: 217
+#
+name: Z2 INP: TV
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 217
+#
+name: Z2 VOL +
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: Z2: VOL (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: ZONE 2 VOL. UP
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: Z2 VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: Z2: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: ZONE 2: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: ZONE 2 VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 218
+#
+name: Z2 VOLUME (+)
+type: parsed
+protocol: nec2
+address: 122
+command: 218
+#
+name: Z2: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 218
+#
+name: Z2: VOLUME UP
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 218
+#
+name: Z2 VOL -
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: Z2: VOL (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: ZONE 2 VOL. DWON
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: Z2 VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: Z2: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: ZONE 2: VOLUME DN
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: ZONE 2 VOL. DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 219
+#
+name: ZONE 2 VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: Z2: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 219
+#
+name: Z2: VOLUME DOWN
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 219
+#
+name: Z2 MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: Z2: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: Z2 MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: Z2: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: ZONE 2 MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: ZONE 2: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 220
+#
+name: Z2: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: ZONE2: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 220
+#
+name: Z2 MUTE
+type: parsed
+protocol: nec2
+address: 122
+command: 220
+#
+name: DSP DIRECT STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP PURE DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP TOG: PURE DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP PUREDIR TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: PURE DIRECT: TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DIRECT STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP TOG PURE DIR
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 221
+#
+name: PURE DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP: PURE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP: STEREO DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP PURE DIRECT TOG
+type: parsed
+protocol: nec2
+address: 122
+command: 221
+#
+name: PROGRAM PURE DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: DSP: T PURE DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: MZ: PURE DIRECT
+type: parsed
+protocol: nec1
+address: 122
+command: 221
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: MENU: ENTER
+type: parsed
+protocol: nec2
+address: 122
+command: 222
+#
+name: MENU CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: GUI: ENTER
+type: parsed
+protocol: nec2
+address: 122
+command: 222
+#
+name: MENU: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: SETUP ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: SOURCE: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 222
+#
+name: YENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: SET MENU: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: SET MENU ENTER
+type: parsed
+protocol: nec2
+address: 122
+command: 222
+#
+name: MENU ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: MZ SOURCE ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: MZ: SET CURS ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: GUI: ENTER
+type: parsed
+protocol: nec1
+address: 122
+command: 222
+#
+name: TUNER PRESET A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER PAGE A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER BANK A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER: PG A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER PRESETPAGEA
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER: PRESET PG A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER: CATAGORY A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER: PRESET A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER: A
+type: parsed
+protocol: nec1
+address: 122
+command: 224
+#
+name: TUNER: A
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 224
+#
+name: TUNER PRESET B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER PAGE B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER BANK B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER: PG B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER PRESETPAGEB
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER: PRESET PG B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER: CATAGORY B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER: PRESET B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER: B
+type: parsed
+protocol: nec1
+address: 122
+command: 225
+#
+name: TUNER: B
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 225
+#
+name: TUNER PRESET C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER PAGE C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER BANK C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER: PG C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER PRESETPAGEC
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER: PRESET PG C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER: CATAGORY C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER: PRESET C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER: C
+type: parsed
+protocol: nec1
+address: 122
+command: 226
+#
+name: TUNER: C
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 226
+#
+name: TUNER PRESET D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER PAGE D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER BANK D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER: PG D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER PRESETPAGED
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER: PRESET PG D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER: CATAGORY D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER: PRESET D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER: D
+type: parsed
+protocol: nec1
+address: 122
+command: 227
+#
+name: TUNER: D
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 227
+#
+name: TUNER PRESET E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER PAGE E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER BANK E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER: PG E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER PRESETPAGEE
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER: PRESET PG E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER: CATAGORY E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER: PRESET E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER: E
+type: parsed
+protocol: nec1
+address: 122
+command: 228
+#
+name: TUNER: E
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 228
+#
+name: TUNER PRESET 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: TUNER: PRES # 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: TUNER: PRESET 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: PRESET 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: TUNER: 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 229
+#
+name: TUNER 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: TUNER NUM 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: TUNER: PRESET # 1
+type: parsed
+protocol: nec1
+address: 122
+command: 229
+#
+name: TUN 1
+type: parsed
+protocol: nec2
+address: 122
+command: 229
+#
+name: TUNER: 1
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 229
+#
+name: TUNER PRESET 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: TUNER: PRES # 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: TUNER: PRESET 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: PRESET 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: TUNER: 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 230
+#
+name: TUNER 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: TUNER NUM 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: TUNER: PRESET # 2
+type: parsed
+protocol: nec1
+address: 122
+command: 230
+#
+name: TUN 2
+type: parsed
+protocol: nec2
+address: 122
+command: 230
+#
+name: TUNER: 2
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 230
+#
+name: TUNER PRESET 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: TUNER: PRES # 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: TUNER: PRESET 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: PRESET 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: TUNER: 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 231
+#
+name: TUNER 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: TUNER NUM 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: TUNER: PRESET # 3
+type: parsed
+protocol: nec1
+address: 122
+command: 231
+#
+name: TUN 3
+type: parsed
+protocol: nec2
+address: 122
+command: 231
+#
+name: TUNER: 3
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 231
+#
+name: TUNER PRESET 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: TUNER: PRES # 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: TUNER: PRESET 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: PRESET 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: TUNER: 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 232
+#
+name: TUNER 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: TUNER NUM 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: TUNER: PRESET # 4
+type: parsed
+protocol: nec1
+address: 122
+command: 232
+#
+name: TUN 4
+type: parsed
+protocol: nec2
+address: 122
+command: 232
+#
+name: TUNER: 4
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 232
+#
+name: TUNER PRESET 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: TUNER: PRES # 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: TUNER: PRESET 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: PRESET 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: TUNER: 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 233
+#
+name: TUNER 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: TUNER NUM 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: TUNER: PRESET # 5
+type: parsed
+protocol: nec1
+address: 122
+command: 233
+#
+name: TUN 5
+type: parsed
+protocol: nec2
+address: 122
+command: 233
+#
+name: TUNER: 5
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 233
+#
+name: TUNER PRESET 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: TUNER: PRES # 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: TUNER: PRESET 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: PRESET 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: TUNER: 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 234
+#
+name: TUNER 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: TUNER NUM 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: TUNER: PRESET # 6
+type: parsed
+protocol: nec1
+address: 122
+command: 234
+#
+name: TUN 6
+type: parsed
+protocol: nec2
+address: 122
+command: 234
+#
+name: TUNER: 6
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 234
+#
+name: TUNER PRESET 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TUNER: PRES # 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TUNER: PRESET 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: PRESET 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TUNER: 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 235
+#
+name: TUNER 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TUNER NUM 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TUNER: PRESET # 7
+type: parsed
+protocol: nec1
+address: 122
+command: 235
+#
+name: TUN 7
+type: parsed
+protocol: nec2
+address: 122
+command: 235
+#
+name: TUNER: 7
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 235
+#
+name: TUNER PRESET 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: TUNER: PRES # 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: TUNER: PRESET 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: PRESET 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: TUNER: 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 236
+#
+name: TUNER 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: TUNER NUM 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: TUNER: PRESET # 8
+type: parsed
+protocol: nec1
+address: 122
+command: 236
+#
+name: TUN 8
+type: parsed
+protocol: nec2
+address: 122
+command: 236
+#
+name: TUNER: 8
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 236
+#
+name: Z3: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 237
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 237
+#
+name: Z3 POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 237
+#
+name: Z3: POWER ON
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 237
+#
+name: Z3: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 238
+#
+name: POWER OFF (STANDBY)
+type: parsed
+protocol: nec1
+address: 122
+command: 238
+#
+name: Z3 POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 238
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 238
+#
+name: POWER OFF/STNDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 238
+#
+name: Z3: STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 238
+#
+name: Z3: STANDBY
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 238
+#
+name: Z3: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3: V-AUX
+type: parsed
+protocol: nec2
+address: 122
+command: 240
+#
+name: IN V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3 IN V-AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3 IN: V-AUX/DOCK
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3: V-AUX/DOCK
+type: parsed
+protocol: nec2
+address: 122
+command: 240
+#
+name: INP V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3: INP V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3 INP: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 240
+#
+name: Z3 INP: V-AUX
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 240
+#
+name: Z3: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: Z3: PHONO
+type: parsed
+protocol: nec2
+address: 122
+command: 241
+#
+name: IN PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: Z3 IN PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: INPUT: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: Z3 IN: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: Z3: INP PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: Z3 INP: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 241
+#
+name: Z3 INP: PHONO
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 241
+#
+name: Z3: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: IN CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: Z3 IN CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: INPUT: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: Z3 IN: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: Z3: INP CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: Z3 INP: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 242
+#
+name: Z3 INP: CD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 242
+#
+name: Z3: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: IN TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: Z3 IN TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: Z3 IN: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: Z3: INP TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: Z3 INP: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 243
+#
+name: Z3 INP: TUNER
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 243
+#
+name: Z3: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 244
+#
+name: IN MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 244
+#
+name: Z3 IN MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 244
+#
+name: INPUT: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 244
+#
+name: Z3 IN: MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 244
+#
+name: Z3: INP MD/TAPE
+type: parsed
+protocol: nec1
+address: 122
+command: 244
+#
+name: Z3: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: IN CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: Z3 IN CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: INPUT: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: Z3 IN: CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: INP MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: Z3: INP CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: Z3 INP: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 245
+#
+name: Z3 INP: MD/CD-R
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 245
+#
+name: Z3: DTV/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: Z3: DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: IN DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: Z3 IN D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: INPUT: D-TV/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: Z3 IN: D-TV
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: INP TV
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: Z3: INP DTV
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: Z3 INP: TV
+type: parsed
+protocol: nec1
+address: 122
+command: 246
+#
+name: Z3 INP: TV
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 246
+#
+name: Z3: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: IN CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: INPUT: CABLE
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: Z3 IN: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: Z3: INP CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: Z3 INP: CBL/SAT
+type: parsed
+protocol: nec1
+address: 122
+command: 247
+#
+name: Z3 INP: CBL/SAT
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 247
+#
+name: Z3: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: IN VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: Z3 IN VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: INPUT: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: Z3 IN: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: Z3: INP VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: Z3 INP: VCR
+type: parsed
+protocol: nec1
+address: 122
+command: 249
+#
+name: Z3 INP: VCR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 249
+#
+name: Z3: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: Z3: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: IN DVR/VCR 2
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: Z3 IN DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: INPUT: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: Z3 IN: DVR/VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: Z3: INP DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: Z3 INP: DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 250
+#
+name: Z3 INP: DVR
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 250
+#
+name: Z3 IN BD/HD-DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 251
+#
+name: INP BD/HD DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 251
+#
+name: Z3: INP BD/HDDVD
+type: parsed
+protocol: nec1
+address: 122
+command: 251
+#
+name: Z3 INP: BD/HD
+type: parsed
+protocol: nec1
+address: 122
+command: 251
+#
+name: Z3 INP: BD/HD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 251
+#
+name: Z3: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: IN DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: Z3 IN DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: INPUT: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: Z3 IN: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: Z3: INP DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: Z3 INP: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 252
+#
+name: Z3 INP: DVD
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 252
+#
+name: Z3: VOL (+)
+type: parsed
+protocol: nec1
+address: 122
+command: 253
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 253
+#
+name: Z3 VOL +
+type: parsed
+protocol: nec1
+address: 122
+command: 253
+#
+name: Z3: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 253
+#
+name: Z3: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 253
+#
+name: Z3: VOLUME UP
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 253
+#
+name: Z3: VOL (-)
+type: parsed
+protocol: nec1
+address: 122
+command: 254
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 254
+#
+name: Z3 VOL -
+type: parsed
+protocol: nec1
+address: 122
+command: 254
+#
+name: Z3: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 254
+#
+name: Z3: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 254
+#
+name: Z3: VOLUME DOWN
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 254
+#
+name: Z3: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: Z3 MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: MUTE ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: Z3: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: MUTE TOG
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 122
+command: 255
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec1_y2
+address: 122
+command: 255
+#

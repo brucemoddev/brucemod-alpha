@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: counter_clear
+type: parsed
+protocol: nec
+address: 130.120
+command: 10
+#
+name: auto_monitor
+type: parsed
+protocol: nec
+address: 130.120
+command: 12
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 130.120
+command: 16
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 130.120
+command: 17
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 130.120
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 130.120
+command: 19
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 130.120
+command: 21
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 130.120
+command: 22
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 130.120
+command: 23
+#
+name: display
+type: parsed
+protocol: nec
+address: 130.120
+command: 31
+#
+name: RTZ
+type: parsed
+protocol: nec
+address: 130.120
+command: 73
+#
+name: CD_sync_left
+type: parsed
+protocol: nec
+address: 130.120
+command: 84
+#
+name: CPS_forward
+type: parsed
+protocol: nec
+address: 130.120
+command: 92
+#
+name: CPS_back
+type: parsed
+protocol: nec
+address: 130.120
+command: 93
+#

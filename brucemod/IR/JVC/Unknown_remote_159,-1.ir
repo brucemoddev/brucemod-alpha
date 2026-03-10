@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 159
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: jvc
+address: 159
+command: 1
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: jvc
+address: 159
+command: 2
+#
+name: activebass
+type: parsed
+protocol: jvc
+address: 159
+command: 4
+#
+name: band
+type: parsed
+protocol: jvc
+address: 159
+command: 11
+#
+name: KEY_AUX
+type: parsed
+protocol: jvc
+address: 159
+command: 13
+#
+name: fmstereo
+type: parsed
+protocol: jvc
+address: 159
+command: 31
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 159
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 159
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 159
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 159
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 159
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 159
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 159
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 159
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 159
+command: 41
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 159
+command: 42
+#
+name: X_KEY_0+
+type: parsed
+protocol: jvc
+address: 159
+command: 46
+#
+name: KEY_SLEEP
+type: parsed
+protocol: jvc
+address: 159
+command: 50
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: jvc
+address: 159
+command: 61
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc
+address: 159
+command: 62
+#
+name: KEY_TAPE
+type: parsed
+protocol: jvc
+address: 159
+command: 66
+#
+name: counterreset
+type: parsed
+protocol: jvc
+address: 159
+command: 87
+#
+name: deckab
+type: parsed
+protocol: jvc
+address: 159
+command: 88
+#
+name: revmode
+type: parsed
+protocol: jvc
+address: 159
+command: 95
+#
+name: KEY_CD
+type: parsed
+protocol: jvc
+address: 159
+command: 112
+#
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 159
+command: 113
+#
+name: program
+type: parsed
+protocol: jvc
+address: 159
+command: 116
+#
+name: random
+type: parsed
+protocol: jvc
+address: 159
+command: 119
+#
+name: KEY_AGAIN
+type: parsed
+protocol: jvc
+address: 159
+command: 120
+#
+name: allcdeject
+type: parsed
+protocol: jvc
+address: 159
+command: 123
+#
+name: continue
+type: parsed
+protocol: jvc
+address: 159
+command: 125
+#
+name: sound
+type: parsed
+protocol: jvc
+address: 159
+command: 143
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 159
+command: 241
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 159
+command: 242
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 159
+command: 243
+#
+name: ejectcd1
+type: parsed
+protocol: jvc
+address: 159
+command: 244
+#
+name: ejectcd2
+type: parsed
+protocol: jvc
+address: 159
+command: 245
+#
+name: ejectcd3
+type: parsed
+protocol: jvc
+address: 159
+command: 246
+#

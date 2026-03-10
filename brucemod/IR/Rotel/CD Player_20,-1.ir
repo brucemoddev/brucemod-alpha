@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FF
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: REW
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 20
+command: 48
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#

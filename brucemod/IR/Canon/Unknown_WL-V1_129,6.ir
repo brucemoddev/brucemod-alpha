@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FOCUS_-_MANUAL
+type: parsed
+protocol: nec
+address: 129.6
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 129.6
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 129.6
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 129.6
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 129.6
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 129.6
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 129.6
+command: 6
+#
+name: FOCUS_-_AUTO
+type: parsed
+protocol: nec
+address: 129.6
+command: 7
+#
+name: FOCUS_-_NEAR
+type: parsed
+protocol: nec
+address: 129.6
+command: 8
+#
+name: FOCUS_-_FAR
+type: parsed
+protocol: nec
+address: 129.6
+command: 9
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 129.6
+command: 10
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 129.6
+command: 11
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 129.6
+command: 12
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 129.6
+command: 13
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 129.6
+command: 14
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 129.6
+command: 15
+#
+name: KEY_HOME
+type: parsed
+protocol: nec
+address: 129.6
+command: 16
+#
+name: OPERATE
+type: parsed
+protocol: nec
+address: 129.6
+command: 20
+#
+name: PRESET_SET/CANCEL
+type: parsed
+protocol: nec
+address: 129.6
+command: 21
+#

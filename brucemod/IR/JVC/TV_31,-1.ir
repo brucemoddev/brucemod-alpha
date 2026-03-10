@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO A
+type: parsed
+protocol: jvc
+address: 31
+command: 209
+#
+name: VIDEO B
+type: parsed
+protocol: jvc
+address: 31
+command: 210
+#
+name: POWER OFF
+type: parsed
+protocol: jvc
+address: 31
+command: 218
+#
+name: POWER ON
+type: parsed
+protocol: jvc
+address: 31
+command: 221
+#
+name: AUX B
+type: parsed
+protocol: jvc
+address: 31
+command: 224
+#
+name: COMPONENT
+type: parsed
+protocol: jvc
+address: 31
+command: 225
+#
+name: AUX A
+type: parsed
+protocol: jvc
+address: 31
+command: 226
+#

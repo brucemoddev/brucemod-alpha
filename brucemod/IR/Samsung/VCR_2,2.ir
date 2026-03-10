@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 130
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 131
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 132
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 133
+#
+name: FORWARD 1
+type: parsed
+protocol: necx2
+address: 2.2
+command: 134
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 135
+#
+name: FORWARD 3
+type: parsed
+protocol: necx2
+address: 2.2
+command: 136
+#
+name: REVERSE 3
+type: parsed
+protocol: necx2
+address: 2.2
+command: 137
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 137
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 142
+#
+name: 
+type: parsed
+protocol: necx2
+address: 2.2
+command: 143
+#
+name: 
+type: parsed
+protocol: nec2
+address: 2.2
+command: 144
+#
+name: 
+type: parsed
+protocol: nec2
+address: 2.2
+command: 208
+#

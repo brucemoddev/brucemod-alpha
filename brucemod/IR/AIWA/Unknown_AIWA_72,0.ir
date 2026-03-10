@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RADIO
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 0
+#
+name: am
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 1
+#
+name: t_up
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 4
+#
+name: t_down
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 5
+#
+name: v_up
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 7
+#
+name: v_down
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 8
+#
+name: muting
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 9
+#
+name: cdp_program
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 10
+#
+name: cdp_play
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 11
+#
+name: cdp_memory
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 12
+#
+name: cdp_stop
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 13
+#
+name: cdp_fskip
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 14
+#
+name: cdp_bskip
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 15
+#
+name: phono
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 17
+#
+name: KEY_TAPE
+type: parsed
+protocol: aiwa
+address: 72.0
+command: 18
+#

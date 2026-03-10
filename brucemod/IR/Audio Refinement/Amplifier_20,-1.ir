@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AMP
+type: parsed
+protocol: rc5
+address: 20
+command: 11
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 20
+command: 13
+#
+name: CD SEARCH +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: TUNER SEARCH +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: CD SEARCH -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: TUNER SEARCH -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 20
+command: 29
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#
+name: LISTEN -
+type: parsed
+protocol: rc5
+address: 20
+command: 60
+#
+name: PRESET -
+type: parsed
+protocol: rc5
+address: 20
+command: 60
+#
+name: TRACK -
+type: parsed
+protocol: rc5
+address: 20
+command: 60
+#
+name: LISTEN +
+type: parsed
+protocol: rc5
+address: 20
+command: 63
+#
+name: PRESET +
+type: parsed
+protocol: rc5
+address: 20
+command: 63
+#
+name: TRACK +
+type: parsed
+protocol: rc5
+address: 20
+command: 63
+#

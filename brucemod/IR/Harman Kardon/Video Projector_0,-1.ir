@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OFF
+type: parsed
+protocol: barco
+address: 0
+command: 1
+#
+name: PRESET
+type: parsed
+protocol: barco
+address: 0
+command: 3
+#
+name: MUTE
+type: parsed
+protocol: barco
+address: 0
+command: 6
+#
+name: TEST
+type: parsed
+protocol: barco
+address: 0
+command: 9
+#
+name: STEREO
+type: parsed
+protocol: barco
+address: 0
+command: 10
+#
+name: HY-SON
+type: parsed
+protocol: barco
+address: 0
+command: 11
+#
+name: VIDEO A
+type: parsed
+protocol: barco
+address: 0
+command: 16
+#
+name: VIDEO B
+type: parsed
+protocol: barco
+address: 0
+command: 17
+#
+name: RGB
+type: parsed
+protocol: barco
+address: 0
+command: 18
+#
+name: ENHANCE +
+type: parsed
+protocol: barco
+address: 0
+command: 36
+#
+name: ENHANCE -
+type: parsed
+protocol: barco
+address: 0
+command: 37
+#
+name: TINT +
+type: parsed
+protocol: barco
+address: 0
+command: 40
+#
+name: TINT -
+type: parsed
+protocol: barco
+address: 0
+command: 41
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: barco
+address: 0
+command: 42
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: barco
+address: 0
+command: 43
+#
+name: COLOR +
+type: parsed
+protocol: barco
+address: 0
+command: 44
+#
+name: COLOR -
+type: parsed
+protocol: barco
+address: 0
+command: 45
+#
+name: VOL +
+type: parsed
+protocol: barco
+address: 0
+command: 46
+#
+name: VOL -
+type: parsed
+protocol: barco
+address: 0
+command: 47
+#
+name: CONTRAST +
+type: parsed
+protocol: barco
+address: 0
+command: 48
+#
+name: CONTRAST -
+type: parsed
+protocol: barco
+address: 0
+command: 49
+#

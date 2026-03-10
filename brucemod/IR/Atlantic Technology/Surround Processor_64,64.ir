@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 64.64
+command: 0
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 64.64
+command: 3
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 64.64
+command: 3
+#
+name: NIGHT MODE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 18
+#
+name: MULTI ZONE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 34
+#
+name: PRESET SCAN
+type: parsed
+protocol: nec1
+address: 64.64
+command: 42
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 64.64
+command: 50
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 72
+#
+name: SIX CH. DIRECT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 82
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 64.64
+command: 98
+#
+name: VCR
+type: parsed
+protocol: nec1
+address: 64.64
+command: 114
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 64.64
+command: 168
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 64.64
+command: 184
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 202
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 210
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 64.64
+command: 242
+#

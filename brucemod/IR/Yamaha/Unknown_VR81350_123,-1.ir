@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 123
+command: 128
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 123
+command: 130
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 123
+command: 131
+#
+name: LD
+type: parsed
+protocol: nec
+address: 123
+command: 140
+#
+name: CD/CDG
+type: parsed
+protocol: nec
+address: 123
+command: 141
+#
+name: KEY_VCR
+type: parsed
+protocol: nec
+address: 123
+command: 142
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 123
+command: 143
+#
+name: AUX2
+type: parsed
+protocol: nec
+address: 123
+command: 144
+#
+name: AUX1
+type: parsed
+protocol: nec
+address: 123
+command: 145
+#
+name: B_SYMBOL
+type: parsed
+protocol: nec
+address: 123
+command: 150
+#
+name: SQUARE_SYMBOL
+type: parsed
+protocol: nec
+address: 123
+command: 151
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: nec
+address: 123
+command: 152
+#
+name: BALLAD
+type: parsed
+protocol: nec
+address: 123
+command: 153
+#
+name: POPS
+type: parsed
+protocol: nec
+address: 123
+command: 154
+#
+name: JAZZ
+type: parsed
+protocol: nec
+address: 123
+command: 155
+#
+name: ROCK
+type: parsed
+protocol: nec
+address: 123
+command: 156
+#
+name: MPX/STEREO
+type: parsed
+protocol: nec
+address: 123
+command: 216
+#
+name: VOCAL_AID
+type: parsed
+protocol: nec
+address: 123
+command: 217
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 123
+command: 218
+#

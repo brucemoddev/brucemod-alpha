@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.68
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.68
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.68
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.68
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.68
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.68
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.68
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.68
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.68
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.68
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.68
+command: 10
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 131.68
+command: 12
+#
+name: CD_PAUSE
+type: parsed
+protocol: nec
+address: 131.68
+command: 13
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 131.68
+command: 14
+#
+name: CD_FAST_REWIND
+type: parsed
+protocol: nec
+address: 131.68
+command: 15
+#
+name: CD_FAST_FORWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 16
+#
+name: CD_SKIP_BACKWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 17
+#
+name: CD_SKIP_FORWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 18
+#
+name: CD_1_ALL
+type: parsed
+protocol: nec
+address: 131.68
+command: 19
+#
+name: CD_RANDOM
+type: parsed
+protocol: nec
+address: 131.68
+command: 20
+#
+name: PSCAN
+type: parsed
+protocol: nec
+address: 131.68
+command: 24
+#
+name: DECK_B_RECORD
+type: parsed
+protocol: nec
+address: 131.68
+command: 29
+#
+name: DECK_B_PAUSE
+type: parsed
+protocol: nec
+address: 131.68
+command: 30
+#
+name: DECK_B_BACK
+type: parsed
+protocol: nec
+address: 131.68
+command: 31
+#
+name: DECK_B_FORWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 32
+#
+name: DECK_B_STOP
+type: parsed
+protocol: nec
+address: 131.68
+command: 33
+#
+name: DECK_B_FAST_REWIND
+type: parsed
+protocol: nec
+address: 131.68
+command: 34
+#
+name: DECK_B_FAST_FORWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 35
+#
+name: DECK_A_RECORD
+type: parsed
+protocol: nec
+address: 131.68
+command: 37
+#
+name: DECK_A_PAUSE
+type: parsed
+protocol: nec
+address: 131.68
+command: 38
+#
+name: DECK_A_BACK
+type: parsed
+protocol: nec
+address: 131.68
+command: 39
+#
+name: DECK_A_FORWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 40
+#
+name: DECK_A_STOP
+type: parsed
+protocol: nec
+address: 131.68
+command: 41
+#
+name: DECK_A_FAST_REWIND
+type: parsed
+protocol: nec
+address: 131.68
+command: 42
+#
+name: DECK_A_FAST_FORWARD
+type: parsed
+protocol: nec
+address: 131.68
+command: 43
+#
+name: CD_INTRO
+type: parsed
+protocol: nec
+address: 131.68
+command: 50
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 131.68
+command: 52
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 131.68
+command: 53
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 131.68
+command: 54
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 131.68
+command: 55
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 131.68
+command: 58
+#
+name: CD_A_B
+type: parsed
+protocol: nec
+address: 131.68
+command: 60
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.68
+command: 61
+#
+name: ROCK
+type: parsed
+protocol: nec
+address: 131.68
+command: 71
+#
+name: CLASSIC
+type: parsed
+protocol: nec
+address: 131.68
+command: 72
+#
+name: MOVIE
+type: parsed
+protocol: nec
+address: 131.68
+command: 73
+#
+name: FLAT
+type: parsed
+protocol: nec
+address: 131.68
+command: 74
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.68
+command: 77
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.68
+command: 85
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.68
+command: 86
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 131.68
+command: 87
+#
+name: POPS
+type: parsed
+protocol: nec
+address: 131.68
+command: 91
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 131.68
+command: 92
+#
+name: DISK
+type: parsed
+protocol: nec
+address: 131.68
+command: 94
+#
+name: JAZZ
+type: parsed
+protocol: nec
+address: 131.68
+command: 95
+#

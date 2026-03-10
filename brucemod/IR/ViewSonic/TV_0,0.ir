@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: rc5
+address: 0.0
+command: 12
+#
+name: FAV1
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 40
+#
+name: FAV2
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 41
+#
+name: FAV3
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 42
+#
+name: tv
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 11
+#
+name: hdmi
+type: parsed
+protocol: rc5
+address: 0.0
+command: 56
+#
+name: ypbpr
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 48
+#
+name: Av
+type: parsed
+protocol: rc5
+address: 0.0
+command: 57
+#
+name: cc
+type: parsed
+protocol: rc5
+address: 0.0
+command: 60
+#
+name: mts
+type: parsed
+protocol: rc5
+address: 0.0
+command: 35
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 0.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 0.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 0.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 0.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 0.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 0.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 0.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 0.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 0.0
+command: 9
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 0.0
+command: 0
+#
+name: last
+type: parsed
+protocol: rc5
+address: 0.0
+command: 34
+#
+name: CH_NEXT
+type: parsed
+protocol: rc5
+address: 0.0
+command: 32
+#
+name: CH_PREV
+type: parsed
+protocol: rc5
+address: 0.0
+command: 33
+#
+name: Info
+type: parsed
+protocol: rc5
+address: 0.0
+command: 18
+#
+name: Mute
+type: parsed
+protocol: rc5
+address: 0.0
+command: 13
+#
+name: Vol_Up
+type: parsed
+protocol: rc5
+address: 0.0
+command: 16
+#
+name: VOL_DN
+type: parsed
+protocol: rc5
+address: 0.0
+command: 17
+#
+name: source
+type: parsed
+protocol: rc5
+address: 0.0
+command: 40
+#
+name: Exit
+type: parsed
+protocol: rc5
+address: 0.0
+command: 15
+#
+name: Up
+type: parsed
+protocol: rc5
+address: 0.0
+command: 32
+#
+name: Down
+type: parsed
+protocol: rc5
+address: 0.0
+command: 33
+#
+name: Left
+type: parsed
+protocol: rc5
+address: 0.0
+command: 17
+#
+name: Right
+type: parsed
+protocol: rc5
+address: 0.0
+command: 16
+#
+name: Guide
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 56
+#
+name: Menu
+type: parsed
+protocol: rc5
+address: 0.0
+command: 46
+#
+name: Sleep
+type: parsed
+protocol: rc5
+address: 0.0
+command: 38
+#
+name: WIDE
+type: parsed
+protocol: rc5odd
+address: 0.0
+command: 62
+#
+name: sound
+type: parsed
+protocol: rc5
+address: 0.0
+command: 36
+#
+name: picture
+type: parsed
+protocol: rc5
+address: 0.0
+command: 26
+#
+name: -
+type: parsed
+protocol: rc5
+address: 0.0
+command: 11
+#

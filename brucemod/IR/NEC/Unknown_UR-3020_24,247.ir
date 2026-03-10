@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_R
+type: parsed
+protocol: nec
+address: 24.247
+command: 0
+#
+name: KEY_G
+type: parsed
+protocol: nec
+address: 24.247
+command: 1
+#
+name: KEY_B
+type: parsed
+protocol: nec
+address: 24.247
+command: 2
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24.247
+command: 8
+#
+name: 'END'
+type: parsed
+protocol: nec
+address: 24.247
+command: 9
+#
+name: TEST
+type: parsed
+protocol: nec
+address: 24.247
+command: 11
+#
+name: COARSE/FINE
+type: parsed
+protocol: nec
+address: 24.247
+command: 15
+#
+name: STORE
+type: parsed
+protocol: nec
+address: 24.247
+command: 18
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 24.247
+command: 20
+#
+name: STATIC
+type: parsed
+protocol: nec
+address: 24.247
+command: 21
+#
+name: CONV
+type: parsed
+protocol: nec
+address: 24.247
+command: 22
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 24.247
+command: 23
+#
+name: KEY_1/ABC
+type: parsed
+protocol: nec
+address: 24.247
+command: 24
+#
+name: KEY_2/DEF
+type: parsed
+protocol: nec
+address: 24.247
+command: 25
+#
+name: KEY_3/GHI
+type: parsed
+protocol: nec
+address: 24.247
+command: 26
+#
+name: KEY_4/JKL
+type: parsed
+protocol: nec
+address: 24.247
+command: 27
+#
+name: KEY_5/MNO
+type: parsed
+protocol: nec
+address: 24.247
+command: 28
+#
+name: KEY_6/PQR
+type: parsed
+protocol: nec
+address: 24.247
+command: 29
+#
+name: KEY_7/STU
+type: parsed
+protocol: nec
+address: 24.247
+command: 30
+#
+name: KEY_8/VWX
+type: parsed
+protocol: nec
+address: 24.247
+command: 31
+#
+name: KEY_9/YZ-
+type: parsed
+protocol: nec
+address: 24.247
+command: 64
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 24.247
+command: 65
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 24.247
+command: 66
+#
+name: NORMAL
+type: parsed
+protocol: nec
+address: 24.247
+command: 67
+#
+name: PICTURE_FUNCTION
+type: parsed
+protocol: nec
+address: 24.247
+command: 70
+#
+name: PICTURE_MUTE
+type: parsed
+protocol: nec
+address: 24.247
+command: 71
+#
+name: CURSOR_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 92
+#
+name: CURSOR_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 93
+#
+name: CURSOR_RIGHT
+type: parsed
+protocol: nec
+address: 24.247
+command: 94
+#
+name: CURSOR_LEFT
+type: parsed
+protocol: nec
+address: 24.247
+command: 95
+#
+name: CTL_END
+type: parsed
+protocol: nec
+address: 24.247
+command: 137
+#
+name: CTL_ENTER
+type: parsed
+protocol: nec
+address: 24.247
+command: 151
+#

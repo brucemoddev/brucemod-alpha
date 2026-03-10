@@ -1,0 +1,375 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 5
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: QP START + 1
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: QP STOP + 2
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: QP DATE + 3
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: QP START - 4
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: QP STOP - 5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: QP DATE - 6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: QP DAILY 8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: QP WEEKLY 9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: 100
+type: parsed
+protocol: rc5
+address: 5
+command: 10
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: VCR POWER
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: TURBO TIMER
+type: parsed
+protocol: rc5
+address: 5
+command: 28
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 5
+command: 29
+#
+name: CH +
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: VCR CH +
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: CH -
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: VCR CH -
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: AUDIO/MUTE
+type: parsed
+protocol: rc5
+address: 5
+command: 35
+#
+name: AUDIO
+type: parsed
+protocol: rc5
+address: 5
+command: 35
+#
+name: SLOW MOTION -
+type: parsed
+protocol: rc5
+address: 5
+command: 37
+#
+name: PLAY SPEED DOWN
+type: parsed
+protocol: rc5
+address: 5
+command: 37
+#
+name: SLOW MOTION +
+type: parsed
+protocol: rc5
+address: 5
+command: 38
+#
+name: PLAY SPEED UP
+type: parsed
+protocol: rc5
+address: 5
+command: 38
+#
+name: OTR
+type: parsed
+protocol: rc5
+address: 5
+command: 39
+#
+name: VAR PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 40
+#
+name: PAUSE/SLOW
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: PAUSE/STILL
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: EJECT
+type: parsed
+protocol: rc5
+address: 5
+command: 45
+#
+name: CLEAR
+type: parsed
+protocol: rc5
+address: 5
+command: 49
+#
+name: REWIND <<
+type: parsed
+protocol: rc5
+address: 5
+command: 50
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: rc5
+address: 5
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#
+name: QP SPEED
+type: parsed
+protocol: rc5
+address: 5
+command: 58
+#
+name: SP/SLP
+type: parsed
+protocol: rc5
+address: 5
+command: 58
+#
+name: MEMO
+type: parsed
+protocol: rc5
+address: 5
+command: 59
+#
+name: CLK/CNT
+type: parsed
+protocol: rc5
+address: 5
+command: 60
+#
+name: VCR/TV
+type: parsed
+protocol: rc5
+address: 5
+command: 62
+#
+name: TIMER
+type: parsed
+protocol: rc5
+address: 5
+command: 69
+#
+name: VCR PLUS: DAILY
+type: parsed
+protocol: rc5
+address: 5
+command: 69
+#
+name: SMART PICTURE
+type: parsed
+protocol: rc5
+address: 5
+command: 70
+#
+name: PICT CTRL
+type: parsed
+protocol: rc5
+address: 5
+command: 70
+#
+name: TRACKING +
+type: parsed
+protocol: rc5
+address: 5
+command: 77
+#
+name: TRACKING -
+type: parsed
+protocol: rc5
+address: 5
+command: 78
+#
+name: TAPE MANAGER
+type: parsed
+protocol: rc5
+address: 5
+command: 79
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 5
+command: 82
+#
+name: OK/STATUS
+type: parsed
+protocol: rc5
+address: 5
+command: 87
+#
+name: SKIP/SEARCH
+type: parsed
+protocol: rc5
+address: 5
+command: 106
+#
+name: SKIP
+type: parsed
+protocol: rc5
+address: 5
+command: 106
+#
+name: VISS FWD
+type: parsed
+protocol: rc5
+address: 5
+command: 112
+#
+name: VISS REV
+type: parsed
+protocol: rc5
+address: 5
+command: 113
+#

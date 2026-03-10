@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON
+type: parsed
+protocol: velleman
+address: 0
+command: 32
+#
+name: OFF
+type: parsed
+protocol: velleman
+address: 0
+command: 33
+#
+name: UP
+type: parsed
+protocol: velleman
+address: 0
+command: 34
+#
+name: DOWN
+type: parsed
+protocol: velleman
+address: 0
+command: 35
+#

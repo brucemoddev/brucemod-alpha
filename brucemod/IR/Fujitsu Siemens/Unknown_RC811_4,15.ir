@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: mce
+address: 4.15
+command: 12
+#
+name: KEY_PROG1
+type: parsed
+protocol: mce
+address: 4.15
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: mce
+address: 4.15
+command: 14
+#
+name: KEY_INFO
+type: parsed
+protocol: mce
+address: 4.15
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: mce
+address: 4.15
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 17
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: mce
+address: 4.15
+command: 18
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 19
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: mce
+address: 4.15
+command: 20
+#
+name: KEY_REWIND
+type: parsed
+protocol: mce
+address: 4.15
+command: 21
+#
+name: KEY_PLAY
+type: parsed
+protocol: mce
+address: 4.15
+command: 22
+#
+name: KEY_RECORD
+type: parsed
+protocol: mce
+address: 4.15
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: mce
+address: 4.15
+command: 24
+#
+name: KEY_STOP
+type: parsed
+protocol: mce
+address: 4.15
+command: 25
+#
+name: KEY_NEXT
+type: parsed
+protocol: mce
+address: 4.15
+command: 26
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: mce
+address: 4.15
+command: 27
+#
+name: KEY_UP
+type: parsed
+protocol: mce
+address: 4.15
+command: 30
+#
+name: KEY_DOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 31
+#
+name: KEY_LEFT
+type: parsed
+protocol: mce
+address: 4.15
+command: 32
+#
+name: KEY_RIGHT
+type: parsed
+protocol: mce
+address: 4.15
+command: 33
+#
+name: KEY_OK
+type: parsed
+protocol: mce
+address: 4.15
+command: 34
+#
+name: KEY_BACK
+type: parsed
+protocol: mce
+address: 4.15
+command: 35
+#
+name: KEY_DVD
+type: parsed
+protocol: mce
+address: 4.15
+command: 36
+#
+name: KEY_VCR
+type: parsed
+protocol: mce
+address: 4.15
+command: 37
+#
+name: KEY_LIST
+type: parsed
+protocol: mce
+address: 4.15
+command: 38
+#
+name: KEY_LIST
+type: parsed
+protocol: mce
+address: 4.15
+command: 38
+#
+name: KEY_TV
+type: parsed
+protocol: mce
+address: 4.15
+command: 72
+#

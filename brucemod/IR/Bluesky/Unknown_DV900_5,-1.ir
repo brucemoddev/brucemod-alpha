@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_ZOOM
+type: parsed
+protocol: recs80_45
+address: 5
+command: 18
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: recs80_45
+address: 5
+command: 21
+#
+name: KEY_NEXT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 22
+#
+name: KEY_MENU
+type: parsed
+protocol: recs80_45
+address: 5
+command: 23
+#
+name: KEY_MUTE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 24
+#
+name: KEY_PLAY
+type: parsed
+protocol: recs80_45
+address: 5
+command: 25
+#
+name: KEY_PAUSE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 26
+#
+name: KEY_8
+type: parsed
+protocol: recs80_45
+address: 5
+command: 28
+#
+name: KEY_4
+type: parsed
+protocol: recs80_45
+address: 5
+command: 29
+#
+name: KEY_POWER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 30
+#
+name: KEY_DIRECTORY
+type: parsed
+protocol: recs80_45
+address: 5
+command: 31
+#
+name: KEY_INFO
+type: parsed
+protocol: recs80_45
+address: 5
+command: 32
+#
+name: KEY_RIGHT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 33
+#
+name: KEY_STOP
+type: parsed
+protocol: recs80_45
+address: 5
+command: 34
+#
+name: KEY_CLEAR
+type: parsed
+protocol: recs80_45
+address: 5
+command: 35
+#
+name: KEY_7
+type: parsed
+protocol: recs80_45
+address: 5
+command: 36
+#
+name: KEY_3
+type: parsed
+protocol: recs80_45
+address: 5
+command: 37
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: recs80_45
+address: 5
+command: 38
+#
+name: KEY_TITLE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 39
+#
+name: KEY_UP
+type: parsed
+protocol: recs80_45
+address: 5
+command: 40
+#
+name: KEY_OK
+type: parsed
+protocol: recs80_45
+address: 5
+command: 41
+#
+name: KEY_DOWN
+type: parsed
+protocol: recs80_45
+address: 5
+command: 42
+#
+name: KEY_0
+type: parsed
+protocol: recs80_45
+address: 5
+command: 43
+#
+name: KEY_6
+type: parsed
+protocol: recs80_45
+address: 5
+command: 44
+#
+name: KEY_2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 45
+#
+name: KEY_CAMERA
+type: parsed
+protocol: recs80_45
+address: 5
+command: 46
+#
+name: KEY_EXIT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 48
+#
+name: KEY_LEFT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 49
+#
+name: KEY_FORWARD
+type: parsed
+protocol: recs80_45
+address: 5
+command: 50
+#
+name: KEY_9
+type: parsed
+protocol: recs80_45
+address: 5
+command: 51
+#
+name: KEY_5
+type: parsed
+protocol: recs80_45
+address: 5
+command: 52
+#
+name: KEY_1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 53
+#
+name: KEY_REWIND
+type: parsed
+protocol: recs80_45
+address: 5
+command: 55
+#

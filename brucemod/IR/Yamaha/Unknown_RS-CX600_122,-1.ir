@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR_APE
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: CDV
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: DAT
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#

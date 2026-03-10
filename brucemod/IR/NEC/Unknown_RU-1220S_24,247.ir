@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_R
+type: parsed
+protocol: nec
+address: 24.247
+command: 0
+#
+name: KEY_B
+type: parsed
+protocol: nec
+address: 24.247
+command: 2
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24.247
+command: 8
+#
+name: END/CONV_CONTROL
+type: parsed
+protocol: nec
+address: 24.247
+command: 9
+#
+name: TEST_PATTERN_TEST
+type: parsed
+protocol: nec
+address: 24.247
+command: 11
+#
+name: TEST_PATTERN_COARSE
+type: parsed
+protocol: nec
+address: 24.247
+command: 14
+#
+name: TEST_PATTERN_FINE
+type: parsed
+protocol: nec
+address: 24.247
+command: 15
+#
+name: STORE
+type: parsed
+protocol: nec
+address: 24.247
+command: 18
+#
+name: STATIC
+type: parsed
+protocol: nec
+address: 24.247
+command: 21
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 24.247
+command: 24
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 24.247
+command: 25
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 24.247
+command: 28
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 24.247
+command: 29
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 24.247
+command: 30
+#
+name: SEL
+type: parsed
+protocol: nec
+address: 24.247
+command: 64
+#
+name: BEAM
+type: parsed
+protocol: nec
+address: 24.247
+command: 65
+#
+name: LEVEL_CONTROL_PRESET
+type: parsed
+protocol: nec
+address: 24.247
+command: 66
+#
+name: LEVEL_CONTROL_CALL
+type: parsed
+protocol: nec
+address: 24.247
+command: 67
+#
+name: PICTURE_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 70
+#
+name: PICTURE_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 71
+#
+name: COLOR_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 72
+#
+name: COLOR_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 73
+#
+name: BRIGHT_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 74
+#
+name: BRIGHT_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 75
+#
+name: TINT_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 76
+#
+name: TINT_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 77
+#
+name: SHARPNESS_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 78
+#
+name: SHARPNESS_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 79
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 92
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 93
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 24.247
+command: 94
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 24.247
+command: 95
+#

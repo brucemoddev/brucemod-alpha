@@ -1,0 +1,375 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: A MUTE T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 0
+#
+name: A MUTE T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 0
+#
+name: A DISPLAY T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 1
+#
+name: A DISPLAY T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 1
+#
+name: A DISP T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 1
+#
+name: A DISP T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 1
+#
+name: A VOL+ T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 8
+#
+name: A VOL+ T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 8
+#
+name: A VOL- T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 9
+#
+name: A VOL- T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 9
+#
+name: A STANDBY T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 11
+#
+name: A STANDBY T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 11
+#
+name: A STDBY T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 11
+#
+name: A STDBY T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 11
+#
+name: A ENTER T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 13
+#
+name: A ENTER T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 13
+#
+name: A MENU T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 14
+#
+name: A MENU T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 14
+#
+name: A UP T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 15
+#
+name: A UP T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 15
+#
+name: A BAL R T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 16
+#
+name: A BAL R T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 16
+#
+name: A RIGHT T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 16
+#
+name: A RIGHT T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 16
+#
+name: A BAL L T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 17
+#
+name: A BAL L T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 17
+#
+name: A LEFT T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 17
+#
+name: A LEFT T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 17
+#
+name: A DOWN T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 18
+#
+name: A DOWN T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 18
+#
+name: A LINE4 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 24
+#
+name: A LINE4 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 24
+#
+name: A REG4 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 24
+#
+name: A REG4 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 24
+#
+name: A LINE3 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 25
+#
+name: A LINE3 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 25
+#
+name: A REG3 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 25
+#
+name: A REG3 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 25
+#
+name: A LINE2 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 26
+#
+name: A LINE2 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 26
+#
+name: A REG2 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 26
+#
+name: A REG2 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 26
+#
+name: A LINE1 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 27
+#
+name: A LINE1 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 27
+#
+name: A REG1 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 27
+#
+name: A REG1 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 27
+#
+name: A SRS T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 32
+#
+name: A SRS T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 32
+#
+name: A TAPE T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 33
+#
+name: A TAPE T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 33
+#
+name: A BAL2 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 34
+#
+name: A BAL2 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 34
+#
+name: A BAL1 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 35
+#
+name: A BAL1 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 35
+#
+name: A GAIN T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 40
+#
+name: A GAIN T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 40
+#
+name: A PHASE T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 41
+#
+name: A PHASE T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 41
+#
+name: A BAL3 T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 42
+#
+name: A BAL3 T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 42
+#
+name: A OUTPUT T0
+type: parsed
+protocol: recs80_45
+address: 3
+command: 43
+#
+name: A OUTPUT T1
+type: parsed
+protocol: recs80_45
+address: 3
+command: 43
+#

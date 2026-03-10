@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP
+type: parsed
+protocol: barco
+address: 18
+command: 4
+#
+name: CURSOR UP
+type: parsed
+protocol: barco
+address: 18
+command: 4
+#
+name: DOWN
+type: parsed
+protocol: barco
+address: 18
+command: 5
+#
+name: CURSOR DOWN
+type: parsed
+protocol: barco
+address: 18
+command: 5
+#
+name: >
+type: parsed
+protocol: barco
+address: 18
+command: 6
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: barco
+address: 18
+command: 6
+#
+name: <
+type: parsed
+protocol: barco
+address: 18
+command: 7
+#
+name: CURSOR LEFT
+type: parsed
+protocol: barco
+address: 18
+command: 7
+#
+name: EXIT
+type: parsed
+protocol: barco
+address: 18
+command: 8
+#
+name: ADJ
+type: parsed
+protocol: barco
+address: 18
+command: 9
+#
+name: ADJUST
+type: parsed
+protocol: barco
+address: 18
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: barco
+address: 18
+command: 10
+#
+name: OK
+type: parsed
+protocol: barco
+address: 18
+command: 10
+#
+name: TEXT
+type: parsed
+protocol: barco
+address: 18
+command: 13
+#
+name: POWER
+type: parsed
+protocol: barco
+address: 18
+command: 14
+#
+name: STANDBY
+type: parsed
+protocol: barco
+address: 18
+command: 14
+#
+name: PAUSE
+type: parsed
+protocol: barco
+address: 18
+command: 15
+#
+name: 1
+type: parsed
+protocol: barco
+address: 18
+command: 16
+#
+name: 
+type: parsed
+protocol: barco
+address: 18
+command: 16
+#
+name: 2
+type: parsed
+protocol: barco
+address: 18
+command: 17
+#
+name: 3
+type: parsed
+protocol: barco
+address: 18
+command: 18
+#
+name: 4
+type: parsed
+protocol: barco
+address: 18
+command: 19
+#
+name: 5
+type: parsed
+protocol: barco
+address: 18
+command: 20
+#
+name: 
+type: parsed
+protocol: barco
+address: 18
+command: 20
+#
+name: 6
+type: parsed
+protocol: barco
+address: 18
+command: 21
+#
+name: 7
+type: parsed
+protocol: barco
+address: 18
+command: 22
+#
+name: 
+type: parsed
+protocol: barco
+address: 18
+command: 22
+#
+name: 8
+type: parsed
+protocol: barco
+address: 18
+command: 23
+#
+name: 9
+type: parsed
+protocol: barco
+address: 18
+command: 24
+#
+name: 
+type: parsed
+protocol: barco
+address: 18
+command: 24
+#
+name: 0
+type: parsed
+protocol: barco
+address: 18
+command: 25
+#
+name: ADDRESS
+type: parsed
+protocol: barco
+address: 18
+command: 32
+#
+name: CONTRAST +
+type: parsed
+protocol: barco
+address: 18
+command: 40
+#
+name: CONTRAST -
+type: parsed
+protocol: barco
+address: 18
+command: 41
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: barco
+address: 18
+command: 42
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: barco
+address: 18
+command: 43
+#
+name: COLOR +
+type: parsed
+protocol: barco
+address: 18
+command: 44
+#
+name: COLOR -
+type: parsed
+protocol: barco
+address: 18
+command: 45
+#
+name: TINT +
+type: parsed
+protocol: barco
+address: 18
+command: 46
+#
+name: TINT -
+type: parsed
+protocol: barco
+address: 18
+command: 47
+#
+name: SHARPNESS +
+type: parsed
+protocol: barco
+address: 18
+command: 54
+#
+name: SHARPNESS -
+type: parsed
+protocol: barco
+address: 18
+command: 55
+#

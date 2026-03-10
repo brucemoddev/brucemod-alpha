@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT COMPONENT 1
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 124
+#
+name: INPUT COMPONENT 2
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 125
+#
+name: INPUT HDMI 1
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 176
+#
+name: INPUT HDMI 2
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 177
+#
+name: INPUT HDMI 3
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 178
+#
+name: INPUT HDMI 4
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 179
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 199
+#
+name: ASPECT ZOOM
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 201
+#
+name: ASPECT JUST
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 203
+#
+name: ASPECT AUTO
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 204
+#
+name: ASPECT FULL
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 209
+#
+name: ASPECT SELECT/SCROLL
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 222
+#
+name: PIP POSITION
+type: parsed
+protocol: panasonic
+address: 128.4
+command: 229
+#

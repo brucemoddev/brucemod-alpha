@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SHUFFLE
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 5
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 6
+#
+name: INTRO
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 7
+#
+name: SEARCH <<
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 8
+#
+name: SEARCH >>
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 9
+#
+name: 9
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 11
+#
+name: SKIP <<
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 12
+#
+name: 3
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 13
+#
+name: 0
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 14
+#
+name: 1
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 15
+#
+name: 7
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 16
+#
+name: 4
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 17
+#
+name: 8
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 19
+#
+name: SKIP >>
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 20
+#
+name: 2
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 22
+#
+name: 6
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 23
+#
+name: 5
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 24
+#
+name: PROG
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 25
+#
+name: DISPLAY
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 26
+#
+name: REPEAT (1/ALL)
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 27
+#
+name: STOP/CLEAR []
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 28
+#
+name: PLAY/PAUSE >/
+type: parsed
+protocol: aiwa
+address: 99.0
+command: 29
+#

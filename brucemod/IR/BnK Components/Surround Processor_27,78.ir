@@ -1,0 +1,591 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: nec
+address: 27.78
+command: 1
+#
+name: Z2 OFF
+type: parsed
+protocol: nec
+address: 27.78
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 1
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 2
+#
+name: Z2 ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 27.78
+command: 3
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 3
+#
+name: Z2 MUTE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 3
+#
+name: V1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: Z2 VCR [V1]
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 27.78
+command: 6
+#
+name: V3
+type: parsed
+protocol: pioneer
+address: 27.78
+command: 6
+#
+name: V2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: Z2 TIVO [V2]
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: DVD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 13
+#
+name: FM INPUT
+type: parsed
+protocol: pioneer
+address: 27.78
+command: 14
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: Z2 CD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: CENTER -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: CNTR <
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: CENTER +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: CNTR +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: REAR -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: REAR <
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: REAR +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: REAR >
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: SUB -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: SUB <
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: SUB +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: SUB >
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: CURSOR LF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: CURSOR RT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: Z2 VOL DN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: Z2 VOL UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: 10+
+type: parsed
+protocol: nec
+address: 27.78
+command: 41
+#
+name: EQ
+type: parsed
+protocol: nec2
+address: 27.78
+command: 42
+#
+name: DVD-A
+type: parsed
+protocol: nec2
+address: 27.78
+command: 43
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: TUNE -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: CURSOR DN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: TUNE +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 27.78
+command: 47
+#
+name: MENU -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 47
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 48
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 51
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 27.78
+command: 53
+#
+name: 5
+type: parsed
+protocol: nec
+address: 27.78
+command: 54
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 27.78
+command: 54
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 55
+#
+name: EX
+type: parsed
+protocol: nec2
+address: 27.78
+command: 55
+#
+name: 7
+type: parsed
+protocol: nec
+address: 27.78
+command: 57
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 27.78
+command: 57
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 27.78
+command: 58
+#
+name: DIRECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 58
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 27.78
+command: 59
+#
+name: LTRT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 59
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 27.78
+command: 62
+#
+name: HEADPHONE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 62
+#
+name: Z
+type: parsed
+protocol: nec2
+address: 27.78
+command: 63
+#
+name: SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: SAT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: Z2 SAT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: PAN+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 78
+#
+name: INFO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 83
+#
+name: BASS<
+type: parsed
+protocol: nec2
+address: 27.78
+command: 101
+#
+name: DPL
+type: parsed
+protocol: nec2
+address: 27.78
+command: 106
+#
+name: MOVIE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 114
+#
+name: AM TUNER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: Z2 RADIO [AM]
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: TREB<
+type: parsed
+protocol: nec2
+address: 27.78
+command: 121
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 125
+#
+name: THX
+type: parsed
+protocol: nec
+address: 27.78
+command: 138
+#
+name: THX
+type: parsed
+protocol: nec2
+address: 27.78
+command: 138
+#
+name: FM TUNER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: Z2 RADIO [FM]
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: MONO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 154
+#
+name: IMG+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 158
+#
+name: NEO 6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 170
+#
+name: MUSIC
+type: parsed
+protocol: nec2
+address: 27.78
+command: 178
+#
+name: SURR
+type: parsed
+protocol: nec2
+address: 27.78
+command: 202
+#
+name: PAN _
+type: parsed
+protocol: nec2
+address: 27.78
+command: 206
+#
+name: STEREO
+type: parsed
+protocol: nec
+address: 27.78
+command: 226
+#
+name: STEREO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 226
+#
+name: BASS >
+type: parsed
+protocol: nec2
+address: 27.78
+command: 229
+#
+name: DPLII
+type: parsed
+protocol: nec2
+address: 27.78
+command: 234
+#
+name: IMG -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 238
+#
+name: TREB>
+type: parsed
+protocol: nec2
+address: 27.78
+command: 249
+#

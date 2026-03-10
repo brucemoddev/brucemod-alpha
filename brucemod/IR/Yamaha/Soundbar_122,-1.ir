@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: YAMAHA_POWER
+type: parsed
+protocol: nec
+address: 126
+command: 42
+#
+name: HDMI_1
+type: parsed
+protocol: nec2
+address: 122.133
+command: 71
+#
+name: HDMI_2
+type: parsed
+protocol: nec2
+address: 122.133
+command: 74
+#
+name: HDMI_3
+type: parsed
+protocol: nec2
+address: 122.133
+command: 77
+#
+name: HDMI_4
+type: parsed
+protocol: nec2
+address: 122.133
+command: 80
+#
+name: HDMI_5
+type: parsed
+protocol: nec2
+address: 122.133
+command: 112
+#
+name: Up
+type: parsed
+protocol: nec
+address: 122
+command: 157
+#
+name: Left
+type: parsed
+protocol: nec
+address: 122
+command: 159
+#
+name: enter
+type: parsed
+protocol: nec
+address: 122
+command: 222
+#
+name: Right
+type: parsed
+protocol: nec
+address: 122
+command: 158
+#
+name: Down
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#
+name: ON_SCREEN
+type: parsed
+protocol: nec
+address: 122
+command: 132
+#
+name: return
+type: parsed
+protocol: nec
+address: 122
+command: 170
+#
+name: OPTION
+type: parsed
+protocol: nec2
+address: 122.133
+command: 107
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: POP_UPMENU
+type: parsed
+protocol: nec2
+address: 122.133
+command: 164
+#
+name: display
+type: parsed
+protocol: nec2
+address: 127.1
+command: 96
+#

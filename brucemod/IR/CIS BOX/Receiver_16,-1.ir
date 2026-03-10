@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony12
+address: 16
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 16
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 16
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 16
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 16
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 16
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 16
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 16
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 16
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony12
+address: 16
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony12
+address: 16
+command: 12
+#
+name: CH UP
+type: parsed
+protocol: sony12
+address: 16
+command: 16
+#
+name: CH DN
+type: parsed
+protocol: sony12
+address: 16
+command: 17
+#
+name: VOL UP
+type: parsed
+protocol: sony12
+address: 16
+command: 18
+#
+name: VOL DN
+type: parsed
+protocol: sony12
+address: 16
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: sony12
+address: 16
+command: 20
+#
+name: VID 2
+type: parsed
+protocol: sony12
+address: 16
+command: 30
+#
+name: TUNER
+type: parsed
+protocol: sony12
+address: 16
+command: 33
+#
+name: VID 1
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: TAPE 1
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: CD
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: PWR ON
+type: parsed
+protocol: sony12
+address: 16
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony12
+address: 16
+command: 47
+#
+name: VID5
+type: parsed
+protocol: sony12
+address: 16
+command: 65
+#
+name: VID3
+type: parsed
+protocol: sony12
+address: 16
+command: 66
+#
+name: VID4
+type: parsed
+protocol: sony12
+address: 16
+command: 67
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 16
+command: 75
+#
+name: ON SCREEN
+type: parsed
+protocol: sony12
+address: 16
+command: 83
+#
+name: TV/SAT
+type: parsed
+protocol: sony12
+address: 16
+command: 106
+#
+name: DVD
+type: parsed
+protocol: sony12
+address: 16
+command: 125
+#

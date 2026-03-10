@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY_ON-OFF
+type: parsed
+protocol: nec
+address: 49
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 49
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 49
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 49
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 49
+command: 7
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 49
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 49
+command: 13
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 49
+command: 14
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 49
+command: 15
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 49
+command: 16
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 49
+command: 17
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 49
+command: 18
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 49
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 49
+command: 20
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 49
+command: 28
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 49
+command: 29
+#

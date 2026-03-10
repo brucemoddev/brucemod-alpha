@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 128
+#
+name: AUDIO2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 129
+#
+name: AUDIO3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 130
+#
+name: RF
+type: parsed
+protocol: nec1
+address: 3.240
+command: 131
+#
+name: VIDEO1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 131
+#
+name: TOSLINK
+type: parsed
+protocol: nec1
+address: 3.240
+command: 132
+#
+name: VIDEO2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 132
+#
+name: COAX1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 133
+#
+name: VIDEO3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 133
+#
+name: COAX2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 134
+#
+name: VIDEO4
+type: parsed
+protocol: nec1
+address: 3.240
+command: 134
+#
+name: STEREO-DIRECT
+type: parsed
+protocol: nec1
+address: 3.240
+command: 144
+#
+name: 5.1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 145
+#
+name: PROLOGIC
+type: parsed
+protocol: nec1
+address: 3.240
+command: 148
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 3.240
+command: 149
+#
+name: MONO
+type: parsed
+protocol: nec1
+address: 3.240
+command: 156
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 3.240
+command: 192
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 3.240
+command: 200
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 3.240
+command: 203
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 3.240
+command: 204
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 3.240
+command: 207
+#
+name: 2CH
+type: parsed
+protocol: nec1
+address: 3.240
+command: 208
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 3.240
+command: 209
+#
+name: DIALOGNORMALIZATION
+type: parsed
+protocol: nec1
+address: 3.240
+command: 210
+#
+name: DYNAMIC RANGE
+type: parsed
+protocol: nec1
+address: 3.240
+command: 211
+#
+name: RE-EQ
+type: parsed
+protocol: nec1
+address: 3.240
+command: 215
+#

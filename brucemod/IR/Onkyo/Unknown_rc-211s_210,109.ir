@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER_PRESET-UP
+type: parsed
+protocol: nec
+address: 210.109
+command: 0
+#
+name: TUNER_PRESET-DOWN
+type: parsed
+protocol: nec
+address: 210.109
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 210.109
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 210.109
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 210.109
+command: 4
+#
+name: MUTING
+type: parsed
+protocol: nec
+address: 210.109
+command: 5
+#
+name: INPUT_SEL_TAPE-2
+type: parsed
+protocol: nec
+address: 210.109
+command: 7
+#
+name: INPUT_SEL_TAPE-1
+type: parsed
+protocol: nec
+address: 210.109
+command: 8
+#
+name: INPUT_SEL_CD
+type: parsed
+protocol: nec
+address: 210.109
+command: 9
+#
+name: INPUT_SEL_PHONO
+type: parsed
+protocol: nec
+address: 210.109
+command: 10
+#
+name: INPUT_SEL_TUNER
+type: parsed
+protocol: nec
+address: 210.109
+command: 11
+#
+name: INPUT_SEL_VIDEO-2
+type: parsed
+protocol: nec
+address: 210.109
+command: 14
+#
+name: INPUT_SEL_VIDEO-1
+type: parsed
+protocol: nec
+address: 210.109
+command: 15
+#
+name: DECK-B_STOP
+type: parsed
+protocol: nec
+address: 210.109
+command: 19
+#
+name: DECK-B_FWD-PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 21
+#
+name: DECK-B_REV-PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 22
+#
+name: DECK-B_RECORD-PAUSE
+type: parsed
+protocol: nec
+address: 210.109
+command: 24
+#
+name: DECK-B_FF
+type: parsed
+protocol: nec
+address: 210.109
+command: 25
+#
+name: DECK-B_REW
+type: parsed
+protocol: nec
+address: 210.109
+command: 26
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 27
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 210.109
+command: 28
+#
+name: CD_SKIP-NEXT
+type: parsed
+protocol: nec
+address: 210.109
+command: 29
+#
+name: CD_SKIP-LAST
+type: parsed
+protocol: nec
+address: 210.109
+command: 30
+#
+name: CD_PAUSE
+type: parsed
+protocol: nec
+address: 210.109
+command: 31
+#
+name: INPUT_SEL_DIRECT
+type: parsed
+protocol: nec
+address: 210.109
+command: 68
+#
+name: TUNER_CLASS
+type: parsed
+protocol: nec
+address: 210.109
+command: 74
+#
+name: DECK-A_STOP
+type: parsed
+protocol: nec
+address: 210.109
+command: 77
+#
+name: DECK-A_FWD-PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 78
+#
+name: DECK-A_REV-PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 79
+#
+name: DECK-A_RECORD-PAUSE
+type: parsed
+protocol: nec
+address: 210.109
+command: 80
+#
+name: DECK-A_FF
+type: parsed
+protocol: nec
+address: 210.109
+command: 81
+#
+name: DECK-A_REW
+type: parsed
+protocol: nec
+address: 210.109
+command: 82
+#
+name: SPEAKERS_MAIN
+type: parsed
+protocol: nec
+address: 210.109
+command: 89
+#
+name: SPEAKERS_REMOTE
+type: parsed
+protocol: nec
+address: 210.109
+command: 90
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 210.109
+command: 93
+#
+name: SIMUL_SOURCE_VOL-UP
+type: parsed
+protocol: nec
+address: 210.109
+command: 194
+#
+name: SIMUL_SOURCE_VOL-DOW
+type: parsed
+protocol: nec
+address: 210.109
+command: 195
+#
+name: SIMUL_SOURCE
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#

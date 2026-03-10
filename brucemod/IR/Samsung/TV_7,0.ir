@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 7
+command: 2
+#
+name: HUB/SOURCE
+type: parsed
+protocol: necx2
+address: 7
+command: 1
+#
+name: HUB/HOME
+type: parsed
+protocol: necx2
+address: 7
+command: 118
+#
+name: VOLUME UP
+type: parsed
+protocol: necx2
+address: 7
+command: 7
+#
+name: VOLUME DOWN
+type: parsed
+protocol: necx2
+address: 7
+command: 11
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 7
+command: 15
+#
+name: SELECT/OK
+type: parsed
+protocol: necx2
+address: 7
+command: 104
+#
+name: Up
+type: parsed
+protocol: necx2
+address: 7
+command: 96
+#
+name: Down
+type: parsed
+protocol: necx2
+address: 7
+command: 97
+#
+name: Right
+type: parsed
+protocol: necx2
+address: 7
+command: 98
+#
+name: Left
+type: parsed
+protocol: necx2
+address: 7
+command: 101
+#
+name: Back
+type: parsed
+protocol: necx2
+address: 7
+command: 88
+#
+name: SOURCE(TV)
+type: parsed
+protocol: necx2
+address: 7
+command: 45
+#
+name: ChannelUP
+type: parsed
+protocol: necx2
+address: 7
+command: 18
+#
+name: ChannelDOWN
+type: parsed
+protocol: necx2
+address: 7
+command: 16
+#
+name: LAST~CHANNEL
+type: parsed
+protocol: necx2
+address: 7
+command: 19
+#
+name: TVGUIDE
+type: parsed
+protocol: necx2
+address: 7
+command: 79
+#
+name: TVGUIDEFULL
+type: parsed
+protocol: necx2
+address: 7
+command: 107
+#
+name: HDMI 1
+type: parsed
+protocol: necx2
+address: 7
+command: 139
+#
+name: HDMI 2
+type: parsed
+protocol: necx2
+address: 7
+command: 190
+#
+name: HDMI 3
+type: parsed
+protocol: necx2
+address: 7
+command: 194
+#
+name: NETFLIX
+type: parsed
+protocol: necx2
+address: 7
+command: 243
+#
+name: HULU
+type: parsed
+protocol: necx2
+address: 7
+command: 187
+#
+name: YOUTUBE
+type: parsed
+protocol: necx2
+address: 7
+command: 250
+#
+name: picturemode
+type: parsed
+protocol: necx2
+address: 7
+command: 40
+#
+name: AMBIENT MODE
+type: parsed
+protocol: necx2
+address: 7
+command: 246
+#
+name: NUMPAD MENU
+type: parsed
+protocol: necx2
+address: 7
+command: 156
+#
+name: internet
+type: parsed
+protocol: necx2
+address: 7
+command: 55
+#
+name: SEARCH
+type: parsed
+protocol: necx2
+address: 7
+command: 115
+#
+name: VOICEASSIST
+type: parsed
+protocol: necx2
+address: 7
+command: 160
+#
+name: REMOTEACCESS
+type: parsed
+protocol: necx2
+address: 7
+command: 175
+#
+name: COLORPAD
+type: parsed
+protocol: necx2
+address: 7
+command: 206
+#
+name: REMOTEPAIRING
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: PRIME VIDEO
+type: parsed
+protocol: necx2
+address: 7
+command: 244
+#
+name: TVGUIDESHORT
+type: parsed
+protocol: necx2
+address: 7
+command: 180
+#
+name: SOUNDSETTINGS
+type: parsed
+protocol: necx2
+address: 7
+command: 43
+#
+name: SOURCE(AV)
+type: parsed
+protocol: necx2
+address: 7
+command: 132
+#
+name: PowerOff
+type: parsed
+protocol: necx2
+address: 7
+command: 152
+#
+name: PowerOn
+type: parsed
+protocol: necx2
+address: 7
+command: 153
+#

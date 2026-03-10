@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: PRESET1
+type: parsed
+protocol: nec1
+address: 120
+command: 17
+#
+name: PRESET2
+type: parsed
+protocol: nec1
+address: 120
+command: 18
+#
+name: PRESET3
+type: parsed
+protocol: nec1
+address: 120
+command: 19
+#
+name: PRESET4
+type: parsed
+protocol: nec1
+address: 120
+command: 20
+#
+name: PRESET5
+type: parsed
+protocol: nec1
+address: 120
+command: 21
+#
+name: PRESET6
+type: parsed
+protocol: nec1
+address: 120
+command: 22
+#
+name: PRESET7
+type: parsed
+protocol: nec1
+address: 120
+command: 23
+#
+name: PRESET8
+type: parsed
+protocol: nec1
+address: 120
+command: 24
+#
+name: PRESET UP
+type: parsed
+protocol: nec1
+address: 120
+command: 27
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 120
+command: 27
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 120
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 120
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 120
+command: 31
+#
+name: VCR
+type: parsed
+protocol: nec1
+address: 120
+command: 73
+#
+name: DVD/CD
+type: parsed
+protocol: nec1
+address: 120
+command: 74
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 120
+command: 75
+#
+name: SUBWOOF +
+type: parsed
+protocol: nec1
+address: 120
+command: 76
+#
+name: SUBWOOF -
+type: parsed
+protocol: nec1
+address: 120
+command: 77
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 120
+command: 79
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 120
+command: 80
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 120
+command: 95
+#
+name: CENTER +
+type: parsed
+protocol: nec1
+address: 120
+command: 134
+#
+name: CENTER -
+type: parsed
+protocol: nec1
+address: 120
+command: 135
+#
+name: SURROUND +
+type: parsed
+protocol: nec1
+address: 120
+command: 136
+#
+name: SURROUND -
+type: parsed
+protocol: nec1
+address: 120
+command: 137
+#
+name: MATRIX 6.1
+type: parsed
+protocol: nec1
+address: 120
+command: 144
+#
+name: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 120
+command: 153
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 120
+command: 156
+#
+name: SET MENU
+type: parsed
+protocol: nec1
+address: 120
+command: 157
+#
+name: MOVIE
+type: parsed
+protocol: nec1
+address: 120
+command: 217
+#
+name: MUSIC
+type: parsed
+protocol: nec1
+address: 120
+command: 218
+#
+name: SPORTS
+type: parsed
+protocol: nec1
+address: 120
+command: 219
+#
+name: GAME
+type: parsed
+protocol: nec1
+address: 120
+command: 220
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 120
+command: 223
+#

@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: s.mode
+type: parsed
+protocol: Proton
+address: 20
+command: 10
+#
+name: timer
+type: parsed
+protocol: Proton
+address: 20
+command: 13
+#
+name: recall
+type: parsed
+protocol: Proton
+address: 20
+command: 17
+#
+name: mute
+type: parsed
+protocol: Proton
+address: 20
+command: 18
+#
+name: vol+
+type: parsed
+protocol: Proton
+address: 20
+command: 19
+#
+name: vol-
+type: parsed
+protocol: Proton
+address: 20
+command: 20
+#
+name: power
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: av
+type: parsed
+protocol: Proton
+address: 20
+command: 22
+#
+name: up
+type: parsed
+protocol: Proton
+address: 20
+command: 23
+#
+name: down
+type: parsed
+protocol: Proton
+address: 20
+command: 24
+#
+name: s.effect
+type: parsed
+protocol: Proton
+address: 20
+command: 27
+#
+name: menu
+type: parsed
+protocol: Proton
+address: 20
+command: 34
+#
+name: p.mode
+type: parsed
+protocol: Proton
+address: 20
+command: 39
+#
+name: pip
+type: parsed
+protocol: Proton
+address: 20
+command: 40
+#
+name: swap
+type: parsed
+protocol: Proton
+address: 20
+command: 41
+#
+name: still
+type: parsed
+protocol: Proton
+address: 20
+command: 42
+#
+name: position
+type: parsed
+protocol: Proton
+address: 20
+command: 43
+#
+name: pip_source
+type: parsed
+protocol: Proton
+address: 20
+command: 44
+#
+name: p.fmt
+type: parsed
+protocol: Proton
+address: 20
+command: 61
+#
+name: color_temp
+type: parsed
+protocol: Proton
+address: 20
+command: 130
+#
+name: pixel_shift
+type: parsed
+protocol: Proton
+address: 20
+command: 131
+#

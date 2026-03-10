@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 2
+#
+name: SLOW-PLUS
+type: parsed
+protocol: necx2
+address: 5.5
+command: 19
+#
+name: KEY_RECORD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 20
+#
+name: KEY_STOP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 21
+#
+name: KEY_DOWN
+type: parsed
+protocol: necx2
+address: 5.5
+command: 21
+#
+name: KEY_PAUSE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 22
+#
+name: SLOW-MINUS
+type: parsed
+protocol: necx2
+address: 5.5
+command: 23
+#
+name: KEY_REWIND
+type: parsed
+protocol: necx2
+address: 5.5
+command: 24
+#
+name: KEY_LEFT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 24
+#
+name: KEY_PLAY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 25
+#
+name: KEY_UP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 25
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 26
+#
+name: KEY_RIGHT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 26
+#
+name: CNT.RESET
+type: parsed
+protocol: necx2
+address: 5.5
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 30
+#
+name: KEY_MENU
+type: parsed
+protocol: necx2
+address: 5.5
+command: 31
+#
+name: TRK-UP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 44
+#
+name: TRK-DOWN
+type: parsed
+protocol: necx2
+address: 5.5
+command: 45
+#

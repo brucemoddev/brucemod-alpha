@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL ^
+type: parsed
+protocol: nec1
+address: 10
+command: 0
+#
+name: CHANNEL V
+type: parsed
+protocol: nec1
+address: 10
+command: 1
+#
+name: SKIP SEARCH
+type: parsed
+protocol: nec1
+address: 10
+command: 2
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 10
+command: 4
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 10
+command: 5
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 10
+command: 6
+#
+name: AUDIO DUB
+type: parsed
+protocol: nec1
+address: 10
+command: 7
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 10
+command: 8
+#
+name: VIDEO/TV
+type: parsed
+protocol: nec1
+address: 10
+command: 10
+#
+name: FF/SRCH >>
+type: parsed
+protocol: nec1
+address: 10
+command: 12
+#
+name: REW/SRCH <<
+type: parsed
+protocol: nec1
+address: 10
+command: 13
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 10
+command: 14
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 10
+command: 15
+#
+name: X2
+type: parsed
+protocol: nec1
+address: 10
+command: 28
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 10
+command: 29
+#

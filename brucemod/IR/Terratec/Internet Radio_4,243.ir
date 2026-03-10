@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 4.243
+command: 1
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 4.243
+command: 2
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 4.243
+command: 3
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 4.243
+command: 4
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 4.243
+command: 5
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 4.243
+command: 6
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 4.243
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 4.243
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 4.243
+command: 9
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 4.243
+command: 10
+#
+name: S
+type: parsed
+protocol: nec1
+address: 4.243
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 4.243
+command: 12
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 4.243
+command: 13
+#
+name: UNHAPPY
+type: parsed
+protocol: nec1
+address: 4.243
+command: 14
+#
+name: HAPPY
+type: parsed
+protocol: nec1
+address: 4.243
+command: 15
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 4.243
+command: 16
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 4.243
+command: 17
+#
+name: I>
+type: parsed
+protocol: nec1
+address: 4.243
+command: 18
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 4.243
+command: 19
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 4.243
+command: 20
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 4.243
+command: 21
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 4.243
+command: 22
+#
+name: HOME
+type: parsed
+protocol: nec1
+address: 4.243
+command: 23
+#
+name: SENDER
+type: parsed
+protocol: nec1
+address: 4.243
+command: 24
+#
+name: NETWORK
+type: parsed
+protocol: nec1
+address: 4.243
+command: 25
+#
+name: FAVORITES
+type: parsed
+protocol: nec1
+address: 4.243
+command: 26
+#
+name: >I
+type: parsed
+protocol: nec1
+address: 4.243
+command: 27
+#
+name: VOL+
+type: parsed
+protocol: nec1
+address: 4.243
+command: 28
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 4.243
+command: 29
+#
+name: VOL-
+type: parsed
+protocol: nec1
+address: 4.243
+command: 30
+#
+name: I<
+type: parsed
+protocol: nec1
+address: 4.243
+command: 31
+#
+name: I
+type: parsed
+protocol: nec1
+address: 4.243
+command: 76
+#

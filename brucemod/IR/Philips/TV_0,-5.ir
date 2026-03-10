@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: Mute
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: VOL UP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: VOL DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: CHUP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CHDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: MENUANALOG
+type: parsed
+protocol: rc5odd
+address: 0
+command: 18
+#
+name: MENUDIGITAL
+type: parsed
+protocol: rc5odd
+address: 3.0
+command: 18
+#
+name: Up
+type: parsed
+protocol: rc5odd
+address: 0
+command: 16
+#
+name: Down
+type: parsed
+protocol: rc5odd
+address: 0
+command: 17
+#
+name: Ok
+type: parsed
+protocol: rc5odd
+address: 0
+command: 23
+#
+name: Left
+type: parsed
+protocol: rc5odd
+address: 0
+command: 21
+#
+name: Right
+type: parsed
+protocol: rc5odd
+address: 0
+command: 22
+#
+name: ANALOG_DIGITAL
+type: parsed
+protocol: rc5odd
+address: 3.0
+command: 54
+#
+name: epg
+type: parsed
+protocol: rc5
+address: 3.0
+command: 44
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: Info
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: PICINPIC_BACK
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: AMBILONOFF
+type: parsed
+protocol: rc5
+address: 3.0
+command: 35
+#
+name: AMBILIGHTMODE
+type: parsed
+protocol: rc5
+address: 3.0
+command: 36
+#
+name: sound
+type: parsed
+protocol: rc5
+address: 3.0
+command: 11
+#
+name: picture
+type: parsed
+protocol: rc5
+address: 3.0
+command: 10
+#

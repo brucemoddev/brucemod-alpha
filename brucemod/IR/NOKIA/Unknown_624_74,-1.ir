@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nrc17
+address: 74
+command: 0
+#
+name: 1
+type: parsed
+protocol: nrc17
+address: 74
+command: 1
+#
+name: 2
+type: parsed
+protocol: nrc17
+address: 74
+command: 2
+#
+name: 3
+type: parsed
+protocol: nrc17
+address: 74
+command: 3
+#
+name: 4
+type: parsed
+protocol: nrc17
+address: 74
+command: 4
+#
+name: 5
+type: parsed
+protocol: nrc17
+address: 74
+command: 5
+#
+name: 6
+type: parsed
+protocol: nrc17
+address: 74
+command: 6
+#
+name: 7
+type: parsed
+protocol: nrc17
+address: 74
+command: 7
+#
+name: 8
+type: parsed
+protocol: nrc17
+address: 74
+command: 8
+#
+name: 9
+type: parsed
+protocol: nrc17
+address: 74
+command: 9
+#
+name: power
+type: parsed
+protocol: nrc17
+address: 74
+command: 12
+#
+name: up
+type: parsed
+protocol: nrc17
+address: 74
+command: 14
+#
+name: down
+type: parsed
+protocol: nrc17
+address: 74
+command: 15
+#
+name: mute
+type: parsed
+protocol: nrc17
+address: 74
+command: 40
+#
+name: IDEAL
+type: parsed
+protocol: nrc17
+address: 74
+command: 41
+#
+name: last
+type: parsed
+protocol: nrc17
+address: 74
+command: 42
+#
+name: info
+type: parsed
+protocol: nrc17
+address: 74
+command: 45
+#
+name: right
+type: parsed
+protocol: nrc17
+address: 74
+command: 46
+#
+name: left
+type: parsed
+protocol: nrc17
+address: 74
+command: 47
+#
+name: text
+type: parsed
+protocol: nrc17
+address: 74
+command: 51
+#
+name: stop
+type: parsed
+protocol: nrc17
+address: 74
+command: 53
+#
+name: size
+type: parsed
+protocol: nrc17
+address: 74
+command: 56
+#
+name: ok_red
+type: parsed
+protocol: nrc17
+address: 74
+command: 60
+#
+name: sound_green
+type: parsed
+protocol: nrc17
+address: 74
+command: 61
+#
+name: vision_yellow
+type: parsed
+protocol: nrc17
+address: 74
+command: 62
+#
+name: menu_blue
+type: parsed
+protocol: nrc17
+address: 74
+command: 63
+#
+name: tv
+type: parsed
+protocol: nrc17
+address: 74
+command: 112
+#

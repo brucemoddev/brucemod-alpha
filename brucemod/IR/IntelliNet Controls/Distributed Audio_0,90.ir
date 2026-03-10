@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LIGHT
+type: parsed
+protocol: nec1
+address: 0.90
+command: 0
+#
+name: FUNCTION
+type: parsed
+protocol: nec1
+address: 0.90
+command: 2
+#
+name: OFF
+type: parsed
+protocol: nec2
+address: 0.90
+command: 3
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 0.90
+command: 4
+#
+name: 1
+type: parsed
+protocol: nec
+address: 0.90
+command: 4
+#
+name: 4
+type: parsed
+protocol: nec
+address: 0.90
+command: 5
+#
+name: 7
+type: parsed
+protocol: nec
+address: 0.90
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 0.90
+command: 6
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 0.90
+command: 7
+#
+name: 5
+type: parsed
+protocol: nec
+address: 0.90
+command: 9
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 0.90
+command: 9
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 0.90
+command: 10
+#
+name: 8
+type: parsed
+protocol: nec
+address: 0.90
+command: 10
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 0.90
+command: 11
+#
+name: 3
+type: parsed
+protocol: nec
+address: 0.90
+command: 12
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 0.90
+command: 12
+#
+name: 6
+type: parsed
+protocol: nec
+address: 0.90
+command: 13
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 0.90
+command: 14
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 0.90
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 0.90
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 0.90
+command: 17
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 0.90
+command: 18
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 0.90
+command: 19
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 0.90
+command: 20
+#
+name: CD2
+type: parsed
+protocol: nec1
+address: 0.90
+command: 21
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 0.90
+command: 22
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 0.90
+command: 23
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 0.90
+command: 24
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 0.90
+command: 25
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 0.90
+command: 26
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 0.90
+command: 28
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 0.90
+command: 29
+#

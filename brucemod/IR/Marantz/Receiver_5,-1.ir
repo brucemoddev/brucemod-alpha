@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RECORD
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#
+name: VCR1/TV (VCR1/TAPE)
+type: parsed
+protocol: rc5
+address: 5
+command: 62
+#
+name: VCR 1
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#
+name: VCR 2
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#
+name: VCR1
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#
+name: VCR
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#
+name: INPUT - VCR
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#
+name: INPUT: VCR
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#

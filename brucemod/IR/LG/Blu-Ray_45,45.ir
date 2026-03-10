@@ -1,0 +1,543 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec2
+address: 45.45
+command: 48
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 49
+#
+name: TR PLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 49
+#
+name: SCAN<<
+type: parsed
+protocol: nec2
+address: 45.45
+command: 50
+#
+name: SCAN BACK
+type: parsed
+protocol: nec2
+address: 45.45
+command: 50
+#
+name: SCAN -
+type: parsed
+protocol: nec2
+address: 45.45
+command: 50
+#
+name: TR SCAN <<
+type: parsed
+protocol: nec2
+address: 45.45
+command: 50
+#
+name: SCAN>>
+type: parsed
+protocol: nec2
+address: 45.45
+command: 51
+#
+name: SCAN FORWARD
+type: parsed
+protocol: nec2
+address: 45.45
+command: 51
+#
+name: SCAN +
+type: parsed
+protocol: nec2
+address: 45.45
+command: 51
+#
+name: TR SCAN >>
+type: parsed
+protocol: nec2
+address: 45.45
+command: 51
+#
+name: TRACK >>
+type: parsed
+protocol: nec2
+address: 45.45
+command: 52
+#
+name: TRACK FORWARD
+type: parsed
+protocol: nec2
+address: 45.45
+command: 52
+#
+name: TRACK +
+type: parsed
+protocol: nec2
+address: 45.45
+command: 52
+#
+name: TR SKIP >>
+type: parsed
+protocol: nec2
+address: 45.45
+command: 52
+#
+name: TRACK <<
+type: parsed
+protocol: nec2
+address: 45.45
+command: 53
+#
+name: TRACK BACK
+type: parsed
+protocol: nec2
+address: 45.45
+command: 53
+#
+name: TRACK -
+type: parsed
+protocol: nec2
+address: 45.45
+command: 53
+#
+name: TR SKIP <<
+type: parsed
+protocol: nec2
+address: 45.45
+command: 53
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 54
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 56
+#
+name: TR PAUSE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 56
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 57
+#
+name: TR STOP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 57
+#
+name: 
+type: parsed
+protocol: nec2
+address: 45.45
+command: 57
+#
+name: DISPLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 58
+#
+name: INFO/DISPLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 58
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 45.45
+command: 59
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 45.45
+command: 60
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 45.45
+command: 61
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 45.45
+command: 62
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 45.45
+command: 63
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 45.45
+command: 64
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 45.45
+command: 65
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 45.45
+command: 66
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 45.45
+command: 67
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 45.45
+command: 68
+#
+name: RETURN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 69
+#
+name: CLEAR
+type: parsed
+protocol: nec2
+address: 45.45
+command: 70
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 71
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 72
+#
+name: TITLE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 74
+#
+name: TITLE/POPUP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 74
+#
+name: TITLE/POP UP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 74
+#
+name: TITLE/PUPUP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 74
+#
+name: DISC MENU
+type: parsed
+protocol: nec2
+address: 45.45
+command: 75
+#
+name: ANGLE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 76
+#
+name: AUDIO
+type: parsed
+protocol: nec2
+address: 45.45
+command: 79
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 79
+#
+name: SUBTITLE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 80
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 83
+#
+name: A-B
+type: parsed
+protocol: nec2
+address: 45.45
+command: 85
+#
+name: SETUP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 86
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec2
+address: 45.45
+command: 88
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 89
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 90
+#
+name: VIDEO PIP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 95
+#
+name: MARKER
+type: parsed
+protocol: nec2
+address: 45.45
+command: 97
+#
+name: SEARCH
+type: parsed
+protocol: nec2
+address: 45.45
+command: 98
+#
+name: ZOOM
+type: parsed
+protocol: nec2
+address: 45.45
+command: 100
+#
+name: HOME
+type: parsed
+protocol: nec2
+address: 45.45
+command: 103
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 45.45
+command: 117
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 45.45
+command: 118
+#
+name: LOCK
+type: parsed
+protocol: nec2
+address: 45.45
+command: 121
+#
+name: RED
+type: parsed
+protocol: nec2
+address: 45.45
+command: 124
+#
+name: A (RED)
+type: parsed
+protocol: nec2
+address: 45.45
+command: 124
+#
+name: RED - A
+type: parsed
+protocol: nec2
+address: 45.45
+command: 124
+#
+name: COLOR 1 RED
+type: parsed
+protocol: nec2
+address: 45.45
+command: 124
+#
+name: GREEN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 125
+#
+name: B (GREEN)
+type: parsed
+protocol: nec2
+address: 45.45
+command: 125
+#
+name: GREEN - B
+type: parsed
+protocol: nec2
+address: 45.45
+command: 125
+#
+name: COLOR 2 GREEN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 125
+#
+name: YELLOW
+type: parsed
+protocol: nec2
+address: 45.45
+command: 126
+#
+name: C (YELLOW)
+type: parsed
+protocol: nec2
+address: 45.45
+command: 126
+#
+name: YELLOW - C
+type: parsed
+protocol: nec2
+address: 45.45
+command: 126
+#
+name: COLOR 3 YELLOW
+type: parsed
+protocol: nec2
+address: 45.45
+command: 126
+#
+name: BLUE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 127
+#
+name: D (BLUE)
+type: parsed
+protocol: nec2
+address: 45.45
+command: 127
+#
+name: BLUE - D
+type: parsed
+protocol: nec2
+address: 45.45
+command: 127
+#
+name: COLOR 4 BLUE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 127
+#
+name: CURSOR
+type: parsed
+protocol: nec2
+address: 45.45
+command: 192
+#
+name: CURSOR LEFT UP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 193
+#
+name: CURSOR RIGHT UP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 194
+#
+name: CURSOR LEFT DOWN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 195
+#
+name: CURSOR RIGHT DOWN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 196
+#
+name: RESOLUTION
+type: parsed
+protocol: nec2
+address: 45.45
+command: 245
+#
+name: POP UP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 246
+#
+name: SUBTITLE ON/OFF
+type: parsed
+protocol: nec2
+address: 45.45
+command: 247
+#
+name: RESUME PLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 248
+#
+name: MUSIC ID
+type: parsed
+protocol: nec2
+address: 45.45
+command: 250
+#

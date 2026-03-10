@@ -1,0 +1,531 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD SCAN <<
+type: parsed
+protocol: nec1
+address: 184
+command: 6
+#
+name: CD SCAN >>
+type: parsed
+protocol: nec1
+address: 184
+command: 7
+#
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 184
+command: 8
+#
+name: TUNER/CD +10
+type: parsed
+protocol: nec1
+address: 184
+command: 13
+#
+name: 10+
+type: parsed
+protocol: nec1
+address: 184
+command: 13
+#
+name: EQ.EFFECT
+type: parsed
+protocol: nec1
+address: 184
+command: 15
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 184
+command: 29
+#
+name: DELAY TIME V
+type: parsed
+protocol: nec1
+address: 184
+command: 76
+#
+name: DELAY TIME DWN
+type: parsed
+protocol: nec1
+address: 184
+command: 76
+#
+name: DELAY TIME ^
+type: parsed
+protocol: nec1
+address: 184
+command: 77
+#
+name: DELAY TIME UP
+type: parsed
+protocol: nec1
+address: 184
+command: 77
+#
+name: TEST TONE ON/OFF
+type: parsed
+protocol: nec1
+address: 184
+command: 86
+#
+name: TEST TONE MODE
+type: parsed
+protocol: nec1
+address: 184
+command: 87
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 88
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 184
+command: 89
+#
+name: TUNER/CD 0
+type: parsed
+protocol: nec1
+address: 184
+command: 128
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 184
+command: 128
+#
+name: TUNER/CD 1
+type: parsed
+protocol: nec1
+address: 184
+command: 129
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 184
+command: 129
+#
+name: TUNER/CD 2
+type: parsed
+protocol: nec1
+address: 184
+command: 130
+#
+name: TUNER/CD 3
+type: parsed
+protocol: nec1
+address: 184
+command: 131
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 184
+command: 131
+#
+name: TUNER/CD 4
+type: parsed
+protocol: nec1
+address: 184
+command: 132
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 184
+command: 132
+#
+name: TUNER/CD 5
+type: parsed
+protocol: nec1
+address: 184
+command: 133
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 184
+command: 133
+#
+name: TUNER/CD 6
+type: parsed
+protocol: nec1
+address: 184
+command: 134
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 184
+command: 134
+#
+name: TUNER/CD 7
+type: parsed
+protocol: nec1
+address: 184
+command: 135
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 184
+command: 135
+#
+name: TUNER/CD 8
+type: parsed
+protocol: nec1
+address: 184
+command: 136
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 184
+command: 136
+#
+name: TUNER/CD 9
+type: parsed
+protocol: nec1
+address: 184
+command: 137
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 184
+command: 137
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 184
+command: 138
+#
+name: TUNER P.CALL V
+type: parsed
+protocol: nec1
+address: 184
+command: 140
+#
+name: TUNER DWN
+type: parsed
+protocol: nec1
+address: 184
+command: 140
+#
+name: TUNER BAND
+type: parsed
+protocol: nec1
+address: 184
+command: 143
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 184
+command: 143
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 184
+command: 144
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 184
+command: 145
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 184
+command: 146
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 184
+command: 147
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 184
+command: 148
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 184
+command: 149
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 184
+command: 150
+#
+name: TUNER P.CALL ^
+type: parsed
+protocol: nec1
+address: 184
+command: 153
+#
+name: TUNER UP
+type: parsed
+protocol: nec1
+address: 184
+command: 153
+#
+name: VOL CONTROL V
+type: parsed
+protocol: nec1
+address: 184
+command: 154
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 184
+command: 154
+#
+name: VOL CONTROL ^
+type: parsed
+protocol: nec1
+address: 184
+command: 155
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 184
+command: 155
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 184
+command: 156
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 184
+command: 157
+#
+name: TUNER DIRECT
+type: parsed
+protocol: nec1
+address: 184
+command: 158
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 184
+command: 158
+#
+name: EQ.M.CALL
+type: parsed
+protocol: nec1
+address: 184
+command: 197
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 201
+#
+name: CD PLAY/PAUSE >/
+type: parsed
+protocol: nec1
+address: 184
+command: 203
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 184
+command: 206
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 184
+command: 207
+#
+name: TAPEA REV PLAY <
+type: parsed
+protocol: nec1
+address: 184
+command: 208
+#
+name: TAPE A R PLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 208
+#
+name: TAPEA PLAY >
+type: parsed
+protocol: nec1
+address: 184
+command: 209
+#
+name: TAPE A PLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 209
+#
+name: TAPEA REW <<
+type: parsed
+protocol: nec1
+address: 184
+command: 210
+#
+name: TAPE A REW
+type: parsed
+protocol: nec1
+address: 184
+command: 210
+#
+name: TAPEA FF >>
+type: parsed
+protocol: nec1
+address: 184
+command: 211
+#
+name: TAPE A FF
+type: parsed
+protocol: nec1
+address: 184
+command: 211
+#
+name: TAPEA PAUSE 
+type: parsed
+protocol: nec1
+address: 184
+command: 212
+#
+name: TAPEA STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 213
+#
+name: TAPE A STOP
+type: parsed
+protocol: nec1
+address: 184
+command: 213
+#
+name: TAPEA REC
+type: parsed
+protocol: nec1
+address: 184
+command: 214
+#
+name: TAPE A REC
+type: parsed
+protocol: nec1
+address: 184
+command: 214
+#
+name: BYPASS
+type: parsed
+protocol: nec1
+address: 184
+command: 215
+#
+name: TAPEB REV PLAY <
+type: parsed
+protocol: nec1
+address: 184
+command: 216
+#
+name: TAPE B R PLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 216
+#
+name: TAPEB PLAY >
+type: parsed
+protocol: nec1
+address: 184
+command: 217
+#
+name: TAPE B PLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 217
+#
+name: TAPEB REW <<
+type: parsed
+protocol: nec1
+address: 184
+command: 218
+#
+name: TAPE B REW
+type: parsed
+protocol: nec1
+address: 184
+command: 218
+#
+name: TAPEB FF >>
+type: parsed
+protocol: nec1
+address: 184
+command: 219
+#
+name: TAPE B FF
+type: parsed
+protocol: nec1
+address: 184
+command: 219
+#
+name: TAPEB PAUSE 
+type: parsed
+protocol: nec1
+address: 184
+command: 220
+#
+name: TAPEB STOP []
+type: parsed
+protocol: nec1
+address: 184
+command: 221
+#
+name: TAPE B STOP
+type: parsed
+protocol: nec1
+address: 184
+command: 221
+#
+name: TAPEB REC
+type: parsed
+protocol: nec1
+address: 184
+command: 222
+#
+name: TAPE B REC
+type: parsed
+protocol: nec1
+address: 184
+command: 222
+#

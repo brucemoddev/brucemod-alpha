@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL DN
+type: parsed
+protocol: nec
+address: 131.69
+command: 83
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec2
+address: 131.69
+command: 87
+#

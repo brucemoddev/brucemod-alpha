@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: STOP []
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: FF >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: REW <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: REC/PAUSE O/
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: REC MUTE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 7
+#
+name: SKIP FWD >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: SKIP REV <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#
+name: INTRO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 10
+#
+name: REPLAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 14
+#
+name: RESET
+type: parsed
+protocol: nec2
+address: 130.114
+command: 27
+#
+name: MEMORY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 28
+#
+name: MONITOR
+type: parsed
+protocol: nec2
+address: 130.114
+command: 30
+#
+name: DISPLAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 31
+#

@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: rc6
+address: 0
+command: 12
+#
+name: Guide
+type: parsed
+protocol: rc6
+address: 0
+command: 204
+#
+name: PREV CH
+type: parsed
+protocol: rc6
+address: 0
+command: 159
+#
+name: OPTIONS
+type: parsed
+protocol: rc6
+address: 0
+command: 64
+#
+name: Up
+type: parsed
+protocol: rc6
+address: 0
+command: 88
+#
+name: Down
+type: parsed
+protocol: rc6
+address: 0
+command: 89
+#
+name: Left
+type: parsed
+protocol: rc6
+address: 0
+command: 90
+#
+name: Right
+type: parsed
+protocol: rc6
+address: 0
+command: 91
+#
+name: Back
+type: parsed
+protocol: rc6
+address: 0
+command: 65
+#
+name: Ok
+type: parsed
+protocol: rc6
+address: 0
+command: 92
+#
+name: home
+type: parsed
+protocol: rc6
+address: 0
+command: 84
+#
+name: Vol_Up
+type: parsed
+protocol: rc6
+address: 0
+command: 16
+#
+name: VOL_DN
+type: parsed
+protocol: rc6
+address: 0
+command: 17
+#
+name: IMPUT
+type: parsed
+protocol: rc6
+address: 0
+command: 56
+#
+name: CH_NEXT
+type: parsed
+protocol: rc6
+address: 0
+command: 32
+#
+name: CH_PREV
+type: parsed
+protocol: rc6
+address: 0
+command: 33
+#
+name: Mute
+type: parsed
+protocol: rc6
+address: 0
+command: 13
+#
+name: NETFIX
+type: parsed
+protocol: rc6
+address: 0
+command: 118
+#
+name: YOUTUBE
+type: parsed
+protocol: rc6
+address: 0
+command: 121
+#
+name: PARAMONT
+type: parsed
+protocol: rc6
+address: 0
+command: 179
+#
+name: TUBI
+type: parsed
+protocol: rc6
+address: 0
+command: 180
+#
+name: red
+type: parsed
+protocol: rc6
+address: 0
+command: 109
+#
+name: green
+type: parsed
+protocol: rc6
+address: 0
+command: 110
+#
+name: Yellow
+type: parsed
+protocol: rc6
+address: 0
+command: 111
+#
+name: blue
+type: parsed
+protocol: rc6
+address: 0
+command: 112
+#

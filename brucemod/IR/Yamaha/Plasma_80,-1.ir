@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 80
+command: 0
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 80
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 80
+command: 2
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 80
+command: 3
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 4
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 5
+#
+name: PINP
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 80
+command: 7
+#
+name: INPUT RGB1
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUT RGB2
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: INPUT AV1
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: INPUT AV2
+type: parsed
+protocol: nec1
+address: 80
+command: 12
+#
+name: INPUT AV3
+type: parsed
+protocol: nec1
+address: 80
+command: 13
+#
+name: INPUT AV4
+type: parsed
+protocol: nec1
+address: 80
+command: 14
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 80
+command: 19
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 80
+command: 20
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 80
+command: 22
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: DISPLAY SIZE CHANGE
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 80
+command: 26
+#

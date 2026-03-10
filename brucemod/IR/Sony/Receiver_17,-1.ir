@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: sony12
+address: 17
+command: 46
+#
+name: CH/PRESET -
+type: parsed
+protocol: sony12
+address: 17
+command: 54
+#
+name: CH/PRESET +
+type: parsed
+protocol: sony12
+address: 17
+command: 55
+#
+name: DISC SKIP
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 86
+#

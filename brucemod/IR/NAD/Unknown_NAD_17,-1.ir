@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP_LEFT
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: SKIP_RIGHT
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: SCAN_LEFT
+type: parsed
+protocol: sony12
+address: 17
+command: 58
+#
+name: SCAN_RIGHT
+type: parsed
+protocol: sony12
+address: 17
+command: 59
+#

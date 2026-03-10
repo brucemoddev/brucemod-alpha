@@ -1,0 +1,699 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: +10
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 0
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 1
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 2
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 3
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 4
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 5
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 6
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 7
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 8
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: BAND
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: CLEAR
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: DISPLAY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: ENTER
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: MODE
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: PAUSE/STEP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: PLAY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: REPEAT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: RETURN
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: SETUP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: STOP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: TRACK DOWN
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: TRACK UP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 72
+#
+name: FF
+type: parsed
+protocol: nec2_f16
+address: 210.30
+command: 72
+#
+name: FR
+type: parsed
+protocol: nec2_f16
+address: 210.30
+command: 72
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec2_f16
+address: 210.30
+command: 72
+#
+name: PRESET UP
+type: parsed
+protocol: nec2_f16
+address: 210.30
+command: 72
+#
+name: AUDYSSEY OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: AUDYSSEY ON
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL ON
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL TOGGLE
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC EQ OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC EQ ON
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC EQ TOGGLE
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOL HEAVY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOL LIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOL MEDIUM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOL OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOL TOGGLE
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: FULL MONO
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: GAME ACTION
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: GAME ROCK
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: GAME RPG
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: GAME SPORTS
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: ORCHESTRA
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: STUDIO MIX
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: UNPLUGGED
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MUSIC OPTIMIZER OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MUSIC OPTIMIZER ON
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: AUDIO ARC
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYMANIC EQ ON
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC EQ WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOLUME HEAVY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOLUME LIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOLUME MEDIU
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOLUME OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DYNAMIC VOLUME WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: ISF CINEMA
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: ISF CUSTOM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: ISF GAME
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: ISF MODE WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: ISF THROUGH
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE DOLBYEX AUDY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE FULL MONO
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE GAME ACTION
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE GAME ROCK
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE GAME RPG
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE GAME SPORTS
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE NEO6 THX CINEMA
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE NEO6 THX MUSIC
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE ORCHESTRA
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE STUDIO MIX
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE TV LOGIC
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MUSIC OPTIMIZER WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE 4:3
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE FULL
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE WIDE ZOOM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE ZOOM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE: PLXLL HEIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: HDMI AUDIO OUT OFF
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: HDMI AUDIO OUT ON
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE AUDYSSEY DSX
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE NEO6 MUSIC AUDY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE NEO6CINEMA AUDY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLX GAME AUDY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLX MOVIE AUDY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLX MUSIC AUDY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODEPLLZH+THXU2CINEM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODEPLLZH+THXU2GAMES
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODEPLLZH+THXU2MUSIC
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: HDMI AUDIO OUT WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: HDMI OUT BOTH
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: HDMI OUT BOTH MAIN
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: HDMI OUT BOTH SUB
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLZ H+GAMES
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLZ H+THXCINEM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLZ H+THXMUSIC
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE PLLZ HEIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: VOLUME DOWN 1DB
+type: parsed
+protocol: nec2_f16
+address: 210.30
+command: 80
+#
+name: VOLUME UP 1DB
+type: parsed
+protocol: nec2_f16
+address: 210.30
+command: 80
+#
+name: ISF DAY
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: ISF NIGHT
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE AUTO
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL HIGH
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL LOW
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL MID
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: DOLBY VOL WRAP
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: MODE NEURAL DIGITAL
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#
+name: WIDE MODE SMART ZOOM
+type: parsed
+protocol: nec1_f16
+address: 210.30
+command: 80
+#

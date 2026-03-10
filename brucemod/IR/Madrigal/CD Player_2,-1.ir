@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DIGITAL MODE
+type: parsed
+protocol: recs80_45
+address: 2
+command: 39
+#
+name: ANALOG MODE
+type: parsed
+protocol: recs80_45
+address: 2
+command: 40
+#
+name: CLOSE LID
+type: parsed
+protocol: recs80_45
+address: 2
+command: 41
+#
+name: OPEN LID
+type: parsed
+protocol: recs80_45
+address: 2
+command: 42
+#
+name: INDEX OFF
+type: parsed
+protocol: recs80_45
+address: 2
+command: 46
+#
+name: INDEX ON
+type: parsed
+protocol: recs80_45
+address: 2
+command: 47
+#
+name: REPEAT OFF
+type: parsed
+protocol: recs80_45
+address: 2
+command: 48
+#
+name: PAUSE
+type: parsed
+protocol: recs80_45
+address: 2
+command: 49
+#
+name: UNPAUSE
+type: parsed
+protocol: recs80_45
+address: 2
+command: 50
+#
+name: DISPLAY MEDIUM
+type: parsed
+protocol: recs80_45
+address: 2
+command: 51
+#
+name: DISPLAY OFF
+type: parsed
+protocol: recs80_45
+address: 2
+command: 52
+#
+name: STOP; NO LID
+type: parsed
+protocol: recs80_45
+address: 2
+command: 53
+#
+name: STANDBY
+type: parsed
+protocol: recs80_45
+address: 2
+command: 54
+#
+name: OPERATE
+type: parsed
+protocol: recs80_45
+address: 2
+command: 55
+#
+name: RANDOM PLAY
+type: parsed
+protocol: recs80_45
+address: 2
+command: 56
+#

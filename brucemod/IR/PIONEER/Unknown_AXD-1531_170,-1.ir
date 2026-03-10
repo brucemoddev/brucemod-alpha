@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 170
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 170
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 170
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 170
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 170
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 170
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 170
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 170
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 170
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 170
+command: 9
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 170
+command: 10
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 170
+command: 11
+#
+name: CH_PLUS
+type: parsed
+protocol: nec
+address: 170
+command: 16
+#
+name: CH_MINUS
+type: parsed
+protocol: nec
+address: 170
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 170
+command: 28
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 170
+command: 36
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 170
+command: 37
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 170
+command: 38
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 170
+command: 39
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 170
+command: 40
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 170
+command: 56
+#
+name: INPUT_ANT
+type: parsed
+protocol: nec
+address: 170
+command: 69
+#
+name: MUTING
+type: parsed
+protocol: nec
+address: 170
+command: 73
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 170
+command: 74
+#
+name: INPUT1
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: INPUT2
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: INPUT3
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: INPUT4
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: HDMI5
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: HDMI6
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: INPUT_PC
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: DOT
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: CH_ENTER
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: CH_RETURN
+type: parsed
+protocol: nec
+address: 170
+command: 90
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: HOME_MENU
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: TV_GUIDE
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: DAY_PLUS
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: DAY_MINUS
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: PAGE_PLUS
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: PAGE_MINUS
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: BLUE_A
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: RED_B
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: GREEN_C
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: YELLOW_D
+type: parsed
+protocol: nec
+address: 170
+command: 91
+#
+name: SCREEN_SIZE
+type: parsed
+protocol: nec
+address: 170
+command: 94
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 170
+command: 94
+#
+name: AV_SELECTION
+type: parsed
+protocol: nec
+address: 170
+command: 94
+#

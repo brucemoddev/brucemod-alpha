@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: A/B/C/D/E
+type: parsed
+protocol: nec
+address: 209
+command: 13
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 209
+command: 14
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 209
+command: 15
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 209
+command: 16
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 209
+command: 17
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 209
+command: 18
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 209
+command: 19
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 209
+command: 20
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 209
+command: 21
+#

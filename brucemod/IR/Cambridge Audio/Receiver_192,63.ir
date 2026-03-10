@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE TOGGLE
+type: parsed
+protocol: nec
+address: 192.63
+command: 0
+#
+name: Preset 1/5
+type: parsed
+protocol: nec
+address: 192.63
+command: 3
+#
+name: Mode (Tuner)
+type: parsed
+protocol: nec
+address: 192.63
+command: 24
+#
+name: Stereo/Mono (Tuner)
+type: parsed
+protocol: nec
+address: 192.63
+command: 25
+#
+name: Speaker A/B
+type: parsed
+protocol: nec
+address: 192.63
+command: 26
+#
+name: CD
+type: parsed
+protocol: nec
+address: 192.63
+command: 27
+#
+name: Skip/Scan up (Tuner)
+type: parsed
+protocol: nec
+address: 192.63
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: nec
+address: 192.63
+command: 29
+#
+name: Skip/Scan down (Tune
+type: parsed
+protocol: nec
+address: 192.63
+command: 30
+#
+name: BD/DVD
+type: parsed
+protocol: nec
+address: 192.63
+command: 31
+#
+name: Preset 2/6
+type: parsed
+protocol: nec
+address: 192.63
+command: 64
+#
+name: Preset 4/8
+type: parsed
+protocol: nec
+address: 192.63
+command: 65
+#
+name: Preset 3/7
+type: parsed
+protocol: nec
+address: 192.63
+command: 66
+#
+name: SOURCE
+type: parsed
+protocol: nec
+address: 192.63
+command: 82
+#
+name: FM
+type: parsed
+protocol: nec
+address: 192.63
+command: 88
+#
+name: AM/TUNER
+type: parsed
+protocol: nec
+address: 192.63
+command: 89
+#
+name: MP3/AUX
+type: parsed
+protocol: nec
+address: 192.63
+command: 92
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 192.63
+command: 93
+#
+name: VOLUME -
+type: parsed
+protocol: nec
+address: 192.63
+command: 94
+#

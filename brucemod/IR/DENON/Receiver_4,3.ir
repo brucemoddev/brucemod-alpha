@@ -1,0 +1,783 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZONE2 DIGIT 1
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 16
+#
+name: ZONE2 DIGIT 2
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 17
+#
+name: ZONE2 DIGIT 3
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 18
+#
+name: ZONE2 DIGIT 4
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 19
+#
+name: ZONE2 DIGIT 5
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 20
+#
+name: ZONE2 DIGIT 6
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 21
+#
+name: ZONE2 DIGIT 7
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 22
+#
+name: ZONE2 DIGIT 8
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 23
+#
+name: ZONE2 DIGIT 9
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 24
+#
+name: ZONE2 DIGIT 0
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 25
+#
+name: ZONE2 CURSOR/ARROW U
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 27
+#
+name: ZONE2 CURSOR/ARROW D
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 28
+#
+name: ZONE2 CURSOR/ARROW L
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 29
+#
+name: ZONE2 CURSOR/ARROW R
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 30
+#
+name: ZONE2 ENTER/SELECT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 31
+#
+name: ZONE2 AUDIO FUNCTION
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 32
+#
+name: ZONE2 VIDEO FUNCTION
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 33
+#
+name: ZONE2 RETURN/BACK
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 34
+#
+name: ZONE2 MENU
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 35
+#
+name: ZONE2 VIDEO SELECT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 112
+#
+name: ZONE2 FAVORITE 1
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 242
+#
+name: ZONE2 FAVORITE 2
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 243
+#
+name: ZONE2 FAVORITE 3
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 244
+#
+name: ZONE2 FAVORITE 4
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 245
+#
+name: ZONE2 QUICK SELECT /
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 292
+#
+name: ZONE2 QUICK SELECT /
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 293
+#
+name: ZONE2 QUICK SELECT /
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 294
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 304
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 305
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 307
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 308
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 312
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 313
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 314
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 315
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 316
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 321
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 322
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 323
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 333
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 334
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 335
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 336
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 337
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 338
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 339
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 340
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 341
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 342
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 343
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 344
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 345
+#
+name: ZONE2 SURROUND MODE 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 346
+#
+name: ZONE2 INPUT MODE AUT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 352
+#
+name: ZONE2 INPUT MODE ANA
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 353
+#
+name: ZONE2 VOLUME UP
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 368
+#
+name: ZONE2 VOLUME DOWN
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 369
+#
+name: ZONE2 VOLUME MUTE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 370
+#
+name: ZONE2 VOLUME PRESET 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 372
+#
+name: ZONE2 VOLUME PRESET 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 373
+#
+name: ZONE2 VOLUME PRESET 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 374
+#
+name: ZONE2 CHANNEL SELECT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 374
+#
+name: ZONE2 CHANNEL LEVEL 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 379
+#
+name: ZONE2 CHANNEL LEVEL 
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 380
+#
+name: ZONE2 TEST TONE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 383
+#
+name: ZONE2 ALL TREBLE UP
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 400
+#
+name: ZONE2 ALL TREBLE DOW
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 401
+#
+name: ZONE2 ALL BASS UP
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 403
+#
+name: ZONE2 ALL BASS DOWN
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 404
+#
+name: ZONE2 TONE CONTROL O
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 407
+#
+name: ZONE2 TONE CONTROL O
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 408
+#
+name: ZONE2 SURROUND PARAM
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 448
+#
+name: ZONE2 CINEMA EQ ON
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 454
+#
+name: ZONE2 CINEMA EQ OFF
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 455
+#
+name: ZONE2 SB SPEAKER MAT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 497
+#
+name: ZONE2 SB SPEAKER MAT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 498
+#
+name: ZONE2 SB SPEAKER OFF
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 499
+#
+name: ZONE2 SB SPEAKER TOG
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 518
+#
+name: ZONE2 FRONT SPEAKER
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 522
+#
+name: ZONE2 NIGHT MODE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 546
+#
+name: ZONE2 RESTORE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 548
+#
+name: ZONE2 SURROUND SPEAK
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 552
+#
+name: ZONE2 SYSTEM SETUP
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 560
+#
+name: ZONE2 AUDIO DELAY
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 620
+#
+name: ZONE2 AUDIO DELAY UP
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 621
+#
+name: ZONE2 AUDIO DELAY DO
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 622
+#
+name: ZONE2 STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 645
+#
+name: ZONE2 INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 667
+#
+name: ZONE2 INPUT INTERNET
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 691
+#
+name: ZONE2 INPUT SOURCE S
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 692
+#
+name: ZONE2 INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 704
+#
+name: ZONE2 INPUT CD
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 706
+#
+name: ZONE2 INPUT AUX/NET/
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 711
+#
+name: ZONE2 INPUT AUX/NET
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 712
+#
+name: ZONE2 INPUT AUX/IPOD
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 713
+#
+name: ZONE2 INPUT AUX/USB/
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 714
+#
+name: ZONE2 INPUT DTU/HD R
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 715
+#
+name: ZONE2 INPUT NET
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 716
+#
+name: ZONE2 INPUT IPOD/DOC
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 717
+#
+name: ZONE2 INPUT USB
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 718
+#
+name: ZONE2 INPUT TUNER/HD
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 719
+#
+name: ZONE2 INPUT DVD
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 720
+#
+name: ZONE2 INPUT HDP/BD
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 721
+#
+name: ZONE2 INPUT TV/CABLE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 722
+#
+name: ZONE2 INPUT SAT/CABL
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 723
+#
+name: ZONE2 INPUT GAME/VCR
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 725
+#
+name: ZONE2 INPUT GAME2
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 727
+#
+name: ZONE2 INPUT VCR4
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 728
+#
+name: ZONE2 INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 729
+#
+name: ZONE2 INPUT V.AUX 2
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 730
+#
+name: ZONE2 INPUT DVD/HDP/
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 732
+#
+name: ZONE2 INPUT VCR1/2
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 733
+#
+name: ZONE2 INPUT VCR3/4
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 734
+#
+name: ZONE2 INPUT VCR/DVR/
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 735
+#
+name: ZONE2 INPUT BLUETOOT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 751
+#
+name: ZONE2 INPUT PANDORA
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 765
+#
+name: ZONE2 INPUT SOURCE S
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 787
+#
+name: ZONE2 INPUT SOURCE S
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 788
+#
+name: ZONE2 REPEAT
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 956
+#
+name: ZONE2 RANDOM/SHUFFLE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 957
+#
+name: ZONE2 USB DIRECT PLA
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 958
+#
+name: ZONE2 FAVORITE DIREC
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 959
+#
+name: ZONE2 TUNER PRESET C
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 972
+#
+name: ZONE2 TUNER PRESET C
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 973
+#
+name: ZONE2 TUNER PRESET S
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 974
+#
+name: ZONE2 TUNER SEARCH/R
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 983
+#
+name: ZONE2 PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 992
+#
+name: ZONE2 STOP
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 993
+#
+name: ZONE2 TUNER SKIP/TUN
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 995
+#
+name: ZONE2 TUNER SKIP/TUN
+type: parsed
+protocol: Denon-K
+address: 4.3
+command: 996
+#

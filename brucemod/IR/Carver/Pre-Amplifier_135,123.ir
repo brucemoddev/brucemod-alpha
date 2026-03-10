@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REMOTE VOLUME UP
+type: parsed
+protocol: nec1
+address: 135.123
+command: 17
+#
+name: REMOTE VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 135.123
+command: 18
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.123
+command: 64
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 135.123
+command: 66
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 135.123
+command: 67
+#
+name: REMOTE
+type: parsed
+protocol: nec1
+address: 135.123
+command: 69
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 135.123
+command: 82
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 135.123
+command: 83
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 135.123
+command: 84
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 135.123
+command: 85
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 135.123
+command: 91
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 135.123
+command: 92
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 135.123
+command: 93
+#

@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: vmute
+type: parsed
+protocol: jvc
+address: 243
+command: 134
+#
+name: KEY_SELECT
+type: parsed
+protocol: jvc
+address: 243
+command: 144
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 243
+command: 151
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 243
+command: 161
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 243
+command: 162
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 243
+command: 163
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 243
+command: 164
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 243
+command: 165
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 243
+command: 166
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 243
+command: 167
+#
+name: loop
+type: parsed
+protocol: jvc
+address: 243
+command: 168
+#
+name: dual
+type: parsed
+protocol: jvc
+address: 243
+command: 170
+#
+name: lock
+type: parsed
+protocol: jvc
+address: 243
+command: 171
+#
+name: KEY_VIDEO
+type: parsed
+protocol: jvc
+address: 243
+command: 172
+#
+name: KEY_AUDIO
+type: parsed
+protocol: jvc
+address: 243
+command: 173
+#
+name: KEY_AUX
+type: parsed
+protocol: jvc
+address: 243
+command: 174
+#

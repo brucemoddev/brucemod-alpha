@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 40
+#
+name: AMP
+type: parsed
+protocol: rc5
+address: 16
+command: 40
+#
+name: METER
+type: parsed
+protocol: rc5
+address: 16
+command: 41
+#

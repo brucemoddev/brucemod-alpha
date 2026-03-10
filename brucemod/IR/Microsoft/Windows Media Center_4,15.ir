@@ -1,0 +1,435 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: mce
+address: 4.15
+command: 0
+#
+name: 1
+type: parsed
+protocol: mce
+address: 4.15
+command: 1
+#
+name: 2
+type: parsed
+protocol: mce
+address: 4.15
+command: 2
+#
+name: 3
+type: parsed
+protocol: mce
+address: 4.15
+command: 3
+#
+name: 4
+type: parsed
+protocol: mce
+address: 4.15
+command: 4
+#
+name: 5
+type: parsed
+protocol: mce
+address: 4.15
+command: 5
+#
+name: 6
+type: parsed
+protocol: mce
+address: 4.15
+command: 6
+#
+name: 7
+type: parsed
+protocol: mce
+address: 4.15
+command: 7
+#
+name: 8
+type: parsed
+protocol: mce
+address: 4.15
+command: 8
+#
+name: 9
+type: parsed
+protocol: mce
+address: 4.15
+command: 9
+#
+name: CLEAR
+type: parsed
+protocol: mce
+address: 4.15
+command: 10
+#
+name: DIGIT ENTER
+type: parsed
+protocol: mce
+address: 4.15
+command: 11
+#
+name: POWER
+type: parsed
+protocol: mce
+address: 4.15
+command: 12
+#
+name: WINDOWS
+type: parsed
+protocol: mce
+address: 4.15
+command: 13
+#
+name: MUTE
+type: parsed
+protocol: mce
+address: 4.15
+command: 14
+#
+name: MORE INFO
+type: parsed
+protocol: mce
+address: 4.15
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: mce
+address: 4.15
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: mce
+address: 4.15
+command: 17
+#
+name: CHANNEL +
+type: parsed
+protocol: mce
+address: 4.15
+command: 18
+#
+name: CHANNEL -
+type: parsed
+protocol: mce
+address: 4.15
+command: 19
+#
+name: FAST FWD
+type: parsed
+protocol: mce
+address: 4.15
+command: 20
+#
+name: REWIND
+type: parsed
+protocol: mce
+address: 4.15
+command: 21
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 4.15
+command: 22
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 4.15
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: mce
+address: 4.15
+command: 24
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 4.15
+command: 25
+#
+name: SKIP
+type: parsed
+protocol: mce
+address: 4.15
+command: 26
+#
+name: REPLAY
+type: parsed
+protocol: mce
+address: 4.15
+command: 27
+#
+name: NUMERIC_POUND
+type: parsed
+protocol: mce
+address: 4.15
+command: 28
+#
+name: NUMERIC_STAR
+type: parsed
+protocol: mce
+address: 4.15
+command: 29
+#
+name: UP
+type: parsed
+protocol: mce
+address: 4.15
+command: 30
+#
+name: DOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 31
+#
+name: LEFT
+type: parsed
+protocol: mce
+address: 4.15
+command: 32
+#
+name: RIGHT
+type: parsed
+protocol: mce
+address: 4.15
+command: 33
+#
+name: OK
+type: parsed
+protocol: mce
+address: 4.15
+command: 34
+#
+name: BACK
+type: parsed
+protocol: mce
+address: 4.15
+command: 35
+#
+name: MENU DVD
+type: parsed
+protocol: mce
+address: 4.15
+command: 36
+#
+name: LIVE TV
+type: parsed
+protocol: mce
+address: 4.15
+command: 37
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 4.15
+command: 38
+#
+name: ZOOM
+type: parsed
+protocol: mce
+address: 4.15
+command: 39
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: mce
+address: 4.15
+command: 40
+#
+name: MY LIGHTS
+type: parsed
+protocol: mce
+address: 4.15
+command: 51
+#
+name: MY DISTRIBUTED AUDIO
+type: parsed
+protocol: mce
+address: 4.15
+command: 52
+#
+name: MY THERMOSAT
+type: parsed
+protocol: mce
+address: 4.15
+command: 53
+#
+name: MY SECURITY
+type: parsed
+protocol: mce
+address: 4.15
+command: 54
+#
+name: ONLINE SPOTLIGHT
+type: parsed
+protocol: mce
+address: 4.15
+command: 60
+#
+name: YELLOW/MY TV
+type: parsed
+protocol: mce
+address: 4.15
+command: 70
+#
+name: GREEN/MY MUSIC
+type: parsed
+protocol: mce
+address: 4.15
+command: 71
+#
+name: RECORDED TV
+type: parsed
+protocol: mce
+address: 4.15
+command: 72
+#
+name: BLUE/MY PICTURES
+type: parsed
+protocol: mce
+address: 4.15
+command: 73
+#
+name: RED/MY VIDEOS
+type: parsed
+protocol: mce
+address: 4.15
+command: 74
+#
+name: DVD ANGLE
+type: parsed
+protocol: mce
+address: 4.15
+command: 75
+#
+name: DVD AUDIO
+type: parsed
+protocol: mce
+address: 4.15
+command: 76
+#
+name: DVD SUBTITLE
+type: parsed
+protocol: mce
+address: 4.15
+command: 77
+#
+name: PRINT
+type: parsed
+protocol: mce
+address: 4.15
+command: 78
+#
+name: RADIO
+type: parsed
+protocol: mce
+address: 4.15
+command: 80
+#
+name: TELETEXT
+type: parsed
+protocol: mce
+address: 4.15
+command: 90
+#
+name: RED
+type: parsed
+protocol: mce
+address: 4.15
+command: 91
+#
+name: GREEN
+type: parsed
+protocol: mce
+address: 4.15
+command: 92
+#
+name: YELLOW
+type: parsed
+protocol: mce
+address: 4.15
+command: 93
+#
+name: BLUE
+type: parsed
+protocol: mce
+address: 4.15
+command: 94
+#
+name: TELETEXT INDEX
+type: parsed
+protocol: mce
+address: 4.15
+command: 95
+#
+name: ORANGE
+type: parsed
+protocol: mce
+address: 4.15
+command: 96
+#
+name: XE HOME
+type: parsed
+protocol: mce
+address: 4.15
+command: 100
+#
+name: XE LIVE TV
+type: parsed
+protocol: mce
+address: 4.15
+command: 101
+#
+name: XE PAGE UP
+type: parsed
+protocol: mce
+address: 4.15
+command: 102
+#
+name: XE GUIDE
+type: parsed
+protocol: mce
+address: 4.15
+command: 103
+#
+name: XE PAGE DOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 104
+#
+name: MESSENGER
+type: parsed
+protocol: mce
+address: 4.15
+command: 105
+#
+name: KIOSK
+type: parsed
+protocol: mce
+address: 4.15
+command: 106
+#
+name: OEM1
+type: parsed
+protocol: mce
+address: 4.15
+command: 128
+#
+name: OEM2
+type: parsed
+protocol: mce
+address: 4.15
+command: 129
+#

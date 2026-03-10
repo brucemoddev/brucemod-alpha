@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.246
+command: 0
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.246
+command: 1
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 0.246
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.246
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.246
+command: 4
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.246
+command: 5
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0.246
+command: 6
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.246
+command: 7
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.246
+command: 8
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.246
+command: 9
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0.246
+command: 10
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 0.246
+command: 11
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.246
+command: 12
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.246
+command: 13
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.246
+command: 14
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 0.246
+command: 15
+#

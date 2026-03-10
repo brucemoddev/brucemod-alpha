@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 133.118
+command: 0
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 133.118
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 133.118
+command: 2
+#
+name: start_stop
+type: parsed
+protocol: nec
+address: 133.118
+command: 3
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 133.118
+command: 4
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 133.118
+command: 5
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 133.118
+command: 16
+#
+name: self_timer
+type: parsed
+protocol: nec
+address: 133.118
+command: 18
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 133.118
+command: 23
+#
+name: tv_screen
+type: parsed
+protocol: nec
+address: 133.118
+command: 27
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 133.118
+command: 28
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 133.118
+command: 29
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 133.118
+command: 32
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 133.118
+command: 33
+#
+name: set
+type: parsed
+protocol: nec
+address: 133.118
+command: 36
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 133.118
+command: 37
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 133.118
+command: 39
+#
+name: d_effects
+type: parsed
+protocol: nec
+address: 133.118
+command: 40
+#
+name: KEY_IMAGES
+type: parsed
+protocol: nec
+address: 133.118
+command: 48
+#
+name: data_code
+type: parsed
+protocol: nec
+address: 133.118
+command: 49
+#
+name: zero_set_memory
+type: parsed
+protocol: nec
+address: 133.118
+command: 50
+#
+name: audio_dub
+type: parsed
+protocol: nec
+address: 133.118
+command: 51
+#
+name: search_select
+type: parsed
+protocol: nec
+address: 133.118
+command: 52
+#
+name: search_select_forwar
+type: parsed
+protocol: nec
+address: 133.118
+command: 53
+#
+name: search_select_rewind
+type: parsed
+protocol: nec
+address: 133.118
+command: 54
+#
+name: X_KEY_2_bit_audio_ou
+type: parsed
+protocol: nec
+address: 133.118
+command: 57
+#
+name: prev_frame
+type: parsed
+protocol: nec
+address: 133.118
+command: 80
+#
+name: fast
+type: parsed
+protocol: nec
+address: 133.118
+command: 85
+#

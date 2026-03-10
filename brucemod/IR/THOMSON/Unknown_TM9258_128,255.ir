@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 128.255
+command: 128
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 128.255
+command: 132
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128.255
+command: 136
+#
+name: trackNext
+type: parsed
+protocol: nec
+address: 128.255
+command: 140
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 128.255
+command: 141
+#
+name: trackBack
+type: parsed
+protocol: nec
+address: 128.255
+command: 144
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 128.255
+command: 145
+#
+name: soundEffect
+type: parsed
+protocol: nec
+address: 128.255
+command: 147
+#
+name: band
+type: parsed
+protocol: nec
+address: 128.255
+command: 148
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 128.255
+command: 149
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 128.255
+command: 153
+#
+name: presUp
+type: parsed
+protocol: nec
+address: 128.255
+command: 156
+#
+name: presDown
+type: parsed
+protocol: nec
+address: 128.255
+command: 157
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ALL ADRESSES ON
+type: parsed
+protocol: dish_netwo
+address: 0.31
+command: 1
+#
+name: ALL ADRESSES OFF
+type: parsed
+protocol: dish_netwo
+address: 0.31
+command: 39
+#

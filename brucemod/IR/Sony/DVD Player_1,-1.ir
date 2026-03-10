@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOL UP
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: VOL DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: TV ON/OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: TV/VIDEO
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#

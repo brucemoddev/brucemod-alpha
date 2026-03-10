@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: sony20
+address: 26.66
+command: 18
+#
+name: VOLUME -
+type: parsed
+protocol: sony20
+address: 26.66
+command: 19
+#
+name: POWER
+type: parsed
+protocol: sony20
+address: 26.66
+command: 21
+#
+name: VIDEO 2
+type: parsed
+protocol: sony20
+address: 26.66
+command: 30
+#
+name: PHONO
+type: parsed
+protocol: sony20
+address: 26.66
+command: 32
+#
+name: TUNER
+type: parsed
+protocol: sony20
+address: 26.66
+command: 33
+#
+name: VIDEO 1
+type: parsed
+protocol: sony20
+address: 26.66
+command: 34
+#
+name: TAPE
+type: parsed
+protocol: sony20
+address: 26.66
+command: 35
+#
+name: CD
+type: parsed
+protocol: sony20
+address: 26.66
+command: 37
+#
+name: VIDEO 3
+type: parsed
+protocol: sony20
+address: 26.66
+command: 66
+#
+name: MD/DAT
+type: parsed
+protocol: sony20
+address: 26.66
+command: 105
+#
+name: TV
+type: parsed
+protocol: sony20
+address: 26.66
+command: 106
+#
+name: LD
+type: parsed
+protocol: sony20
+address: 26.66
+command: 107
+#
+name: CINEMA STUDIO A
+type: parsed
+protocol: sony20
+address: 26.66
+command: 123
+#
+name: DVD
+type: parsed
+protocol: sony20
+address: 26.66
+command: 125
+#

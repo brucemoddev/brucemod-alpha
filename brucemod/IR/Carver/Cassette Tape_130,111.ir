@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: COUNTER RESET
+type: parsed
+protocol: nec1
+address: 130.111
+command: 0
+#
+name: REVIEW <<
+type: parsed
+protocol: nec1
+address: 130.111
+command: 4
+#
+name: CUE >>
+type: parsed
+protocol: nec1
+address: 130.111
+command: 6
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 130.111
+command: 9
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 130.111
+command: 10
+#
+name: REC MUTE
+type: parsed
+protocol: nec1
+address: 130.111
+command: 14
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 130.111
+command: 20
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 130.111
+command: 21
+#

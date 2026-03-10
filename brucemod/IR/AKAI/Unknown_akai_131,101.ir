@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 131.101
+command: 0
+#
+name: INPUT_TUNER
+type: parsed
+protocol: nec
+address: 131.101
+command: 1
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.101
+command: 2
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 131.101
+command: 3
+#
+name: INPUT_TAPE
+type: parsed
+protocol: nec
+address: 131.101
+command: 4
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 131.101
+command: 5
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 131.101
+command: 6
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.101
+command: 8
+#
+name: INPUT_PHONO
+type: parsed
+protocol: nec
+address: 131.101
+command: 9
+#
+name: CD_PREV
+type: parsed
+protocol: nec
+address: 131.101
+command: 12
+#
+name: CD_REPEAT
+type: parsed
+protocol: nec
+address: 131.101
+command: 13
+#
+name: AUTOMUTE
+type: parsed
+protocol: nec
+address: 131.101
+command: 14
+#
+name: VOL_MUTE
+type: parsed
+protocol: nec
+address: 131.101
+command: 16
+#
+name: INPUT_VCR
+type: parsed
+protocol: nec
+address: 131.101
+command: 17
+#
+name: CD_FF
+type: parsed
+protocol: nec
+address: 131.101
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.101
+command: 24
+#
+name: INPUT_CD
+type: parsed
+protocol: nec
+address: 131.101
+command: 25
+#
+name: TAPE1_PLAY
+type: parsed
+protocol: nec
+address: 131.101
+command: 27
+#
+name: CD_REW
+type: parsed
+protocol: nec
+address: 131.101
+command: 28
+#
+name: CD_PROG
+type: parsed
+protocol: nec
+address: 131.101
+command: 29
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.101
+command: 30
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.101
+command: 31
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.101
+command: 64
+#
+name: TAPE2_FF
+type: parsed
+protocol: nec
+address: 131.101
+command: 66
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.101
+command: 67
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.101
+command: 68
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.101
+command: 69
+#
+name: TAPE1_FF
+type: parsed
+protocol: nec
+address: 131.101
+command: 70
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.101
+command: 74
+#
+name: SOUNDCHAR_NEXT
+type: parsed
+protocol: nec
+address: 131.101
+command: 76
+#
+name: SOUNDCHAR_PREV
+type: parsed
+protocol: nec
+address: 131.101
+command: 77
+#
+name: CD_RANDOM
+type: parsed
+protocol: nec
+address: 131.101
+command: 79
+#
+name: CD_NEXT
+type: parsed
+protocol: nec
+address: 131.101
+command: 82
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.101
+command: 84
+#
+name: TAPE1_REW
+type: parsed
+protocol: nec
+address: 131.101
+command: 86
+#
+name: TAPE2_REW
+type: parsed
+protocol: nec
+address: 131.101
+command: 87
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.101
+command: 88
+#
+name: TAPE2_BACK
+type: parsed
+protocol: nec
+address: 131.101
+command: 90
+#
+name: TAPE1_BACK
+type: parsed
+protocol: nec
+address: 131.101
+command: 91
+#
+name: TAPE2_STOP
+type: parsed
+protocol: nec
+address: 131.101
+command: 92
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.101
+command: 93
+#
+name: TAPE2_PLAY
+type: parsed
+protocol: nec
+address: 131.101
+command: 94
+#
+name: TAPE1_STOP
+type: parsed
+protocol: nec
+address: 131.101
+command: 95
+#

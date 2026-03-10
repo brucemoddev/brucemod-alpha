@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Ch_Up
+type: parsed
+protocol: Proton
+address: 54
+command: 1
+#
+name: Ch_Down
+type: parsed
+protocol: Proton
+address: 54
+command: 2
+#
+name: Vol+
+type: parsed
+protocol: Proton
+address: 54
+command: 3
+#
+name: Vol-
+type: parsed
+protocol: Proton
+address: 54
+command: 4
+#
+name: I-II_left
+type: parsed
+protocol: Proton
+address: 54
+command: 8
+#
+name: I-II_right
+type: parsed
+protocol: Proton
+address: 54
+command: 8
+#
+name: Mute
+type: parsed
+protocol: Proton
+address: 54
+command: 9
+#
+name: A/CH
+type: parsed
+protocol: Proton
+address: 54
+command: 10
+#
+name: Off/Timer
+type: parsed
+protocol: Proton
+address: 54
+command: 12
+#
+name: Video
+type: parsed
+protocol: Proton
+address: 54
+command: 13
+#
+name: Power
+type: parsed
+protocol: Proton
+address: 54
+command: 14
+#
+name: Display_Set_Clock
+type: parsed
+protocol: Proton
+address: 54
+command: 15
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 54
+command: 16
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 54
+command: 17
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 54
+command: 18
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 54
+command: 19
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 54
+command: 20
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 54
+command: 21
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 54
+command: 22
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 54
+command: 23
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 54
+command: 24
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 54
+command: 25
+#
+name: 10+
+type: parsed
+protocol: Proton
+address: 54
+command: 26
+#
+name: 20+
+type: parsed
+protocol: Proton
+address: 54
+command: 27
+#
+name: 30+
+type: parsed
+protocol: Proton
+address: 54
+command: 28
+#
+name: 40+
+type: parsed
+protocol: Proton
+address: 54
+command: 29
+#
+name: On/Timer
+type: parsed
+protocol: Proton
+address: 54
+command: 52
+#
+name: Hour
+type: parsed
+protocol: Proton
+address: 54
+command: 53
+#
+name: Min
+type: parsed
+protocol: Proton
+address: 54
+command: 54
+#
+name: Up_Arrow
+type: parsed
+protocol: Proton
+address: 54
+command: 88
+#
+name: Right_Arrow
+type: parsed
+protocol: Proton
+address: 54
+command: 89
+#
+name: Left_Arrow
+type: parsed
+protocol: Proton
+address: 54
+command: 90
+#
+name: Down_Arrow
+type: parsed
+protocol: Proton
+address: 54
+command: 156
+#

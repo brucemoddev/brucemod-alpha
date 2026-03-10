@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec2
+address: 109.0
+command: 167
+#
+name: VOL_UP
+type: parsed
+protocol: nec2
+address: 109.0
+command: 55
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 109.0
+command: 23
+#
+name: CH_UP
+type: parsed
+protocol: nec2
+address: 109.0
+command: 133
+#
+name: CH_DN
+type: parsed
+protocol: nec2
+address: 109.0
+command: 69
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 109.0
+command: 61
+#
+name: HDMI
+type: parsed
+protocol: nec2
+address: 109.0
+command: 119
+#

@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 68
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 68
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 68
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 68
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 68
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 68
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 68
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 68
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 68
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 68
+command: 10
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 68
+command: 13
+#
+name: align+
+type: parsed
+protocol: nec
+address: 68
+command: 14
+#
+name: align-
+type: parsed
+protocol: nec
+address: 68
+command: 15
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 68
+command: 16
+#
+name: tvvcr
+type: parsed
+protocol: nec
+address: 68
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 68
+command: 18
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 68
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 68
+command: 20
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 68
+command: 21
+#
+name: display
+type: parsed
+protocol: nec
+address: 68
+command: 22
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 68
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 68
+command: 25
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 68
+command: 27
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 68
+command: 31
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 68
+command: 77
+#
+name: auto
+type: parsed
+protocol: nec
+address: 68
+command: 79
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 68
+command: 81
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 68
+command: 83
+#
+name: immediat
+type: parsed
+protocol: nec
+address: 68
+command: 91
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 68
+command: 92
+#
+name: speed
+type: parsed
+protocol: nec
+address: 68
+command: 93
+#
+name: input
+type: parsed
+protocol: nec
+address: 68
+command: 95
+#
+name: reset
+type: parsed
+protocol: nec
+address: 68
+command: 150
+#
+name: dt
+type: parsed
+protocol: nec
+address: 68
+command: 212
+#

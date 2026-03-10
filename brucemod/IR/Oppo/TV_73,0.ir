@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec2
+address: 73.0
+command: 26
+#
+name: VOL_UP
+type: parsed
+protocol: nec2
+address: 73.0
+command: 19
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 73.0
+command: 23
+#
+name: CH_UP
+type: parsed
+protocol: nec2
+address: 73.0
+command: 80
+#
+name: CH_DN
+type: parsed
+protocol: nec2
+address: 73.0
+command: 84
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 73.0
+command: 61
+#

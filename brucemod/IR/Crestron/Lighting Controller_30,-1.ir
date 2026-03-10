@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OFF
+type: parsed
+protocol: rc5
+address: 30
+command: 0
+#
+name: ON
+type: parsed
+protocol: rc5
+address: 30
+command: 1
+#
+name: SCENE 1
+type: parsed
+protocol: rc5
+address: 30
+command: 2
+#
+name: SCENE 2
+type: parsed
+protocol: rc5
+address: 30
+command: 3
+#
+name: SCENE 3
+type: parsed
+protocol: rc5
+address: 30
+command: 4
+#
+name: SCENE 4
+type: parsed
+protocol: rc5
+address: 30
+command: 5
+#
+name: RAISE
+type: parsed
+protocol: rc5
+address: 30
+command: 33
+#
+name: LOWER
+type: parsed
+protocol: rc5
+address: 30
+command: 34
+#

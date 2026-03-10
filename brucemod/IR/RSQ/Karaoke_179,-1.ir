@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REPLAY
+type: parsed
+protocol: jvc
+address: 179
+command: 179
+#
+name: ON SCREEN
+type: parsed
+protocol: jvc
+address: 179
+command: 181
+#
+name: VIDEO INTRO
+type: parsed
+protocol: jvc
+address: 179
+command: 182
+#
+name: HIGHLIGHT
+type: parsed
+protocol: jvc
+address: 179
+command: 185
+#
+name: B. MARK
+type: parsed
+protocol: jvc
+address: 179
+command: 186
+#
+name: B. SEARCH
+type: parsed
+protocol: jvc
+address: 179
+command: 187
+#
+name: BOOK DIGEST
+type: parsed
+protocol: jvc
+address: 179
+command: 188
+#

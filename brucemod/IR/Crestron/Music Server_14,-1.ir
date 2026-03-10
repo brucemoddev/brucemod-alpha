@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 14
+command: 0
+#
+name: 1 OR *
+type: parsed
+protocol: rc5
+address: 14
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 14
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 14
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 14
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 14
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 14
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 14
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 14
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 14
+command: 9
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 14
+command: 11
+#
+name: STANDBY
+type: parsed
+protocol: rc5
+address: 14
+command: 12
+#
+name: ALPHABETIC SCROLL KE
+type: parsed
+protocol: rc5
+address: 14
+command: 13
+#
+name: NOW PLAYING
+type: parsed
+protocol: rc5
+address: 14
+command: 14
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 14
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 14
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 14
+command: 17
+#
+name: OPTIONS
+type: parsed
+protocol: rc5
+address: 14
+command: 18
+#
+name: BROWSE
+type: parsed
+protocol: rc5
+address: 14
+command: 19
+#
+name: ARROW UP
+type: parsed
+protocol: rc5
+address: 14
+command: 20
+#
+name: ARROW RIGHT
+type: parsed
+protocol: rc5
+address: 14
+command: 21
+#
+name: ARROW DN
+type: parsed
+protocol: rc5
+address: 14
+command: 22
+#
+name: ARROW LEFT
+type: parsed
+protocol: rc5
+address: 14
+command: 23
+#
+name: ACTION KEY
+type: parsed
+protocol: rc5
+address: 14
+command: 24
+#
+name: CANCEL KEY
+type: parsed
+protocol: rc5
+address: 14
+command: 25
+#
+name: MARK
+type: parsed
+protocol: rc5
+address: 14
+command: 26
+#
+name: SEARCH <<
+type: parsed
+protocol: rc5
+address: 14
+command: 27
+#
+name: DELETE
+type: parsed
+protocol: rc5
+address: 14
+command: 28
+#
+name: RETURN
+type: parsed
+protocol: rc5
+address: 14
+command: 29
+#
+name: FFWD
+type: parsed
+protocol: rc5
+address: 14
+command: 32
+#
+name: REW
+type: parsed
+protocol: rc5
+address: 14
+command: 33
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 14
+command: 48
+#
+name: SELECT
+type: parsed
+protocol: rc5
+address: 14
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 14
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 14
+command: 54
+#
+name: OUTPUT
+type: parsed
+protocol: rc5
+address: 14
+command: 55
+#
+name: DEFAULT OUT
+type: parsed
+protocol: rc5
+address: 14
+command: 56
+#
+name: PAGE UP
+type: parsed
+protocol: rc5
+address: 14
+command: 57
+#
+name: PAGE DN
+type: parsed
+protocol: rc5
+address: 14
+command: 58
+#

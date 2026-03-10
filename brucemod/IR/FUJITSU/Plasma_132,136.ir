@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUTO
+type: parsed
+protocol: fujitsu
+address: 132.136
+command: 17
+#

@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 179
+command: 64
+#
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: poen
+type: parsed
+protocol: jvc
+address: 179
+command: 68
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 179
+command: 76
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc
+address: 179
+command: 77
+#
+name: display_mode
+type: parsed
+protocol: jvc
+address: 179
+command: 84
+#
+name: index_right
+type: parsed
+protocol: jvc
+address: 179
+command: 86
+#
+name: index_left
+type: parsed
+protocol: jvc
+address: 179
+command: 87
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: KEY_NEXT
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: reapet
+type: parsed
+protocol: jvc
+address: 179
+command: 91
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 179
+command: 97
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 179
+command: 98
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 179
+command: 99
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 179
+command: 100
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 179
+command: 101
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 179
+command: 102
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 179
+command: 105
+#
+name: program
+type: parsed
+protocol: jvc
+address: 179
+command: 106
+#
+name: KEY_CANCEL
+type: parsed
+protocol: jvc
+address: 179
+command: 109
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: random
+type: parsed
+protocol: jvc
+address: 179
+command: 114
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#

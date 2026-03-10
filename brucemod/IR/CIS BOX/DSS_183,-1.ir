@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony15
+address: 183
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony15
+address: 183
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony15
+address: 183
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony15
+address: 183
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony15
+address: 183
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony15
+address: 183
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony15
+address: 183
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony15
+address: 183
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony15
+address: 183
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony15
+address: 183
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony15
+address: 183
+command: 11
+#
+name: CH UP
+type: parsed
+protocol: sony15
+address: 183
+command: 16
+#
+name: CH DOWN
+type: parsed
+protocol: sony15
+address: 183
+command: 17
+#
+name: PWR ON
+type: parsed
+protocol: sony15
+address: 183
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony15
+address: 183
+command: 47
+#
+name: MENU
+type: parsed
+protocol: sony15
+address: 183
+command: 56
+#
+name: DISPLAY
+type: parsed
+protocol: sony15
+address: 183
+command: 58
+#
+name: EXIT
+type: parsed
+protocol: sony15
+address: 183
+command: 99
+#
+name: TV/ DSS
+type: parsed
+protocol: sony15
+address: 183
+command: 105
+#
+name: JUMP
+type: parsed
+protocol: sony15
+address: 183
+command: 108
+#
+name: GUIDE
+type: parsed
+protocol: sony15
+address: 183
+command: 110
+#
+name: FAVORITE
+type: parsed
+protocol: sony15
+address: 183
+command: 111
+#
+name: CURSER UP
+type: parsed
+protocol: sony15
+address: 183
+command: 114
+#
+name: CURSER DOWN
+type: parsed
+protocol: sony15
+address: 183
+command: 115
+#
+name: CURSER RIGHT
+type: parsed
+protocol: sony15
+address: 183
+command: 116
+#
+name: CURSER LEFT
+type: parsed
+protocol: sony15
+address: 183
+command: 117
+#
+name: *
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#

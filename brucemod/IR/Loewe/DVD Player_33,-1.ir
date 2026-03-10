@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SOUND MODE
+type: parsed
+protocol: konka
+address: 33
+command: 114
+#

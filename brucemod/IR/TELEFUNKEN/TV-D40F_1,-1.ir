@@ -1,0 +1,309 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: rc5
+address: 1.0
+command: 12
+#
+name: Vol_Up
+type: parsed
+protocol: rc5
+address: 1.0
+command: 16
+#
+name: VOL_DN
+type: parsed
+protocol: rc5
+address: 1.0
+command: 17
+#
+name: CH_NEXT
+type: parsed
+protocol: rc5
+address: 1.0
+command: 32
+#
+name: CH_PREV
+type: parsed
+protocol: rc5
+address: 1.0
+command: 33
+#
+name: Up
+type: parsed
+protocol: rc5
+address: 1.0
+command: 20
+#
+name: Down
+type: parsed
+protocol: rc5
+address: 1.0
+command: 19
+#
+name: Left
+type: parsed
+protocol: rc5
+address: 1.0
+command: 21
+#
+name: Right
+type: parsed
+protocol: rc5
+address: 1.0
+command: 22
+#
+name: Ok
+type: parsed
+protocol: rc5
+address: 1.0
+command: 53
+#
+name: Back
+type: parsed
+protocol: rc5
+address: 1.0
+command: 10
+#
+name: Exit
+type: parsed
+protocol: rc5
+address: 1.0
+command: 37
+#
+name: SMART_HOME
+type: parsed
+protocol: rc5
+address: 1.0
+command: 46
+#
+name: source
+type: parsed
+protocol: rc5
+address: 1.0
+command: 56
+#
+name: YOUTUBE
+type: parsed
+protocol: rc5
+address: 1.0
+command: 41
+#
+name: NETFLIX
+type: parsed
+protocol: rc5
+address: 1.0
+command: 39
+#
+name: FILES
+type: parsed
+protocol: rc5
+address: 1.0
+command: 40
+#
+name: Teletext
+type: parsed
+protocol: rc5
+address: 1.0
+command: 60
+#
+name: Menu
+type: parsed
+protocol: rc5
+address: 1.0
+command: 48
+#
+name: Q-MENU
+type: parsed
+protocol: rc5
+address: 1.0
+command: 43
+#
+name: Mute
+type: parsed
+protocol: rc5
+address: 1.0
+command: 13
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 1.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 1.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 1.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 1.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 1.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 1.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 1.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 1.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 1.0
+command: 9
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 1.0
+command: 0
+#
+name: CH_LIST
+type: parsed
+protocol: rc5
+address: 1.0
+command: 38
+#
+name: PREV_CH
+type: parsed
+protocol: rc5
+address: 1.0
+command: 34
+#
+name: Info
+type: parsed
+protocol: rc5
+address: 1.0
+command: 18
+#
+name: usb
+type: parsed
+protocol: rc5
+address: 1.0
+command: 57
+#
+name: P_GUIDE
+type: parsed
+protocol: rc5
+address: 1.0
+command: 47
+#
+name: 1ST_CH
+type: parsed
+protocol: rc5
+address: 1.0
+command: 59
+#
+name: CH_NET_TYPE
+type: parsed
+protocol: rc5
+address: 1.0
+command: 26
+#
+name: LANG
+type: parsed
+protocol: rc5
+address: 1.0
+command: 15
+#
+name: subtitle
+type: parsed
+protocol: rc5
+address: 1.0
+command: 31
+#
+name: Aspect
+type: parsed
+protocol: rc5
+address: 1.0
+command: 11
+#
+name: rewind
+type: parsed
+protocol: rc5
+address: 1.0
+command: 27
+#
+name: Pause
+type: parsed
+protocol: rc5
+address: 1.0
+command: 49
+#
+name: Play
+type: parsed
+protocol: rc5
+address: 1.0
+command: 25
+#
+name: F_FORWARD
+type: parsed
+protocol: rc5
+address: 1.0
+command: 28
+#
+name: Stop
+type: parsed
+protocol: rc5
+address: 1.0
+command: 24
+#
+name: Record
+type: parsed
+protocol: rc5
+address: 1.0
+command: 51
+#
+name: red
+type: parsed
+protocol: rc5
+address: 1.0
+command: 55
+#
+name: green
+type: parsed
+protocol: rc5
+address: 1.0
+command: 54
+#
+name: Yellow
+type: parsed
+protocol: rc5
+address: 1.0
+command: 50
+#
+name: blue
+type: parsed
+protocol: rc5
+address: 1.0
+command: 52
+#

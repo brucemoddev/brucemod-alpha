@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: HIDDEN 2
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 0
+#
+name: HIDDEN 9
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 62
+#
+name: HIDDEN 10
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 63
+#
+name: HIDDEN 11
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 65
+#
+name: HIDDEN 13
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 66
+#
+name: HIDDEN 12
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 91
+#
+name: HIDDEN 14
+type: parsed
+protocol: fujitsu
+address: 132.129
+command: 250
+#

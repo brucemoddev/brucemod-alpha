@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VCR
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: abcde
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: phono
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: tapemonitor
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 29
+#
+name: off
+type: parsed
+protocol: nec
+address: 122
+command: 30
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 122
+command: 82
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: tvdbs
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: vaux
+type: parsed
+protocol: nec
+address: 122
+command: 85
+#
+name: effect
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: effect+
+type: parsed
+protocol: nec
+address: 122
+command: 88
+#
+name: effect-
+type: parsed
+protocol: nec
+address: 122
+command: 89
+#
+name: test
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: level
+type: parsed
+protocol: nec
+address: 122
+command: 134
+#
+name: extdecoder
+type: parsed
+protocol: nec
+address: 122
+command: 135
+#
+name: dolbydts
+type: parsed
+protocol: nec
+address: 122
+command: 136
+#
+name: movietheater1
+type: parsed
+protocol: nec
+address: 122
+command: 137
+#
+name: movietheater2
+type: parsed
+protocol: nec
+address: 122
+command: 138
+#
+name: monomovie
+type: parsed
+protocol: nec
+address: 122
+command: 139
+#
+name: tvsports
+type: parsed
+protocol: nec
+address: 122
+command: 140
+#
+name: disco
+type: parsed
+protocol: nec
+address: 122
+command: 141
+#
+name: rock
+type: parsed
+protocol: nec
+address: 122
+command: 142
+#
+name: jazzclub
+type: parsed
+protocol: nec
+address: 122
+command: 143
+#
+name: church
+type: parsed
+protocol: nec
+address: 122
+command: 144
+#
+name: hall
+type: parsed
+protocol: nec
+address: 122
+command: 145
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 122
+command: 152
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 122
+command: 153
+#
+name: setmenu
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#
+name: setmenu-
+type: parsed
+protocol: nec
+address: 122
+command: 157
+#
+name: display
+type: parsed
+protocol: nec
+address: 122
+command: 194
+#

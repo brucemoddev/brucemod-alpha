@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 110
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 110
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 110
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 110
+command: 8
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 110
+command: 9
+#
+name: A.REPEART
+type: parsed
+protocol: nec
+address: 110
+command: 10
+#
+name: STILL/F.ADV
+type: parsed
+protocol: nec
+address: 110
+command: 11
+#
+name: TRK+
+type: parsed
+protocol: nec
+address: 110
+command: 17
+#
+name: TRK-
+type: parsed
+protocol: nec
+address: 110
+command: 18
+#
+name: OPERATE
+type: parsed
+protocol: nec
+address: 110
+command: 20
+#
+name: TV/VCR
+type: parsed
+protocol: nec
+address: 110
+command: 21
+#
+name: A.TRK
+type: parsed
+protocol: nec
+address: 110
+command: 23
+#

@@ -1,0 +1,729 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: EJECT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 32
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 32
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 32
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 130.114
+command: 33
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 130.114
+command: 33
+#
+name: ON
+type: parsed
+protocol: nec2
+address: 130.114
+command: 33
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 130.114
+command: 34
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 130.114
+command: 34
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 35
+#
+name: TITLE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 35
+#
+name: SET-UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 36
+#
+name: OSD
+type: parsed
+protocol: nec1
+address: 130.114
+command: 36
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 36
+#
+name: RETURN
+type: parsed
+protocol: nec2
+address: 130.114
+command: 37
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 38
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 38
+#
+name: PIL UPP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 38
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 38
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 39
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 39
+#
+name: PIL NER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 39
+#
+name: CURSOR DOWN'
+type: parsed
+protocol: nec1
+address: 130.114
+command: 39
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 40
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 40
+#
+name: NSTER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 40
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 40
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 41
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 41
+#
+name: GER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 41
+#
+name: RIGH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 41
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 42
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 42
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 42
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 43
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 44
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 44
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 45
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 45
+#
+name: SEARCH <<
+type: parsed
+protocol: nec
+address: 130.114
+command: 46
+#
+name: SCAN <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 46
+#
+name: SKIP <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 46
+#
+name: SEARCH <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 46
+#
+name: SEARCH <<
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 46
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 130.114
+command: 46
+#
+name: REWIND
+type: parsed
+protocol: nec2
+address: 130.114
+command: 46
+#
+name: SEARCH >>
+type: parsed
+protocol: nec
+address: 130.114
+command: 47
+#
+name: SCAN >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 47
+#
+name: SKIP >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 47
+#
+name: SEARCH >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 47
+#
+name: SEARCH >>
+type: parsed
+protocol: pioneer
+address: 130.114
+command: 47
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 130.114
+command: 47
+#
+name: FAST FOWARD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 47
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 130.114
+command: 48
+#
+name: PREVIOUS
+type: parsed
+protocol: nec1
+address: 130.114
+command: 48
+#
+name: PREVIOUS
+type: parsed
+protocol: nec2
+address: 130.114
+command: 48
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 130.114
+command: 49
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 49
+#
+name: NEXT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 49
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 51
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 53
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 130.114
+command: 53
+#
+name: AUDIO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 53
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 54
+#
+name: ANGLE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 54
+#
+name: EZ-MENU
+type: parsed
+protocol: nec1
+address: 130.114
+command: 57
+#
+name: EZMENU
+type: parsed
+protocol: nec1
+address: 130.114
+command: 57
+#
+name: STATUS
+type: parsed
+protocol: nec1
+address: 130.114
+command: 57
+#
+name: STATUS
+type: parsed
+protocol: nec2
+address: 130.114
+command: 57
+#
+name: FRAME >>
+type: parsed
+protocol: nec1
+address: 130.114
+command: 58
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 58
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 58
+#
+name: FRAME <<
+type: parsed
+protocol: nec1
+address: 130.114
+command: 59
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 59
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 59
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 62
+#
+name: ZOOM
+type: parsed
+protocol: nec2
+address: 130.114
+command: 62
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 130.114
+command: 63
+#
+name: GROUP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 75
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 130.114
+command: 76
+#
+name: DISC MENU
+type: parsed
+protocol: nec1
+address: 130.114
+command: 76
+#
+name: D.MENU
+type: parsed
+protocol: nec1
+address: 130.114
+command: 76
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 130.114
+command: 77
+#
+name: V.OFF
+type: parsed
+protocol: nec1
+address: 130.114
+command: 78
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 130.114
+command: 96
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.114
+command: 97
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.114
+command: 98
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 130.114
+command: 98
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.114
+command: 99
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 130.114
+command: 99
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.114
+command: 100
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 130.114
+command: 100
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.114
+command: 101
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 130.114
+command: 101
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.114
+command: 102
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 130.114
+command: 102
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.114
+command: 103
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 130.114
+command: 103
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.114
+command: 104
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 130.114
+command: 104
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.114
+command: 105
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 130.114
+command: 105
+#
+name: PROG
+type: parsed
+protocol: nec1
+address: 130.114
+command: 106
+#
+name: PROG
+type: parsed
+protocol: nec2
+address: 130.114
+command: 106
+#
+name: CHECK
+type: parsed
+protocol: nec1
+address: 130.114
+command: 107
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 108
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 130.114
+command: 109
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 110
+#
+name: PREAT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 110
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 110
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 130.114
+command: 111
+#
+name: SIDE A/B
+type: parsed
+protocol: nec1
+address: 130.114
+command: 111
+#
+name: A-B
+type: parsed
+protocol: nec2
+address: 130.114
+command: 111
+#
+name: PLAYLIST
+type: parsed
+protocol: nec1
+address: 130.114
+command: 176
+#
+name: PLAY LIST
+type: parsed
+protocol: nec1
+address: 130.114
+command: 176
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 179
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 179
+#
+name: DIMMER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 179
+#
+name: PIC +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 180
+#
+name: PIC -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 181
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 187
+#
+name: HDMI
+type: parsed
+protocol: nec2
+address: 130.114
+command: 188
+#

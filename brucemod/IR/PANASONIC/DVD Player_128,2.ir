@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 208
+#
+name: Sleep
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 176
+#
+name: SET UP
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: eject
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: GREATER_10
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: A_SRD
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 224
+#
+name: picture_mode
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: FL_SELECT
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: GROUP
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: CANCEL
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: Prev
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: Next
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 160
+#
+name: Rev
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: FF
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: Stop
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: Pause
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: Play
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 160
+#
+name: top_menu
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 176
+#
+name: Menu
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: enter
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: display
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: return
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: SUB TITLE
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: Audio
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: ANGLE
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: QUICK_REPLAY
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 176
+#
+name: PLAY_MODE
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 208
+#
+name: ZOOM
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: REPEAT
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 192
+#
+name: POSITION_MEMORY
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#

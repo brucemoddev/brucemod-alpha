@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 1
+command: 0
+#
+name: MIC A
+type: parsed
+protocol: nec1
+address: 1
+command: 4
+#
+name: MIC B
+type: parsed
+protocol: nec1
+address: 1
+command: 5
+#
+name: TREB
+type: parsed
+protocol: nec1
+address: 1
+command: 7
+#
+name: AUX A
+type: parsed
+protocol: nec1
+address: 1
+command: 8
+#
+name: AUX B
+type: parsed
+protocol: nec1
+address: 1
+command: 9
+#
+name: AUX C
+type: parsed
+protocol: nec1
+address: 1
+command: 10
+#
+name: BASS
+type: parsed
+protocol: nec1
+address: 1
+command: 11
+#
+name: AMP 1
+type: parsed
+protocol: nec1
+address: 1
+command: 12
+#
+name: AMP 2
+type: parsed
+protocol: nec1
+address: 1
+command: 13
+#
+name: AMP 3
+type: parsed
+protocol: nec1
+address: 1
+command: 14
+#
+name: AUX D
+type: parsed
+protocol: nec1
+address: 1
+command: 15
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 1
+command: 19
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 1
+command: 20
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 1
+command: 21
+#
+name: ^
+type: parsed
+protocol: nec1
+address: 1
+command: 23
+#
+name: ENT
+type: parsed
+protocol: nec1
+address: 1
+command: 24
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 1
+command: 25
+#
+name: PROG
+type: parsed
+protocol: nec1
+address: 1
+command: 26
+#
+name: V
+type: parsed
+protocol: nec1
+address: 1
+command: 27
+#
+name: VOL
+type: parsed
+protocol: nec1
+address: 1
+command: 29
+#

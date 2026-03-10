@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DISCRETE ON
+type: parsed
+protocol: directv
+address: 12
+command: 128
+#
+name: POWER ON
+type: parsed
+protocol: directv
+address: 12
+command: 128
+#
+name: DISCRETE OFF
+type: parsed
+protocol: directv
+address: 12
+command: 129
+#
+name: POWER OFF
+type: parsed
+protocol: directv
+address: 12
+command: 129
+#

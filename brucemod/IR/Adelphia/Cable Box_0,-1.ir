@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: GI_cable
+address: 0
+command: 0
+#
+name: 1
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: GI_cable
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: GI_cable
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: GI_cable
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: GI_cable
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: GI_cable
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: GI_cable
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: GI_cable
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: GI_cable
+address: 0
+command: 9
+#
+name: POWER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 10
+#
+name: CH+
+type: parsed
+protocol: GI_cable
+address: 0
+command: 11
+#
+name: CH-
+type: parsed
+protocol: GI_cable
+address: 0
+command: 12
+#
+name: MUSIC/ENTER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 16
+#
+name: OK
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: EXIT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 18
+#
+name: LAST
+type: parsed
+protocol: GI_cable
+address: 0
+command: 19
+#
+name: FAVORITE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 21
+#
+name: MENU
+type: parsed
+protocol: GI_cable
+address: 0
+command: 25
+#
+name: GUIDE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 48
+#
+name: INFO
+type: parsed
+protocol: GI_cable
+address: 0
+command: 51
+#
+name: UP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 52
+#
+name: DOWN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 53
+#
+name: LEFT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 54
+#
+name: RIGHT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 55
+#
+name: DAY+
+type: parsed
+protocol: GI_cable
+address: 0
+command: 56
+#
+name: DAY-
+type: parsed
+protocol: GI_cable
+address: 0
+command: 57
+#
+name: PAGE-
+type: parsed
+protocol: GI_cable
+address: 0
+command: 58
+#
+name: PAGE+
+type: parsed
+protocol: GI_cable
+address: 0
+command: 59
+#

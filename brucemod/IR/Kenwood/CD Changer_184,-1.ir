@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 184
+command: 6
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 184
+command: 7
+#
+name: DISC SKIP
+type: parsed
+protocol: nec1
+address: 184
+command: 8
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 184
+command: 201
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 184
+command: 203
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 203
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 184
+command: 206
+#
+name: FFWD
+type: parsed
+protocol: nec1
+address: 184
+command: 207
+#

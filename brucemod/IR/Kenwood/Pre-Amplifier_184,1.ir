@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DOLBY PRO LOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 0
+#
+name: DOLBY PROLOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 0
+#
+name: PRESENCE LEVEL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 4
+#
+name: PRESENCE LEVEL DWN
+type: parsed
+protocol: nec1
+address: 184.1
+command: 4
+#
+name: PRESENCE LEVEL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 5
+#
+name: PRESENCE LEVEL UP
+type: parsed
+protocol: nec1
+address: 184.1
+command: 5
+#
+name: DOLBY 3 STEREO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 14
+#
+name: DOLBY 3STEREO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 14
+#
+name: DSP LOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 133
+#
+name: VISUAL FIX
+type: parsed
+protocol: nec1
+address: 184.1
+command: 143
+#
+name: CHANNEL LEVEL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 158
+#
+name: CHANNEL LEVEL DWN
+type: parsed
+protocol: nec1
+address: 184.1
+command: 158
+#
+name: CHANNEL LEVEL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 159
+#
+name: CHANNEL LEVEL UP
+type: parsed
+protocol: nec1
+address: 184.1
+command: 159
+#
+name: THX CINEMA
+type: parsed
+protocol: nec1
+address: 184.1
+command: 194
+#
+name: MONO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 195
+#

@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER SAVING
+type: parsed
+protocol: sony15
+address: 119
+command: 54
+#
+name: DRC MODE
+type: parsed
+protocol: sony15
+address: 119
+command: 57
+#
+name: FAVORITES
+type: parsed
+protocol: sony15
+address: 119
+command: 118
+#
+name: FAVS
+type: parsed
+protocol: sony15
+address: 119
+command: 118
+#
+name: ON (ID MODE)
+type: parsed
+protocol: sony15
+address: 119
+command: 124
+#
+name: OFF (ID MODE)
+type: parsed
+protocol: sony15
+address: 119
+command: 125
+#
+name: SET (ID MODE)
+type: parsed
+protocol: sony15
+address: 119
+command: 126
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE STOP []
+type: parsed
+protocol: nec1
+address: 26.231
+command: 4
+#
+name: TAPE PLAY >
+type: parsed
+protocol: nec1
+address: 26.231
+command: 5
+#
+name: TAPE REC/PLAY
+type: parsed
+protocol: nec1
+address: 26.231
+command: 6
+#
+name: TAPE FF >>
+type: parsed
+protocol: nec1
+address: 26.231
+command: 12
+#
+name: TAPE REW <<
+type: parsed
+protocol: nec1
+address: 26.231
+command: 13
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: nec1
+address: 26.231
+command: 14
+#

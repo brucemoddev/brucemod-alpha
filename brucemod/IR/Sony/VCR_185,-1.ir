@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO 1
+type: parsed
+protocol: sony15
+address: 185
+command: 53
+#
+name: VIDEO 2
+type: parsed
+protocol: sony15
+address: 185
+command: 54
+#
+name: VIDEO 3
+type: parsed
+protocol: sony15
+address: 185
+command: 55
+#
+name: VIDEO 4
+type: parsed
+protocol: sony15
+address: 185
+command: 56
+#
+name: VIDEO 5
+type: parsed
+protocol: sony15
+address: 185
+command: 60
+#
+name: TUNER
+type: parsed
+protocol: sony15
+address: 185
+command: 67
+#
+name: VCR PLUS
+type: parsed
+protocol: sony15
+address: 185
+command: 96
+#
+name: VCR PLUS+
+type: parsed
+protocol: sony15
+address: 185
+command: 96
+#
+name: VCR PLUS: ONCE
+type: parsed
+protocol: sony15
+address: 185
+command: 97
+#
+name: SET
+type: parsed
+protocol: sony15
+address: 185
+command: 97
+#
+name: VCR PLUS: DAILY
+type: parsed
+protocol: sony15
+address: 185
+command: 98
+#
+name: VCR PLUS: WEEKLY
+type: parsed
+protocol: sony15
+address: 185
+command: 99
+#

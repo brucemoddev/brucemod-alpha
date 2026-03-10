@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CH +
+type: parsed
+protocol: panasonic
+address: 160.4
+command: 52
+#
+name: CH -
+type: parsed
+protocol: panasonic
+address: 160.4
+command: 53
+#
+name: TUNER/BAND
+type: parsed
+protocol: panasonic
+address: 160.4
+command: 164
+#

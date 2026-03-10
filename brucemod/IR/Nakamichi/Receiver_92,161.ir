@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE1 FF >>
+type: parsed
+protocol: nec1
+address: 92.161
+command: 12
+#
+name: TAPE FF >>
+type: parsed
+protocol: nec1
+address: 92.161
+command: 12
+#
+name: TAPE1 FFWD >>
+type: parsed
+protocol: nec1
+address: 92.161
+command: 12
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: nec1
+address: 92.161
+command: 13
+#
+name: TAPE REW <<
+type: parsed
+protocol: nec1
+address: 92.161
+command: 13
+#
+name: TAPE1 CUE
+type: parsed
+protocol: nec1
+address: 92.161
+command: 14
+#
+name: TAPE1 REV PLAY <
+type: parsed
+protocol: nec1
+address: 92.161
+command: 17
+#
+name: TAPE1 REC
+type: parsed
+protocol: nec1
+address: 92.161
+command: 20
+#
+name: TAPE REC
+type: parsed
+protocol: nec1
+address: 92.161
+command: 20
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: nec1
+address: 92.161
+command: 21
+#
+name: TAPE PLAY >
+type: parsed
+protocol: nec1
+address: 92.161
+command: 21
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: nec1
+address: 92.161
+command: 22
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: nec1
+address: 92.161
+command: 22
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: nec1
+address: 92.161
+command: 23
+#
+name: TAPE STOP []
+type: parsed
+protocol: nec1
+address: 92.161
+command: 23
+#
+name: TAPE2 FFWD >>
+type: parsed
+protocol: nec1
+address: 92.161
+command: 140
+#
+name: TAPE2 REW <<
+type: parsed
+protocol: nec1
+address: 92.161
+command: 141
+#
+name: TAPE2 CUE
+type: parsed
+protocol: nec1
+address: 92.161
+command: 142
+#
+name: TAPE2 REV PLAY <
+type: parsed
+protocol: nec1
+address: 92.161
+command: 145
+#
+name: TAPE2 REC
+type: parsed
+protocol: nec1
+address: 92.161
+command: 148
+#
+name: TAPE2 PLAY >
+type: parsed
+protocol: nec1
+address: 92.161
+command: 149
+#
+name: TAPE2 PAUSE 
+type: parsed
+protocol: nec1
+address: 92.161
+command: 150
+#
+name: TAPE2 STOP []
+type: parsed
+protocol: nec1
+address: 92.161
+command: 151
+#

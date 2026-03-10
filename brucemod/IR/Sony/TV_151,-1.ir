@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: sony15
+address: 151
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony15
+address: 151
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony15
+address: 151
+command: 26
+#
+name: REVERSE
+type: parsed
+protocol: sony15
+address: 151
+command: 27
+#
+name: FORWARD
+type: parsed
+protocol: sony15
+address: 151
+command: 28
+#
+name: DIGIT SEPARATOR
+type: parsed
+protocol: sony15
+address: 151
+command: 29
+#
+name: RECORD
+type: parsed
+protocol: sony15
+address: 151
+command: 32
+#
+name: I-LINK
+type: parsed
+protocol: sony15
+address: 151
+command: 33
+#
+name: SUBTITLE
+type: parsed
+protocol: sony15
+address: 151
+command: 40
+#
+name: MEMORY STICK
+type: parsed
+protocol: sony15
+address: 151
+command: 49
+#
+name: MENU OPTIONS
+type: parsed
+protocol: sony15
+address: 151
+command: 54
+#
+name: MEDIA
+type: parsed
+protocol: sony15
+address: 151
+command: 56
+#
+name: PREVIOUS
+type: parsed
+protocol: sony15
+address: 151
+command: 60
+#
+name: NEXT
+type: parsed
+protocol: sony15
+address: 151
+command: 61
+#
+name: PIP ZOOM LEFT
+type: parsed
+protocol: sony15
+address: 151
+command: 77
+#
+name: PIP ZOOM RIGHT
+type: parsed
+protocol: sony15
+address: 151
+command: 78
+#
+name: STORE MODE
+type: parsed
+protocol: sony15
+address: 151
+command: 106
+#
+name: PIP ZOOM IN LEFT
+type: parsed
+protocol: sony15
+address: 151
+command: 120
+#
+name: PIP ZOOM IN RIGHT
+type: parsed
+protocol: sony15
+address: 151
+command: 121
+#

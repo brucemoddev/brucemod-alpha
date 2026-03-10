@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec2
+address: 128.88
+command: 0
+#
+name: CD/MD
+type: parsed
+protocol: nec2
+address: 128.88
+command: 1
+#
+name: Display
+type: parsed
+protocol: nec2
+address: 128.88
+command: 2
+#
+name: Scroll
+type: parsed
+protocol: nec2
+address: 128.88
+command: 3
+#
+name: .../...
+type: parsed
+protocol: nec2
+address: 128.88
+command: 4
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec2
+address: 128.88
+command: 5
+#
+name: KEY_0
+type: parsed
+protocol: nec2
+address: 128.88
+command: 6
+#
+name: KEY_9
+type: parsed
+protocol: nec2
+address: 128.88
+command: 7
+#
+name: KEY_STOP
+type: parsed
+protocol: nec2
+address: 128.88
+command: 8
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec2
+address: 128.88
+command: 11
+#
+name: KEY_8
+type: parsed
+protocol: nec2
+address: 128.88
+command: 12
+#
+name: KEY_7
+type: parsed
+protocol: nec2
+address: 128.88
+command: 13
+#
+name: KEY_5
+type: parsed
+protocol: nec2
+address: 128.88
+command: 15
+#
+name: Skip+/SearchRight
+type: parsed
+protocol: nec2
+address: 128.88
+command: 16
+#
+name: Skip/SearchLeft
+type: parsed
+protocol: nec2
+address: 128.88
+command: 17
+#
+name: KEY_UP
+type: parsed
+protocol: nec2
+address: 128.88
+command: 18
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec2
+address: 128.88
+command: 19
+#
+name: Prog/Random
+type: parsed
+protocol: nec2
+address: 128.88
+command: 20
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec2
+address: 128.88
+command: 23
+#
+name: KEY_OK
+type: parsed
+protocol: nec2
+address: 128.88
+command: 26
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec2
+address: 128.88
+command: 27
+#
+name: KEY_4
+type: parsed
+protocol: nec2
+address: 128.88
+command: 28
+#
+name: KEY_3
+type: parsed
+protocol: nec2
+address: 128.88
+command: 29
+#
+name: KEY_2
+type: parsed
+protocol: nec2
+address: 128.88
+command: 30
+#
+name: KEY_1
+type: parsed
+protocol: nec2
+address: 128.88
+command: 31
+#
+name: Auto_Blank
+type: parsed
+protocol: nec2
+address: 128.88
+command: 64
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec2
+address: 128.88
+command: 65
+#
+name: CD_Synchro
+type: parsed
+protocol: nec2
+address: 128.88
+command: 66
+#

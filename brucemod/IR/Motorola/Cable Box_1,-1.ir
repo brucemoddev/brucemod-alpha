@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: VOLUME -
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: TV
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: INPUT
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#

@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SUPERIMPOSE
+type: parsed
+protocol: sony12
+address: 9
+command: 13
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 9
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 9
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 9
+command: 26
+#
+name: REW
+type: parsed
+protocol: sony12
+address: 9
+command: 27
+#
+name: FF
+type: parsed
+protocol: sony12
+address: 9
+command: 28
+#
+name: REC
+type: parsed
+protocol: sony12
+address: 9
+command: 30
+#
+name: SEARCH >>
+type: parsed
+protocol: sony12
+address: 9
+command: 38
+#
+name: SEARCH <<
+type: parsed
+protocol: sony12
+address: 9
+command: 39
+#

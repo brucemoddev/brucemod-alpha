@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 122
+command: 11
+#

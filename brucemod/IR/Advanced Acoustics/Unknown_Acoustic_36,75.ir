@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 36.75
+command: 8
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 36.75
+command: 12
+#
+name: digital
+type: parsed
+protocol: nec
+address: 36.75
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 36.75
+command: 20
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 36.75
+command: 72
+#
+name: phono
+type: parsed
+protocol: nec
+address: 36.75
+command: 76
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 36.75
+command: 80
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 36.75
+command: 84
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 36.75
+command: 85
+#

@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AM/FM
+type: parsed
+protocol: sony12
+address: 18
+command: 32
+#
+name: SF: BAND
+type: parsed
+protocol: sony12
+address: 18
+command: 32
+#
+name: BASS
+type: parsed
+protocol: sony12
+address: 18
+command: 32
+#
+name: SF: EQ
+type: parsed
+protocol: sony12
+address: 18
+command: 44
+#
+name: EQ
+type: parsed
+protocol: sony12
+address: 18
+command: 44
+#
+name: EQ/TONE ON/OFF
+type: parsed
+protocol: sony12
+address: 18
+command: 44
+#
+name: MODE +
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: SF: MODE
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: SF MODE >
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: SOUND FIELD MODE
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: MODE
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: SURROUND MODE
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: NOTHING
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#
+name: MODE -
+type: parsed
+protocol: sony12
+address: 18
+command: 55
+#
+name: SF MODE <
+type: parsed
+protocol: sony12
+address: 18
+command: 55
+#
+name: SF: TEST TONE
+type: parsed
+protocol: sony12
+address: 18
+command: 74
+#
+name: TEST
+type: parsed
+protocol: sony12
+address: 18
+command: 74
+#
+name: TEST TONE
+type: parsed
+protocol: sony12
+address: 18
+command: 74
+#
+name: REAR LEVEL (+)
+type: parsed
+protocol: sony12
+address: 18
+command: 78
+#
+name: REAR LEVEL +
+type: parsed
+protocol: sony12
+address: 18
+command: 78
+#
+name: SPEAKER REAR +
+type: parsed
+protocol: sony12
+address: 18
+command: 78
+#
+name: REAR DN
+type: parsed
+protocol: sony12
+address: 18
+command: 79
+#
+name: REAR LEVEL (-)
+type: parsed
+protocol: sony12
+address: 18
+command: 79
+#
+name: REAR LEVEL -
+type: parsed
+protocol: sony12
+address: 18
+command: 79
+#
+name: SPEAKER REAR -
+type: parsed
+protocol: sony12
+address: 18
+command: 79
+#
+name: CNTR UP
+type: parsed
+protocol: sony12
+address: 18
+command: 84
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: sony12
+address: 18
+command: 84
+#
+name: CENTER LEVEL (+)
+type: parsed
+protocol: sony12
+address: 18
+command: 84
+#
+name: SPEAKER CENTER +
+type: parsed
+protocol: sony12
+address: 18
+command: 84
+#
+name: CNTR DN
+type: parsed
+protocol: sony12
+address: 18
+command: 85
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: sony12
+address: 18
+command: 85
+#
+name: CENTER LEVEL (-)
+type: parsed
+protocol: sony12
+address: 18
+command: 85
+#
+name: SPEAKER CENTER -
+type: parsed
+protocol: sony12
+address: 18
+command: 85
+#
+name: SOUNDFIELD GENRE
+type: parsed
+protocol: sony12
+address: 18
+command: 124
+#
+name: GENRE
+type: parsed
+protocol: sony12
+address: 18
+command: 124
+#
+name: SF: USER/PRE
+type: parsed
+protocol: sony12
+address: 18
+command: 126
+#

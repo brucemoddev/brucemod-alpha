@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 3
+#
+name: PAGE+
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 7
+#
+name: PAGE -
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 15
+#
+name: REW
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 49
+#
+name: SKIP B
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 49
+#
+name: FF
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 50
+#
+name: SKIP F
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 50
+#
+name: PVR
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 57
+#

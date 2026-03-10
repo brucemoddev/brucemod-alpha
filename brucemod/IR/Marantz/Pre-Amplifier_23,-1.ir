@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DAT/TAPE2 < >
+type: parsed
+protocol: rc5
+address: 23
+command: 47
+#
+name: DAT/TAPE2 PAUSE 
+type: parsed
+protocol: rc5
+address: 23
+command: 48
+#
+name: DAT/TAPE2 REC
+type: parsed
+protocol: rc5
+address: 23
+command: 55
+#

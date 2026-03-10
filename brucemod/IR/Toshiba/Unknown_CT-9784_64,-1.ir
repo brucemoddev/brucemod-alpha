@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 64
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 64
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 64
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 64
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 64
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 64
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 64
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 64
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 64
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 64
+command: 9
+#
+name: X_KEY_0+
+type: parsed
+protocol: nec
+address: 64
+command: 11
+#
+name: expand
+type: parsed
+protocol: nec
+address: 64
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 64
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 64
+command: 18
+#
+name: av
+type: parsed
+protocol: nec
+address: 64
+command: 20
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 64
+command: 21
+#
+name: call
+type: parsed
+protocol: nec
+address: 64
+command: 22
+#
+name: txt_tv
+type: parsed
+protocol: nec
+address: 64
+command: 23
+#
+name: constrast
+type: parsed
+protocol: nec
+address: 64
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 64
+command: 26
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 64
+command: 27
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 64
+command: 30
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 64
+command: 31
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 64
+command: 72
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 64
+command: 73
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 64
+command: 74
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 64
+command: 75
+#
+name: squash
+type: parsed
+protocol: nec
+address: 64
+command: 83
+#
+name: question
+type: parsed
+protocol: nec
+address: 64
+command: 84
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 64
+command: 91
+#

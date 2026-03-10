@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 111.9
+command: 1
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 111.9
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 111.9
+command: 3
+#
+name: IN 1
+type: parsed
+protocol: nec2
+address: 111.9
+command: 5
+#
+name: IN 3
+type: parsed
+protocol: nec2
+address: 111.9
+command: 6
+#
+name: IN 8
+type: parsed
+protocol: nec2
+address: 111.9
+command: 7
+#
+name: IN 2
+type: parsed
+protocol: nec2
+address: 111.9
+command: 9
+#
+name: IN 7
+type: parsed
+protocol: nec2
+address: 111.9
+command: 11
+#
+name: IN 4
+type: parsed
+protocol: nec2
+address: 111.9
+command: 13
+#
+name: IN 5
+type: parsed
+protocol: nec2
+address: 111.9
+command: 15
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 111.9
+command: 35
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 111.9
+command: 36
+#
+name: +10
+type: parsed
+protocol: nec2
+address: 111.9
+command: 41
+#
+name: 
+type: parsed
+protocol: nec2
+address: 111.9
+command: 41
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 111.9
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 111.9
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 111.9
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 111.9
+command: 51
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 111.9
+command: 53
+#
+name: 
+type: parsed
+protocol: nec2
+address: 111.9
+command: 53
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 111.9
+command: 54
+#
+name: 
+type: parsed
+protocol: nec2
+address: 111.9
+command: 54
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 111.9
+command: 55
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 111.9
+command: 57
+#
+name: 
+type: parsed
+protocol: nec2
+address: 111.9
+command: 57
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 111.9
+command: 58
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 111.9
+command: 59
+#
+name: 
+type: parsed
+protocol: nec2
+address: 111.9
+command: 59
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 111.9
+command: 62
+#
+name: IN 6
+type: parsed
+protocol: nec2
+address: 111.9
+command: 74
+#
+name: IN 9
+type: parsed
+protocol: nec2
+address: 111.9
+command: 110
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 111.9
+command: 118
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 111.9
+command: 142
+#

@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: necx1
+address: 129.129
+command: 1
+#
+name: REPEAT/M-UP
+type: parsed
+protocol: necx1
+address: 129.129
+command: 2
+#
+name: SNOOZE
+type: parsed
+protocol: necx1
+address: 129.129
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 129.129
+command: 4
+#
+name: STOP/BAND
+type: parsed
+protocol: necx1
+address: 129.129
+command: 9
+#
+name: TIMER
+type: parsed
+protocol: necx1
+address: 129.129
+command: 11
+#
+name: PRESET_EQ
+type: parsed
+protocol: necx1
+address: 129.129
+command: 12
+#
+name: SKIP_+
+type: parsed
+protocol: necx1
+address: 129.129
+command: 17
+#
+name: RANDOM
+type: parsed
+protocol: necx1
+address: 129.129
+command: 18
+#
+name: KEY_SLEEP
+type: parsed
+protocol: necx1
+address: 129.129
+command: 19
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 129.129
+command: 23
+#
+name: SKIP_-
+type: parsed
+protocol: necx1
+address: 129.129
+command: 25
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 129.129
+command: 31
+#
+name: FUNCTION
+type: parsed
+protocol: necx1
+address: 129.129
+command: 96
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx1
+address: 129.129
+command: 224
+#

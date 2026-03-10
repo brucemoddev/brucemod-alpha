@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUX2
+type: parsed
+protocol: nec1
+address: 129.49
+command: 15
+#
+name: AUX1
+type: parsed
+protocol: nec1
+address: 129.49
+command: 16
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 129.49
+command: 17
+#
+name: RIAA
+type: parsed
+protocol: nec1
+address: 129.49
+command: 18
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 129.49
+command: 19
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 129.49
+command: 24
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 129.49
+command: 75
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 129.49
+command: 76
+#

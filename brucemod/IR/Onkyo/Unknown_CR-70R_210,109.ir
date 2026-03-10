@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER_PRESET_NEXT
+type: parsed
+protocol: nec
+address: 210.109
+command: 0
+#
+name: TUNER_PRESET_PREVIOU
+type: parsed
+protocol: nec
+address: 210.109
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 210.109
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 210.109
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 210.109
+command: 4
+#
+name: MUTING
+type: parsed
+protocol: nec
+address: 210.109
+command: 5
+#
+name: INPUT_SELECTOR_LINE
+type: parsed
+protocol: nec
+address: 210.109
+command: 6
+#
+name: INPUT_SELECTOR_TAPE-
+type: parsed
+protocol: nec
+address: 210.109
+command: 7
+#
+name: INPUT_SELECTOR_TAPE-
+type: parsed
+protocol: nec
+address: 210.109
+command: 8
+#
+name: INPUT_SELECTOR_CD
+type: parsed
+protocol: nec
+address: 210.109
+command: 9
+#
+name: INPUT_SELECTOR_FM
+type: parsed
+protocol: nec
+address: 210.109
+command: 11
+#
+name: DECK-B_STOP
+type: parsed
+protocol: nec
+address: 210.109
+command: 19
+#
+name: DECK-B_FORWARD_PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 21
+#
+name: DECK-B_REVERSE_PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 22
+#
+name: DECK-B_RECORD_PAUSE
+type: parsed
+protocol: nec
+address: 210.109
+command: 24
+#
+name: DECK-B_FAST_FORWARD
+type: parsed
+protocol: nec
+address: 210.109
+command: 25
+#
+name: DECK-B_FAST_REWIND
+type: parsed
+protocol: nec
+address: 210.109
+command: 26
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 27
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 210.109
+command: 28
+#
+name: CD_NEXT_TRACK
+type: parsed
+protocol: nec
+address: 210.109
+command: 29
+#
+name: CD_PREVIOUS_TRACK
+type: parsed
+protocol: nec
+address: 210.109
+command: 30
+#
+name: CD_PAUSE
+type: parsed
+protocol: nec
+address: 210.109
+command: 31
+#
+name: TUNER_GROUP
+type: parsed
+protocol: nec
+address: 210.109
+command: 74
+#
+name: DECK-A_STOP
+type: parsed
+protocol: nec
+address: 210.109
+command: 77
+#
+name: DECK-A_FORWARD_PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 78
+#
+name: DECK-A_REVERSE_PLAY
+type: parsed
+protocol: nec
+address: 210.109
+command: 79
+#
+name: DECK-A_FAST_FORWARD
+type: parsed
+protocol: nec
+address: 210.109
+command: 81
+#
+name: DECK-A_FAST_REWIND
+type: parsed
+protocol: nec
+address: 210.109
+command: 82
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 210.109
+command: 93
+#

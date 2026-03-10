@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VTR 8
+type: parsed
+protocol: nec1
+address: 96
+command: 4
+#
+name: VTR 9
+type: parsed
+protocol: nec1
+address: 96
+command: 5
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 96
+command: 9
+#
+name: VTR F.FWD/V.SRCH >>
+type: parsed
+protocol: nec1
+address: 96
+command: 9
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 96
+command: 10
+#
+name: VTR REW/V.SRCH <<
+type: parsed
+protocol: nec1
+address: 96
+command: 10
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 96
+command: 11
+#
+name: VTR STOP []
+type: parsed
+protocol: nec1
+address: 96
+command: 11
+#
+name: VTR 0
+type: parsed
+protocol: nec1
+address: 96
+command: 12
+#
+name: VTR 1
+type: parsed
+protocol: nec1
+address: 96
+command: 13
+#
+name: VTR 2
+type: parsed
+protocol: nec1
+address: 96
+command: 14
+#
+name: VTR 3
+type: parsed
+protocol: nec1
+address: 96
+command: 15
+#
+name: VTR/TV F.ADV >
+type: parsed
+protocol: nec1
+address: 96
+command: 16
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 96
+command: 20
+#
+name: VTR PLAY >
+type: parsed
+protocol: nec1
+address: 96
+command: 20
+#
+name: VTR/TV
+type: parsed
+protocol: nec1
+address: 96
+command: 22
+#
+name: VCR/TV
+type: parsed
+protocol: nec1
+address: 96
+command: 22
+#
+name: VTR POWER
+type: parsed
+protocol: nec1
+address: 96
+command: 23
+#
+name: VTR CHANNEL V
+type: parsed
+protocol: nec1
+address: 96
+command: 24
+#
+name: VTR CHANNEL ^
+type: parsed
+protocol: nec1
+address: 96
+command: 25
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 96
+command: 26
+#
+name: VTR PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 96
+command: 26
+#
+name: EDIT
+type: parsed
+protocol: nec2
+address: 96
+command: 26
+#
+name: VTR 4
+type: parsed
+protocol: nec1
+address: 96
+command: 28
+#
+name: VTR 5
+type: parsed
+protocol: nec1
+address: 96
+command: 29
+#
+name: VTR 6
+type: parsed
+protocol: nec1
+address: 96
+command: 30
+#
+name: VTR 7
+type: parsed
+protocol: nec1
+address: 96
+command: 31
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 96
+command: 64
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 96
+command: 65
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 96
+command: 66
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 96
+command: 68
+#
+name: INDEX
+type: parsed
+protocol: nec1
+address: 96
+command: 69
+#
+name: COUNTER REMAIN
+type: parsed
+protocol: nec1
+address: 96
+command: 70
+#

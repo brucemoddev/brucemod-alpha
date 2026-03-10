@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 20
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 20
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 20
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 20
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 20
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 20
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 20
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 20
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 20
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 20
+command: 9
+#
+name: KEY_TIME
+type: parsed
+protocol: rc5
+address: 20
+command: 11
+#
+name: OFF
+type: parsed
+protocol: rc5
+address: 20
+command: 12
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: SHUFFLE
+type: parsed
+protocol: rc5
+address: 20
+command: 28
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc5
+address: 20
+command: 29
+#
+name: KEY_NEXT
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: Prev_Track
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: PROG
+type: parsed
+protocol: rc5
+address: 20
+command: 36
+#
+name: SCAN
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 20
+command: 48
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 20
+command: 50
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rc5
+address: 20
+command: 52
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#
+name: FADE
+type: parsed
+protocol: rc5
+address: 20
+command: 120
+#

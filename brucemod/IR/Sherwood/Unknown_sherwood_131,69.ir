@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CASS_DECK_A
+type: parsed
+protocol: nec
+address: 131.69
+command: 0
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.69
+command: 1
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 131.69
+command: 2
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 131.69
+command: 3
+#
+name: VISUAL
+type: parsed
+protocol: nec
+address: 131.69
+command: 4
+#
+name: EQ_USER
+type: parsed
+protocol: nec
+address: 131.69
+command: 5
+#
+name: TAPEMONITOR
+type: parsed
+protocol: nec
+address: 131.69
+command: 6
+#
+name: REPEAT_AB
+type: parsed
+protocol: nec
+address: 131.69
+command: 8
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.69
+command: 9
+#
+name: TV_AUX
+type: parsed
+protocol: nec
+address: 131.69
+command: 10
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 131.69
+command: 11
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.69
+command: 12
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.69
+command: 13
+#
+name: EQ_TAPE
+type: parsed
+protocol: nec
+address: 131.69
+command: 14
+#
+name: EQ_PRESET
+type: parsed
+protocol: nec
+address: 131.69
+command: 15
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.69
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.69
+command: 17
+#
+name: HEAVY
+type: parsed
+protocol: nec
+address: 131.69
+command: 18
+#
+name: SOFT
+type: parsed
+protocol: nec
+address: 131.69
+command: 19
+#
+name: CD_SKIP+
+type: parsed
+protocol: nec
+address: 131.69
+command: 20
+#
+name: CD_SKIP-
+type: parsed
+protocol: nec
+address: 131.69
+command: 21
+#
+name: VOCAL
+type: parsed
+protocol: nec
+address: 131.69
+command: 22
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 131.69
+command: 23
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.69
+command: 24
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.69
+command: 25
+#
+name: CASS_REW
+type: parsed
+protocol: nec
+address: 131.69
+command: 26
+#
+name: CASS_FF
+type: parsed
+protocol: nec
+address: 131.69
+command: 27
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 131.69
+command: 28
+#
+name: DISC
+type: parsed
+protocol: nec
+address: 131.69
+command: 29
+#
+name: CASS_PLAYLEFT
+type: parsed
+protocol: nec
+address: 131.69
+command: 30
+#
+name: CASS_PLAYRIGHT
+type: parsed
+protocol: nec
+address: 131.69
+command: 31
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.69
+command: 64
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.69
+command: 65
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.69
+command: 66
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.69
+command: 67
+#
+name: CAR_ST
+type: parsed
+protocol: nec
+address: 131.69
+command: 68
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 131.69
+command: 69
+#
+name: CD_PAUSE
+type: parsed
+protocol: nec
+address: 131.69
+command: 70
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.69
+command: 71
+#
+name: CASS_RECORD
+type: parsed
+protocol: nec
+address: 131.69
+command: 72
+#
+name: RANDOM_PLAY
+type: parsed
+protocol: nec
+address: 131.69
+command: 73
+#
+name: REPEAT_1_ALL
+type: parsed
+protocol: nec
+address: 131.69
+command: 74
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.69
+command: 75
+#
+name: CASS_DECK_B
+type: parsed
+protocol: nec
+address: 131.69
+command: 76
+#
+name: CASS_STOP
+type: parsed
+protocol: nec
+address: 131.69
+command: 77
+#
+name: CASS_PAUSE
+type: parsed
+protocol: nec
+address: 131.69
+command: 78
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.69
+command: 82
+#
+name: INTRO
+type: parsed
+protocol: nec
+address: 131.69
+command: 94
+#

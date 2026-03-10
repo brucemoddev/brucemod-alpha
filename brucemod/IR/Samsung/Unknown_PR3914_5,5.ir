@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV_VCR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 2
+#
+name: A.REP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 3
+#
+name: KEY_RECORD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 20
+#
+name: KEY_STOP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 21
+#
+name: P/S_N.C
+type: parsed
+protocol: necx2
+address: 5.5
+command: 22
+#
+name: KEY_REWIND
+type: parsed
+protocol: necx2
+address: 5.5
+command: 24
+#
+name: KEY_PLAY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 25
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 26
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 32
+#
+name: A.TRK
+type: parsed
+protocol: necx2
+address: 5.5
+command: 33
+#
+name: TRACKING__Up
+type: parsed
+protocol: necx2
+address: 5.5
+command: 44
+#
+name: TRACKING_Down
+type: parsed
+protocol: necx2
+address: 5.5
+command: 45
+#
+name: SYSTEM
+type: parsed
+protocol: necx2
+address: 5.5
+command: 50
+#

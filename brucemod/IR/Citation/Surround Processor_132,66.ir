@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 6 AXIS
+type: parsed
+protocol: nec1
+address: 132.66
+command: 7
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 132.66
+command: 8
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 132.66
+command: 14
+#
+name: CENTER+
+type: parsed
+protocol: nec1
+address: 132.66
+command: 21
+#
+name: CNTR ON/OFF
+type: parsed
+protocol: nec1
+address: 132.66
+command: 23
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 132.66
+command: 25
+#
+name: RZ 1 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 37
+#
+name: RZ 2 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 38
+#
+name: RZ 3 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 39
+#
+name: RZ 4 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 40
+#
+name: RZ 5 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 41
+#
+name: RZ 6 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 42
+#
+name: RZ VOL UP
+type: parsed
+protocol: nec1
+address: 132.66
+command: 44
+#
+name: RZ VOL DN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 45
+#
+name: RZ OFF
+type: parsed
+protocol: nec1
+address: 132.66
+command: 46
+#
+name: RZ VOL MUTE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 47
+#
+name: CURSOR LF
+type: parsed
+protocol: nec1
+address: 132.66
+command: 65
+#
+name: A 1 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 66
+#
+name: D 3 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 67
+#
+name: D 4 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 68
+#
+name: D 5 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 69
+#
+name: A 2 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 70
+#
+name: D 6 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 71
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 132.66
+command: 72
+#
+name: CURSOR RT
+type: parsed
+protocol: nec1
+address: 132.66
+command: 73
+#
+name: RECORD ZONE II
+type: parsed
+protocol: nec1
+address: 132.66
+command: 73
+#
+name: A 3 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 74
+#
+name: CURSOR DN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 75
+#
+name: A 4 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 78
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 80
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 132.66
+command: 81
+#
+name: A 5 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 82
+#
+name: DISPLY
+type: parsed
+protocol: nec1
+address: 132.66
+command: 83
+#
+name: A 6 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 84
+#
+name: D 1 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 85
+#
+name: 
+type: parsed
+protocol: nec1
+address: 132.66
+command: 85
+#
+name: D 2 IN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 87
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 132.66
+command: 88
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 132.66
+command: 93
+#

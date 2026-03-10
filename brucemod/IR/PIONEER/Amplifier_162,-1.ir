@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DOWN CURSOR
+type: parsed
+protocol: pioneer
+address: 162
+command: 22
+#

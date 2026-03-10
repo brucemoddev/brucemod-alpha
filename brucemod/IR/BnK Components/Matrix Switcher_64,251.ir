@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 64.251
+command: 1
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 64.251
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 64.251
+command: 3
+#
+name: INPUT 1
+type: parsed
+protocol: nec2
+address: 64.251
+command: 5
+#
+name: INPUT 3
+type: parsed
+protocol: nec2
+address: 64.251
+command: 6
+#
+name: INPUT 8
+type: parsed
+protocol: nec2
+address: 64.251
+command: 7
+#
+name: INPUT 2
+type: parsed
+protocol: nec2
+address: 64.251
+command: 9
+#
+name: INPUT 7
+type: parsed
+protocol: nec2
+address: 64.251
+command: 11
+#
+name: INPUT 4
+type: parsed
+protocol: nec2
+address: 64.251
+command: 13
+#
+name: INPUT 5
+type: parsed
+protocol: nec2
+address: 64.251
+command: 15
+#
+name: STA -
+type: parsed
+protocol: nec2
+address: 64.251
+command: 23
+#
+name: STA +
+type: parsed
+protocol: nec2
+address: 64.251
+command: 24
+#
+name: TUNE -
+type: parsed
+protocol: nec2
+address: 64.251
+command: 27
+#
+name: TUNE +
+type: parsed
+protocol: nec2
+address: 64.251
+command: 28
+#
+name: C LEFT
+type: parsed
+protocol: nec2
+address: 64.251
+command: 31
+#
+name: C RIGHT
+type: parsed
+protocol: nec2
+address: 64.251
+command: 32
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 64.251
+command: 35
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 64.251
+command: 36
+#
+name: + 10
+type: parsed
+protocol: nec2
+address: 64.251
+command: 41
+#
+name: C DOWN
+type: parsed
+protocol: nec2
+address: 64.251
+command: 45
+#
+name: C UP
+type: parsed
+protocol: nec2
+address: 64.251
+command: 46
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 64.251
+command: 47
+#
+name: C ENTER
+type: parsed
+protocol: nec2
+address: 64.251
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 64.251
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 64.251
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 64.251
+command: 51
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 64.251
+command: 53
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 64.251
+command: 54
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 64.251
+command: 55
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 64.251
+command: 57
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 64.251
+command: 58
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 64.251
+command: 58
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 64.251
+command: 59
+#
+name: ZONE
+type: parsed
+protocol: nec2
+address: 64.251
+command: 63
+#
+name: SAVE
+type: parsed
+protocol: nec2
+address: 64.251
+command: 64
+#
+name: INPUT 6
+type: parsed
+protocol: nec2
+address: 64.251
+command: 74
+#
+name: PRE +
+type: parsed
+protocol: nec2
+address: 64.251
+command: 75
+#
+name: D - IN
+type: parsed
+protocol: nec2
+address: 64.251
+command: 90
+#
+name: INPUT 9
+type: parsed
+protocol: nec2
+address: 64.251
+command: 110
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 64.251
+command: 118
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 64.251
+command: 125
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 64.251
+command: 142
+#
+name: PRE -
+type: parsed
+protocol: nec2
+address: 64.251
+command: 198
+#

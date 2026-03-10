@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: mce
+address: 4.17
+command: 12
+#
+name: KEY_MEDIA
+type: parsed
+protocol: mce
+address: 4.17
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: mce
+address: 4.17
+command: 14
+#
+name: KEY_INFO
+type: parsed
+protocol: mce
+address: 4.17
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: mce
+address: 4.17
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: mce
+address: 4.17
+command: 17
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: mce
+address: 4.17
+command: 18
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: mce
+address: 4.17
+command: 19
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: mce
+address: 4.17
+command: 20
+#
+name: KEY_REWIND
+type: parsed
+protocol: mce
+address: 4.17
+command: 21
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: mce
+address: 4.17
+command: 22
+#
+name: KEY_STOP
+type: parsed
+protocol: mce
+address: 4.17
+command: 25
+#
+name: KEY_NEXT
+type: parsed
+protocol: mce
+address: 4.17
+command: 26
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: mce
+address: 4.17
+command: 27
+#
+name: KEY_UP
+type: parsed
+protocol: mce
+address: 4.17
+command: 30
+#
+name: KEY_DOWN
+type: parsed
+protocol: mce
+address: 4.17
+command: 31
+#
+name: KEY_LEFT
+type: parsed
+protocol: mce
+address: 4.17
+command: 32
+#
+name: KEY_RIGHT
+type: parsed
+protocol: mce
+address: 4.17
+command: 33
+#
+name: KEY_OK
+type: parsed
+protocol: mce
+address: 4.17
+command: 34
+#
+name: KEY_BACKSPACE
+type: parsed
+protocol: mce
+address: 4.17
+command: 35
+#
+name: KEY_DVD
+type: parsed
+protocol: mce
+address: 4.17
+command: 36
+#
+name: KEY_SWITCHVIDEOMODE
+type: parsed
+protocol: mce
+address: 4.17
+command: 79
+#

@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 48
+command: 0
+#
+name: V.MODE
+type: parsed
+protocol: nec1
+address: 48
+command: 5
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 48
+command: 9
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 48
+command: 9
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 48
+command: 10
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 48
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 48
+command: 11
+#
+name: FUNCTION
+type: parsed
+protocol: nec1
+address: 48
+command: 28
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 48
+command: 28
+#
+name: LEVEL >
+type: parsed
+protocol: nec1
+address: 48
+command: 29
+#
+name: LEVEL +
+type: parsed
+protocol: nec1
+address: 48
+command: 29
+#
+name: LEVEL <
+type: parsed
+protocol: nec1
+address: 48
+command: 30
+#
+name: LEVEL -
+type: parsed
+protocol: nec1
+address: 48
+command: 30
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 48
+command: 31
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 48
+command: 70
+#
+name: ZOOM V
+type: parsed
+protocol: nec1
+address: 48
+command: 70
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 48
+command: 71
+#
+name: ZOOM ^
+type: parsed
+protocol: nec1
+address: 48
+command: 71
+#
+name: FOCUS +
+type: parsed
+protocol: nec1
+address: 48
+command: 74
+#
+name: FOCUS ^
+type: parsed
+protocol: nec1
+address: 48
+command: 74
+#
+name: FOCUS -
+type: parsed
+protocol: nec1
+address: 48
+command: 75
+#
+name: FOCUS V
+type: parsed
+protocol: nec1
+address: 48
+command: 75
+#
+name: EXPAND
+type: parsed
+protocol: nec1
+address: 48
+command: 88
+#
+name: KEYSTONE
+type: parsed
+protocol: nec1
+address: 48
+command: 91
+#

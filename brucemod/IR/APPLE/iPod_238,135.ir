@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: apple
+address: 238.135
+command: 1
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: apple
+address: 238.135
+command: 2
+#
+name: SKIP >>
+type: parsed
+protocol: apple
+address: 238.135
+command: 3
+#
+name: SKIP <<
+type: parsed
+protocol: apple
+address: 238.135
+command: 4
+#
+name: VOLUME +
+type: parsed
+protocol: apple
+address: 238.135
+command: 5
+#
+name: VOLUME -
+type: parsed
+protocol: apple
+address: 238.135
+command: 6
+#

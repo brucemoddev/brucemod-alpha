@@ -1,0 +1,351 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 1
+#
+name: CD STOP
+type: parsed
+protocol: nec1
+address: 135.124
+command: 2
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 5
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 6
+#
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 135.124
+command: 23
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 135.124
+command: 38
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 135.124
+command: 39
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 135.124
+command: 40
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 135.124
+command: 41
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 135.124
+command: 42
+#
+name: CHANNEL
+type: parsed
+protocol: nec1
+address: 135.124
+command: 43
+#
+name: 5.1 EXT.
+type: parsed
+protocol: nec1
+address: 135.124
+command: 46
+#
+name: DYN. R.
+type: parsed
+protocol: nec1
+address: 135.124
+command: 47
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 135.124
+command: 48
+#
+name: VIDEO 5
+type: parsed
+protocol: nec1
+address: 135.124
+command: 49
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 135.124
+command: 50
+#
+name: PRESET/TUNE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 51
+#
+name: CD PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 74
+#
+name: DECK A STOP
+type: parsed
+protocol: nec1
+address: 135.124
+command: 82
+#
+name: DECK A PLAY >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 83
+#
+name: DECK A PLAY <
+type: parsed
+protocol: nec1
+address: 135.124
+command: 84
+#
+name: DECK A REC./PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 85
+#
+name: DECK A FF
+type: parsed
+protocol: nec1
+address: 135.124
+command: 86
+#
+name: DECK A RW
+type: parsed
+protocol: nec1
+address: 135.124
+command: 87
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.124
+command: 128
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 129
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 130
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 135.124
+command: 132
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 135.124
+command: 133
+#
+name: SCAN<<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 134
+#
+name: SCAN>>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 135
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 135.124
+command: 136
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 138
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.124
+command: 139
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 135.124
+command: 140
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 141
+#
+name: TAPE MON
+type: parsed
+protocol: nec1
+address: 135.124
+command: 141
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 135.124
+command: 142
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.124
+command: 143
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 135.124
+command: 146
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.124
+command: 147
+#
+name: LOW LEVEL
+type: parsed
+protocol: nec1
+address: 135.124
+command: 148
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 148
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.124
+command: 150
+#
+name: BANK
+type: parsed
+protocol: nec1
+address: 135.124
+command: 151
+#
+name: DECK B REC./PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 154
+#
+name: DECK B STOP
+type: parsed
+protocol: nec1
+address: 135.124
+command: 154
+#
+name: DECK B PLAY >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 156
+#
+name: DECK B FF
+type: parsed
+protocol: nec1
+address: 135.124
+command: 157
+#
+name: DECK B RW
+type: parsed
+protocol: nec1
+address: 135.124
+command: 158
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 135.124
+command: 192
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 135.124
+command: 193
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 194
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 204
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 135.124
+command: 205
+#
+name: TUNE -
+type: parsed
+protocol: nec1
+address: 135.124
+command: 209
+#
+name: TUNE +
+type: parsed
+protocol: nec1
+address: 135.124
+command: 210
+#
+name: DECK B PLAY <
+type: parsed
+protocol: nec1
+address: 135.124
+command: 222
+#

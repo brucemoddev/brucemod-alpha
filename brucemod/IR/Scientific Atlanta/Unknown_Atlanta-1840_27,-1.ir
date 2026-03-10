@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ARROW_UP
+type: parsed
+protocol: panasonic
+address: 27
+command: 2
+#
+name: ARROW_LEFT
+type: parsed
+protocol: panasonic
+address: 27
+command: 3
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: panasonic
+address: 27
+command: 4
+#
+name: KEY_PAUSE
+type: parsed
+protocol: panasonic
+address: 27
+command: 5
+#
+name: KEY_INFO
+type: parsed
+protocol: panasonic
+address: 27
+command: 6
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 27
+command: 7
+#
+name: KEY_INFO
+type: parsed
+protocol: panasonic
+address: 27
+command: 8
+#
+name: ARROW_DOWN
+type: parsed
+protocol: panasonic
+address: 27
+command: 11
+#
+name: KEY_SELECT
+type: parsed
+protocol: panasonic
+address: 27
+command: 12
+#
+name: BYPASS
+type: parsed
+protocol: panasonic
+address: 27
+command: 13
+#
+name: KEY_LAST
+type: parsed
+protocol: panasonic
+address: 27
+command: 14
+#
+name: KEY_LAST
+type: parsed
+protocol: panasonic
+address: 27
+command: 14
+#
+name: KEY_NUMERIC_STAR
+type: parsed
+protocol: panasonic
+address: 27
+command: 15
+#
+name: NUM_1
+type: parsed
+protocol: panasonic
+address: 27
+command: 16
+#
+name: NUM_2
+type: parsed
+protocol: panasonic
+address: 27
+command: 17
+#
+name: NUM_3
+type: parsed
+protocol: panasonic
+address: 27
+command: 18
+#
+name: NUM_4
+type: parsed
+protocol: panasonic
+address: 27
+command: 19
+#
+name: NUM_5
+type: parsed
+protocol: panasonic
+address: 27
+command: 20
+#
+name: NUM_6
+type: parsed
+protocol: panasonic
+address: 27
+command: 21
+#
+name: NUM_7
+type: parsed
+protocol: panasonic
+address: 27
+command: 22
+#
+name: NUM_8
+type: parsed
+protocol: panasonic
+address: 27
+command: 23
+#
+name: NUM_9
+type: parsed
+protocol: panasonic
+address: 27
+command: 24
+#
+name: NUM_0
+type: parsed
+protocol: panasonic
+address: 27
+command: 25
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: panasonic
+address: 27
+command: 29
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: panasonic
+address: 27
+command: 30
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: panasonic
+address: 27
+command: 31
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: panasonic
+address: 27
+command: 32
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: panasonic
+address: 27
+command: 33
+#
+name: KEY_MUTE
+type: parsed
+protocol: panasonic
+address: 27
+command: 34
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 27
+command: 40
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 27
+command: 41
+#
+name: KEY_EXIT
+type: parsed
+protocol: panasonic
+address: 27
+command: 44
+#
+name: KEY_A
+type: parsed
+protocol: panasonic
+address: 27
+command: 47
+#
+name: KEY_B
+type: parsed
+protocol: panasonic
+address: 27
+command: 48
+#
+name: KEY_C
+type: parsed
+protocol: panasonic
+address: 27
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 27
+command: 51
+#
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 27
+command: 52
+#
+name: KEY_RECORD
+type: parsed
+protocol: panasonic
+address: 27
+command: 53
+#
+name: KEY_NEXT
+type: parsed
+protocol: panasonic
+address: 27
+command: 54
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: panasonic
+address: 27
+command: 55
+#
+name: KEY_MENU
+type: parsed
+protocol: panasonic
+address: 27
+command: 57
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: panasonic
+address: 27
+command: 58
+#

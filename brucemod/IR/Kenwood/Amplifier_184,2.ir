@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP << / P.CALL
+type: parsed
+protocol: nec1
+address: 184.2
+command: 0
+#
+name: SKIP >> / P.CALL
+type: parsed
+protocol: nec1
+address: 184.2
+command: 1
+#
+name: SEARCH << / TUNING
+type: parsed
+protocol: nec1
+address: 184.2
+command: 2
+#
+name: SEARCH >> / TUNING
+type: parsed
+protocol: nec1
+address: 184.2
+command: 3
+#
+name: STOP / AUTO/MONO
+type: parsed
+protocol: nec1
+address: 184.2
+command: 4
+#
+name: TUNER / BAND
+type: parsed
+protocol: nec1
+address: 184.2
+command: 6
+#
+name: PLAY/PAUSE / CD
+type: parsed
+protocol: nec1
+address: 184.2
+command: 7
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 184.2
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 184.2
+command: 30
+#
+name: +100
+type: parsed
+protocol: nec1
+address: 184.2
+command: 79
+#

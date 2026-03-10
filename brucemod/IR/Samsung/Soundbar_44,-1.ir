@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 44
+command: 30
+#
+name: Vol_Up
+type: parsed
+protocol: necx2
+address: 44
+command: 23
+#
+name: VOL_DN
+type: parsed
+protocol: necx2
+address: 44
+command: 22
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 44
+command: 31
+#
+name: Function
+type: parsed
+protocol: necx2
+address: 44
+command: 138
+#
+name: PREV_TRCK
+type: parsed
+protocol: necx2
+address: 44
+command: 6
+#
+name: NEXT_TRCK
+type: parsed
+protocol: necx2
+address: 44
+command: 7
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: necx2
+address: 44
+command: 79
+#
+name: SFX
+type: parsed
+protocol: necx2
+address: 44
+command: 47
+#
+name: SOUND_ADJ
+type: parsed
+protocol: necx2
+address: 44
+command: 152
+#
+name: AV_SYNC
+type: parsed
+protocol: necx2
+address: 44
+command: 217
+#
+name: Info
+type: parsed
+protocol: necx2
+address: 44
+command: 163
+#
+name: AUTO_VOL
+type: parsed
+protocol: necx2
+address: 44
+command: 28
+#
+name: AUTO_PWR
+type: parsed
+protocol: necx2
+address: 44
+command: 147
+#

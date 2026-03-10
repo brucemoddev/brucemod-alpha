@@ -1,0 +1,1089 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD SKIP FWD >>
+type: parsed
+protocol: nec1
+address: 26
+command: 0
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 26
+command: 0
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 26
+command: 0
+#
+name: CD SKIP REV <<
+type: parsed
+protocol: nec1
+address: 26
+command: 1
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 26
+command: 1
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 26
+command: 1
+#
+name: RDS
+type: parsed
+protocol: nec2
+address: 26
+command: 2
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 26
+command: 3
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 26
+command: 4
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 26
+command: 4
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 26
+command: 4
+#
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 26
+command: 5
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 26
+command: 5
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 26
+command: 5
+#
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 26
+command: 7
+#
+name: DISC
+type: parsed
+protocol: nec1
+address: 26
+command: 7
+#
+name: CD SCAN >>
+type: parsed
+protocol: nec1
+address: 26
+command: 12
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 26
+command: 12
+#
+name: CD SCAN <<
+type: parsed
+protocol: nec1
+address: 26
+command: 13
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 26
+command: 13
+#
+name: CD PAUSE
+type: parsed
+protocol: nec1
+address: 26
+command: 14
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 26
+command: 14
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 26
+command: 14
+#
+name: CD 1
+type: parsed
+protocol: nec1
+address: 26
+command: 16
+#
+name: 1 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 16
+#
+name: CD 2
+type: parsed
+protocol: nec1
+address: 26
+command: 17
+#
+name: 2 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 17
+#
+name: CD 3
+type: parsed
+protocol: nec1
+address: 26
+command: 18
+#
+name: 3 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 18
+#
+name: CD 4
+type: parsed
+protocol: nec1
+address: 26
+command: 19
+#
+name: 4 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 19
+#
+name: CD 5
+type: parsed
+protocol: nec1
+address: 26
+command: 20
+#
+name: 5 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 20
+#
+name: CD 6
+type: parsed
+protocol: nec1
+address: 26
+command: 21
+#
+name: 6 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 21
+#
+name: CD 7
+type: parsed
+protocol: nec1
+address: 26
+command: 22
+#
+name: 7 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 22
+#
+name: CD 8
+type: parsed
+protocol: nec1
+address: 26
+command: 23
+#
+name: 8 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 23
+#
+name: CD 9
+type: parsed
+protocol: nec1
+address: 26
+command: 24
+#
+name: 9 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 24
+#
+name: CD +10
+type: parsed
+protocol: nec1
+address: 26
+command: 25
+#
+name: +10 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 25
+#
+name: CD 0
+type: parsed
+protocol: nec1
+address: 26
+command: 26
+#
+name: 0 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 26
+#
+name: CD DISC 1
+type: parsed
+protocol: nec1
+address: 26
+command: 27
+#
+name: CD DISC 2
+type: parsed
+protocol: nec1
+address: 26
+command: 28
+#
+name: CD DISC 3
+type: parsed
+protocol: nec1
+address: 26
+command: 29
+#
+name: CD DISC 4
+type: parsed
+protocol: nec1
+address: 26
+command: 30
+#
+name: CD DISC 5
+type: parsed
+protocol: nec1
+address: 26
+command: 31
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 26
+command: 64
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 26
+command: 65
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 26
+command: 66
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 26
+command: 67
+#
+name: REPEAT (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 73
+#
+name: CD RANDOM
+type: parsed
+protocol: nec1
+address: 26
+command: 78
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 26
+command: 78
+#
+name: BAL CHK
+type: parsed
+protocol: nec1
+address: 26
+command: 80
+#
+name: TEST
+type: parsed
+protocol: nec2
+address: 26
+command: 80
+#
+name: CENTER V
+type: parsed
+protocol: nec1
+address: 26
+command: 82
+#
+name: REAR V
+type: parsed
+protocol: nec1
+address: 26
+command: 83
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 26
+command: 87
+#
+name: MODE
+type: parsed
+protocol: nec2
+address: 26
+command: 87
+#
+name: CENTER ^
+type: parsed
+protocol: nec1
+address: 26
+command: 90
+#
+name: REAR ^
+type: parsed
+protocol: nec1
+address: 26
+command: 91
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 26
+command: 92
+#
+name: D120
+type: parsed
+protocol: nec2
+address: 26
+command: 120
+#
+name: D2
+type: parsed
+protocol: nec2
+address: 26
+command: 121
+#
+name: D3
+type: parsed
+protocol: nec2
+address: 26
+command: 122
+#
+name: D4
+type: parsed
+protocol: nec2
+address: 26
+command: 123
+#
+name: D5
+type: parsed
+protocol: nec2
+address: 26
+command: 124
+#
+name: D6
+type: parsed
+protocol: nec2
+address: 26
+command: 125
+#
+name: D7
+type: parsed
+protocol: nec2
+address: 26
+command: 126
+#
+name: D8
+type: parsed
+protocol: nec2
+address: 26
+command: 127
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 26
+command: 128
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 26
+command: 128
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 26
+command: 129
+#
+name: D9
+type: parsed
+protocol: nec2
+address: 26
+command: 129
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 26
+command: 130
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 26
+command: 130
+#
+name: VIDEO1
+type: parsed
+protocol: nec2
+address: 26
+command: 131
+#
+name: VIDEO/AUX
+type: parsed
+protocol: nec1
+address: 26
+command: 132
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 26
+command: 132
+#
+name: AUX2
+type: parsed
+protocol: nec1
+address: 26
+command: 132
+#
+name: AUX 2
+type: parsed
+protocol: nec1
+address: 26
+command: 132
+#
+name: VIDEO2
+type: parsed
+protocol: nec2
+address: 26
+command: 132
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 26
+command: 133
+#
+name: TUNER 2
+type: parsed
+protocol: nec1
+address: 26
+command: 133
+#
+name: VIDEO3
+type: parsed
+protocol: nec2
+address: 26
+command: 133
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 26
+command: 134
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 26
+command: 134
+#
+name: VIDEO4
+type: parsed
+protocol: nec2
+address: 26
+command: 134
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 26
+command: 135
+#
+name: VIDEO5
+type: parsed
+protocol: nec2
+address: 26
+command: 135
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 26
+command: 136
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 26
+command: 136
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 26
+command: 137
+#
+name: TUNER 1
+type: parsed
+protocol: nec1
+address: 26
+command: 137
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 26
+command: 137
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 26
+command: 137
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 26
+command: 138
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 26
+command: 138
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 26
+command: 138
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 26
+command: 139
+#
+name: AUX1
+type: parsed
+protocol: nec1
+address: 26
+command: 139
+#
+name: AUX 1
+type: parsed
+protocol: nec1
+address: 26
+command: 139
+#
+name: TUNER TUNING >
+type: parsed
+protocol: nec1
+address: 26
+command: 140
+#
+name: TUNING >
+type: parsed
+protocol: nec1
+address: 26
+command: 140
+#
+name: TUNE UP
+type: parsed
+protocol: nec2
+address: 26
+command: 140
+#
+name: TUNER TUNING <
+type: parsed
+protocol: nec1
+address: 26
+command: 141
+#
+name: TUNING <
+type: parsed
+protocol: nec1
+address: 26
+command: 141
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec2
+address: 26
+command: 141
+#
+name: SHIFT
+type: parsed
+protocol: nec1
+address: 26
+command: 142
+#
+name: TUNER +10
+type: parsed
+protocol: nec1
+address: 26
+command: 142
+#
+name: GROUP A
+type: parsed
+protocol: nec1
+address: 26
+command: 142
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 26
+command: 142
+#
+name: FM/AM
+type: parsed
+protocol: nec1
+address: 26
+command: 143
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 26
+command: 143
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 26
+command: 143
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 26
+command: 144
+#
+name: TUNER 1
+type: parsed
+protocol: nec1
+address: 26
+command: 144
+#
+name: PRESET 1
+type: parsed
+protocol: nec1
+address: 26
+command: 144
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 26
+command: 144
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 26
+command: 145
+#
+name: TUNER 2
+type: parsed
+protocol: nec1
+address: 26
+command: 145
+#
+name: PRESET 2
+type: parsed
+protocol: nec1
+address: 26
+command: 145
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 26
+command: 145
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 26
+command: 146
+#
+name: TUNER 3
+type: parsed
+protocol: nec1
+address: 26
+command: 146
+#
+name: PRESET 3
+type: parsed
+protocol: nec1
+address: 26
+command: 146
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 26
+command: 146
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 26
+command: 147
+#
+name: TUNER 4
+type: parsed
+protocol: nec1
+address: 26
+command: 147
+#
+name: PRESET 4
+type: parsed
+protocol: nec1
+address: 26
+command: 147
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 26
+command: 147
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 26
+command: 148
+#
+name: TUNER 5
+type: parsed
+protocol: nec1
+address: 26
+command: 148
+#
+name: PRESET 5
+type: parsed
+protocol: nec1
+address: 26
+command: 148
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 26
+command: 148
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 26
+command: 149
+#
+name: TUNER 6
+type: parsed
+protocol: nec1
+address: 26
+command: 149
+#
+name: PRESET 6
+type: parsed
+protocol: nec1
+address: 26
+command: 149
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 26
+command: 149
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 26
+command: 150
+#
+name: TUNER 7
+type: parsed
+protocol: nec1
+address: 26
+command: 150
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 26
+command: 150
+#
+name: TUNER 8
+type: parsed
+protocol: nec1
+address: 26
+command: 151
+#
+name: TUNER 9
+type: parsed
+protocol: nec1
+address: 26
+command: 152
+#
+name: GROUP >
+type: parsed
+protocol: nec1
+address: 26
+command: 153
+#
+name: TUNER 0
+type: parsed
+protocol: nec1
+address: 26
+command: 154
+#
+name: GROUP B
+type: parsed
+protocol: nec1
+address: 26
+command: 155
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 26
+command: 156
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 26
+command: 157
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 26
+command: 158
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 26
+command: 159
+#
+name: DYNAMIC RANGE
+type: parsed
+protocol: nec2
+address: 26
+command: 193
+#
+name: EXTERNAL 5.1
+type: parsed
+protocol: nec2
+address: 26
+command: 193
+#
+name: BACKS
+type: parsed
+protocol: nec2
+address: 26
+command: 197
+#
+name: SLEEP
+type: parsed
+protocol: nec2
+address: 26
+command: 198
+#
+name: BALANCE
+type: parsed
+protocol: nec2
+address: 26
+command: 199
+#
+name: DIM
+type: parsed
+protocol: nec2
+address: 26
+command: 202
+#
+name: ROOM 2
+type: parsed
+protocol: nec1
+address: 26
+command: 203
+#
+name: P. SCAN
+type: parsed
+protocol: nec1
+address: 26
+command: 204
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 26
+command: 209
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 26
+command: 209
+#
+name: MASTER VOL V
+type: parsed
+protocol: nec1
+address: 26
+command: 209
+#
+name: LEVEL -
+type: parsed
+protocol: nec1
+address: 26
+command: 209
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 26
+command: 209
+#
+name: SUB ^
+type: parsed
+protocol: nec1
+address: 26
+command: 210
+#
+name: SEEK / TUNE
+type: parsed
+protocol: nec1
+address: 26
+command: 211
+#
+name: PRESET/TUNE
+type: parsed
+protocol: nec2
+address: 26
+command: 211
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 26
+command: 213
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 26
+command: 213
+#
+name: MASTER VOL ^
+type: parsed
+protocol: nec1
+address: 26
+command: 213
+#
+name: LEVEL +
+type: parsed
+protocol: nec1
+address: 26
+command: 213
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 26
+command: 213
+#
+name: SUB V
+type: parsed
+protocol: nec1
+address: 26
+command: 214
+#
+name: ROOM 3
+type: parsed
+protocol: nec1
+address: 26
+command: 215
+#
+name: GROUP C
+type: parsed
+protocol: nec1
+address: 26
+command: 216
+#
+name: EXT. PROC
+type: parsed
+protocol: nec1
+address: 26
+command: 219
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 26
+command: 220
+#

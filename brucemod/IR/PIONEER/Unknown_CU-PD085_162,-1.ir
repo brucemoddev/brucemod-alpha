@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 162
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 162
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 162
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 162
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 162
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 162
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 162
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 162
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 162
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 162
+command: 9
+#
+name: out+
+type: parsed
+protocol: nec
+address: 162
+command: 10
+#
+name: out-
+type: parsed
+protocol: nec
+address: 162
+command: 11
+#
+name: pgm
+type: parsed
+protocol: nec
+address: 162
+command: 13
+#
+name: for
+type: parsed
+protocol: nec
+address: 162
+command: 14
+#
+name: rev
+type: parsed
+protocol: nec
+address: 162
+command: 15
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 162
+command: 16
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 162
+command: 17
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 162
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 162
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 162
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 162
+command: 28
+#
+name: rnd
+type: parsed
+protocol: nec
+address: 162
+command: 74
+#
+name: >10
+type: parsed
+protocol: nec
+address: 162
+command: 86
+#
+name: hi-lite
+type: parsed
+protocol: nec
+address: 162
+command: 94
+#

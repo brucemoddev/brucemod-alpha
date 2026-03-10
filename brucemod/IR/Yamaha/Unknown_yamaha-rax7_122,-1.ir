@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: TAPETAPE_BWD
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: TAPE_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: TAPE_STOP
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: TAPE_RECPAUSE
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: TAPE_AB
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: TAPE_DIRA
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: CD_SEARCH_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: CD_SEARCH_BWD
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: CD_SKIP_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: CD_SKIP_BWD
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: PRESET_PLUS
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: PRESET_MINUS
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: ABCDE
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: TAPE1
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: TAPE2
+type: parsed
+protocol: nec
+address: 122
+command: 25
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: TAPE_DIRB
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: CD_DISC
+type: parsed
+protocol: nec
+address: 122
+command: 79
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#

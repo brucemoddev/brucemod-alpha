@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD/VCD
+type: parsed
+protocol: nec1
+address: 4
+command: 0
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 4
+command: 1
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 4
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 4
+command: 3
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 4
+command: 4
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 4
+command: 5
+#
+name: PREVIOUS
+type: parsed
+protocol: nec1
+address: 4
+command: 7
+#
+name: TIME/SHIFT
+type: parsed
+protocol: nec1
+address: 4
+command: 8
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: 
+type: parsed
+protocol: nec1
+address: 4
+command: 9
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 4
+command: 10
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 4
+command: 11
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 4
+command: 12
+#
+name: PHOTO
+type: parsed
+protocol: nec1
+address: 4
+command: 14
+#
+name: VIDEO/CLIPPER
+type: parsed
+protocol: nec1
+address: 4
+command: 15
+#
+name: FORWARD
+type: parsed
+protocol: nec1
+address: 4
+command: 16
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 4
+command: 17
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 4
+command: 18
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 4
+command: 19
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 4
+command: 20
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 4
+command: 22
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 4
+command: 23
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 4
+command: 24
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 4
+command: 25
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: PC
+type: parsed
+protocol: nec1
+address: 4
+command: 27
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 4
+command: 28
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 4
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 4
+command: 31
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 4
+command: 65
+#
+name: TUNING UP
+type: parsed
+protocol: nec1
+address: 4
+command: 68
+#
+name: MEM
+type: parsed
+protocol: nec1
+address: 4
+command: 69
+#
+name: TUNING DOWN
+type: parsed
+protocol: nec1
+address: 4
+command: 72
+#
+name: TV/PVR
+type: parsed
+protocol: nec1
+address: 4
+command: 76
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 4
+command: 78
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 4
+command: 80
+#
+name: SCAN
+type: parsed
+protocol: nec1
+address: 4
+command: 81
+#
+name: CD/MP3
+type: parsed
+protocol: nec1
+address: 4
+command: 82
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 4
+command: 84
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 4
+command: 85
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 4
+command: 88
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 4
+command: 89
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 4
+command: 90
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 4
+command: 92
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 4
+command: 93
+#

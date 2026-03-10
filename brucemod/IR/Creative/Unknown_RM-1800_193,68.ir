@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 193.68
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 193.68
+command: 9
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 193.68
+command: 17
+#
+name: X_KEY_3dMidi
+type: parsed
+protocol: nec
+address: 193.68
+command: 25
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 193.68
+command: 30
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 193.68
+command: 33
+#
+name: CMSS_Up
+type: parsed
+protocol: nec
+address: 193.68
+command: 41
+#
+name: EAX
+type: parsed
+protocol: nec
+address: 193.68
+command: 49
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 193.68
+command: 62
+#
+name: KEY_OPTION
+type: parsed
+protocol: nec
+address: 193.68
+command: 65
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 193.68
+command: 70
+#
+name: X_KEY_4bit_Up
+type: parsed
+protocol: nec
+address: 193.68
+command: 73
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 193.68
+command: 78
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 193.68
+command: 81
+#
+name: X_KEY_3dMidi_Down
+type: parsed
+protocol: nec
+address: 193.68
+command: 89
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 193.68
+command: 94
+#
+name: EAX_Up
+type: parsed
+protocol: nec
+address: 193.68
+command: 105
+#
+name: Display
+type: parsed
+protocol: nec
+address: 193.68
+command: 110
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 193.68
+command: 113
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 193.68
+command: 118
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 193.68
+command: 129
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 193.68
+command: 134
+#
+name: X_KEY_4bit
+type: parsed
+protocol: nec
+address: 193.68
+command: 137
+#
+name: CMSS
+type: parsed
+protocol: nec
+address: 193.68
+command: 142
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 193.68
+command: 145
+#
+name: X_KEY_3dMidi_Up
+type: parsed
+protocol: nec
+address: 193.68
+command: 153
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 193.68
+command: 158
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 193.68
+command: 161
+#
+name: CMSS_Down
+type: parsed
+protocol: nec
+address: 193.68
+command: 169
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 193.68
+command: 174
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 177
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 193.68
+command: 190
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 193.68
+command: 193
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 198
+#
+name: X_KEY_4bit_Down
+type: parsed
+protocol: nec
+address: 193.68
+command: 201
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 193.68
+command: 206
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 193.68
+command: 209
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 193.68
+command: 214
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 193.68
+command: 222
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 193.68
+command: 225
+#
+name: EAX_Down
+type: parsed
+protocol: nec
+address: 193.68
+command: 233
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 193.68
+command: 238
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 193.68
+command: 241
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 193.68
+command: 254
+#

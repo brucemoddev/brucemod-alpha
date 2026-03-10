@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 5
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: switch_prgs
+type: parsed
+protocol: rc5
+address: 5
+command: 10
+#
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: calibrate
+type: parsed
+protocol: rc5
+address: 5
+command: 14
+#
+name: prog
+type: parsed
+protocol: rc5
+address: 5
+command: 29
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: otr-rec
+type: parsed
+protocol: rc5
+address: 5
+command: 36
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: fast
+type: parsed
+protocol: rc5
+address: 5
+command: 42
+#
+name: pic_rew
+type: parsed
+protocol: rc5
+address: 5
+command: 44
+#
+name: pic_ff
+type: parsed
+protocol: rc5
+address: 5
+command: 46
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 5
+command: 47
+#
+name: reset
+type: parsed
+protocol: rc5
+address: 5
+command: 49
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 5
+command: 50
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 5
+command: 52
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#

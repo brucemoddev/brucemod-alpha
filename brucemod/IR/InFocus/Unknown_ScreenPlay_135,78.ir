@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 135.78
+command: 2
+#
+name: Brightness-Up
+type: parsed
+protocol: nec
+address: 135.78
+command: 3
+#
+name: Brightness-Down
+type: parsed
+protocol: nec
+address: 135.78
+command: 7
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 135.78
+command: 16
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 135.78
+command: 19
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 135.78
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.78
+command: 23
+#
+name: Presets
+type: parsed
+protocol: nec
+address: 135.78
+command: 44
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 135.78
+command: 45
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 135.78
+command: 46
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 135.78
+command: 47
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 135.78
+command: 48
+#
+name: Blank
+type: parsed
+protocol: nec
+address: 135.78
+command: 49
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 135.78
+command: 50
+#
+name: AutoImage
+type: parsed
+protocol: nec
+address: 135.78
+command: 51
+#
+name: Resize
+type: parsed
+protocol: nec
+address: 135.78
+command: 52
+#
+name: Overscan
+type: parsed
+protocol: nec
+address: 135.78
+command: 53
+#
+name: Contrast-Up
+type: parsed
+protocol: nec
+address: 135.78
+command: 54
+#
+name: Contrast-Down
+type: parsed
+protocol: nec
+address: 135.78
+command: 55
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: mce
+address: 4.15
+command: 12
+#
+name: POWER ON
+type: parsed
+protocol: mce
+address: 4.15
+command: 12
+#

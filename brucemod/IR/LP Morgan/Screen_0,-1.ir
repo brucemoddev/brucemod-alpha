@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: EVEN - UP
+type: parsed
+protocol: recs80_45
+address: 0
+command: 1
+#
+name: ODD - UP
+type: parsed
+protocol: recs80_45
+address: 0
+command: 1
+#
+name: EVEN - DOWN
+type: parsed
+protocol: recs80_45
+address: 0
+command: 2
+#
+name: ODD - DOWN
+type: parsed
+protocol: recs80_45
+address: 0
+command: 2
+#
+name: EVEN - STOP
+type: parsed
+protocol: recs80_45
+address: 0
+command: 3
+#
+name: ODD - STOP
+type: parsed
+protocol: recs80_45
+address: 0
+command: 3
+#

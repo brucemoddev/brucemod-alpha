@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: EXIT
+type: parsed
+protocol: nec1
+address: 0.153
+command: 2
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 0.153
+command: 8
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0.153
+command: 9
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0.153
+command: 12
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0.153
+command: 13
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 0.153
+command: 14
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 0.153
+command: 15
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0.153
+command: 17
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0.153
+command: 18
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 0.153
+command: 19
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 0.153
+command: 20
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0.153
+command: 21
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0.153
+command: 23
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0.153
+command: 25
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 0.153
+command: 26
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0.153
+command: 27
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0.153
+command: 29
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 0.153
+command: 30
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0.153
+command: 31
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 0.153
+command: 77
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 0.153
+command: 91
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0.153
+command: 92
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0.153
+command: 93
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0.153
+command: 94
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0.153
+command: 95
+#

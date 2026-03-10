@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_NEXT
+type: parsed
+protocol: f12
+address: 3.1
+command: 16
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: f12
+address: 3.1
+command: 32
+#
+name: Program
+type: parsed
+protocol: f12
+address: 3.1
+command: 64
+#

@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CLOSED CAPTION
+type: parsed
+protocol: zenith
+address: 5.1
+command: 0
+#
+name: CHANNEL - DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 1
+#
+name: PAGE - DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 1
+#
+name: CHANNEL -
+type: parsed
+protocol: zenith
+address: 5.1
+command: 1
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: zenith
+address: 5.1
+command: 2
+#
+name: SURF
+type: parsed
+protocol: zenith
+address: 5.1
+command: 4
+#
+name: ( -- )
+type: parsed
+protocol: zenith
+address: 5.1
+command: 5
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 6
+#
+name: CHANNEL - UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 9
+#
+name: PAGE - UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 9
+#
+name: CHANNEL +
+type: parsed
+protocol: zenith
+address: 5.1
+command: 9
+#
+name: VOLUME - UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 10
+#
+name: VOLUME +
+type: parsed
+protocol: zenith
+address: 5.1
+command: 10
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 11
+#
+name: MUTE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 11
+#
+name: RATIO
+type: parsed
+protocol: zenith
+address: 5.1
+command: 12
+#
+name: INPUT - ANTENNA
+type: parsed
+protocol: zenith
+address: 5.1
+command: 13
+#
+name: POWER
+type: parsed
+protocol: zenith
+address: 5.1
+command: 14
+#
+name: CUROSR - RIGHT
+type: parsed
+protocol: zenith
+address: 5.1
+command: 15
+#
+name: 0
+type: parsed
+protocol: zenith
+address: 5.1
+command: 16
+#
+name: 1
+type: parsed
+protocol: zenith
+address: 5.1
+command: 17
+#
+name: 2
+type: parsed
+protocol: zenith
+address: 5.1
+command: 18
+#
+name: 3
+type: parsed
+protocol: zenith
+address: 5.1
+command: 19
+#
+name: 4
+type: parsed
+protocol: zenith
+address: 5.1
+command: 20
+#
+name: 5
+type: parsed
+protocol: zenith
+address: 5.1
+command: 21
+#
+name: 6
+type: parsed
+protocol: zenith
+address: 5.1
+command: 22
+#
+name: 7
+type: parsed
+protocol: zenith
+address: 5.1
+command: 23
+#
+name: 8
+type: parsed
+protocol: zenith
+address: 5.1
+command: 24
+#
+name: 9
+type: parsed
+protocol: zenith
+address: 5.1
+command: 25
+#
+name: CHANNEL - PREVIOUS
+type: parsed
+protocol: zenith
+address: 5.1
+command: 27
+#
+name: FLASHBACK
+type: parsed
+protocol: zenith
+address: 5.1
+command: 27
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: zenith
+address: 5.1
+command: 28
+#
+name: ENTER
+type: parsed
+protocol: zenith
+address: 5.1
+command: 28
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: zenith
+address: 5.1
+command: 29
+#
+name: CURSOR - UP
+type: parsed
+protocol: zenith
+address: 5.1
+command: 30
+#
+name: MENU
+type: parsed
+protocol: zenith
+address: 5.1
+command: 31
+#

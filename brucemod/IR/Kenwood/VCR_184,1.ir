@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: N.B.
+type: parsed
+protocol: nec1
+address: 184.1
+command: 75
+#
+name: MULTI LVL CTRL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 84
+#
+name: MULTI LVL CTRL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 85
+#
+name: LEVEL MODE
+type: parsed
+protocol: nec1
+address: 184.1
+command: 87
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 184.1
+command: 204
+#

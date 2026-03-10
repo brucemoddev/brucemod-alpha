@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 182.12
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 182.12
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 182.12
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 182.12
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 182.12
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 182.12
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 182.12
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 182.12
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 182.12
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 182.12
+command: 9
+#
+name: (0)OpenClose
+type: parsed
+protocol: nec
+address: 182.12
+command: 16
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 182.12
+command: 17
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 182.12
+command: 19
+#
+name: SkipDown
+type: parsed
+protocol: nec
+address: 182.12
+command: 22
+#
+name: SkipUp
+type: parsed
+protocol: nec
+address: 182.12
+command: 23
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 182.12
+command: 25
+#
+name: KEY_C
+type: parsed
+protocol: nec
+address: 182.12
+command: 26
+#
+name: P.Mode
+type: parsed
+protocol: nec
+address: 182.12
+command: 31
+#
+name: ABRepeat
+type: parsed
+protocol: nec
+address: 182.12
+command: 67
+#
+name: (1)Memory
+type: parsed
+protocol: nec
+address: 182.12
+command: 75
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 182.12
+command: 95
+#
+name: Display
+type: parsed
+protocol: nec
+address: 182.12
+command: 140
+#
+name: (7)TextDisp
+type: parsed
+protocol: nec
+address: 182.12
+command: 150
+#
+name: (8)AllInfo
+type: parsed
+protocol: nec
+address: 182.12
+command: 151
+#
+name: (9)TitleSearch
+type: parsed
+protocol: nec
+address: 182.12
+command: 152
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 182.12
+command: 192
+#
+name: (3)Title
+type: parsed
+protocol: nec
+address: 182.12
+command: 193
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 182.12
+command: 194
+#
+name: (4)Angle
+type: parsed
+protocol: nec
+address: 182.12
+command: 195
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 182.12
+command: 196
+#
+name: (6)Subtitle
+type: parsed
+protocol: nec
+address: 182.12
+command: 197
+#
+name: (5)Audio
+type: parsed
+protocol: nec
+address: 182.12
+command: 201
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 182.12
+command: 211
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 182.12
+command: 214
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 182.12
+command: 215
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 182.12
+command: 216
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 182.12
+command: 217
+#
+name: (2)VirtualSurr
+type: parsed
+protocol: nec
+address: 182.12
+command: 223
+#

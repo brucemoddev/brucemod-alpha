@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 192
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 193
+#
+name: DISC ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 195
+#
+name: DISC
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 195
+#
+name: PLAY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 196
+#
+name: PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 196
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 200
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 201
+#
+name: FAST FORWARD
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 202
+#
+name: SEARCH >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 202
+#
+name: FF >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 202
+#
+name: CLEAR
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 203
+#
+name: CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 203
+#
+name: +10
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 206
+#
+name: INDEX
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 207
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 208
+#
+name: REVERSE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 210
+#
+name: SEARCH <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 210
+#
+name: REW <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 210
+#
+name: DISC 1
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 211
+#
+name: STOP
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 212
+#
+name: STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 212
+#
+name: DISC V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 214
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 215
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 216
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 219
+#
+name: PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 220
+#
+name: PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 220
+#
+name: RANDOM
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 223
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 224
+#
+name: DISC 2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 227
+#
+name: SKIP >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 228
+#
+name: FS (FWD SRCH) >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 228
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 232
+#
+name: DISC 3
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 235
+#
+name: SKIP <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 236
+#
+name: RS (REV SRCH) <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 236
+#
+name: INTRO SCAN
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 238
+#
+name: INTRO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 238
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 240
+#
+name: DISC 4
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 243
+#
+name: ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 244
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 245
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 246
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 248
+#
+name: DISC 5
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 251
+#
+name: ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 252
+#
+name: MEMORY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 254
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 254
+#

@@ -1,0 +1,969 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY 0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: KEY 1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: KEY 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: KEY 3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: KEY 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: KEY 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: KEY 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: KEY 7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: KEY 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: KEY 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: PIP ON/OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: INPUT TOGGLE
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: PIP
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: INOUT
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: PIP AUDIO MONITOR
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 11
+#
+name: MENU KEY
+type: parsed
+protocol: rc5
+address: 0
+command: 11
+#
+name: M (MENY)
+type: parsed
+protocol: rc5
+address: 0
+command: 11
+#
+name: TV ON/OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: POWER TOGGLE
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: NORMAL
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: POWER: ON
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: EPG
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: FAVORITE
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: GER
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: CURSOR
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: NSTER
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: INPUT: COMPONENT 1
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: VID 1C / ANT A
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: VOLUME UP
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: VGA
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: VOLUME DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: TV ON
+type: parsed
+protocol: rc5
+address: 0
+command: 22
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 0
+command: 22
+#
+name: PROGRAM -
+type: parsed
+protocol: rc5
+address: 0
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: rc5
+address: 0
+command: 23
+#
+name: PROGRAM +
+type: parsed
+protocol: rc5
+address: 0
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: rc5
+address: 0
+command: 24
+#
+name: TV OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 25
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 25
+#
+name: GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 26
+#
+name: WINDOW
+type: parsed
+protocol: rc5
+address: 0
+command: 26
+#
+name: N KNAPP
+type: parsed
+protocol: rc5
+address: 0
+command: 26
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 26
+#
+name: RED
+type: parsed
+protocol: rc5
+address: 0
+command: 27
+#
+name: FORMAT
+type: parsed
+protocol: rc5
+address: 0
+command: 27
+#
+name: D KNAPP
+type: parsed
+protocol: rc5
+address: 0
+command: 27
+#
+name: VCR 1
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: INPUT VCR
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: DVD
+type: parsed
+protocol: rc5
+address: 0
+command: 30
+#
+name: INPUT DVD
+type: parsed
+protocol: rc5
+address: 0
+command: 30
+#
+name: INPUT: FRONT
+type: parsed
+protocol: rc5
+address: 0
+command: 31
+#
+name: FRONT / VID 1C
+type: parsed
+protocol: rc5
+address: 0
+command: 31
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CURSOR UPP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: CURSOR NER
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: CHANNEL -
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: INPUT: VIDEO 2
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: POWER: OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: PICTURE
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: VIDEO
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: BILDMENY
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: SAT
+type: parsed
+protocol: rc5
+address: 0
+command: 36
+#
+name: INPUT: ANT B
+type: parsed
+protocol: rc5
+address: 0
+command: 36
+#
+name: INPUT SAT
+type: parsed
+protocol: rc5
+address: 0
+command: 36
+#
+name: STB
+type: parsed
+protocol: rc5
+address: 0
+command: 37
+#
+name: INPUT: ANTENNA A
+type: parsed
+protocol: rc5
+address: 0
+command: 37
+#
+name: ANT A
+type: parsed
+protocol: rc5
+address: 0
+command: 37
+#
+name: INPUT STB
+type: parsed
+protocol: rc5
+address: 0
+command: 37
+#
+name: OK
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: CURSOR OK
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: INFO
+type: parsed
+protocol: rc5
+address: 0
+command: 39
+#
+name: I (INFO)
+type: parsed
+protocol: rc5
+address: 0
+command: 39
+#
+name: BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 40
+#
+name: SWAP
+type: parsed
+protocol: rc5
+address: 0
+command: 40
+#
+name: KNAPP
+type: parsed
+protocol: rc5
+address: 0
+command: 40
+#
+name: YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: PIP
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: GUL KNAPP
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: INFO 2
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: ASSIST+MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: EDIT FAVORITES
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: V =
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: ASSIST
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: VIDEO
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: INPUT: 2 (2)
+type: parsed
+protocol: rc5
+address: 0
+command: 51
+#
+name: INPUT: VIDEO 2 2ND
+type: parsed
+protocol: rc5
+address: 0
+command: 51
+#
+name: INPUT: S-VIDEO 1
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: VID 1S
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: RADIO MODE
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: AUDIO
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: LJUDMENY
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: SAT RADIO
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: INPUT: RGB 1080I
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: INPUT: RGB 480P
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: INPUT: DVD 480P
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: TELETEXT
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: FREEZE
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: T (TEXT)
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: TEXT
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: END KEY
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: EXIT
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: E (EXIT)
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: END
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: SOUND MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 64
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 64
+#
+name: SOUND
+type: parsed
+protocol: rc5
+address: 0
+command: 64
+#
+name: TV MODE ON
+type: parsed
+protocol: rc5
+address: 0
+command: 72
+#
+name: RADIO MODE ON
+type: parsed
+protocol: rc5
+address: 0
+command: 73
+#
+name: AV INPUT MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 74
+#
+name: INPUT AV
+type: parsed
+protocol: rc5
+address: 0
+command: 74
+#
+name: EPG2
+type: parsed
+protocol: rc5
+address: 0
+command: 78
+#
+name: EPG
+type: parsed
+protocol: rc5
+address: 0
+command: 78
+#
+name: * EPG
+type: parsed
+protocol: rc5
+address: 0
+command: 78
+#
+name: INFO KEY
+type: parsed
+protocol: rc5
+address: 0
+command: 79
+#
+name: INFO
+type: parsed
+protocol: rc5
+address: 0
+command: 79
+#
+name: PIP #
+type: parsed
+protocol: rc5
+address: 0
+command: 88
+#
+name: PIP
+type: parsed
+protocol: rc5
+address: 0
+command: 88
+#
+name: # PIP
+type: parsed
+protocol: rc5
+address: 0
+command: 88
+#
+name: ASPECT RATIO
+type: parsed
+protocol: rc5
+address: 0
+command: 90
+#
+name: TITLE
+type: parsed
+protocol: rc5
+address: 0
+command: 90
+#
+name: FORMAT
+type: parsed
+protocol: rc5
+address: 0
+command: 90
+#
+name: TIMER DIALOG
+type: parsed
+protocol: rc5
+address: 0
+command: 91
+#
+name: REC MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 91
+#
+name: TIMER
+type: parsed
+protocol: rc5
+address: 0
+command: 91
+#
+name: DR+ ARCHIVE
+type: parsed
+protocol: rc5
+address: 0
+command: 92
+#
+name: INPUT: VGA
+type: parsed
+protocol: rc5
+address: 0
+command: 110
+#
+name: INPUT: VIDEO 3
+type: parsed
+protocol: rc5
+address: 0
+command: 111
+#
+name: INPUT: DVI
+type: parsed
+protocol: rc5
+address: 0
+command: 112
+#
+name: INPUT: COMPONENT 2
+type: parsed
+protocol: rc5
+address: 0
+command: 113
+#
+name: AV1
+type: parsed
+protocol: rc5
+address: 0
+command: 114
+#
+name: AV2
+type: parsed
+protocol: rc5
+address: 0
+command: 115
+#
+name: AV3
+type: parsed
+protocol: rc5
+address: 0
+command: 116
+#
+name: AVS
+type: parsed
+protocol: rc5
+address: 0
+command: 117
+#
+name: VGA
+type: parsed
+protocol: rc5
+address: 0
+command: 118
+#
+name: HDMI 1
+type: parsed
+protocol: rc5
+address: 0
+command: 119
+#
+name: COMPONENT
+type: parsed
+protocol: rc5
+address: 0
+command: 120
+#
+name: HDMI 2
+type: parsed
+protocol: rc5
+address: 0
+command: 121
+#
+name: HDMI 3
+type: parsed
+protocol: rc5
+address: 0
+command: 122
+#

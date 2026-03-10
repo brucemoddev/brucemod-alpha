@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 132.224
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 132.224
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 132.224
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 132.224
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 132.224
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 132.224
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 132.224
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 132.224
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 132.224
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 132.224
+command: 9
+#
+name: KEY_STANDBYON
+type: parsed
+protocol: nec
+address: 132.224
+command: 32
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 132.224
+command: 34
+#
+name: KEY_COLORSYSTEM
+type: parsed
+protocol: nec
+address: 132.224
+command: 46
+#
+name: KEY_INPUTSELECT
+type: parsed
+protocol: nec
+address: 132.224
+command: 64
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 132.224
+command: 80
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 132.224
+command: 81
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 132.224
+command: 96
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 132.224
+command: 97
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 132.224
+command: 100
+#
+name: KEY_SOUNDSELECT
+type: parsed
+protocol: nec
+address: 132.224
+command: 101
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 132.224
+command: 112
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 132.224
+command: 115
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 132.224
+command: 116
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 132.224
+command: 117
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 132.224
+command: 118
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 132.224
+command: 119
+#
+name: KEY_PROGRETURN
+type: parsed
+protocol: nec
+address: 132.224
+command: 120
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 132.224
+command: 121
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 132.224
+command: 122
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 132.224
+command: 123
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 132.224
+command: 124
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 132.224
+command: 125
+#
+name: KEY_SCREENMODE
+type: parsed
+protocol: nec
+address: 132.224
+command: 144
+#
+name: KEY_PIP
+type: parsed
+protocol: nec
+address: 132.224
+command: 145
+#
+name: KEY_DISP
+type: parsed
+protocol: nec
+address: 132.224
+command: 155
+#
+name: KEY_EXPAND
+type: parsed
+protocol: nec
+address: 132.224
+command: 157
+#
+name: KEY_TXT
+type: parsed
+protocol: nec
+address: 132.224
+command: 168
+#
+name: KEY_REVEAL
+type: parsed
+protocol: nec
+address: 132.224
+command: 169
+#
+name: KEY_TXTSTOPSEQUENCE
+type: parsed
+protocol: nec
+address: 132.224
+command: 170
+#
+name: KEY_SUBCODE
+type: parsed
+protocol: nec
+address: 132.224
+command: 173
+#
+name: KEY_TXTCONTENTSPAGE
+type: parsed
+protocol: nec
+address: 132.224
+command: 174
+#
+name: KEY_SERVICE
+type: parsed
+protocol: nec
+address: 132.224
+command: 255
+#

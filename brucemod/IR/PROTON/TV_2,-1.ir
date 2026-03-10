@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: Proton
+address: 2
+command: 0
+#
+name: AV3 INPUT
+type: parsed
+protocol: Proton
+address: 2
+command: 4
+#
+name: ANT1 / RGB
+type: parsed
+protocol: Proton
+address: 2
+command: 5
+#
+name: 
+type: parsed
+protocol: Proton
+address: 2
+command: 8
+#
+name: ANT2
+type: parsed
+protocol: Proton
+address: 2
+command: 9
+#
+name: TV TUNER
+type: parsed
+protocol: Proton
+address: 2
+command: 10
+#
+name: AV2 INPUT
+type: parsed
+protocol: Proton
+address: 2
+command: 11
+#
+name: AV1 INPUT
+type: parsed
+protocol: Proton
+address: 2
+command: 15
+#

@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.239
+command: 0
+#
+name: Screen
+type: parsed
+protocol: nec
+address: 0.239
+command: 8
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 0.239
+command: 16
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.239
+command: 32
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 0.239
+command: 40
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 0.239
+command: 48
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.239
+command: 64
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.239
+command: 72
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.239
+command: 80
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.239
+command: 96
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 0.239
+command: 104
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0.239
+command: 112
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.239
+command: 128
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.239
+command: 136
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.239
+command: 144
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.239
+command: 160
+#
+name: Present
+type: parsed
+protocol: nec
+address: 0.239
+command: 168
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 0.239
+command: 176
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.239
+command: 192
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.239
+command: 200
+#
+name: KEY_ESC
+type: parsed
+protocol: nec
+address: 0.239
+command: 208
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.239
+command: 224
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 0.239
+command: 232
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0.239
+command: 240
+#

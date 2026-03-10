@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE 2 SELECT
+type: parsed
+protocol: jvc
+address: 163
+command: 7
+#
+name: SOURCE SLCT TAPE2
+type: parsed
+protocol: jvc
+address: 163
+command: 7
+#
+name: FM TUNER SELECT
+type: parsed
+protocol: jvc
+address: 163
+command: 8
+#
+name: SOURCE SLCT FM
+type: parsed
+protocol: jvc
+address: 163
+command: 8
+#
+name: AM TUNER SELECT
+type: parsed
+protocol: jvc
+address: 163
+command: 9
+#
+name: SOURCE SLCT AM
+type: parsed
+protocol: jvc
+address: 163
+command: 9
+#
+name: AUDIO POWER
+type: parsed
+protocol: jvc
+address: 163
+command: 23
+#
+name: TUNER PRESET-
+type: parsed
+protocol: jvc
+address: 163
+command: 24
+#
+name: TUNER PRESET- (-[])
+type: parsed
+protocol: jvc
+address: 163
+command: 24
+#
+name: TUNER PRESET+
+type: parsed
+protocol: jvc
+address: 163
+command: 25
+#
+name: TUNER PRESET+ (+ >)
+type: parsed
+protocol: jvc
+address: 163
+command: 25
+#
+name: FADE MUTING
+type: parsed
+protocol: jvc
+address: 163
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: jvc
+address: 163
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: jvc
+address: 163
+command: 31
+#
+name: TUNER 0
+type: parsed
+protocol: jvc
+address: 163
+command: 32
+#
+name: TUNER 1
+type: parsed
+protocol: jvc
+address: 163
+command: 33
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 163
+command: 33
+#
+name: TUNER 2
+type: parsed
+protocol: jvc
+address: 163
+command: 34
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 163
+command: 34
+#
+name: TUNER 3
+type: parsed
+protocol: jvc
+address: 163
+command: 35
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 163
+command: 35
+#
+name: TUNER 4
+type: parsed
+protocol: jvc
+address: 163
+command: 36
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 163
+command: 36
+#
+name: TUNER 5
+type: parsed
+protocol: jvc
+address: 163
+command: 37
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 163
+command: 37
+#
+name: TUNER 6
+type: parsed
+protocol: jvc
+address: 163
+command: 38
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 163
+command: 38
+#
+name: TUNER 7
+type: parsed
+protocol: jvc
+address: 163
+command: 39
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 163
+command: 39
+#
+name: TUNER 8
+type: parsed
+protocol: jvc
+address: 163
+command: 40
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 163
+command: 40
+#
+name: TUNER 9
+type: parsed
+protocol: jvc
+address: 163
+command: 41
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 163
+command: 41
+#
+name: TUNER 10
+type: parsed
+protocol: jvc
+address: 163
+command: 42
+#
+name: 10
+type: parsed
+protocol: jvc
+address: 163
+command: 42
+#
+name: TUNER +10
+type: parsed
+protocol: jvc
+address: 163
+command: 47
+#
+name: +10
+type: parsed
+protocol: jvc
+address: 163
+command: 47
+#
+name: SEA SOURCE
+type: parsed
+protocol: jvc
+address: 163
+command: 48
+#
+name: PHONO SELECT
+type: parsed
+protocol: jvc
+address: 163
+command: 60
+#
+name: SOURCE SLCT PHONO
+type: parsed
+protocol: jvc
+address: 163
+command: 60
+#
+name: CD PLAY (AND SELECT)
+type: parsed
+protocol: jvc
+address: 163
+command: 61
+#
+name: SOURCE SLCT CD
+type: parsed
+protocol: jvc
+address: 163
+command: 61
+#
+name: TAPE1 PLAY (SELECT)
+type: parsed
+protocol: jvc
+address: 163
+command: 63
+#
+name: SOURCE SLCT TAPE1
+type: parsed
+protocol: jvc
+address: 163
+command: 63
+#
+name: SURROUND MODE
+type: parsed
+protocol: jvc
+address: 163
+command: 88
+#
+name: SURROUND VOL+
+type: parsed
+protocol: jvc
+address: 163
+command: 94
+#
+name: SURROUND VOL-
+type: parsed
+protocol: jvc
+address: 163
+command: 95
+#

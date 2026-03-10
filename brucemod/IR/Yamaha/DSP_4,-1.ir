@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: >> DVD
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: << DVD
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 84
+#
+name: +10 DVD
+type: parsed
+protocol: rc6
+address: 4
+command: 120
+#

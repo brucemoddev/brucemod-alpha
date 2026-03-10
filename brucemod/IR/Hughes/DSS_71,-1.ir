@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 106
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 113
+#

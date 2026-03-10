@@ -1,0 +1,375 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: KEY_9
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: ST/MONO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 3
+#
+name: KEY_TEXT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 6
+#
+name: KEY_2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: COLOUR-SELECT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 12
+#
+name: STATUS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 13
+#
+name: KEY_LAST
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: KEY_3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: KEY_1-
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 17
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: AUDIO-SELECT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 19
+#
+name: HOLD
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 21
+#
+name: KEY_4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: KEY_2-
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 25
+#
+name: CANCEL/TIME
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 29
+#
+name: STORE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 30
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 31
+#
+name: KEY_5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 34
+#
+name: KEY_MODE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 37
+#
+name: INDEX
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 38
+#
+name: KEY_BLUE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 39
+#
+name: KEY_6
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 42
+#
+name: SIZE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 44
+#
+name: TURNRIGHT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 45
+#
+name: S\\*\\*\\*\\*
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 46
+#
+name: KEY_RED
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 47
+#
+name: KEY_7
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: KEY_MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 50
+#
+name: KEY_VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 51
+#
+name: TURNLEFT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 53
+#
+name: BROWSE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 54
+#
+name: KEY_GREEN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: INPUT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: KEY_AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 59
+#
+name: REVEAL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 62
+#
+name: KEY_YELLOW
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 63
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: PRESET
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 69
+#
+name: DEMO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 70
+#
+name: KEY_LEFT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: PREVMENU
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 75
+#
+name: KEY_MENU
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: REALNAME
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 91
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 95
+#
+name: KEY_UP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 100
+#
+name: AFT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 101
+#
+name: STILL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 103
+#
+name: KEY_DOWN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 108
+#
+name: KEY_NEXT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 109
+#
+name: POSITION
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 110
+#
+name: DEGAUSS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 115
+#
+name: BAND
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 117
+#
+name: PIP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 119
+#
+name: KEY_OK
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 123
+#
+name: EXCHANGE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 127
+#

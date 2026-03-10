@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: START/STOP
+type: parsed
+protocol: sharp_1
+address: 19
+command: 16
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sharp_1
+address: 19
+command: 33
+#
+name: KEY_PLAY
+type: parsed
+protocol: sharp_1
+address: 19
+command: 34
+#
+name: KEY_REWIND
+type: parsed
+protocol: sharp_1
+address: 19
+command: 35
+#
+name: F.ADV/STROBE
+type: parsed
+protocol: sharp_1
+address: 19
+command: 36
+#
+name: PAUSE/STILL
+type: parsed
+protocol: sharp_1
+address: 19
+command: 37
+#
+name: KEY_STOP
+type: parsed
+protocol: sharp_1
+address: 19
+command: 39
+#
+name: KEY_SLOW
+type: parsed
+protocol: sharp_1
+address: 19
+command: 41
+#
+name: ZOOM_T
+type: parsed
+protocol: sharp_1
+address: 19
+command: 69
+#
+name: ZOOM_W
+type: parsed
+protocol: sharp_1
+address: 19
+command: 70
+#
+name: MODE_ON/OFF
+type: parsed
+protocol: sharp_1
+address: 19
+command: 145
+#
+name: MARK_IN/OUT
+type: parsed
+protocol: sharp_1
+address: 19
+command: 146
+#
+name: MARK_DELETE
+type: parsed
+protocol: sharp_1
+address: 19
+command: 147
+#
+name: KEY_PLAY
+type: parsed
+protocol: sharp_1
+address: 19
+command: 148
+#
+name: KEY_POWER
+type: parsed
+protocol: sharp_1
+address: 19
+command: 149
+#
+name: DISPLAY_ON/OFF
+type: parsed
+protocol: sharp_1
+address: 19
+command: 150
+#
+name: MEMORY
+type: parsed
+protocol: sharp_1
+address: 19
+command: 151
+#
+name: RESET
+type: parsed
+protocol: sharp_1
+address: 19
+command: 152
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sharp_1
+address: 19
+command: 164
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sharp_1
+address: 19
+command: 165
+#

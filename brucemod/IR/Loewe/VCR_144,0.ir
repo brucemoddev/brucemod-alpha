@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOPP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 0
+#
+name: T
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 2
+#
+name: T
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 6
+#
+name: RECORD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 10
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 25
+#
+name: LJUD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 51
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 61
+#
+name: OOOO
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 84
+#
+name: TIMER
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 180
+#

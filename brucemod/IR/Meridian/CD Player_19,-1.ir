@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 19
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 19
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 19
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 19
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 19
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 19
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 19
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 19
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 19
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 19
+command: 9
+#
+name: *
+type: parsed
+protocol: rc5
+address: 19
+command: 10
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 19
+command: 11
+#
+name: OFF
+type: parsed
+protocol: rc5
+address: 19
+command: 12
+#
+name: STANDBY
+type: parsed
+protocol: rc5
+address: 19
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 19
+command: 13
+#
+name: PRESET
+type: parsed
+protocol: rc5
+address: 19
+command: 14
+#
+name: VOLUME UP
+type: parsed
+protocol: rc5
+address: 19
+command: 16
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 19
+command: 16
+#
+name: VOLUME DOWN
+type: parsed
+protocol: rc5
+address: 19
+command: 17
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 19
+command: 17
+#
+name: REPEAT
+type: parsed
+protocol: rc5
+address: 19
+command: 29
+#
+name: NEXT
+type: parsed
+protocol: rc5
+address: 19
+command: 32
+#
+name: PREVIOUS
+type: parsed
+protocol: rc5
+address: 19
+command: 33
+#
+name: PREV
+type: parsed
+protocol: rc5
+address: 19
+command: 33
+#
+name: RADIO
+type: parsed
+protocol: rc5
+address: 19
+command: 36
+#
+name: TAPE 1
+type: parsed
+protocol: rc5
+address: 19
+command: 37
+#
+name: TAPE 2
+type: parsed
+protocol: rc5
+address: 19
+command: 38
+#
+name: TAPE 3
+type: parsed
+protocol: rc5
+address: 19
+command: 39
+#
+name: LINE
+type: parsed
+protocol: rc5
+address: 19
+command: 40
+#
+name: STORE
+type: parsed
+protocol: rc5
+address: 19
+command: 41
+#
+name: VIDEO
+type: parsed
+protocol: rc5
+address: 19
+command: 42
+#
+name: LP
+type: parsed
+protocol: rc5
+address: 19
+command: 43
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 19
+command: 44
+#
+name: STORE
+type: parsed
+protocol: rc5
+address: 19
+command: 46
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 19
+command: 48
+#
+name: CLEAR
+type: parsed
+protocol: rc5
+address: 19
+command: 49
+#
+name: CANCEL
+type: parsed
+protocol: rc5
+address: 19
+command: 49
+#
+name: SCAN <<
+type: parsed
+protocol: rc5
+address: 19
+command: 50
+#
+name: <<
+type: parsed
+protocol: rc5
+address: 19
+command: 50
+#
+name: TRACK
+type: parsed
+protocol: rc5
+address: 19
+command: 51
+#
+name: SCAN >>
+type: parsed
+protocol: rc5
+address: 19
+command: 52
+#
+name: >>
+type: parsed
+protocol: rc5
+address: 19
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 19
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 19
+command: 54
+#
+name: PHASE
+type: parsed
+protocol: rc5
+address: 19
+command: 60
+#
+name: MENU UP
+type: parsed
+protocol: rc5
+address: 19
+command: 80
+#
+name: MENU DOWN
+type: parsed
+protocol: rc5
+address: 19
+command: 81
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 19
+command: 82
+#
+name: RETURN
+type: parsed
+protocol: rc5
+address: 19
+command: 83
+#
+name: MENU LEFT
+type: parsed
+protocol: rc5
+address: 19
+command: 85
+#
+name: MENU RIGHT
+type: parsed
+protocol: rc5
+address: 19
+command: 86
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 19
+command: 87
+#
+name: DSP
+type: parsed
+protocol: rc5
+address: 19
+command: 93
+#
+name: TOP MENU
+type: parsed
+protocol: rc5
+address: 19
+command: 121
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 19
+command: 122
+#

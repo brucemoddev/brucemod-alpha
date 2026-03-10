@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PowerOn
+type: parsed
+protocol: Proton
+address: 240
+command: 65
+#
+name: PowerOff
+type: parsed
+protocol: Proton
+address: 240
+command: 66
+#
+name: Keystone
+type: parsed
+protocol: Proton
+address: 240
+command: 67
+#
+name: Computer
+type: parsed
+protocol: Proton
+address: 240
+command: 96
+#
+name: Component
+type: parsed
+protocol: Proton
+address: 240
+command: 100
+#
+name: Video
+type: parsed
+protocol: Proton
+address: 240
+command: 101
+#
+name: S-Video
+type: parsed
+protocol: Proton
+address: 240
+command: 102
+#
+name: HDMI
+type: parsed
+protocol: Proton
+address: 240
+command: 112
+#
+name: Left
+type: parsed
+protocol: Proton
+address: 240
+command: 128
+#
+name: Right
+type: parsed
+protocol: Proton
+address: 240
+command: 129
+#
+name: Up
+type: parsed
+protocol: Proton
+address: 240
+command: 130
+#
+name: Down
+type: parsed
+protocol: Proton
+address: 240
+command: 131
+#
+name: Menu
+type: parsed
+protocol: Proton
+address: 240
+command: 134
+#
+name: Enter
+type: parsed
+protocol: Proton
+address: 240
+command: 135
+#
+name: AutoPosition
+type: parsed
+protocol: Proton
+address: 240
+command: 162
+#
+name: Blank
+type: parsed
+protocol: Proton
+address: 240
+command: 166
+#
+name: Contrast
+type: parsed
+protocol: Proton
+address: 240
+command: 208
+#
+name: Brightness
+type: parsed
+protocol: Proton
+address: 240
+command: 209
+#
+name: ColorTemp
+type: parsed
+protocol: Proton
+address: 240
+command: 212
+#
+name: Gamma
+type: parsed
+protocol: Proton
+address: 240
+command: 213
+#
+name: Sharpness
+type: parsed
+protocol: Proton
+address: 240
+command: 214
+#
+name: Aspect
+type: parsed
+protocol: Proton
+address: 240
+command: 226
+#
+name: M1
+type: parsed
+protocol: Proton
+address: 240
+command: 228
+#
+name: M2
+type: parsed
+protocol: Proton
+address: 240
+command: 229
+#
+name: M3
+type: parsed
+protocol: Proton
+address: 240
+command: 230
+#

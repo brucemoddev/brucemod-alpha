@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GUIDE
+type: parsed
+protocol: sony15
+address: 183
+command: 110
+#

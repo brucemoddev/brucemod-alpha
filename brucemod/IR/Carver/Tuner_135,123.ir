@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 135.123
+command: 8
+#
+name: PAUSE/STOP
+type: parsed
+protocol: nec1
+address: 135.123
+command: 9
+#
+name: SKIP +
+type: parsed
+protocol: nec1
+address: 135.123
+command: 10
+#
+name: SKIP -
+type: parsed
+protocol: nec1
+address: 135.123
+command: 11
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.123
+command: 64
+#
+name: TUNING UP
+type: parsed
+protocol: nec1
+address: 135.123
+command: 70
+#
+name: TUNE UP
+type: parsed
+protocol: nec1
+address: 135.123
+command: 70
+#
+name: TUNING DOWN
+type: parsed
+protocol: nec1
+address: 135.123
+command: 71
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec1
+address: 135.123
+command: 71
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 135.123
+command: 72
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 135.123
+command: 73
+#
+name: 1/11
+type: parsed
+protocol: nec1
+address: 135.123
+command: 74
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.123
+command: 74
+#
+name: 2/12
+type: parsed
+protocol: nec1
+address: 135.123
+command: 75
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 135.123
+command: 75
+#
+name: 3/13
+type: parsed
+protocol: nec1
+address: 135.123
+command: 76
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 135.123
+command: 76
+#
+name: 4/14
+type: parsed
+protocol: nec1
+address: 135.123
+command: 77
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.123
+command: 77
+#
+name: 5/15
+type: parsed
+protocol: nec1
+address: 135.123
+command: 78
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.123
+command: 78
+#
+name: 6/16
+type: parsed
+protocol: nec1
+address: 135.123
+command: 79
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.123
+command: 79
+#
+name: 7/17
+type: parsed
+protocol: nec1
+address: 135.123
+command: 80
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.123
+command: 80
+#
+name: 8/18
+type: parsed
+protocol: nec1
+address: 135.123
+command: 81
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 135.123
+command: 81
+#
+name: 9/19
+type: parsed
+protocol: nec1
+address: 135.123
+command: 88
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 135.123
+command: 88
+#
+name: 10/20
+type: parsed
+protocol: nec1
+address: 135.123
+command: 89
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 135.123
+command: 89
+#
+name: ACCD
+type: parsed
+protocol: nec1
+address: 135.123
+command: 95
+#

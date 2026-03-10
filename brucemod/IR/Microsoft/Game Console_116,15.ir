@@ -1,0 +1,369 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON/OFF
+type: parsed
+protocol: mce
+address: 116.15
+command: 12
+#
+name: ON/OFF
+type: parsed
+protocol: mce
+address: 116.15
+command: 12
+#
+name: START
+type: parsed
+protocol: mce
+address: 116.15
+command: 13
+#
+name: WINDOWS MEDIA CENTER
+type: parsed
+protocol: mce
+address: 116.15
+command: 13
+#
+name: INFO
+type: parsed
+protocol: mce
+address: 116.15
+command: 15
+#
+name: A (GREEN)
+type: parsed
+protocol: mce
+address: 116.15
+command: 18
+#
+name: A
+type: parsed
+protocol: mce
+address: 116.15
+command: 18
+#
+name: CH UP
+type: parsed
+protocol: mce
+address: 116.15
+command: 18
+#
+name: N
+type: parsed
+protocol: mce
+address: 116.15
+command: 18
+#
+name: X (BLUE)
+type: parsed
+protocol: mce
+address: 116.15
+command: 19
+#
+name: CH DOWN
+type: parsed
+protocol: mce
+address: 116.15
+command: 19
+#
+name: X
+type: parsed
+protocol: mce
+address: 116.15
+command: 19
+#
+name: 
+type: parsed
+protocol: mce
+address: 116.15
+command: 19
+#
+name: SCAN >>
+type: parsed
+protocol: mce
+address: 116.15
+command: 20
+#
+name: FAST FOWARD
+type: parsed
+protocol: mce
+address: 116.15
+command: 20
+#
+name: SEARCH FORWARD
+type: parsed
+protocol: mce
+address: 116.15
+command: 20
+#
+name: SCAN <<
+type: parsed
+protocol: mce
+address: 116.15
+command: 21
+#
+name: REWIND
+type: parsed
+protocol: mce
+address: 116.15
+command: 21
+#
+name: SEARCH BACK
+type: parsed
+protocol: mce
+address: 116.15
+command: 21
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 116.15
+command: 22
+#
+name: REC
+type: parsed
+protocol: mce
+address: 116.15
+command: 23
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 116.15
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: mce
+address: 116.15
+command: 24
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 116.15
+command: 25
+#
+name: NEXT
+type: parsed
+protocol: mce
+address: 116.15
+command: 26
+#
+name: SKIP +
+type: parsed
+protocol: mce
+address: 116.15
+command: 26
+#
+name: SKIP FORWARD
+type: parsed
+protocol: mce
+address: 116.15
+command: 26
+#
+name: PREV
+type: parsed
+protocol: mce
+address: 116.15
+command: 27
+#
+name: SKIP -
+type: parsed
+protocol: mce
+address: 116.15
+command: 27
+#
+name: SKIP BACK
+type: parsed
+protocol: mce
+address: 116.15
+command: 27
+#
+name: CURSOR UP
+type: parsed
+protocol: mce
+address: 116.15
+command: 30
+#
+name: UP
+type: parsed
+protocol: mce
+address: 116.15
+command: 30
+#
+name: CURSOR DOWN
+type: parsed
+protocol: mce
+address: 116.15
+command: 31
+#
+name: DOWN
+type: parsed
+protocol: mce
+address: 116.15
+command: 31
+#
+name: CURSOR LEFT
+type: parsed
+protocol: mce
+address: 116.15
+command: 32
+#
+name: LEFT
+type: parsed
+protocol: mce
+address: 116.15
+command: 32
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: mce
+address: 116.15
+command: 33
+#
+name: RIGHT
+type: parsed
+protocol: mce
+address: 116.15
+command: 33
+#
+name: CURSOR SELECT
+type: parsed
+protocol: mce
+address: 116.15
+command: 34
+#
+name: OK
+type: parsed
+protocol: mce
+address: 116.15
+command: 34
+#
+name: CURSOR OK
+type: parsed
+protocol: mce
+address: 116.15
+command: 34
+#
+name: BACK
+type: parsed
+protocol: mce
+address: 116.15
+command: 35
+#
+name: BACK <
+type: parsed
+protocol: mce
+address: 116.15
+command: 35
+#
+name: DVD MENU
+type: parsed
+protocol: mce
+address: 116.15
+command: 36
+#
+name: B (RED)
+type: parsed
+protocol: mce
+address: 116.15
+command: 37
+#
+name: B
+type: parsed
+protocol: mce
+address: 116.15
+command: 37
+#
+name: LIVE TV
+type: parsed
+protocol: mce
+address: 116.15
+command: 37
+#
+name: D
+type: parsed
+protocol: mce
+address: 116.15
+command: 37
+#
+name: Y (YELLOW)
+type: parsed
+protocol: mce
+address: 116.15
+command: 38
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 116.15
+command: 38
+#
+name: Y
+type: parsed
+protocol: mce
+address: 116.15
+command: 38
+#
+name: Y / GUL
+type: parsed
+protocol: mce
+address: 116.15
+command: 38
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: mce
+address: 116.15
+command: 40
+#
+name: DISPLAY
+type: parsed
+protocol: mce
+address: 116.15
+command: 79
+#
+name: DISLPLAY
+type: parsed
+protocol: mce
+address: 116.15
+command: 79
+#
+name: DISPLAY MENU
+type: parsed
+protocol: mce
+address: 116.15
+command: 79
+#
+name: TITLE
+type: parsed
+protocol: mce
+address: 116.15
+command: 81
+#
+name: TITLE MENU
+type: parsed
+protocol: mce
+address: 116.15
+command: 81
+#
+name: X
+type: parsed
+protocol: mce
+address: 116.15
+command: 100
+#
+name: XBOX
+type: parsed
+protocol: mce
+address: 116.15
+command: 100
+#
+name: XBOX MENU
+type: parsed
+protocol: mce
+address: 116.15
+command: 100
+#

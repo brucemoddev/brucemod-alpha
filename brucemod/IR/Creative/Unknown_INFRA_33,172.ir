@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 33.172
+command: 8
+#
+name: MOUSE
+type: parsed
+protocol: nec
+address: 33.172
+command: 16
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 33.172
+command: 24
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 33.172
+command: 32
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 33.172
+command: 40
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 33.172
+command: 48
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 33.172
+command: 64
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 33.172
+command: 72
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 33.172
+command: 80
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 33.172
+command: 96
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 33.172
+command: 104
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 33.172
+command: 112
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 33.172
+command: 128
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 33.172
+command: 136
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 33.172
+command: 144
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 33.172
+command: 160
+#
+name: SHIFT
+type: parsed
+protocol: nec
+address: 33.172
+command: 168
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 33.172
+command: 176
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 33.172
+command: 192
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 33.172
+command: 200
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 33.172
+command: 208
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 33.172
+command: 224
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 33.172
+command: 232
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 33.172
+command: 240
+#

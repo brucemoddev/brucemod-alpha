@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DSL
+type: parsed
+protocol: sony12
+address: 12
+command: 49
+#
+name: SURROUND ON/OFF
+type: parsed
+protocol: sony12
+address: 12
+command: 63
+#
+name: SURROUND MODE
+type: parsed
+protocol: sony12
+address: 12
+command: 70
+#
+name: MODE
+type: parsed
+protocol: sony12
+address: 12
+command: 119
+#
+name: CURSOR UP
+type: parsed
+protocol: sony12
+address: 12
+command: 120
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony12
+address: 12
+command: 121
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony12
+address: 12
+command: 122
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony12
+address: 12
+command: 123
+#

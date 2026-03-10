@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 14
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 14
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 14
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 14
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 14
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 14
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 14
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 14
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 14
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 14
+command: 9
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 14
+command: 11
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 14
+command: 12
+#
+name: OUTPUT
+type: parsed
+protocol: rc5
+address: 14
+command: 13
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 14
+command: 14
+#
+name: HOME
+type: parsed
+protocol: rc5
+address: 14
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 14
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 14
+command: 17
+#
+name: INFO
+type: parsed
+protocol: rc5
+address: 14
+command: 18
+#
+name: DELETE
+type: parsed
+protocol: rc5
+address: 14
+command: 19
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 14
+command: 20
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 14
+command: 21
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 14
+command: 22
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 14
+command: 23
+#
+name: ALBUM
+type: parsed
+protocol: rc5
+address: 14
+command: 24
+#
+name: ARTIST
+type: parsed
+protocol: rc5
+address: 14
+command: 25
+#
+name: GENRE
+type: parsed
+protocol: rc5
+address: 14
+command: 26
+#
+name: PLAYLIST
+type: parsed
+protocol: rc5
+address: 14
+command: 27
+#
+name: REPEAT
+type: parsed
+protocol: rc5
+address: 14
+command: 28
+#
+name: RANDOM
+type: parsed
+protocol: rc5
+address: 14
+command: 29
+#
+name: TRACK +
+type: parsed
+protocol: rc5
+address: 14
+command: 32
+#
+name: TRACK -
+type: parsed
+protocol: rc5
+address: 14
+command: 33
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 14
+command: 48
+#
+name: SELECT
+type: parsed
+protocol: rc5
+address: 14
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 14
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 14
+command: 54
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 14
+command: 55
+#
+name: DEFAULT O/P
+type: parsed
+protocol: rc5
+address: 14
+command: 56
+#
+name: DISC +
+type: parsed
+protocol: rc5
+address: 14
+command: 57
+#
+name: DISC -
+type: parsed
+protocol: rc5
+address: 14
+command: 58
+#

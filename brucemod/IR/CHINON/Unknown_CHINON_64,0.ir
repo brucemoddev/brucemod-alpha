@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: aiwa
+address: 64.0
+command: 0
+#
+name: KEY_NEXT
+type: parsed
+protocol: aiwa
+address: 64.0
+command: 1
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: aiwa
+address: 64.0
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 64.0
+command: 3
+#

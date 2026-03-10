@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 121
+command: 1
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 121
+command: 2
+#
+name: PAUSE/STOP
+type: parsed
+protocol: nec
+address: 121
+command: 3
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 121
+command: 4
+#
+name: INDEX-
+type: parsed
+protocol: nec
+address: 121
+command: 5
+#
+name: INDEX+
+type: parsed
+protocol: nec
+address: 121
+command: 6
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 121
+command: 7
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 121
+command: 8
+#
+name: TIME_DISPLAY
+type: parsed
+protocol: nec
+address: 121
+command: 10
+#
+name: PROGRAM
+type: parsed
+protocol: nec
+address: 121
+command: 12
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 121
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 121
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 121
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 121
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 121
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 121
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 121
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 121
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 121
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 121
+command: 25
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 121
+command: 26
+#

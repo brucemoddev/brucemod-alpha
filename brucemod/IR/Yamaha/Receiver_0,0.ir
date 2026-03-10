@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SIRIUS: A
+type: parsed
+protocol: nec1_f16
+address: 0.0
+command: 1
+#

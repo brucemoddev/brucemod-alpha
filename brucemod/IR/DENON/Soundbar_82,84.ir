@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 131
+#
+name: Mute
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 134
+#
+name: tv
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 153
+#
+name: aux
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 136
+#
+name: BLUETOOTH
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 192
+#
+name: BASS+
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 193
+#
+name: BASS-
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 194
+#
+name: Vol_Up
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 132
+#
+name: VOL_DN
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 133
+#
+name: movie
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 163
+#
+name: night
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 173
+#
+name: MUSIC
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 165
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 195
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 196
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 82.84
+command: 197
+#

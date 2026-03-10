@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Sleep
+type: parsed
+protocol: sony15
+address: 16.0
+command: 96
+#
+name: BALANCE LEFT
+type: parsed
+protocol: sony15
+address: 16.0
+command: 38
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: sony15
+address: 16.0
+command: 39
+#
+name: Power
+type: parsed
+protocol: sony15
+address: 16.0
+command: 21
+#
+name: CENTER +
+type: parsed
+protocol: sony15
+address: 144.0
+command: 84
+#
+name: CENTER -
+type: parsed
+protocol: sony15
+address: 144.0
+command: 85
+#
+name: REAR +
+type: parsed
+protocol: sony15
+address: 144.0
+command: 78
+#
+name: REAR -
+type: parsed
+protocol: sony15
+address: 144.0
+command: 79
+#
+name: GAME
+type: parsed
+protocol: sony15
+address: 16.0
+command: 124
+#
+name: TAPE 
+type: parsed
+protocol: sony15
+address: 16.0
+command: 35
+#
+name: display
+type: parsed
+protocol: sony15
+address: 16.0
+command: 75
+#
+name: TUNING +
+type: parsed
+protocol: sony20
+address: 58.7
+command: 52
+#
+name: PRESET +
+type: parsed
+protocol: sony20
+address: 58.7
+command: 49
+#
+name: ALBUM +
+type: parsed
+protocol: sony15
+address: 17.0
+command: 103
+#
+name: DISC +
+type: parsed
+protocol: sony15
+address: 17.0
+command: 62
+#
+name: PRESET EQ
+type: parsed
+protocol: sony15
+address: 144.0
+command: 110
+#
+name: GROOVE
+type: parsed
+protocol: sony15
+address: 16.0
+command: 122
+#
+name: Vol_Up
+type: parsed
+protocol: sony15
+address: 16.0
+command: 18
+#
+name: VOL_DN
+type: parsed
+protocol: sony15
+address: 16.0
+command: 19
+#
+name: Surround
+type: parsed
+protocol: sony15
+address: 144.0
+command: 64
+#
+name: DISC -
+type: parsed
+protocol: sony15
+address: 17.0
+command: 61
+#
+name: ALBUM -
+type: parsed
+protocol: sony15
+address: 17.0
+command: 102
+#
+name: TUNING -
+type: parsed
+protocol: sony20
+address: 58.7
+command: 51
+#
+name: PRESET -
+type: parsed
+protocol: sony20
+address: 58.7
+command: 48
+#
+name: Play
+type: parsed
+protocol: sony20
+address: 58.7
+command: 50
+#
+name: Pause
+type: parsed
+protocol: sony20
+address: 58.7
+command: 57
+#
+name: Stop
+type: parsed
+protocol: sony20
+address: 58.7
+command: 56
+#
+name: TUNER/BAND
+type: parsed
+protocol: sony15
+address: 16.0
+command: 15
+#
+name: CD 
+type: parsed
+protocol: sony15
+address: 16.0
+command: 37
+#
+name: TEST TONE
+type: parsed
+protocol: sony15
+address: 144.0
+command: 74
+#
+name: 5.1 CH
+type: parsed
+protocol: sony15
+address: 16.0
+command: 125
+#
+name: VIDEO (MD)
+type: parsed
+protocol: sony15
+address: 16.0
+command: 34
+#
+name: PRO LOGIC
+type: parsed
+protocol: sony15
+address: 144.0
+command: 66
+#

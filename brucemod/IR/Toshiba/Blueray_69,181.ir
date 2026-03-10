@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 69.181
+command: 192
+#
+name: setup
+type: parsed
+protocol: nec2
+address: 69.181
+command: 32
+#
+name: eject
+type: parsed
+protocol: nec2
+address: 69.181
+command: 193
+#
+name: Ok
+type: parsed
+protocol: nec2
+address: 69.181
+command: 33
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 69.181
+command: 128
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 69.181
+command: 129
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 69.181
+command: 81
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 69.181
+command: 77
+#
+name: return
+type: parsed
+protocol: nec2
+address: 69.181
+command: 34
+#
+name: Menu
+type: parsed
+protocol: nec2
+address: 69.181
+command: 132
+#
+name: display
+type: parsed
+protocol: nec2
+address: 69.181
+command: 22
+#
+name: TOP MENU
+type: parsed
+protocol: nec2
+address: 69.181
+command: 222
+#
+name: Play
+type: parsed
+protocol: nec2
+address: 69.181
+command: 194
+#
+name: Stop
+type: parsed
+protocol: nec2
+address: 69.181
+command: 20
+#
+name: Back
+type: parsed
+protocol: nec2
+address: 69.181
+command: 35
+#
+name: forward
+type: parsed
+protocol: nec2
+address: 69.181
+command: 36
+#
+name: rewind
+type: parsed
+protocol: nec2
+address: 69.181
+command: 25
+#
+name: FF
+type: parsed
+protocol: nec2
+address: 69.181
+command: 19
+#
+name: MC
+type: parsed
+protocol: nec2
+address: 69.181
+command: 197
+#
+name: Audio
+type: parsed
+protocol: nec2
+address: 69.181
+command: 39
+#
+name: subtitle
+type: parsed
+protocol: nec2
+address: 69.181
+command: 40
+#
+name: PIP AUDIO
+type: parsed
+protocol: nec2
+address: 69.181
+command: 57
+#
+name: ANGLE
+type: parsed
+protocol: nec2
+address: 69.181
+command: 41
+#
+name: CLEAR
+type: parsed
+protocol: nec2
+address: 69.181
+command: 239
+#
+name: SEARCH
+type: parsed
+protocol: nec2
+address: 69.181
+command: 38
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 69.181
+command: 43
+#
+name: A B
+type: parsed
+protocol: nec2
+address: 69.181
+command: 44
+#
+name: hdmi
+type: parsed
+protocol: nec2
+address: 69.181
+command: 159
+#
+name: OSC
+type: parsed
+protocol: nec2
+address: 69.181
+command: 16
+#
+name: Pip
+type: parsed
+protocol: nec2
+address: 69.181
+command: 195
+#
+name: program
+type: parsed
+protocol: nec2
+address: 69.181
+command: 52
+#
+name: Digest
+type: parsed
+protocol: nec2
+address: 69.181
+command: 53
+#
+name: ZOOM
+type: parsed
+protocol: nec2
+address: 69.181
+command: 55
+#
+name: BookMark
+type: parsed
+protocol: nec2
+address: 69.181
+command: 54
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 69.181
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 69.181
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 69.181
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 69.181
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 69.181
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 69.181
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 69.181
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 69.181
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 69.181
+command: 9
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 69.181
+command: 10
+#
+name: Next
+type: parsed
+protocol: nec2
+address: 69.181
+command: 13
+#

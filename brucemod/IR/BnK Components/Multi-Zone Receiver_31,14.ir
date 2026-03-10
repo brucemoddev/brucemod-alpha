@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK033 POWER OFF
+type: parsed
+protocol: nec2
+address: 31.14
+command: 1
+#
+name: BK033 POWER ON
+type: parsed
+protocol: nec2
+address: 31.14
+command: 2
+#
+name: BK033 MUTE
+type: parsed
+protocol: nec2
+address: 31.14
+command: 3
+#
+name: BK033 INPUT 1
+type: parsed
+protocol: nec2
+address: 31.14
+command: 5
+#
+name: BK033 INPUT 3
+type: parsed
+protocol: nec2
+address: 31.14
+command: 6
+#
+name: BK033 INPUT 8
+type: parsed
+protocol: nec2
+address: 31.14
+command: 7
+#
+name: BK033 INPUT 2
+type: parsed
+protocol: nec2
+address: 31.14
+command: 9
+#
+name: BK033 INPUT 7
+type: parsed
+protocol: nec2
+address: 31.14
+command: 11
+#
+name: BK033 INPUT 4
+type: parsed
+protocol: nec2
+address: 31.14
+command: 13
+#
+name: BK033 TUNER 1
+type: parsed
+protocol: nec2
+address: 31.14
+command: 14
+#
+name: BK033 INPUT 5
+type: parsed
+protocol: nec2
+address: 31.14
+command: 15
+#
+name: BK033 STATION-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 23
+#
+name: BK033 STATION+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 24
+#
+name: BK033 TUNE-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 27
+#
+name: BK033 TUNE+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 28
+#
+name: BK033 LEFT
+type: parsed
+protocol: nec2
+address: 31.14
+command: 31
+#
+name: BK033 RIGHT
+type: parsed
+protocol: nec2
+address: 31.14
+command: 32
+#
+name: BK033 VOLUME-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 35
+#
+name: BK033 VOLUME+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 36
+#
+name: BK033 NUMBER +10
+type: parsed
+protocol: nec2
+address: 31.14
+command: 41
+#
+name: BK033 EQ
+type: parsed
+protocol: nec2
+address: 31.14
+command: 42
+#
+name: BK033 DOWN
+type: parsed
+protocol: nec2
+address: 31.14
+command: 45
+#
+name: BK033 UP
+type: parsed
+protocol: nec2
+address: 31.14
+command: 46
+#
+name: BK033 ENTER
+type: parsed
+protocol: nec2
+address: 31.14
+command: 48
+#
+name: BK033 NUMBER 1
+type: parsed
+protocol: nec2
+address: 31.14
+command: 49
+#
+name: BK033 NUMBER 2
+type: parsed
+protocol: nec2
+address: 31.14
+command: 50
+#
+name: BK033 NUMBER 3
+type: parsed
+protocol: nec2
+address: 31.14
+command: 51
+#
+name: BK033 NUMBER 4
+type: parsed
+protocol: nec2
+address: 31.14
+command: 53
+#
+name: BK033 NUMBER 5
+type: parsed
+protocol: nec2
+address: 31.14
+command: 54
+#
+name: BK033 NUMBER 6
+type: parsed
+protocol: nec2
+address: 31.14
+command: 55
+#
+name: BK033 NUMBER 7
+type: parsed
+protocol: nec2
+address: 31.14
+command: 57
+#
+name: BK033 NUMBER 8
+type: parsed
+protocol: nec2
+address: 31.14
+command: 58
+#
+name: BK033 NUMBER 9
+type: parsed
+protocol: nec2
+address: 31.14
+command: 59
+#
+name: BK033 NUMBER 0
+type: parsed
+protocol: nec2
+address: 31.14
+command: 62
+#
+name: BK033 SAVE
+type: parsed
+protocol: nec2
+address: 31.14
+command: 64
+#
+name: BK033 TUNER 3
+type: parsed
+protocol: nec2
+address: 31.14
+command: 68
+#
+name: BK033 INPUT 6
+type: parsed
+protocol: nec2
+address: 31.14
+command: 74
+#
+name: BK033 PRESET+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 75
+#
+name: BK033 D-IN
+type: parsed
+protocol: nec2
+address: 31.14
+command: 90
+#
+name: BK033 BASS-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 101
+#
+name: BK033 SOURCE+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 102
+#
+name: BK033 INPUT 9
+type: parsed
+protocol: nec2
+address: 31.14
+command: 110
+#
+name: BK033 AM
+type: parsed
+protocol: nec2
+address: 31.14
+command: 118
+#
+name: BK033 TREBLE-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 121
+#
+name: BK033 VIDEO-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 122
+#
+name: BK033 EXIT
+type: parsed
+protocol: nec2
+address: 31.14
+command: 125
+#
+name: BK033 TUNER 2
+type: parsed
+protocol: nec2
+address: 31.14
+command: 132
+#
+name: BK033 FM
+type: parsed
+protocol: nec2
+address: 31.14
+command: 142
+#
+name: BK033 SOURCE-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 166
+#
+name: BK033 SLEEP
+type: parsed
+protocol: nec2
+address: 31.14
+command: 179
+#
+name: BK033 PRESET-
+type: parsed
+protocol: nec2
+address: 31.14
+command: 198
+#
+name: BK033 LOUDNESS
+type: parsed
+protocol: nec2
+address: 31.14
+command: 207
+#
+name: BK033 AUTO LEVEL
+type: parsed
+protocol: nec2
+address: 31.14
+command: 228
+#
+name: BK033 BASS+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 229
+#
+name: BK033 TREBLE+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 249
+#
+name: BK033 VIDEO+
+type: parsed
+protocol: nec2
+address: 31.14
+command: 250
+#

@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 184.1
+command: 90
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 184.1
+command: 94
+#
+name: FOLDER NEXT
+type: parsed
+protocol: nec1
+address: 184.1
+command: 145
+#
+name: FOLDER PREV
+type: parsed
+protocol: nec1
+address: 184.1
+command: 146
+#
+name: INPUT SELECTOR
+type: parsed
+protocol: nec1
+address: 184.1
+command: 204
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 184.1
+command: 212
+#
+name: TONE TURN OVER
+type: parsed
+protocol: nec1
+address: 184.1
+command: 213
+#

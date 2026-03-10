@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP []
+type: parsed
+protocol: nec1
+address: 119
+command: 24
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 119
+command: 25
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 119
+command: 26
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 119
+command: 27
+#
+name: SKIP <
+type: parsed
+protocol: nec1
+address: 119
+command: 28
+#
+name: SKIP >
+type: parsed
+protocol: nec1
+address: 119
+command: 29
+#
+name: FFWD >>
+type: parsed
+protocol: nec1
+address: 119
+command: 30
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 119
+command: 31
+#
+name: C/AC
+type: parsed
+protocol: nec1
+address: 119
+command: 75
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 119
+command: 76
+#
+name: REMAIN
+type: parsed
+protocol: nec1
+address: 119
+command: 77
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 119
+command: 78
+#

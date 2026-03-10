@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: nec
+address: 184.5
+command: 79
+#
+name: TUNER MEMORY
+type: parsed
+protocol: nec
+address: 184.5
+command: 79
+#
+name: 
+type: parsed
+protocol: nec1
+address: 184.5
+command: 79
+#
+name: MPEG
+type: parsed
+protocol: nec1
+address: 184.5
+command: 198
+#

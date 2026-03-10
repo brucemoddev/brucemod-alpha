@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: SHIFT_RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: SHIFT_LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: SHIFT_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: SHIFT_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#

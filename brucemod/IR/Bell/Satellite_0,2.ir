@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 0
+#
+name: 1
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 4
+#
+name: 2
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 5
+#
+name: 3
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 6
+#
+name: 4
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 8
+#
+name: 5
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 9
+#
+name: 6
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 10
+#
+name: MENU
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 11
+#
+name: 7
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 12
+#
+name: 8
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 13
+#
+name: 9
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 14
+#
+name: ENTER
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 16
+#
+name: SEL.
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 16
+#
+name: 0
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 17
+#
+name: CANCL
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 18
+#
+name: EXIT
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 18
+#
+name: GUIDE
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 20
+#
+name: VIEW
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 22
+#
+name: MENU RT.
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 24
+#
+name: CH+
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 26
+#
+name: MENU UP
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 26
+#
+name: RECAL
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 27
+#
+name: MENU LEFT
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 28
+#
+name: CH-
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 30
+#
+name: MENU DWN.
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 30
+#
+name: RECRD
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 31
+#
+name: PAUSE
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 33
+#
+name: STOP
+type: parsed
+protocol: dish_netwo
+address: 0.2
+command: 33
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 2
+command: 0
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 2
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 2
+command: 3
+#
+name: KEY_PAUSE
+type: parsed
+protocol: panasonic
+address: 2
+command: 6
+#
+name: KEY_RECORD
+type: parsed
+protocol: panasonic
+address: 2
+command: 8
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 2
+command: 10
+#
+name: f_adv
+type: parsed
+protocol: panasonic
+address: 2
+command: 12
+#
+name: x2
+type: parsed
+protocol: panasonic
+address: 2
+command: 14
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 2
+command: 32
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: panasonic
+address: 2
+command: 34
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: panasonic
+address: 2
+command: 35
+#
+name: vcr/tv
+type: parsed
+protocol: panasonic
+address: 2
+command: 42
+#

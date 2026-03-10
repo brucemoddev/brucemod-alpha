@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: WEST
+type: parsed
+protocol: nec
+address: 131.121
+command: 0
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.121
+command: 1
+#
+name: EAST
+type: parsed
+protocol: nec
+address: 131.121
+command: 3
+#
+name: SKEW-
+type: parsed
+protocol: nec
+address: 131.121
+command: 4
+#
+name: SKEW+
+type: parsed
+protocol: nec
+address: 131.121
+command: 5
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.121
+command: 6
+#
+name: LOCK
+type: parsed
+protocol: nec
+address: 131.121
+command: 7
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.121
+command: 8
+#
+name: FORMAT
+type: parsed
+protocol: nec
+address: 131.121
+command: 9
+#
+name: AUDIO_DE-EMP
+type: parsed
+protocol: nec
+address: 131.121
+command: 10
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.121
+command: 11
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.121
+command: 12
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 131.121
+command: 13
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.121
+command: 15
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.121
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 131.121
+command: 17
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.121
+command: 19
+#
+name: PRG
+type: parsed
+protocol: nec
+address: 131.121
+command: 20
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 131.121
+command: 21
+#
+name: AUDIO_BW
+type: parsed
+protocol: nec
+address: 131.121
+command: 22
+#
+name: ERASE
+type: parsed
+protocol: nec
+address: 131.121
+command: 23
+#
+name: AUDIO-
+type: parsed
+protocol: nec
+address: 131.121
+command: 24
+#
+name: AUDIO+
+type: parsed
+protocol: nec
+address: 131.121
+command: 25
+#
+name: POLAR
+type: parsed
+protocol: nec
+address: 131.121
+command: 26
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 131.121
+command: 27
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.121
+command: 28
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.121
+command: 29
+#
+name: IF_BW
+type: parsed
+protocol: nec
+address: 131.121
+command: 31
+#
+name: KEY_SAT
+type: parsed
+protocol: nec
+address: 131.121
+command: 64
+#
+name: POSIT
+type: parsed
+protocol: nec
+address: 131.121
+command: 68
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.121
+command: 72
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.121
+command: 76
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.121
+command: 80
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.121
+command: 84
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 131.121
+command: 88
+#
+name: CLAMP
+type: parsed
+protocol: nec
+address: 131.121
+command: 92
+#

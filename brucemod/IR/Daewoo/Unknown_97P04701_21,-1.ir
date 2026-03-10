@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: phi
+type: parsed
+protocol: Proton
+address: 21
+command: 10
+#
+name: stop
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: play
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: fwd
+type: parsed
+protocol: Proton
+address: 21
+command: 15
+#
+name: rew
+type: parsed
+protocol: Proton
+address: 21
+command: 16
+#
+name: pause
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: dot
+type: parsed
+protocol: Proton
+address: 21
+command: 18
+#
+name: next
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: power
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: tv_vcr
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: pr+
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: pr-
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: a_sel
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: sp_lp
+type: parsed
+protocol: Proton
+address: 21
+command: 27
+#
+name: TR
+type: parsed
+protocol: Proton
+address: 21
+command: 28
+#
+name: timer
+type: parsed
+protocol: Proton
+address: 21
+command: 29
+#
+name: pal_sec
+type: parsed
+protocol: Proton
+address: 21
+command: 31
+#
+name: eject
+type: parsed
+protocol: Proton
+address: 21
+command: 33
+#
+name: menu
+type: parsed
+protocol: Proton
+address: 21
+command: 34
+#
+name: OK
+type: parsed
+protocol: Proton
+address: 21
+command: 41
+#
+name: left
+type: parsed
+protocol: Proton
+address: 21
+command: 49
+#
+name: index+
+type: parsed
+protocol: Proton
+address: 21
+command: 51
+#
+name: right
+type: parsed
+protocol: Proton
+address: 21
+command: 53
+#
+name: AV
+type: parsed
+protocol: Proton
+address: 21
+command: 54
+#
+name: reset
+type: parsed
+protocol: Proton
+address: 21
+command: 55
+#
+name: show_view
+type: parsed
+protocol: Proton
+address: 21
+command: 57
+#
+name: index-
+type: parsed
+protocol: Proton
+address: 21
+command: 63
+#

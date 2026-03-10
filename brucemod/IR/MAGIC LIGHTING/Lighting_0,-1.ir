@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BRIGHT-
+type: parsed
+protocol: nec1
+address: 0
+command: 4
+#
+name: BRIGHT+
+type: parsed
+protocol: nec1
+address: 0
+command: 5
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 0
+command: 6
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 0
+command: 7
+#
+name: G
+type: parsed
+protocol: nec1
+address: 0
+command: 8
+#
+name: R
+type: parsed
+protocol: nec1
+address: 0
+command: 9
+#
+name: B
+type: parsed
+protocol: nec1
+address: 0
+command: 10
+#
+name: W
+type: parsed
+protocol: nec1
+address: 0
+command: 11
+#
+name: G2
+type: parsed
+protocol: nec1
+address: 0
+command: 12
+#
+name: R2
+type: parsed
+protocol: nec1
+address: 0
+command: 13
+#
+name: G3
+type: parsed
+protocol: nec1
+address: 0
+command: 14
+#
+name: FLASH
+type: parsed
+protocol: nec1
+address: 0
+command: 15
+#
+name: G5
+type: parsed
+protocol: nec1
+address: 0
+command: 16
+#
+name: R5
+type: parsed
+protocol: nec1
+address: 0
+command: 17
+#
+name: B5
+type: parsed
+protocol: nec1
+address: 0
+command: 18
+#
+name: SMOOTH
+type: parsed
+protocol: nec1
+address: 0
+command: 19
+#
+name: G3
+type: parsed
+protocol: nec1
+address: 0
+command: 20
+#
+name: R3
+type: parsed
+protocol: nec1
+address: 0
+command: 21
+#
+name: B3
+type: parsed
+protocol: nec1
+address: 0
+command: 22
+#
+name: STROBE
+type: parsed
+protocol: nec1
+address: 0
+command: 23
+#
+name: G4
+type: parsed
+protocol: nec1
+address: 0
+command: 24
+#
+name: R4
+type: parsed
+protocol: nec1
+address: 0
+command: 25
+#
+name: B4
+type: parsed
+protocol: nec1
+address: 0
+command: 26
+#
+name: FADE
+type: parsed
+protocol: nec1
+address: 0
+command: 27
+#

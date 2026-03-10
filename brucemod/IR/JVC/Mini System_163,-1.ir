@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SLEEP
+type: parsed
+protocol: jvc
+address: 163
+command: 3
+#
+name: WAKE UP/SLEEP
+type: parsed
+protocol: jvc
+address: 163
+command: 3
+#
+name: INPUT: FM/AM
+type: parsed
+protocol: jvc
+address: 163
+command: 11
+#
+name: TUNER
+type: parsed
+protocol: jvc
+address: 163
+command: 11
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 163
+command: 23
+#
+name: FADE MUTING
+type: parsed
+protocol: jvc
+address: 163
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: jvc
+address: 163
+command: 30
+#
+name: VOL+
+type: parsed
+protocol: jvc
+address: 163
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: jvc
+address: 163
+command: 31
+#
+name: VOL-
+type: parsed
+protocol: jvc
+address: 163
+command: 31
+#
+name: 
+type: parsed
+protocol: jvc
+address: 163
+command: 40
+#
+name: BASS
+type: parsed
+protocol: jvc
+address: 163
+command: 49
+#
+name: TREBLE
+type: parsed
+protocol: jvc
+address: 163
+command: 55
+#
+name: SEA MODE
+type: parsed
+protocol: jvc
+address: 163
+command: 56
+#
+name: PHONO
+type: parsed
+protocol: jvc
+address: 163
+command: 60
+#
+name: INPUT: MD/AUX
+type: parsed
+protocol: jvc
+address: 163
+command: 62
+#
+name: AUX
+type: parsed
+protocol: jvc
+address: 163
+command: 62
+#
+name: LIVE-S MODE
+type: parsed
+protocol: jvc
+address: 163
+command: 88
+#
+name: FM MODE
+type: parsed
+protocol: jvc
+address: 163
+command: 90
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 163
+command: 112
+#
+name: AHB PRO
+type: parsed
+protocol: jvc
+address: 163
+command: 117
+#
+name: AUTO PRESET
+type: parsed
+protocol: jvc
+address: 163
+command: 119
+#

@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RANDOM
+type: parsed
+protocol: nec
+address: 131.89
+command: 0
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 131.89
+command: 1
+#
+name: MEMO
+type: parsed
+protocol: nec
+address: 131.89
+command: 3
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.89
+command: 7
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.89
+command: 8
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.89
+command: 9
+#
+name: SEARCH_BACK
+type: parsed
+protocol: nec
+address: 131.89
+command: 10
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.89
+command: 13
+#
+name: SKIP_BACK
+type: parsed
+protocol: nec
+address: 131.89
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 131.89
+command: 15
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.89
+command: 17
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.89
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 131.89
+command: 20
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.89
+command: 21
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.89
+command: 22
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.89
+command: 23
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.89
+command: 24
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.89
+command: 25
+#
+name: SKIP_FORW
+type: parsed
+protocol: nec
+address: 131.89
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.89
+command: 27
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.89
+command: 29
+#
+name: SEARCH_FORW
+type: parsed
+protocol: nec
+address: 131.89
+command: 30
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.89
+command: 31
+#
+name: FM_MODE
+type: parsed
+protocol: nec
+address: 131.89
+command: 64
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 131.89
+command: 65
+#
+name: STOP2
+type: parsed
+protocol: nec
+address: 131.89
+command: 66
+#
+name: BAND
+type: parsed
+protocol: nec
+address: 131.89
+command: 69
+#
+name: FAST_FORW
+type: parsed
+protocol: nec
+address: 131.89
+command: 70
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.89
+command: 72
+#
+name: FAST_BACK
+type: parsed
+protocol: nec
+address: 131.89
+command: 74
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.89
+command: 76
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 131.89
+command: 77
+#
+name: FORW
+type: parsed
+protocol: nec
+address: 131.89
+command: 78
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 131.89
+command: 80
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 131.89
+command: 81
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 131.89
+command: 82
+#
+name: AUTO
+type: parsed
+protocol: nec
+address: 131.89
+command: 84
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 131.89
+command: 86
+#
+name: TUNING_UP
+type: parsed
+protocol: nec
+address: 131.89
+command: 88
+#
+name: TUNING_DOWN
+type: parsed
+protocol: nec
+address: 131.89
+command: 89
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.89
+command: 90
+#

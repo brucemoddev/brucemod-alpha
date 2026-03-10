@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: rca_old
+address: 15
+command: 115
+#
+name: EXIT
+type: parsed
+protocol: rca_old
+address: 15
+command: 116
+#
+name: OFF
+type: parsed
+protocol: rca_old
+address: 15
+command: 117
+#
+name: SOURCE
+type: parsed
+protocol: rca_old
+address: 15
+command: 118
+#
+name: ON
+type: parsed
+protocol: rca_old
+address: 15
+command: 119
+#
+name: 0
+type: parsed
+protocol: rca_old
+address: 15
+command: 124
+#
+name: 1
+type: parsed
+protocol: rca_old
+address: 15
+command: 125
+#
+name: 2
+type: parsed
+protocol: rca_old
+address: 15
+command: 126
+#
+name: 3
+type: parsed
+protocol: rca_old
+address: 15
+command: 127
+#
+name: 4
+type: parsed
+protocol: rca_old
+address: 15
+command: 128
+#
+name: 5
+type: parsed
+protocol: rca_old
+address: 15
+command: 129
+#
+name: 6
+type: parsed
+protocol: rca_old
+address: 15
+command: 130
+#
+name: 7
+type: parsed
+protocol: rca_old
+address: 15
+command: 131
+#
+name: 8
+type: parsed
+protocol: rca_old
+address: 15
+command: 132
+#
+name: 9
+type: parsed
+protocol: rca_old
+address: 15
+command: 133
+#
+name: UP
+type: parsed
+protocol: rca_old
+address: 15
+command: 135
+#
+name: LEFT
+type: parsed
+protocol: rca_old
+address: 15
+command: 138
+#
+name: RIGHT
+type: parsed
+protocol: rca_old
+address: 15
+command: 139
+#
+name: ENTER
+type: parsed
+protocol: rca_old
+address: 15
+command: 140
+#
+name: DOWN
+type: parsed
+protocol: rca_old
+address: 15
+command: 141
+#
+name: INFO
+type: parsed
+protocol: rca_old
+address: 15
+command: 142
+#
+name: GUIDE
+type: parsed
+protocol: rca_old
+address: 15
+command: 143
+#

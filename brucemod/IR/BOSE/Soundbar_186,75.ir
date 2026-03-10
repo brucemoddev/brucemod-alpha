@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 186.75
+command: 76
+#
+name: MUSIC
+type: parsed
+protocol: nec2
+address: 186.75
+command: 179
+#
+name: tv
+type: parsed
+protocol: nec2
+address: 186.75
+command: 14
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec2
+address: 186.75
+command: 129
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 186.75
+command: 3
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 186.75
+command: 2
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 186.75
+command: 1
+#
+name: rewind
+type: parsed
+protocol: nec2
+address: 186.75
+command: 87
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 85
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.75
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.75
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.75
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.75
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.75
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.75
+command: 70
+#

@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY
+type: parsed
+protocol: rc5
+address: 25
+command: 12
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 25
+command: 13
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 13
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 25
+command: 15
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 25
+command: 16
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 25
+command: 17
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 17
+#
+name: AUD1
+type: parsed
+protocol: rc5
+address: 25
+command: 20
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 20
+#
+name: AUD2
+type: parsed
+protocol: rc5
+address: 25
+command: 21
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 21
+#
+name: AUD3
+type: parsed
+protocol: rc5
+address: 25
+command: 22
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 22
+#
+name: MODE >
+type: parsed
+protocol: rc5
+address: 25
+command: 32
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 32
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 25
+command: 34
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 34
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 25
+command: 35
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 35
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 25
+command: 36
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 36
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 25
+command: 37
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 37
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 25
+command: 38
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 38
+#
+name: AV1
+type: parsed
+protocol: rc5
+address: 25
+command: 48
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 48
+#
+name: AV2
+type: parsed
+protocol: rc5
+address: 25
+command: 49
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 49
+#
+name: AV3
+type: parsed
+protocol: rc5
+address: 25
+command: 50
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 50
+#
+name: AV4
+type: parsed
+protocol: rc5
+address: 25
+command: 51
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 51
+#
+name: MODE <
+type: parsed
+protocol: rc5
+address: 25
+command: 56
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 56
+#
+name: THX
+type: parsed
+protocol: rc5
+address: 25
+command: 57
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 57
+#
+name: AUTO
+type: parsed
+protocol: rc5
+address: 25
+command: 60
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 60
+#
+name: COMPR
+type: parsed
+protocol: rc5
+address: 25
+command: 61
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 61
+#

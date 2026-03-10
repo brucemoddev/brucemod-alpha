@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 184
+command: 201
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 184
+command: 203
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 184
+command: 203
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 184
+command: 206
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 184
+command: 207
+#

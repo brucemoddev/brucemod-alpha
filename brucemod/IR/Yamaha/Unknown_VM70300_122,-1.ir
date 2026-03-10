@@ -1,0 +1,315 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: tapePlay
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: tapeSearchBck
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: tapeSearchFwd
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: tapeStop
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: tapeRecPause
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: tapeRecMute
+type: parsed
+protocol: nec
+address: 122
+command: 5
+#
+name: tapeDeckAB
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: tapeDirA
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: cdPlay
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: cdPauseStop
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: cdSkipFwd
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: cdSkipBck
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: cdSearchFwd
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: cdSearchBck
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: phonoPlayCut
+type: parsed
+protocol: nec
+address: 122
+command: 14
+#
+name: vcr1mon
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: tunerPresetPlus
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: tunerPresetMinus
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: tunerABCDE
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: vcr2
+type: parsed
+protocol: nec
+address: 122
+command: 19
+#
+name: phono
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: ldtv
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: tape1
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: masterUp
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: masterDn
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: muting
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: tapeDirB
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: cdDiskSkip
+type: parsed
+protocol: nec
+address: 122
+command: 79
+#
+name: delayUp
+type: parsed
+protocol: nec
+address: 122
+command: 82
+#
+name: delayDn
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: effect
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: eqOnFlat
+type: parsed
+protocol: nec
+address: 122
+command: 90
+#
+name: presetUp
+type: parsed
+protocol: nec
+address: 122
+command: 91
+#
+name: presetDown
+type: parsed
+protocol: nec
+address: 122
+command: 92
+#
+name: RLup
+type: parsed
+protocol: nec
+address: 122
+command: 94
+#
+name: RLdn
+type: parsed
+protocol: nec
+address: 122
+command: 95
+#
+name: FELup
+type: parsed
+protocol: nec
+address: 122
+command: 128
+#
+name: FELdn
+type: parsed
+protocol: nec
+address: 122
+command: 129
+#
+name: CLup
+type: parsed
+protocol: nec
+address: 122
+command: 130
+#
+name: CLdn
+type: parsed
+protocol: nec
+address: 122
+command: 131
+#
+name: centerMode
+type: parsed
+protocol: nec
+address: 122
+command: 132
+#
+name: test
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: prologic
+type: parsed
+protocol: nec
+address: 122
+command: 136
+#
+name: enhanced
+type: parsed
+protocol: nec
+address: 122
+command: 137
+#
+name: cnctVideo
+type: parsed
+protocol: nec
+address: 122
+command: 138
+#
+name: monoMovie
+type: parsed
+protocol: nec
+address: 122
+command: 139
+#
+name: rock
+type: parsed
+protocol: nec
+address: 122
+command: 140
+#
+name: hall
+type: parsed
+protocol: nec
+address: 122
+command: 141
+#

@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZONE B VIDEO 1
+type: parsed
+protocol: nec
+address: 184.4
+command: 0
+#
+name: ZONE B VIDEO 2
+type: parsed
+protocol: nec
+address: 184.4
+command: 1
+#
+name: ZONE B VIDEO 3
+type: parsed
+protocol: nec
+address: 184.4
+command: 2
+#
+name: ZONE B VIDEO 4
+type: parsed
+protocol: nec
+address: 184.4
+command: 3
+#
+name: ZONE B TUNER
+type: parsed
+protocol: nec
+address: 184.4
+command: 5
+#
+name: ZONE B CD 1
+type: parsed
+protocol: nec
+address: 184.4
+command: 6
+#
+name: ZONE B TAPE 1
+type: parsed
+protocol: nec
+address: 184.4
+command: 7
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 22
+#
+name: 
+type: parsed
+protocol: nec2
+address: 184.4
+command: 23
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 24
+#
+name: 
+type: parsed
+protocol: nec1
+address: 184.4
+command: 24
+#
+name: 
+type: parsed
+protocol: nec2
+address: 184.4
+command: 24
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 27
+#
+name: 
+type: parsed
+protocol: nec2
+address: 184.4
+command: 27
+#
+name: 
+type: parsed
+protocol: nec1
+address: 184.4
+command: 73
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 73
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 74
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 131
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.4
+command: 139
+#

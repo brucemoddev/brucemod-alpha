@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sharp_1
+address: 1
+command: 1
+#
+name: KEY_1_abc
+type: parsed
+protocol: sharp_1
+address: 1
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: sharp_1
+address: 1
+command: 2
+#
+name: KEY_2_def
+type: parsed
+protocol: sharp_1
+address: 1
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: sharp_1
+address: 1
+command: 3
+#
+name: KEY_3_ghi
+type: parsed
+protocol: sharp_1
+address: 1
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: sharp_1
+address: 1
+command: 4
+#
+name: KEY_4_jkl
+type: parsed
+protocol: sharp_1
+address: 1
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: sharp_1
+address: 1
+command: 5
+#
+name: KEY_5_mno
+type: parsed
+protocol: sharp_1
+address: 1
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: sharp_1
+address: 1
+command: 6
+#
+name: KEY_6_pqr
+type: parsed
+protocol: sharp_1
+address: 1
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: sharp_1
+address: 1
+command: 7
+#
+name: KEY_7_stu
+type: parsed
+protocol: sharp_1
+address: 1
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: sharp_1
+address: 1
+command: 8
+#
+name: KEY_8_vwxyz
+type: parsed
+protocol: sharp_1
+address: 1
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: sharp_1
+address: 1
+command: 9
+#
+name: KEY_9_mark
+type: parsed
+protocol: sharp_1
+address: 1
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: sharp_1
+address: 1
+command: 10
+#
+name: KEY_0_spanish
+type: parsed
+protocol: sharp_1
+address: 1
+command: 10
+#
+name: KEY_0
+type: parsed
+protocol: sharp_1
+address: 1
+command: 11
+#
+name: KEY_0_space
+type: parsed
+protocol: sharp_1
+address: 1
+command: 11
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sharp_1
+address: 1
+command: 17
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sharp_1
+address: 1
+command: 18
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sharp_1
+address: 1
+command: 20
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sharp_1
+address: 1
+command: 21
+#
+name: KEY_POWER
+type: parsed
+protocol: sharp_1
+address: 1
+command: 22
+#
+name: KEY_MUTE
+type: parsed
+protocol: sharp_1
+address: 1
+command: 23
+#
+name: program_timer
+type: parsed
+protocol: sharp_1
+address: 1
+command: 25
+#
+name: disp_del
+type: parsed
+protocol: sharp_1
+address: 1
+command: 27
+#
+name: ch_scan
+type: parsed
+protocol: sharp_1
+address: 1
+command: 28
+#
+name: setup_move
+type: parsed
+protocol: sharp_1
+address: 1
+command: 32
+#
+name: fback_clr
+type: parsed
+protocol: sharp_1
+address: 1
+command: 47
+#
+name: message
+type: parsed
+protocol: sharp_1
+address: 1
+command: 59
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: sharp_1
+address: 1
+command: 79
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: sharp_1
+address: 1
+command: 80
+#
+name: calendar
+type: parsed
+protocol: sharp_1
+address: 1
+command: 118
+#
+name: KEY_LANGUAGE
+type: parsed
+protocol: sharp_1
+address: 1
+command: 120
+#

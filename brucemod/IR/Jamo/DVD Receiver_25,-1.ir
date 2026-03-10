@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0 A
+type: parsed
+protocol: rc5
+address: 25
+command: 0
+#
+name: 0 B
+type: parsed
+protocol: rc5
+address: 25
+command: 0
+#
+name: 7 A
+type: parsed
+protocol: rc5
+address: 25
+command: 1
+#
+name: 7 B
+type: parsed
+protocol: rc5
+address: 25
+command: 1
+#
+name: 8 A
+type: parsed
+protocol: rc5
+address: 25
+command: 2
+#
+name: 8 B
+type: parsed
+protocol: rc5
+address: 25
+command: 2
+#
+name: 9 A
+type: parsed
+protocol: rc5
+address: 25
+command: 3
+#
+name: 9 B
+type: parsed
+protocol: rc5
+address: 25
+command: 3
+#
+name: 4 A
+type: parsed
+protocol: rc5
+address: 25
+command: 4
+#
+name: 4 B
+type: parsed
+protocol: rc5
+address: 25
+command: 4
+#
+name: 5 A
+type: parsed
+protocol: rc5
+address: 25
+command: 5
+#
+name: 5 B
+type: parsed
+protocol: rc5
+address: 25
+command: 5
+#
+name: 6 A
+type: parsed
+protocol: rc5
+address: 25
+command: 6
+#
+name: 6 B
+type: parsed
+protocol: rc5
+address: 25
+command: 6
+#
+name: 1 A
+type: parsed
+protocol: rc5
+address: 25
+command: 7
+#
+name: 1 B
+type: parsed
+protocol: rc5
+address: 25
+command: 7
+#
+name: 2 A
+type: parsed
+protocol: rc5
+address: 25
+command: 8
+#
+name: 2 B
+type: parsed
+protocol: rc5
+address: 25
+command: 8
+#
+name: 3 A
+type: parsed
+protocol: rc5
+address: 25
+command: 9
+#
+name: 3 B
+type: parsed
+protocol: rc5
+address: 25
+command: 9
+#
+name: POWER A
+type: parsed
+protocol: rc5
+address: 25
+command: 12
+#
+name: POWER B
+type: parsed
+protocol: rc5
+address: 25
+command: 12
+#
+name: VOLUME + A
+type: parsed
+protocol: rc5
+address: 25
+command: 17
+#
+name: VOLUME + B
+type: parsed
+protocol: rc5
+address: 25
+command: 17
+#
+name: MENU A
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: MENU B
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: DVD A
+type: parsed
+protocol: rc5
+address: 25
+command: 45
+#
+name: DVD B
+type: parsed
+protocol: rc5
+address: 25
+command: 45
+#
+name: SKIP << A
+type: parsed
+protocol: rc5
+address: 25
+command: 50
+#
+name: SKIP << B
+type: parsed
+protocol: rc5
+address: 25
+command: 50
+#
+name: SKIP >> A
+type: parsed
+protocol: rc5
+address: 25
+command: 52
+#
+name: SKIP >> B
+type: parsed
+protocol: rc5
+address: 25
+command: 52
+#
+name: STOP A
+type: parsed
+protocol: rc5
+address: 25
+command: 53
+#
+name: STOP B
+type: parsed
+protocol: rc5
+address: 25
+command: 53
+#
+name: MODE A
+type: parsed
+protocol: rc5
+address: 25
+command: 65
+#
+name: MODE B
+type: parsed
+protocol: rc5
+address: 25
+command: 65
+#
+name: RADIO A
+type: parsed
+protocol: rc5
+address: 25
+command: 66
+#
+name: RADIO B
+type: parsed
+protocol: rc5
+address: 25
+command: 66
+#
+name: MUTE A
+type: parsed
+protocol: rc5
+address: 25
+command: 69
+#
+name: MUTE B
+type: parsed
+protocol: rc5
+address: 25
+command: 69
+#
+name: LOAD A
+type: parsed
+protocol: rc5
+address: 25
+command: 73
+#
+name: LOAD B
+type: parsed
+protocol: rc5
+address: 25
+command: 73
+#
+name: VOLUME - A
+type: parsed
+protocol: rc5
+address: 25
+command: 76
+#
+name: VOLUME - B
+type: parsed
+protocol: rc5
+address: 25
+command: 76
+#
+name: CURSOR RIGHT A
+type: parsed
+protocol: rc5
+address: 25
+command: 80
+#
+name: CURSOR RIGHT B
+type: parsed
+protocol: rc5
+address: 25
+command: 80
+#
+name: CURSOR LEFT A
+type: parsed
+protocol: rc5
+address: 25
+command: 81
+#
+name: CURSOR LEFT B
+type: parsed
+protocol: rc5
+address: 25
+command: 81
+#
+name: CURSOR DOWN A
+type: parsed
+protocol: rc5
+address: 25
+command: 85
+#
+name: CURSOR DOWN B
+type: parsed
+protocol: rc5
+address: 25
+command: 85
+#
+name: CURSOR UP A
+type: parsed
+protocol: rc5
+address: 25
+command: 86
+#
+name: CURSOR UP B
+type: parsed
+protocol: rc5
+address: 25
+command: 86
+#
+name: PLAY/PAUSE A
+type: parsed
+protocol: rc5
+address: 25
+command: 87
+#
+name: PLAY/PAUSE B
+type: parsed
+protocol: rc5
+address: 25
+command: 87
+#

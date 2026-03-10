@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_EPG
+type: parsed
+protocol: nec
+address: 192
+command: 128
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 192
+command: 129
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 192
+command: 130
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: nec
+address: 192
+command: 131
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 192
+command: 132
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 192
+command: 133
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 192
+command: 134
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: nec
+address: 192
+command: 135
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 192
+command: 136
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 192
+command: 137
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 192
+command: 138
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 192
+command: 139
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 192
+command: 140
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 192
+command: 141
+#
+name: Freeze
+type: parsed
+protocol: nec
+address: 192
+command: 142
+#
+name: Speaker_on_off
+type: parsed
+protocol: nec
+address: 192
+command: 143
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 192
+command: 144
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 192
+command: 145
+#
+name: KEY_TEXT
+type: parsed
+protocol: nec
+address: 192
+command: 146
+#
+name: browse
+type: parsed
+protocol: nec
+address: 192
+command: 147
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 192
+command: 148
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 192
+command: 149
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 192
+command: 150
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 192
+command: 151
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 192
+command: 152
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 192
+command: 153
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 192
+command: 154
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 192
+command: 155
+#
+name: TV/Rad
+type: parsed
+protocol: nec
+address: 192
+command: 156
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 192
+command: 157
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 192
+command: 158
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 192
+command: 159
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 192
+command: 212
+#
+name: Alt
+type: parsed
+protocol: nec
+address: 192
+command: 216
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 192
+command: 220
+#

@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 49
+command: 129
+#
+name: source
+type: parsed
+protocol: nec
+address: 49
+command: 131
+#
+name: keystone_dec
+type: parsed
+protocol: nec
+address: 49
+command: 132
+#
+name: keystone_inc
+type: parsed
+protocol: nec
+address: 49
+command: 133
+#
+name: auto
+type: parsed
+protocol: nec
+address: 49
+command: 134
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 49
+command: 135
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 49
+command: 137
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 49
+command: 140
+#
+name: freeze
+type: parsed
+protocol: nec
+address: 49
+command: 142
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 49
+command: 143
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 49
+command: 193
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 49
+command: 194
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 49
+command: 195
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 49
+command: 196
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 49
+command: 197
+#

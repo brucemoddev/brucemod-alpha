@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SV.VOL+
+type: parsed
+protocol: nec
+address: 24
+command: 0
+#
+name: C.VOL+
+type: parsed
+protocol: nec
+address: 24
+command: 4
+#
+name: S.VOL+
+type: parsed
+protocol: nec
+address: 24
+command: 8
+#
+name: PRESET
+type: parsed
+protocol: nec
+address: 24
+command: 12
+#
+name: M.VOL-
+type: parsed
+protocol: nec
+address: 24
+command: 13
+#
+name: M.VOL+
+type: parsed
+protocol: nec
+address: 24
+command: 16
+#
+name: SV.VOL-
+type: parsed
+protocol: nec
+address: 24
+command: 17
+#
+name: INPUT
+type: parsed
+protocol: nec
+address: 24
+command: 20
+#
+name: C.VOL-
+type: parsed
+protocol: nec
+address: 24
+command: 21
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 24
+command: 24
+#
+name: SOUND
+type: parsed
+protocol: nec
+address: 24
+command: 25
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24
+command: 28
+#
+name: S.VOL-
+type: parsed
+protocol: nec
+address: 24
+command: 29
+#

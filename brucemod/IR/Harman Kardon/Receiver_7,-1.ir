@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SAT
+type: parsed
+protocol: rca_38
+address: 7
+command: 58
+#

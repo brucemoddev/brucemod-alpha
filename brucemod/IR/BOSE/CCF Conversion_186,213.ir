@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 MUTE/UNMUTE 80 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 1
+#
+name: 5 VOL - 40 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 2
+#
+name: 4 VOL + C0 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 3
+#
+name: 6 AM/FM 60 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 6
+#
+name: 7 AM 30 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 12
+#
+name: 12 VIDEO 2 B0 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 13
+#
+name: 11 VIDEO 1 70 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 14
+#
+name: 13 AUX F0 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 15
+#
+name: 8 FM 08 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 16
+#
+name: 23 SKIP REV 18 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 24
+#
+name: 24 SKIP FWD 98 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 25
+#
+name: 25 STOP 58 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 26
+#
+name: 18 PAUSE D8 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 27
+#
+name: 26 AM/FM PRESET + B8
+type: parsed
+protocol: nec2
+address: 186.213
+command: 29
+#
+name: 27 AM/FM PRESET - F8
+type: parsed
+protocol: nec2
+address: 186.213
+command: 31
+#
+name: 29 RANDOM DISK 52 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 74
+#
+name: 14 OFF 32 AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 76
+#
+name: 15 TAPE 4A AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 82
+#
+name: 16 CD CA AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 83
+#
+name: 28 DISK - 2A AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 84
+#
+name: 19 PLAY AA AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 85
+#
+name: 18 PAUSE 6A AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 86
+#
+name: 20 FAST REV EA AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 87
+#
+name: 21 FAST FWD 1A AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 88
+#
+name: 22 RANDOM 3A AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 92
+#
+name: 17 NEXT DISK BA AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 93
+#
+name: 30 MUTE ALL FB AB
+type: parsed
+protocol: nec2
+address: 186.213
+command: 223
+#

@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAGE-
+type: parsed
+protocol: nec1
+address: 8.231
+command: 16
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 8.231
+command: 17
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 8.231
+command: 18
+#
+name: ONLINE MEDIA
+type: parsed
+protocol: nec1
+address: 8.231
+command: 19
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 8.231
+command: 20
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 8.231
+command: 21
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 8.231
+command: 22
+#
+name: PHOTO
+type: parsed
+protocol: nec
+address: 8.231
+command: 23
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 8.231
+command: 23
+#
+name: PAGE+
+type: parsed
+protocol: nec1
+address: 8.231
+command: 24
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 8.231
+command: 25
+#
+name: 
+type: parsed
+protocol: nec1
+address: 8.231
+command: 27
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 8.231
+command: 29
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 8.231
+command: 30
+#
+name: MUSIC
+type: parsed
+protocol: nec1
+address: 8.231
+command: 31
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 8.231
+command: 64
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 8.231
+command: 65
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 8.231
+command: 66
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 8.231
+command: 67
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 8.231
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 8.231
+command: 69
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 8.231
+command: 70
+#
+name: HOME
+type: parsed
+protocol: nec1
+address: 8.231
+command: 71
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 8.231
+command: 72
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 8.231
+command: 73
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 8.231
+command: 74
+#
+name: DELETE
+type: parsed
+protocol: nec1
+address: 8.231
+command: 76
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 8.231
+command: 77
+#
+name: .
+type: parsed
+protocol: nec1
+address: 8.231
+command: 78
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 8.231
+command: 81
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 8.231
+command: 82
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 8.231
+command: 84
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 8.231
+command: 84
+#
+name: SEARCH
+type: parsed
+protocol: nec1
+address: 8.231
+command: 86
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 8.231
+command: 88
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 8.231
+command: 89
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 8.231
+command: 90
+#
+name: USB
+type: parsed
+protocol: nec1
+address: 8.231
+command: 92
+#
+name: REV
+type: parsed
+protocol: nec1
+address: 8.231
+command: 93
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 8.231
+command: 94
+#

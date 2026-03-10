@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: chdn
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: mts
+type: parsed
+protocol: nec
+address: 4
+command: 10
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 4
+command: 11
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 4
+command: 14
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 4
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 4
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 4
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 4
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 4
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 4
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 4
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 4
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 4
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 4
+command: 25
+#
+name: KEY_LAST
+type: parsed
+protocol: nec
+address: 4
+command: 26
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 4
+command: 27
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 4
+command: 28
+#
+name: input
+type: parsed
+protocol: nec
+address: 4
+command: 47
+#
+name: cc
+type: parsed
+protocol: nec
+address: 4
+command: 57
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 4
+command: 64
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 4
+command: 65
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 4
+command: 67
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 4
+command: 69
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 4
+command: 70
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 4
+command: 71
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 4
+command: 72
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 4
+command: 73
+#
+name: av
+type: parsed
+protocol: nec
+address: 4
+command: 81
+#
+name: component
+type: parsed
+protocol: nec
+address: 4
+command: 90
+#
+name: pip
+type: parsed
+protocol: nec
+address: 4
+command: 96
+#
+name: pipsize
+type: parsed
+protocol: nec
+address: 4
+command: 97
+#
+name: pipinput
+type: parsed
+protocol: nec
+address: 4
+command: 98
+#
+name: pipch-
+type: parsed
+protocol: nec
+address: 4
+command: 99
+#
+name: pipch+
+type: parsed
+protocol: nec
+address: 4
+command: 100
+#
+name: freeze
+type: parsed
+protocol: nec
+address: 4
+command: 101
+#
+name: swap
+type: parsed
+protocol: nec
+address: 4
+command: 102
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 4
+command: 103
+#
+name: wide
+type: parsed
+protocol: nec
+address: 4
+command: 119
+#
+name: rgb
+type: parsed
+protocol: nec
+address: 4
+command: 152
+#
+name: hdmi
+type: parsed
+protocol: nec
+address: 4
+command: 198
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 4
+command: 214
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 4
+command: 255
+#

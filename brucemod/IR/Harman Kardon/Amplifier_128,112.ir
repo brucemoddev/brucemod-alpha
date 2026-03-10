@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AVR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 193
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 196
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VID1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VID2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: VID3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 21
+#
+name: MUTE
+type: parsed
+protocol: dish_netwo
+address: 16.0
+command: 40
+#

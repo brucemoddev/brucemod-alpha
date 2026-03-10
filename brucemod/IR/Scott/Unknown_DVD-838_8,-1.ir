@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: resume
+type: parsed
+protocol: nec
+address: 8
+command: 4
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 8
+command: 5
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 8
+command: 8
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 8
+command: 9
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 8
+command: 10
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 8
+command: 11
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 8
+command: 12
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 8
+command: 13
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 8
+command: 16
+#
+name: a-b
+type: parsed
+protocol: nec
+address: 8
+command: 17
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 8
+command: 18
+#
+name: p/n
+type: parsed
+protocol: nec
+address: 8
+command: 19
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 8
+command: 20
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 8
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 8
+command: 22
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 8
+command: 23
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 8
+command: 24
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 8
+command: 25
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 8
+command: 27
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 8
+command: 28
+#
+name: item
+type: parsed
+protocol: nec
+address: 8
+command: 29
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 8
+command: 30
+#
+name: track
+type: parsed
+protocol: nec
+address: 8
+command: 31
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 8
+command: 71
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 8
+command: 72
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 8
+command: 73
+#
+name: KEY_LAST
+type: parsed
+protocol: nec
+address: 8
+command: 74
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 8
+command: 75
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 8
+command: 78
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 8
+command: 79
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 8
+command: 80
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 8
+command: 81
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 8
+command: 83
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 8
+command: 84
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 8
+command: 85
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 8
+command: 87
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 8
+command: 89
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 8
+command: 91
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 8
+command: 92
+#
+name: GoTo
+type: parsed
+protocol: nec
+address: 8
+command: 93
+#
+name: program
+type: parsed
+protocol: nec
+address: 8
+command: 95
+#

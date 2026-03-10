@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: d4
+type: parsed
+protocol: Proton
+address: 21
+command: 10
+#
+name: menu
+type: parsed
+protocol: Proton
+address: 21
+command: 11
+#
+name: aux
+type: parsed
+protocol: Proton
+address: 21
+command: 12
+#
+name: stop
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: play
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: ffwd
+type: parsed
+protocol: Proton
+address: 21
+command: 15
+#
+name: rew
+type: parsed
+protocol: Proton
+address: 21
+command: 16
+#
+name: pause
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: rec
+type: parsed
+protocol: Proton
+address: 21
+command: 18
+#
+name: slow
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: d3
+type: parsed
+protocol: Proton
+address: 21
+command: 20
+#
+name: Power
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: TV/VCR
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: prup
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: prdown
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: c+
+type: parsed
+protocol: Proton
+address: 21
+command: 25
+#
+name: d1
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: speed
+type: parsed
+protocol: Proton
+address: 21
+command: 27
+#
+name: v-
+type: parsed
+protocol: Proton
+address: 21
+command: 28
+#
+name: d2
+type: parsed
+protocol: Proton
+address: 21
+command: 29
+#
+name: v+
+type: parsed
+protocol: Proton
+address: 21
+command: 31
+#
+name: c-
+type: parsed
+protocol: Proton
+address: 21
+command: 33
+#
+name: shuttle+
+type: parsed
+protocol: Proton
+address: 21
+command: 37
+#
+name: ok
+type: parsed
+protocol: Proton
+address: 21
+command: 41
+#
+name: shuttle-
+type: parsed
+protocol: Proton
+address: 21
+command: 45
+#
+name: b-
+type: parsed
+protocol: Proton
+address: 21
+command: 49
+#
+name: b+
+type: parsed
+protocol: Proton
+address: 21
+command: 53
+#
+name: p
+type: parsed
+protocol: Proton
+address: 21
+command: 57
+#
+name: hi-rew
+type: parsed
+protocol: Proton
+address: 21
+command: 61
+#

@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR LF
+type: parsed
+protocol: sony20
+address: 26.73
+command: 51
+#
+name: CURSOR RT
+type: parsed
+protocol: sony20
+address: 26.73
+command: 52
+#
+name: CURSOR UP
+type: parsed
+protocol: sony20
+address: 26.73
+command: 57
+#

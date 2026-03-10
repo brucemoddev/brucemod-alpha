@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR 1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 0
+#
+name: VCR 9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 1
+#
+name: VCR POWER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 2
+#
+name: VCR PLAY>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 4
+#
+name: VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VCR 2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 8
+#
+name: VCR 0
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 9
+#
+name: VCR CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: VCR CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 11
+#
+name: VCR RECORD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 12
+#
+name: VCR JOG/ADJ+(IND SRC
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: VCR 3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 16
+#
+name: VCR CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCR STOP[]
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 20
+#
+name: VCR JOG/ADJ-(IND SRC
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: VCR 4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 24
+#
+name: VCR PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 28
+#
+name: VCR 5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 32
+#
+name: VCR FFWD>>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 36
+#
+name: VCR DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 39
+#
+name: VCR 6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 40
+#
+name: VCR REW<<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 44
+#
+name: VCR 7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 48
+#
+name: QUICK PROGRAM
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 51
+#
+name: VCR ENTER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 53
+#
+name: VCR 8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 56
+#
+name: VCR INPUT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: VCR AUDIO/VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 64
+#
+name: VCR MENU
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 82
+#

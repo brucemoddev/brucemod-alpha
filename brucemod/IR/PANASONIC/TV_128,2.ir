@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 208
+#
+name: cc
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 208
+#
+name: sap
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: Input
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: VIERA_LINK
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 16
+#
+name: Menu
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: VIERA_TOOLS
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 240
+#
+name: SD_CARD
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 176
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 224
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 160
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 240
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 176
+#
+name: Ok
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: SUB MENU
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 112
+#
+name: return
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: red
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: green
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: blue
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: Yellow
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: Vol_Up
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: VOL_DN
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: CH_NEXT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: CH_PREV
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: Mute
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: format
+type: parsed
+protocol: panasonic
+address: 132.2
+command: 224
+#
+name: Info
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: FAVORITE
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 224
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 96
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 112
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 128
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: last
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 112
+#
+name: Dash
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 0
+#
+name: rewind
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 64
+#
+name: Play
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 0
+#
+name: FAST_FWD
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 48
+#
+name: Previous
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 192
+#
+name: Pause
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 16
+#
+name: Next
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 208
+#
+name: Stop
+type: parsed
+protocol: panasonic
+address: 137.2
+command: 32
+#

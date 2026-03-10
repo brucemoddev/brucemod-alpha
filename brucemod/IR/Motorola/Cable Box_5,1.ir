@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PROGRAMCHANNEL -
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: PROGRAM CHANNEL +
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: SPEED
+type: parsed
+protocol: rc5
+address: 5
+command: 58
+#

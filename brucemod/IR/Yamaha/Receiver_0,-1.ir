@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZONE 2 ON
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#

@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT SELECT
+type: parsed
+protocol: sharp
+address: 13
+command: 19
+#
+name: VOLUME +
+type: parsed
+protocol: sharp
+address: 13
+command: 20
+#
+name: VOLUME -
+type: parsed
+protocol: sharp
+address: 13
+command: 21
+#
+name: POWER
+type: parsed
+protocol: sharp
+address: 13
+command: 22
+#
+name: MUTE
+type: parsed
+protocol: sharp
+address: 13
+command: 23
+#
+name: STATUS
+type: parsed
+protocol: sharp
+address: 13
+command: 57
+#
+name: ENTER
+type: parsed
+protocol: sharp
+address: 13
+command: 87
+#
+name: ADJUSTMENT +
+type: parsed
+protocol: sharp
+address: 13
+command: 156
+#
+name: ADJUSTMENT -
+type: parsed
+protocol: sharp
+address: 13
+command: 157
+#
+name: MENU
+type: parsed
+protocol: sharp
+address: 13
+command: 196
+#

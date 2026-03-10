@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 26.228
+command: 2
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 26.228
+command: 3
+#
+name: FULL MUTE
+type: parsed
+protocol: nec1
+address: 26.228
+command: 9
+#
+name: MEMO
+type: parsed
+protocol: nec1
+address: 26.228
+command: 11
+#
+name: PRESET 1
+type: parsed
+protocol: nec1
+address: 26.228
+command: 16
+#
+name: PRESET 2
+type: parsed
+protocol: nec1
+address: 26.228
+command: 17
+#
+name: PRESET 3
+type: parsed
+protocol: nec1
+address: 26.228
+command: 18
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 26.228
+command: 27
+#
+name: LEFT (BALANCE)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 64
+#
+name: RIGHT (BALANCE)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 65
+#
+name: FRONT (BALANCE)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 66
+#
+name: REAR (BALANCE)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 67
+#
+name: V FRONT
+type: parsed
+protocol: nec1
+address: 26.228
+command: 69
+#
+name: REAR
+type: parsed
+protocol: nec1
+address: 26.228
+command: 71
+#
+name: S.STEREO (SURROUND)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 73
+#
+name: DOLBY (SURROUND)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 74
+#
+name: HALL (SURROUND)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 76
+#
+name: STEREO (SURROUND)
+type: parsed
+protocol: nec1
+address: 26.228
+command: 77
+#
+name: VIDEO1
+type: parsed
+protocol: nec1
+address: 26.228
+command: 80
+#
+name: VIDEO2
+type: parsed
+protocol: nec1
+address: 26.228
+command: 81
+#
+name: A/V
+type: parsed
+protocol: nec1
+address: 26.228
+command: 82
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 26.228
+command: 83
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 26.228
+command: 84
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 26.228
+command: 95
+#

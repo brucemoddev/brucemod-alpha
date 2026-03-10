@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 168
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 168
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 168
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 168
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 168
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 168
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 168
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 168
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 168
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 168
+command: 9
+#
+name: scanfwd
+type: parsed
+protocol: nec
+address: 168
+command: 16
+#
+name: scanrev
+type: parsed
+protocol: nec
+address: 168
+command: 17
+#
+name: chapframe-tracktime
+type: parsed
+protocol: nec
+address: 168
+command: 19
+#
+name: reject
+type: parsed
+protocol: nec
+address: 168
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 168
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 168
+command: 24
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 168
+command: 30
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 168
+command: 66
+#
+name: disp
+type: parsed
+protocol: nec
+address: 168
+command: 67
+#
+name: repeatmode
+type: parsed
+protocol: nec
+address: 168
+command: 68
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 168
+command: 69
+#
+name: speeddown
+type: parsed
+protocol: nec
+address: 168
+command: 70
+#
+name: speedup
+type: parsed
+protocol: nec
+address: 168
+command: 71
+#
+name: steprev
+type: parsed
+protocol: nec
+address: 168
+command: 80
+#
+name: stepfwd
+type: parsed
+protocol: nec
+address: 168
+command: 84
+#
+name: multirev
+type: parsed
+protocol: nec
+address: 168
+command: 85
+#
+name: multifwd
+type: parsed
+protocol: nec
+address: 168
+command: 88
+#

@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: COMPOSITE 1
+type: parsed
+protocol: nec1
+address: 135.78
+command: 1
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 135.78
+command: 2
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 135.78
+command: 5
+#
+name: COMPOSITE 3
+type: parsed
+protocol: nec1
+address: 135.78
+command: 9
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 135.78
+command: 10
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 135.78
+command: 13
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 14
+#
+name: COMPOSITE 2
+type: parsed
+protocol: nec1
+address: 135.78
+command: 21
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 135.78
+command: 22
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 23
+#

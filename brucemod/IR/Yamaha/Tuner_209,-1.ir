@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GROUP 1-8/9-16/17-24
+type: parsed
+protocol: nec1
+address: 209
+command: 13
+#
+name: 1/9/17
+type: parsed
+protocol: nec1
+address: 209
+command: 14
+#
+name: 2/10/18
+type: parsed
+protocol: nec1
+address: 209
+command: 15
+#
+name: 3/11/19
+type: parsed
+protocol: nec1
+address: 209
+command: 16
+#
+name: 4/12/20
+type: parsed
+protocol: nec1
+address: 209
+command: 17
+#
+name: 5/13/21
+type: parsed
+protocol: nec1
+address: 209
+command: 18
+#
+name: 6/14/22
+type: parsed
+protocol: nec1
+address: 209
+command: 19
+#
+name: 7/15/23
+type: parsed
+protocol: nec1
+address: 209
+command: 20
+#
+name: 8/16/24
+type: parsed
+protocol: nec1
+address: 209
+command: 21
+#

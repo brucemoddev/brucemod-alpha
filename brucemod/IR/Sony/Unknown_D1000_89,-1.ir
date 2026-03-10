@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony15
+address: 89
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony15
+address: 89
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony15
+address: 89
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony15
+address: 89
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony15
+address: 89
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony15
+address: 89
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony15
+address: 89
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony15
+address: 89
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony15
+address: 89
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony15
+address: 89
+command: 9
+#
+name: KEY_1
+type: parsed
+protocol: sony15
+address: 89
+command: 10
+#
+name: KEY_2
+type: parsed
+protocol: sony15
+address: 89
+command: 11
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sony15
+address: 89
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sony15
+address: 89
+command: 17
+#
+name: Undefined
+type: parsed
+protocol: sony15
+address: 89
+command: 24
+#
+name: News
+type: parsed
+protocol: sony15
+address: 89
+command: 25
+#
+name: Affairs
+type: parsed
+protocol: sony15
+address: 89
+command: 26
+#
+name: KEY_INFO
+type: parsed
+protocol: sony15
+address: 89
+command: 27
+#
+name: Sport
+type: parsed
+protocol: sony15
+address: 89
+command: 28
+#
+name: Educate
+type: parsed
+protocol: sony15
+address: 89
+command: 29
+#
+name: Drama
+type: parsed
+protocol: sony15
+address: 89
+command: 30
+#
+name: Culture
+type: parsed
+protocol: sony15
+address: 89
+command: 31
+#
+name: Science
+type: parsed
+protocol: sony15
+address: 89
+command: 32
+#
+name: Varied
+type: parsed
+protocol: sony15
+address: 89
+command: 33
+#
+name: PopM
+type: parsed
+protocol: sony15
+address: 89
+command: 34
+#
+name: RockM
+type: parsed
+protocol: sony15
+address: 89
+command: 35
+#
+name: MORM
+type: parsed
+protocol: sony15
+address: 89
+command: 36
+#
+name: KEY_LIGHTS_TOGGLE
+type: parsed
+protocol: sony15
+address: 89
+command: 37
+#
+name: Classics
+type: parsed
+protocol: sony15
+address: 89
+command: 38
+#
+name: OtherM
+type: parsed
+protocol: sony15
+address: 89
+command: 39
+#
+name: MusicBalance
+type: parsed
+protocol: sony15
+address: 89
+command: 40
+#
+name: SpeechBalance
+type: parsed
+protocol: sony15
+address: 89
+command: 41
+#
+name: MonoMode
+type: parsed
+protocol: sony15
+address: 89
+command: 51
+#
+name: FineTuningUp
+type: parsed
+protocol: sony15
+address: 89
+command: 52
+#
+name: FineTuningDown
+type: parsed
+protocol: sony15
+address: 89
+command: 53
+#
+name: KEY_3
+type: parsed
+protocol: sony15
+address: 89
+command: 56
+#
+name: KEY_4
+type: parsed
+protocol: sony15
+address: 89
+command: 57
+#
+name: KEY_5
+type: parsed
+protocol: sony15
+address: 89
+command: 58
+#
+name: KEY_6
+type: parsed
+protocol: sony15
+address: 89
+command: 59
+#
+name: DisplayMode
+type: parsed
+protocol: sony15
+address: 89
+command: 75
+#
+name: BlockUp
+type: parsed
+protocol: sony15
+address: 89
+command: 76
+#
+name: BlockDown
+type: parsed
+protocol: sony15
+address: 89
+command: 77
+#

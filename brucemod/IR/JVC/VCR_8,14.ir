@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 3
+#
+name: INDEX LEFT
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 4
+#
+name: INDEX RIGHT
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 6
+#
+name: REWIND
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 7
+#
+name: SKIP LEFT
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 8
+#
+name: AUTOTRACK
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 9
+#
+name: SKIP RIGHT
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 10
+#
+name: REW/BROWSE
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 12
+#
+name: FF/BROWSE
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 14
+#
+name: FORWARD
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 15
+#
+name: SELECT
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 16
+#
+name: COUNTER RESET
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 27
+#
+name: RECORD
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 31
+#
+name: PAUSE
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 32
+#
+name: STOP
+type: parsed
+protocol: dish_netwo
+address: 8.14
+command: 33
+#

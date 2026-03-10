@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_EXIT
+type: parsed
+protocol: mce
+address: 4.69
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: mce
+address: 4.69
+command: 13
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: mce
+address: 4.69
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: mce
+address: 4.69
+command: 17
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: mce
+address: 4.69
+command: 30
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: mce
+address: 4.69
+command: 31
+#
+name: KEY_NEXT
+type: parsed
+protocol: mce
+address: 4.69
+command: 32
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: mce
+address: 4.69
+command: 33
+#
+name: KEY_FORWARD
+type: parsed
+protocol: mce
+address: 4.69
+command: 40
+#
+name: KEY_REWIND
+type: parsed
+protocol: mce
+address: 4.69
+command: 41
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: mce
+address: 4.69
+command: 44
+#
+name: KEY_TV
+type: parsed
+protocol: mce
+address: 4.69
+command: 46
+#
+name: KEY_PAUSE
+type: parsed
+protocol: mce
+address: 4.69
+command: 48
+#
+name: KEY_STOP
+type: parsed
+protocol: mce
+address: 4.69
+command: 49
+#
+name: KEY_RECORD
+type: parsed
+protocol: mce
+address: 4.69
+command: 55
+#
+name: KEY_LIST
+type: parsed
+protocol: mce
+address: 4.69
+command: 62
+#
+name: KEY_MEDIA
+type: parsed
+protocol: mce
+address: 4.69
+command: 84
+#
+name: KEY_UP
+type: parsed
+protocol: mce
+address: 4.69
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: mce
+address: 4.69
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: mce
+address: 4.69
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: mce
+address: 4.69
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: mce
+address: 4.69
+command: 92
+#
+name: KEY_HOME
+type: parsed
+protocol: mce
+address: 4.69
+command: 93
+#
+name: KEY_BACK
+type: parsed
+protocol: mce
+address: 4.69
+command: 131
+#
+name: KEY_PVR
+type: parsed
+protocol: mce
+address: 4.69
+command: 155
+#
+name: KEY_INFO
+type: parsed
+protocol: mce
+address: 4.69
+command: 203
+#

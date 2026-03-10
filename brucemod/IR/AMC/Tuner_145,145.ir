@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: necx1
+address: 145.145
+command: 2
+#
+name: 2
+type: parsed
+protocol: necx1
+address: 145.145
+command: 3
+#
+name: 3
+type: parsed
+protocol: necx1
+address: 145.145
+command: 4
+#
+name: 4
+type: parsed
+protocol: necx1
+address: 145.145
+command: 5
+#
+name: 5
+type: parsed
+protocol: necx1
+address: 145.145
+command: 6
+#
+name: 6
+type: parsed
+protocol: necx1
+address: 145.145
+command: 7
+#
+name: 8
+type: parsed
+protocol: necx1
+address: 145.145
+command: 9
+#
+name: 9
+type: parsed
+protocol: necx1
+address: 145.145
+command: 10
+#
+name: 0
+type: parsed
+protocol: necx1
+address: 145.145
+command: 11
+#
+name: TUNING - UP
+type: parsed
+protocol: necx1
+address: 145.145
+command: 15
+#
+name: AM / FM
+type: parsed
+protocol: necx1
+address: 145.145
+command: 17
+#
+name: 7
+type: parsed
+protocol: necx1
+address: 145.145
+command: 32
+#
+name: TUNING - DOWN
+type: parsed
+protocol: necx1
+address: 145.145
+command: 96
+#

@@ -1,0 +1,627 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY 1
+type: parsed
+protocol: sony12
+address: 1
+command: 0
+#
+name: KEY 2
+type: parsed
+protocol: sony12
+address: 1
+command: 1
+#
+name: KEY 3
+type: parsed
+protocol: sony12
+address: 1
+command: 2
+#
+name: KEY 4
+type: parsed
+protocol: sony12
+address: 1
+command: 3
+#
+name: KEY 5
+type: parsed
+protocol: sony12
+address: 1
+command: 4
+#
+name: KEY 6
+type: parsed
+protocol: sony12
+address: 1
+command: 5
+#
+name: KEY 7
+type: parsed
+protocol: sony12
+address: 1
+command: 6
+#
+name: KEY 8
+type: parsed
+protocol: sony12
+address: 1
+command: 7
+#
+name: KEY 9
+type: parsed
+protocol: sony12
+address: 1
+command: 8
+#
+name: KEY 0
+type: parsed
+protocol: sony12
+address: 1
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony12
+address: 1
+command: 11
+#
+name: 1-
+type: parsed
+protocol: sony12
+address: 1
+command: 12
+#
+name: 2-
+type: parsed
+protocol: sony12
+address: 1
+command: 13
+#
+name: GUIDE
+type: parsed
+protocol: sony12
+address: 1
+command: 14
+#
+name: CLEAR
+type: parsed
+protocol: sony12
+address: 1
+command: 15
+#
+name: CHANNEL UP
+type: parsed
+protocol: sony12
+address: 1
+command: 16
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 17
+#
+name: VOLUME UP
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: VOLUME DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: POWER ON/OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: RESET
+type: parsed
+protocol: sony12
+address: 1
+command: 22
+#
+name: NORMALIZE PICT
+type: parsed
+protocol: sony12
+address: 1
+command: 22
+#
+name: RECORD
+type: parsed
+protocol: sony12
+address: 1
+command: 22
+#
+name: MTS/SAP
+type: parsed
+protocol: sony12
+address: 1
+command: 23
+#
+name: CONTRAST +
+type: parsed
+protocol: sony12
+address: 1
+command: 24
+#
+name: CONTRAST -
+type: parsed
+protocol: sony12
+address: 1
+command: 25
+#
+name: COLOR +
+type: parsed
+protocol: sony12
+address: 1
+command: 26
+#
+name: COLOR -
+type: parsed
+protocol: sony12
+address: 1
+command: 27
+#
+name: -/--
+type: parsed
+protocol: sony12
+address: 1
+command: 29
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: sony12
+address: 1
+command: 30
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: sony12
+address: 1
+command: 31
+#
+name: HUE -
+type: parsed
+protocol: sony12
+address: 1
+command: 32
+#
+name: HUE +
+type: parsed
+protocol: sony12
+address: 1
+command: 33
+#
+name: SHARPNESS +
+type: parsed
+protocol: sony12
+address: 1
+command: 34
+#
+name: SHARPNESS -
+type: parsed
+protocol: sony12
+address: 1
+command: 35
+#
+name: INPUT TV TUNER
+type: parsed
+protocol: sony12
+address: 1
+command: 36
+#
+name: INPUT SCROLL
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: BALANCE -
+type: parsed
+protocol: sony12
+address: 1
+command: 38
+#
+name: BALANCE +
+type: parsed
+protocol: sony12
+address: 1
+command: 39
+#
+name: LOUDNESS
+type: parsed
+protocol: sony12
+address: 1
+command: 40
+#
+name: SURROUND
+type: parsed
+protocol: sony12
+address: 1
+command: 41
+#
+name: ANT/AUX
+type: parsed
+protocol: sony12
+address: 1
+command: 42
+#
+name: POWER ON
+type: parsed
+protocol: sony12
+address: 1
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 47
+#
+name: TIMER UP
+type: parsed
+protocol: sony12
+address: 1
+command: 49
+#
+name: TIMER DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 50
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony12
+address: 1
+command: 51
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony12
+address: 1
+command: 52
+#
+name: CLOCK SET
+type: parsed
+protocol: sony12
+address: 1
+command: 53
+#
+name: SLEEP
+type: parsed
+protocol: sony12
+address: 1
+command: 54
+#
+name: TELETEXT OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 56
+#
+name: INFO
+type: parsed
+protocol: sony12
+address: 1
+command: 58
+#
+name: PREVIOUS CHANNEL
+type: parsed
+protocol: sony12
+address: 1
+command: 59
+#
+name: TIMER
+type: parsed
+protocol: sony12
+address: 1
+command: 60
+#
+name: PICTURE OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 62
+#
+name: TELETEXT
+type: parsed
+protocol: sony12
+address: 1
+command: 63
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: sony12
+address: 1
+command: 64
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: sony12
+address: 1
+command: 65
+#
+name: INPUT VIDEO 3
+type: parsed
+protocol: sony12
+address: 1
+command: 66
+#
+name: INPUT RGB 1
+type: parsed
+protocol: sony12
+address: 1
+command: 67
+#
+name: INPUT RGB 2
+type: parsed
+protocol: sony12
+address: 1
+command: 68
+#
+name: INPUT VIDEO 4
+type: parsed
+protocol: sony12
+address: 1
+command: 71
+#
+name: INPUT VIDEO 5
+type: parsed
+protocol: sony12
+address: 1
+command: 72
+#
+name: INPUT VIDEO 6
+type: parsed
+protocol: sony12
+address: 1
+command: 73
+#
+name: INPUT VIDEO 7
+type: parsed
+protocol: sony12
+address: 1
+command: 74
+#
+name: INPUT VIDEO 8
+type: parsed
+protocol: sony12
+address: 1
+command: 75
+#
+name: INPUT VIDEO 9
+type: parsed
+protocol: sony12
+address: 1
+command: 76
+#
+name: INPUT VIDEO 10
+type: parsed
+protocol: sony12
+address: 1
+command: 77
+#
+name: INPUT VIDEO 11
+type: parsed
+protocol: sony12
+address: 1
+command: 78
+#
+name: INPUT VIDEO 12
+type: parsed
+protocol: sony12
+address: 1
+command: 79
+#
+name: INTERNAL SPKS ON/OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 80
+#
+name: ALARM
+type: parsed
+protocol: sony12
+address: 1
+command: 83
+#
+name: TABLET CHANGE
+type: parsed
+protocol: sony12
+address: 1
+command: 84
+#
+name: PIP CHANNEL UP
+type: parsed
+protocol: sony12
+address: 1
+command: 88
+#
+name: PIP CHANNEL DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 89
+#
+name: PIP TV/VIDEO
+type: parsed
+protocol: sony12
+address: 1
+command: 90
+#
+name: PIP ON/OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 91
+#
+name: FREEZE
+type: parsed
+protocol: sony12
+address: 1
+command: 92
+#
+name: PIP POSITION
+type: parsed
+protocol: sony12
+address: 1
+command: 94
+#
+name: PIP SWAP
+type: parsed
+protocol: sony12
+address: 1
+command: 95
+#
+name: MENU
+type: parsed
+protocol: sony12
+address: 1
+command: 96
+#
+name: EXIT
+type: parsed
+protocol: sony12
+address: 1
+command: 99
+#
+name: PICTURE MODE
+type: parsed
+protocol: sony12
+address: 1
+command: 100
+#
+name: CURSOR ENTER
+type: parsed
+protocol: sony12
+address: 1
+command: 101
+#
+name: UP (SELECT)
+type: parsed
+protocol: sony12
+address: 1
+command: 103
+#
+name: PIP - SELECT RIGHT
+type: parsed
+protocol: sony12
+address: 1
+command: 103
+#
+name: TV SYS
+type: parsed
+protocol: sony12
+address: 1
+command: 104
+#
+name: STEREO / MONO
+type: parsed
+protocol: sony12
+address: 1
+command: 105
+#
+name: COLOUR SYS
+type: parsed
+protocol: sony12
+address: 1
+command: 106
+#
+name: AUTO PROGRAM SCAN
+type: parsed
+protocol: sony12
+address: 1
+command: 107
+#
+name: PRESET
+type: parsed
+protocol: sony12
+address: 1
+command: 108
+#
+name: SEARCH +
+type: parsed
+protocol: sony12
+address: 1
+command: 110
+#
+name: SEARCH -
+type: parsed
+protocol: sony12
+address: 1
+command: 111
+#
+name: TREBLE +
+type: parsed
+protocol: sony12
+address: 1
+command: 112
+#
+name: TREBLE -
+type: parsed
+protocol: sony12
+address: 1
+command: 113
+#
+name: BASS +
+type: parsed
+protocol: sony12
+address: 1
+command: 114
+#
+name: BASS -
+type: parsed
+protocol: sony12
+address: 1
+command: 115
+#
+name: CURSOR UP
+type: parsed
+protocol: sony12
+address: 1
+command: 116
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 117
+#
+name: CHANNEL ADD
+type: parsed
+protocol: sony12
+address: 1
+command: 120
+#
+name: CHANNEL SKIP
+type: parsed
+protocol: sony12
+address: 1
+command: 121
+#
+name: PARAMETER SELECT
+type: parsed
+protocol: sony12
+address: 1
+command: 124
+#
+name: TRINITRON
+type: parsed
+protocol: sony12
+address: 1
+command: 125
+#

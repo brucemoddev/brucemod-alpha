@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 27
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 27
+command: 2
+#
+name: VIDEO
+type: parsed
+protocol: rc5
+address: 27
+command: 3
+#
+name: S-VIDEO
+type: parsed
+protocol: rc5
+address: 27
+command: 4
+#
+name: RGB
+type: parsed
+protocol: rc5
+address: 27
+command: 5
+#
+name: YCRCB
+type: parsed
+protocol: rc5
+address: 27
+command: 6
+#
+name: PASS-T
+type: parsed
+protocol: rc5
+address: 27
+command: 7
+#
+name: PASS-TX
+type: parsed
+protocol: rc5
+address: 27
+command: 8
+#
+name: 4:3
+type: parsed
+protocol: rc5
+address: 27
+command: 9
+#
+name: ANAMORPHIC
+type: parsed
+protocol: rc5
+address: 27
+command: 11
+#
+name: BRIGHTNESS
+type: parsed
+protocol: rc5
+address: 27
+command: 12
+#
+name: CONTRAST
+type: parsed
+protocol: rc5
+address: 27
+command: 13
+#
+name: COLOR
+type: parsed
+protocol: rc5
+address: 27
+command: 14
+#
+name: TINT
+type: parsed
+protocol: rc5
+address: 27
+command: 15
+#
+name: DETAIL
+type: parsed
+protocol: rc5
+address: 27
+command: 16
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 27
+command: 17
+#
+name: PROFILE
+type: parsed
+protocol: rc5
+address: 27
+command: 18
+#
+name: STORE
+type: parsed
+protocol: rc5
+address: 27
+command: 19
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 27
+command: 20
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 27
+command: 21
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 27
+command: 22
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 27
+command: 23
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 27
+command: 24
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 27
+command: 25
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 27
+command: 26
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 27
+command: 27
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 27
+command: 28
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 27
+command: 29
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 27
+command: 30
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 27
+command: 31
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 27
+command: 32
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 27
+command: 33
+#

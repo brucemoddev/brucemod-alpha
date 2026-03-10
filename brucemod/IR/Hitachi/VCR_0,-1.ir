@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: panasonic
+address: 0
+command: 0
+#
+name: TV OPERATE
+type: parsed
+protocol: barco
+address: 0
+command: 1
+#
+name: TV VOLUME ^
+type: parsed
+protocol: panasonic
+address: 0
+command: 1
+#
+name: MUTE
+type: parsed
+protocol: barco
+address: 0
+command: 6
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: barco
+address: 0
+command: 7
+#
+name: TV MENU
+type: parsed
+protocol: barco
+address: 0
+command: 8
+#
+name: LAST CH
+type: parsed
+protocol: panasonic
+address: 0
+command: 10
+#
+name: TV MUTE
+type: parsed
+protocol: panasonic
+address: 0
+command: 11
+#
+name: TV VOLUME V
+type: parsed
+protocol: panasonic
+address: 0
+command: 13
+#
+name: TV 1
+type: parsed
+protocol: barco
+address: 0
+command: 16
+#
+name: TV 1 (Q Z)
+type: parsed
+protocol: panasonic
+address: 0
+command: 16
+#
+name: TV 2
+type: parsed
+protocol: barco
+address: 0
+command: 17
+#
+name: TV 2 (A B C)
+type: parsed
+protocol: panasonic
+address: 0
+command: 17
+#
+name: TV 3
+type: parsed
+protocol: barco
+address: 0
+command: 18
+#
+name: TV 3 (D E F)
+type: parsed
+protocol: panasonic
+address: 0
+command: 18
+#
+name: TV 4
+type: parsed
+protocol: barco
+address: 0
+command: 19
+#
+name: TV 4 (G H I)
+type: parsed
+protocol: panasonic
+address: 0
+command: 19
+#
+name: TV 5
+type: parsed
+protocol: barco
+address: 0
+command: 20
+#
+name: TV 5 (J K L)
+type: parsed
+protocol: panasonic
+address: 0
+command: 20
+#
+name: TV 6 (CL)
+type: parsed
+protocol: barco
+address: 0
+command: 21
+#
+name: TV 6 (M N O)
+type: parsed
+protocol: panasonic
+address: 0
+command: 21
+#
+name: TV 7
+type: parsed
+protocol: barco
+address: 0
+command: 22
+#
+name: TV 7 (P R S)
+type: parsed
+protocol: panasonic
+address: 0
+command: 22
+#
+name: TV 8
+type: parsed
+protocol: barco
+address: 0
+command: 23
+#
+name: TV 8 (T U V AM)
+type: parsed
+protocol: panasonic
+address: 0
+command: 23
+#
+name: TV 9
+type: parsed
+protocol: barco
+address: 0
+command: 24
+#
+name: TV 9 (W X Y PM)
+type: parsed
+protocol: panasonic
+address: 0
+command: 24
+#
+name: TV 0
+type: parsed
+protocol: barco
+address: 0
+command: 25
+#
+name: TV 0 (? !)
+type: parsed
+protocol: panasonic
+address: 0
+command: 25
+#
+name: TV OPERATE
+type: parsed
+protocol: panasonic
+address: 0
+command: 32
+#
+name: TV CHANNEL V
+type: parsed
+protocol: barco
+address: 0
+command: 33
+#
+name: TV PROGRAMME ^
+type: parsed
+protocol: panasonic
+address: 0
+command: 34
+#
+name: TV PROGRAMME V
+type: parsed
+protocol: panasonic
+address: 0
+command: 35
+#
+name: VOL ^
+type: parsed
+protocol: panasonic
+address: 0
+command: 36
+#
+name: VOL V
+type: parsed
+protocol: panasonic
+address: 0
+command: 37
+#
+name: VOLUME ^
+type: parsed
+protocol: barco
+address: 0
+command: 46
+#
+name: VOLUME V
+type: parsed
+protocol: barco
+address: 0
+command: 47
+#

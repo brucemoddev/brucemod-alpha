@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec2
+address: 186
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186
+command: 1
+#
+name: VOLUME V
+type: parsed
+protocol: nec2
+address: 186
+command: 2
+#
+name: VOLUME ^
+type: parsed
+protocol: nec2
+address: 186
+command: 3
+#
+name: PHONO
+type: parsed
+protocol: nec2
+address: 186
+command: 4
+#
+name: TUNER P.SCAN P.CALL
+type: parsed
+protocol: nec2
+address: 186
+command: 6
+#
+name: AM/FM
+type: parsed
+protocol: nec2
+address: 186
+command: 7
+#
+name: VCR 1
+type: parsed
+protocol: nec2
+address: 186
+command: 14
+#
+name: VCR 2
+type: parsed
+protocol: nec2
+address: 186
+command: 15
+#
+name: VDP
+type: parsed
+protocol: nec2
+address: 186
+command: 59
+#
+name: TUNER 0
+type: parsed
+protocol: nec2
+address: 186
+command: 64
+#
+name: TUNER 1
+type: parsed
+protocol: nec2
+address: 186
+command: 65
+#
+name: TUNER 2
+type: parsed
+protocol: nec2
+address: 186
+command: 66
+#
+name: TUNER 3
+type: parsed
+protocol: nec2
+address: 186
+command: 67
+#
+name: TUNER 4
+type: parsed
+protocol: nec2
+address: 186
+command: 68
+#
+name: TUNER 5
+type: parsed
+protocol: nec2
+address: 186
+command: 69
+#
+name: TUNER 6
+type: parsed
+protocol: nec2
+address: 186
+command: 70
+#
+name: TUNER 7
+type: parsed
+protocol: nec2
+address: 186
+command: 71
+#
+name: TUNER 8
+type: parsed
+protocol: nec2
+address: 186
+command: 72
+#
+name: TUNER 9
+type: parsed
+protocol: nec2
+address: 186
+command: 73
+#
+name: CONTROL ^
+type: parsed
+protocol: nec2
+address: 186
+command: 79
+#
+name: CONTROL V
+type: parsed
+protocol: nec2
+address: 186
+command: 80
+#
+name: SUPER BASS
+type: parsed
+protocol: nec2
+address: 186
+command: 104
+#
+name: BASS
+type: parsed
+protocol: nec2
+address: 186
+command: 106
+#
+name: TREBLE
+type: parsed
+protocol: nec2
+address: 186
+command: 108
+#
+name: BALANCE
+type: parsed
+protocol: nec2
+address: 186
+command: 110
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 186
+command: 120
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 186
+command: 121
+#
+name: SOURCE DIRECT
+type: parsed
+protocol: nec2
+address: 186
+command: 127
+#
+name: TUNER TUNING ^
+type: parsed
+protocol: nec2
+address: 186
+command: 178
+#
+name: TUNER TUNING V
+type: parsed
+protocol: nec2
+address: 186
+command: 179
+#
+name: SURROUND OFF
+type: parsed
+protocol: nec2
+address: 186
+command: 224
+#
+name: DOLBY PRO.LOGIC
+type: parsed
+protocol: nec2
+address: 186
+command: 225
+#
+name: HALL
+type: parsed
+protocol: nec2
+address: 186
+command: 227
+#
+name: NATURAL
+type: parsed
+protocol: nec2
+address: 186
+command: 228
+#
+name: STADIUM
+type: parsed
+protocol: nec2
+address: 186
+command: 229
+#
+name: CENTER MODE
+type: parsed
+protocol: nec2
+address: 186
+command: 231
+#
+name: DELAY TIME
+type: parsed
+protocol: nec2
+address: 186
+command: 233
+#
+name: REAR LEVEL
+type: parsed
+protocol: nec2
+address: 186
+command: 240
+#
+name: CENTER LEVEL
+type: parsed
+protocol: nec2
+address: 186
+command: 242
+#
+name: MEMORY CALL
+type: parsed
+protocol: nec2
+address: 186
+command: 244
+#
+name: TAPE 1
+type: parsed
+protocol: nec2
+address: 186
+command: 246
+#
+name: TAPE 2
+type: parsed
+protocol: nec2
+address: 186
+command: 247
+#
+name: TEST TONE
+type: parsed
+protocol: nec2
+address: 186
+command: 251
+#
+name: SPATIAL
+type: parsed
+protocol: nec2
+address: 186
+command: 254
+#

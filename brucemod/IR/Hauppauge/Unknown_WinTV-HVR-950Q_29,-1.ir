@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 29
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 29
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 29
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 29
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 29
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 29
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 29
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 29
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 29
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 29
+command: 9
+#
+name: KEY_TEXT
+type: parsed
+protocol: rc5
+address: 29
+command: 10
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 29
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 29
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 29
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 29
+command: 17
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 29
+command: 18
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 29
+command: 20
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 29
+command: 21
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 29
+command: 22
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 29
+command: 23
+#
+name: KEY_TV
+type: parsed
+protocol: rc5
+address: 29
+command: 28
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rc5
+address: 29
+command: 30
+#
+name: KEY_BACK
+type: parsed
+protocol: rc5
+address: 29
+command: 31
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc5
+address: 29
+command: 32
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 29
+command: 33
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 29
+command: 36
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 29
+command: 37
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 29
+command: 48
+#
+name: FastRewind
+type: parsed
+protocol: rc5
+address: 29
+command: 50
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 29
+command: 52
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 29
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 29
+command: 54
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 29
+command: 55
+#
+name: KEY_HOME
+type: parsed
+protocol: rc5
+address: 29
+command: 59
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 29
+command: 61
+#

@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZONE POWER
+type: parsed
+protocol: recs80_45
+address: 0
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: recs80_45
+address: 0
+command: 2
+#
+name: DND
+type: parsed
+protocol: recs80_45
+address: 0
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 4
+#
+name: BASS +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 6
+#
+name: TREBLE +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 7
+#
+name: TREB +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 7
+#
+name: SOURCE 1
+type: parsed
+protocol: recs80_45
+address: 0
+command: 8
+#
+name: SOURCE 2
+type: parsed
+protocol: recs80_45
+address: 0
+command: 9
+#
+name: SOURCE 3
+type: parsed
+protocol: recs80_45
+address: 0
+command: 10
+#
+name: SOURCE 4
+type: parsed
+protocol: recs80_45
+address: 0
+command: 11
+#
+name: SOURCE 5
+type: parsed
+protocol: recs80_45
+address: 0
+command: 12
+#
+name: EQ FLAT
+type: parsed
+protocol: recs80_45
+address: 0
+command: 15
+#
+name: WHOLEHOUSE ON
+type: parsed
+protocol: recs80_45
+address: 0
+command: 17
+#
+name: WHM ON (GROUP)
+type: parsed
+protocol: recs80_45
+address: 0
+command: 17
+#
+name: LOUDNESS ON/OFF
+type: parsed
+protocol: recs80_45
+address: 0
+command: 24
+#
+name: LOUD
+type: parsed
+protocol: recs80_45
+address: 0
+command: 24
+#
+name: SPATIAL ON/OFF
+type: parsed
+protocol: recs80_45
+address: 0
+command: 25
+#
+name: SPATIAL ENHANCE
+type: parsed
+protocol: recs80_45
+address: 0
+command: 25
+#
+name: VOLUME -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 36
+#
+name: BASS -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 38
+#
+name: TREBLE -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 39
+#
+name: TREB -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 39
+#
+name: SOURCE 6
+type: parsed
+protocol: recs80_45
+address: 0
+command: 40
+#
+name: WHOLEHOUSE OFF
+type: parsed
+protocol: recs80_45
+address: 0
+command: 49
+#
+name: WHM OFF (UNGROUP)
+type: parsed
+protocol: recs80_45
+address: 0
+command: 49
+#
+name: SYSTEM ON/OFF
+type: parsed
+protocol: recs80_45
+address: 0
+command: 56
+#
+name: SYSTEM ALL OFF
+type: parsed
+protocol: recs80_45
+address: 0
+command: 56
+#

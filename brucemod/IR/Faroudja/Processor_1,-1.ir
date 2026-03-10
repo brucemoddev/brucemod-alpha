@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT MODE
+type: parsed
+protocol: rc5
+address: 1
+command: 0
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 1
+command: 1
+#
+name: POWER TOGGLE
+type: parsed
+protocol: rc5
+address: 1
+command: 1
+#
+name: PRESET/ENTER
+type: parsed
+protocol: rc5
+address: 1
+command: 2
+#
+name: SELECT/ENTER
+type: parsed
+protocol: rc5
+address: 1
+command: 2
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 1
+command: 3
+#
+name: FUNCTION +
+type: parsed
+protocol: rc5
+address: 1
+command: 4
+#
+name: FUNCTION UP
+type: parsed
+protocol: rc5
+address: 1
+command: 4
+#
+name: VALUE +
+type: parsed
+protocol: rc5
+address: 1
+command: 5
+#
+name: VALUE UP
+type: parsed
+protocol: rc5
+address: 1
+command: 5
+#
+name: FUNCTION -
+type: parsed
+protocol: rc5
+address: 1
+command: 6
+#
+name: FUNCTION DOWN
+type: parsed
+protocol: rc5
+address: 1
+command: 6
+#
+name: VALUE -
+type: parsed
+protocol: rc5
+address: 1
+command: 7
+#
+name: VALUE DOWN
+type: parsed
+protocol: rc5
+address: 1
+command: 7
+#

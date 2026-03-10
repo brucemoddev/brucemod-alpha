@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MUTE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 24
+#
+name: KEY_EXIT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 25
+#
+name: KEY_RF
+type: parsed
+protocol: recs80_45
+address: 5
+command: 27
+#
+name: KEY_8
+type: parsed
+protocol: recs80_45
+address: 5
+command: 28
+#
+name: KEY_4
+type: parsed
+protocol: recs80_45
+address: 5
+command: 29
+#
+name: KEY_POWER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 30
+#
+name: KEY_FAV
+type: parsed
+protocol: recs80_45
+address: 5
+command: 31
+#
+name: X_KEY_SCAN
+type: parsed
+protocol: recs80_45
+address: 5
+command: 32
+#
+name: KEY_RIGHT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 33
+#
+name: KEY_INFO
+type: parsed
+protocol: recs80_45
+address: 5
+command: 34
+#
+name: KEY_RED
+type: parsed
+protocol: recs80_45
+address: 5
+command: 35
+#
+name: KEY_7
+type: parsed
+protocol: recs80_45
+address: 5
+command: 36
+#
+name: KEY_3
+type: parsed
+protocol: recs80_45
+address: 5
+command: 37
+#
+name: KEY_YELLOW
+type: parsed
+protocol: recs80_45
+address: 5
+command: 38
+#
+name: KEY_MENU
+type: parsed
+protocol: recs80_45
+address: 5
+command: 39
+#
+name: KEY_UP
+type: parsed
+protocol: recs80_45
+address: 5
+command: 40
+#
+name: KEY_OK
+type: parsed
+protocol: recs80_45
+address: 5
+command: 41
+#
+name: KEY_DOWN
+type: parsed
+protocol: recs80_45
+address: 5
+command: 42
+#
+name: KEY_0
+type: parsed
+protocol: recs80_45
+address: 5
+command: 43
+#
+name: KEY_6
+type: parsed
+protocol: recs80_45
+address: 5
+command: 44
+#
+name: KEY_2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 45
+#
+name: X_KEY_TV_RADIO
+type: parsed
+protocol: recs80_45
+address: 5
+command: 46
+#
+name: KEY_EPG
+type: parsed
+protocol: recs80_45
+address: 5
+command: 47
+#
+name: KEY_LEFT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 49
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 5
+command: 50
+#
+name: KEY_9
+type: parsed
+protocol: recs80_45
+address: 5
+command: 51
+#
+name: KEY_5
+type: parsed
+protocol: recs80_45
+address: 5
+command: 52
+#
+name: KEY_1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 53
+#
+name: KEY_BLUE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 54
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 5
+command: 55
+#
+name: X_KEY_TV_AV
+type: parsed
+protocol: recs80_45
+address: 5
+command: 56
+#
+name: KEY_GREEN
+type: parsed
+protocol: recs80_45
+address: 5
+command: 59
+#
+name: X_KEY_RCL
+type: parsed
+protocol: recs80_45
+address: 5
+command: 60
+#

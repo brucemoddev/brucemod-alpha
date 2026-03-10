@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD - SKIP +
+type: parsed
+protocol: nec1
+address: 134.97
+command: 0
+#
+name: DISC +
+type: parsed
+protocol: nec1
+address: 134.97
+command: 2
+#
+name: CD - SKIP -
+type: parsed
+protocol: nec1
+address: 134.97
+command: 4
+#
+name: CD - PAUSE
+type: parsed
+protocol: nec1
+address: 134.97
+command: 5
+#
+name: CD - PLAY
+type: parsed
+protocol: nec1
+address: 134.97
+command: 8
+#
+name: CD - STOP
+type: parsed
+protocol: nec1
+address: 134.97
+command: 9
+#
+name: CD - FF
+type: parsed
+protocol: nec1
+address: 134.97
+command: 12
+#
+name: CD - RW
+type: parsed
+protocol: nec1
+address: 134.97
+command: 13
+#

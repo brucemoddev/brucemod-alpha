@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: A_PROC
+type: parsed
+protocol: nec
+address: 134.114
+command: 6
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 134.114
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 134.114
+command: 9
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 134.114
+command: 10
+#
+name: BAND_PROG
+type: parsed
+protocol: nec
+address: 134.114
+command: 13
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 134.114
+command: 14
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 134.114
+command: 15
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 134.114
+command: 18
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 134.114
+command: 19
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 134.114
+command: 20
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 134.114
+command: 21
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 134.114
+command: 22
+#
+name: TILT_DOWN
+type: parsed
+protocol: nec
+address: 134.114
+command: 75
+#
+name: TILT_UP
+type: parsed
+protocol: nec
+address: 134.114
+command: 76
+#

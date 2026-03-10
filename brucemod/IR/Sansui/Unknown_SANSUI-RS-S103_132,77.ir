@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Random
+type: parsed
+protocol: nec
+address: 132.77
+command: 0
+#
+name: Repeat_1/All
+type: parsed
+protocol: nec
+address: 132.77
+command: 1
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 132.77
+command: 2
+#
+name: Program
+type: parsed
+protocol: nec
+address: 132.77
+command: 3
+#
+name: Intro
+type: parsed
+protocol: nec
+address: 132.77
+command: 4
+#
+name: A.Space
+type: parsed
+protocol: nec
+address: 132.77
+command: 5
+#
+name: Repeat_A-B
+type: parsed
+protocol: nec
+address: 132.77
+command: 6
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 132.77
+command: 9
+#
+name: Search_rew
+type: parsed
+protocol: nec
+address: 132.77
+command: 10
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 132.77
+command: 11
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 132.77
+command: 13
+#
+name: AMPS_rew
+type: parsed
+protocol: nec
+address: 132.77
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 132.77
+command: 15
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 132.77
+command: 16
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 132.77
+command: 17
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 132.77
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 132.77
+command: 19
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 132.77
+command: 21
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 132.77
+command: 22
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 132.77
+command: 23
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 132.77
+command: 25
+#
+name: AMPS_ffd
+type: parsed
+protocol: nec
+address: 132.77
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 132.77
+command: 27
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 132.77
+command: 29
+#
+name: Search_ffd
+type: parsed
+protocol: nec
+address: 132.77
+command: 30
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 132.77
+command: 31
+#

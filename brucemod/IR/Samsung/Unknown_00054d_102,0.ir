@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VIDEO
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 34
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 128
+#
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 129
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 130
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 131
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 132
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 133
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 134
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 135
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 136
+#
+name: KEY_9
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 137
+#
+name: KEY_MENU
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 139
+#
+name: KEY_OPEN
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 140
+#
+name: KEY_AUDIO
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 142
+#
+name: KEY_INFO
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 143
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 144
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 145
+#
+name: disc_menu
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 148
+#
+name: KEY_OK
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 149
+#
+name: KEY_UP
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 151
+#
+name: KEY_DOWN
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 152
+#
+name: KEY_RIGHT
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 153
+#
+name: KEY_LEFT
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 154
+#
+name: KEY_OK
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 155
+#
+name: KEY_REWIND
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 156
+#
+name: KEY_AGAIN
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 157
+#
+name: KEY_FORWARD
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 158
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 159
+#
+name: KEY_PLAY
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 160
+#
+name: KEY_NEXT
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 161
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 162
+#
+name: KEY_CANCEL
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 164
+#
+name: step
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 166
+#
+name: hdmi_sel
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 168
+#
+name: i.replay
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 170
+#
+name: KEY_ZOOM
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 172
+#
+name: i.skip
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 174
+#
+name: ez_view
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 175
+#

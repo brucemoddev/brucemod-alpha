@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: pioneer
+address: 161
+command: 1
+#
+name: D. SKIP
+type: parsed
+protocol: pioneer
+address: 161
+command: 1
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 161
+command: 2
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 161
+command: 3
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 161
+command: 4
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 161
+command: 5
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 161
+command: 6
+#
+name: FF >>>
+type: parsed
+protocol: pioneer
+address: 161
+command: 16
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 161
+command: 16
+#
+name: REW <<<
+type: parsed
+protocol: pioneer
+address: 161
+command: 17
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 161
+command: 17
+#
+name: REC. MUTE
+type: parsed
+protocol: pioneer
+address: 161
+command: 18
+#
+name: RECORD
+type: parsed
+protocol: pioneer
+address: 161
+command: 20
+#
+name: PLAY <
+type: parsed
+protocol: pioneer
+address: 161
+command: 21
+#
+name: STOP
+type: parsed
+protocol: pioneer
+address: 161
+command: 22
+#
+name: PLAY
+type: parsed
+protocol: pioneer
+address: 161
+command: 23
+#
+name: PLAY >
+type: parsed
+protocol: pioneer
+address: 161
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 161
+command: 24
+#
+name: RETURN
+type: parsed
+protocol: pioneer
+address: 161
+command: 30
+#
+name: ALL REWIND
+type: parsed
+protocol: pioneer
+address: 161
+command: 31
+#
+name: RANDOM
+type: parsed
+protocol: pioneer
+address: 161
+command: 66
+#
+name: SCAN
+type: parsed
+protocol: pioneer
+address: 161
+command: 68
+#
+name: COUNTER MODE
+type: parsed
+protocol: pioneer
+address: 161
+command: 71
+#
+name: COUNTER RESET
+type: parsed
+protocol: pioneer
+address: 161
+command: 72
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: pioneer
+address: 161
+command: 82
+#

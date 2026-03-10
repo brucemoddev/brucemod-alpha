@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: tune_down
+type: parsed
+protocol: necx1
+address: 164.164
+command: 4
+#
+name: KEY_MODE
+type: parsed
+protocol: necx1
+address: 164.164
+command: 5
+#
+name: scan_up
+type: parsed
+protocol: necx1
+address: 164.164
+command: 6
+#
+name: tune_up
+type: parsed
+protocol: necx1
+address: 164.164
+command: 12
+#
+name: random
+type: parsed
+protocol: necx1
+address: 164.164
+command: 13
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: necx1
+address: 164.164
+command: 19
+#
+name: mem_prog
+type: parsed
+protocol: necx1
+address: 164.164
+command: 20
+#
+name: intro
+type: parsed
+protocol: necx1
+address: 164.164
+command: 21
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 164.164
+command: 22
+#
+name: KEY_STOP
+type: parsed
+protocol: necx1
+address: 164.164
+command: 27
+#
+name: mem_up
+type: parsed
+protocol: necx1
+address: 164.164
+command: 28
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 164.164
+command: 32
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 164.164
+command: 96
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx1
+address: 164.164
+command: 160
+#

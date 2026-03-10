@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SAMSUNG
+type: parsed
+protocol: necx2
+address: 7.7
+command: 2
+#
+name: SAMSUNG
+type: parsed
+protocol: necx2
+address: 7
+command: 2
+#
+name: LG
+type: parsed
+protocol: necx2
+address: 4
+command: 8
+#
+name: GRUNDIG
+type: parsed
+protocol: rc5
+address: 0.0
+command: 12
+#
+name: SONY
+type: parsed
+protocol: sony20
+address: 1.0
+command: 21
+#
+name: SONY
+type: parsed
+protocol: sony20
+address: 2.0
+command: 21
+#
+name: ROKU
+type: parsed
+protocol: nec2
+address: 4.0
+command: 8
+#
+name: TELEFUNKEN
+type: parsed
+protocol: rc5
+address: 1.0
+command: 12
+#
+name: VIZIO
+type: parsed
+protocol: nec
+address: 4.0
+command: 8
+#
+name: PHILLIPS
+type: parsed
+protocol: rc6
+address: 0.0
+command: 12
+#
+name: MEDION
+type: parsed
+protocol: nec
+address: 25.0
+command: 24
+#
+name: AMAZON
+type: parsed
+protocol: nec2
+address: 2.125
+command: 70
+#
+name: NEC
+type: parsed
+protocol: nec2
+address: 4
+command: 8
+#
+name: TOSHIBA
+type: parsed
+protocol: nec2
+address: 64
+command: 18
+#
+name: HITACHI
+type: parsed
+protocol: nec2
+address: 80
+command: 63
+#
+name: ONKYO
+type: parsed
+protocol: nec2
+address: 210.109
+command: 4
+#
+name: FUJITSU
+type: parsed
+protocol: fujitsu
+address: 64.8
+command: 2
+#
+name: AIWA
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 0
+#
+name: CANON
+type: parsed
+protocol: nec2
+address: 80
+command: 63
+#
+name: AKAI
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: ROKU
+type: parsed
+protocol: nec2
+address: 234.199
+command: 33
+#
+name: OPPO
+type: parsed
+protocol: nec
+address: 73.0
+command: 26
+#
+name: FETCH
+type: parsed
+protocol: nec2
+address: 100.70
+command: 93
+#
+name: DENVER
+type: parsed
+protocol: nec2
+address: 0.127
+command: 10
+#
+name: XBOX
+type: parsed
+protocol: nec2
+address: 128.216
+command: 47
+#
+name: PLAYSTATION
+type: parsed
+protocol: sony20
+address: 90.27
+command: 21
+#
+name: PLATINUM
+type: parsed
+protocol: nec2
+address: 0.127
+command: 21
+#
+name: HISENSE
+type: parsed
+protocol: nec2
+address: 0.191
+command: 13
+#
+name: ELITELUX
+type: parsed
+protocol: nec2
+address: 0.127
+command: 21
+#
+name: PANASONIC
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 61
+#
+name: JVC
+type: parsed
+protocol: jvc
+address: 0.31
+command: 218
+#
+name: DENON
+type: parsed
+protocol: denon
+address: 4
+command: 8
+#
+name: YAMAHA
+type: parsed
+protocol: nec2
+address: 120
+command: 204
+#
+name: APPLE
+type: parsed
+protocol: nec2
+address: 231
+command: 24
+#
+name: PIONEER
+type: parsed
+protocol: nec2
+address: 170
+command: 72
+#
+name: MITSUBISHI
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: SHARP
+type: parsed
+protocol: sharp
+address: 1
+command: 233
+#
+name: XIAOMI
+type: parsed
+protocol: nec2
+address: 32
+command: 65
+#
+name: XIAOMI
+type: parsed
+protocol: nec
+address: 60
+command: 204
+#
+name: BOSE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 76
+#
+name: SANYO
+type: parsed
+protocol: nec
+address: 56.0
+command: 18
+#

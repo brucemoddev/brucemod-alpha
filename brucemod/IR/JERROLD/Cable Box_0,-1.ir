@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CATV 0
+type: parsed
+protocol: GI_cable
+address: 0
+command: 0
+#
+name: 0
+type: parsed
+protocol: GI_cable
+address: 0
+command: 0
+#
+name: CATV 1
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: 1
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: CATV 2
+type: parsed
+protocol: GI_cable
+address: 0
+command: 2
+#
+name: 2
+type: parsed
+protocol: GI_cable
+address: 0
+command: 2
+#
+name: CATV 3
+type: parsed
+protocol: GI_cable
+address: 0
+command: 3
+#
+name: 3
+type: parsed
+protocol: GI_cable
+address: 0
+command: 3
+#
+name: CATV 4
+type: parsed
+protocol: GI_cable
+address: 0
+command: 4
+#
+name: 4
+type: parsed
+protocol: GI_cable
+address: 0
+command: 4
+#
+name: CATV 5
+type: parsed
+protocol: GI_cable
+address: 0
+command: 5
+#
+name: 5
+type: parsed
+protocol: GI_cable
+address: 0
+command: 5
+#
+name: CATV 6
+type: parsed
+protocol: GI_cable
+address: 0
+command: 6
+#
+name: 6
+type: parsed
+protocol: GI_cable
+address: 0
+command: 6
+#
+name: CATV 7
+type: parsed
+protocol: GI_cable
+address: 0
+command: 7
+#
+name: 7
+type: parsed
+protocol: GI_cable
+address: 0
+command: 7
+#
+name: CATV 8
+type: parsed
+protocol: GI_cable
+address: 0
+command: 8
+#
+name: 8
+type: parsed
+protocol: GI_cable
+address: 0
+command: 8
+#
+name: CATV 9
+type: parsed
+protocol: GI_cable
+address: 0
+command: 9
+#
+name: 9
+type: parsed
+protocol: GI_cable
+address: 0
+command: 9
+#
+name: CATV CATV POWER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 10
+#
+name: CATV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 10
+#
+name: POWER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 10
+#
+name: CATV CH +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 11
+#
+name: CHANNEL +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 11
+#
+name: CATV CH -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 12
+#
+name: CHANNEL -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 12
+#
+name: CATV VOL +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 13
+#
+name: CATV VOL -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 14
+#
+name: VOLUME -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 14
+#
+name: CATV MUTE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 15
+#
+name: MUTE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 15
+#
+name: CATV ENTER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 16
+#
+name: ENTER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 16
+#
+name: CATV SELECT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: SELECT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: CATV DISP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 18
+#
+name: DISPLAY
+type: parsed
+protocol: GI_cable
+address: 0
+command: 18
+#
+name: CATV <CH
+type: parsed
+protocol: GI_cable
+address: 0
+command: 19
+#
+name: <CH
+type: parsed
+protocol: GI_cable
+address: 0
+command: 19
+#
+name: CHANNEL <
+type: parsed
+protocol: GI_cable
+address: 0
+command: 19
+#
+name: CATV <A B>
+type: parsed
+protocol: GI_cable
+address: 0
+command: 20
+#
+name: A/B
+type: parsed
+protocol: GI_cable
+address: 0
+command: 20
+#
+name: CATV FAV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 21
+#
+name: FAV.
+type: parsed
+protocol: GI_cable
+address: 0
+command: 21
+#
+name: FAV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 21
+#
+name: CATV PROG
+type: parsed
+protocol: GI_cable
+address: 0
+command: 22
+#
+name: PROG.
+type: parsed
+protocol: GI_cable
+address: 0
+command: 22
+#
+name: PROGRAM
+type: parsed
+protocol: GI_cable
+address: 0
+command: 22
+#
+name: CATV DELETE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 23
+#
+name: DELETE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 23
+#
+name: CATV F
+type: parsed
+protocol: GI_cable
+address: 0
+command: 24
+#
+name: F
+type: parsed
+protocol: GI_cable
+address: 0
+command: 24
+#
+name: CATV MENU
+type: parsed
+protocol: GI_cable
+address: 0
+command: 25
+#
+name: MENU
+type: parsed
+protocol: GI_cable
+address: 0
+command: 25
+#

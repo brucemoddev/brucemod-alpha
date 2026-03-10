@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET UP
+type: parsed
+protocol: sony15
+address: 121
+command: 16
+#
+name: PRE UP
+type: parsed
+protocol: sony15
+address: 121
+command: 16
+#
+name: PRESET DN
+type: parsed
+protocol: sony15
+address: 121
+command: 17
+#
+name: PRE DN
+type: parsed
+protocol: sony15
+address: 121
+command: 17
+#
+name: VOL UP
+type: parsed
+protocol: sony15
+address: 121
+command: 18
+#
+name: VOL DN
+type: parsed
+protocol: sony15
+address: 121
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: sony15
+address: 121
+command: 20
+#
+name: VID2
+type: parsed
+protocol: sony15
+address: 121
+command: 30
+#
+name: VID 2
+type: parsed
+protocol: sony15
+address: 121
+command: 30
+#
+name: TUNER
+type: parsed
+protocol: sony15
+address: 121
+command: 33
+#
+name: VID1
+type: parsed
+protocol: sony15
+address: 121
+command: 34
+#
+name: VID 1
+type: parsed
+protocol: sony15
+address: 121
+command: 34
+#
+name: TAPE 1
+type: parsed
+protocol: sony15
+address: 121
+command: 35
+#
+name: MD TAPE
+type: parsed
+protocol: sony15
+address: 121
+command: 35
+#
+name: CD
+type: parsed
+protocol: sony15
+address: 121
+command: 37
+#
+name: CD/SACD
+type: parsed
+protocol: sony15
+address: 121
+command: 37
+#
+name: PWR ON
+type: parsed
+protocol: sony15
+address: 121
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony15
+address: 121
+command: 47
+#
+name: VID3
+type: parsed
+protocol: sony15
+address: 121
+command: 66
+#
+name: VID4
+type: parsed
+protocol: sony15
+address: 121
+command: 67
+#
+name: MD
+type: parsed
+protocol: sony15
+address: 121
+command: 105
+#
+name: TV/ SAT/ CABLE
+type: parsed
+protocol: sony15
+address: 121
+command: 106
+#
+name: TV SAT
+type: parsed
+protocol: sony15
+address: 121
+command: 106
+#
+name: LD
+type: parsed
+protocol: sony15
+address: 121
+command: 107
+#
+name: DVD
+type: parsed
+protocol: sony15
+address: 121
+command: 125
+#

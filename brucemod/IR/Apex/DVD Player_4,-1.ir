@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 4
+command: 0
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 4
+command: 1
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 4
+command: 2
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 4
+command: 3
+#
+name: GOTO
+type: parsed
+protocol: nec1
+address: 4
+command: 4
+#
+name: RESUME
+type: parsed
+protocol: nec1
+address: 4
+command: 5
+#
+name: STEP
+type: parsed
+protocol: nec1
+address: 4
+command: 6
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 4
+command: 7
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 4
+command: 9
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 4
+command: 11
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 4
+command: 13
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 4
+command: 14
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 4
+command: 15
+#
+name: <<
+type: parsed
+protocol: nec1
+address: 4
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 4
+command: 17
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 4
+command: 18
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 4
+command: 19
+#
+name: >>
+type: parsed
+protocol: nec1
+address: 4
+command: 20
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 4
+command: 21
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 4
+command: 22
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 4
+command: 23
+#
+name: <<
+type: parsed
+protocol: nec1
+address: 4
+command: 24
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 4
+command: 25
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 4
+command: 27
+#
+name: >>
+type: parsed
+protocol: nec1
+address: 4
+command: 28
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 4
+command: 29
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 4
+command: 29
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 4
+command: 31
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 4
+command: 64
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 4
+command: 65
+#
+name: KEY+
+type: parsed
+protocol: nec1
+address: 4
+command: 72
+#
+name: KEY-
+type: parsed
+protocol: nec1
+address: 4
+command: 73
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 4
+command: 74
+#
+name: P/N
+type: parsed
+protocol: nec1
+address: 4
+command: 76
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 4
+command: 78
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 4
+command: 80
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 4
+command: 81
+#
+name: PBC OFF
+type: parsed
+protocol: nec1
+address: 4
+command: 82
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 4
+command: 84
+#
+name: 10+
+type: parsed
+protocol: nec1
+address: 4
+command: 85
+#
+name: VOCAL
+type: parsed
+protocol: nec1
+address: 4
+command: 86
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 4
+command: 88
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 4
+command: 89
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 4
+command: 92
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 4
+command: 93
+#

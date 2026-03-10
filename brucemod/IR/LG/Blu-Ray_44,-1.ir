@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44.0
+command: 30
+#
+name: home
+type: parsed
+protocol: nec2
+address: 44.0
+command: 165
+#
+name: Function
+type: parsed
+protocol: nec2
+address: 44.0
+command: 138
+#
+name: VOL +
+type: parsed
+protocol: nec2
+address: 44.0
+command: 23
+#
+name: VOL -
+type: parsed
+protocol: nec2
+address: 44.0
+command: 22
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44.0
+command: 31
+#
+name: Menu
+type: parsed
+protocol: nec2
+address: 44.0
+command: 163
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 44.0
+command: 167
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 44.0
+command: 166
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 44.0
+command: 168
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 44.0
+command: 169
+#
+name: enter
+type: parsed
+protocol: nec2
+address: 44.0
+command: 170
+#
+name: Play
+type: parsed
+protocol: nec2
+address: 44.0
+command: 4
+#
+name: Pause
+type: parsed
+protocol: nec2
+address: 44.0
+command: 79
+#
+name: Stop
+type: parsed
+protocol: nec2
+address: 44.0
+command: 5
+#
+name: FF
+type: parsed
+protocol: nec2
+address: 44.0
+command: 82
+#
+name: rew
+type: parsed
+protocol: nec2
+address: 44.0
+command: 83
+#
+name: Back
+type: parsed
+protocol: nec2
+address: 44.0
+command: 162
+#
+name: NEXT_CH
+type: parsed
+protocol: nec2
+address: 44.0
+command: 7
+#
+name: PREV_CH
+type: parsed
+protocol: nec2
+address: 44.0
+command: 6
+#
+name: disc_menu
+type: parsed
+protocol: nec2
+address: 44.0
+command: 164
+#
+name: TITLE
+type: parsed
+protocol: nec2
+address: 44.0
+command: 175
+#
+name: Optical
+type: parsed
+protocol: nec2
+address: 44.0
+command: 182
+#
+name: OPEN_CLOSE
+type: parsed
+protocol: nec2
+address: 44.0
+command: 154
+#
+name: SPEAKER_LEVEL
+type: parsed
+protocol: nec2
+address: 44.0
+command: 102
+#
+name: SOUND_EFFECT
+type: parsed
+protocol: nec2
+address: 44.0
+command: 47
+#
+name: r
+type: parsed
+protocol: nec2
+address: 44.0
+command: 108
+#
+name: g
+type: parsed
+protocol: nec2
+address: 44.0
+command: 109
+#
+name: y
+type: parsed
+protocol: nec2
+address: 44.0
+command: 110
+#
+name: b
+type: parsed
+protocol: nec2
+address: 44.0
+command: 111
+#

@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MODE STRAIGHT DECODE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 82
+#
+name: MODE DOLBY EX
+type: parsed
+protocol: nec1
+address: 210.172
+command: 83
+#
+name: MODE MONO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 84
+#
+name: SETUP VIDEO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 135
+#
+name: INPUT UNIVERSAL PORT
+type: parsed
+protocol: nec1
+address: 210.172
+command: 138
+#
+name: INPUT USB (FRONT)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 158
+#
+name: INPUT USB REAR
+type: parsed
+protocol: nec1
+address: 210.172
+command: 159
+#
+name: MODE LISTEN MODEMOVI
+type: parsed
+protocol: nec1
+address: 210.172
+command: 208
+#
+name: MODE LISTEN MODEGAME
+type: parsed
+protocol: nec1
+address: 210.172
+command: 210
+#
+name: HDMI OUT NO ANALOG
+type: parsed
+protocol: nec1
+address: 210.172
+command: 211
+#
+name: HDMI OUT MAIN
+type: parsed
+protocol: nec1
+address: 210.172
+command: 212
+#
+name: HDMI OUT SUB
+type: parsed
+protocol: nec1
+address: 210.172
+command: 213
+#
+name: INPUT SIRIUS
+type: parsed
+protocol: nec1
+address: 210.172
+command: 219
+#

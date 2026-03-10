@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PROGRAM
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 1
+#
+name: 
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 1
+#
+name: UP ARROW
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 2
+#
+name: DOWN ARROW
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 3
+#
+name: 
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 3
+#
+name: SET
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 4
+#
+name: CLEAR
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 5
+#
+name: SPEED
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 10
+#
+name: MENU
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 86
+#
+name: VCR PLUS
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 93
+#
+name: 
+type: parsed
+protocol: panasonic
+address: 144.1
+command: 93
+#

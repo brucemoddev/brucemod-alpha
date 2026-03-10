@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_T
+type: parsed
+protocol: jvc
+address: 223
+command: 160
+#
+name: KEY_W
+type: parsed
+protocol: jvc
+address: 223
+command: 161
+#
+name: KEY_UP
+type: parsed
+protocol: jvc
+address: 223
+command: 162
+#
+name: KEY_RIGHT
+type: parsed
+protocol: jvc
+address: 223
+command: 163
+#
+name: KEY_DOWN
+type: parsed
+protocol: jvc
+address: 223
+command: 164
+#
+name: KEY_LEFT
+type: parsed
+protocol: jvc
+address: 223
+command: 165
+#
+name: FFWBack
+type: parsed
+protocol: jvc
+address: 223
+command: 165
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: jvc
+address: 223
+command: 166
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: jvc
+address: 223
+command: 167
+#
+name: KEY_INFO
+type: parsed
+protocol: jvc
+address: 223
+command: 168
+#
+name: Start/Stop
+type: parsed
+protocol: jvc
+address: 223
+command: 169
+#
+name: FFWFront
+type: parsed
+protocol: jvc
+address: 223
+command: 170
+#
+name: Set
+type: parsed
+protocol: jvc
+address: 223
+command: 172
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 223
+command: 173
+#
+name: Date
+type: parsed
+protocol: jvc
+address: 223
+command: 174
+#
+name: Index
+type: parsed
+protocol: jvc
+address: 223
+command: 175
+#
+name: Snapshot
+type: parsed
+protocol: jvc
+address: 223
+command: 185
+#

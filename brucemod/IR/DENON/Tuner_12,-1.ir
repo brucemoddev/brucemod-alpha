@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DIGITAL DBS/BS
+type: parsed
+protocol: denon
+address: 12
+command: 131
+#
+name: DIGITAL VDP
+type: parsed
+protocol: denon
+address: 12
+command: 132
+#
+name: DIGITAL CD
+type: parsed
+protocol: denon
+address: 12
+command: 133
+#
+name: DIGITAL DAT
+type: parsed
+protocol: denon
+address: 12
+command: 134
+#
+name: A
+type: parsed
+protocol: denon
+address: 12
+command: 185
+#
+name: B
+type: parsed
+protocol: denon
+address: 12
+command: 186
+#
+name: C
+type: parsed
+protocol: denon
+address: 12
+command: 187
+#
+name: D
+type: parsed
+protocol: denon
+address: 12
+command: 188
+#
+name: E
+type: parsed
+protocol: denon
+address: 12
+command: 189
+#
+name: 1
+type: parsed
+protocol: denon
+address: 12
+command: 193
+#
+name: 2
+type: parsed
+protocol: denon
+address: 12
+command: 194
+#
+name: 3
+type: parsed
+protocol: denon
+address: 12
+command: 195
+#
+name: 4
+type: parsed
+protocol: denon
+address: 12
+command: 196
+#
+name: 5
+type: parsed
+protocol: denon
+address: 12
+command: 197
+#
+name: 6
+type: parsed
+protocol: denon
+address: 12
+command: 198
+#
+name: 7
+type: parsed
+protocol: denon
+address: 12
+command: 199
+#
+name: 
+type: parsed
+protocol: denon_1
+address: 12
+command: 199
+#
+name: 8
+type: parsed
+protocol: denon
+address: 12
+command: 200
+#
+name: MEMORY
+type: parsed
+protocol: denon
+address: 12
+command: 204
+#
+name: SHIFT/PTY
+type: parsed
+protocol: denon
+address: 12
+command: 205
+#
+name: SHIFT PRESET BANK
+type: parsed
+protocol: denon
+address: 12
+command: 205
+#
+name: RDS
+type: parsed
+protocol: denon
+address: 12
+command: 210
+#
+name: CT
+type: parsed
+protocol: denon
+address: 12
+command: 211
+#
+name: PTY
+type: parsed
+protocol: denon
+address: 12
+command: 212
+#
+name: TUNER CH V
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: CH DN
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: PRESET CH DOWN
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: PRESET CH V
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: TUNER CH ^
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: CH UP
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: PRESET CH UP
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: PRESET CH ^
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: TUNER BAND
+type: parsed
+protocol: denon
+address: 12
+command: 215
+#
+name: BAND
+type: parsed
+protocol: denon
+address: 12
+command: 215
+#
+name: TUNER AT/MANU
+type: parsed
+protocol: denon
+address: 12
+command: 216
+#
+name: MODE
+type: parsed
+protocol: denon
+address: 12
+command: 216
+#
+name: AUTO/MANUAL
+type: parsed
+protocol: denon
+address: 12
+command: 216
+#
+name: AUTO MUTE/MANU
+type: parsed
+protocol: denon
+address: 12
+command: 216
+#
+name: TUNER TUNE ^
+type: parsed
+protocol: denon
+address: 12
+command: 217
+#
+name: TUNE UP
+type: parsed
+protocol: denon
+address: 12
+command: 217
+#
+name: UP
+type: parsed
+protocol: denon
+address: 12
+command: 217
+#
+name: TUNING ^
+type: parsed
+protocol: denon
+address: 12
+command: 217
+#
+name: TUNER TUNE V
+type: parsed
+protocol: denon
+address: 12
+command: 218
+#
+name: TUNE DN
+type: parsed
+protocol: denon
+address: 12
+command: 218
+#
+name: DOWN
+type: parsed
+protocol: denon
+address: 12
+command: 218
+#
+name: TUNING V
+type: parsed
+protocol: denon
+address: 12
+command: 218
+#
+name: TUNER RF
+type: parsed
+protocol: denon
+address: 12
+command: 219
+#
+name: RF ATT
+type: parsed
+protocol: denon
+address: 12
+command: 219
+#
+name: TUNER P.SCAN
+type: parsed
+protocol: denon
+address: 12
+command: 220
+#
+name: P.SCAN
+type: parsed
+protocol: denon
+address: 12
+command: 220
+#
+name: TUNER POWER
+type: parsed
+protocol: denon
+address: 12
+command: 221
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 12
+command: 221
+#
+name: DISPLAY
+type: parsed
+protocol: denon
+address: 12
+command: 222
+#
+name: PANEL
+type: parsed
+protocol: denon
+address: 12
+command: 222
+#
+name: DIMMER
+type: parsed
+protocol: denon
+address: 12
+command: 223
+#
+name: SEARCH
+type: parsed
+protocol: denon
+address: 12
+command: 249
+#

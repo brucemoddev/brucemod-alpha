@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: horizontalRIGHT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 12
+#
+name: horizontalLEFT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 13
+#
+name: verticalUP
+type: parsed
+protocol: sony20
+address: 26.9
+command: 14
+#
+name: verticalDOWN
+type: parsed
+protocol: sony20
+address: 26.9
+command: 15
+#
+name: tiltDOWNRIGHT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 16
+#
+name: tiltDOWNLEFT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 17
+#
+name: contrastUP
+type: parsed
+protocol: sony20
+address: 26.9
+command: 24
+#
+name: contrastDOWN
+type: parsed
+protocol: sony20
+address: 26.9
+command: 25
+#
+name: brightUP
+type: parsed
+protocol: sony20
+address: 26.9
+command: 30
+#
+name: brightDOWN
+type: parsed
+protocol: sony20
+address: 26.9
+command: 31
+#
+name: widthRIGHT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 38
+#
+name: widthLEFT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 39
+#
+name: heightUP
+type: parsed
+protocol: sony20
+address: 26.9
+command: 40
+#
+name: heightDOWN
+type: parsed
+protocol: sony20
+address: 26.9
+command: 41
+#
+name: converganceRIGHT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 42
+#
+name: converganceLEFT
+type: parsed
+protocol: sony20
+address: 26.9
+command: 43
+#
+name: converganceUP
+type: parsed
+protocol: sony20
+address: 26.9
+command: 44
+#
+name: converganceDOWN
+type: parsed
+protocol: sony20
+address: 26.9
+command: 45
+#
+name: sizeUP
+type: parsed
+protocol: sony20
+address: 26.9
+command: 55
+#
+name: sizeDOWN
+type: parsed
+protocol: sony20
+address: 26.9
+command: 56
+#

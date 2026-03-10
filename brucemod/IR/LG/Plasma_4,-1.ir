@@ -1,0 +1,567 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 4
+command: 0
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 4
+command: 1
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 4
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 4
+command: 3
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 4
+command: 6
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 4
+command: 6
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 4
+command: 7
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 4
+command: 7
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 4
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 4
+command: 9
+#
+name: I/II
+type: parsed
+protocol: nec1
+address: 4
+command: 10
+#
+name: MTS
+type: parsed
+protocol: nec1
+address: 4
+command: 10
+#
+name: TV/VIDEO
+type: parsed
+protocol: nec1
+address: 4
+command: 11
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 4
+command: 11
+#
+name: TV / VIDEO
+type: parsed
+protocol: nec1
+address: 4
+command: 11
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 4
+command: 14
+#
+name: TV INPUT
+type: parsed
+protocol: nec1
+address: 4
+command: 15
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 4
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 4
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 4
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 4
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 4
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 4
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 4
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 4
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 4
+command: 25
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: FLASHBACK
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: Q.VIEW
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: REVIEW
+type: parsed
+protocol: nec1
+address: 4
+command: 26
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 4
+command: 30
+#
+name: FRC
+type: parsed
+protocol: nec1
+address: 4
+command: 30
+#
+name: TEXT
+type: parsed
+protocol: nec1
+address: 4
+command: 32
+#
+name: TEXT TIME
+type: parsed
+protocol: nec1
+address: 4
+command: 38
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 4
+command: 40
+#
+name: TEXT REVEAL
+type: parsed
+protocol: nec1
+address: 4
+command: 42
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 4
+command: 57
+#
+name: CAPTION
+type: parsed
+protocol: nec1
+address: 4
+command: 57
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 4
+command: 64
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 4
+command: 64
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 4
+command: 65
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 4
+command: 65
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 4
+command: 67
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 4
+command: 68
+#
+name: CURSOR OK
+type: parsed
+protocol: nec1
+address: 4
+command: 68
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 4
+command: 68
+#
+name: DASH-
+type: parsed
+protocol: nec1
+address: 4
+command: 76
+#
+name: --
+type: parsed
+protocol: nec1
+address: 4
+command: 76
+#
+name: APC
+type: parsed
+protocol: nec1
+address: 4
+command: 77
+#
+name: INPUT D/A
+type: parsed
+protocol: nec1
+address: 4
+command: 80
+#
+name: DASP
+type: parsed
+protocol: nec1
+address: 4
+command: 82
+#
+name: LIST
+type: parsed
+protocol: nec1
+address: 4
+command: 83
+#
+name: A. PROGRAM
+type: parsed
+protocol: nec1
+address: 4
+command: 84
+#
+name: MEMORY/ERASE
+type: parsed
+protocol: nec1
+address: 4
+command: 85
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1_f16
+address: 4
+command: 90
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 4
+command: 90
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 4
+command: 91
+#
+name: PIP/ DW
+type: parsed
+protocol: nec1
+address: 4
+command: 96
+#
+name: COLOR 4 BLUE
+type: parsed
+protocol: nec1
+address: 4
+command: 97
+#
+name: PIP INPUT
+type: parsed
+protocol: nec1
+address: 4
+command: 97
+#
+name: TEXT UPDATE
+type: parsed
+protocol: nec1
+address: 4
+command: 98
+#
+name: WINDOW POSITION
+type: parsed
+protocol: nec1
+address: 4
+command: 98
+#
+name: COLOR 3 YELLOW
+type: parsed
+protocol: nec1
+address: 4
+command: 99
+#
+name: SWAP
+type: parsed
+protocol: nec1
+address: 4
+command: 99
+#
+name: WINDOW SIZE
+type: parsed
+protocol: nec1
+address: 4
+command: 100
+#
+name: TEXT HOLD
+type: parsed
+protocol: nec1
+address: 4
+command: 101
+#
+name: TEXT INDEX
+type: parsed
+protocol: nec1
+address: 4
+command: 112
+#
+name: COLOR 2 GREEN
+type: parsed
+protocol: nec1
+address: 4
+command: 113
+#
+name: 
+type: parsed
+protocol: nec1
+address: 4
+command: 113
+#
+name: COLOR 1 RED
+type: parsed
+protocol: nec1
+address: 4
+command: 114
+#
+name: PIP CH -
+type: parsed
+protocol: nec1
+address: 4
+command: 114
+#
+name: PIP CH+
+type: parsed
+protocol: nec1
+address: 4
+command: 114
+#
+name: 4:3
+type: parsed
+protocol: nec1
+address: 4
+command: 118
+#
+name: 16:9
+type: parsed
+protocol: nec1
+address: 4
+command: 119
+#
+name: RATIO
+type: parsed
+protocol: nec1
+address: 4
+command: 121
+#
+name: ARC
+type: parsed
+protocol: nec1
+address: 4
+command: 121
+#
+name: SPLIT ZOOM
+type: parsed
+protocol: nec1
+address: 4
+command: 123
+#
+name: SIMPLINK
+type: parsed
+protocol: nec1
+address: 4
+command: 126
+#
+name: MULTIMEDIA
+type: parsed
+protocol: nec1
+address: 4
+command: 152
+#
+name: TV GUIDE
+type: parsed
+protocol: nec1
+address: 4
+command: 169
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 4
+command: 170
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 4
+command: 171
+#
+name: COMPONET
+type: parsed
+protocol: nec1_f16
+address: 4
+command: 191
+#
+name: COMPONENT 1
+type: parsed
+protocol: nec1
+address: 4
+command: 191
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 4
+command: 196
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 4
+command: 197
+#
+name: DVI
+type: parsed
+protocol: nec1
+address: 4
+command: 198
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 4
+command: 208
+#
+name: RGB
+type: parsed
+protocol: nec1
+address: 4
+command: 213
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 4
+command: 214
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: nec1
+address: 4
+command: 224
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: nec1
+address: 4
+command: 225
+#
+name: TV/RADIO
+type: parsed
+protocol: nec1
+address: 4
+command: 240
+#

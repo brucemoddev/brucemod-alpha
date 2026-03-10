@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Freeze
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 2
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 61
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 62
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 63
+#
+name: KEY_UP
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 90
+#
+name: KEY_DOWN
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 91
+#
+name: KEY_LEFT
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 92
+#
+name: KEY_RIGHT
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 93
+#
+name: Default
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 97
+#
+name: Input_Select
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 109
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 114
+#
+name: KEY_MENU
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 122
+#
+name: Picture_Adj
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 126
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 129
+#
+name: Theater_Room
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 142
+#
+name: Living_Room
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 143
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 144
+#
+name: KEY_SLEEP
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 153
+#
+name: Aspect
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 222
+#

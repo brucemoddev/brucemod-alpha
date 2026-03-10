@@ -1,0 +1,393 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK001 POWER OFF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 1
+#
+name: BK001 POWER ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 2
+#
+name: BK001 MUTE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 3
+#
+name: BK001 V1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: BK001 TV
+type: parsed
+protocol: nec2
+address: 27.78
+command: 6
+#
+name: BK001 V2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: BK001 TAPE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: BK001 DVD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 13
+#
+name: BK001 CD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: BK001 CENTER-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: BK001 CENTER+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: BK001 REAR-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: BK001 REAR+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: BK001 SUB-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: BK001 SUB+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: BK001 LEFT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: BK001 RIGHT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: BK001 VOLUME-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: BK001 VOLUME+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: BK001 NUMBER +10
+type: parsed
+protocol: nec2
+address: 27.78
+command: 41
+#
+name: BK001 EQ
+type: parsed
+protocol: nec2
+address: 27.78
+command: 42
+#
+name: BK001 DVD-AUDIO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 43
+#
+name: BK001 DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: BK001 UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: BK001 MENU
+type: parsed
+protocol: nec2
+address: 27.78
+command: 47
+#
+name: BK001 ENTER/SELECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 48
+#
+name: BK001 NUMBER 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 49
+#
+name: BK001 NUMBER 2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 50
+#
+name: BK001 NUMBER 3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 51
+#
+name: BK001 NUMBER 4
+type: parsed
+protocol: nec2
+address: 27.78
+command: 53
+#
+name: BK001 NUMBER 5
+type: parsed
+protocol: nec2
+address: 27.78
+command: 54
+#
+name: BK001 NUMBER 6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 55
+#
+name: BK001 NUMBER 7
+type: parsed
+protocol: nec2
+address: 27.78
+command: 57
+#
+name: BK001 NUMBER 8
+type: parsed
+protocol: nec2
+address: 27.78
+command: 58
+#
+name: BK001 NUMBER 9
+type: parsed
+protocol: nec2
+address: 27.78
+command: 59
+#
+name: BK001 NUMBER 0
+type: parsed
+protocol: nec2
+address: 27.78
+command: 62
+#
+name: BK001 Z
+type: parsed
+protocol: nec2
+address: 27.78
+command: 63
+#
+name: BK001 SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: BK001 SAT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: BK001 PRESET+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 75
+#
+name: BK001 PANORAMA+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 78
+#
+name: BK001 INFO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 83
+#
+name: BK001 BASS-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 101
+#
+name: BK001 GAME
+type: parsed
+protocol: nec2
+address: 27.78
+command: 106
+#
+name: BK001 MOVIE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 114
+#
+name: BK001 AM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: BK001 TREBLE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 121
+#
+name: BK001 EXIT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 125
+#
+name: BK001 DIMENSION+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 129
+#
+name: BK001 CINEMA
+type: parsed
+protocol: nec2
+address: 27.78
+command: 138
+#
+name: BK001 FM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: BK001 MONO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 154
+#
+name: BK001 IMAGE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 158
+#
+name: BK001 NEO:6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 170
+#
+name: BK001 MUSIC
+type: parsed
+protocol: nec2
+address: 27.78
+command: 178
+#
+name: BK001 SLEEP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 179
+#
+name: BK001 PRESET-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 198
+#
+name: BK001 SURROUND
+type: parsed
+protocol: nec2
+address: 27.78
+command: 202
+#
+name: BK001 PANORAMA-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 206
+#
+name: BK001 STEREO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 226
+#
+name: BK001 BASS+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 229
+#
+name: BK001 PRO LOGIC IIX
+type: parsed
+protocol: nec2
+address: 27.78
+command: 234
+#
+name: BK001 IMAGE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 238
+#
+name: BK001 TREBLE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 249
+#
+name: BK001 DIMENSION-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 254
+#

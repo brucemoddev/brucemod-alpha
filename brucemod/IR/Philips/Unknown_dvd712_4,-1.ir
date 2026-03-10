@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc6
+address: 4
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc6
+address: 4
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc6
+address: 4
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc6
+address: 4
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc6
+address: 4
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc6
+address: 4
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc6
+address: 4
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc6
+address: 4
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc6
+address: 4
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc6
+address: 4
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: Shuffle
+type: parsed
+protocol: rc6
+address: 4
+command: 28
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc6
+address: 4
+command: 29
+#
+name: Skip_Right
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: Skip_Left
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: Scan
+type: parsed
+protocol: rc6
+address: 4
+command: 42
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: KEY_STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: Repeat_AB
+type: parsed
+protocol: rc6
+address: 4
+command: 59
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: KEY_AUDIO
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: Disc_Menu
+type: parsed
+protocol: rc6
+address: 4
+command: 84
+#
+name: KEY_UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: System_Menu
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 4
+command: 131
+#
+name: KEY_ANGLE
+type: parsed
+protocol: rc6
+address: 4
+command: 133
+#
+name: Secret
+type: parsed
+protocol: rc6
+address: 4
+command: 235
+#
+name: Display
+type: parsed
+protocol: rc6
+address: 4
+command: 239
+#
+name: KEY_ZOOM
+type: parsed
+protocol: rc6
+address: 4
+command: 247
+#

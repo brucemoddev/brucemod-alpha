@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_8
+type: parsed
+protocol: nec
+address: 80
+command: 4
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 80
+command: 5
+#
+name: CH_I/II
+type: parsed
+protocol: nec
+address: 80
+command: 8
+#
+name: TV/VIDEO
+type: parsed
+protocol: nec
+address: 80
+command: 9
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 80
+command: 11
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 80
+command: 12
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 80
+command: 13
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 80
+command: 14
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 80
+command: 15
+#
+name: Store
+type: parsed
+protocol: nec
+address: 80
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 80
+command: 23
+#
+name: X_KEY_3D-SOUND
+type: parsed
+protocol: nec
+address: 80
+command: 27
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 80
+command: 28
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 80
+command: 29
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 80
+command: 30
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 80
+command: 31
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 80
+command: 69
+#
+name: U.N.L.
+type: parsed
+protocol: nec
+address: 80
+command: 70
+#
+name: HOLD
+type: parsed
+protocol: nec
+address: 80
+command: 71
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 80
+command: 76
+#
+name: SOUND
+type: parsed
+protocol: nec
+address: 80
+command: 79
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 80
+command: 83
+#
+name: Reveal
+type: parsed
+protocol: nec
+address: 80
+command: 93
+#
+name: TV/TEXT
+type: parsed
+protocol: nec
+address: 80
+command: 102
+#
+name: Picture
+type: parsed
+protocol: nec
+address: 80
+command: 103
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 80
+command: 104
+#
+name: Timer
+type: parsed
+protocol: nec
+address: 80
+command: 107
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 80
+command: 112
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 80
+command: 113
+#
+name: Sound+
+type: parsed
+protocol: nec
+address: 80
+command: 114
+#
+name: Sound-
+type: parsed
+protocol: nec
+address: 80
+command: 115
+#

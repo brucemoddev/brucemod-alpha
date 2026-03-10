@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SUPER SURROUND
+type: parsed
+protocol: panasonic
+address: 160.18
+command: 48
+#
+name: MIX 2CH
+type: parsed
+protocol: panasonic
+address: 160.18
+command: 174
+#
+name: SIMULATED STEREO
+type: parsed
+protocol: panasonic
+address: 160.18
+command: 236
+#

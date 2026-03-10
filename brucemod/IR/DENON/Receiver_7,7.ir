@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Z2 ON
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 6
+#
+name: 
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 6
+#
+name: Z2 OFF
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 7
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 7
+#
+name: ZONE 2 ON
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 7
+#
+name: Z2 1
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 16
+#
+name: Z2 2
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 17
+#
+name: Z2 3
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 18
+#
+name: Z2 4
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 19
+#
+name: Z2 5
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 20
+#
+name: Z2 6
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 21
+#
+name: Z2 7
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 22
+#
+name: Z2 8
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 23
+#
+name: Z2 9
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 24
+#
+name: Z2 0
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 25
+#
+name: Z2 INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 48
+#
+name: Z2 PHONO
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 48
+#
+name: Z2 INPUT TUNER
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 49
+#
+name: Z2 TUNER
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 49
+#
+name: Z2 INPUT CD
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 50
+#
+name: Z2 CD
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 50
+#
+name: Z2 INPUT CD-R TAP
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 51
+#
+name: Z2 CD-R/TAPE
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 51
+#
+name: Z2 INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 59
+#
+name: Z2 INPUT DVD
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 64
+#
+name: Z2 DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 64
+#
+name: Z2 INPUT VCR
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 69
+#
+name: Z2 VCR
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 69
+#
+name: Z2 INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 73
+#
+name: Z2 V.AUX
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 73
+#
+name: Z2 BAND
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 88
+#
+name: Z2 SEARCH
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 120
+#
+name: Z2 A MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 128
+#
+name: Z2 B MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 129
+#
+name: Z2 C MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 130
+#
+name: Z2 D MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 131
+#
+name: Z2 E MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 132
+#
+name: Z2 F MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 133
+#
+name: Z2 G MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 134
+#
+name: Z2 VOLUME +
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 272
+#
+name: Z2 VOLUME -
+type: parsed
+protocol: Denon-K
+address: 7.7
+command: 273
+#

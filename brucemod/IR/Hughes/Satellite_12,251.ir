@@ -1,0 +1,747 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/DSS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 1
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 1
+#
+name: CH ^
+type: parsed
+protocol: nec1
+address: 12.251
+command: 2
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 12.251
+command: 2
+#
+name: CHAN UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 2
+#
+name: CH V
+type: parsed
+protocol: nec1
+address: 12.251
+command: 3
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 12.251
+command: 3
+#
+name: CHAN DN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 3
+#
+name: 0 (ALL)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 4
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 12.251
+command: 4
+#
+name: 1 (MOVIES)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 5
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 5
+#
+name: 2 (SPORTS)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 6
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 6
+#
+name: 3 (NEWS)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 7
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 7
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 12.251
+command: 8
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 12.251
+command: 9
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 12.251
+command: 10
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 12.251
+command: 11
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 12.251
+command: 12
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 12.251
+command: 13
+#
+name: ACTION
+type: parsed
+protocol: nec1
+address: 12.251
+command: 14
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 15
+#
+name: ALTERNATE AUDIO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 15
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 12.251
+command: 15
+#
+name: V
+type: parsed
+protocol: nec1
+address: 12.251
+command: 16
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 16
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 16
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 12.251
+command: 16
+#
+name: ARROW DN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 16
+#
+name: FAV (LIST)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 17
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 12.251
+command: 17
+#
+name: FAVORITE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 17
+#
+name: FAV/LIST
+type: parsed
+protocol: nec1
+address: 12.251
+command: 17
+#
+name: FAV1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 17
+#
+name: GUIDE (MENU)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 18
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 18
+#
+name: GUIDE/MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 18
+#
+name: GUILDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 18
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 19
+#
+name: <
+type: parsed
+protocol: nec1
+address: 12.251
+command: 20
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 12.251
+command: 20
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 20
+#
+name: DSS POWER
+type: parsed
+protocol: nec1
+address: 12.251
+command: 21
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 12.251
+command: 21
+#
+name: PREV CH (SERVICES)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREV CHANNEL
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREVIOUS CHANNEL
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREV CH
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREV. CH (SERVICES)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREVIOUS CHAN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREV. CHANNEL
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREV CHAN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: PREVIOUS CH
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: >
+type: parsed
+protocol: nec1
+address: 12.251
+command: 23
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 23
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 23
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 12.251
+command: 23
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 23
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 24
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 12.251
+command: 24
+#
+name: CURSOR SELECT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 24
+#
+name: ^
+type: parsed
+protocol: nec1
+address: 12.251
+command: 25
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 25
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 25
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 25
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 32
+#
+name: SURF
+type: parsed
+protocol: nec1
+address: 12.251
+command: 47
+#
+name: CC/DATE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 48
+#
+name: RATIO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 49
+#
+name: ?
+type: parsed
+protocol: nec1
+address: 12.251
+command: 50
+#
+name: DOT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 54
+#
+name: -- ALPHA
+type: parsed
+protocol: nec1
+address: 12.251
+command: 54
+#
+name: ---
+type: parsed
+protocol: nec1
+address: 12.251
+command: 54
+#
+name: -
+type: parsed
+protocol: nec1
+address: 12.251
+command: 54
+#
+name: HD OUTPUT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 55
+#
+name: HD OUTPUT ON
+type: parsed
+protocol: nec1
+address: 12.251
+command: 55
+#
+name: HDSD
+type: parsed
+protocol: nec2
+address: 12.251
+command: 55
+#
+name: SD OUTPUT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 56
+#
+name: STANDARD OUTPUT ON
+type: parsed
+protocol: nec1
+address: 12.251
+command: 56
+#
+name: 1080I
+type: parsed
+protocol: nec1
+address: 12.251
+command: 64
+#
+name: 720P
+type: parsed
+protocol: nec1
+address: 12.251
+command: 65
+#
+name: 480P
+type: parsed
+protocol: nec1
+address: 12.251
+command: 66
+#
+name: 480I
+type: parsed
+protocol: nec1
+address: 12.251
+command: 67
+#
+name: NATIVE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 68
+#
+name: VARIABLE 1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 69
+#
+name: VARIABLE 2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 70
+#
+name: VARIABLE 3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 71
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 12.251
+command: 72
+#
+name: SYSTEM OFF
+type: parsed
+protocol: nec1
+address: 12.251
+command: 73
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 12.251
+command: 74
+#
+name: FACTORY TEST
+type: parsed
+protocol: nec1
+address: 12.251
+command: 75
+#
+name: SPECIAL DIAGNOSTICS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 76
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 112
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 12.251
+command: 115
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 12.251
+command: 116
+#
+name: ALPHA
+type: parsed
+protocol: nec1
+address: 12.251
+command: 117
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 129
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 130
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 131
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 12.251
+command: 132
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 133
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 134
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 135
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 12.251
+command: 136
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 12.251
+command: 137
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 12.251
+command: 138
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 12.251
+command: 139
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 12.251
+command: 140
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 12.251
+command: 141
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 12.251
+command: 143
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 144
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 146
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 147
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 148
+#
+name: PR. CHANNEL
+type: parsed
+protocol: nec1
+address: 12.251
+command: 150
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 151
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 152
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 153
+#
+name: -
+type: parsed
+protocol: nec1
+address: 12.251
+command: 182
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 240
+#

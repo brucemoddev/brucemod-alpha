@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: TAPE_REWIND
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: TAPE_FFWD
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: TAPE_STOP
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: TAPE_REC/PAUSE
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: TAPE_REC_MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 5
+#
+name: TAPE_DECK_A/B
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: TAPE_DIR_A
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: CD_PAUSE/STOP
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: CD_SKIP_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: CD_SKIP_REV
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: CD_SEARCH_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: CD_SEARCH_REV
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: VCR_1
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: TUNER_+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: TUNER_A/B/C/D/E
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: LD_V
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: TAPE_2/VCR_2
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: TAPE_1/DAT
+type: parsed
+protocol: nec
+address: 122
+command: 25
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: MUTING
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: TAPE_DIR_B
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: CD_DISK_SKIP
+type: parsed
+protocol: nec
+address: 122
+command: 79
+#
+name: DELAY_TIME_+
+type: parsed
+protocol: nec
+address: 122
+command: 82
+#
+name: DELAY_TIME_-
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: DSP_EFFECT_ON/OFF
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#
+name: REAR_LEVEL_+
+type: parsed
+protocol: nec
+address: 122
+command: 94
+#
+name: REAR_LEVEL_-
+type: parsed
+protocol: nec
+address: 122
+command: 95
+#
+name: FRONT_LEVEL_+
+type: parsed
+protocol: nec
+address: 122
+command: 128
+#
+name: FRONT_LEVEL_-
+type: parsed
+protocol: nec
+address: 122
+command: 129
+#
+name: CENTRE_LEVEL_+
+type: parsed
+protocol: nec
+address: 122
+command: 130
+#
+name: CENTRE_LEVEL_-
+type: parsed
+protocol: nec
+address: 122
+command: 131
+#
+name: DSP_CENTRE_MODE
+type: parsed
+protocol: nec
+address: 122
+command: 132
+#
+name: DSP_TEST
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: DSP_PRO_LOGIC
+type: parsed
+protocol: nec
+address: 122
+command: 136
+#
+name: DSP_PRO_LOGIC_ENH.
+type: parsed
+protocol: nec
+address: 122
+command: 137
+#
+name: DSP_CNCT_VIDEO
+type: parsed
+protocol: nec
+address: 122
+command: 138
+#
+name: DSP_MONO_MOVIE
+type: parsed
+protocol: nec
+address: 122
+command: 139
+#
+name: DSP_ROCK
+type: parsed
+protocol: nec
+address: 122
+command: 140
+#
+name: DSP_HALL
+type: parsed
+protocol: nec
+address: 122
+command: 141
+#

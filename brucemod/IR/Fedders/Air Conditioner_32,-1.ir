@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON/OFF
+type: parsed
+protocol: nec1
+address: 32
+command: 2
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 32
+command: 9
+#
+name: TEMP/TIME +
+type: parsed
+protocol: nec1
+address: 32
+command: 10
+#
+name: TEMP/TIME -
+type: parsed
+protocol: nec1
+address: 32
+command: 17
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 32
+command: 25
+#
+name: FAN SPEED
+type: parsed
+protocol: nec1
+address: 32
+command: 26
+#

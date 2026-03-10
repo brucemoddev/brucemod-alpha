@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: (TV) 0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: (TV) 1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: (TV) 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: (TV) 3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: (TV) 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: (TV) 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: (TV) 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: (TV) 7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: (TV) 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: (TV) 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: (TV) >
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: (TV) POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: (TV) MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: (TV) INFO
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: (TV) VOLUME +
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: (TV) VOLUME -
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: (TV) BOUQUET +
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: (TV) BOUQUET -
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: (TV) VIDEO
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: (TV) TV(SMALL BLACK)
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: (TV) EXIT
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: (TV) <
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: (TV) TEXT
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: (TV) HELP
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: (TV) UP
+type: parsed
+protocol: rc5
+address: 0
+command: 80
+#
+name: (TV) DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 81
+#
+name: (TV) AUDIO
+type: parsed
+protocol: rc5
+address: 0
+command: 82
+#
+name: (TV) RADIO
+type: parsed
+protocol: rc5
+address: 0
+command: 82
+#
+name: (TV) LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 85
+#
+name: (TV) RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 86
+#
+name: (TV) OK
+type: parsed
+protocol: rc5
+address: 0
+command: 87
+#
+name: (TV) RED
+type: parsed
+protocol: rc5
+address: 0
+command: 107
+#
+name: (TV) GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 108
+#
+name: (TV) YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 109
+#
+name: (TV) BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 110
+#

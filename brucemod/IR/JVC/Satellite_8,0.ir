@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIEW
+type: parsed
+protocol: dish_netwo
+address: 8.0
+command: 22
+#
+name: VOLUME +
+type: parsed
+protocol: dish_netwo
+address: 8.0
+command: 25
+#
+name: VOLUME -
+type: parsed
+protocol: dish_netwo
+address: 8.0
+command: 29
+#
+name: VCR
+type: parsed
+protocol: dish_netwo
+address: 8.0
+command: 43
+#

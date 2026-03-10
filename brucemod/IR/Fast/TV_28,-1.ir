@@ -1,0 +1,459 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0-A
+type: parsed
+protocol: rc5
+address: 28
+command: 0
+#
+name: 0-B
+type: parsed
+protocol: rc5
+address: 28
+command: 0
+#
+name: 1-A
+type: parsed
+protocol: rc5
+address: 28
+command: 1
+#
+name: 1-B
+type: parsed
+protocol: rc5
+address: 28
+command: 1
+#
+name: 2-A
+type: parsed
+protocol: rc5
+address: 28
+command: 2
+#
+name: 2-B
+type: parsed
+protocol: rc5
+address: 28
+command: 2
+#
+name: 3-A
+type: parsed
+protocol: rc5
+address: 28
+command: 3
+#
+name: 3-B
+type: parsed
+protocol: rc5
+address: 28
+command: 3
+#
+name: 4-A
+type: parsed
+protocol: rc5
+address: 28
+command: 4
+#
+name: 4-B
+type: parsed
+protocol: rc5
+address: 28
+command: 4
+#
+name: 5-A
+type: parsed
+protocol: rc5
+address: 28
+command: 5
+#
+name: 5-B
+type: parsed
+protocol: rc5
+address: 28
+command: 5
+#
+name: 6-A
+type: parsed
+protocol: rc5
+address: 28
+command: 6
+#
+name: 6-B
+type: parsed
+protocol: rc5
+address: 28
+command: 6
+#
+name: 7-A
+type: parsed
+protocol: rc5
+address: 28
+command: 7
+#
+name: 7-B
+type: parsed
+protocol: rc5
+address: 28
+command: 7
+#
+name: 8-A
+type: parsed
+protocol: rc5
+address: 28
+command: 8
+#
+name: 8-B
+type: parsed
+protocol: rc5
+address: 28
+command: 8
+#
+name: 9-A
+type: parsed
+protocol: rc5
+address: 28
+command: 9
+#
+name: 9-B
+type: parsed
+protocol: rc5
+address: 28
+command: 9
+#
+name: POWER-A
+type: parsed
+protocol: rc5
+address: 28
+command: 12
+#
+name: POWER-B
+type: parsed
+protocol: rc5
+address: 28
+command: 12
+#
+name: MUTE-A
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: MUTE-B
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: GRUEN-A
+type: parsed
+protocol: rc5
+address: 28
+command: 15
+#
+name: GRUEN-B
+type: parsed
+protocol: rc5
+address: 28
+command: 15
+#
+name: CURSOR RIGHT-A
+type: parsed
+protocol: rc5
+address: 28
+command: 16
+#
+name: CURSOR RIGHT-B
+type: parsed
+protocol: rc5
+address: 28
+command: 16
+#
+name: CURSOR LEFT-A
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: CURSOR LEFT-B
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: PROGR+_A
+type: parsed
+protocol: rc5
+address: 28
+command: 32
+#
+name: PROGR+_B
+type: parsed
+protocol: rc5
+address: 28
+command: 32
+#
+name: PROGR-_A
+type: parsed
+protocol: rc5
+address: 28
+command: 33
+#
+name: PROGR-_B
+type: parsed
+protocol: rc5
+address: 28
+command: 33
+#
+name: VOR-A
+type: parsed
+protocol: rc5
+address: 28
+command: 34
+#
+name: VOR-B
+type: parsed
+protocol: rc5
+address: 28
+command: 34
+#
+name: OK-A
+type: parsed
+protocol: rc5
+address: 28
+command: 41
+#
+name: OK-B
+type: parsed
+protocol: rc5
+address: 28
+command: 41
+#
+name: IPG-A
+type: parsed
+protocol: rc5
+address: 28
+command: 45
+#
+name: IPG-B
+type: parsed
+protocol: rc5
+address: 28
+command: 45
+#
+name: PLAY-A
+type: parsed
+protocol: rc5
+address: 28
+command: 50
+#
+name: PLAY-B
+type: parsed
+protocol: rc5
+address: 28
+command: 50
+#
+name: FFW-A
+type: parsed
+protocol: rc5
+address: 28
+command: 52
+#
+name: FFW-B
+type: parsed
+protocol: rc5
+address: 28
+command: 52
+#
+name: STOP-A
+type: parsed
+protocol: rc5
+address: 28
+command: 54
+#
+name: STOP-B
+type: parsed
+protocol: rc5
+address: 28
+command: 54
+#
+name: REW-A
+type: parsed
+protocol: rc5
+address: 28
+command: 55
+#
+name: REW-B
+type: parsed
+protocol: rc5
+address: 28
+command: 55
+#
+name: EXIT-A
+type: parsed
+protocol: rc5
+address: 28
+command: 60
+#
+name: EXIT-B
+type: parsed
+protocol: rc5
+address: 28
+command: 60
+#
+name: VOL-_A
+type: parsed
+protocol: rc5
+address: 28
+command: 65
+#
+name: VOL-_B
+type: parsed
+protocol: rc5
+address: 28
+command: 65
+#
+name: VOL+_A
+type: parsed
+protocol: rc5
+address: 28
+command: 66
+#
+name: VOL+_B
+type: parsed
+protocol: rc5
+address: 28
+command: 66
+#
+name: I/II-A
+type: parsed
+protocol: rc5
+address: 28
+command: 72
+#
+name: I/II-B
+type: parsed
+protocol: rc5
+address: 28
+command: 72
+#
+name: ZURUECK-A
+type: parsed
+protocol: rc5
+address: 28
+command: 92
+#
+name: ZURUECK-B
+type: parsed
+protocol: rc5
+address: 28
+command: 92
+#
+name: STEP-A
+type: parsed
+protocol: rc5
+address: 28
+command: 93
+#
+name: STEP-B
+type: parsed
+protocol: rc5
+address: 28
+command: 93
+#
+name: JOBS-A
+type: parsed
+protocol: rc5
+address: 28
+command: 94
+#
+name: JOBS-B
+type: parsed
+protocol: rc5
+address: 28
+command: 94
+#
+name: ARCH-A
+type: parsed
+protocol: rc5
+address: 28
+command: 95
+#
+name: ARCH-B
+type: parsed
+protocol: rc5
+address: 28
+command: 95
+#
+name: BLAU-A
+type: parsed
+protocol: rc5
+address: 28
+command: 113
+#
+name: BLAU-B
+type: parsed
+protocol: rc5
+address: 28
+command: 113
+#
+name: GELB-A
+type: parsed
+protocol: rc5
+address: 28
+command: 114
+#
+name: GELB-B
+type: parsed
+protocol: rc5
+address: 28
+command: 114
+#
+name: ?-A
+type: parsed
+protocol: rc5
+address: 28
+command: 115
+#
+name: ?-B
+type: parsed
+protocol: rc5
+address: 28
+command: 115
+#
+name: TVTV-A
+type: parsed
+protocol: rc5
+address: 28
+command: 116
+#
+name: TVTV-B
+type: parsed
+protocol: rc5
+address: 28
+command: 116
+#
+name: ROT-A
+type: parsed
+protocol: rc5
+address: 28
+command: 117
+#
+name: ROT-B
+type: parsed
+protocol: rc5
+address: 28
+command: 117
+#
+name: LIVE-A
+type: parsed
+protocol: rc5
+address: 28
+command: 125
+#
+name: LIVE-B
+type: parsed
+protocol: rc5
+address: 28
+command: 125
+#

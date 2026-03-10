@@ -1,0 +1,1203 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 8
+type: parsed
+protocol: nec1
+address: 80
+command: 4
+#
+name: 8
+type: parsed
+protocol: nec
+address: 80
+command: 4
+#
+name: TV 8 (VWX)
+type: parsed
+protocol: nec1
+address: 80
+command: 4
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 80
+command: 5
+#
+name: 9
+type: parsed
+protocol: nec
+address: 80
+command: 5
+#
+name: TV 9 (YZ)
+type: parsed
+protocol: nec1
+address: 80
+command: 5
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: 100/ENT
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: E
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: 100
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: ENTER/100
+type: parsed
+protocol: nec1
+address: 80
+command: 6
+#
+name: PIP SURF
+type: parsed
+protocol: nec1
+address: 80
+command: 7
+#
+name: PIP CHANNEL
+type: parsed
+protocol: nec1
+address: 80
+command: 7
+#
+name: SURF
+type: parsed
+protocol: nec1
+address: 80
+command: 7
+#
+name: PIP CH
+type: parsed
+protocol: nec1
+address: 80
+command: 7
+#
+name: ANT.
+type: parsed
+protocol: nec1
+address: 80
+command: 7
+#
+name: AVX
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: ANT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUT NEXT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUTS
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUT SOURCE
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: TV INPUT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: INPUT SELECT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: LAST CHAN
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: LAST CHANNEL
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: LAST CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: LAST
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: LST-CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: PREV. CHANNEL
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: TV LAST CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: JUMP
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: TV MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 80
+command: 12
+#
+name: TV 0 (&!/)
+type: parsed
+protocol: nec1
+address: 80
+command: 12
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 80
+command: 13
+#
+name: 1
+type: parsed
+protocol: nec
+address: 80
+command: 13
+#
+name: TV 1 (ABC)
+type: parsed
+protocol: nec1
+address: 80
+command: 13
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 80
+command: 14
+#
+name: 2
+type: parsed
+protocol: nec
+address: 80
+command: 14
+#
+name: TV 2 (DEF)
+type: parsed
+protocol: nec1
+address: 80
+command: 14
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 80
+command: 15
+#
+name: 3
+type: parsed
+protocol: nec
+address: 80
+command: 15
+#
+name: TV 3 (GHI)
+type: parsed
+protocol: nec1
+address: 80
+command: 15
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: STATUS
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: USER
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: SLEEP (-)
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: --
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: DASH
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: C.S.
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: OFF-TIMER
+type: parsed
+protocol: nec1
+address: 80
+command: 17
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOL UP
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: TV VOL ^
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: INPUT RGB2
+type: parsed
+protocol: nec1
+address: 80
+command: 19
+#
+name: A/V NET
+type: parsed
+protocol: nec1
+address: 80
+command: 20
+#
+name: INPUT A/V NET
+type: parsed
+protocol: nec1
+address: 80
+command: 20
+#
+name: ANT
+type: parsed
+protocol: nec1
+address: 80
+command: 20
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: VOL DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: TV VOL V
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: INPUT AV 2
+type: parsed
+protocol: nec1
+address: 80
+command: 22
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: TV POWER
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: OFF
+type: parsed
+protocol: nec2
+address: 80
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec
+address: 80
+command: 24
+#
+name: CHANNEL-
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHAN DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CH V
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: TV CH V
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: CHANNEL+
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: CHANNEL +
+type: parsed
+protocol: nec
+address: 80
+command: 25
+#
+name: CHAN UP
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: CH ^
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: TV CH ^
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 80
+command: 28
+#
+name: 4
+type: parsed
+protocol: nec
+address: 80
+command: 28
+#
+name: TV 4 (JKL)
+type: parsed
+protocol: nec1
+address: 80
+command: 28
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 80
+command: 29
+#
+name: 5
+type: parsed
+protocol: nec
+address: 80
+command: 29
+#
+name: TV 5 (MNO)
+type: parsed
+protocol: nec1
+address: 80
+command: 29
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 80
+command: 30
+#
+name: 6
+type: parsed
+protocol: nec
+address: 80
+command: 30
+#
+name: TV 6 (PQR)
+type: parsed
+protocol: nec1
+address: 80
+command: 30
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 80
+command: 31
+#
+name: 7
+type: parsed
+protocol: nec
+address: 80
+command: 31
+#
+name: TV 7 (STU)
+type: parsed
+protocol: nec1
+address: 80
+command: 31
+#
+name: INPUT VIDEO 6
+type: parsed
+protocol: nec1
+address: 80
+command: 32
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 80
+command: 33
+#
+name: INPUT 1
+type: parsed
+protocol: nec1
+address: 80
+command: 33
+#
+name: VID 1  SAT
+type: parsed
+protocol: nec1
+address: 80
+command: 33
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 80
+command: 34
+#
+name: INPUT 2
+type: parsed
+protocol: nec1
+address: 80
+command: 34
+#
+name: VID 2  DVD
+type: parsed
+protocol: nec1
+address: 80
+command: 34
+#
+name: VIDEO 2
+type: parsed
+protocol: nec2
+address: 80
+command: 34
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 80
+command: 35
+#
+name: INPUT 3
+type: parsed
+protocol: nec1
+address: 80
+command: 35
+#
+name: VID 3  REC.
+type: parsed
+protocol: nec1
+address: 80
+command: 35
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 80
+command: 36
+#
+name: INPUT 4
+type: parsed
+protocol: nec1
+address: 80
+command: 36
+#
+name: VID 4
+type: parsed
+protocol: nec1
+address: 80
+command: 36
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 80
+command: 40
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 80
+command: 41
+#
+name: INPUT VIDEO 5
+type: parsed
+protocol: nec1
+address: 80
+command: 44
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: nec2
+address: 80
+command: 45
+#
+name: CURSOR SELECT
+type: parsed
+protocol: nec1
+address: 80
+command: 46
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 80
+command: 46
+#
+name: INPUT VIDEO 3
+type: parsed
+protocol: nec
+address: 80
+command: 47
+#
+name: MENU ENTER
+type: parsed
+protocol: nec1
+address: 80
+command: 51
+#
+name: TV SELECT
+type: parsed
+protocol: nec1
+address: 80
+command: 51
+#
+name: TV/RGB
+type: parsed
+protocol: nec1
+address: 80
+command: 53
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 80
+command: 53
+#
+name: FAV CH
+type: parsed
+protocol: nec1
+address: 80
+command: 56
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 80
+command: 60
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 80
+command: 60
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 80
+command: 60
+#
+name: VIDEO 5
+type: parsed
+protocol: nec1
+address: 80
+command: 61
+#
+name: VID 5
+type: parsed
+protocol: nec1
+address: 80
+command: 61
+#
+name: VIDEO 5
+type: parsed
+protocol: nec2
+address: 80
+command: 61
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 80
+command: 62
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 80
+command: 63
+#
+name: INPUT VIDEO 4
+type: parsed
+protocol: nec1
+address: 80
+command: 68
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 80
+command: 69
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 80
+command: 70
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 80
+command: 71
+#
+name: INPUT AV 3
+type: parsed
+protocol: nec1
+address: 80
+command: 79
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: nec1
+address: 80
+command: 81
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 80
+command: 81
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 80
+command: 83
+#
+name: TV MENU
+type: parsed
+protocol: nec1
+address: 80
+command: 83
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 80
+command: 88
+#
+name: DTV/SAT
+type: parsed
+protocol: nec1
+address: 80
+command: 88
+#
+name: PIP SWAP
+type: parsed
+protocol: nec1
+address: 80
+command: 89
+#
+name: SWAP
+type: parsed
+protocol: nec1
+address: 80
+command: 89
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 80
+command: 89
+#
+name: PIP MODE
+type: parsed
+protocol: nec1
+address: 80
+command: 90
+#
+name: PIP MODE
+type: parsed
+protocol: nec
+address: 80
+command: 90
+#
+name: SWAP
+type: parsed
+protocol: nec1
+address: 80
+command: 90
+#
+name: MOVE
+type: parsed
+protocol: nec1
+address: 80
+command: 90
+#
+name: PICTURE RESET
+type: parsed
+protocol: nec1
+address: 80
+command: 91
+#
+name: PICTURE +
+type: parsed
+protocol: nec1
+address: 80
+command: 92
+#
+name: + (PLUS)
+type: parsed
+protocol: nec1
+address: 80
+command: 92
+#
+name: PICTURE -
+type: parsed
+protocol: nec1
+address: 80
+command: 93
+#
+name: - (MINUS)
+type: parsed
+protocol: nec1
+address: 80
+command: 93
+#
+name: PIP INPUT
+type: parsed
+protocol: nec1
+address: 80
+command: 94
+#
+name: DAY/NIGHT
+type: parsed
+protocol: nec1
+address: 80
+command: 94
+#
+name: P.MODE
+type: parsed
+protocol: nec1
+address: 80
+command: 94
+#
+name: PICTURE MODE
+type: parsed
+protocol: nec1
+address: 80
+command: 94
+#
+name: SOUND MODE
+type: parsed
+protocol: nec1
+address: 80
+command: 95
+#
+name: PIP FREEZE
+type: parsed
+protocol: nec1
+address: 80
+command: 97
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 80
+command: 97
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 80
+command: 97
+#
+name: MOVE
+type: parsed
+protocol: nec1
+address: 80
+command: 97
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 80
+command: 100
+#
+name: ASPECT 16:9 STANDARD
+type: parsed
+protocol: nec1
+address: 80
+command: 101
+#
+name: ASPECT 16:9 ZOOM
+type: parsed
+protocol: nec1
+address: 80
+command: 102
+#
+name: ASPECT 4:3 STANDARD
+type: parsed
+protocol: nec1
+address: 80
+command: 103
+#
+name: ASPECT 4:3 EXPAND
+type: parsed
+protocol: nec1
+address: 80
+command: 104
+#
+name: ASPECT 4:3 ZOOM1
+type: parsed
+protocol: nec1
+address: 80
+command: 105
+#
+name: ASPECT 4:3 ZOOM2
+type: parsed
+protocol: nec1
+address: 80
+command: 106
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 80
+command: 111
+#
+name: TV ASPECT
+type: parsed
+protocol: nec1
+address: 80
+command: 111
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 80
+command: 112
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 80
+command: 112
+#
+name: TV ^
+type: parsed
+protocol: nec1
+address: 80
+command: 112
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 113
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 80
+command: 113
+#
+name: TV V
+type: parsed
+protocol: nec1
+address: 80
+command: 113
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 80
+command: 114
+#
+name: TV >
+type: parsed
+protocol: nec1
+address: 80
+command: 114
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 80
+command: 115
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 80
+command: 115
+#
+name: TV <
+type: parsed
+protocol: nec1
+address: 80
+command: 115
+#
+name: DAY
+type: parsed
+protocol: nec1
+address: 80
+command: 116
+#
+name: NIGHT
+type: parsed
+protocol: nec1
+address: 80
+command: 117
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 80
+command: 118
+#
+name: CHANNEL / PAGE +
+type: parsed
+protocol: nec2
+address: 80
+command: 160
+#
+name: INPUT RGB1
+type: parsed
+protocol: nec1
+address: 80
+command: 161
+#
+name: SWIVEL
+type: parsed
+protocol: nec1
+address: 80
+command: 172
+#
+name: CHANNEL / PAGE -
+type: parsed
+protocol: nec2
+address: 80
+command: 176
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 80
+command: 192
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 80
+command: 208
+#

@@ -1,0 +1,885 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO 1
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 0
+#
+name: 1 (CAM)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 0
+#
+name: AUDIO 9
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 1
+#
+name: 9 (CD)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 1
+#
+name: AUDIO POWER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 2
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 2
+#
+name: AUDIO 2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 8
+#
+name: 2 (DVD)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 8
+#
+name: AUDIO 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 9
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 9
+#
+name: AUDIO SCAN ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 10
+#
+name: VCRA CH ^ (SCAN ^)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 10
+#
+name: PRESET SCAN (INTRO)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 10
+#
+name: AUDIO CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 11
+#
+name: AUDIO 3
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 16
+#
+name: 3 (TV)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 16
+#
+name: AUDIO SCAN V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 18
+#
+name: VCRA CH V (SCAN V)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 18
+#
+name: AUDIO 4
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 24
+#
+name: 4 (VCR)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 24
+#
+name: AUDIO INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 26
+#
+name: VCRA INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 26
+#
+name: AUDIO 5
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 32
+#
+name: 5 (TAPE1)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 32
+#
+name: VOLUME ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 34
+#
+name: VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 34
+#
+name: AUDIO DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 39
+#
+name: AUDIO 6
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 40
+#
+name: 6 (TAPE2)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 40
+#
+name: VOLUME V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 42
+#
+name: VOL V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 42
+#
+name: AUDIO SLOW
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 43
+#
+name: SUR (PAUSE)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 43
+#
+name: AUDIO 7
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 48
+#
+name: 7 (TUNER)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 48
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 50
+#
+name: AUDIO VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 51
+#
+name: AUDIO FS/+
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 51
+#
+name: REAR + (PLAY)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 51
+#
+name: AUDIO ENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 53
+#
+name: AUDIO 8
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 56
+#
+name: 8 (AUX)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 56
+#
+name: AUDIO INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 58
+#
+name: VCRA INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 58
+#
+name: AUDIO VOL V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 59
+#
+name: AUDIO RS/-
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 59
+#
+name: REAR - (STOP)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 59
+#
+name: AUDIO B
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 63
+#
+name: AUDIO ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 65
+#
+name: CH ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 65
+#
+name: VCR B
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 67
+#
+name: VCR B INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 67
+#
+name: VCR A
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 68
+#
+name: VCR A INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 68
+#
+name: TV
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 69
+#
+name: TV INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 69
+#
+name: CD
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 70
+#
+name: CD INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 70
+#
+name: AUDIO ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 73
+#
+name: CH V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 73
+#
+name: PHONO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 75
+#
+name: PHONO INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 75
+#
+name: FM/AM
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 76
+#
+name: TAPE1/2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 77
+#
+name: TAPE 1/2 INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 77
+#
+name: AUX
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 78
+#
+name: AUX INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 78
+#
+name: AUDIO AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 80
+#
+name: AUDIO MENU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 82
+#
+name: TEST
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 86
+#
+name: AUDIO AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 88
+#
+name: CENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 92
+#
+name: CENTER + (FF)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 117
+#
+name: DELAY (REC)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 123
+#
+name: CENTER - (REW)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 125
+#
+name: TAPE1 1
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 128
+#
+name: TAPE1 9
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 129
+#
+name: TAPE1 MENU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 130
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 132
+#
+name: TAPE2 PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 133
+#
+name: TAPE1 VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 134
+#
+name: TAPE1 FS/+
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 134
+#
+name: TAPE2 VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 135
+#
+name: TAPE2 FS/+
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 135
+#
+name: TAPE1 2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 136
+#
+name: TAPE1 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 137
+#
+name: TAPE1 ENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 138
+#
+name: TAPE1 REC
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 140
+#
+name: TAPE1 VOL V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 142
+#
+name: TAPE1 RS/-
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 142
+#
+name: TAPE2 VOL V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 143
+#
+name: TAPE2 RS/-
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 143
+#
+name: TAPE1 3
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 144
+#
+name: TAPE1 CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 146
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 148
+#
+name: TAPE2 STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 149
+#
+name: TAPE1 REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 151
+#
+name: TAPE1 4
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 152
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 156
+#
+name: TAPE2 PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 157
+#
+name: TAPE1 5
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 160
+#
+name: TAPE1 AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 162
+#
+name: TAPE1 FF >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 164
+#
+name: TAPE2 FF >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 165
+#
+name: TAPE1 DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 167
+#
+name: TAPE1 6
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 168
+#
+name: TAPE1 AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 170
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 172
+#
+name: TAPE2 REW <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 173
+#
+name: TAPE1 INTRO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 174
+#
+name: TAPE2 INTRO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 175
+#
+name: TAPE1 7
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 176
+#
+name: TAPE1 ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 178
+#
+name: TAPE1 R.PLAY <
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 180
+#
+name: TAPE1 PLAY R. <
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 180
+#
+name: TAPE2 R.PLAY <
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 181
+#
+name: TAPE2 PLAY R. <
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 181
+#
+name: TAPE1 8
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 184
+#
+name: TAPE1 ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 186
+#
+name: TAPE1 B
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 191
+#
+name: CD 1
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 192
+#
+name: CD 9
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 193
+#
+name: CD PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 196
+#
+name: CD A
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 199
+#
+name: CD 2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 200
+#
+name: CD 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 201
+#
+name: CD FF >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 202
+#
+name: CD CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 203
+#
+name: CD 3
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 208
+#
+name: CD REW <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 210
+#
+name: CD STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 212
+#
+name: CD REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 215
+#
+name: CD 4
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 216
+#
+name: CD DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 219
+#
+name: CD PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 220
+#
+name: CD 5
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 224
+#
+name: CD FS/+
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 228
+#
+name: CD B
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 230
+#
+name: CD 6
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 232
+#
+name: CD RS/-
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 236
+#
+name: CD INTRO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 238
+#
+name: CD 7
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 240
+#
+name: CD ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 244
+#
+name: CD ENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 245
+#
+name: CD 8
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 248
+#
+name: CD ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 252
+#
+name: CD MENU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 254
+#

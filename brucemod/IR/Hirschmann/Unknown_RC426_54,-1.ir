@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nrc16
+address: 54
+command: 0
+#
+name: 1
+type: parsed
+protocol: nrc16
+address: 54
+command: 1
+#
+name: 2
+type: parsed
+protocol: nrc16
+address: 54
+command: 2
+#
+name: 3
+type: parsed
+protocol: nrc16
+address: 54
+command: 3
+#
+name: 4
+type: parsed
+protocol: nrc16
+address: 54
+command: 4
+#
+name: 5
+type: parsed
+protocol: nrc16
+address: 54
+command: 5
+#
+name: 6
+type: parsed
+protocol: nrc16
+address: 54
+command: 6
+#
+name: 7
+type: parsed
+protocol: nrc16
+address: 54
+command: 7
+#
+name: 8
+type: parsed
+protocol: nrc16
+address: 54
+command: 8
+#
+name: 9
+type: parsed
+protocol: nrc16
+address: 54
+command: 9
+#
+name: M
+type: parsed
+protocol: nrc16
+address: 54
+command: 11
+#
+name: POWER
+type: parsed
+protocol: nrc16
+address: 54
+command: 12
+#
+name: TV
+type: parsed
+protocol: nrc16
+address: 54
+command: 13
+#
+name: ARROW_UP
+type: parsed
+protocol: nrc16
+address: 54
+command: 14
+#
+name: ARROW_DOWN
+type: parsed
+protocol: nrc16
+address: 54
+command: 15
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: nrc16
+address: 54
+command: 22
+#
+name: ARROW_LEFT
+type: parsed
+protocol: nrc16
+address: 54
+command: 23
+#
+name: SELECT
+type: parsed
+protocol: nrc16
+address: 54
+command: 37
+#
+name: MUTE
+type: parsed
+protocol: nrc16
+address: 54
+command: 40
+#
+name: SKIP
+type: parsed
+protocol: nrc16
+address: 54
+command: 45
+#
+name: TIMER
+type: parsed
+protocol: nrc16
+address: 54
+command: 51
+#
+name: COPY
+type: parsed
+protocol: nrc16
+address: 54
+command: 59
+#
+name: AUDIO
+type: parsed
+protocol: nrc16
+address: 54
+command: 73
+#
+name: VIDEO
+type: parsed
+protocol: nrc16
+address: 54
+command: 74
+#
+name: LNB
+type: parsed
+protocol: nrc16
+address: 54
+command: 75
+#
+name: SYNC
+type: parsed
+protocol: nrc16
+address: 54
+command: 83
+#
+name: ME
+type: parsed
+protocol: nrc16
+address: 54
+command: 84
+#
+name: VCR
+type: parsed
+protocol: nrc16
+address: 54
+command: 85
+#
+name: RADIO
+type: parsed
+protocol: nrc16
+address: 54
+command: 86
+#

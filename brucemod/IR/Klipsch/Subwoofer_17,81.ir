@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 17.81
+command: 0
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 17.81
+command: 1
+#
+name: LOW PASS +
+type: parsed
+protocol: nec1
+address: 17.81
+command: 2
+#
+name: LOW PASS -
+type: parsed
+protocol: nec1
+address: 17.81
+command: 3
+#
+name: PHASE +
+type: parsed
+protocol: nec1
+address: 17.81
+command: 4
+#
+name: PHASE -
+type: parsed
+protocol: nec1
+address: 17.81
+command: 5
+#
+name: ADAPTIVE ROOM CORR
+type: parsed
+protocol: nec1
+address: 17.81
+command: 6
+#
+name: FLAT
+type: parsed
+protocol: nec1
+address: 17.81
+command: 16
+#
+name: PUNCH
+type: parsed
+protocol: nec1
+address: 17.81
+command: 17
+#
+name: DEPTH
+type: parsed
+protocol: nec1
+address: 17.81
+command: 18
+#
+name: USER 1 RECALL
+type: parsed
+protocol: nec1
+address: 17.81
+command: 27
+#
+name: USER 2 RECALL
+type: parsed
+protocol: nec1
+address: 17.81
+command: 28
+#
+name: MUSIC RECALL
+type: parsed
+protocol: nec1
+address: 17.81
+command: 32
+#
+name: MOVIE RECALL
+type: parsed
+protocol: nec1
+address: 17.81
+command: 33
+#
+name: NIGHT RECALL
+type: parsed
+protocol: nec1
+address: 17.81
+command: 34
+#
+name: USER 1 SAVE
+type: parsed
+protocol: nec1
+address: 17.81
+command: 35
+#
+name: USER 2 SAVE
+type: parsed
+protocol: nec1
+address: 17.81
+command: 36
+#
+name: MUSIC SAVE
+type: parsed
+protocol: nec1
+address: 17.81
+command: 40
+#
+name: MOVIE SAVE
+type: parsed
+protocol: nec1
+address: 17.81
+command: 41
+#
+name: NIGHT SAVE
+type: parsed
+protocol: nec1
+address: 17.81
+command: 42
+#

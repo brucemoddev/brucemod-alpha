@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#

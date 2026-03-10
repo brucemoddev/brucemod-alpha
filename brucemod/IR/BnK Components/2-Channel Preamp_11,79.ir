@@ -1,0 +1,519 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OFF
+type: parsed
+protocol: nec2
+address: 11.79
+command: 1
+#
+name: ON
+type: parsed
+protocol: nec2
+address: 11.79
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 3
+#
+name: BK002 MUTE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 3
+#
+name: V1
+type: parsed
+protocol: nec2
+address: 11.79
+command: 5
+#
+name: BK002 V1
+type: parsed
+protocol: nec2
+address: 11.79
+command: 5
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 11.79
+command: 6
+#
+name: BK002 TV
+type: parsed
+protocol: nec2
+address: 11.79
+command: 6
+#
+name: V2
+type: parsed
+protocol: nec2
+address: 11.79
+command: 9
+#
+name: BK002 V2
+type: parsed
+protocol: nec2
+address: 11.79
+command: 9
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 11
+#
+name: BK002 TAPE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 11
+#
+name: DVD
+type: parsed
+protocol: nec2
+address: 11.79
+command: 13
+#
+name: BK002 DVD
+type: parsed
+protocol: nec2
+address: 11.79
+command: 13
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 11.79
+command: 14
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 11.79
+command: 15
+#
+name: BK002 CD
+type: parsed
+protocol: nec2
+address: 11.79
+command: 15
+#
+name: BAND
+type: parsed
+protocol: nec2
+address: 11.79
+command: 19
+#
+name: TUNE-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 27
+#
+name: BK002 TUNE-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 27
+#
+name: TUNE+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 28
+#
+name: BK002 TUNE+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 28
+#
+name: CR LEFT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 31
+#
+name: BK002 LEFT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 31
+#
+name: CR RIGHT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 32
+#
+name: BK002 RIGHT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 32
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 11.79
+command: 35
+#
+name: BK002 VOLUME-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 35
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 11.79
+command: 36
+#
+name: BK002 VOLUME+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 36
+#
+name: MODE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 38
+#
+name: 10+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 41
+#
+name: BK002 NUMBER +10
+type: parsed
+protocol: nec2
+address: 11.79
+command: 41
+#
+name: CR DOWN
+type: parsed
+protocol: nec2
+address: 11.79
+command: 45
+#
+name: BK002 DOWN
+type: parsed
+protocol: nec2
+address: 11.79
+command: 45
+#
+name: CR UP
+type: parsed
+protocol: nec2
+address: 11.79
+command: 46
+#
+name: BK002 UP
+type: parsed
+protocol: nec2
+address: 11.79
+command: 46
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 11.79
+command: 47
+#
+name: BK002 MENU
+type: parsed
+protocol: nec2
+address: 11.79
+command: 47
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 11.79
+command: 48
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 48
+#
+name: BK002 ENTER
+type: parsed
+protocol: nec2
+address: 11.79
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 11.79
+command: 49
+#
+name: BK002 NUMBER 1
+type: parsed
+protocol: nec2
+address: 11.79
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 11.79
+command: 50
+#
+name: BK002 NUMBER 2
+type: parsed
+protocol: nec2
+address: 11.79
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 11.79
+command: 51
+#
+name: BK002 NUMBER 3
+type: parsed
+protocol: nec2
+address: 11.79
+command: 51
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 11.79
+command: 53
+#
+name: BK002 NUMBER 4
+type: parsed
+protocol: nec2
+address: 11.79
+command: 53
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 11.79
+command: 54
+#
+name: BK002 NUMBER 5
+type: parsed
+protocol: nec2
+address: 11.79
+command: 54
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 11.79
+command: 55
+#
+name: BK002 NUMBER 6
+type: parsed
+protocol: nec2
+address: 11.79
+command: 55
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 11.79
+command: 57
+#
+name: BK002 NUMBER 7
+type: parsed
+protocol: nec2
+address: 11.79
+command: 57
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 11.79
+command: 58
+#
+name: BK002 NUMBER 8
+type: parsed
+protocol: nec2
+address: 11.79
+command: 58
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 11.79
+command: 59
+#
+name: BK002 NUMBER 9
+type: parsed
+protocol: nec2
+address: 11.79
+command: 59
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 11.79
+command: 62
+#
+name: BK002 NUMBER 0
+type: parsed
+protocol: nec2
+address: 11.79
+command: 62
+#
+name: SAVE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 64
+#
+name: BK002 SAVE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 64
+#
+name: SAT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 74
+#
+name: PRESET +
+type: parsed
+protocol: nec2
+address: 11.79
+command: 75
+#
+name: BASS-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 101
+#
+name: BK002 BASS-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 101
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 11.79
+command: 118
+#
+name: BK002 AM
+type: parsed
+protocol: nec2
+address: 11.79
+command: 118
+#
+name: TREBLE-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 121
+#
+name: BK002 TREBLE-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 121
+#
+name: BK002 EXIT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 125
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 11.79
+command: 142
+#
+name: BK002 FM
+type: parsed
+protocol: nec2
+address: 11.79
+command: 142
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 162
+#
+name: PRESET -
+type: parsed
+protocol: nec2
+address: 11.79
+command: 198
+#
+name: A KEY
+type: parsed
+protocol: nec2
+address: 11.79
+command: 207
+#
+name: LOUDNESS
+type: parsed
+protocol: nec2
+address: 11.79
+command: 207
+#
+name: BK002 LOUDNESS
+type: parsed
+protocol: nec2
+address: 11.79
+command: 207
+#
+name: BASS+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 229
+#
+name: BK002 BASS+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 229
+#
+name: ST/MONO
+type: parsed
+protocol: nec2
+address: 11.79
+command: 235
+#
+name: BK002 STEREO/MONO
+type: parsed
+protocol: nec2
+address: 11.79
+command: 235
+#
+name: TREBLE+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 249
+#
+name: BK002 TREBLE+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 249
+#

@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLIST +
+type: parsed
+protocol: nec1
+address: 0.127
+command: 0
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 0.127
+command: 1
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 0.127
+command: 1
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 0.127
+command: 1
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0.127
+command: 2
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0.127
+command: 3
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0.127
+command: 4
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0.127
+command: 5
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0.127
+command: 6
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0.127
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0.127
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0.127
+command: 9
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0.127
+command: 10
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0.127
+command: 12
+#
+name: PLIST -
+type: parsed
+protocol: nec1
+address: 0.127
+command: 13
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 0.127
+command: 16
+#
+name: SONG +
+type: parsed
+protocol: nec1
+address: 0.127
+command: 18
+#
+name: VOL-
+type: parsed
+protocol: nec1
+address: 0.127
+command: 19
+#
+name: VOL +
+type: parsed
+protocol: nec1
+address: 0.127
+command: 21
+#
+name: SONG -
+type: parsed
+protocol: nec1
+address: 0.127
+command: 22
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 0.127
+command: 27
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 0.127
+command: 28
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 0.127
+command: 29
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 0.127
+command: 30
+#

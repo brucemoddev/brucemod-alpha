@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: store
+type: parsed
+protocol: nec
+address: 16.47
+command: 130
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 16.47
+command: 131
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 16.47
+command: 132
+#
+name: skew_up
+type: parsed
+protocol: nec
+address: 16.47
+command: 133
+#
+name: skew_down
+type: parsed
+protocol: nec
+address: 16.47
+command: 134
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 16.47
+command: 135
+#
+name: audio_down
+type: parsed
+protocol: nec
+address: 16.47
+command: 136
+#
+name: bw
+type: parsed
+protocol: nec
+address: 16.47
+command: 137
+#
+name: h/v
+type: parsed
+protocol: nec
+address: 16.47
+command: 138
+#
+name: audio_up
+type: parsed
+protocol: nec
+address: 16.47
+command: 139
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 16.47
+command: 154
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 16.47
+command: 155
+#
+name: norm
+type: parsed
+protocol: nec
+address: 16.47
+command: 156
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 16.47
+command: 157
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 16.47
+command: 158
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 16.47
+command: 159
+#

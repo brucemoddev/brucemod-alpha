@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 9
+#
+name: MENU
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 10
+#
+name: TVGUIDE
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 11
+#
+name: POWER
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 12
+#
+name: INFO
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 13
+#
+name: P+
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 14
+#
+name: P-
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 15
+#
+name: V+
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 16
+#
+name: V-
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 17
+#
+name: RIGHT
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 18
+#
+name: TV
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 19
+#
+name: EXIT
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 20
+#
+name: LEFT
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 21
+#
+name: OK
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 22
+#
+name: TELETEXT
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 24
+#
+name: MUSIC
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 25
+#
+name: MUTE
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 26
+#
+name: DOWN
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 28
+#
+name: UP
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 29
+#
+name: AUDIO
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 30
+#
+name: RCL
+type: parsed
+protocol: aiwa
+address: 8.0
+command: 31
+#

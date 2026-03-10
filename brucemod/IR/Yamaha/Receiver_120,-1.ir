@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 120
+command: 1
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 120
+command: 2
+#
+name: FWD
+type: parsed
+protocol: nec1
+address: 120
+command: 3
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 120
+command: 4
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 120
+command: 7
+#
+name: REP
+type: parsed
+protocol: nec1
+address: 120
+command: 12
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 120
+command: 27
+#
+name: PRESET UP
+type: parsed
+protocol: nec1
+address: 120
+command: 27
+#
+name: PRESET DN
+type: parsed
+protocol: nec1
+address: 120
+command: 28
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 120
+command: 28
+#
+name: ABCDE
+type: parsed
+protocol: nec1
+address: 120
+command: 29
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 120
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 120
+command: 31
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 120
+command: 73
+#
+name: HDMI 1
+type: parsed
+protocol: nec1
+address: 120
+command: 74
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 120
+command: 74
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 120
+command: 75
+#
+name: SUBWOOF +
+type: parsed
+protocol: nec1
+address: 120
+command: 76
+#
+name: SUBWOOF -
+type: parsed
+protocol: nec1
+address: 120
+command: 77
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 120
+command: 78
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 120
+command: 79
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 120
+command: 80
+#
+name: BEAM-STEREO
+type: parsed
+protocol: nec1
+address: 120
+command: 80
+#
+name: LEVEL UP
+type: parsed
+protocol: nec1
+address: 120
+command: 85
+#
+name: LEVEL DN
+type: parsed
+protocol: nec1
+address: 120
+command: 86
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 120
+command: 94
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 120
+command: 95
+#
+name: BASS/TREBLE
+type: parsed
+protocol: nec1
+address: 120
+command: 132
+#
+name: CENTER +
+type: parsed
+protocol: nec1
+address: 120
+command: 134
+#
+name: CENTER -
+type: parsed
+protocol: nec1
+address: 120
+command: 135
+#
+name: SURROUND +
+type: parsed
+protocol: nec1
+address: 120
+command: 136
+#
+name: SURROUND -
+type: parsed
+protocol: nec1
+address: 120
+command: 137
+#
+name: NIGHT
+type: parsed
+protocol: nec1
+address: 120
+command: 138
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 120
+command: 142
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 120
+command: 143
+#
+name: MATRIX 6.1
+type: parsed
+protocol: nec1
+address: 120
+command: 144
+#
+name: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 120
+command: 153
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 120
+command: 153
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 120
+command: 156
+#
+name: SET MENU
+type: parsed
+protocol: nec1
+address: 120
+command: 157
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 120
+command: 158
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 120
+command: 159
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec1
+address: 120
+command: 169
+#
+name: TUNE UP
+type: parsed
+protocol: nec1
+address: 120
+command: 170
+#
+name: IPOD
+type: parsed
+protocol: nec1
+address: 120
+command: 188
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 120
+command: 192
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 120
+command: 193
+#
+name: BEAM-5STAR
+type: parsed
+protocol: nec1
+address: 120
+command: 194
+#
+name: BEAM-LCR SURROUN
+type: parsed
+protocol: nec1
+address: 120
+command: 195
+#
+name: BEAM-LCR
+type: parsed
+protocol: nec1
+address: 120
+command: 196
+#
+name: HDMI 2
+type: parsed
+protocol: nec1
+address: 120
+command: 208
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 120
+command: 222
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 120
+command: 223
+#

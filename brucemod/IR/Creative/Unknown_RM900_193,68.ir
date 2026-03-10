@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: s0
+type: parsed
+protocol: nec
+address: 193.68
+command: 0
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 193.68
+command: 1
+#
+name: s3
+type: parsed
+protocol: nec
+address: 193.68
+command: 8
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 193.68
+command: 9
+#
+name: sMenu
+type: parsed
+protocol: nec
+address: 193.68
+command: 16
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 193.68
+command: 17
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 193.68
+command: 30
+#
+name: s6
+type: parsed
+protocol: nec
+address: 193.68
+command: 31
+#
+name: s5
+type: parsed
+protocol: nec
+address: 193.68
+command: 32
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 193.68
+command: 33
+#
+name: sEax
+type: parsed
+protocol: nec
+address: 193.68
+command: 48
+#
+name: eax
+type: parsed
+protocol: nec
+address: 193.68
+command: 49
+#
+name: KEY_CLOSE
+type: parsed
+protocol: nec
+address: 193.68
+command: 62
+#
+name: sClose
+type: parsed
+protocol: nec
+address: 193.68
+command: 63
+#
+name: sOptions
+type: parsed
+protocol: nec
+address: 193.68
+command: 64
+#
+name: KEY_OPTION
+type: parsed
+protocol: nec
+address: 193.68
+command: 65
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 193.68
+command: 70
+#
+name: sVol+
+type: parsed
+protocol: nec
+address: 193.68
+command: 71
+#
+name: s4
+type: parsed
+protocol: nec
+address: 193.68
+command: 80
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 193.68
+command: 81
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 193.68
+command: 94
+#
+name: sNext
+type: parsed
+protocol: nec
+address: 193.68
+command: 95
+#
+name: display
+type: parsed
+protocol: nec
+address: 193.68
+command: 110
+#
+name: sDisplay
+type: parsed
+protocol: nec
+address: 193.68
+command: 111
+#
+name: sReturn
+type: parsed
+protocol: nec
+address: 193.68
+command: 112
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 193.68
+command: 113
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 193.68
+command: 118
+#
+name: sMute
+type: parsed
+protocol: nec
+address: 193.68
+command: 119
+#
+name: step
+type: parsed
+protocol: nec
+address: 193.68
+command: 126
+#
+name: sStep
+type: parsed
+protocol: nec
+address: 193.68
+command: 127
+#
+name: sOk
+type: parsed
+protocol: nec
+address: 193.68
+command: 128
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 193.68
+command: 129
+#
+name: s7
+type: parsed
+protocol: nec
+address: 193.68
+command: 144
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 193.68
+command: 145
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 193.68
+command: 158
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 193.68
+command: 159
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 193.68
+command: 160
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 193.68
+command: 161
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 193.68
+command: 174
+#
+name: sRight
+type: parsed
+protocol: nec
+address: 193.68
+command: 175
+#
+name: sDown
+type: parsed
+protocol: nec
+address: 193.68
+command: 176
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 177
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 193.68
+command: 190
+#
+name: sSlow
+type: parsed
+protocol: nec
+address: 193.68
+command: 191
+#
+name: s8
+type: parsed
+protocol: nec
+address: 193.68
+command: 192
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 193.68
+command: 193
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 198
+#
+name: sVol-
+type: parsed
+protocol: nec
+address: 193.68
+command: 199
+#
+name: s1
+type: parsed
+protocol: nec
+address: 193.68
+command: 208
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 193.68
+command: 209
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 193.68
+command: 222
+#
+name: sUp
+type: parsed
+protocol: nec
+address: 193.68
+command: 223
+#
+name: sLeft
+type: parsed
+protocol: nec
+address: 193.68
+command: 224
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 193.68
+command: 225
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 193.68
+command: 238
+#
+name: s9
+type: parsed
+protocol: nec
+address: 193.68
+command: 239
+#
+name: s2
+type: parsed
+protocol: nec
+address: 193.68
+command: 240
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 193.68
+command: 241
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 193.68
+command: 254
+#
+name: sPrev
+type: parsed
+protocol: nec
+address: 193.68
+command: 255
+#

@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOPP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: SPOLA >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: SPOLA <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: POWER ON-OFF
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: GER
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: NSTER
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: CURSOR NER/CH-
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CURSOR UPP/CH+
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 0/AUX
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#

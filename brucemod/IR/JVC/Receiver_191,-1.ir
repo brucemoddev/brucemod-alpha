@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VDP STOP []
+type: parsed
+protocol: jvc
+address: 191
+command: 67
+#
+name: VDP PLAY >
+type: parsed
+protocol: jvc
+address: 191
+command: 76
+#
+name: VDP PAUSE 
+type: parsed
+protocol: jvc
+address: 191
+command: 77
+#
+name: VDP SKIP <<
+type: parsed
+protocol: jvc
+address: 191
+command: 88
+#
+name: VDP SKIP >>
+type: parsed
+protocol: jvc
+address: 191
+command: 89
+#
+name: VDP 0
+type: parsed
+protocol: jvc
+address: 191
+command: 96
+#
+name: VDP 1
+type: parsed
+protocol: jvc
+address: 191
+command: 97
+#
+name: VDP 2
+type: parsed
+protocol: jvc
+address: 191
+command: 98
+#
+name: VDP 3
+type: parsed
+protocol: jvc
+address: 191
+command: 99
+#
+name: VDP 4
+type: parsed
+protocol: jvc
+address: 191
+command: 100
+#
+name: VDP 5
+type: parsed
+protocol: jvc
+address: 191
+command: 101
+#
+name: VDP 6
+type: parsed
+protocol: jvc
+address: 191
+command: 102
+#
+name: VDP 7/P
+type: parsed
+protocol: jvc
+address: 191
+command: 103
+#
+name: VDP 8
+type: parsed
+protocol: jvc
+address: 191
+command: 104
+#
+name: VDP 9
+type: parsed
+protocol: jvc
+address: 191
+command: 105
+#
+name: VDP 10 CONTINUE
+type: parsed
+protocol: jvc
+address: 191
+command: 110
+#
+name: VDP +10
+type: parsed
+protocol: jvc
+address: 191
+command: 111
+#
+name: VDP SEARCH <<
+type: parsed
+protocol: jvc
+address: 191
+command: 112
+#
+name: VDP SEARCH >>
+type: parsed
+protocol: jvc
+address: 191
+command: 118
+#

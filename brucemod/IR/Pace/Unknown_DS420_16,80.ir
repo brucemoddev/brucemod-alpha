@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: one
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: four
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: five
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: zero
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: vol+
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: vol-
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: setup
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 0
+#
+name: two
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 1
+#
+name: six
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 1
+#
+name: three
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 2
+#
+name: seven
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 2
+#
+name: eight
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 4
+#
+name: nine
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 4
+#
+name: up
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 4
+#
+name: down
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 4
+#
+name: left
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 5
+#
+name: right
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 6
+#
+name: mute
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 8
+#
+name: select
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 8
+#
+name: i
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 10
+#
+name: ch+
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 16
+#
+name: ch-
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 16
+#
+name: red
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 24
+#
+name: green
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 25
+#
+name: yellow
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 26
+#
+name: blue
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 32
+#
+name: av
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 36
+#
+name: help
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 64
+#
+name: back
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 66
+#
+name: foxtel
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 73
+#
+name: boxoffice
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 128
+#
+name: tvguide
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 136
+#
+name: active
+type: parsed
+protocol: Nokia32
+address: 16.80
+command: 168
+#

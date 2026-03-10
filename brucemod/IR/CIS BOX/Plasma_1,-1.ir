@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony12
+address: 1
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 1
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 1
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 1
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 1
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 1
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 1
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 1
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 1
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony12
+address: 1
+command: 15
+#
+name: CH+
+type: parsed
+protocol: sony12
+address: 1
+command: 16
+#
+name: CH-
+type: parsed
+protocol: sony12
+address: 1
+command: 17
+#
+name: MUTE
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: MTS
+type: parsed
+protocol: sony12
+address: 1
+command: 23
+#
+name: PWR ON
+type: parsed
+protocol: sony12
+address: 1
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 47
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 1
+command: 58
+#
+name: LINE
+type: parsed
+protocol: sony12
+address: 1
+command: 64
+#
+name: RGB1
+type: parsed
+protocol: sony12
+address: 1
+command: 67
+#
+name: RGB2
+type: parsed
+protocol: sony12
+address: 1
+command: 68
+#
+name: Y/C
+type: parsed
+protocol: sony12
+address: 1
+command: 77
+#
+name: MENU
+type: parsed
+protocol: sony12
+address: 1
+command: 96
+#
+name: ENTER
+type: parsed
+protocol: sony12
+address: 1
+command: 101
+#
+name: SELECT+
+type: parsed
+protocol: sony12
+address: 1
+command: 116
+#
+name: SELECT-
+type: parsed
+protocol: sony12
+address: 1
+command: 117
+#

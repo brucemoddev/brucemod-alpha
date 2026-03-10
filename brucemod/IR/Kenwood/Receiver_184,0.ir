@@ -1,0 +1,579 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO 2
+type: parsed
+protocol: nec
+address: 184.0
+command: 2
+#
+name: VIDEO 2 INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 2
+#
+name: DSS INPUT
+type: parsed
+protocol: nec2
+address: 184.0
+command: 2
+#
+name: 
+type: parsed
+protocol: nec2
+address: 184.0
+command: 2
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 184.0
+command: 2
+#
+name: CENTER-
+type: parsed
+protocol: nec1
+address: 184.0
+command: 10
+#
+name: CENTER+
+type: parsed
+protocol: nec1
+address: 184.0
+command: 11
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 184.0
+command: 13
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 184.0
+command: 13
+#
+name: CENTER MODE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 85
+#
+name: RDS DISPLAY
+type: parsed
+protocol: nec1
+address: 184.0
+command: 88
+#
+name: DISP
+type: parsed
+protocol: nec1
+address: 184.0
+command: 88
+#
+name: LOUDNESS
+type: parsed
+protocol: nec1
+address: 184.0
+command: 95
+#
+name: T1
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T2
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T3
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T4
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T5
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T6
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T7
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T8
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: T9
+type: parsed
+protocol: nec
+address: 184.0
+command: 128
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 184.0
+command: 128
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 184.0
+command: 128
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 129
+#
+name: T10
+type: parsed
+protocol: nec
+address: 184.0
+command: 129
+#
+name: T11
+type: parsed
+protocol: nec2
+address: 184.0
+command: 129
+#
+name: T12
+type: parsed
+protocol: nec2
+address: 184.0
+command: 129
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 184.0
+command: 129
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 130
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 184.0
+command: 130
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 131
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 184.0
+command: 131
+#
+name: INPUT SEL
+type: parsed
+protocol: nec1
+address: 184.0
+command: 131
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 132
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 184.0
+command: 132
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 133
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 184.0
+command: 133
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 184.0
+command: 133
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 134
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 184.0
+command: 134
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 135
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 184.0
+command: 135
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 136
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 184.0
+command: 136
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.0
+command: 137
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 184.0
+command: 137
+#
+name: FAVORITE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 137
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 184.0
+command: 143
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 184.0
+command: 143
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 184.0
+command: 143
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 184.0
+command: 144
+#
+name: PHONO INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 144
+#
+name: TUNER
+type: parsed
+protocol: nec
+address: 184.0
+command: 145
+#
+name: TUNER INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 145
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 184.0
+command: 145
+#
+name: CD
+type: parsed
+protocol: nec
+address: 184.0
+command: 146
+#
+name: CD INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 146
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 184.0
+command: 146
+#
+name: CD 1
+type: parsed
+protocol: nec
+address: 184.0
+command: 146
+#
+name: AV AUX
+type: parsed
+protocol: nec
+address: 184.0
+command: 147
+#
+name: AV-AUX INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 147
+#
+name: AV AUX
+type: parsed
+protocol: nec1
+address: 184.0
+command: 147
+#
+name: VCR 1
+type: parsed
+protocol: nec
+address: 184.0
+command: 147
+#
+name: MD/TAPE1
+type: parsed
+protocol: nec
+address: 184.0
+command: 149
+#
+name: TAPE 1 MD INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 149
+#
+name: TAPE INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 149
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 184.0
+command: 149
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 184.0
+command: 149
+#
+name: VIDEO 1
+type: parsed
+protocol: nec
+address: 184.0
+command: 150
+#
+name: VIDEO 1 INPUT
+type: parsed
+protocol: nec
+address: 184.0
+command: 150
+#
+name: VCR INPUT
+type: parsed
+protocol: nec1
+address: 184.0
+command: 150
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 184.0
+command: 150
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 184.0
+command: 154
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 184.0
+command: 155
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 156
+#
+name: SYS. POWER
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: CODE4 POWER OFF
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: CODE1 POWER OFF
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: CODE1 POWER ON
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: CODE3 POWER OFF
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: CODE3 POWER ON
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: CODE4 POWER ON
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: PRO LOGIC
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: PRO-LOGIC
+type: parsed
+protocol: nec2
+address: 184.0
+command: 157
+#
+name: SURROUND-
+type: parsed
+protocol: nec1
+address: 184.0
+command: 198
+#
+name: SURROUND+
+type: parsed
+protocol: nec1
+address: 184.0
+command: 199
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 184.0
+command: 215
+#
+name: STEREO MODE
+type: parsed
+protocol: nec
+address: 184.0
+command: 215
+#
+name: LISTEN MODE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 223
+#
+name: DSP MODE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 223
+#

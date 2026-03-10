@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GUIDE
+type: parsed
+protocol: sony12
+address: 1
+command: 14
+#
+name: VIDEO
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: TV ANT
+type: parsed
+protocol: sony12
+address: 1
+command: 42
+#
+name: POWER ON
+type: parsed
+protocol: sony12
+address: 1
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony12
+address: 1
+command: 47
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 1
+command: 58
+#
+name: VIDEO 1
+type: parsed
+protocol: sony12
+address: 1
+command: 64
+#
+name: VIDEO 2
+type: parsed
+protocol: sony12
+address: 1
+command: 65
+#
+name: VIDEO 3
+type: parsed
+protocol: sony12
+address: 1
+command: 66
+#
+name: VIDEO 4
+type: parsed
+protocol: sony12
+address: 1
+command: 71
+#
+name: VIDEO5
+type: parsed
+protocol: sony12
+address: 1
+command: 72
+#
+name: QUARTER
+type: parsed
+protocol: sony12
+address: 1
+command: 91
+#
+name: RETURN
+type: parsed
+protocol: sony12
+address: 1
+command: 101
+#

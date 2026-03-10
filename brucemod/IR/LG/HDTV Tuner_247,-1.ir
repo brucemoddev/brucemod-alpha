@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 247
+command: 208
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 247
+command: 209
+#
+name: SYSTEM OFF
+type: parsed
+protocol: nec1
+address: 247
+command: 210
+#
+name: NATIVE
+type: parsed
+protocol: nec1
+address: 247
+command: 211
+#
+name: VARIABLE 1
+type: parsed
+protocol: nec1
+address: 247
+command: 212
+#
+name: VARIABLE 2
+type: parsed
+protocol: nec1
+address: 247
+command: 213
+#
+name: VARIABLE 3
+type: parsed
+protocol: nec1
+address: 247
+command: 214
+#
+name: 1080I
+type: parsed
+protocol: nec1
+address: 247
+command: 215
+#
+name: 720P
+type: parsed
+protocol: nec1
+address: 247
+command: 216
+#
+name: 480P
+type: parsed
+protocol: nec1
+address: 247
+command: 217
+#
+name: 480I
+type: parsed
+protocol: nec1
+address: 247
+command: 218
+#
+name: DVI
+type: parsed
+protocol: nec1
+address: 247
+command: 219
+#
+name: RGB
+type: parsed
+protocol: nec1
+address: 247
+command: 220
+#
+name: YPBPR COMPONENT
+type: parsed
+protocol: nec1
+address: 247
+command: 221
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 247
+command: 222
+#

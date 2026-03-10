@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FM
+type: parsed
+protocol: akai
+address: 0
+command: 65
+#
+name: AM
+type: parsed
+protocol: akai
+address: 0
+command: 66
+#
+name: TUNING UP
+type: parsed
+protocol: akai
+address: 0
+command: 68
+#
+name: TUNING DOWN
+type: parsed
+protocol: akai
+address: 0
+command: 69
+#
+name: MEMO
+type: parsed
+protocol: akai
+address: 0
+command: 70
+#
+name: 1/9
+type: parsed
+protocol: akai
+address: 0
+command: 71
+#
+name: 2/10
+type: parsed
+protocol: akai
+address: 0
+command: 72
+#
+name: 3/11
+type: parsed
+protocol: akai
+address: 0
+command: 73
+#
+name: 4/12
+type: parsed
+protocol: akai
+address: 0
+command: 74
+#
+name: 5/13
+type: parsed
+protocol: akai
+address: 0
+command: 75
+#
+name: 6/14
+type: parsed
+protocol: akai
+address: 0
+command: 76
+#
+name: 7/15
+type: parsed
+protocol: akai
+address: 0
+command: 77
+#
+name: 8/16
+type: parsed
+protocol: akai
+address: 0
+command: 78
+#
+name: POWER
+type: parsed
+protocol: akai
+address: 0
+command: 81
+#
+name: SEEK
+type: parsed
+protocol: akai
+address: 0
+command: 82
+#
+name: SHIFT
+type: parsed
+protocol: akai
+address: 0
+command: 83
+#
+name: MUTE
+type: parsed
+protocol: akai
+address: 0
+command: 84
+#
+name: MONO
+type: parsed
+protocol: akai
+address: 0
+command: 85
+#

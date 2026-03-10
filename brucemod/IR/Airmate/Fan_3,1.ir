@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Oscillation
+type: parsed
+protocol: f12
+address: 3.1
+command: 9
+#
+name: Timer
+type: parsed
+protocol: f12
+address: 3.1
+command: 17
+#
+name: Fan mode
+type: parsed
+protocol: f12
+address: 3.1
+command: 33
+#
+name: Speed
+type: parsed
+protocol: f12
+address: 3.1
+command: 65
+#
+name: Light
+type: parsed
+protocol: f12
+address: 3.1
+command: 99
+#
+name: Shutdown
+type: parsed
+protocol: f12
+address: 3.1
+command: 129
+#
+name: Presets
+type: parsed
+protocol: f12
+address: 3.1
+command: 195
+#

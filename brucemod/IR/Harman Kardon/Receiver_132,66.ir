@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SIB FILTER
+type: parsed
+protocol: nec1
+address: 132.66
+command: 0
+#
+name: 70MM
+type: parsed
+protocol: nec1
+address: 132.66
+command: 2
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 132.66
+command: 3
+#
+name: HIGH EQ (HIGH)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 4
+#
+name: BASS EQ (BASS)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 5
+#
+name: CUSTOM 2
+type: parsed
+protocol: nec1
+address: 132.66
+command: 6
+#
+name: 6AXIS
+type: parsed
+protocol: nec1
+address: 132.66
+command: 7
+#
+name: STEREO ONLY (S/O)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 8
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 132.66
+command: 10
+#
+name: JAZZ
+type: parsed
+protocol: nec1
+address: 132.66
+command: 11
+#
+name: CUSTOM 3
+type: parsed
+protocol: nec1
+address: 132.66
+command: 12
+#
+name: CUSTOM 4
+type: parsed
+protocol: nec1
+address: 132.66
+command: 13
+#
+name: SURROUND SOUND
+type: parsed
+protocol: nec1
+address: 132.66
+command: 14
+#
+name: CLASS
+type: parsed
+protocol: nec1
+address: 132.66
+command: 15
+#
+name: MONO+
+type: parsed
+protocol: nec1
+address: 132.66
+command: 18
+#
+name: CUSTOM 1
+type: parsed
+protocol: nec1
+address: 132.66
+command: 19
+#
+name: EXIT/OK
+type: parsed
+protocol: nec1
+address: 132.66
+command: 24
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 132.66
+command: 25
+#
+name: SYSTEM (SETUP)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 26
+#
+name: OPTIONS (SET)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 27
+#
+name: SOURCE (EDIT)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 28
+#
+name: SURR MODE (EDIT)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 29
+#
+name: SURROUND (BAL)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 30
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 132.66
+command: 31
+#
+name: PAN
+type: parsed
+protocol: nec1
+address: 132.66
+command: 64
+#
+name: <
+type: parsed
+protocol: nec1
+address: 132.66
+command: 65
+#
+name: SOURCES 1
+type: parsed
+protocol: nec1
+address: 132.66
+command: 66
+#
+name: SOURCES 2
+type: parsed
+protocol: nec1
+address: 132.66
+command: 70
+#
+name: ^
+type: parsed
+protocol: nec1
+address: 132.66
+command: 72
+#
+name: >
+type: parsed
+protocol: nec1
+address: 132.66
+command: 73
+#
+name: SOURCES 3
+type: parsed
+protocol: nec1
+address: 132.66
+command: 74
+#
+name: V
+type: parsed
+protocol: nec1
+address: 132.66
+command: 75
+#
+name: CENTER SPEAKER
+type: parsed
+protocol: nec1
+address: 132.66
+command: 76
+#
+name: VENUE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 77
+#
+name: SOURCES 4
+type: parsed
+protocol: nec1
+address: 132.66
+command: 78
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 80
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 132.66
+command: 81
+#
+name: SOURCES 5
+type: parsed
+protocol: nec1
+address: 132.66
+command: 82
+#
+name: PANEL (DIM)
+type: parsed
+protocol: nec1
+address: 132.66
+command: 83
+#
+name: SOURCES 6
+type: parsed
+protocol: nec1
+address: 132.66
+command: 84
+#
+name: SOURCES 7
+type: parsed
+protocol: nec1
+address: 132.66
+command: 85
+#
+name: SOURCES 8
+type: parsed
+protocol: nec1
+address: 132.66
+command: 87
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 132.66
+command: 88
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 132.66
+command: 89
+#
+name: CANCEL
+type: parsed
+protocol: nec1
+address: 132.66
+command: 90
+#

@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#

@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PROLOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 0
+#
+name: PRO-LOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 0
+#
+name: PRO LOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 0
+#
+name: PRO LOGIC
+type: parsed
+protocol: nec
+address: 184.1
+command: 0
+#
+name: DOLBY PRO LOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 0
+#
+name: MIDNIGHT MODE-
+type: parsed
+protocol: nec1
+address: 184.1
+command: 4
+#
+name: PRESENCE LEVEL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 4
+#
+name: MIDNIGHT MODE +
+type: parsed
+protocol: nec1
+address: 184.1
+command: 5
+#
+name: PRESENCE LEVEL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 5
+#
+name: AUDIO STOP []
+type: parsed
+protocol: nec1
+address: 184.1
+command: 5
+#
+name: AM/FM PRESET -
+type: parsed
+protocol: nec
+address: 184.1
+command: 6
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 184.1
+command: 6
+#
+name: AM/FM PRESET+
+type: parsed
+protocol: nec1
+address: 184.1
+command: 7
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 184.1
+command: 7
+#
+name: DSP
+type: parsed
+protocol: nec1
+address: 184.1
+command: 12
+#
+name: 3STEREO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 14
+#
+name: 3 STEREO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 14
+#
+name: FREQUENCY-
+type: parsed
+protocol: nec1
+address: 184.1
+command: 22
+#
+name: RCVR TUNING <
+type: parsed
+protocol: nec1
+address: 184.1
+command: 22
+#
+name: TUNE -
+type: parsed
+protocol: nec1
+address: 184.1
+command: 22
+#
+name: FREQUENCY+
+type: parsed
+protocol: nec1
+address: 184.1
+command: 23
+#
+name: RCVR TUNING >
+type: parsed
+protocol: nec1
+address: 184.1
+command: 23
+#
+name: TUNE +
+type: parsed
+protocol: nec1
+address: 184.1
+command: 23
+#
+name: AM/FM AUTO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 24
+#
+name: RCVR AUTO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 24
+#
+name: AUTO/MONO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 24
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 184.1
+command: 24
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 184.1
+command: 24
+#
+name: ARENA
+type: parsed
+protocol: nec1
+address: 184.1
+command: 68
+#
+name: STADIUM 1
+type: parsed
+protocol: nec1
+address: 184.1
+command: 70
+#
+name: CATHEDRAL
+type: parsed
+protocol: nec1
+address: 184.1
+command: 72
+#
+name: THEATRE 1
+type: parsed
+protocol: nec1
+address: 184.1
+command: 73
+#
+name: N.B.
+type: parsed
+protocol: nec1
+address: 184.1
+command: 75
+#
+name: AUDIO PAUSE 
+type: parsed
+protocol: nec1
+address: 184.1
+command: 81
+#
+name: MULTI LVL CTRL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 84
+#
+name: RCVR ANY V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 84
+#
+name: LEVEL -
+type: parsed
+protocol: nec1
+address: 184.1
+command: 84
+#
+name: MULTI LVL CTRL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 85
+#
+name: RCVR ANY ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 85
+#
+name: LEVEL +
+type: parsed
+protocol: nec1
+address: 184.1
+command: 85
+#
+name: SOUND
+type: parsed
+protocol: nec1
+address: 184.1
+command: 87
+#
+name: LEVEL MODE
+type: parsed
+protocol: nec1
+address: 184.1
+command: 87
+#
+name: THEATRE 2
+type: parsed
+protocol: nec1
+address: 184.1
+command: 131
+#
+name: DSP LOGIC
+type: parsed
+protocol: nec1
+address: 184.1
+command: 133
+#
+name: M 4
+type: parsed
+protocol: nec1
+address: 184.1
+command: 142
+#
+name: VISUAL FIX
+type: parsed
+protocol: nec1
+address: 184.1
+command: 143
+#
+name: SURR MULTILEVEL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 145
+#
+name: LEVEL -
+type: parsed
+protocol: nec1
+address: 184.1
+command: 145
+#
+name: SURR MULTI LEVEL V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 145
+#
+name: SURR MULTILEVEL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 146
+#
+name: LEVEL +
+type: parsed
+protocol: nec1
+address: 184.1
+command: 146
+#
+name: SURR MULTI LEVEL ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 146
+#
+name: PTY
+type: parsed
+protocol: nec1
+address: 184.1
+command: 156
+#
+name: THX
+type: parsed
+protocol: nec
+address: 184.1
+command: 194
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 184.1
+command: 194
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 184.1
+command: 204
+#
+name: INPUT ^
+type: parsed
+protocol: nec1
+address: 184.1
+command: 204
+#
+name: TONE
+type: parsed
+protocol: nec1
+address: 184.1
+command: 213
+#
+name: INPUT V
+type: parsed
+protocol: nec1
+address: 184.1
+command: 214
+#
+name: PANEL OPEN-CLOSE
+type: parsed
+protocol: nec
+address: 184.1
+command: 215
+#

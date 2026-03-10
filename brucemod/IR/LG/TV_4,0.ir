@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4.0
+command: 8
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4.0
+command: 3
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4.0
+command: 9
+#
+name: BRIGHT_UP
+type: parsed
+protocol: nec
+address: 4.0
+command: 224
+#
+name: BRIGHT_DN
+type: parsed
+protocol: nec
+address: 4.0
+command: 225
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4.0
+command: 68
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 64
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4.0
+command: 65
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4.0
+command: 7
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4.0
+command: 6
+#
+name: Menu
+type: parsed
+protocol: nec
+address: 4.0
+command: 67
+#
+name: Exit
+type: parsed
+protocol: nec
+address: 4.0
+command: 91
+#
+name: BRT+
+type: parsed
+protocol: nec
+address: 4.0
+command: 48
+#
+name: picture_mode
+type: parsed
+protocol: nec
+address: 4.0
+command: 252
+#
+name: BRT-
+type: parsed
+protocol: nec
+address: 4.0
+command: 96
+#
+name: READER_MODE
+type: parsed
+protocol: nec
+address: 4.0
+command: 98
+#
+name: SOUND_OUTPUT
+type: parsed
+protocol: nec
+address: 4.0
+command: 97
+#

@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 24.233
+command: 3
+#
+name: Computer_1
+type: parsed
+protocol: nec
+address: 24.233
+command: 4
+#
+name: Computer_2
+type: parsed
+protocol: nec
+address: 24.233
+command: 5
+#
+name: Auto_Adj
+type: parsed
+protocol: nec
+address: 24.233
+command: 6
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24.233
+command: 8
+#
+name: Picture
+type: parsed
+protocol: nec
+address: 24.233
+command: 13
+#
+name: Aspect
+type: parsed
+protocol: nec
+address: 24.233
+command: 16
+#
+name: OFF
+type: parsed
+protocol: nec
+address: 24.233
+command: 20
+#
+name: Lamp_Mode
+type: parsed
+protocol: nec
+address: 24.233
+command: 22
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 24.233
+command: 23
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 24.233
+command: 37
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: nec
+address: 24.233
+command: 42
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: nec
+address: 24.233
+command: 43
+#
+name: Mouse_L-Click
+type: parsed
+protocol: nec
+address: 24.233
+command: 44
+#
+name: Mouse_R-Click
+type: parsed
+protocol: nec
+address: 24.233
+command: 45
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 24.233
+command: 70
+#
+name: Pic-Mute
+type: parsed
+protocol: nec
+address: 24.233
+command: 71
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 24.233
+command: 72
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 24.233
+command: 73
+#
+name: Freeze
+type: parsed
+protocol: nec
+address: 24.233
+command: 76
+#
+name: KEY_HELP
+type: parsed
+protocol: nec
+address: 24.233
+command: 78
+#
+name: Magnify+
+type: parsed
+protocol: nec
+address: 24.233
+command: 137
+#
+name: Magnify-
+type: parsed
+protocol: nec
+address: 24.233
+command: 138
+#
+name: Cursor_UP
+type: parsed
+protocol: nec
+address: 24.233
+command: 184
+#
+name: Cursor_RIGHT
+type: parsed
+protocol: nec
+address: 24.233
+command: 186
+#
+name: Cursor_DOWN
+type: parsed
+protocol: nec
+address: 24.233
+command: 188
+#
+name: Cursor_LEFT
+type: parsed
+protocol: nec
+address: 24.233
+command: 190
+#
+name: S-Video
+type: parsed
+protocol: nec
+address: 24.233
+command: 198
+#

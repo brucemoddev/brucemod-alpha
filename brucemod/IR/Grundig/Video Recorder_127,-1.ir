@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: grundig16
+address: 127
+command: 0
+#
+name: PLAY
+type: parsed
+protocol: grundig16
+address: 127
+command: 2
+#
+name: PAUSE
+type: parsed
+protocol: grundig16
+address: 127
+command: 3
+#
+name: EJECT
+type: parsed
+protocol: grundig16
+address: 127
+command: 13
+#
+name: 0
+type: parsed
+protocol: grundig16
+address: 127
+command: 20
+#
+name: 1
+type: parsed
+protocol: grundig16
+address: 127
+command: 21
+#
+name: 2
+type: parsed
+protocol: grundig16
+address: 127
+command: 22
+#
+name: 3
+type: parsed
+protocol: grundig16
+address: 127
+command: 23
+#
+name: 4
+type: parsed
+protocol: grundig16
+address: 127
+command: 24
+#
+name: 5
+type: parsed
+protocol: grundig16
+address: 127
+command: 25
+#
+name: 6
+type: parsed
+protocol: grundig16
+address: 127
+command: 26
+#
+name: 7
+type: parsed
+protocol: grundig16
+address: 127
+command: 27
+#
+name: 8
+type: parsed
+protocol: grundig16
+address: 127
+command: 28
+#
+name: 9
+type: parsed
+protocol: grundig16
+address: 127
+command: 29
+#
+name: STOP
+type: parsed
+protocol: grundig16
+address: 127
+command: 42
+#
+name: CHANNEL +
+type: parsed
+protocol: grundig16
+address: 127
+command: 71
+#
+name: UP
+type: parsed
+protocol: grundig16
+address: 127
+command: 71
+#
+name: CHANNEL -
+type: parsed
+protocol: grundig16
+address: 127
+command: 72
+#
+name: DOWN
+type: parsed
+protocol: grundig16
+address: 127
+command: 72
+#
+name: RIGHT
+type: parsed
+protocol: grundig16
+address: 127
+command: 74
+#
+name: LEFT
+type: parsed
+protocol: grundig16
+address: 127
+command: 75
+#
+name: -/--
+type: parsed
+protocol: grundig16
+address: 127
+command: 83
+#
+name: RECORD
+type: parsed
+protocol: grundig16
+address: 127
+command: 85
+#

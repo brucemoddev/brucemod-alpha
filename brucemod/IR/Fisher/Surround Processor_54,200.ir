@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 54.200
+command: 64
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 54.200
+command: 65
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 54.200
+command: 66
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 54.200
+command: 67
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 54.200
+command: 70
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 54.200
+command: 71
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 54.200
+command: 72
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 54.200
+command: 73
+#
+name: STADIUM
+type: parsed
+protocol: nec1
+address: 54.200
+command: 74
+#
+name: SIMULATED
+type: parsed
+protocol: nec1
+address: 54.200
+command: 75
+#
+name: DEFEAT
+type: parsed
+protocol: nec1
+address: 54.200
+command: 78
+#
+name: DEL. 10
+type: parsed
+protocol: nec1
+address: 54.200
+command: 79
+#
+name: DEL. 20
+type: parsed
+protocol: nec1
+address: 54.200
+command: 80
+#
+name: DEL. 30
+type: parsed
+protocol: nec1
+address: 54.200
+command: 81
+#
+name: DEL. 40
+type: parsed
+protocol: nec1
+address: 54.200
+command: 82
+#
+name: DEL. 50
+type: parsed
+protocol: nec1
+address: 54.200
+command: 83
+#
+name: BALANCE LEFT
+type: parsed
+protocol: nec1
+address: 54.200
+command: 84
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: nec1
+address: 54.200
+command: 85
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 54.200
+command: 89
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 54.200
+command: 90
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 54.200
+command: 91
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 54.200
+command: 92
+#
+name: LOUDNESS
+type: parsed
+protocol: nec1
+address: 54.200
+command: 93
+#

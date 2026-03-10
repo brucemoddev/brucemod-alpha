@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 0
+#
+name: MUTE T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 0
+#
+name: VOL+ T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 8
+#
+name: VOL+ T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 8
+#
+name: VOL- T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 9
+#
+name: VOL- T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 9
+#

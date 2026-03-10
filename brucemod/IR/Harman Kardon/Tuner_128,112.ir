@@ -1,0 +1,381 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 130
+#
+name: AM/FM TUNE/SRCH >>
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNE UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: SCROLL +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNE+
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: AM/FM TUNE/SRCH <<
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: SCROLL -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNE-
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: AM/FM * (MEMO)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 134
+#
+name: MEMO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 134
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 134
+#
+name: AM/FM 1 (ABC)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: AM/FM 2 (DEF)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: AM/FM 3 (GHI)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: AM/FM 4 (JKL)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: AM/FM 5 (MNO)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: AM/FM 6 (PQR)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: AM/FM 7 (STU)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: AM/FM 8 (VWX)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: SHIFT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 143
+#
+name: SEEK
+type: parsed
+protocol: nec1
+address: 128.112
+command: 145
+#
+name: AUTO TUNING
+type: parsed
+protocol: nec1
+address: 128.112
+command: 145
+#
+name: HI-BLEND
+type: parsed
+protocol: nec1
+address: 128.112
+command: 146
+#
+name: AM/FM FM MODE (<)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 147
+#
+name: FUNCTION/FM MODE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 147
+#
+name: ACT TRACK
+type: parsed
+protocol: nec1
+address: 128.112
+command: 148
+#
+name: FINE TUNE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 149
+#
+name: AM/FM # (P-SCAN)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: P.SCAN(PRESET SCAN)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 150
+#
+name: ANT 1 (ANTENNA 1)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 151
+#
+name: ANT 2 (ANTENNA 2)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 152
+#
+name: ON (MAIN POWER)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 156
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 156
+#
+name: AM/FM 9 (YZ)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 157
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128.112
+command: 157
+#
+name: AM/FM 0 (CLEAR)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 158
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128.112
+command: 158
+#
+name: OFF (MAIN POWER)
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 168
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 170
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 193
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 196
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VID1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VID2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: VID3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 128.112
+command: 211
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 219
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 220
+#

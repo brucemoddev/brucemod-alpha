@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 7
+command: 2
+#
+name: source
+type: parsed
+protocol: necx2
+address: 7
+command: 1
+#
+name: VOL +
+type: parsed
+protocol: necx2
+address: 7
+command: 7
+#
+name: VOL -
+type: parsed
+protocol: necx2
+address: 7
+command: 11
+#
+name: ch+
+type: parsed
+protocol: necx2
+address: 7
+command: 18
+#
+name: ch-
+type: parsed
+protocol: necx2
+address: 7
+command: 16
+#
+name: 1
+type: parsed
+protocol: necx2
+address: 7
+command: 4
+#
+name: 2
+type: parsed
+protocol: necx2
+address: 7
+command: 5
+#
+name: 3
+type: parsed
+protocol: necx2
+address: 7
+command: 6
+#
+name: 4
+type: parsed
+protocol: necx2
+address: 7
+command: 8
+#
+name: 5
+type: parsed
+protocol: necx2
+address: 7
+command: 9
+#
+name: 6
+type: parsed
+protocol: necx2
+address: 7
+command: 10
+#
+name: 7
+type: parsed
+protocol: necx2
+address: 7
+command: 12
+#
+name: 8
+type: parsed
+protocol: necx2
+address: 7
+command: 13
+#
+name: 9
+type: parsed
+protocol: necx2
+address: 7
+command: 14
+#
+name: 0
+type: parsed
+protocol: necx2
+address: 7
+command: 17
+#
+name: -
+type: parsed
+protocol: necx2
+address: 7
+command: 35
+#
+name: PRE_CH
+type: parsed
+protocol: necx2
+address: 7
+command: 19
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 7
+command: 15
+#
+name: CH_LIST
+type: parsed
+protocol: necx2
+address: 7
+command: 107
+#
+name: home
+type: parsed
+protocol: necx2
+address: 7
+command: 121
+#
+name: Sleep
+type: parsed
+protocol: necx2
+address: 7
+command: 3
+#
+name: Guide
+type: parsed
+protocol: necx2
+address: 7
+command: 79
+#
+name: SETTINGS
+type: parsed
+protocol: necx2
+address: 7
+command: 26
+#
+name: Info
+type: parsed
+protocol: necx2
+address: 7
+command: 31
+#
+name: Up
+type: parsed
+protocol: necx2
+address: 7
+command: 96
+#
+name: Left
+type: parsed
+protocol: necx2
+address: 7
+command: 101
+#
+name: Right
+type: parsed
+protocol: necx2
+address: 7
+command: 98
+#
+name: Down
+type: parsed
+protocol: necx2
+address: 7
+command: 97
+#
+name: enter
+type: parsed
+protocol: necx2
+address: 7
+command: 104
+#
+name: return
+type: parsed
+protocol: necx2
+address: 7
+command: 88
+#
+name: Exit
+type: parsed
+protocol: necx2
+address: 7
+command: 45
+#
+name: a
+type: parsed
+protocol: necx2
+address: 7
+command: 108
+#
+name: b
+type: parsed
+protocol: necx2
+address: 7
+command: 20
+#
+name: c
+type: parsed
+protocol: necx2
+address: 7
+command: 21
+#
+name: d
+type: parsed
+protocol: necx2
+address: 7
+command: 22
+#
+name: E_MANUAL
+type: parsed
+protocol: necx2
+address: 7
+command: 63
+#
+name: P_SIZE
+type: parsed
+protocol: necx2
+address: 7
+command: 62
+#
+name: CC_VD
+type: parsed
+protocol: necx2
+address: 7
+command: 37
+#
+name: reverse
+type: parsed
+protocol: necx2
+address: 7
+command: 69
+#
+name: Play
+type: parsed
+protocol: necx2
+address: 7
+command: 71
+#
+name: Pause
+type: parsed
+protocol: necx2
+address: 7
+command: 74
+#
+name: FAST_FORWARD
+type: parsed
+protocol: necx2
+address: 7
+command: 72
+#

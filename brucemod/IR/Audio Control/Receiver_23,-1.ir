@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZONE 2 VOL. UP - R
+type: parsed
+protocol: rc5
+address: 23
+command: 1
+#
+name: ZONE 2 VOL. DOWN - R
+type: parsed
+protocol: rc5
+address: 23
+command: 2
+#
+name: ZONE 2 MUTE TOG. - R
+type: parsed
+protocol: rc5
+address: 23
+command: 3
+#
+name: ZONE 2 MUTE ON - R
+type: parsed
+protocol: rc5
+address: 23
+command: 4
+#
+name: ZONE 2 MUTE OFF - R
+type: parsed
+protocol: rc5
+address: 23
+command: 5
+#
+name: ZONE 2 CD- R
+type: parsed
+protocol: rc5
+address: 23
+command: 6
+#
+name: ZONE 2 DVD - R
+type: parsed
+protocol: rc5
+address: 23
+command: 7
+#
+name: ZONE 2 SAT
+type: parsed
+protocol: rc5
+address: 23
+command: 8
+#
+name: ZONE 2 AV - R
+type: parsed
+protocol: rc5
+address: 23
+command: 9
+#
+name: ZONE 2 TAPE - R
+type: parsed
+protocol: rc5
+address: 23
+command: 10
+#
+name: ZONE 2 VCR - R
+type: parsed
+protocol: rc5
+address: 23
+command: 11
+#
+name: ZONE 2 DVR - R
+type: parsed
+protocol: rc5
+address: 23
+command: 12
+#
+name: ZONE 2 AUX - R
+type: parsed
+protocol: rc5
+address: 23
+command: 13
+#
+name: ZONE 2 FM - R
+type: parsed
+protocol: rc5
+address: 23
+command: 14
+#
+name: ZONE 2 AM - R
+type: parsed
+protocol: rc5
+address: 23
+command: 15
+#
+name: ZONE 2 SIRIUS - R
+type: parsed
+protocol: rc5
+address: 23
+command: 16
+#
+name: ZONE 2 NET - R
+type: parsed
+protocol: rc5
+address: 23
+command: 19
+#
+name: ZONE 3 VOL. UP - R
+type: parsed
+protocol: rc5
+address: 23
+command: 20
+#
+name: ZONE 3 VOL. DOWN - R
+type: parsed
+protocol: rc5
+address: 23
+command: 21
+#
+name: ZONE 3 MUTE - R
+type: parsed
+protocol: rc5
+address: 23
+command: 22
+#
+name: ZONE 3 MUTE ON - R
+type: parsed
+protocol: rc5
+address: 23
+command: 23
+#
+name: ZONE 3 MUTE OFF - R
+type: parsed
+protocol: rc5
+address: 23
+command: 24
+#
+name: ZONE 3 POWER ON - R
+type: parsed
+protocol: rc5
+address: 23
+command: 121
+#
+name: ZONE 3 POWER OFF - R
+type: parsed
+protocol: rc5
+address: 23
+command: 122
+#
+name: ZONE 2 PWR ON - R
+type: parsed
+protocol: rc5
+address: 23
+command: 123
+#
+name: ZONE 2 PWR OFF - R
+type: parsed
+protocol: rc5
+address: 23
+command: 124
+#

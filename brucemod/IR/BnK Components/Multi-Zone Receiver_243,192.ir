@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK016 POWER OFF
+type: parsed
+protocol: nec2
+address: 243.192
+command: 1
+#
+name: BK016 POWER ON
+type: parsed
+protocol: nec2
+address: 243.192
+command: 2
+#
+name: BK016 MUTE
+type: parsed
+protocol: nec2
+address: 243.192
+command: 3
+#
+name: BK016 INPUT 1
+type: parsed
+protocol: nec2
+address: 243.192
+command: 5
+#
+name: BK016 INPUT 3
+type: parsed
+protocol: nec2
+address: 243.192
+command: 6
+#
+name: BK016 INPUT 8
+type: parsed
+protocol: nec2
+address: 243.192
+command: 7
+#
+name: BK016 INPUT 2
+type: parsed
+protocol: nec2
+address: 243.192
+command: 9
+#
+name: BK016 INPUT 7
+type: parsed
+protocol: nec2
+address: 243.192
+command: 11
+#
+name: BK016 INPUT 4
+type: parsed
+protocol: nec2
+address: 243.192
+command: 13
+#
+name: BK016 TUNER 1
+type: parsed
+protocol: nec2
+address: 243.192
+command: 14
+#
+name: BK016 INPUT 5
+type: parsed
+protocol: nec2
+address: 243.192
+command: 15
+#
+name: BK016 STATION-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 23
+#
+name: BK016 STATION+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 24
+#
+name: BK016 TUNE-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 27
+#
+name: BK016 TUNE+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 28
+#
+name: BK016 LEFT
+type: parsed
+protocol: nec2
+address: 243.192
+command: 31
+#
+name: BK016 RIGHT
+type: parsed
+protocol: nec2
+address: 243.192
+command: 32
+#
+name: BK016 VOLUME-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 35
+#
+name: BK016 VOLUME+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 36
+#
+name: BK016 NUMBER +10
+type: parsed
+protocol: nec2
+address: 243.192
+command: 41
+#
+name: BK016 EQ
+type: parsed
+protocol: nec2
+address: 243.192
+command: 42
+#
+name: BK016 DOWN
+type: parsed
+protocol: nec2
+address: 243.192
+command: 45
+#
+name: BK016 UP
+type: parsed
+protocol: nec2
+address: 243.192
+command: 46
+#
+name: BK016 ENTER
+type: parsed
+protocol: nec2
+address: 243.192
+command: 48
+#
+name: BK016 NUMBER 1
+type: parsed
+protocol: nec2
+address: 243.192
+command: 49
+#
+name: BK016 NUMBER 2
+type: parsed
+protocol: nec2
+address: 243.192
+command: 50
+#
+name: BK016 NUMBER 3
+type: parsed
+protocol: nec2
+address: 243.192
+command: 51
+#
+name: BK016 NUMBER 4
+type: parsed
+protocol: nec2
+address: 243.192
+command: 53
+#
+name: BK016 NUMBER 5
+type: parsed
+protocol: nec2
+address: 243.192
+command: 54
+#
+name: BK016 NUMBER 6
+type: parsed
+protocol: nec2
+address: 243.192
+command: 55
+#
+name: BK016 NUMBER 7
+type: parsed
+protocol: nec2
+address: 243.192
+command: 57
+#
+name: BK016 NUMBER 8
+type: parsed
+protocol: nec2
+address: 243.192
+command: 58
+#
+name: BK016 NUMBER 9
+type: parsed
+protocol: nec2
+address: 243.192
+command: 59
+#
+name: BK016 NUMBER 0
+type: parsed
+protocol: nec2
+address: 243.192
+command: 62
+#
+name: BK016 SAVE
+type: parsed
+protocol: nec2
+address: 243.192
+command: 64
+#
+name: BK016 TUNER 3
+type: parsed
+protocol: nec2
+address: 243.192
+command: 68
+#
+name: BK016 INPUT 6
+type: parsed
+protocol: nec2
+address: 243.192
+command: 74
+#
+name: BK016 PRESET+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 75
+#
+name: BK016 D-IN
+type: parsed
+protocol: nec2
+address: 243.192
+command: 90
+#
+name: BK016 BASS-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 101
+#
+name: BK016 SOURCE+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 102
+#
+name: BK016 INPUT 9
+type: parsed
+protocol: nec2
+address: 243.192
+command: 110
+#
+name: BK016 AM
+type: parsed
+protocol: nec2
+address: 243.192
+command: 118
+#
+name: BK016 TREBLE-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 121
+#
+name: BK016 VIDEO-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 122
+#
+name: BK016 EXIT
+type: parsed
+protocol: nec2
+address: 243.192
+command: 125
+#
+name: BK016 TUNER 2
+type: parsed
+protocol: nec2
+address: 243.192
+command: 132
+#
+name: BK016 FM
+type: parsed
+protocol: nec2
+address: 243.192
+command: 142
+#
+name: BK016 SOURCE-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 166
+#
+name: BK016 SLEEP
+type: parsed
+protocol: nec2
+address: 243.192
+command: 179
+#
+name: BK016 PRESET-
+type: parsed
+protocol: nec2
+address: 243.192
+command: 198
+#
+name: BK016 LOUDNESS
+type: parsed
+protocol: nec2
+address: 243.192
+command: 207
+#
+name: BK016 AUTO LEVEL
+type: parsed
+protocol: nec2
+address: 243.192
+command: 228
+#
+name: BK016 BASS+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 229
+#
+name: BK016 TREBLE+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 249
+#
+name: BK016 VIDEO+
+type: parsed
+protocol: nec2
+address: 243.192
+command: 250
+#

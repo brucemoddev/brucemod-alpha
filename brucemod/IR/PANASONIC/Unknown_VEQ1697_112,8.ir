@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP2
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 0
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 2
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 3
+#
+name: ff2
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 10
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 10
+#
+name: KEY_T
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 98
+#
+name: T2
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 98
+#
+name: KEY_W
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 99
+#
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 112.8
+command: 204
+#

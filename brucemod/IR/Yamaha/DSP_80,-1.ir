@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV INPUT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: TV MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: TV VOL +
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: TV VOL -
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#

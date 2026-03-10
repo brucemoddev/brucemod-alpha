@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: necx2
+address: 33.33
+command: 21
+#
+name: Still
+type: parsed
+protocol: necx2
+address: 33.33
+command: 22
+#
+name: KEY_REWIND
+type: parsed
+protocol: necx2
+address: 33.33
+command: 24
+#
+name: KEY_PLAY
+type: parsed
+protocol: necx2
+address: 33.33
+command: 25
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: necx2
+address: 33.33
+command: 26
+#
+name: KEY_0
+type: parsed
+protocol: necx2
+address: 33.33
+command: 28
+#
+name: Counter
+type: parsed
+protocol: necx2
+address: 33.33
+command: 29
+#
+name: Display
+type: parsed
+protocol: necx2
+address: 33.33
+command: 30
+#
+name: KEY_T
+type: parsed
+protocol: necx2
+address: 33.33
+command: 33
+#
+name: KEY_W
+type: parsed
+protocol: necx2
+address: 33.33
+command: 34
+#
+name: KEY_POWER
+type: parsed
+protocol: necx2
+address: 33.33
+command: 36
+#
+name: Self
+type: parsed
+protocol: necx2
+address: 33.33
+command: 43
+#

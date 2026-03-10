@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SPK-SETUP
+type: parsed
+protocol: necx1
+address: 192.192
+command: 1
+#
+name: PL II NEO
+type: parsed
+protocol: necx1
+address: 192.192
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: necx1
+address: 192.192
+command: 3
+#
+name: DISPLAY
+type: parsed
+protocol: necx1
+address: 192.192
+command: 4
+#
+name: PFEIL LINKS
+type: parsed
+protocol: necx1
+address: 192.192
+command: 6
+#
+name: TEST TONE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 7
+#
+name: DSP-MODE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 9
+#
+name: BASS / TREBLE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 10
+#
+name: POWER
+type: parsed
+protocol: necx1
+address: 192.192
+command: 12
+#
+name: CH-SELECT
+type: parsed
+protocol: necx1
+address: 192.192
+command: 13
+#
+name: STEREO/MONO
+type: parsed
+protocol: nec2
+address: 192.192
+command: 14
+#
+name: 6.1 DIRECT
+type: parsed
+protocol: necx1
+address: 192.192
+command: 15
+#
+name: OSD ON/OFF
+type: parsed
+protocol: necx1
+address: 192.192
+command: 17
+#
+name: SUB ON/OFF
+type: parsed
+protocol: nec2
+address: 192.192
+command: 18
+#
+name: DYNAMIC
+type: parsed
+protocol: necx1
+address: 192.192
+command: 19
+#
+name: STUMM
+type: parsed
+protocol: nec2
+address: 192.192
+command: 20
+#
+name: PFEIL RECHTS
+type: parsed
+protocol: necx1
+address: 192.192
+command: 21
+#
+name: PTY
+type: parsed
+protocol: necx1
+address: 192.192
+command: 22
+#
+name: DD EX DTS ES
+type: parsed
+protocol: necx1
+address: 192.192
+command: 23
+#
+name: STEREO
+type: parsed
+protocol: necx1
+address: 192.192
+command: 26
+#
+name: APS
+type: parsed
+protocol: necx1
+address: 192.192
+command: 27
+#
+name: TUNER AM/FM
+type: parsed
+protocol: nec2
+address: 192.192
+command: 28
+#
+name: STORE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 29
+#
+name: MODE
+type: parsed
+protocol: necx1
+address: 192.192
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: necx1
+address: 192.192
+command: 31
+#
+name: LFE TRIM
+type: parsed
+protocol: necx1
+address: 192.192
+command: 32
+#
+name: ENTER
+type: parsed
+protocol: necx1
+address: 192.192
+command: 33
+#
+name: DVD
+type: parsed
+protocol: necx1
+address: 192.192
+command: 34
+#
+name: VIDEO 1
+type: parsed
+protocol: necx1
+address: 192.192
+command: 35
+#
+name: VIDEO 2
+type: parsed
+protocol: necx1
+address: 192.192
+command: 36
+#
+name: VIDEO 3
+type: parsed
+protocol: necx1
+address: 192.192
+command: 37
+#
+name: TAPE MD/CDR
+type: parsed
+protocol: necx1
+address: 192.192
+command: 38
+#
+name: CD/AUX
+type: parsed
+protocol: necx1
+address: 192.192
+command: 39
+#
+name: INPUT MODE
+type: parsed
+protocol: nec2
+address: 192.192
+command: 96
+#
+name: DELAY
+type: parsed
+protocol: necx1
+address: 192.192
+command: 160
+#

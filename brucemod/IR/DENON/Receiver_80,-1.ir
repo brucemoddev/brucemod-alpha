@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV TV/VCR (CINEMA)
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: TV VOLUME ^ (CENTER)
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: TV VOLUME V (CENTER)
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: TV POWER (AVSE)
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: TV CHANNEL V (DELAY)
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: TV CHANNEL ^ (DELAY)
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#

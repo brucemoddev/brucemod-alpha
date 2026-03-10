@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE FFWD
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE REW
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 67
+#
+name: TAPE REC/PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE REC/PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#

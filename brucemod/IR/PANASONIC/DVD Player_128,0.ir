@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/AV
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 5
+#
+name: TV VOL +
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 32
+#
+name: TV VOL -
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 33
+#
+name: TV CH +
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 52
+#
+name: TV CH -
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 53
+#
+name: TV POWER
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 61
+#

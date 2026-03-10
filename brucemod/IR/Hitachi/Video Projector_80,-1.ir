@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: CALL
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: RGB 1/2
+type: parsed
+protocol: nec1
+address: 80
+command: 19
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: VIDEO 1/2
+type: parsed
+protocol: nec1
+address: 80
+command: 32
+#
+name: CHANGE V
+type: parsed
+protocol: nec1
+address: 80
+command: 50
+#
+name: CHANGE H
+type: parsed
+protocol: nec1
+address: 80
+command: 57
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 80
+command: 64
+#
+name: MENU ^
+type: parsed
+protocol: nec1
+address: 80
+command: 78
+#
+name: MENU V
+type: parsed
+protocol: nec1
+address: 80
+command: 83
+#
+name: MENU >
+type: parsed
+protocol: nec1
+address: 80
+command: 92
+#
+name: MENU <
+type: parsed
+protocol: nec1
+address: 80
+command: 93
+#
+name: BLUE BACK
+type: parsed
+protocol: nec1
+address: 80
+command: 107
+#
+name: ZOOM TELE
+type: parsed
+protocol: nec1
+address: 80
+command: 112
+#
+name: ZOOM WIDE
+type: parsed
+protocol: nec1
+address: 80
+command: 113
+#
+name: FOCUS FAR
+type: parsed
+protocol: nec1
+address: 80
+command: 114
+#
+name: FOCUS NEAR
+type: parsed
+protocol: nec1
+address: 80
+command: 115
+#

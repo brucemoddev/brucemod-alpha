@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 2.23
+command: 0
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 2.23
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 2.23
+command: 3
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 2.23
+command: 4
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 2.23
+command: 5
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 2.23
+command: 6
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 2.23
+command: 7
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 2.23
+command: 8
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 2.23
+command: 9
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 2.23
+command: 10
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 2.23
+command: 11
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 2.23
+command: 12
+#
+name: tv/radio
+type: parsed
+protocol: nec
+address: 2.23
+command: 13
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 2.23
+command: 14
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 2.23
+command: 17
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 2.23
+command: 18
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 2.23
+command: 19
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 2.23
+command: 20
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 2.23
+command: 21
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 2.23
+command: 22
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 2.23
+command: 24
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 2.23
+command: 26
+#
+name: KEY_EPG
+type: parsed
+protocol: nec
+address: 2.23
+command: 27
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 2.23
+command: 28
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 2.23
+command: 29
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 2.23
+command: 30
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 2.23
+command: 31
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 2.23
+command: 64
+#
+name: KEY_LAST
+type: parsed
+protocol: nec
+address: 2.23
+command: 65
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 2.23
+command: 67
+#
+name: pip
+type: parsed
+protocol: nec
+address: 2.23
+command: 70
+#
+name: swappip
+type: parsed
+protocol: nec
+address: 2.23
+command: 71
+#
+name: movepip
+type: parsed
+protocol: nec
+address: 2.23
+command: 72
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 2.23
+command: 73
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 2.23
+command: 74
+#
+name: KEY_LIST
+type: parsed
+protocol: nec
+address: 2.23
+command: 77
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 2.23
+command: 78
+#
+name: directory
+type: parsed
+protocol: nec
+address: 2.23
+command: 79
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 2.23
+command: 96
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 2.23
+command: 97
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 2.23
+command: 98
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 2.23
+command: 99
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 2.23
+command: 100
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 2.23
+command: 101
+#
+name: instreplay
+type: parsed
+protocol: nec
+address: 2.23
+command: 102
+#
+name: goto
+type: parsed
+protocol: nec
+address: 2.23
+command: 103
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 2.23
+command: 104
+#
+name: pipch
+type: parsed
+protocol: nec
+address: 2.23
+command: 105
+#
+name: setbookmark
+type: parsed
+protocol: nec
+address: 2.23
+command: 106
+#
+name: listbookmarks
+type: parsed
+protocol: nec
+address: 2.23
+command: 107
+#

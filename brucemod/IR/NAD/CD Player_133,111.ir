@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 133.111
+command: 9
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 133.111
+command: 13
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 133.111
+command: 15
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 133.111
+command: 17
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 133.111
+command: 18
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 133.111
+command: 19
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 133.111
+command: 21
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 133.111
+command: 22
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 133.111
+command: 23
+#
+name: SCAN<<
+type: parsed
+protocol: nec1
+address: 133.111
+command: 25
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 133.111
+command: 26
+#
+name: SCAN>>
+type: parsed
+protocol: nec1
+address: 133.111
+command: 27
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 133.111
+command: 29
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 133.111
+command: 30
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 133.111
+command: 31
+#

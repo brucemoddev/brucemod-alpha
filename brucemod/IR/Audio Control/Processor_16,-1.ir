@@ -1,0 +1,351 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT: SAT
+type: parsed
+protocol: rc5
+address: 16
+command: 0
+#
+name: INPUT: AV
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: INPUT: TUNER
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: INPUT: DVD
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: INPUT: TAPE
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: INPUT: VCR
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: INPUT: CD
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: INPUT: AUX
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: INPUT: MULTI-CHANNEL
+type: parsed
+protocol: rc5
+address: 16
+command: 9
+#
+name: DIRECT (TOGGLE)
+type: parsed
+protocol: rc5
+address: 16
+command: 10
+#
+name: POWER (TOGGLE)
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE (TOGGLE)
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME UP
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: MODES (TOGGLE)
+type: parsed
+protocol: rc5
+address: 16
+command: 28
+#
+name: THX MODES
+type: parsed
+protocol: rc5
+address: 16
+command: 32
+#
+name: TRIM MENU
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#
+name: LIP SYNC
+type: parsed
+protocol: rc5
+address: 16
+command: 50
+#
+name: SUB TRIM
+type: parsed
+protocol: rc5
+address: 16
+command: 51
+#
+name: INFO
+type: parsed
+protocol: rc5
+address: 16
+command: 55
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 16
+command: 59
+#
+name: EFFECTS: OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 63
+#
+name: EFFECTS: MUSIC
+type: parsed
+protocol: rc5
+address: 16
+command: 64
+#
+name: EFFECTS: PARTY
+type: parsed
+protocol: rc5
+address: 16
+command: 65
+#
+name: EFFECTS: CLUB
+type: parsed
+protocol: rc5
+address: 16
+command: 66
+#
+name: EFFECTS: HALL
+type: parsed
+protocol: rc5
+address: 16
+command: 67
+#
+name: EFFECTS: SPORT
+type: parsed
+protocol: rc5
+address: 16
+command: 68
+#
+name: EFFECTS: CHURCH
+type: parsed
+protocol: rc5
+address: 16
+command: 69
+#
+name: EFFECTS (TOGGLE)
+type: parsed
+protocol: rc5
+address: 16
+command: 70
+#
+name: PRESET 1
+type: parsed
+protocol: rc5
+address: 16
+command: 72
+#
+name: PRESET 2
+type: parsed
+protocol: rc5
+address: 16
+command: 73
+#
+name: PRESET 3
+type: parsed
+protocol: rc5
+address: 16
+command: 74
+#
+name: PRESET 4
+type: parsed
+protocol: rc5
+address: 16
+command: 75
+#
+name: PRESET 5
+type: parsed
+protocol: rc5
+address: 16
+command: 76
+#
+name: DIRECT ON
+type: parsed
+protocol: rc5
+address: 16
+command: 78
+#
+name: DIRECT OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 79
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 80
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 81
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 16
+command: 82
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 16
+command: 85
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 86
+#
+name: CURSOR SELECT
+type: parsed
+protocol: rc5
+address: 16
+command: 87
+#
+name: MONO MODE
+type: parsed
+protocol: rc5
+address: 16
+command: 106
+#
+name: STEREO MODE
+type: parsed
+protocol: rc5
+address: 16
+command: 107
+#
+name: DOLBY PL2 MOVIE
+type: parsed
+protocol: rc5
+address: 16
+command: 108
+#
+name: DOLBY PL2 MUSIC
+type: parsed
+protocol: rc5
+address: 16
+command: 109
+#
+name: DOLBY PROLOGIC
+type: parsed
+protocol: rc5
+address: 16
+command: 110
+#
+name: DTS NEO 6 CINEMA
+type: parsed
+protocol: rc5
+address: 16
+command: 111
+#
+name: DTS NEO 6 MUSIC
+type: parsed
+protocol: rc5
+address: 16
+command: 112
+#
+name: THX OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 113
+#
+name: THX CINEMA
+type: parsed
+protocol: rc5
+address: 16
+command: 114
+#
+name: THX ULTRA2 CINEMA
+type: parsed
+protocol: rc5
+address: 16
+command: 115
+#
+name: THX MUSIC
+type: parsed
+protocol: rc5
+address: 16
+command: 116
+#
+name: THX SURROUND EX
+type: parsed
+protocol: rc5
+address: 16
+command: 117
+#
+name: MUTE ON
+type: parsed
+protocol: rc5
+address: 16
+command: 119
+#
+name: MUTE OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 120
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 16
+command: 123
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 124
+#

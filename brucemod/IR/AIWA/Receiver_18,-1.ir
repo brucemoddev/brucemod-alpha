@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GEQ ON/OFF
+type: parsed
+protocol: sony12
+address: 18
+command: 44
+#
+name: GEQ MODE
+type: parsed
+protocol: sony12
+address: 18
+command: 54
+#

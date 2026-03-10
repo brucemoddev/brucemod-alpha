@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 13
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 72
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 76
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 80
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 81
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 82
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 83
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 84
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 85
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 88
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 91
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 92
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 93
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 94
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 95
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 96
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 97
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 99
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 100
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 101
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 102
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 103
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 105
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 107
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 108
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 109
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 110
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 114
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 115
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 116
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 117
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 119
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 120
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 122
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 123
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 125
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 126
+#
+name: 
+type: parsed
+protocol: sony15
+address: 23
+command: 127
+#

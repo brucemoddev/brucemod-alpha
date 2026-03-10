@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 162
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 162
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 162
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 162
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 162
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 162
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 162
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 162
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 162
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 162
+command: 9
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 162
+command: 10
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 162
+command: 11
+#
+name: PGM
+type: parsed
+protocol: nec
+address: 162
+command: 13
+#
+name: Manual_R
+type: parsed
+protocol: nec
+address: 162
+command: 14
+#
+name: Manual_L
+type: parsed
+protocol: nec
+address: 162
+command: 15
+#
+name: Track_R
+type: parsed
+protocol: nec
+address: 162
+command: 16
+#
+name: Track_L
+type: parsed
+protocol: nec
+address: 162
+command: 17
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 162
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 162
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 162
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 162
+command: 28
+#
+name: D1
+type: parsed
+protocol: nec
+address: 162
+command: 30
+#
+name: D2
+type: parsed
+protocol: nec
+address: 162
+command: 31
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 162
+command: 69
+#
+name: CHECK
+type: parsed
+protocol: nec
+address: 162
+command: 73
+#
+name: Random
+type: parsed
+protocol: nec
+address: 162
+command: 74
+#
+name: D3
+type: parsed
+protocol: nec
+address: 162
+command: 80
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 162
+command: 82
+#
+name: D4
+type: parsed
+protocol: nec
+address: 162
+command: 83
+#
+name: +20
+type: parsed
+protocol: nec
+address: 162
+command: 86
+#
+name: D5
+type: parsed
+protocol: nec
+address: 162
+command: 87
+#
+name: D6
+type: parsed
+protocol: nec
+address: 162
+command: 91
+#
+name: KEY_DELETE
+type: parsed
+protocol: nec
+address: 162
+command: 93
+#
+name: High_Light_Scan
+type: parsed
+protocol: nec
+address: 162
+command: 94
+#

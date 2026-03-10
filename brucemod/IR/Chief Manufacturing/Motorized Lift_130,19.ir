@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 29
+#
+name: DOWN (RT TOP)
+type: parsed
+protocol: nec1
+address: 130.19
+command: 29
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 64
+#
+name: UP (LT TOP)
+type: parsed
+protocol: nec1
+address: 130.19
+command: 64
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 65
+#
+name: DOTTON RT
+type: parsed
+protocol: nec1
+address: 130.19
+command: 65
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 67
+#

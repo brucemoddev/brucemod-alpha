@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT 1
+type: parsed
+protocol: recs80_45
+address: 0
+command: 32
+#
+name: INPUT 2
+type: parsed
+protocol: recs80_45
+address: 0
+command: 33
+#
+name: INPUT 3
+type: parsed
+protocol: recs80_45
+address: 0
+command: 34
+#
+name: INPUT 4
+type: parsed
+protocol: recs80_45
+address: 0
+command: 35
+#
+name: INPUT 5
+type: parsed
+protocol: recs80_45
+address: 0
+command: 36
+#
+name: INPUT 6
+type: parsed
+protocol: recs80_45
+address: 0
+command: 37
+#
+name: OPERATE
+type: parsed
+protocol: recs80_45
+address: 0
+command: 42
+#
+name: STANDBY
+type: parsed
+protocol: recs80_45
+address: 0
+command: 43
+#

@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 4.15
+command: 173
+#
+name: Input
+type: parsed
+protocol: nec2
+address: 4.15
+command: 239
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 4.15
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 4.15
+command: 3
+#
+name: CH_NEXT
+type: parsed
+protocol: nec2
+address: 4.15
+command: 0
+#
+name: CH_PREV
+type: parsed
+protocol: nec2
+address: 4.15
+command: 1
+#
+name: Ok
+type: parsed
+protocol: nec2
+address: 4.15
+command: 68
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 4.15
+command: 64
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 4.15
+command: 65
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 4.15
+command: 7
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 4.15
+command: 6
+#
+name: Back
+type: parsed
+protocol: nec2
+address: 4.15
+command: 40
+#
+name: Info
+type: parsed
+protocol: nec2
+address: 4.15
+command: 170
+#
+name: fav
+type: parsed
+protocol: nec2
+address: 4.15
+command: 30
+#
+name: blank
+type: parsed
+protocol: nec2
+address: 4.15
+command: 132
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 4.15
+command: 67
+#
+name: Q_MENU
+type: parsed
+protocol: nec2
+address: 4.15
+command: 69
+#
+name: -
+type: parsed
+protocol: nec2
+address: 4.15
+command: 76
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 4.15
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 4.15
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 4.15
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 4.15
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 4.15
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 4.15
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 4.15
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 4.15
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 4.15
+command: 25
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 4.15
+command: 16
+#
+name: red
+type: parsed
+protocol: nec2
+address: 4.15
+command: 114
+#
+name: green
+type: parsed
+protocol: nec2
+address: 4.15
+command: 113
+#
+name: Yellow
+type: parsed
+protocol: nec2
+address: 4.15
+command: 99
+#
+name: blue
+type: parsed
+protocol: nec2
+address: 4.15
+command: 97
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 4.15
+command: 9
+#

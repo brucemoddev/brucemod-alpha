@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: OSD
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: VOLUME+
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME-
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: SPEAKERS
+type: parsed
+protocol: rc5
+address: 16
+command: 29
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 16
+command: 80
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 81
+#
+name: OK
+type: parsed
+protocol: rc5
+address: 16
+command: 82
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 85
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 86
+#

@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR 5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: VCR 6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: VCR 7
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: VCR 8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: VCR 9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: VCR STANDBY
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: VCR CH V (PRESET)
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: VCR STOP []
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#

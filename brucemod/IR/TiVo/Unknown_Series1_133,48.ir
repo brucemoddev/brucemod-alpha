@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TIVO
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 2
+#
+name: TVPWR
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 16
+#
+name: KEY_INFO
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 17
+#
+name: KEY_MENU
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 18
+#
+name: DISPLAY
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 19
+#
+name: KEY_UP
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 20
+#
+name: KEY_RIGHT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 21
+#
+name: KEY_DOWN
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 22
+#
+name: KEY_LEFT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 23
+#
+name: THUMBSDOWN
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 24
+#
+name: KEY_SELECT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 25
+#
+name: THUMBSUP
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 26
+#
+name: KEY_MUTE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 27
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 28
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 29
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 30
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 31
+#
+name: KEY_RECORD
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 32
+#
+name: KEY_PLAY
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 33
+#
+name: KEY_BACK
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 34
+#
+name: KEY_PAUSE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 35
+#
+name: KEY_FORWARD
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 36
+#
+name: KEY_SLOW
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 37
+#
+name: KEY_REWIND
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 38
+#
+name: JUMPTOEND
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 39
+#
+name: KEY_1
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 40
+#
+name: KEY_2
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 41
+#
+name: KEY_3
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 42
+#
+name: KEY_4
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 43
+#
+name: KEY_5
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 44
+#
+name: KEY_6
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 45
+#
+name: KEY_7
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 46
+#
+name: KEY_8
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 47
+#
+name: KEY_9
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 48
+#
+name: KEY_0
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 49
+#
+name: KEY_CLEAR
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 50
+#
+name: KEY_OK
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 51
+#

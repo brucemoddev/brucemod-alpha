@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CC CONVERTER
+type: parsed
+protocol: jvc
+address: 239
+command: 186
+#

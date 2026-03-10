@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: stopcd
+type: parsed
+protocol: nec
+address: 131.101
+command: 0
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 131.101
+command: 1
+#
+name: tapepause
+type: parsed
+protocol: nec
+address: 131.101
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 131.101
+command: 5
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.101
+command: 8
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 131.101
+command: 11
+#
+name: cdtrkdown
+type: parsed
+protocol: nec
+address: 131.101
+command: 12
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 131.101
+command: 15
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.101
+command: 16
+#
+name: disp
+type: parsed
+protocol: nec
+address: 131.101
+command: 19
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.101
+command: 24
+#
+name: memocd
+type: parsed
+protocol: nec
+address: 131.101
+command: 29
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 131.101
+command: 73
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.101
+command: 74
+#
+name: band
+type: parsed
+protocol: nec
+address: 131.101
+command: 80
+#
+name: cdtrkup
+type: parsed
+protocol: nec
+address: 131.101
+command: 82
+#
+name: scan
+type: parsed
+protocol: nec
+address: 131.101
+command: 83
+#

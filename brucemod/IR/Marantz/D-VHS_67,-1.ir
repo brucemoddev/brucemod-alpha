@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 4
+#
+name: FAST FORWARD
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PREV.
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: REWIND
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: NEXT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: AUDIO
+type: parsed
+protocol: jvc
+address: 67
+command: 23
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: P. SELECT
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 26
+#
+name: ON
+type: parsed
+protocol: jvc
+address: 67
+command: 29
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: ANGLE
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: SUBTITLE
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: REC. LINK
+type: parsed
+protocol: jvc
+address: 67
+command: 48
+#
+name: REC. SPD.
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 49
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: AUX
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: <
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: COUNTER RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: MENU
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 55
+#
+name: CURSOR ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: OSD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 62
+#
+name: BACK
+type: parsed
+protocol: jvc
+address: 67
+command: 132
+#
+name: >
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: S. SEARCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: SKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: NAVI
+type: parsed
+protocol: jvc
+address: 67
+command: 224
+#

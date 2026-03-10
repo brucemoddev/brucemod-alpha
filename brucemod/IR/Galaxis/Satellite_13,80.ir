@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 2
+#
+name: 3
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 3
+#
+name: 7
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 7
+#
+name: 8
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 8
+#
+name: 9
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 9
+#
+name: RECALL
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 10
+#
+name: POWER
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 13
+#
+name: I
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 17
+#
+name: CHANNEL +
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 32
+#
+name: CHANNEL -
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 33
+#
+name: TEXT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 60
+#
+name: TV
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 63
+#
+name: SETUP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 69
+#
+name: SOUND
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 78
+#
+name: AUDIO
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 80
+#
+name: UP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 88
+#
+name: DOWN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 89
+#
+name: LEFT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 90
+#
+name: RIGHT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 91
+#
+name: ENTER
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 92
+#
+name: ALT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 97
+#
+name: ROT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 109
+#
+name: GRUN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 110
+#
+name: GELB
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 111
+#
+name: BLAU
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 112
+#
+name: NAVIGATOR
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 120
+#
+name: EPG
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 204
+#
+name: TV/VCR
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 255
+#

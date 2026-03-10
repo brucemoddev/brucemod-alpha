@@ -1,0 +1,1023 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER: TOGGLE
+type: parsed
+protocol: nec1
+address: 124
+command: 128
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 124
+command: 128
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 124
+command: 128
+#
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 124
+command: 128
+#
+name: FUNCTN: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 124
+command: 129
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 124
+command: 129
+#
+name: FUNCTN: PLAY
+type: parsed
+protocol: nec1
+address: 124
+command: 130
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 124
+command: 130
+#
+name: FUNCTN: PAUSE
+type: parsed
+protocol: nec1
+address: 124
+command: 131
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 124
+command: 131
+#
+name: FUNCTN: STOP
+type: parsed
+protocol: nec1
+address: 124
+command: 133
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 124
+command: 133
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: FUNCTN: SEARCH-
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: SEARCH -
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: SEARCH/SLOW REV
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: SEARCH REV
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: FUNCTN: SEARCH+
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: SEARCH +
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: SEARCH/SLOW FWD
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: SEARCH FWD
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: FUNCTN: DISC SKIP-
+type: parsed
+protocol: nec1
+address: 124
+command: 138
+#
+name: FUNCTN: DISC SKIP+
+type: parsed
+protocol: nec1
+address: 124
+command: 139
+#
+name: DISC SKIP +
+type: parsed
+protocol: nec1
+address: 124
+command: 139
+#
+name: NUMERIC: 0
+type: parsed
+protocol: nec1
+address: 124
+command: 147
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 124
+command: 147
+#
+name: NUMERIC: 1
+type: parsed
+protocol: nec1
+address: 124
+command: 148
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 124
+command: 148
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 124
+command: 148
+#
+name: NUMERIC: 2
+type: parsed
+protocol: nec1
+address: 124
+command: 149
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 124
+command: 149
+#
+name: NUMERIC: 3
+type: parsed
+protocol: nec1
+address: 124
+command: 150
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 124
+command: 150
+#
+name: NUMERIC: 4
+type: parsed
+protocol: nec1
+address: 124
+command: 151
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 124
+command: 151
+#
+name: NUMERIC: 5
+type: parsed
+protocol: nec1
+address: 124
+command: 152
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 124
+command: 152
+#
+name: NUMERIC: 6
+type: parsed
+protocol: nec1
+address: 124
+command: 153
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 124
+command: 153
+#
+name: NUMERIC: 7
+type: parsed
+protocol: nec1
+address: 124
+command: 154
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 124
+command: 154
+#
+name: NUMERIC: 8
+type: parsed
+protocol: nec1
+address: 124
+command: 155
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 124
+command: 155
+#
+name: NUMERIC: 9
+type: parsed
+protocol: nec1
+address: 124
+command: 156
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 124
+command: 156
+#
+name: NUMERIC: +10/ >10
+type: parsed
+protocol: nec1
+address: 124
+command: 157
+#
+name: PROG: CANCEL/CLEAR
+type: parsed
+protocol: nec1
+address: 124
+command: 159
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 124
+command: 159
+#
+name: CANCEL/CLEAR
+type: parsed
+protocol: nec1
+address: 124
+command: 159
+#
+name: PROG: PROGRAM
+type: parsed
+protocol: nec1
+address: 124
+command: 160
+#
+name: PROG: RANDOM
+type: parsed
+protocol: nec1
+address: 124
+command: 161
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 124
+command: 161
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 124
+command: 161
+#
+name: PROG: REPEAT MODE
+type: parsed
+protocol: nec1
+address: 124
+command: 163
+#
+name: REPEAT MODE
+type: parsed
+protocol: nec1
+address: 124
+command: 163
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 124
+command: 163
+#
+name: PROG: REPEAT A-B
+type: parsed
+protocol: nec1
+address: 124
+command: 164
+#
+name: REPEAT A-B
+type: parsed
+protocol: nec1
+address: 124
+command: 164
+#
+name: SET: DISPLAY TOGGLE
+type: parsed
+protocol: nec1
+address: 124
+command: 166
+#
+name: OSD TOG
+type: parsed
+protocol: nec1
+address: 124
+command: 166
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 124
+command: 166
+#
+name: SET: TIME
+type: parsed
+protocol: nec1
+address: 124
+command: 168
+#
+name: STATUS
+type: parsed
+protocol: nec1
+address: 124
+command: 168
+#
+name: SET: DIMMER
+type: parsed
+protocol: nec1
+address: 124
+command: 169
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 124
+command: 169
+#
+name: SET: SUBTITLE
+type: parsed
+protocol: nec1
+address: 124
+command: 170
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 124
+command: 170
+#
+name: SUBTITLE ON/OFF
+type: parsed
+protocol: nec1
+address: 124
+command: 170
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 124
+command: 171
+#
+name: SUBTITLE 2
+type: parsed
+protocol: nec1
+address: 124
+command: 171
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 124
+command: 172
+#
+name: SET: SETUP
+type: parsed
+protocol: nec1
+address: 124
+command: 172
+#
+name: SET: AUDIO
+type: parsed
+protocol: nec1
+address: 124
+command: 173
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 124
+command: 173
+#
+name: SET: ANGLE
+type: parsed
+protocol: nec1
+address: 124
+command: 174
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 124
+command: 174
+#
+name: FUNCTN: TOP MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 177
+#
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 177
+#
+name: TOP MENU/RETURN
+type: parsed
+protocol: nec1
+address: 124
+command: 177
+#
+name: TOP MENU/ DIR.NAV.
+type: parsed
+protocol: nec1
+address: 124
+command: 177
+#
+name: TOP MENU/ RETURN
+type: parsed
+protocol: nec1
+address: 124
+command: 177
+#
+name: FUNCTN: MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 178
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 178
+#
+name: FUNCTN: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 124
+command: 179
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 124
+command: 179
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 124
+command: 179
+#
+name: FUNCTN: CURSOR UP
+type: parsed
+protocol: nec1
+address: 124
+command: 180
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 124
+command: 180
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 124
+command: 180
+#
+name: FUNCTN: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 124
+command: 181
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 124
+command: 181
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 124
+command: 181
+#
+name: FUNCTN: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 124
+command: 182
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 124
+command: 182
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 124
+command: 182
+#
+name: FUNCTN: RETURN
+type: parsed
+protocol: nec1
+address: 124
+command: 183
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 124
+command: 183
+#
+name: FUNCTN: SELECT/ENTER
+type: parsed
+protocol: nec1
+address: 124
+command: 184
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 124
+command: 184
+#
+name: ENTER/OK
+type: parsed
+protocol: nec1
+address: 124
+command: 184
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 124
+command: 184
+#
+name: FUNCTN: SKIP-
+type: parsed
+protocol: nec1
+address: 124
+command: 185
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 124
+command: 185
+#
+name: SKIP/SEARCH -
+type: parsed
+protocol: nec1
+address: 124
+command: 185
+#
+name: SKIP REV
+type: parsed
+protocol: nec1
+address: 124
+command: 185
+#
+name: SKIP/SEARCH REV
+type: parsed
+protocol: nec1
+address: 124
+command: 185
+#
+name: FUNCTN: SKIP+
+type: parsed
+protocol: nec1
+address: 124
+command: 186
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 124
+command: 186
+#
+name: SKIP/SEARCH +
+type: parsed
+protocol: nec1
+address: 124
+command: 186
+#
+name: SKIP FWD
+type: parsed
+protocol: nec1
+address: 124
+command: 186
+#
+name: SKIP/SEARCH FWD
+type: parsed
+protocol: nec1
+address: 124
+command: 186
+#
+name: PLAY MODE: TOG
+type: parsed
+protocol: nec1
+address: 124
+command: 189
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 124
+command: 192
+#
+name: VIDEO RESET
+type: parsed
+protocol: nec1
+address: 124
+command: 193
+#
+name: SKIP SEARCH
+type: parsed
+protocol: nec1
+address: 124
+command: 194
+#
+name: REPLAY
+type: parsed
+protocol: nec1
+address: 124
+command: 195
+#
+name: POP-UP MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 207
+#
+name: SUB MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 208
+#
+name: FUNCTN: DISC 1
+type: parsed
+protocol: nec1
+address: 124
+command: 209
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 124
+command: 209
+#
+name: FUNCTN: DISC 2
+type: parsed
+protocol: nec1
+address: 124
+command: 210
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 124
+command: 210
+#
+name: FUNCTN: DISC 3
+type: parsed
+protocol: nec1
+address: 124
+command: 211
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 124
+command: 211
+#
+name: FUNCTN: DISC 4
+type: parsed
+protocol: nec1
+address: 124
+command: 212
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 124
+command: 212
+#
+name: FUNCTN: DISC 5
+type: parsed
+protocol: nec1
+address: 124
+command: 213
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 124
+command: 213
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 124
+command: 215
+#
+name: SET: MARKER
+type: parsed
+protocol: nec1
+address: 124
+command: 216
+#
+name: SET: VIDEO TOGGLE
+type: parsed
+protocol: nec1
+address: 124
+command: 217
+#
+name: PURE DIRECT
+type: parsed
+protocol: nec1
+address: 124
+command: 217
+#
+name: AUDIO DIRECT
+type: parsed
+protocol: nec1
+address: 124
+command: 217
+#
+name: SET: PROGRESSIVE TOG
+type: parsed
+protocol: nec1
+address: 124
+command: 218
+#
+name: SET: GROUP +
+type: parsed
+protocol: nec1
+address: 124
+command: 221
+#
+name: PAGE -
+type: parsed
+protocol: nec1
+address: 124
+command: 222
+#
+name: PAGE +
+type: parsed
+protocol: nec1
+address: 124
+command: 223
+#
+name: SET: PAGE +
+type: parsed
+protocol: nec1
+address: 124
+command: 223
+#
+name: SET: PLAYER MODE
+type: parsed
+protocol: nec1
+address: 124
+command: 224
+#
+name: SET: MULTI/2CH
+type: parsed
+protocol: nec1
+address: 124
+command: 225
+#
+name: SOUND MODE
+type: parsed
+protocol: nec1
+address: 124
+command: 225
+#
+name: SCAN
+type: parsed
+protocol: nec1
+address: 124
+command: 226
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 124
+command: 228
+#
+name: VIDEO SELECT
+type: parsed
+protocol: nec1
+address: 124
+command: 229
+#
+name: FUNCTIONS
+type: parsed
+protocol: nec1
+address: 124
+command: 232
+#
+name: A (RED)
+type: parsed
+protocol: nec1
+address: 124
+command: 233
+#
+name: B (GREEN)
+type: parsed
+protocol: nec1
+address: 124
+command: 234
+#
+name: C (BLUE)
+type: parsed
+protocol: nec1
+address: 124
+command: 235
+#
+name: D (YELLOW)
+type: parsed
+protocol: nec1
+address: 124
+command: 236
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 124
+command: 237
+#
+name: SECONDARY AUDIO
+type: parsed
+protocol: nec1
+address: 124
+command: 238
+#
+name: BD/SD
+type: parsed
+protocol: nec1
+address: 124
+command: 239
+#
+name: PLAY MODE: NORMAL
+type: parsed
+protocol: nec1
+address: 124
+command: 240
+#
+name: PLAY MODE - NORMAL
+type: parsed
+protocol: nec1
+address: 124
+command: 240
+#
+name: PLAYMODE - NORMAL
+type: parsed
+protocol: nec1
+address: 124
+command: 240
+#
+name: PLAY MODE: RANDOM
+type: parsed
+protocol: nec1
+address: 124
+command: 241
+#
+name: PLAY MODE - RANDOM
+type: parsed
+protocol: nec1
+address: 124
+command: 241
+#
+name: PLAYMODE - RANDOM
+type: parsed
+protocol: nec1
+address: 124
+command: 241
+#
+name: PLAY MODE: PROGRAM
+type: parsed
+protocol: nec1
+address: 124
+command: 242
+#
+name: PLAY MODE - PROGRAM
+type: parsed
+protocol: nec1
+address: 124
+command: 242
+#
+name: PLAYMODE - PROGRAM
+type: parsed
+protocol: nec1
+address: 124
+command: 242
+#
+name: PROG: REPEAT OFF
+type: parsed
+protocol: nec1
+address: 124
+command: 243
+#
+name: REPEAT OFF
+type: parsed
+protocol: nec1
+address: 124
+command: 243
+#
+name: PROG: REPEAT ALL
+type: parsed
+protocol: nec1
+address: 124
+command: 245
+#
+name: REPEAT ALL
+type: parsed
+protocol: nec1
+address: 124
+command: 245
+#
+name: POWER: ON
+type: parsed
+protocol: nec1
+address: 124
+command: 246
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 124
+command: 246
+#
+name: POWER: OFF
+type: parsed
+protocol: nec1
+address: 124
+command: 247
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 124
+command: 247
+#

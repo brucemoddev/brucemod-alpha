@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LD
+type: parsed
+protocol: nec2
+address: 184.0
+command: 2
+#
+name: TUNER PRESET 10
+type: parsed
+protocol: nec1
+address: 184.0
+command: 13
+#
+name: TUNER PRESET 0
+type: parsed
+protocol: nec1
+address: 184.0
+command: 128
+#
+name: TUNER PRESET 1
+type: parsed
+protocol: nec1
+address: 184.0
+command: 129
+#
+name: TUNER PRESET 2
+type: parsed
+protocol: nec1
+address: 184.0
+command: 130
+#
+name: TUNER PRESET 3
+type: parsed
+protocol: nec1
+address: 184.0
+command: 131
+#
+name: TUNER PRESET 4
+type: parsed
+protocol: nec1
+address: 184.0
+command: 132
+#
+name: TUNER PRESET 5
+type: parsed
+protocol: nec1
+address: 184.0
+command: 133
+#
+name: TUNER PRESET 6
+type: parsed
+protocol: nec1
+address: 184.0
+command: 134
+#
+name: TUNER PRESET 7
+type: parsed
+protocol: nec1
+address: 184.0
+command: 135
+#
+name: TUNER PRESET 8
+type: parsed
+protocol: nec1
+address: 184.0
+command: 136
+#
+name: TUNER PRESET 9
+type: parsed
+protocol: nec1
+address: 184.0
+command: 137
+#
+name: PHONO
+type: parsed
+protocol: nec2
+address: 184.0
+command: 144
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 184.0
+command: 145
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 184.0
+command: 146
+#
+name: V. AUX
+type: parsed
+protocol: nec2
+address: 184.0
+command: 147
+#
+name: DAT/TAPE
+type: parsed
+protocol: nec2
+address: 184.0
+command: 149
+#
+name: DBS/BS
+type: parsed
+protocol: nec2
+address: 184.0
+command: 150
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 184.0
+command: 154
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 184.0
+command: 155
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 156
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 184.0
+command: 157
+#
+name: DSP
+type: parsed
+protocol: nec1
+address: 184.0
+command: 223
+#

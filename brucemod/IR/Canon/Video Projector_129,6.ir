@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec2
+address: 129.6
+command: 64
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 129.6
+command: 65
+#
+name: COMPUTER 1
+type: parsed
+protocol: nec2
+address: 129.6
+command: 66
+#
+name: COMPUTER 2
+type: parsed
+protocol: nec2
+address: 129.6
+command: 67
+#
+name: VIDEO/S
+type: parsed
+protocol: nec2
+address: 129.6
+command: 68
+#
+name: AUTO PC
+type: parsed
+protocol: nec2
+address: 129.6
+command: 69
+#
+name: KEYSTONE
+type: parsed
+protocol: nec2
+address: 129.6
+command: 70
+#
+name: CURSOR UP/1
+type: parsed
+protocol: nec2
+address: 129.6
+command: 71
+#
+name: CURSOR DOWN/3
+type: parsed
+protocol: nec2
+address: 129.6
+command: 72
+#
+name: CURSOR LEFT/4
+type: parsed
+protocol: nec2
+address: 129.6
+command: 73
+#
+name: CURSOR RIGHT/2
+type: parsed
+protocol: nec2
+address: 129.6
+command: 74
+#
+name: SPOT
+type: parsed
+protocol: nec2
+address: 129.6
+command: 75
+#
+name: IMAGE
+type: parsed
+protocol: nec2
+address: 129.6
+command: 80
+#
+name: FREEZE
+type: parsed
+protocol: nec2
+address: 129.6
+command: 81
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 129.6
+command: 82
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 129.6
+command: 83
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 129.6
+command: 84
+#
+name: P-TIMER
+type: parsed
+protocol: nec2
+address: 129.6
+command: 85
+#
+name: D.ZOOM UP
+type: parsed
+protocol: nec2
+address: 129.6
+command: 86
+#
+name: D.ZOOM DOWN
+type: parsed
+protocol: nec2
+address: 129.6
+command: 87
+#
+name: NO SHOW
+type: parsed
+protocol: nec2
+address: 129.6
+command: 88
+#
+name: R-CLICK
+type: parsed
+protocol: nec2
+address: 129.6
+command: 89
+#
+name: OK
+type: parsed
+protocol: nec2
+address: 129.6
+command: 90
+#
+name: PAGE UP
+type: parsed
+protocol: nec2
+address: 129.6
+command: 91
+#
+name: PAGE DOWN
+type: parsed
+protocol: nec2
+address: 129.6
+command: 92
+#

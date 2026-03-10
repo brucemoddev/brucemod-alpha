@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT 3
+type: parsed
+protocol: nec1
+address: 86.171
+command: 35
+#

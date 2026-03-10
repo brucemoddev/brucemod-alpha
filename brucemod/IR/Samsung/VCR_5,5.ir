@@ -1,0 +1,555 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: F. ADV/SKIP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 0
+#
+name: SKIP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 0
+#
+name: TV/VCR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 1
+#
+name: TV / VCR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 1
+#
+name: POWER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 2
+#
+name: 1
+type: parsed
+protocol: necx2
+address: 5.5
+command: 4
+#
+name: 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 5
+#
+name: 3
+type: parsed
+protocol: necx2
+address: 5.5
+command: 6
+#
+name: 4
+type: parsed
+protocol: necx2
+address: 5.5
+command: 8
+#
+name: 5
+type: parsed
+protocol: necx2
+address: 5.5
+command: 9
+#
+name: 6
+type: parsed
+protocol: necx2
+address: 5.5
+command: 10
+#
+name: 7
+type: parsed
+protocol: necx2
+address: 5.5
+command: 12
+#
+name: 8
+type: parsed
+protocol: necx2
+address: 5.5
+command: 13
+#
+name: << 8
+type: parsed
+protocol: necx2
+address: 5.5
+command: 13
+#
+name: 9
+type: parsed
+protocol: necx2
+address: 5.5
+command: 14
+#
+name: CHANNEL -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 16
+#
+name: CH -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 16
+#
+name: 0
+type: parsed
+protocol: necx2
+address: 5.5
+command: 17
+#
+name: CHANNEL +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 18
+#
+name: CH +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 18
+#
+name: SLOW +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 19
+#
+name: SLOW MOTION +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 19
+#
+name: RECORD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 20
+#
+name: RECORD / OTR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 20
+#
+name: STOP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 21
+#
+name: PAUSE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 22
+#
+name: SLOW -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 23
+#
+name: SLOW MOTION -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 23
+#
+name: REWIND
+type: parsed
+protocol: necx2
+address: 5.5
+command: 24
+#
+name: REWIND <<
+type: parsed
+protocol: necx2
+address: 5.5
+command: 24
+#
+name: PLAY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 25
+#
+name: FAST FORWARD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 26
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: necx2
+address: 5.5
+command: 26
+#
+name: CLEAR/RESET
+type: parsed
+protocol: necx2
+address: 5.5
+command: 29
+#
+name: CLEAR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 30
+#
+name: MENU
+type: parsed
+protocol: necx2
+address: 5.5
+command: 31
+#
+name: PROG
+type: parsed
+protocol: necx2
+address: 5.5
+command: 31
+#
+name: EJECT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 32
+#
+name: AUTO
+type: parsed
+protocol: necx2
+address: 5.5
+command: 33
+#
+name: AUDIO
+type: parsed
+protocol: necx2
+address: 5.5
+command: 34
+#
+name: INPUT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 36
+#
+name: LINE IN
+type: parsed
+protocol: necx2
+address: 5.5
+command: 36
+#
+name: 100
+type: parsed
+protocol: necx2
+address: 5.5
+command: 38
+#
+name: INDEX
+type: parsed
+protocol: necx2
+address: 5.5
+command: 43
+#
+name: TRACKING +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 44
+#
+name: TRACKING -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 45
+#
+name: AUDIO DUB
+type: parsed
+protocol: necx2
+address: 5.5
+command: 46
+#
+name: EJECT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 50
+#
+name: CLOCK/COUNTER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 51
+#
+name: RECORD SPEED
+type: parsed
+protocol: necx2
+address: 5.5
+command: 58
+#
+name: SP/SLP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 58
+#
+name: TAPE SPEED
+type: parsed
+protocol: necx2
+address: 5.5
+command: 58
+#
+name: AUTO
+type: parsed
+protocol: necx2
+address: 5.5
+command: 60
+#
+name: AUTO TRACKING
+type: parsed
+protocol: necx2
+address: 5.5
+command: 60
+#
+name: TIMER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 61
+#
+name: ART
+type: parsed
+protocol: necx2
+address: 5.5
+command: 62
+#
+name: SHIFT <
+type: parsed
+protocol: necx2
+address: 5.5
+command: 66
+#
+name: SHIFT >
+type: parsed
+protocol: necx2
+address: 5.5
+command: 67
+#
+name: PROGRAM
+type: parsed
+protocol: necx2
+address: 5.5
+command: 69
+#
+name: Q. PRO
+type: parsed
+protocol: necx2
+address: 5.5
+command: 69
+#
+name: CURSOR DOWN
+type: parsed
+protocol: necx2
+address: 5.5
+command: 80
+#
+name: CURSOR UP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 82
+#
+name: STROBE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 89
+#
+name: INDEX
+type: parsed
+protocol: necx2
+address: 5.5
+command: 89
+#
+name: OK
+type: parsed
+protocol: necx2
+address: 5.5
+command: 92
+#
+name: 100
+type: parsed
+protocol: necx2
+address: 5.5
+command: 103
+#
+name: INPUT SYSTEM
+type: parsed
+protocol: necx2
+address: 5.5
+command: 110
+#
+name: OUTPUT SYSTEM
+type: parsed
+protocol: necx2
+address: 5.5
+command: 111
+#
+name: MONITOR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 113
+#
+name: CURSOR LEFT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 115
+#
+name: PICTURE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 117
+#
+name: +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 118
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 119
+#
+name: -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 120
+#
+name: DIAL -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: DIAL +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: 
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: FORWARD 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: REVERSE 1
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: REVERSE 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: <
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: >
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: << 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: >> 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: >> 8
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: << 30
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: >> 30
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: << 1/2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: >> 1/2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: << 1/4
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#
+name: >> 1/4
+type: parsed
+protocol: necx2
+address: 5.5
+command: 122
+#

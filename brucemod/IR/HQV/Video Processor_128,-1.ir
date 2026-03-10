@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 128
+command: 0
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128
+command: 1
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 128
+command: 2
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 128
+command: 3
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 128
+command: 4
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 128
+command: 5
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 128
+command: 6
+#
+name: BCE
+type: parsed
+protocol: nec1
+address: 128
+command: 7
+#
+name: SPLIT
+type: parsed
+protocol: nec1
+address: 128
+command: 8
+#
+name: FILM
+type: parsed
+protocol: nec1
+address: 128
+command: 9
+#
+name: ASPECT RATIO
+type: parsed
+protocol: nec1
+address: 128
+command: 10
+#
+name: TRNR
+type: parsed
+protocol: nec1
+address: 128
+command: 11
+#
+name: CNR
+type: parsed
+protocol: nec1
+address: 128
+command: 12
+#
+name: DVI
+type: parsed
+protocol: nec1
+address: 128
+command: 13
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 128
+command: 14
+#
+name: HDMI
+type: parsed
+protocol: nec1
+address: 128
+command: 15
+#
+name: RGB
+type: parsed
+protocol: nec1
+address: 128
+command: 16
+#
+name: S-VIDEO
+type: parsed
+protocol: nec1
+address: 128
+command: 17
+#
+name: SDI
+type: parsed
+protocol: nec1
+address: 128
+command: 18
+#
+name: YPBPR
+type: parsed
+protocol: nec1
+address: 128
+command: 19
+#

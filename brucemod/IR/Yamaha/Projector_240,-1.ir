@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: Proton
+address: 240
+command: 65
+#
+name: POWER STANDBY
+type: parsed
+protocol: Proton
+address: 240
+command: 66
+#
+name: KEYSTONE
+type: parsed
+protocol: Proton
+address: 240
+command: 67
+#
+name: SETTING IRIS
+type: parsed
+protocol: Proton
+address: 240
+command: 84
+#
+name: INPUT D-SUB
+type: parsed
+protocol: Proton
+address: 240
+command: 96
+#
+name: INPUT COMP
+type: parsed
+protocol: Proton
+address: 240
+command: 100
+#
+name: INPUT VIDEO
+type: parsed
+protocol: Proton
+address: 240
+command: 101
+#
+name: INPUT S-VIDEO
+type: parsed
+protocol: Proton
+address: 240
+command: 102
+#
+name: INPUT HDMI
+type: parsed
+protocol: Proton
+address: 240
+command: 112
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Proton
+address: 240
+command: 129
+#
+name: CURSOR UP
+type: parsed
+protocol: Proton
+address: 240
+command: 130
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Proton
+address: 240
+command: 131
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 240
+command: 134
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Proton
+address: 240
+command: 135
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: Proton
+address: 240
+command: 145
+#
+name: ASPECT SQUEEZE
+type: parsed
+protocol: Proton
+address: 240
+command: 146
+#
+name: ASPECT SMART ZOOM
+type: parsed
+protocol: Proton
+address: 240
+command: 149
+#
+name: HIDE
+type: parsed
+protocol: Proton
+address: 240
+command: 166
+#
+name: SETTING CONTRAST
+type: parsed
+protocol: Proton
+address: 240
+command: 208
+#
+name: SETTING BRIGHTNESS
+type: parsed
+protocol: Proton
+address: 240
+command: 209
+#
+name: SETTING COLOR TEMP
+type: parsed
+protocol: Proton
+address: 240
+command: 212
+#
+name: ASPECT TOGGLE
+type: parsed
+protocol: Proton
+address: 240
+command: 226
+#
+name: MEMORY 1
+type: parsed
+protocol: Proton
+address: 240
+command: 228
+#

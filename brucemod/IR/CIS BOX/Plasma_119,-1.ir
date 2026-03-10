@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: H SHIFT
+type: parsed
+protocol: sony15
+address: 119
+command: 16
+#
+name: V SHIFT
+type: parsed
+protocol: sony15
+address: 119
+command: 17
+#
+name: H SIZE
+type: parsed
+protocol: sony15
+address: 119
+command: 18
+#
+name: V SIZE
+type: parsed
+protocol: sony15
+address: 119
+command: 19
+#
+name: SET
+type: parsed
+protocol: sony15
+address: 119
+command: 126
+#

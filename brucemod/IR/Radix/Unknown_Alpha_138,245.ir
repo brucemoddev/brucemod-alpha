@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 138.245
+command: 0
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 138.245
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 138.245
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 138.245
+command: 3
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 138.245
+command: 5
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 138.245
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 138.245
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 138.245
+command: 9
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 138.245
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 138.245
+command: 11
+#
+name: RIGHT/LOUD+
+type: parsed
+protocol: nec
+address: 138.245
+command: 13
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 138.245
+command: 14
+#
+name: LEFT/LOUD-
+type: parsed
+protocol: nec
+address: 138.245
+command: 17
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 138.245
+command: 20
+#
+name: UP/CH+
+type: parsed
+protocol: nec
+address: 138.245
+command: 26
+#
+name: DOWN/CH-
+type: parsed
+protocol: nec
+address: 138.245
+command: 27
+#
+name: CH/LIST
+type: parsed
+protocol: nec
+address: 138.245
+command: 28
+#
+name: ---
+type: parsed
+protocol: nec
+address: 138.245
+command: 29
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 138.245
+command: 30
+#

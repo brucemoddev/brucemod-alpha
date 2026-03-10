@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OK
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 0
+#
+name: KEY_MUTE
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 1
+#
+name: KEY_SLEEP
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 2
+#
+name: KEY_AUX
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 7
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 8
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 9
+#
+name: KEY_LIGHTS_TOGGLE
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 10
+#
+name: KEY_LIGHTS_TOGGLE
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 11
+#
+name: color+
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 12
+#
+name: color-
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 13
+#
+name: KEY_0
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 25
+#
+name: prg+
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 42
+#
+name: prg-
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 43
+#
+name: KEY_I
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 45
+#
+name: KEY_BLUE
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 46
+#
+name: KEY_TEXT
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 48
+#
+name: KEY_RED
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 58
+#
+name: KEY_YELLOW
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 59
+#
+name: KEY_GREEN
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 62
+#

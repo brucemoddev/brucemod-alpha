@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: CHECK
+type: parsed
+protocol: sony12
+address: 17
+command: 13
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 17
+command: 16
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: LINE+
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: LINE-
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 17
+command: 23
+#
+name: FILE
+type: parsed
+protocol: sony12
+address: 17
+command: 25
+#
+name: BANK
+type: parsed
+protocol: sony12
+address: 17
+command: 26
+#
+name: CONTINUE
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: PGM
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 17
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 17
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 17
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 17
+command: 38
+#
+name: >20
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: KEY_TIME
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 17
+command: 41
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: INDEX--
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: INDEX++
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: MUSIC_SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 60
+#
+name: DISC_SKIP
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: DISC1
+type: parsed
+protocol: sony12
+address: 17
+command: 64
+#
+name: DISC2
+type: parsed
+protocol: sony12
+address: 17
+command: 65
+#
+name: DISC3
+type: parsed
+protocol: sony12
+address: 17
+command: 66
+#
+name: DISC4
+type: parsed
+protocol: sony12
+address: 17
+command: 67
+#
+name: DISC5
+type: parsed
+protocol: sony12
+address: 17
+command: 68
+#
+name: FADER
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#
+name: LEVEL_FILE
+type: parsed
+protocol: sony12
+address: 17
+command: 104
+#

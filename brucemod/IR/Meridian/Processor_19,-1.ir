@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 19
+command: 80
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 19
+command: 80
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 19
+command: 81
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 19
+command: 85
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 19
+command: 86
+#
+name: DSP
+type: parsed
+protocol: rc5
+address: 19
+command: 93
+#

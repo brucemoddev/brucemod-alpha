@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 96
+command: 205
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 96
+command: 206
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 96
+command: 207
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 96
+command: 208
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 96
+command: 209
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 96
+command: 210
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 96
+command: 211
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 96
+command: 212
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 96
+command: 213
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 96
+command: 214
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 96
+command: 215
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 96
+command: 217
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 96
+command: 218
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 96
+command: 219
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 96
+command: 220
+#
+name: DOWN
+type: parsed
+protocol: nec2
+address: 96
+command: 220
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 96
+command: 221
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 96
+command: 222
+#
+name: ALBUM
+type: parsed
+protocol: nec1
+address: 96
+command: 227
+#
+name: ARTIST
+type: parsed
+protocol: nec1
+address: 96
+command: 228
+#
+name: GENRE
+type: parsed
+protocol: nec1
+address: 96
+command: 229
+#
+name: PLAYLIST
+type: parsed
+protocol: nec1
+address: 96
+command: 231
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 96
+command: 232
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 96
+command: 233
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 96
+command: 235
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 96
+command: 237
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 96
+command: 238
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 96
+command: 239
+#
+name: OUTPUT
+type: parsed
+protocol: nec1
+address: 96
+command: 240
+#
+name: DISC +
+type: parsed
+protocol: nec1
+address: 96
+command: 241
+#
+name: DISC -
+type: parsed
+protocol: nec1
+address: 96
+command: 242
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 96
+command: 243
+#
+name: 
+type: parsed
+protocol: nec1
+address: 96
+command: 243
+#
+name: DELETE
+type: parsed
+protocol: nec1
+address: 96
+command: 244
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 96
+command: 245
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 96
+command: 247
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 96
+command: 248
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 96
+command: 249
+#

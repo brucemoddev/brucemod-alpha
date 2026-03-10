@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 0
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: PAUSE/STILL
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 6
+#
+name: KEY_RECORD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 8
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 10
+#
+name: REV.PLAY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 11
+#
+name: STILL-ADV
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 12
+#
+name: KEY_1
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 18
+#
+name: KEY_4
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 19
+#
+name: KEY_5
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 22
+#
+name: KEY_8
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 23
+#
+name: KEY_9
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 24
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 25
+#
+name: KEY_AUDIO
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 51
+#
+name: KEY_102ND
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 59
+#
+name: VTR
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 61
+#
+name: INDEX
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 64
+#
+name: TIME-SEARCH
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 68
+#
+name: WRITE
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 75
+#
+name: ERASE
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 76
+#
+name: MEMORY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 83
+#
+name: RESET
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 84
+#
+name: REMAIN
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 85
+#
+name: CLOCK/COUNTER
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 86
+#
+name: KEY_SEARCH
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 129
+#
+name: SEARCH+
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 142
+#
+name: SEARCH-
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 143
+#
+name: MONITOR
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 145
+#

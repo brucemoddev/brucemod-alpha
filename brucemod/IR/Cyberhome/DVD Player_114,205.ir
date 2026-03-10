@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: nec1
+address: 114.205
+command: 2
+#
+name: BOOKMARK
+type: parsed
+protocol: nec1
+address: 114.205
+command: 3
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 114.205
+command: 4
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 114.205
+command: 5
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 114.205
+command: 6
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 114.205
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 114.205
+command: 9
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 114.205
+command: 10
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 114.205
+command: 11
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 114.205
+command: 12
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 114.205
+command: 13
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 114.205
+command: 14
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 114.205
+command: 15
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 114.205
+command: 16
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 114.205
+command: 17
+#
+name: GOTO
+type: parsed
+protocol: nec1
+address: 114.205
+command: 18
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 114.205
+command: 19
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 114.205
+command: 22
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 114.205
+command: 23
+#
+name: CHAPTER -
+type: parsed
+protocol: nec1
+address: 114.205
+command: 24
+#
+name: CHAPTER +
+type: parsed
+protocol: nec1
+address: 114.205
+command: 25
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 114.205
+command: 27
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 114.205
+command: 28
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 114.205
+command: 29
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 114.205
+command: 30
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 114.205
+command: 31
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 114.205
+command: 64
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 114.205
+command: 65
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 114.205
+command: 68
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 114.205
+command: 72
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 114.205
+command: 73
+#
+name: 10+
+type: parsed
+protocol: nec1
+address: 114.205
+command: 77
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 114.205
+command: 80
+#
+name: C
+type: parsed
+protocol: nec1
+address: 114.205
+command: 81
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 114.205
+command: 84
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 114.205
+command: 85
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 114.205
+command: 88
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 114.205
+command: 89
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 114.205
+command: 92
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 114.205
+command: 93
+#

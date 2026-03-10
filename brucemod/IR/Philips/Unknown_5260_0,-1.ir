@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: KEY_1-
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: KEY_2-
+type: parsed
+protocol: rc5
+address: 0
+command: 11
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: show_settings
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: brightness_up
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: brightness_down
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: contrast_up
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: contrast_down
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: bass_up
+type: parsed
+protocol: rc5
+address: 0
+command: 22
+#
+name: bass_down
+type: parsed
+protocol: rc5
+address: 0
+command: 23
+#
+name: trebble_up
+type: parsed
+protocol: rc5
+address: 0
+command: 24
+#
+name: trebble_down
+type: parsed
+protocol: rc5
+address: 0
+command: 25
+#
+name: skip_forward
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: txt_hold
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: txt_clock
+type: parsed
+protocol: rc5
+address: 0
+command: 42
+#
+name: txt_enlarg
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: txt_question
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: txt_cross
+type: parsed
+protocol: rc5
+address: 0
+command: 45
+#
+name: txt_half
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: bell_off
+type: parsed
+protocol: rc5
+address: 0
+command: 47
+#
+name: xmark
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: KEY_BACK
+type: parsed
+protocol: rc5
+address: 0
+command: 50
+#
+name: arrows
+type: parsed
+protocol: rc5
+address: 0
+command: 51
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: bell_on
+type: parsed
+protocol: rc5
+address: 0
+command: 59
+#
+name: txt_on
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: txt_off
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#

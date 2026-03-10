@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: Thomson
+address: 2
+command: 0
+#
+name: KEY_PLAY
+type: parsed
+protocol: Thomson
+address: 2
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: Thomson
+address: 2
+command: 2
+#
+name: KEY_2
+type: parsed
+protocol: Thomson
+address: 2
+command: 4
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: Thomson
+address: 2
+command: 5
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Thomson
+address: 2
+command: 6
+#
+name: KEY_STOP
+type: parsed
+protocol: Thomson
+address: 2
+command: 9
+#
+name: KEY_TEXT
+type: parsed
+protocol: Thomson
+address: 2
+command: 10
+#
+name: KEY_UP
+type: parsed
+protocol: Thomson
+address: 2
+command: 11
+#
+name: KEY_7
+type: parsed
+protocol: Thomson
+address: 2
+command: 16
+#
+name: KEY_9
+type: parsed
+protocol: Thomson
+address: 2
+command: 18
+#
+name: KEY_8
+type: parsed
+protocol: Thomson
+address: 2
+command: 20
+#
+name: KEY_LEFT
+type: parsed
+protocol: Thomson
+address: 2
+command: 27
+#
+name: KEY_0
+type: parsed
+protocol: Thomson
+address: 2
+command: 28
+#
+name: KEY_4
+type: parsed
+protocol: Thomson
+address: 2
+command: 32
+#
+name: KEY_FORWARD
+type: parsed
+protocol: Thomson
+address: 2
+command: 33
+#
+name: KEY_6
+type: parsed
+protocol: Thomson
+address: 2
+command: 34
+#
+name: KEY_5
+type: parsed
+protocol: Thomson
+address: 2
+command: 36
+#
+name: Switch
+type: parsed
+protocol: Thomson
+address: 2
+command: 37
+#
+name: KEY_MENU
+type: parsed
+protocol: Thomson
+address: 2
+command: 38
+#
+name: Input
+type: parsed
+protocol: Thomson
+address: 2
+command: 39
+#
+name: KEY_RECORD
+type: parsed
+protocol: Thomson
+address: 2
+command: 42
+#
+name: KEY_DOWN
+type: parsed
+protocol: Thomson
+address: 2
+command: 43
+#
+name: KEY_QUIT
+type: parsed
+protocol: Thomson
+address: 2
+command: 46
+#
+name: KEY_INFO
+type: parsed
+protocol: Thomson
+address: 2
+command: 47
+#
+name: Okay
+type: parsed
+protocol: Thomson
+address: 2
+command: 51
+#
+name: Blank
+type: parsed
+protocol: Thomson
+address: 2
+command: 54
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: Thomson
+address: 2
+command: 57
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Thomson
+address: 2
+command: 59
+#
+name: KEY_REWIND
+type: parsed
+protocol: Thomson
+address: 2
+command: 62
+#

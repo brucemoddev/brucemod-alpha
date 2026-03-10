@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PageN...
+type: parsed
+protocol: nec
+address: 135.78
+command: 2
+#
+name: Brigthness+
+type: parsed
+protocol: nec
+address: 135.78
+command: 3
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 135.78
+command: 4
+#
+name: Brigthness-
+type: parsed
+protocol: nec
+address: 135.78
+command: 7
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 135.78
+command: 8
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 135.78
+command: 13
+#
+name: Freeze
+type: parsed
+protocol: nec
+address: 135.78
+command: 14
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.78
+command: 23
+#
+name: Comp
+type: parsed
+protocol: nec
+address: 135.78
+command: 25
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 135.78
+command: 26
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MUTE
+type: parsed
+protocol: f12
+address: 3.0
+command: 5
+#
+name: KEY_POWER
+type: parsed
+protocol: f12
+address: 3.0
+command: 9
+#
+name: stop/clear
+type: parsed
+protocol: f12
+address: 3.0
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: f12
+address: 3.1
+command: 32
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: f12
+address: 3.0
+command: 33
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: f12
+address: 3.1
+command: 64
+#

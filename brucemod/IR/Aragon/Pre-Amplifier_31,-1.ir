@@ -1,0 +1,459 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ANALOG
+type: parsed
+protocol: rc5
+address: 31
+command: 1
+#
+name: DTS NEO
+type: parsed
+protocol: rc5
+address: 31
+command: 2
+#
+name: CLUB
+type: parsed
+protocol: rc5
+address: 31
+command: 3
+#
+name: INPUT GAIN +
+type: parsed
+protocol: rc5
+address: 31
+command: 4
+#
+name: 5 CH STEREO
+type: parsed
+protocol: rc5
+address: 31
+command: 5
+#
+name: PARTY
+type: parsed
+protocol: rc5
+address: 31
+command: 6
+#
+name: MONO
+type: parsed
+protocol: rc5
+address: 31
+command: 7
+#
+name: INPUT GAIN -
+type: parsed
+protocol: rc5
+address: 31
+command: 8
+#
+name: VID SW: AUX
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: VID SW: CD/LD
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: VID SW: DVD
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: VID SW: TAPE
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: VID SW: TV
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: VID SW: VCR
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: VID SW: VIDEO
+type: parsed
+protocol: rc5
+address: 31
+command: 9
+#
+name: ADVANCED SETUP
+type: parsed
+protocol: rc5
+address: 31
+command: 10
+#
+name: PL: MODE: PANORAMA
+type: parsed
+protocol: rc5
+address: 31
+command: 11
+#
+name: AM
+type: parsed
+protocol: rc5
+address: 31
+command: 12
+#
+name: FM
+type: parsed
+protocol: rc5
+address: 31
+command: 13
+#
+name: THX: RE EQ OFF
+type: parsed
+protocol: rc5
+address: 31
+command: 14
+#
+name: THX: RE EQ ON
+type: parsed
+protocol: rc5
+address: 31
+command: 15
+#
+name: OTF ADJ: CENTER +
+type: parsed
+protocol: rc5
+address: 31
+command: 16
+#
+name: OTF ADJ: CENTER -
+type: parsed
+protocol: rc5
+address: 31
+command: 17
+#
+name: OTF ADJ: SUBWOOFER +
+type: parsed
+protocol: rc5
+address: 31
+command: 18
+#
+name: OTF ADJ: SUBWOOFER -
+type: parsed
+protocol: rc5
+address: 31
+command: 19
+#
+name: THX: THX ON
+type: parsed
+protocol: rc5
+address: 31
+command: 20
+#
+name: CURSOR OK
+type: parsed
+protocol: rc5
+address: 31
+command: 21
+#
+name: THX: THX OFF
+type: parsed
+protocol: rc5
+address: 31
+command: 22
+#
+name: PL: MODE: MUSIC
+type: parsed
+protocol: rc5
+address: 31
+command: 23
+#
+name: PL: MODE: MOVIE
+type: parsed
+protocol: rc5
+address: 31
+command: 24
+#
+name: PL: CENTER +
+type: parsed
+protocol: rc5
+address: 31
+command: 25
+#
+name: DIGITAL
+type: parsed
+protocol: rc5
+address: 31
+command: 26
+#
+name: 8 CHANNEL INPUT
+type: parsed
+protocol: rc5
+address: 31
+command: 27
+#
+name: PRO LOGIC II
+type: parsed
+protocol: rc5
+address: 31
+command: 28
+#
+name: STEREO
+type: parsed
+protocol: rc5
+address: 31
+command: 29
+#
+name: SETUP
+type: parsed
+protocol: rc5
+address: 31
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 31
+command: 31
+#
+name: CHANNEL +
+type: parsed
+protocol: rc5
+address: 31
+command: 32
+#
+name: CHANNEL -
+type: parsed
+protocol: rc5
+address: 31
+command: 33
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 31
+command: 34
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 31
+command: 35
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 31
+command: 36
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 31
+command: 37
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 31
+command: 38
+#
+name: PL: MODE: MATRIX
+type: parsed
+protocol: rc5
+address: 31
+command: 39
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 31
+command: 40
+#
+name: PL: MODE: PRO LOGIC
+type: parsed
+protocol: rc5
+address: 31
+command: 41
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 31
+command: 42
+#
+name: PL: CENTER -
+type: parsed
+protocol: rc5
+address: 31
+command: 43
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 31
+command: 44
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 31
+command: 45
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 31
+command: 46
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 31
+command: 47
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 31
+command: 48
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 31
+command: 49
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 31
+command: 50
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 31
+command: 51
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 31
+command: 52
+#
+name: 10
+type: parsed
+protocol: rc5
+address: 31
+command: 53
+#
+name: INPUT: TV
+type: parsed
+protocol: rc5
+address: 31
+command: 54
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 54
+#
+name: INPUT: DVD
+type: parsed
+protocol: rc5
+address: 31
+command: 55
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 55
+#
+name: INPUT: VIDEO
+type: parsed
+protocol: rc5
+address: 31
+command: 56
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 56
+#
+name: INPUT: VCR
+type: parsed
+protocol: rc5
+address: 31
+command: 57
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 57
+#
+name: INPUT: CD/LD
+type: parsed
+protocol: rc5
+address: 31
+command: 58
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 58
+#
+name: INPUT: TAPE
+type: parsed
+protocol: rc5
+address: 31
+command: 59
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 59
+#
+name: INPUT: AUX
+type: parsed
+protocol: rc5
+address: 31
+command: 60
+#
+name: 
+type: parsed
+protocol: rc5
+address: 31
+command: 60
+#
+name: INPUT: TUNER
+type: parsed
+protocol: rc5
+address: 31
+command: 61
+#
+name: DIRECT
+type: parsed
+protocol: rc5
+address: 31
+command: 62
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 31
+command: 63
+#

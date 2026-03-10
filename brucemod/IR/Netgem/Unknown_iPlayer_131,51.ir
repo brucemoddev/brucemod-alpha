@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 131.51
+command: 65
+#
+name: DIRECTION_UP
+type: parsed
+protocol: nec
+address: 131.51
+command: 66
+#
+name: DIRECTION_DOWN
+type: parsed
+protocol: nec
+address: 131.51
+command: 67
+#
+name: DIRECTION_LEFT
+type: parsed
+protocol: nec
+address: 131.51
+command: 68
+#
+name: DIRECTION_RIGHT
+type: parsed
+protocol: nec
+address: 131.51
+command: 69
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 131.51
+command: 70
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 131.51
+command: 71
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 131.51
+command: 72
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 131.51
+command: 73
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 131.51
+command: 80
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 131.51
+command: 81
+#
+name: KEY_TEXT
+type: parsed
+protocol: nec
+address: 131.51
+command: 82
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 131.51
+command: 83
+#
+name: PICTURE_IN_PICTURE
+type: parsed
+protocol: nec
+address: 131.51
+command: 84
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 131.51
+command: 85
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.51
+command: 86
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.51
+command: 87
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 131.51
+command: 88
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 131.51
+command: 89
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.51
+command: 96
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.51
+command: 97
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.51
+command: 98
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.51
+command: 99
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.51
+command: 100
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.51
+command: 101
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.51
+command: 102
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.51
+command: 103
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.51
+command: 104
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.51
+command: 105
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 131.51
+command: 112
+#
+name: KEY_LIST
+type: parsed
+protocol: nec
+address: 131.51
+command: 113
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.51
+command: 114
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.51
+command: 115
+#

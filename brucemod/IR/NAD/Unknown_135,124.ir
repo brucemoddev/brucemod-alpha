@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 1
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 1
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 2
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 2
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 3
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 4
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 5
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 5
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 6
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 6
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 7
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 11
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 12
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 135.124
+command: 13
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 135.124
+command: 14
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.124
+command: 15
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.124
+command: 16
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.124
+command: 17
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.124
+command: 18
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 135.124
+command: 19
+#
+name: REVIEW
+type: parsed
+protocol: nec1
+address: 135.124
+command: 20
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 135.124
+command: 21
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 135.124
+command: 22
+#
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 135.124
+command: 23
+#
+name: NEXT DISC
+type: parsed
+protocol: nec1
+address: 135.124
+command: 23
+#
+name: TUNER BANK
+type: parsed
+protocol: nec1
+address: 135.124
+command: 36
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec1
+address: 135.124
+command: 74
+#
+name: EDIT
+type: parsed
+protocol: nec1
+address: 135.124
+command: 75
+#
+name: DECKA STOP []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 82
+#
+name: DECKA PLAY >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 83
+#
+name: DECKA REV PLAY <
+type: parsed
+protocol: nec1
+address: 135.124
+command: 84
+#
+name: DECKA REC/PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 85
+#
+name: DECKA FF >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 86
+#
+name: DECKA REW <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 87
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 135.124
+command: 128
+#
+name: TUNER FM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 129
+#
+name: TUNER AM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 130
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 135.124
+command: 133
+#
+name: TUNER SEARCH V
+type: parsed
+protocol: nec1
+address: 135.124
+command: 134
+#
+name: TUNER SEARCH ^
+type: parsed
+protocol: nec1
+address: 135.124
+command: 135
+#
+name: MASTER VOLUME +
+type: parsed
+protocol: nec1
+address: 135.124
+command: 136
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 135.124
+command: 137
+#
+name: MASTER VOLUME -
+type: parsed
+protocol: nec1
+address: 135.124
+command: 140
+#
+name: TAPE1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 141
+#
+name: TAPE2
+type: parsed
+protocol: nec1
+address: 135.124
+command: 145
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 148
+#
+name: DECKB REC/PAUSE
+type: parsed
+protocol: nec1
+address: 135.124
+command: 154
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 135.124
+command: 155
+#
+name: DECKB PLAY >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 156
+#
+name: DECKB FF >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 157
+#
+name: DECKB REW <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 158
+#
+name: DECKB STOP []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 159
+#
+name: VCR1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 192
+#
+name: LD
+type: parsed
+protocol: nec1
+address: 135.124
+command: 194
+#
+name: TUNER PRESET V
+type: parsed
+protocol: nec1
+address: 135.124
+command: 209
+#
+name: TUNER PRESET ^
+type: parsed
+protocol: nec1
+address: 135.124
+command: 210
+#
+name: TUNER TUNE V
+type: parsed
+protocol: nec1
+address: 135.124
+command: 211
+#
+name: TUNER TUNE ^
+type: parsed
+protocol: nec1
+address: 135.124
+command: 212
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 135.124
+command: 221
+#
+name: DECKB REV PLAY <
+type: parsed
+protocol: nec1
+address: 135.124
+command: 222
+#

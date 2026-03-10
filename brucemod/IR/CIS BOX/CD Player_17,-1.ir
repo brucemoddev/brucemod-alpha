@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony12
+address: 17
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony12
+address: 17
+command: 11
+#
+name: MUTE
+type: parsed
+protocol: sony12
+address: 17
+command: 20
+#
+name: OPEN CLOSE
+type: parsed
+protocol: sony12
+address: 17
+command: 22
+#
+name: CONTINOUS
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: SINGLE
+type: parsed
+protocol: sony12
+address: 17
+command: 30
+#
+name: A B CLEAR
+type: parsed
+protocol: sony12
+address: 17
+command: 43
+#
+name: PWR ON
+type: parsed
+protocol: sony12
+address: 17
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony12
+address: 17
+command: 47
+#
+name: PREV TRACK
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: NEXT TRACK
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: SKAN REW
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: SKAN FF
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: PREX DISK
+type: parsed
+protocol: sony12
+address: 17
+command: 61
+#
+name: NEXT DISK
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: DISK1
+type: parsed
+protocol: sony12
+address: 17
+command: 64
+#
+name: DISK2
+type: parsed
+protocol: sony12
+address: 17
+command: 65
+#
+name: DISK3
+type: parsed
+protocol: sony12
+address: 17
+command: 66
+#
+name: DISK4
+type: parsed
+protocol: sony12
+address: 17
+command: 67
+#
+name: DISK5
+type: parsed
+protocol: sony12
+address: 17
+command: 68
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 86
+#

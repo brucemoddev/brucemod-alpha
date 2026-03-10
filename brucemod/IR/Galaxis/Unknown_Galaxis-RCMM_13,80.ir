@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 9
+#
+name: KEY_BACK
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 13
+#
+name: KEY_INFO
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 17
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 32
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 33
+#
+name: KEY_TEXT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 60
+#
+name: KEY_TV
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 63
+#
+name: KEY_SETUP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 69
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 75
+#
+name: KEY_LANGUAGE
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 78
+#
+name: KEY_AUDIO
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 80
+#
+name: KEY_EXIT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 85
+#
+name: KEY_UP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 92
+#
+name: ALT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 97
+#
+name: KEY_RED
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 109
+#
+name: KEY_GREEN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 110
+#
+name: KEY_YELLOW
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 111
+#
+name: KEY_BLUE
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 112
+#
+name: KEY_MENU
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 120
+#
+name: KEY_LIST
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 121
+#
+name: UP_RIGHT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 196
+#
+name: LEFT_UP
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 197
+#
+name: DOWN_RIGHT
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 198
+#
+name: LEFT_DOWN
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 199
+#
+name: KEY_EPG
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 204
+#
+name: KEY_VCR
+type: parsed
+protocol: Nokia32
+address: 13.80
+command: 255
+#

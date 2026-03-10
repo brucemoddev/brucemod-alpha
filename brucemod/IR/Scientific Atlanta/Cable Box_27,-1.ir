@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: panasonic
+address: 27
+command: 2
+#
+name: CURSOR LEFT
+type: parsed
+protocol: panasonic
+address: 27
+command: 3
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: panasonic
+address: 27
+command: 4
+#
+name: GUIDE
+type: parsed
+protocol: panasonic
+address: 27
+command: 6
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 27
+command: 7
+#
+name: INFO
+type: parsed
+protocol: panasonic
+address: 27
+command: 8
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 27
+command: 8
+#
+name: END
+type: parsed
+protocol: panasonic
+address: 27
+command: 10
+#
+name: CURSOR DOWN
+type: parsed
+protocol: panasonic
+address: 27
+command: 11
+#
+name: SELECT
+type: parsed
+protocol: panasonic
+address: 27
+command: 12
+#
+name: BYPASS
+type: parsed
+protocol: panasonic
+address: 27
+command: 13
+#
+name: LAST
+type: parsed
+protocol: panasonic
+address: 27
+command: 14
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 27
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 27
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 27
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 27
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 27
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 27
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 27
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 27
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 27
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 27
+command: 25
+#
+name: PRG
+type: parsed
+protocol: panasonic
+address: 27
+command: 26
+#
+name: AU
+type: parsed
+protocol: panasonic
+address: 27
+command: 27
+#
+name: OFF
+type: parsed
+protocol: panasonic
+address: 27
+command: 28
+#
+name: CHANNEL +
+type: parsed
+protocol: panasonic
+address: 27
+command: 29
+#
+name: CHANNEL -
+type: parsed
+protocol: panasonic
+address: 27
+command: 30
+#
+name: FAVORITE
+type: parsed
+protocol: panasonic
+address: 27
+command: 31
+#
+name: RCL
+type: parsed
+protocol: panasonic
+address: 27
+command: 31
+#
+name: A
+type: parsed
+protocol: panasonic
+address: 27
+command: 47
+#
+name: B
+type: parsed
+protocol: panasonic
+address: 27
+command: 48
+#
+name: C
+type: parsed
+protocol: panasonic
+address: 27
+command: 49
+#
+name: PAGE +
+type: parsed
+protocol: panasonic
+address: 27
+command: 54
+#
+name: PAGE -
+type: parsed
+protocol: panasonic
+address: 27
+command: 55
+#
+name: SETTINGS
+type: parsed
+protocol: panasonic
+address: 27
+command: 57
+#

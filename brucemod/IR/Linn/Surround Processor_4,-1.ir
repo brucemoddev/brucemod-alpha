@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LIMBIK NEXT (5 KEY)
+type: parsed
+protocol: rc5
+address: 4
+command: 5
+#
+name: 
+type: parsed
+protocol: rc5
+address: 4
+command: 5
+#

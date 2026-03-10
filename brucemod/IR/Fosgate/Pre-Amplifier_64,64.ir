@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 64.64
+command: 0
+#
+name: HI-EQ
+type: parsed
+protocol: nec1
+address: 64.64
+command: 1
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 2
+#
+name: DIGITAL INPUT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 4
+#
+name: NIGHT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 18
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 64.64
+command: 24
+#
+name: BYPASS
+type: parsed
+protocol: nec1
+address: 64.64
+command: 40
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 64.64
+command: 40
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 64.64
+command: 56
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 66
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 72
+#
+name: AUX 2
+type: parsed
+protocol: nec1
+address: 64.64
+command: 74
+#
+name: DOLBY PRO LOGIC
+type: parsed
+protocol: nec1
+address: 64.64
+command: 98
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 64.64
+command: 104
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 64.64
+command: 106
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 64.64
+command: 112
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 64.64
+command: 114
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 64.64
+command: 120
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 130
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 64.64
+command: 138
+#
+name: CR SURROUND
+type: parsed
+protocol: nec1
+address: 64.64
+command: 146
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 64.64
+command: 152
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 64.64
+command: 152
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 64.64
+command: 162
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 64.64
+command: 168
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 64.64
+command: 176
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 64.64
+command: 178
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 64.64
+command: 184
+#
+name: TRIM
+type: parsed
+protocol: nec1
+address: 64.64
+command: 194
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 64.64
+command: 200
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 64.64
+command: 208
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 210
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 64.64
+command: 210
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 64.64
+command: 226
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 64.64
+command: 242
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 64.64
+command: 248
+#

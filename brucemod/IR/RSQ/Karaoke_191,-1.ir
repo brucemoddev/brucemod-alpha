@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: jvc
+address: 191
+command: 0
+#
+name: STOP
+type: parsed
+protocol: jvc
+address: 191
+command: 3
+#
+name: SCAN >>
+type: parsed
+protocol: jvc
+address: 191
+command: 6
+#
+name: SCAN <<
+type: parsed
+protocol: jvc
+address: 191
+command: 7
+#
+name: SKIP <<
+type: parsed
+protocol: jvc
+address: 191
+command: 8
+#
+name: SKIP >>
+type: parsed
+protocol: jvc
+address: 191
+command: 9
+#
+name: RANDOM REPEAT
+type: parsed
+protocol: jvc
+address: 191
+command: 10
+#
+name: PLAY/SELECT
+type: parsed
+protocol: jvc
+address: 191
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 191
+command: 13
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 191
+command: 17
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 191
+command: 18
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 191
+command: 19
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 191
+command: 20
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 191
+command: 21
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 191
+command: 22
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 191
+command: 23
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 191
+command: 24
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 191
+command: 25
+#
+name: PROGRAM
+type: parsed
+protocol: jvc
+address: 191
+command: 26
+#
+name: 10
+type: parsed
+protocol: jvc
+address: 191
+command: 30
+#
+name: 10+
+type: parsed
+protocol: jvc
+address: 191
+command: 31
+#
+name: MPX V. REPLACE
+type: parsed
+protocol: jvc
+address: 191
+command: 41
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 191
+command: 44
+#
+name: DISC 1
+type: parsed
+protocol: jvc
+address: 191
+command: 49
+#
+name: DISC 2
+type: parsed
+protocol: jvc
+address: 191
+command: 50
+#
+name: DISC 3
+type: parsed
+protocol: jvc
+address: 191
+command: 51
+#

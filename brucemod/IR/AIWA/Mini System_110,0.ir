@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 9
+#
+name: 0
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 11
+#
+name: FUNCTION
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 30
+#
+name: CHANNEL +
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 64
+#
+name: PLAY
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 64
+#
+name: CHANNEL -
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 65
+#
+name: STOP
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 65
+#
+name: FF
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 66
+#
+name: REW
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 67
+#
+name: PAUSE
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 68
+#
+name: VOLUME +
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 77
+#
+name: VOLUME -
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 78
+#
+name: DISC 2
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 82
+#
+name: DISC 3
+type: parsed
+protocol: aiwa
+address: 110.0
+command: 83
+#

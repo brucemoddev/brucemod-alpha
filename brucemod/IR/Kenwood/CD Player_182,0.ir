@@ -1,0 +1,411 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: < (LEFT)
+type: parsed
+protocol: nec1
+address: 182.0
+command: 8
+#
+name: SEARCH <
+type: parsed
+protocol: nec1
+address: 182.0
+command: 8
+#
+name: > (RIGHT)
+type: parsed
+protocol: nec1
+address: 182.0
+command: 9
+#
+name: SEARCH >
+type: parsed
+protocol: nec1
+address: 182.0
+command: 9
+#
+name: V (DOWN)
+type: parsed
+protocol: nec1
+address: 182.0
+command: 10
+#
+name: SEARCH V (DOWN)
+type: parsed
+protocol: nec1
+address: 182.0
+command: 10
+#
+name: ^ (UP)
+type: parsed
+protocol: nec1
+address: 182.0
+command: 11
+#
+name: SEARCH ^
+type: parsed
+protocol: nec1
+address: 182.0
+command: 11
+#
+name: A
+type: parsed
+protocol: nec1
+address: 182.0
+command: 65
+#
+name: SEARCH A
+type: parsed
+protocol: nec1
+address: 182.0
+command: 65
+#
+name: B
+type: parsed
+protocol: nec1
+address: 182.0
+command: 66
+#
+name: SEARCH B
+type: parsed
+protocol: nec1
+address: 182.0
+command: 66
+#
+name: C
+type: parsed
+protocol: nec1
+address: 182.0
+command: 67
+#
+name: SEARCH C
+type: parsed
+protocol: nec1
+address: 182.0
+command: 67
+#
+name: D
+type: parsed
+protocol: nec1
+address: 182.0
+command: 68
+#
+name: SEARCH D
+type: parsed
+protocol: nec1
+address: 182.0
+command: 68
+#
+name: E
+type: parsed
+protocol: nec1
+address: 182.0
+command: 69
+#
+name: SEARCH E
+type: parsed
+protocol: nec1
+address: 182.0
+command: 69
+#
+name: F
+type: parsed
+protocol: nec1
+address: 182.0
+command: 70
+#
+name: SEARCH F
+type: parsed
+protocol: nec1
+address: 182.0
+command: 70
+#
+name: G
+type: parsed
+protocol: nec1
+address: 182.0
+command: 71
+#
+name: SEARCH G
+type: parsed
+protocol: nec1
+address: 182.0
+command: 71
+#
+name: H
+type: parsed
+protocol: nec1
+address: 182.0
+command: 72
+#
+name: SEARCH H
+type: parsed
+protocol: nec1
+address: 182.0
+command: 72
+#
+name: I
+type: parsed
+protocol: nec1
+address: 182.0
+command: 73
+#
+name: SEARCH I
+type: parsed
+protocol: nec1
+address: 182.0
+command: 73
+#
+name: J
+type: parsed
+protocol: nec1
+address: 182.0
+command: 74
+#
+name: SEARCH J
+type: parsed
+protocol: nec1
+address: 182.0
+command: 74
+#
+name: K
+type: parsed
+protocol: nec1
+address: 182.0
+command: 75
+#
+name: SEARCH K
+type: parsed
+protocol: nec1
+address: 182.0
+command: 75
+#
+name: L
+type: parsed
+protocol: nec1
+address: 182.0
+command: 76
+#
+name: SEARCH L
+type: parsed
+protocol: nec1
+address: 182.0
+command: 76
+#
+name: M
+type: parsed
+protocol: nec1
+address: 182.0
+command: 77
+#
+name: SEARCH M
+type: parsed
+protocol: nec1
+address: 182.0
+command: 77
+#
+name: N
+type: parsed
+protocol: nec1
+address: 182.0
+command: 78
+#
+name: SEARCH N
+type: parsed
+protocol: nec1
+address: 182.0
+command: 78
+#
+name: O
+type: parsed
+protocol: nec1
+address: 182.0
+command: 79
+#
+name: SEARCH O
+type: parsed
+protocol: nec1
+address: 182.0
+command: 79
+#
+name: P
+type: parsed
+protocol: nec1
+address: 182.0
+command: 80
+#
+name: SEARCH P
+type: parsed
+protocol: nec1
+address: 182.0
+command: 80
+#
+name: Q
+type: parsed
+protocol: nec1
+address: 182.0
+command: 81
+#
+name: SEARCH Q
+type: parsed
+protocol: nec1
+address: 182.0
+command: 81
+#
+name: R
+type: parsed
+protocol: nec1
+address: 182.0
+command: 82
+#
+name: SEARCH R
+type: parsed
+protocol: nec1
+address: 182.0
+command: 82
+#
+name: S
+type: parsed
+protocol: nec1
+address: 182.0
+command: 83
+#
+name: SEARCH S
+type: parsed
+protocol: nec1
+address: 182.0
+command: 83
+#
+name: T
+type: parsed
+protocol: nec1
+address: 182.0
+command: 84
+#
+name: SEARCH T
+type: parsed
+protocol: nec1
+address: 182.0
+command: 84
+#
+name: U
+type: parsed
+protocol: nec1
+address: 182.0
+command: 85
+#
+name: SEARCH U
+type: parsed
+protocol: nec1
+address: 182.0
+command: 85
+#
+name: V
+type: parsed
+protocol: nec1
+address: 182.0
+command: 86
+#
+name: SEARCH V
+type: parsed
+protocol: nec1
+address: 182.0
+command: 86
+#
+name: W
+type: parsed
+protocol: nec1
+address: 182.0
+command: 87
+#
+name: SEARCH W
+type: parsed
+protocol: nec1
+address: 182.0
+command: 87
+#
+name: X
+type: parsed
+protocol: nec1
+address: 182.0
+command: 88
+#
+name: SEARCH X
+type: parsed
+protocol: nec1
+address: 182.0
+command: 88
+#
+name: Y
+type: parsed
+protocol: nec1
+address: 182.0
+command: 89
+#
+name: SEARCH Y
+type: parsed
+protocol: nec1
+address: 182.0
+command: 89
+#
+name: Z
+type: parsed
+protocol: nec1
+address: 182.0
+command: 90
+#
+name: SEARCH Z
+type: parsed
+protocol: nec1
+address: 182.0
+command: 90
+#
+name: *
+type: parsed
+protocol: nec1
+address: 182.0
+command: 138
+#
+name: SEARCH *
+type: parsed
+protocol: nec1
+address: 182.0
+command: 138
+#
+name: +
+type: parsed
+protocol: nec1
+address: 182.0
+command: 139
+#
+name: SEARCH +
+type: parsed
+protocol: nec1
+address: 182.0
+command: 139
+#
+name: -
+type: parsed
+protocol: nec1
+address: 182.0
+command: 141
+#
+name: SEARCH -
+type: parsed
+protocol: nec1
+address: 182.0
+command: 141
+#
+name: /
+type: parsed
+protocol: nec1
+address: 182.0
+command: 143
+#
+name: SEARCH /
+type: parsed
+protocol: nec1
+address: 182.0
+command: 143
+#

@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 133.237
+command: 6
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 133.237
+command: 9
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 133.237
+command: 10
+#
+name: DISC MENU
+type: parsed
+protocol: nec1
+address: 133.237
+command: 11
+#
+name: POP UP MENU
+type: parsed
+protocol: nec1
+address: 133.237
+command: 12
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 133.237
+command: 13
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 133.237
+command: 15
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 133.237
+command: 17
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 133.237
+command: 19
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 133.237
+command: 21
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 133.237
+command: 23
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 133.237
+command: 25
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 133.237
+command: 26
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 133.237
+command: 26
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 133.237
+command: 28
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 133.237
+command: 29
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 133.237
+command: 30
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 133.237
+command: 31
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 133.237
+command: 36
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 133.237
+command: 38
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 133.237
+command: 39
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 133.237
+command: 40
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 133.237
+command: 42
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 133.237
+command: 44
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 133.237
+command: 46
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 133.237
+command: 48
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 133.237
+command: 50
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 133.237
+command: 52
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 133.237
+command: 54
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 133.237
+command: 56
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 133.237
+command: 58
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 133.237
+command: 60
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 133.237
+command: 62
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 133.237
+command: 63
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 133.237
+command: 64
+#
+name: SEARCH
+type: parsed
+protocol: nec1
+address: 133.237
+command: 69
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 133.237
+command: 70
+#

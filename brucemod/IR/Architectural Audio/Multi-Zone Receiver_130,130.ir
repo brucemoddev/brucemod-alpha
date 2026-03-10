@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER -
+type: parsed
+protocol: necx1
+address: 130.130
+command: 1
+#
+name: TUNER +
+type: parsed
+protocol: necx1
+address: 130.130
+command: 2
+#
+name: SOURCE 4
+type: parsed
+protocol: necx1
+address: 130.130
+command: 3
+#
+name: STOP
+type: parsed
+protocol: necx1
+address: 130.130
+command: 4
+#
+name: PLAY
+type: parsed
+protocol: necx1
+address: 130.130
+command: 5
+#
+name: SKIP <<
+type: parsed
+protocol: necx1
+address: 130.130
+command: 6
+#
+name: SKIP >>
+type: parsed
+protocol: necx1
+address: 130.130
+command: 7
+#
+name: SOURCE 3
+type: parsed
+protocol: necx1
+address: 130.130
+command: 9
+#
+name: SOURCE 2
+type: parsed
+protocol: necx1
+address: 130.130
+command: 10
+#
+name: SOURCE 1
+type: parsed
+protocol: necx1
+address: 130.130
+command: 11
+#
+name: AM
+type: parsed
+protocol: necx1
+address: 130.130
+command: 12
+#
+name: PRESET 1
+type: parsed
+protocol: necx1
+address: 130.130
+command: 13
+#
+name: PRESET 4
+type: parsed
+protocol: necx1
+address: 130.130
+command: 14
+#
+name: PRESET 7
+type: parsed
+protocol: necx1
+address: 130.130
+command: 15
+#
+name: VOLUME -
+type: parsed
+protocol: necx1
+address: 130.130
+command: 17
+#
+name: VOLUME +
+type: parsed
+protocol: necx1
+address: 130.130
+command: 18
+#
+name: MUTE-TOGGLE
+type: parsed
+protocol: necx1
+address: 130.130
+command: 19
+#
+name: FM
+type: parsed
+protocol: necx1
+address: 130.130
+command: 20
+#
+name: PRESET 2
+type: parsed
+protocol: necx1
+address: 130.130
+command: 21
+#
+name: PRESET 5
+type: parsed
+protocol: necx1
+address: 130.130
+command: 22
+#
+name: PRESET 8
+type: parsed
+protocol: necx1
+address: 130.130
+command: 23
+#
+name: ALL OFF
+type: parsed
+protocol: necx1
+address: 130.130
+command: 25
+#
+name: ZONE OFF
+type: parsed
+protocol: necx1
+address: 130.130
+command: 26
+#
+name: MUTE-OFF
+type: parsed
+protocol: necx1
+address: 130.130
+command: 27
+#
+name: MUTE-ON
+type: parsed
+protocol: necx1
+address: 130.130
+command: 28
+#
+name: PRESET 3
+type: parsed
+protocol: necx1
+address: 130.130
+command: 29
+#
+name: PRESET 6
+type: parsed
+protocol: necx1
+address: 130.130
+command: 30
+#
+name: PRESET 9
+type: parsed
+protocol: necx1
+address: 130.130
+command: 31
+#
+name: PRESET 10
+type: parsed
+protocol: necx1
+address: 130.130
+command: 96
+#
+name: PRESET 11
+type: parsed
+protocol: necx1
+address: 130.130
+command: 160
+#
+name: PRESET 12
+type: parsed
+protocol: necx1
+address: 130.130
+command: 224
+#

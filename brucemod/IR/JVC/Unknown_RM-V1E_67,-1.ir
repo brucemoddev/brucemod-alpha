@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: KEY_FORWARD
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: KEY_SEARCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: KEY_RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#

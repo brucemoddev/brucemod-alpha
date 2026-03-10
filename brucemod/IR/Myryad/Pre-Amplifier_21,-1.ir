@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUX
+type: parsed
+protocol: rc5
+address: 21
+command: 63
+#

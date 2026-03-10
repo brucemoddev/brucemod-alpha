@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.0
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.0
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.0
+command: 3
+#
+name: TUNER_BAND
+type: parsed
+protocol: nec
+address: 131.0
+command: 7
+#
+name: FUNCTION
+type: parsed
+protocol: nec
+address: 131.0
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 131.0
+command: 82
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.0
+command: 83
+#
+name: DBFB
+type: parsed
+protocol: nec
+address: 131.0
+command: 84
+#
+name: FILE_SELECT
+type: parsed
+protocol: nec
+address: 131.0
+command: 85
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 131.0
+command: 144
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 131.0
+command: 145
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 131.0
+command: 147
+#
+name: SKIP_UP
+type: parsed
+protocol: nec
+address: 131.0
+command: 148
+#
+name: SKIP_DOWN
+type: parsed
+protocol: nec
+address: 131.0
+command: 149
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 131.0
+command: 150
+#
+name: FAST_REVERSE
+type: parsed
+protocol: nec
+address: 131.0
+command: 151
+#
+name: CHECK
+type: parsed
+protocol: nec
+address: 131.0
+command: 153
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 131.0
+command: 154
+#
+name: DISC_SKIP
+type: parsed
+protocol: nec
+address: 131.0
+command: 192
+#
+name: DECK_A_PLAY
+type: parsed
+protocol: nec
+address: 131.0
+command: 208
+#
+name: DECK_B_PLAY
+type: parsed
+protocol: nec
+address: 131.0
+command: 213
+#

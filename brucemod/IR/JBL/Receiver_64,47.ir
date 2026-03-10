@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 64.47
+command: 0
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 64.47
+command: 1
+#
+name: VOL+
+type: parsed
+protocol: nec1
+address: 64.47
+command: 3
+#
+name: MONO
+type: parsed
+protocol: nec1
+address: 64.47
+command: 4
+#
+name: PTY
+type: parsed
+protocol: nec1
+address: 64.47
+command: 5
+#
+name: M
+type: parsed
+protocol: nec1
+address: 64.47
+command: 6
+#
+name: VOL-
+type: parsed
+protocol: nec1
+address: 64.47
+command: 7
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 64.47
+command: 8
+#
+name: RDS
+type: parsed
+protocol: nec1
+address: 64.47
+command: 9
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 64.47
+command: 10
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 64.47
+command: 11
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 64.47
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 64.47
+command: 13
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 64.47
+command: 15
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 64.47
+command: 16
+#
+name: I<
+type: parsed
+protocol: nec1
+address: 64.47
+command: 18
+#
+name: >I
+type: parsed
+protocol: nec1
+address: 64.47
+command: 19
+#
+name: <<
+type: parsed
+protocol: nec1
+address: 64.47
+command: 22
+#
+name: >>
+type: parsed
+protocol: nec1
+address: 64.47
+command: 23
+#
+name: ALARM1
+type: parsed
+protocol: nec1
+address: 64.47
+command: 24
+#
+name: ALARM2
+type: parsed
+protocol: nec1
+address: 64.47
+command: 25
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 64.47
+command: 26
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 64.47
+command: 27
+#
+name: SNOOZE
+type: parsed
+protocol: nec1
+address: 64.47
+command: 28
+#
+name: LIGHT
+type: parsed
+protocol: nec1
+address: 64.47
+command: 29
+#

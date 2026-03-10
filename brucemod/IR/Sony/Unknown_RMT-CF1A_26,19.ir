@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony20
+address: 26.19
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony20
+address: 26.19
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony20
+address: 26.19
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony20
+address: 26.19
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony20
+address: 26.19
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony20
+address: 26.19
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony20
+address: 26.19
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony20
+address: 26.19
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony20
+address: 26.19
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony20
+address: 26.19
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: sony20
+address: 26.19
+command: 21
+#
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.19
+command: 48
+#
+name: preset+
+type: parsed
+protocol: sony20
+address: 26.19
+command: 61
+#
+name: preset-
+type: parsed
+protocol: sony20
+address: 26.19
+command: 62
+#
+name: KEY_MENU
+type: parsed
+protocol: sony20
+address: 26.19
+command: 72
+#
+name: display
+type: parsed
+protocol: sony20
+address: 26.19
+command: 73
+#
+name: bright
+type: parsed
+protocol: sony20
+address: 26.19
+command: 75
+#
+name: KEY_SLEEP
+type: parsed
+protocol: sony20
+address: 26.19
+command: 96
+#
+name: band
+type: parsed
+protocol: sony20
+address: 26.19
+command: 111
+#
+name: hd-scan
+type: parsed
+protocol: sony20
+address: 26.19
+command: 112
+#
+name: scan
+type: parsed
+protocol: sony20
+address: 26.19
+command: 113
+#
+name: tune+
+type: parsed
+protocol: sony20
+address: 26.19
+command: 115
+#
+name: tune-
+type: parsed
+protocol: sony20
+address: 26.19
+command: 116
+#

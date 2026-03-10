@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: S.MODE-II
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: VIDEO
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: TTX/MIX
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: CH/P+
+type: parsed
+protocol: rc5
+address: 0
+command: 81
+#

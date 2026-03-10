@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: denon
+address: 12
+command: 75
+#
+name: VOLUME DOWN
+type: parsed
+protocol: denon
+address: 12
+command: 76
+#
+name: VOLUME UP
+type: parsed
+protocol: denon
+address: 12
+command: 77
+#
+name: POWER TOGGLE
+type: parsed
+protocol: denon
+address: 12
+command: 80
+#
+name: SOURCE TUNER
+type: parsed
+protocol: denon
+address: 12
+command: 89
+#
+name: SOURCE CD
+type: parsed
+protocol: denon
+address: 12
+command: 90
+#
+name: SOURCE LINE
+type: parsed
+protocol: denon
+address: 12
+command: 95
+#
+name: POWER ON
+type: parsed
+protocol: denon
+address: 12
+command: 104
+#
+name: SLEEP
+type: parsed
+protocol: denon
+address: 12
+command: 114
+#
+name: POWER OFF
+type: parsed
+protocol: denon
+address: 12
+command: 122
+#
+name: TIME/DISPLAY
+type: parsed
+protocol: denon
+address: 12
+command: 207
+#
+name: ENTER/MEMO
+type: parsed
+protocol: denon
+address: 12
+command: 209
+#
+name: DAB/RDS
+type: parsed
+protocol: denon
+address: 12
+command: 210
+#
+name: CLOCK
+type: parsed
+protocol: denon
+address: 12
+command: 211
+#
+name: PTY
+type: parsed
+protocol: denon
+address: 12
+command: 212
+#
+name: DIMMER
+type: parsed
+protocol: denon
+address: 12
+command: 223
+#

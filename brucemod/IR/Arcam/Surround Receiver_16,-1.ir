@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SAT A
+type: parsed
+protocol: rc5
+address: 16
+command: 0
+#
+name: SAT B
+type: parsed
+protocol: rc5
+address: 16
+command: 0
+#
+name: TUNER A
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: TUNER B
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: DVD A
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: DVD B
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: TAPE A
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: TAPE B
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: VCR A
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: VCR B
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: CD A
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: CD B
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: AUX A
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: AUX B
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: POWER A
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: POWER B
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE A
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: MUTE B
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME + A
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME + B
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME - A
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: VOLUME - B
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#

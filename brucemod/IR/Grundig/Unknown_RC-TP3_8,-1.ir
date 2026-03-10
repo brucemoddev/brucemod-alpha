@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 8
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 8
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 8
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 8
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 8
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 8
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 8
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 8
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 8
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 8
+command: 9
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 8
+command: 13
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 8
+command: 14
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 8
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 8
+command: 17
+#
+name: KEY_NEXT
+type: parsed
+protocol: rc5
+address: 8
+command: 30
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: rc5
+address: 8
+command: 31
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc5
+address: 8
+command: 32
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 8
+command: 33
+#
+name: CEC
+type: parsed
+protocol: rc5
+address: 8
+command: 34
+#
+name: USR3
+type: parsed
+protocol: rc5
+address: 8
+command: 35
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 8
+command: 44
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 8
+command: 46
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 8
+command: 48
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 8
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 8
+command: 54
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 8
+command: 60
+#
+name: USR4
+type: parsed
+protocol: rc5
+address: 8
+command: 69
+#
+name: KEY_INFO
+type: parsed
+protocol: rc5
+address: 8
+command: 70
+#
+name: KEY_BACK
+type: parsed
+protocol: rc5
+address: 8
+command: 79
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 8
+command: 80
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 8
+command: 81
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 8
+command: 85
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 8
+command: 86
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 8
+command: 87
+#
+name: KEY_RED
+type: parsed
+protocol: rc5
+address: 8
+command: 107
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 8
+command: 108
+#
+name: YEL
+type: parsed
+protocol: rc5
+address: 8
+command: 109
+#
+name: BLU
+type: parsed
+protocol: rc5
+address: 8
+command: 110
+#
+name: USR2
+type: parsed
+protocol: rc5
+address: 8
+command: 117
+#
+name: USR1
+type: parsed
+protocol: rc5
+address: 8
+command: 126
+#

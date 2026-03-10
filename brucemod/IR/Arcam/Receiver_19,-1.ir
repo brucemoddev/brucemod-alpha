@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SAT
+type: parsed
+protocol: rc5
+address: 19
+command: 0
+#
+name: AV
+type: parsed
+protocol: rc5
+address: 19
+command: 2
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 19
+command: 3
+#
+name: DVD
+type: parsed
+protocol: rc5
+address: 19
+command: 4
+#
+name: TAPE
+type: parsed
+protocol: rc5
+address: 19
+command: 5
+#
+name: VCR
+type: parsed
+protocol: rc5
+address: 19
+command: 6
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 19
+command: 7
+#
+name: PVR/AUX
+type: parsed
+protocol: rc5
+address: 19
+command: 8
+#
+name: DVD-A
+type: parsed
+protocol: rc5
+address: 19
+command: 9
+#
+name: MUTE-TOGGLE
+type: parsed
+protocol: rc5
+address: 19
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 19
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 19
+command: 17
+#
+name: ZONE 2 ON
+type: parsed
+protocol: rc5
+address: 19
+command: 47
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: rc5
+address: 19
+command: 48
+#

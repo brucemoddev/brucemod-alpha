@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: pioneer
+address: 186
+command: 1
+#
+name: VOL-
+type: parsed
+protocol: pioneer
+address: 186
+command: 2
+#
+name: VOL+
+type: parsed
+protocol: pioneer
+address: 186
+command: 3
+#
+name: STATION
+type: parsed
+protocol: pioneer
+address: 186
+command: 4
+#
+name: AM/FM
+type: parsed
+protocol: pioneer
+address: 186
+command: 5
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 186
+command: 7
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 186
+command: 8
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 186
+command: 9
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 186
+command: 10
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 186
+command: 11
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 186
+command: 12
+#
+name: AUX
+type: parsed
+protocol: pioneer
+address: 186
+command: 15
+#
+name: TUNE+
+type: parsed
+protocol: pioneer
+address: 186
+command: 16
+#
+name: TUNE-
+type: parsed
+protocol: pioneer
+address: 186
+command: 17
+#
+name: ALARM/TIME
+type: parsed
+protocol: pioneer
+address: 186
+command: 18
+#
+name: ALARM/WAKEUPTO
+type: parsed
+protocol: pioneer
+address: 186
+command: 19
+#
+name: SLEEP
+type: parsed
+protocol: pioneer
+address: 186
+command: 30
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 186
+command: 76
+#

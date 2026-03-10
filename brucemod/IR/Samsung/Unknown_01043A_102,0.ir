@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: display
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 143
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 145
+#
+name: KEY_MENU
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 148
+#
+name: KEY_UP
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 151
+#
+name: KEY_DOWN
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 152
+#
+name: KEY_RIGHT
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 153
+#
+name: KEY_LEFT
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 154
+#
+name: KEY_OK
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 155
+#
+name: skip_back
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 159
+#
+name: KEY_PLAY
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 160
+#
+name: skip_forward
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 161
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 162
+#

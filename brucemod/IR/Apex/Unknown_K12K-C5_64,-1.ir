@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 64
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 64
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 64
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 64
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 64
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 64
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 64
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 64
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 64
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 64
+command: 9
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 64
+command: 10
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 64
+command: 13
+#
+name: TIMER
+type: parsed
+protocol: nec
+address: 64
+command: 14
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 64
+command: 16
+#
+name: PICTURE
+type: parsed
+protocol: nec
+address: 64
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 64
+command: 18
+#
+name: STEREO
+type: parsed
+protocol: nec
+address: 64
+command: 19
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 64
+command: 20
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 64
+command: 22
+#
+name: CC
+type: parsed
+protocol: nec
+address: 64
+command: 23
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 64
+command: 25
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 64
+command: 26
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 64
+command: 27
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 64
+command: 29
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 64
+command: 30
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 64
+command: 31
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 64
+command: 64
+#
+name: SCAN
+type: parsed
+protocol: nec
+address: 64
+command: 65
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 64
+command: 70
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 64
+command: 71
+#
+name: SOUND
+type: parsed
+protocol: nec
+address: 64
+command: 90
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 64
+command: 91
+#

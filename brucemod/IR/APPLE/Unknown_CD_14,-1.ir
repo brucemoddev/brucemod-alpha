@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 14
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 14
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 14
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 14
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 14
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 14
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 14
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 14
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 14
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 14
+command: 9
+#
+name: shuffle
+type: parsed
+protocol: rc5
+address: 14
+command: 28
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc5
+address: 14
+command: 29
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 14
+command: 30
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 14
+command: 31
+#
+name: KEY_NEXT
+type: parsed
+protocol: rc5
+address: 14
+command: 32
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: rc5
+address: 14
+command: 33
+#
+name: prog
+type: parsed
+protocol: rc5
+address: 14
+command: 36
+#
+name: store
+type: parsed
+protocol: rc5
+address: 14
+command: 41
+#
+name: KEY_EDIT
+type: parsed
+protocol: rc5
+address: 14
+command: 42
+#
+name: ams
+type: parsed
+protocol: rc5
+address: 14
+command: 43
+#
+name: rev.play
+type: parsed
+protocol: rc5
+address: 14
+command: 47
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 14
+command: 48
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 14
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 14
+command: 54
+#
+name: KEY_NEXT
+type: parsed
+protocol: rc5
+address: 14
+command: 58
+#
+name: rotate_left
+type: parsed
+protocol: rc5
+address: 14
+command: 65
+#
+name: rotate_right
+type: parsed
+protocol: rc5
+address: 14
+command: 66
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 14
+command: 80
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 14
+command: 81
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 14
+command: 85
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 14
+command: 86
+#
+name: frame
+type: parsed
+protocol: rc5
+address: 14
+command: 97
+#
+name: fts/fps
+type: parsed
+protocol: rc5
+address: 14
+command: 108
+#
+name: autoplay
+type: parsed
+protocol: rc5
+address: 14
+command: 120
+#
+name: insert
+type: parsed
+protocol: rc5
+address: 14
+command: 121
+#
+name: full
+type: parsed
+protocol: rc5
+address: 14
+command: 125
+#
+name: KEY_ZOOM
+type: parsed
+protocol: rc5
+address: 14
+command: 126
+#
+name: normal
+type: parsed
+protocol: rc5
+address: 14
+command: 127
+#

@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: nec1
+address: 56
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec
+address: 56
+command: 3
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 56
+command: 4
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 56
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 56
+command: 6
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 56
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 56
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 56
+command: 9
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 9
+#
+name: 
+type: parsed
+protocol: nec2
+address: 56
+command: 9
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 10
+#
+name: CHANNEL +
+type: parsed
+protocol: nec2
+address: 56
+command: 10
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 56
+command: 11
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 56
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 56
+command: 14
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 15
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 56
+command: 15
+#
+name: 
+type: parsed
+protocol: nec1
+address: 56
+command: 18
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 56
+command: 18
+#
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 56
+command: 19
+#
+name: 100
+type: parsed
+protocol: nec1
+address: 56
+command: 21
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 56
+command: 24
+#

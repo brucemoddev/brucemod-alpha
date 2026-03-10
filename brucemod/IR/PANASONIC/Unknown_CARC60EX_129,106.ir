@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 129.106
+command: 18
+#
+name: ATT
+type: parsed
+protocol: nec
+address: 129.106
+command: 20
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 129.106
+command: 25
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 129.106
+command: 26
+#
+name: PRG
+type: parsed
+protocol: nec
+address: 129.106
+command: 28
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 129.106
+command: 29
+#
+name: Tune/Track_Down
+type: parsed
+protocol: nec
+address: 129.106
+command: 30
+#
+name: Tune/Track_Up
+type: parsed
+protocol: nec
+address: 129.106
+command: 31
+#

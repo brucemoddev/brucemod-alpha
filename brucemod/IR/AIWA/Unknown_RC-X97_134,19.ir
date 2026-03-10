@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: off
+type: parsed
+protocol: nec
+address: 134.19
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 134.19
+command: 15
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 134.19
+command: 16
+#
+name: disc_tune+
+type: parsed
+protocol: nec
+address: 134.19
+command: 17
+#
+name: disc_tune-
+type: parsed
+protocol: nec
+address: 134.19
+command: 18
+#
+name: radio_band
+type: parsed
+protocol: nec
+address: 134.19
+command: 19
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 134.19
+command: 20
+#
+name: ff_next
+type: parsed
+protocol: nec
+address: 134.19
+command: 22
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 134.19
+command: 23
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 134.19
+command: 27
+#
+name: preset_scan
+type: parsed
+protocol: nec
+address: 134.19
+command: 31
+#

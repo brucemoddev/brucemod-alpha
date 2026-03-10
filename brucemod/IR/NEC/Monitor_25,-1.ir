@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR CHANNEL +
+type: parsed
+protocol: nec1
+address: 25
+command: 0
+#
+name: VCR CHANNEL -
+type: parsed
+protocol: nec1
+address: 25
+command: 1
+#
+name: VCR VOLUME +
+type: parsed
+protocol: nec1
+address: 25
+command: 2
+#
+name: VCR VOLUME -
+type: parsed
+protocol: nec1
+address: 25
+command: 3
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 25
+command: 4
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 25
+command: 5
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 25
+command: 6
+#
+name: VCR POWER
+type: parsed
+protocol: nec1
+address: 25
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 25
+command: 9
+#
+name: VCR TV/VCR
+type: parsed
+protocol: nec1
+address: 25
+command: 10
+#
+name: FF/SRCH >>
+type: parsed
+protocol: nec1
+address: 25
+command: 12
+#
+name: REW/SRCH <<
+type: parsed
+protocol: nec1
+address: 25
+command: 13
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 25
+command: 14
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 25
+command: 16
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 25
+command: 17
+#
+name: VCR 3
+type: parsed
+protocol: nec1
+address: 25
+command: 18
+#
+name: VCR 4
+type: parsed
+protocol: nec1
+address: 25
+command: 19
+#
+name: VCR 5
+type: parsed
+protocol: nec1
+address: 25
+command: 20
+#
+name: VCR 6
+type: parsed
+protocol: nec1
+address: 25
+command: 21
+#
+name: VCR 7
+type: parsed
+protocol: nec1
+address: 25
+command: 22
+#
+name: VCR 8
+type: parsed
+protocol: nec1
+address: 25
+command: 23
+#
+name: VCR 9
+type: parsed
+protocol: nec1
+address: 25
+command: 24
+#
+name: VCR ANT/AUX
+type: parsed
+protocol: nec1
+address: 25
+command: 25
+#
+name: VCR 0
+type: parsed
+protocol: nec1
+address: 25
+command: 26
+#
+name: VCR RECALL
+type: parsed
+protocol: nec1
+address: 25
+command: 27
+#
+name: VCR TIMER
+type: parsed
+protocol: nec1
+address: 25
+command: 28
+#

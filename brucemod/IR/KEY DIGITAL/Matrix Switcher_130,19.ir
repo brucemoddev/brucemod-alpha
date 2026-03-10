@@ -1,0 +1,639 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 130.19
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.19
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.19
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.19
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.19
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.19
+command: 9
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 130.19
+command: 10
+#
+name: ANS
+type: parsed
+protocol: nec1
+address: 130.19
+command: 11
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 130.19
+command: 12
+#
+name: EXT 12V CONTROL ON
+type: parsed
+protocol: nec1
+address: 130.19
+command: 13
+#
+name: INPUT SELECT <
+type: parsed
+protocol: nec1
+address: 130.19
+command: 14
+#
+name: INPUT SELECT >
+type: parsed
+protocol: nec1
+address: 130.19
+command: 15
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 130.19
+command: 16
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 130.19
+command: 17
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 130.19
+command: 18
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 130.19
+command: 19
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 130.19
+command: 20
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 130.19
+command: 21
+#
+name: EXT 12V CONTROL OFF
+type: parsed
+protocol: nec1
+address: 130.19
+command: 22
+#
+name: NP >
+type: parsed
+protocol: nec1
+address: 130.19
+command: 23
+#
+name: PP <
+type: parsed
+protocol: nec1
+address: 130.19
+command: 24
+#
+name: SR
+type: parsed
+protocol: nec1
+address: 130.19
+command: 25
+#
+name: R8
+type: parsed
+protocol: nec1
+address: 130.19
+command: 26
+#
+name: R1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 28
+#
+name: R2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 29
+#
+name: R3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 30
+#
+name: R4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 31
+#
+name: ZO
+type: parsed
+protocol: nec1
+address: 130.19
+command: 64
+#
+name: R5
+type: parsed
+protocol: nec1
+address: 130.19
+command: 65
+#
+name: R6
+type: parsed
+protocol: nec1
+address: 130.19
+command: 66
+#
+name: R7
+type: parsed
+protocol: nec1
+address: 130.19
+command: 67
+#
+name: PA
+type: parsed
+protocol: nec1
+address: 130.19
+command: 68
+#
+name: AR-IN
+type: parsed
+protocol: nec1
+address: 130.19
+command: 69
+#
+name: GB
+type: parsed
+protocol: nec1
+address: 130.19
+command: 70
+#
+name: SH
+type: parsed
+protocol: nec1
+address: 130.19
+command: 71
+#
+name: BR
+type: parsed
+protocol: nec1
+address: 130.19
+command: 72
+#
+name: CO
+type: parsed
+protocol: nec1
+address: 130.19
+command: 73
+#
+name: U3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 81
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 82
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 130.19
+command: 82
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 83
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 130.19
+command: 83
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 84
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 130.19
+command: 84
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 85
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 130.19
+command: 85
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.19
+command: 86
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.19
+command: 87
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.19
+command: 88
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.19
+command: 89
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.19
+command: 90
+#
+name: U4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 91
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 130.19
+command: 92
+#
+name: INPUT >
+type: parsed
+protocol: nec1
+address: 130.19
+command: 97
+#
+name: > UP
+type: parsed
+protocol: nec1
+address: 130.19
+command: 97
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 130.19
+command: 97
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 130.19
+command: 98
+#
+name: POWER ON -2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 98
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 130.19
+command: 99
+#
+name: POWER OFF -2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 99
+#
+name: U1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 100
+#
+name: U2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 101
+#
+name: INPUT <
+type: parsed
+protocol: nec1
+address: 130.19
+command: 102
+#
+name: < DN
+type: parsed
+protocol: nec1
+address: 130.19
+command: 102
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 130.19
+command: 102
+#
+name: OUT 1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 103
+#
+name: OUT 2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 104
+#
+name: OUT 3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 105
+#
+name: OUT 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 106
+#
+name: R1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 113
+#
+name: R2
+type: parsed
+protocol: nec1
+address: 130.19
+command: 114
+#
+name: R3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 115
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 130.19
+command: 162
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 130.19
+command: 163
+#
+name: VIDEO MODE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 164
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 165
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 130.19
+command: 166
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 130.19
+command: 167
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 168
+#
+name: RESTORE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 169
+#
+name: ALL MUTE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 170
+#
+name: ALL RESTORE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 171
+#
+name: VOLUME
+type: parsed
+protocol: nec1
+address: 130.19
+command: 172
+#
+name: BALANCE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 173
+#
+name: BASS
+type: parsed
+protocol: nec2
+address: 130.19
+command: 174
+#
+name: MIDDLE
+type: parsed
+protocol: nec2
+address: 130.19
+command: 175
+#
+name: TREBLE
+type: parsed
+protocol: nec1
+address: 130.19
+command: 176
+#
+name: LIPSYNC
+type: parsed
+protocol: nec1
+address: 130.19
+command: 177
+#
+name: R1
+type: parsed
+protocol: nec1
+address: 130.19
+command: 178
+#
+name: R2
+type: parsed
+protocol: nec2
+address: 130.19
+command: 179
+#
+name: R3
+type: parsed
+protocol: nec1
+address: 130.19
+command: 180
+#
+name: R4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 181
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 130.19
+command: 218
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 130.19
+command: 219
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 130.19
+command: 220
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 130.19
+command: 221
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.19
+command: 222
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.19
+command: 223
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 130.19
+command: 224
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.19
+command: 225
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.19
+command: 226
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.19
+command: 227
+#

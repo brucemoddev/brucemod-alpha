@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: akai
+address: 1
+command: 3
+#
+name: ON
+type: parsed
+protocol: akai
+address: 1
+command: 5
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: REWIND <<
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: OFF
+type: parsed
+protocol: akai
+address: 1
+command: 10
+#
+name: PLAY
+type: parsed
+protocol: akai
+address: 1
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: akai
+address: 1
+command: 13
+#
+name: SCAN >>
+type: parsed
+protocol: akai
+address: 1
+command: 20
+#
+name: SCAN <<
+type: parsed
+protocol: akai
+address: 1
+command: 21
+#
+name: CH DN
+type: parsed
+protocol: akai
+address: 1
+command: 24
+#
+name: CH UP
+type: parsed
+protocol: akai
+address: 1
+command: 25
+#
+name: ENTER
+type: parsed
+protocol: akai
+address: 1
+command: 78
+#
+name: 0
+type: parsed
+protocol: akai
+address: 1
+command: 79
+#
+name: 1
+type: parsed
+protocol: akai
+address: 1
+command: 80
+#
+name: 2
+type: parsed
+protocol: akai
+address: 1
+command: 81
+#
+name: 3
+type: parsed
+protocol: akai
+address: 1
+command: 82
+#
+name: 4
+type: parsed
+protocol: akai
+address: 1
+command: 83
+#
+name: 5
+type: parsed
+protocol: akai
+address: 1
+command: 84
+#
+name: 6
+type: parsed
+protocol: akai
+address: 1
+command: 85
+#
+name: 7
+type: parsed
+protocol: akai
+address: 1
+command: 86
+#
+name: 8
+type: parsed
+protocol: akai
+address: 1
+command: 87
+#
+name: 9
+type: parsed
+protocol: akai
+address: 1
+command: 88
+#
+name: RECORD
+type: parsed
+protocol: akai
+address: 1
+command: 109
+#

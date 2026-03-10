@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK002 POWER OFF
+type: parsed
+protocol: nec2
+address: 11.79
+command: 1
+#
+name: BK002 POWER ON
+type: parsed
+protocol: nec2
+address: 11.79
+command: 2
+#
+name: BK002 MUTE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 3
+#
+name: BK002 V1
+type: parsed
+protocol: nec2
+address: 11.79
+command: 5
+#
+name: BK002 TV
+type: parsed
+protocol: nec2
+address: 11.79
+command: 6
+#
+name: BK002 V2
+type: parsed
+protocol: nec2
+address: 11.79
+command: 9
+#
+name: BK002 TAPE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 11
+#
+name: BK002 DVD
+type: parsed
+protocol: nec2
+address: 11.79
+command: 13
+#
+name: BK002 CD
+type: parsed
+protocol: nec2
+address: 11.79
+command: 15
+#
+name: BK002 TUNE-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 27
+#
+name: BK002 TUNE+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 28
+#
+name: BK002 BALANCE LEFT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 31
+#
+name: BK002 LEFT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 31
+#
+name: BK002 BALANCE RIGHT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 32
+#
+name: BK002 RIGHT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 32
+#
+name: BK002 NUMBER +10
+type: parsed
+protocol: nec2
+address: 11.79
+command: 41
+#
+name: BK002 DOWN
+type: parsed
+protocol: nec2
+address: 11.79
+command: 45
+#
+name: BK002 UP
+type: parsed
+protocol: nec2
+address: 11.79
+command: 46
+#
+name: BK002 ENTER
+type: parsed
+protocol: nec2
+address: 11.79
+command: 48
+#
+name: BK002 NUMBER 1
+type: parsed
+protocol: nec2
+address: 11.79
+command: 49
+#
+name: BK002 NUMBER 2
+type: parsed
+protocol: nec2
+address: 11.79
+command: 50
+#
+name: BK002 NUMBER 3
+type: parsed
+protocol: nec2
+address: 11.79
+command: 51
+#
+name: BK002 NUMBER 4
+type: parsed
+protocol: nec2
+address: 11.79
+command: 53
+#
+name: BK002 NUMBER 5
+type: parsed
+protocol: nec2
+address: 11.79
+command: 54
+#
+name: BK002 NUMBER 6
+type: parsed
+protocol: nec2
+address: 11.79
+command: 55
+#
+name: BK002 NUMBER 7
+type: parsed
+protocol: nec2
+address: 11.79
+command: 57
+#
+name: BK002 NUMBER 8
+type: parsed
+protocol: nec2
+address: 11.79
+command: 58
+#
+name: BK002 NUMBER 9
+type: parsed
+protocol: nec2
+address: 11.79
+command: 59
+#
+name: BK002 NUMBER 0
+type: parsed
+protocol: nec2
+address: 11.79
+command: 62
+#
+name: BK002 Z
+type: parsed
+protocol: nec2
+address: 11.79
+command: 63
+#
+name: BK002 SAVE
+type: parsed
+protocol: nec2
+address: 11.79
+command: 64
+#
+name: BK002 SAT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 74
+#
+name: BK002 PRESET+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 75
+#
+name: BK002 VOLUME+
+type: parsed
+protocol: nec2
+address: 11.79
+command: 75
+#
+name: BK002 AM
+type: parsed
+protocol: nec2
+address: 11.79
+command: 118
+#
+name: BK002 EXIT
+type: parsed
+protocol: nec2
+address: 11.79
+command: 125
+#
+name: BK002 FM
+type: parsed
+protocol: nec2
+address: 11.79
+command: 142
+#
+name: BK002 MONO
+type: parsed
+protocol: nec2
+address: 11.79
+command: 154
+#
+name: BK002 SLEEP
+type: parsed
+protocol: nec2
+address: 11.79
+command: 179
+#
+name: BK002 PRESET-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 198
+#
+name: BK002 VOLUME-
+type: parsed
+protocol: nec2
+address: 11.79
+command: 198
+#
+name: BK002 STEREO
+type: parsed
+protocol: nec2
+address: 11.79
+command: 226
+#

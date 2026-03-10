@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: <<
+type: parsed
+protocol: rc5
+address: 25
+command: 1
+#
+name: >>
+type: parsed
+protocol: rc5
+address: 25
+command: 2
+#
+name: DTS MODE: MOVIE
+type: parsed
+protocol: rc5
+address: 25
+command: 3
+#
+name: DTS MODE: MUSIC
+type: parsed
+protocol: rc5
+address: 25
+command: 4
+#
+name: EXIT SETUP MENU
+type: parsed
+protocol: rc5
+address: 25
+command: 5
+#
+name: PL: DIMENSION -
+type: parsed
+protocol: rc5
+address: 25
+command: 17
+#
+name: PL: DIMENSION +
+type: parsed
+protocol: rc5
+address: 25
+command: 18
+#
+name: DD: COMPR: LOW
+type: parsed
+protocol: rc5
+address: 25
+command: 25
+#
+name: DD: COMPR: MEDIUM
+type: parsed
+protocol: rc5
+address: 25
+command: 26
+#
+name: DD: COMPR: OFF
+type: parsed
+protocol: rc5
+address: 25
+command: 28
+#
+name: DD: COMPR: NIGHT
+type: parsed
+protocol: rc5
+address: 25
+command: 29
+#
+name: DISPLAY ON
+type: parsed
+protocol: rc5
+address: 25
+command: 30
+#
+name: DISPLAY OFF
+type: parsed
+protocol: rc5
+address: 25
+command: 31
+#
+name: LIGHT ON
+type: parsed
+protocol: rc5
+address: 25
+command: 32
+#
+name: LIGHT OFF
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: LIGHT DIM
+type: parsed
+protocol: rc5
+address: 25
+command: 34
+#
+name: THX: ASA MODE:MUSIC
+type: parsed
+protocol: rc5
+address: 25
+command: 36
+#
+name: THX: ASA MODE:OFF
+type: parsed
+protocol: rc5
+address: 25
+command: 37
+#
+name: THX: EX MODE: ON
+type: parsed
+protocol: rc5
+address: 25
+command: 38
+#
+name: THX: EX MODE: OFF
+type: parsed
+protocol: rc5
+address: 25
+command: 39
+#
+name: THX: EX MODE: AUTO
+type: parsed
+protocol: rc5
+address: 25
+command: 40
+#
+name: THX: ASA MODE:CINEMA
+type: parsed
+protocol: rc5
+address: 25
+command: 41
+#

@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 120
+command: 204
+#
+name: tv
+type: parsed
+protocol: nec
+address: 120
+command: 223
+#
+name: Optical
+type: parsed
+protocol: nec
+address: 120
+command: 73
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec
+address: 120
+command: 41
+#
+name: Info
+type: parsed
+protocol: nec
+address: 120
+command: 78
+#
+name: CLEAR_VOICE
+type: parsed
+protocol: nec
+address: 120
+command: 92
+#
+name: 3D_SURR
+type: parsed
+protocol: nec
+address: 120
+command: 201
+#
+name: Stereo
+type: parsed
+protocol: nec
+address: 120
+command: 80
+#
+name: standard
+type: parsed
+protocol: nec
+address: 126
+command: 241
+#
+name: movie
+type: parsed
+protocol: nec
+address: 120
+command: 217
+#
+name: GAME
+type: parsed
+protocol: nec
+address: 120
+command: 220
+#
+name: SUB_PLUS
+type: parsed
+protocol: nec
+address: 120
+command: 76
+#
+name: SUB_MINUS
+type: parsed
+protocol: nec
+address: 120
+command: 77
+#
+name: BASS_EXT
+type: parsed
+protocol: nec
+address: 120
+command: 139
+#
+name: dim
+type: parsed
+protocol: nec
+address: 120
+command: 186
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 120
+command: 156
+#
+name: VOL_PLUS
+type: parsed
+protocol: nec
+address: 120
+command: 30
+#
+name: VOL_MINUS
+type: parsed
+protocol: nec
+address: 120
+command: 31
+#

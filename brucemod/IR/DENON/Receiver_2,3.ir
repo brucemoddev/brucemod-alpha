@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: IPOD PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 1
+#
+name: IPOD VOLUME UP
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 2
+#
+name: IPOD VOLUME DOWN
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 3
+#
+name: IPOD SKIP PLUS
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 4
+#
+name: IPOD SKIP MINUS
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 5
+#
+name: IPOD STOP
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 8
+#
+name: IPOD PAUSE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 10
+#
+name: IPOD REPEAT
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 16
+#
+name: IPOD SHUFFLE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 17
+#
+name: IPOD SEARCH PLUS
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 21
+#
+name: IPOD SEARCH MINUS
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 22
+#
+name: IPOD TOP MENU
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 23
+#
+name: IPOD ENTER
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 24
+#
+name: IPOD CURSOR/ARROW UP
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 27
+#
+name: IPOD CURSOR/ARROW DO
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 28
+#
+name: IPOD CURSOR/ARROW LE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 29
+#
+name: IPOD CURSOR/ARROW RI
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 30
+#
+name: IPOD STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 31
+#
+name: IPOD PAGE SEARCH
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 34
+#
+name: IPOD RETURN
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 35
+#
+name: IPOD MODE TOGGLE BRO
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 45
+#
+name: IPOD MODE BROWSE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 45
+#
+name: IPOD MODE REMOTE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 47
+#
+name: IPOD SHUFFLE SONGS
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 64
+#
+name: IPOD SHUFFLE ALBUM
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 65
+#
+name: IPOD SHUFFLE OFF
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 66
+#
+name: IPOD REPEAT ONE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 67
+#
+name: IPOD REPEAT ALL
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 68
+#
+name: IPOD REPEAT OFF
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 69
+#
+name: POWER TOGGLE ON/OFF
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 71
+#
+name: TOGGLE FAVORITES/ALL
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 72
+#
+name: PAGE UP
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 73
+#
+name: PAGE DOWN
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 74
+#
+name: INTERNET RADIO DIREC
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 75
+#
+name: IPOD DIRECT
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 76
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 77
+#
+name: MEMORY
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 80
+#
+name: TV SIGNAL NTSC
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 81
+#
+name: TV SIGNAL PAL
+type: parsed
+protocol: Denon-K
+address: 2.3
+command: 82
+#

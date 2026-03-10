@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FORWARD >
+type: parsed
+protocol: nec1
+address: 7
+command: 0
+#
+name: BACK <
+type: parsed
+protocol: nec1
+address: 7
+command: 4
+#
+name: <PRESET>
+type: parsed
+protocol: nec1
+address: 7
+command: 10
+#
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 7
+command: 12
+#
+name: SEEK
+type: parsed
+protocol: nec1
+address: 7
+command: 13
+#
+name: <MANUAL>
+type: parsed
+protocol: nec1
+address: 7
+command: 14
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 7
+command: 68
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 7
+command: 69
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 7
+command: 70
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 7
+command: 71
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 7
+command: 72
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 7
+command: 73
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 7
+command: 74
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 7
+command: 75
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 7
+command: 76
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 7
+command: 77
+#
+name: ENTER FREQUENCY
+type: parsed
+protocol: nec1
+address: 7
+command: 78
+#
+name: RDS
+type: parsed
+protocol: nec1
+address: 7
+command: 79
+#
+name: MONO (TOGGLE)
+type: parsed
+protocol: nec1
+address: 7
+command: 80
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 7
+command: 81
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 7
+command: 92
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 7
+command: 95
+#

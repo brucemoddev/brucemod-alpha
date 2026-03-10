@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAL-SCAM/NTSC1/NTSC2
+type: parsed
+protocol: nec1
+address: 130.111
+command: 19
+#
+name: TRACKING +
+type: parsed
+protocol: nec1
+address: 130.111
+command: 23
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 130.111
+command: 24
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 130.111
+command: 25
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 130.111
+command: 26
+#
+name: FF/SRCH >>
+type: parsed
+protocol: nec1
+address: 130.111
+command: 27
+#
+name: REW/SRCH <<
+type: parsed
+protocol: nec1
+address: 130.111
+command: 28
+#
+name: PAUSE /><
+type: parsed
+protocol: nec1
+address: 130.111
+command: 29
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 130.111
+command: 30
+#
+name: TRACKING -
+type: parsed
+protocol: nec1
+address: 130.111
+command: 31
+#

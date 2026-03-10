@@ -1,0 +1,393 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 72
+#
+name: PHONO ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 73
+#
+name: CD ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 74
+#
+name: DVD ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 78
+#
+name: VDP ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 79
+#
+name: TV ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 82
+#
+name: DBS ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 83
+#
+name: VCR 1 ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 84
+#
+name: VCR2 ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 85
+#
+name: V AUX ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 87
+#
+name: TAPE ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 91
+#
+name: ZONE 3 VOL -
+type: parsed
+protocol: denon
+address: 2
+command: 101
+#
+name: ZONE 3 VOL +
+type: parsed
+protocol: denon
+address: 2
+command: 102
+#
+name: SURR PUREDIRECT
+type: parsed
+protocol: denon
+address: 2
+command: 106
+#
+name: SUR PUREDIRECT MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 106
+#
+name: ZONE 2
+type: parsed
+protocol: denon
+address: 2
+command: 121
+#
+name: POWER ON ZN 2
+type: parsed
+protocol: denon
+address: 2
+command: 123
+#
+name: POWER ON ZONE 2
+type: parsed
+protocol: denon
+address: 2
+command: 123
+#
+name: POWER OFF ZN 2
+type: parsed
+protocol: denon
+address: 2
+command: 124
+#
+name: POWER OFF ZONE 2
+type: parsed
+protocol: denon
+address: 2
+command: 124
+#
+name: POWER ON ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 125
+#
+name: POWER OFF ZONE 3
+type: parsed
+protocol: denon
+address: 2
+command: 126
+#
+name: PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 195
+#
+name: PHONO MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 195
+#
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: IPOD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: CD MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: TUNER MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: DBS
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: DBS MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: CABLE TV
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: TV
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: TV MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: USER 1
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: VDP
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: VDP MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: MUSIC SERVER
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: VIDEO AUX
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: V AUX MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: VCR 1
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: VCR 1 MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: VCR 2
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: VCR2 MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: TAPE 1
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: TAPE MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: VIDEO SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 216
+#
+name: RIGHT ARROW
+type: parsed
+protocol: denon
+address: 2
+command: 221
+#
+name: ON SCREEN
+type: parsed
+protocol: denon
+address: 2
+command: 223
+#
+name: OSD
+type: parsed
+protocol: denon
+address: 2
+command: 223
+#
+name: SELECT/ENTER
+type: parsed
+protocol: denon
+address: 2
+command: 224
+#
+name: POWER ON MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 225
+#
+name: POWER OFF MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 226
+#
+name: DVD
+type: parsed
+protocol: denon
+address: 2
+command: 227
+#
+name: DVD MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 227
+#
+name: SURR STANDARD
+type: parsed
+protocol: denon
+address: 2
+command: 228
+#
+name: SURR STD MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 228
+#
+name: SURR SIM MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 230
+#
+name: TEST
+type: parsed
+protocol: denon
+address: 2
+command: 234
+#
+name: SPEAKER
+type: parsed
+protocol: denon
+address: 2
+command: 237
+#
+name: MUTE
+type: parsed
+protocol: denon
+address: 2
+command: 240
+#
+name: VOLUME + MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: VOLUME +
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: VOLUME - MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#
+name: VOLUME -
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#

@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO 1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 128
+#
+name: AUDIO 2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 129
+#
+name: AUDIO 3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 130
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 131
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 132
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 133
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 3.240
+command: 134
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 3.240
+command: 135
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 3.240
+command: 136
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 3.240
+command: 137
+#
+name: ON/OFF
+type: parsed
+protocol: nec1
+address: 3.240
+command: 138
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 3.240
+command: 141
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 3.240
+command: 142
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 3.240
+command: 143
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 3.240
+command: 145
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 3.240
+command: 146
+#
+name: DIGITAL
+type: parsed
+protocol: nec1
+address: 3.240
+command: 147
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 3.240
+command: 149
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 3.240
+command: 150
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 3.240
+command: 151
+#
+name: AUDIO 1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 152
+#
+name: AUDIO 2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 153
+#
+name: AUDIO3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 154
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 155
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 156
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 157
+#
+name: FM/AM
+type: parsed
+protocol: nec1
+address: 3.240
+command: 158
+#
+name: MONO
+type: parsed
+protocol: nec1
+address: 3.240
+command: 159
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 3.240
+command: 192
+#
+name: TRIM
+type: parsed
+protocol: nec1
+address: 3.240
+command: 193
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 3.240
+command: 194
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 3.240
+command: 195
+#
+name: TUNE +
+type: parsed
+protocol: nec1
+address: 3.240
+command: 196
+#
+name: TUNE -
+type: parsed
+protocol: nec1
+address: 3.240
+command: 197
+#
+name: INPUT LEVEL +
+type: parsed
+protocol: nec1
+address: 3.240
+command: 198
+#
+name: INPUT LEVEL -
+type: parsed
+protocol: nec1
+address: 3.240
+command: 199
+#
+name: MANUAL
+type: parsed
+protocol: nec1
+address: 3.240
+command: 200
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 3.240
+command: 201
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 3.240
+command: 203
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 3.240
+command: 204
+#
+name: CAL
+type: parsed
+protocol: nec1
+address: 3.240
+command: 205
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 3.240
+command: 207
+#
+name: 5.1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 210
+#
+name: DYN
+type: parsed
+protocol: nec1
+address: 3.240
+command: 211
+#
+name: TONE
+type: parsed
+protocol: nec1
+address: 3.240
+command: 212
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 3.240
+command: 214
+#
+name: RE-EQ
+type: parsed
+protocol: nec1
+address: 3.240
+command: 215
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 3.240
+command: 216
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 3.240
+command: 217
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 3.240
+command: 218
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 3.240
+command: 219
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 3.240
+command: 220
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 3.240
+command: 221
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 3.240
+command: 222
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 3.240
+command: 223
+#

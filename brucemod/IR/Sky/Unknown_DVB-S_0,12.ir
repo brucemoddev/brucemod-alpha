@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 12
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 32
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 33
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 36
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 40
+#
+name: KEY_TEXT
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 60
+#
+name: FREV
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 61
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 62
+#
+name: KEY_STOP
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 63
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 64
+#
+name: KEY_UP
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 91
+#
+name: KEY_SELECT
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 92
+#
+name: KEY_RED
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 109
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 110
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 111
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 112
+#
+name: BOX_OFFICE
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 125
+#
+name: SERVICES
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 126
+#
+name: SKY
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 128
+#
+name: KEY_HELP
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 129
+#
+name: BACK_UP
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 131
+#
+name: KEY_TV
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 132
+#
+name: KEY_INFO
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 203
+#
+name: TV_GUIDE
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 204
+#
+name: INTERACTIVE
+type: parsed
+protocol: rc6_6_20
+address: 0.12
+command: 245
+#

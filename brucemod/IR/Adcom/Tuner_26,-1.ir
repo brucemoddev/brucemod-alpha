@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 26
+command: 128
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 26
+command: 130
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 26
+command: 132
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 26
+command: 133
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 26
+command: 134
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 26
+command: 135
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 26
+command: 136
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 26
+command: 137
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 26
+command: 138
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 26
+command: 139
+#
+name: TUNING >
+type: parsed
+protocol: nec1
+address: 26
+command: 140
+#
+name: TUNING <
+type: parsed
+protocol: nec1
+address: 26
+command: 141
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 26
+command: 142
+#
+name: FM/AM
+type: parsed
+protocol: nec1
+address: 26
+command: 143
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 26
+command: 144
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 26
+command: 145
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 26
+command: 146
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 26
+command: 147
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 26
+command: 148
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 26
+command: 149
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 26
+command: 150
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 26
+command: 151
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 26
+command: 152
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 26
+command: 154
+#
+name: MASTER VOL V
+type: parsed
+protocol: nec1
+address: 26
+command: 209
+#
+name: MASTER VOL ^
+type: parsed
+protocol: nec1
+address: 26
+command: 213
+#

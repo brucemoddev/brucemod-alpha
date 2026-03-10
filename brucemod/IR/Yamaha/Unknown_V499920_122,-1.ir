@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: tape_play
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: tape_bwd
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: tape_fwd
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: tape_stop
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: deck_a/b
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: tape_dir_a
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: cd_play
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: cd_pause/stop
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: cd_fwd
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: cd_bwd
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: cd_searc_fwd
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: cd_search_bwd
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: tuner_preset+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: tuner_preset-
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: tuner_abcde
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: phono
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: cd/dvd
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: md
+type: parsed
+protocol: nec
+address: 122
+command: 25
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: tape_dir_b
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: cd_disc_skip
+type: parsed
+protocol: nec
+address: 122
+command: 79
+#

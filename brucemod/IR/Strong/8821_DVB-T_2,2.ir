@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec
+address: 2.2
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec
+address: 2.2
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec
+address: 2.2
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec
+address: 2.2
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec
+address: 2.2
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec
+address: 2.2
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec
+address: 2.2
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec
+address: 2.2
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec
+address: 2.2
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec
+address: 2.2
+command: 9
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 2.2
+command: 10
+#
+name: UP
+type: parsed
+protocol: nec
+address: 2.2
+command: 11
+#
+name: MAIL
+type: parsed
+protocol: nec
+address: 2.2
+command: 12
+#
+name: OK
+type: parsed
+protocol: nec
+address: 2.2
+command: 13
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 2.2
+command: 14
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 2.2
+command: 15
+#
+name: RIGHT
+type: parsed
+protocol: nec
+address: 2.2
+command: 16
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 2.2
+command: 17
+#
+name: FF
+type: parsed
+protocol: nec
+address: 2.2
+command: 18
+#
+name: NEXT
+type: parsed
+protocol: nec
+address: 2.2
+command: 19
+#
+name: BACK
+type: parsed
+protocol: nec
+address: 2.2
+command: 20
+#
+name: CH+
+type: parsed
+protocol: nec
+address: 2.2
+command: 21
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 2.2
+command: 22
+#
+name: CH-
+type: parsed
+protocol: nec
+address: 2.2
+command: 24
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 2.2
+command: 25
+#
+name: FAV
+type: parsed
+protocol: nec
+address: 2.2
+command: 26
+#
+name: LIST
+type: parsed
+protocol: nec
+address: 2.2
+command: 27
+#
+name: EPG
+type: parsed
+protocol: nec
+address: 2.2
+command: 64
+#
+name: VOL+
+type: parsed
+protocol: nec
+address: 2.2
+command: 65
+#
+name: VOL-
+type: parsed
+protocol: nec
+address: 2.2
+command: 66
+#
+name: TTX
+type: parsed
+protocol: nec
+address: 2.2
+command: 67
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 2.2
+command: 68
+#
+name: TV
+type: parsed
+protocol: nec
+address: 2.2
+command: 69
+#
+name: HOME
+type: parsed
+protocol: nec
+address: 2.2
+command: 70
+#
+name: REW
+type: parsed
+protocol: nec
+address: 2.2
+command: 72
+#
+name: PREV
+type: parsed
+protocol: nec
+address: 2.2
+command: 76
+#
+name: REC
+type: parsed
+protocol: nec
+address: 2.2
+command: 80
+#
+name: P+
+type: parsed
+protocol: nec
+address: 2.2
+command: 81
+#
+name: P-
+type: parsed
+protocol: nec
+address: 2.2
+command: 82
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 2.2
+command: 84
+#
+name: OPT
+type: parsed
+protocol: nec
+address: 2.2
+command: 85
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 2.2
+command: 88
+#
+name: RED
+type: parsed
+protocol: nec
+address: 2.2
+command: 97
+#
+name: GREEN
+type: parsed
+protocol: nec
+address: 2.2
+command: 98
+#
+name: YELLOW
+type: parsed
+protocol: nec
+address: 2.2
+command: 99
+#
+name: BLUE
+type: parsed
+protocol: nec
+address: 2.2
+command: 100
+#
+name: SUB
+type: parsed
+protocol: nec
+address: 2.2
+command: 101
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 2.2
+command: 103
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 2.2
+command: 104
+#

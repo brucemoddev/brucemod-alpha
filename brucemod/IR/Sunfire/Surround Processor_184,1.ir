@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 184.1
+command: 6
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 184.1
+command: 7
+#
+name: -
+type: parsed
+protocol: nec1
+address: 184.1
+command: 84
+#
+name: +
+type: parsed
+protocol: nec2
+address: 184.1
+command: 85
+#

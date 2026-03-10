@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 1
+command: 20
+#
+name: pdown
+type: parsed
+protocol: nec
+address: 1
+command: 21
+#
+name: pup
+type: parsed
+protocol: nec
+address: 1
+command: 22
+#
+name: aup
+type: parsed
+protocol: nec
+address: 1
+command: 24
+#
+name: KEY_EPG
+type: parsed
+protocol: nec
+address: 1
+command: 26
+#
+name: nul
+type: parsed
+protocol: nec
+address: 1
+command: 27
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 1
+command: 28
+#
+name: vdown
+type: parsed
+protocol: nec
+address: 1
+command: 29
+#
+name: vup
+type: parsed
+protocol: nec
+address: 1
+command: 30
+#
+name: aleft
+type: parsed
+protocol: nec
+address: 1
+command: 65
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 1
+command: 66
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 1
+command: 69
+#
+name: adown
+type: parsed
+protocol: nec
+address: 1
+command: 70
+#
+name: aright
+type: parsed
+protocol: nec
+address: 1
+command: 73
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 1
+command: 74
+#
+name: zeven
+type: parsed
+protocol: nec
+address: 1
+command: 84
+#
+name: vier
+type: parsed
+protocol: nec
+address: 1
+command: 85
+#
+name: een
+type: parsed
+protocol: nec
+address: 1
+command: 86
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 1
+command: 87
+#
+name: vijf
+type: parsed
+protocol: nec
+address: 1
+command: 89
+#
+name: twee
+type: parsed
+protocol: nec
+address: 1
+command: 90
+#
+name: zes
+type: parsed
+protocol: nec
+address: 1
+command: 93
+#
+name: drie
+type: parsed
+protocol: nec
+address: 1
+command: 94
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 1
+command: 95
+#

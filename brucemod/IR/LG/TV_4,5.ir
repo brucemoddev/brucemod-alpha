@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4.0
+command: 8
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4.0
+command: 9
+#
+name: VOL +
+type: parsed
+protocol: nec
+address: 4.0
+command: 2
+#
+name: VOL -
+type: parsed
+protocol: nec
+address: 4.0
+command: 3
+#
+name: ch+
+type: parsed
+protocol: nec
+address: 4.0
+command: 0
+#
+name: ch-
+type: parsed
+protocol: nec
+address: 4.0
+command: 1
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4.0
+command: 40
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 64
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4.0
+command: 65
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4.0
+command: 7
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4.0
+command: 6
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4.0
+command: 68
+#
+name: source
+type: parsed
+protocol: nec
+address: 4.0
+command: 11
+#
+name: SETTINGS
+type: parsed
+protocol: nec
+address: 4.0
+command: 67
+#
+name: Pause
+type: parsed
+protocol: nec
+address: 4.0
+command: 186
+#
+name: Play
+type: parsed
+protocol: nec
+address: 4.0
+command: 176
+#
+name: home
+type: parsed
+protocol: nec
+address: 4.0
+command: 124
+#

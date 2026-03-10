@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RR
+type: parsed
+protocol: mce
+address: 1.22
+command: 32
+#

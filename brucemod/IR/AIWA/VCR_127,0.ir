@@ -1,0 +1,399 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 9
+#
+name: 0
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 10
+#
+name: CH
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 12
+#
+name: TV/VCR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 13
+#
+name: INPUT
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 14
+#
+name: DISPLAY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 16
+#
+name: COUNTER DISPLAY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 16
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 17
+#
+name: F.FWD >> / >>
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 17
+#
+name: REWIND <<
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 18
+#
+name: REW << / <<
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 18
+#
+name: RECORD / OTR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 20
+#
+name: -REC/QTR-
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 20
+#
+name: PLAY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 21
+#
+name: PLAY >
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 21
+#
+name: PAUSE/STILL
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 23
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 23
+#
+name: STOP
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 26
+#
+name: STOP []
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 26
+#
+name: 100
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 27
+#
+name: T-REC
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 30
+#
+name: CLEAR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 31
+#
+name: CANCEL
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 31
+#
+name: CHANNEL +
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 64
+#
+name: CHANNEL UP ^
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 64
+#
+name: CHANNEL -
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 65
+#
+name: CHANNEL DOWN V
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 65
+#
+name: ZERO RETURN
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 69
+#
+name: TRACKING +
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 70
+#
+name: TRACKING -
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 71
+#
+name: EJECT
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 72
+#
+name: RESET
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 76
+#
+name: COUNTER RESET
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 76
+#
+name: INDEX SEARCH
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 77
+#
+name: T. SPEED
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 80
+#
+name: TAPE SPEED
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 80
+#
+name: COUNTER MEMORY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 81
+#
+name: COUNTER CLOCK
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 86
+#
+name: A-TR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 92
+#
+name: MENU
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 129
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 131
+#
+name: CURSOR >
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 131
+#
+name: CURSOR LEFT
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 132
+#
+name: CURSOR <
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 132
+#
+name: SEARCH/INDEX >>
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 133
+#
+name: VARIABLE SEARCH >>
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 133
+#
+name: SEARCH/INDEX <<
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 134
+#
+name: VARIABLE SEARCH <<
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 134
+#
+name: INDEX MARK
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 135
+#
+name: INDEX ERASE
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 136
+#
+name: CURSOR UP
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 141
+#
+name: CURSOR ^
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 141
+#
+name: CURSOR DOWN
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 142
+#
+name: CURSOR V
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 142
+#
+name: SUMMER TIME
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 144
+#
+name: OK
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 159
+#
+name: FREEZE
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 193
+#

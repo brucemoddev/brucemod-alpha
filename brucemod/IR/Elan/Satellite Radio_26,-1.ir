@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: scatl_6
+address: 26
+command: 6
+#
+name: XM1
+type: parsed
+protocol: scatl_6
+address: 26
+command: 8
+#
+name: XM2
+type: parsed
+protocol: scatl_6
+address: 26
+command: 9
+#
+name: XM3
+type: parsed
+protocol: scatl_6
+address: 26
+command: 10
+#
+name: POWER ON
+type: parsed
+protocol: scatl_6
+address: 26
+command: 14
+#
+name: PRESET
+type: parsed
+protocol: scatl_6
+address: 26
+command: 15
+#
+name: 1
+type: parsed
+protocol: scatl_6
+address: 26
+command: 16
+#
+name: 2
+type: parsed
+protocol: scatl_6
+address: 26
+command: 17
+#
+name: 3
+type: parsed
+protocol: scatl_6
+address: 26
+command: 18
+#
+name: 4
+type: parsed
+protocol: scatl_6
+address: 26
+command: 19
+#
+name: 5
+type: parsed
+protocol: scatl_6
+address: 26
+command: 20
+#
+name: 6
+type: parsed
+protocol: scatl_6
+address: 26
+command: 21
+#
+name: 7
+type: parsed
+protocol: scatl_6
+address: 26
+command: 22
+#
+name: 8
+type: parsed
+protocol: scatl_6
+address: 26
+command: 23
+#
+name: 9
+type: parsed
+protocol: scatl_6
+address: 26
+command: 24
+#
+name: 0
+type: parsed
+protocol: scatl_6
+address: 26
+command: 25
+#
+name: CURSOR UP
+type: parsed
+protocol: scatl_6
+address: 26
+command: 29
+#
+name: CURSOR DOWN
+type: parsed
+protocol: scatl_6
+address: 26
+command: 30
+#
+name: CURSOR LEFT
+type: parsed
+protocol: scatl_6
+address: 26
+command: 33
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: scatl_6
+address: 26
+command: 34
+#
+name: SELECT
+type: parsed
+protocol: scatl_6
+address: 26
+command: 35
+#
+name: DIR
+type: parsed
+protocol: scatl_6
+address: 26
+command: 38
+#

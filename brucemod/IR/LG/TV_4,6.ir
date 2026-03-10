@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec1
+address: 1.1
+command: 10
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 1.1
+command: 28
+#

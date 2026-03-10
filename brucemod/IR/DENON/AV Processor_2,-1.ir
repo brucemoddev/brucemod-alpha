@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SURR PUREDIRECT
+type: parsed
+protocol: denon
+address: 2
+command: 106
+#
+name: ZONE 2
+type: parsed
+protocol: denon
+address: 2
+command: 121
+#
+name: POWER ON ZN 2
+type: parsed
+protocol: denon
+address: 2
+command: 123
+#
+name: POWER OFF ZN 2
+type: parsed
+protocol: denon
+address: 2
+command: 124
+#
+name: PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 195
+#
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: IPOD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: DBS
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: CABLE TV
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: TV
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: VDP
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: MUSIC SERVER
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: VIDEO AUX
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: VCR 1
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: VCR 2
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: TAPE 1
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: RIGHT ARROW
+type: parsed
+protocol: denon
+address: 2
+command: 221
+#
+name: ON SCREEN
+type: parsed
+protocol: denon
+address: 2
+command: 223
+#
+name: SELECT/ENTER
+type: parsed
+protocol: denon
+address: 2
+command: 224
+#
+name: POWER ON MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 225
+#
+name: POWER OFF MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 226
+#
+name: DVD
+type: parsed
+protocol: denon
+address: 2
+command: 227
+#
+name: SURR STANDARD
+type: parsed
+protocol: denon
+address: 2
+command: 228
+#
+name: MUTE
+type: parsed
+protocol: denon
+address: 2
+command: 240
+#
+name: VOLUME + MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: VOLUME - MAIN
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#

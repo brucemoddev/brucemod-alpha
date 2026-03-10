@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RECORDER 2 (MD)
+type: parsed
+protocol: rc5
+address: 23
+command: 63
+#

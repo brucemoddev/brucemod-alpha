@@ -1,0 +1,453 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 32
+command: 0
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 32
+command: 0
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 32
+command: 1
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 32
+command: 1
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 32
+command: 2
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 32
+command: 2
+#
+name: DUAL LAMPS
+type: parsed
+protocol: nec1
+address: 32
+command: 3
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: nec1
+address: 32
+command: 3
+#
+name: LAMP 1
+type: parsed
+protocol: nec1
+address: 32
+command: 4
+#
+name: CONTRAST +
+type: parsed
+protocol: nec1
+address: 32
+command: 4
+#
+name: LAMP 2
+type: parsed
+protocol: nec1
+address: 32
+command: 5
+#
+name: COLOR +
+type: parsed
+protocol: nec1
+address: 32
+command: 5
+#
+name: COLOR TEMP UNCORRECT
+type: parsed
+protocol: nec1
+address: 32
+command: 6
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 32
+command: 6
+#
+name: BRIGHT +
+type: parsed
+protocol: nec1
+address: 32
+command: 7
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: nec1
+address: 32
+command: 7
+#
+name: CONTRAST +
+type: parsed
+protocol: nec1
+address: 32
+command: 8
+#
+name: CONTRAST -
+type: parsed
+protocol: nec1
+address: 32
+command: 8
+#
+name: COLOR +
+type: parsed
+protocol: nec1
+address: 32
+command: 9
+#
+name: COLOR -
+type: parsed
+protocol: nec1
+address: 32
+command: 9
+#
+name: COLOR TEMP +
+type: parsed
+protocol: nec1
+address: 32
+command: 10
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 32
+command: 10
+#
+name: BRIGHT -
+type: parsed
+protocol: nec1
+address: 32
+command: 11
+#
+name: VGA
+type: parsed
+protocol: nec1
+address: 32
+command: 11
+#
+name: CONTRAST -
+type: parsed
+protocol: nec1
+address: 32
+command: 12
+#
+name: DVI
+type: parsed
+protocol: nec1
+address: 32
+command: 12
+#
+name: COLOR -
+type: parsed
+protocol: nec1
+address: 32
+command: 13
+#
+name: COMPOSITE
+type: parsed
+protocol: nec1
+address: 32
+command: 13
+#
+name: COLOR TEMP -
+type: parsed
+protocol: nec1
+address: 32
+command: 14
+#
+name: AV-MUTE
+type: parsed
+protocol: nec1
+address: 32
+command: 14
+#
+name: SHUTTER
+type: parsed
+protocol: nec1
+address: 32
+command: 15
+#
+name: COMPONENT
+type: parsed
+protocol: nec1
+address: 32
+command: 15
+#
+name: ORIENT LEFT
+type: parsed
+protocol: nec1
+address: 32
+command: 16
+#
+name: S-VIDEO
+type: parsed
+protocol: nec1
+address: 32
+command: 16
+#
+name: ORIENT RIGHT
+type: parsed
+protocol: nec1
+address: 32
+command: 17
+#
+name: STILL
+type: parsed
+protocol: nec1
+address: 32
+command: 17
+#
+name: COLOR TEMP D65
+type: parsed
+protocol: nec1
+address: 32
+command: 18
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 32
+command: 18
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 32
+command: 19
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 32
+command: 19
+#
+name: FOCUS
+type: parsed
+protocol: nec1
+address: 32
+command: 20
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 32
+command: 20
+#
+name: IRIS
+type: parsed
+protocol: nec1
+address: 32
+command: 21
+#
+name: LEFT KEY
+type: parsed
+protocol: nec1
+address: 32
+command: 21
+#
+name: SHIFT
+type: parsed
+protocol: nec1
+address: 32
+command: 22
+#
+name: RIGHT KEY
+type: parsed
+protocol: nec1
+address: 32
+command: 22
+#
+name: GAMMA -
+type: parsed
+protocol: nec1
+address: 32
+command: 23
+#
+name: GAMMA +
+type: parsed
+protocol: nec1
+address: 32
+command: 24
+#
+name: STAR(*)
+type: parsed
+protocol: nec1
+address: 32
+command: 25
+#
+name: * (STAR)
+type: parsed
+protocol: nec1
+address: 32
+command: 25
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 32
+command: 26
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 32
+command: 27
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 32
+command: 28
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 32
+command: 29
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 32
+command: 30
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 32
+command: 31
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 32
+command: 32
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 32
+command: 33
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 32
+command: 34
+#
+name: STORE
+type: parsed
+protocol: nec1
+address: 32
+command: 35
+#
+name: MEMORY
+type: parsed
+protocol: nec2
+address: 32
+command: 35
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 32
+command: 36
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 32
+command: 37
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 32
+command: 38
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 32
+command: 38
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 32
+command: 39
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 32
+command: 39
+#
+name: CURSOR ENTER/LCD
+type: parsed
+protocol: nec1
+address: 32
+command: 40
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 32
+command: 40
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 32
+command: 41
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 32
+command: 41
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 32
+command: 42
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 32
+command: 42
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 32
+command: 128
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 32
+command: 129
+#

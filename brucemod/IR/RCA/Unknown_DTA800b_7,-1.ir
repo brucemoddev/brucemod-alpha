@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MENU
+type: parsed
+protocol: rca_38
+address: 7
+command: 8
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rca_38
+address: 7
+command: 44
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rca_38
+address: 7
+command: 45
+#
+name: KEY_0
+type: parsed
+protocol: rca_38
+address: 7
+command: 48
+#
+name: KEY_1
+type: parsed
+protocol: rca_38
+address: 7
+command: 49
+#
+name: KEY_2
+type: parsed
+protocol: rca_38
+address: 7
+command: 50
+#
+name: KEY_3
+type: parsed
+protocol: rca_38
+address: 7
+command: 51
+#
+name: KEY_4
+type: parsed
+protocol: rca_38
+address: 7
+command: 52
+#
+name: KEY_5
+type: parsed
+protocol: rca_38
+address: 7
+command: 53
+#
+name: KEY_6
+type: parsed
+protocol: rca_38
+address: 7
+command: 54
+#
+name: KEY_7
+type: parsed
+protocol: rca_38
+address: 7
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: rca_38
+address: 7
+command: 56
+#
+name: KEY_9
+type: parsed
+protocol: rca_38
+address: 7
+command: 57
+#
+name: KEY_INFO
+type: parsed
+protocol: rca_38
+address: 7
+command: 60
+#
+name: KEY_LEFT
+type: parsed
+protocol: rca_38
+address: 7
+command: 86
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rca_38
+address: 7
+command: 87
+#
+name: KEY_DOWN
+type: parsed
+protocol: rca_38
+address: 7
+command: 88
+#
+name: KEY_UP
+type: parsed
+protocol: rca_38
+address: 7
+command: 89
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: rca_38
+address: 7
+command: 97
+#
+name: KEY_OK
+type: parsed
+protocol: rca_38
+address: 7
+command: 244
+#

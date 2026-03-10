@@ -1,0 +1,441 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MAIN/SAP
+type: parsed
+protocol: jvc
+address: 3
+command: 0
+#
+name: SLEEP/TIMER
+type: parsed
+protocol: jvc
+address: 3
+command: 3
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 3
+command: 4
+#
+name: RETURN
+type: parsed
+protocol: jvc
+address: 3
+command: 5
+#
+name: RETURN+
+type: parsed
+protocol: jvc
+address: 3
+command: 5
+#
+name: ANT/CABLE
+type: parsed
+protocol: jvc
+address: 3
+command: 11
+#
+name: AV STATUS/RESET
+type: parsed
+protocol: jvc
+address: 3
+command: 13
+#
+name: VIDEO STATUS
+type: parsed
+protocol: jvc
+address: 3
+command: 13
+#
+name: THEATER/AV STATUS
+type: parsed
+protocol: jvc
+address: 3
+command: 13
+#
+name: CLOSED CAPTION
+type: parsed
+protocol: jvc
+address: 3
+command: 14
+#
+name: TV/VIDEO
+type: parsed
+protocol: jvc
+address: 3
+command: 19
+#
+name: TV TV/VIDEO
+type: parsed
+protocol: jvc
+address: 3
+command: 19
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: TV POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: TV CH/HYPER SCAN-
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: TV CHANNEL -
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: TV CH/HYPER SCAN+
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: TV CHANNEL +
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: MUTE
+type: parsed
+protocol: jvc
+address: 3
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: VOLUME+
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: VOLUME-
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 3
+command: 32
+#
+name: TV 0/AUX
+type: parsed
+protocol: jvc
+address: 3
+command: 32
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 3
+command: 33
+#
+name: TV 1
+type: parsed
+protocol: jvc
+address: 3
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 3
+command: 34
+#
+name: TV 2
+type: parsed
+protocol: jvc
+address: 3
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 3
+command: 35
+#
+name: TV 3
+type: parsed
+protocol: jvc
+address: 3
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 3
+command: 36
+#
+name: TV 4
+type: parsed
+protocol: jvc
+address: 3
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 3
+command: 37
+#
+name: TV 5
+type: parsed
+protocol: jvc
+address: 3
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 3
+command: 38
+#
+name: TV 6
+type: parsed
+protocol: jvc
+address: 3
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 3
+command: 39
+#
+name: TV 7
+type: parsed
+protocol: jvc
+address: 3
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 3
+command: 40
+#
+name: TV 8/DAILY (M-F)
+type: parsed
+protocol: jvc
+address: 3
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 3
+command: 41
+#
+name: TV 9/WEEKLY
+type: parsed
+protocol: jvc
+address: 3
+command: 41
+#
+name: RECALL CHOICE
+type: parsed
+protocol: jvc
+address: 3
+command: 60
+#
+name: HYPER SURROUND
+type: parsed
+protocol: jvc
+address: 3
+command: 66
+#
+name: 
+type: parsed
+protocol: jvc
+address: 3
+command: 76
+#
+name: 
+type: parsed
+protocol: jvc
+address: 3
+command: 77
+#
+name: FUNCTION +
+type: parsed
+protocol: jvc
+address: 3
+command: 90
+#
+name: MENU >
+type: parsed
+protocol: jvc
+address: 3
+command: 90
+#
+name: FUNCTION -
+type: parsed
+protocol: jvc
+address: 3
+command: 91
+#
+name: MENU <
+type: parsed
+protocol: jvc
+address: 3
+command: 91
+#
+name: 100+
+type: parsed
+protocol: jvc
+address: 3
+command: 119
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 3
+command: 122
+#
+name: FUNCTION FORWARD V
+type: parsed
+protocol: jvc
+address: 3
+command: 123
+#
+name: MENU V
+type: parsed
+protocol: jvc
+address: 3
+command: 123
+#
+name: FUNCTION V
+type: parsed
+protocol: jvc
+address: 3
+command: 123
+#
+name: FUNCTION BACK ^
+type: parsed
+protocol: jvc
+address: 3
+command: 124
+#
+name: MENU ^
+type: parsed
+protocol: jvc
+address: 3
+command: 124
+#
+name: FUNCTION ^
+type: parsed
+protocol: jvc
+address: 3
+command: 124
+#
+name: PIP FREEZE
+type: parsed
+protocol: jvc
+address: 3
+command: 128
+#
+name: PIP ON/OFF
+type: parsed
+protocol: jvc
+address: 3
+command: 133
+#
+name: PIP MOVE
+type: parsed
+protocol: jvc
+address: 3
+command: 134
+#
+name: PIP POSITION
+type: parsed
+protocol: jvc
+address: 3
+command: 134
+#
+name: PIP SWAP
+type: parsed
+protocol: jvc
+address: 3
+command: 137
+#
+name: PIP SOURCE
+type: parsed
+protocol: jvc
+address: 3
+command: 178
+#
+name: PIP CHANNEL +
+type: parsed
+protocol: jvc
+address: 3
+command: 190
+#
+name: PIP CHANNEL -
+type: parsed
+protocol: jvc
+address: 3
+command: 191
+#
+name: PIP SIZE
+type: parsed
+protocol: jvc
+address: 3
+command: 214
+#
+name: C1/C2
+type: parsed
+protocol: jvc
+address: 3
+command: 218
+#
+name: HELP
+type: parsed
+protocol: jvc
+address: 3
+command: 227
+#
+name: EXIT
+type: parsed
+protocol: jvc
+address: 3
+command: 230
+#

@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 34
+#
+name: VOLUME -
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 42
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 50
+#

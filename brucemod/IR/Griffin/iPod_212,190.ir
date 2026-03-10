@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 212.190
+command: 0
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 212.190
+command: 1
+#
+name: PREVIOUS TRACK
+type: parsed
+protocol: nec1
+address: 212.190
+command: 2
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 212.190
+command: 3
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 212.190
+command: 5
+#
+name: PAGE -
+type: parsed
+protocol: nec1
+address: 212.190
+command: 6
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 212.190
+command: 7
+#
+name: NEXT TRACK
+type: parsed
+protocol: nec1
+address: 212.190
+command: 8
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 212.190
+command: 9
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 212.190
+command: 10
+#
+name: CURSOR SELECT
+type: parsed
+protocol: nec1
+address: 212.190
+command: 11
+#
+name: PAGE +
+type: parsed
+protocol: nec1
+address: 212.190
+command: 12
+#
+name: SETTINGS
+type: parsed
+protocol: nec1
+address: 212.190
+command: 15
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 212.190
+command: 16
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 212.190
+command: 24
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 212.190
+command: 31
+#

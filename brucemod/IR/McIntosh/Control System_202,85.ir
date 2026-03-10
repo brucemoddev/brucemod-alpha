@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CDR
+type: parsed
+protocol: nec2
+address: 202.85
+command: 136
+#
+name: SERVER
+type: parsed
+protocol: nec2
+address: 202.85
+command: 137
+#
+name: MM
+type: parsed
+protocol: nec2
+address: 202.85
+command: 138
+#
+name: MC
+type: parsed
+protocol: nec2
+address: 202.85
+command: 141
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 202.85
+command: 144
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 202.85
+command: 146
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 202.85
+command: 151
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 202.85
+command: 194
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 202.85
+command: 195
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 202.85
+command: 198
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 202.85
+command: 203
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 202.85
+command: 223
+#

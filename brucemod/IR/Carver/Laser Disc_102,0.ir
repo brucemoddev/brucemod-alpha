@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 6
+#
+name: STOP
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 7
+#
+name: FF
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 28
+#
+name: REW
+type: parsed
+protocol: aiwa
+address: 102.0
+command: 29
+#

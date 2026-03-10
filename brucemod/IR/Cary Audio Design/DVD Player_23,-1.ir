@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: rc5
+address: 23
+command: 0
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: rc5
+address: 23
+command: 1
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 23
+command: 2
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 23
+command: 3
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 23
+command: 4
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 23
+command: 5
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 23
+command: 6
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 23
+command: 7
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 23
+command: 8
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 23
+command: 9
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 23
+command: 10
+#
+name: GOTO
+type: parsed
+protocol: rc5
+address: 23
+command: 11
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 23
+command: 12
+#
+name: SUB-TITLE
+type: parsed
+protocol: rc5
+address: 23
+command: 15
+#
+name: AUDIO
+type: parsed
+protocol: rc5
+address: 23
+command: 16
+#
+name: SET-UP
+type: parsed
+protocol: rc5
+address: 23
+command: 17
+#
+name: CURSER UP
+type: parsed
+protocol: rc5
+address: 23
+command: 18
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 23
+command: 19
+#
+name: CURSER LEFT
+type: parsed
+protocol: rc5
+address: 23
+command: 20
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 23
+command: 21
+#
+name: CURSER RIGHT
+type: parsed
+protocol: rc5
+address: 23
+command: 22
+#
+name: ON SCREEN
+type: parsed
+protocol: rc5
+address: 23
+command: 23
+#
+name: CURSER DOWN
+type: parsed
+protocol: rc5
+address: 23
+command: 24
+#
+name: TITLE
+type: parsed
+protocol: rc5
+address: 23
+command: 25
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 23
+command: 26
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 23
+command: 27
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 23
+command: 28
+#
+name: PREVIOUS
+type: parsed
+protocol: rc5
+address: 23
+command: 29
+#
+name: NEXT
+type: parsed
+protocol: rc5
+address: 23
+command: 30
+#
+name: REW
+type: parsed
+protocol: rc5
+address: 23
+command: 31
+#
+name: FF
+type: parsed
+protocol: rc5
+address: 23
+command: 32
+#
+name: ZOOM -
+type: parsed
+protocol: rc5
+address: 23
+command: 33
+#
+name: ZOOM +
+type: parsed
+protocol: rc5
+address: 23
+command: 34
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 23
+command: 35
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 23
+command: 36
+#

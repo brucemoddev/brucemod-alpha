@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: GI_cable
+address: 0
+command: 0
+#
+name: 
+type: parsed
+protocol: GI_cable
+address: 0
+command: 0
+#
+name: 1
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: ON DEMAND
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: PPV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: GI_cable
+address: 0
+command: 2
+#
+name: PPV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: GI_cable
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: GI_cable
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: GI_cable
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: GI_cable
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: GI_cable
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: GI_cable
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: GI_cable
+address: 0
+command: 9
+#
+name: 
+type: parsed
+protocol: GI_cable
+address: 0
+command: 9
+#
+name: CH UP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 11
+#
+name: CH DN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 12
+#
+name: ENTER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 16
+#
+name: OK/SELECT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: 
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: ENTER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: EXIT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 18
+#
+name: LAST
+type: parsed
+protocol: GI_cable
+address: 0
+command: 19
+#
+name: FAV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 21
+#
+name: MENU
+type: parsed
+protocol: GI_cable
+address: 0
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: GI_cable
+address: 0
+command: 27
+#
+name: STOP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 28
+#
+name: FF
+type: parsed
+protocol: GI_cable
+address: 0
+command: 29
+#
+name: RW
+type: parsed
+protocol: GI_cable
+address: 0
+command: 30
+#
+name: PAUSE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 31
+#
+name: GUIDE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 48
+#
+name: RECORD
+type: parsed
+protocol: GI_cable
+address: 0
+command: 49
+#
+name: HELP[
+type: parsed
+protocol: GI_cable
+address: 0
+command: 50
+#
+name: UP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 52
+#
+name: DN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 53
+#
+name: DOWN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 53
+#
+name: LEFT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 54
+#
+name: RIGHT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 55
+#
+name: PLAY
+type: parsed
+protocol: GI_cable
+address: 0
+command: 56
+#
+name: STOP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 57
+#
+name: PAGE UP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 58
+#
+name: PAGE DN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 59
+#
+name: SKIP 30 SECONDS
+type: parsed
+protocol: GI_cable
+address: 0
+command: 63
+#

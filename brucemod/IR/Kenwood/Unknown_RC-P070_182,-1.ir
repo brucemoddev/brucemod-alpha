@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 182
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 182
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 182
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 182
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 182
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 182
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 182
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 182
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 182
+command: 9
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 182
+command: 10
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 182
+command: 16
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 182
+command: 17
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 182
+command: 19
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 182
+command: 20
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 182
+command: 21
+#
+name: SKIP_BACK
+type: parsed
+protocol: nec
+address: 182
+command: 22
+#
+name: SKIP_FWD
+type: parsed
+protocol: nec
+address: 182
+command: 23
+#
+name: TIME_DISPLAY
+type: parsed
+protocol: nec
+address: 182
+command: 24
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 182
+command: 25
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 182
+command: 26
+#
+name: CHECK
+type: parsed
+protocol: nec
+address: 182
+command: 27
+#
+name: INDEX_BACK
+type: parsed
+protocol: nec
+address: 182
+command: 28
+#
+name: INDEX_FWD
+type: parsed
+protocol: nec
+address: 182
+command: 29
+#
+name: KEY_SPACE
+type: parsed
+protocol: nec
+address: 182
+command: 66
+#
+name: REPEAT_A-B
+type: parsed
+protocol: nec
+address: 182
+command: 67
+#
+name: TRACK
+type: parsed
+protocol: nec
+address: 182
+command: 68
+#
+name: PGM
+type: parsed
+protocol: nec
+address: 182
+command: 69
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 182
+command: 70
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 182
+command: 72
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 182
+command: 73
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 182
+command: 74
+#
+name: RANDOM
+type: parsed
+protocol: nec
+address: 182
+command: 79
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 182
+command: 128
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 182
+command: 129
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 182
+command: 130
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 182
+command: 131
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 182
+command: 132
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 182
+command: 133
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 182
+command: 134
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 182
+command: 135
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 182
+command: 136
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 182
+command: 137
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 182
+command: 138
+#
+name: DISPLAY_MODE
+type: parsed
+protocol: nec
+address: 182
+command: 140
+#
+name: PEAK_SEARCH
+type: parsed
+protocol: nec
+address: 182
+command: 141
+#
+name: DISC_FILE
+type: parsed
+protocol: nec
+address: 182
+command: 143
+#
+name: ERASE
+type: parsed
+protocol: nec
+address: 182
+command: 144
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 182
+command: 145
+#

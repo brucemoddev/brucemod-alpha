@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET
+type: parsed
+protocol: nec1
+address: 128
+command: 0
+#
+name: CAMERA ID
+type: parsed
+protocol: nec1
+address: 128
+command: 1
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 128
+command: 2
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 128
+command: 2
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128
+command: 4
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128
+command: 5
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128
+command: 7
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 128
+command: 7
+#
+name: RIGHT B
+type: parsed
+protocol: nec1
+address: 128
+command: 7
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128
+command: 8
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128
+command: 9
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128
+command: 12
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128
+command: 13
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128
+command: 16
+#
+name: NORMAL
+type: parsed
+protocol: nec1
+address: 128
+command: 21
+#
+name: CLOSE
+type: parsed
+protocol: nec1
+address: 128
+command: 22
+#
+name: AUTO FOCUS
+type: parsed
+protocol: nec1
+address: 128
+command: 25
+#
+name: FOCUS FAR
+type: parsed
+protocol: nec1
+address: 128
+command: 26
+#
+name: ZOOM TELE
+type: parsed
+protocol: nec1
+address: 128
+command: 29
+#
+name: ZOOM WIDE
+type: parsed
+protocol: nec1
+address: 128
+command: 30
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 128
+command: 65
+#
+name: DOWN B
+type: parsed
+protocol: nec1
+address: 128
+command: 65
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128
+command: 68
+#
+name: HOME
+type: parsed
+protocol: nec1
+address: 128
+command: 69
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 128
+command: 70
+#
+name: LEFT B
+type: parsed
+protocol: nec1
+address: 128
+command: 70
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128
+command: 72
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 128
+command: 73
+#
+name: UP B
+type: parsed
+protocol: nec1
+address: 128
+command: 73
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128
+command: 76
+#
+name: OPEN
+type: parsed
+protocol: nec1
+address: 128
+command: 84
+#
+name: FOCUS NEAR
+type: parsed
+protocol: nec1
+address: 128
+command: 88
+#

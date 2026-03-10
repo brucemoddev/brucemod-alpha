@@ -1,0 +1,987 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TRACK 1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: 1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: 1/&!?
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: TRACK 2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: 2/ABC
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: TRACK 3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: 3/DEF
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: TRACK 4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: 4/GHI
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: TRACK 5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: 5/JKL
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: TRACK 6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: 6/MNO
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: TRACK 7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: 7/PRS
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: TRACK 8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: 8/TUV
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: TRACK 9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: 9/WXY
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: ENTER
+type: parsed
+protocol: sony12
+address: 17
+command: 11
+#
+name: CHECK
+type: parsed
+protocol: sony12
+address: 17
+command: 13
+#
+name: CLEAR
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: CLEAR PROGRAM
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: CLEAR REPEAT
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: TRACK 17
+type: parsed
+protocol: sony12
+address: 17
+command: 16
+#
+name: 17
+type: parsed
+protocol: sony12
+address: 17
+command: 16
+#
+name: TRACK 18
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: 18
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: LINE OUT +
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: VOLUME - UP
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: LINE LEVEL OUT +
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: LINE VOL +
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: LINE OUT -
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: LINE LEVEL OUT -
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: LINE VOL -
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: POWER
+type: parsed
+protocol: sony12
+address: 17
+command: 21
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: sony12
+address: 17
+command: 22
+#
+name: TRAY
+type: parsed
+protocol: sony12
+address: 17
+command: 22
+#
+name: TRACK 19
+type: parsed
+protocol: sony12
+address: 17
+command: 23
+#
+name: 19
+type: parsed
+protocol: sony12
+address: 17
+command: 23
+#
+name: SORT
+type: parsed
+protocol: sony12
+address: 17
+command: 28
+#
+name: CONTINUE
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: CONTINUE PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: SINGLE
+type: parsed
+protocol: sony12
+address: 17
+command: 30
+#
+name: PROGRAM
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: PROGRAM PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: TRACK 10
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: 10
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: 0
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: 10/0
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: 10/0/QZ
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: TRACK 11
+type: parsed
+protocol: sony12
+address: 17
+command: 33
+#
+name: 11
+type: parsed
+protocol: sony12
+address: 17
+command: 33
+#
+name: TRACK 12
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: 12
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: TRACK 13
+type: parsed
+protocol: sony12
+address: 17
+command: 35
+#
+name: 13
+type: parsed
+protocol: sony12
+address: 17
+command: 35
+#
+name: TRACK 14
+type: parsed
+protocol: sony12
+address: 17
+command: 36
+#
+name: 14
+type: parsed
+protocol: sony12
+address: 17
+command: 36
+#
+name: TRACK 15
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: 15
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: TRACK 16
+type: parsed
+protocol: sony12
+address: 17
+command: 38
+#
+name: 16
+type: parsed
+protocol: sony12
+address: 17
+command: 38
+#
+name: +10
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: >10
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: >20
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: TIME
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: TIME/TEXT/SPACE
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: TIME/TEXT
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: TRACK 20
+type: parsed
+protocol: sony12
+address: 17
+command: 41
+#
+name: 20
+type: parsed
+protocol: sony12
+address: 17
+command: 41
+#
+name: REPEAT A-B
+type: parsed
+protocol: sony12
+address: 17
+command: 42
+#
+name: A - B
+type: parsed
+protocol: sony12
+address: 17
+command: 42
+#
+name: REPEAT
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: CLEAR REPEAT
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: << TRACK
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: AMS<<
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: SKIP <<
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: Z - TRACK ( - )
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: >> TRACK
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: AMS>>
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: SKIP >>
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: Z - TRACK ( + )
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: Z - PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: << SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: SEARCH <<
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: Z - FAST REWIND
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: << SCAN FAST
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: >> SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: SEARCH >>
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: Z - FAST FORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: >> SCAN FAST
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: SHUFFLE PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: INDEX <<
+type: parsed
+protocol: sony12
+address: 17
+command: 54
+#
+name: INDEX >>
+type: parsed
+protocol: sony12
+address: 17
+command: 55
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: Z - STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: Z - PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: SLOW <<
+type: parsed
+protocol: sony12
+address: 17
+command: 58
+#
+name: SLOW >>
+type: parsed
+protocol: sony12
+address: 17
+command: 59
+#
+name: INTRO SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 60
+#
+name: MUSIC SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 60
+#
+name: DISC -
+type: parsed
+protocol: sony12
+address: 17
+command: 61
+#
+name: DISK SKIP -
+type: parsed
+protocol: sony12
+address: 17
+command: 61
+#
+name: DISC SKIP -
+type: parsed
+protocol: sony12
+address: 17
+command: 61
+#
+name: DISC SKIP
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: DISC +
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: DISK SKIP +
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: DISC SKIP +
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: HIGH-LIGHT
+type: parsed
+protocol: sony12
+address: 17
+command: 63
+#
+name: EXTRA
+type: parsed
+protocol: sony12
+address: 17
+command: 63
+#
+name: DISC 1
+type: parsed
+protocol: sony12
+address: 17
+command: 64
+#
+name: DISC1
+type: parsed
+protocol: sony12
+address: 17
+command: 64
+#
+name: DISC 2
+type: parsed
+protocol: sony12
+address: 17
+command: 65
+#
+name: DISC2
+type: parsed
+protocol: sony12
+address: 17
+command: 65
+#
+name: DISC 3
+type: parsed
+protocol: sony12
+address: 17
+command: 66
+#
+name: DISC3
+type: parsed
+protocol: sony12
+address: 17
+command: 66
+#
+name: DISC 4
+type: parsed
+protocol: sony12
+address: 17
+command: 67
+#
+name: DISC4
+type: parsed
+protocol: sony12
+address: 17
+command: 67
+#
+name: DISC 5
+type: parsed
+protocol: sony12
+address: 17
+command: 68
+#
+name: DISC5
+type: parsed
+protocol: sony12
+address: 17
+command: 68
+#
+name: DISC 6
+type: parsed
+protocol: sony12
+address: 17
+command: 69
+#
+name: DISC 7
+type: parsed
+protocol: sony12
+address: 17
+command: 70
+#
+name: DISC 8
+type: parsed
+protocol: sony12
+address: 17
+command: 71
+#
+name: DISC 9
+type: parsed
+protocol: sony12
+address: 17
+command: 72
+#
+name: DISC 10
+type: parsed
+protocol: sony12
+address: 17
+command: 73
+#
+name: DISC/CAPS
+type: parsed
+protocol: sony12
+address: 17
+command: 74
+#
+name: DISC (CAPS)
+type: parsed
+protocol: sony12
+address: 17
+command: 74
+#
+name: DISC
+type: parsed
+protocol: sony12
+address: 17
+command: 74
+#
+name: TRACK (SPACE)
+type: parsed
+protocol: sony12
+address: 17
+command: 75
+#
+name: TRACK
+type: parsed
+protocol: sony12
+address: 17
+command: 75
+#
+name: GROUP (DELETE)
+type: parsed
+protocol: sony12
+address: 17
+command: 76
+#
+name: GROUP
+type: parsed
+protocol: sony12
+address: 17
+command: 76
+#
+name: PEAK
+type: parsed
+protocol: sony12
+address: 17
+command: 79
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 86
+#
+name: HIT LIST
+type: parsed
+protocol: sony12
+address: 17
+command: 92
+#
+name: SELECT
+type: parsed
+protocol: sony12
+address: 17
+command: 93
+#
+name: FLAT
+type: parsed
+protocol: sony12
+address: 17
+command: 94
+#
+name: FADER
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#
+name: FADER/DEL
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#
+name: MEMO INPUT
+type: parsed
+protocol: sony12
+address: 17
+command: 105
+#
+name: INPUT
+type: parsed
+protocol: sony12
+address: 17
+command: 105
+#
+name: MEMO SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 107
+#
+name: MEGA NO DELAY
+type: parsed
+protocol: sony12
+address: 17
+command: 110
+#
+name: MEGA CONTROL
+type: parsed
+protocol: sony12
+address: 17
+command: 111
+#
+name: PLAYER SELECT
+type: parsed
+protocol: sony12
+address: 17
+command: 111
+#
+name: MEGA X-FADE
+type: parsed
+protocol: sony12
+address: 17
+command: 113
+#
+name: CURSOR UP
+type: parsed
+protocol: sony12
+address: 17
+command: 121
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony12
+address: 17
+command: 122
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony12
+address: 17
+command: 123
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony12
+address: 17
+command: 124
+#
+name: CURSOR ENTER
+type: parsed
+protocol: sony12
+address: 17
+command: 125
+#

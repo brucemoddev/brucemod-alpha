@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: QUIT
+type: parsed
+protocol: zenith
+address: 6.0
+command: 1
+#
+name: - VERTICAL
+type: parsed
+protocol: zenith
+address: 6.0
+command: 3
+#
+name: SET-UP
+type: parsed
+protocol: zenith
+address: 6.0
+command: 9
+#
+name: LIN T-B / L-R
+type: parsed
+protocol: zenith
+address: 6.0
+command: 11
+#
+name: SIZE
+type: parsed
+protocol: zenith
+address: 6.0
+command: 15
+#
+name: RED
+type: parsed
+protocol: zenith
+address: 6.0
+command: 17
+#
+name: + VERTICAL
+type: parsed
+protocol: zenith
+address: 6.0
+command: 19
+#
+name: POWER
+type: parsed
+protocol: zenith
+address: 6.0
+command: 29
+#
+name: SKEW
+type: parsed
+protocol: zenith
+address: 6.0
+command: 35
+#
+name: PIN
+type: parsed
+protocol: zenith
+address: 6.0
+command: 43
+#
+name: S-ING / W-M
+type: parsed
+protocol: zenith
+address: 6.0
+command: 45
+#
+name: T/L KEY
+type: parsed
+protocol: zenith
+address: 6.0
+command: 47
+#
+name: T/L PIN
+type: parsed
+protocol: zenith
+address: 6.0
+command: 49
+#
+name: T/L S
+type: parsed
+protocol: zenith
+address: 6.0
+command: 51
+#

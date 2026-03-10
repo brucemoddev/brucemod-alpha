@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: LAST CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 80
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 80
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 80
+command: 25
+#

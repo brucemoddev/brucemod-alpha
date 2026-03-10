@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: YELLOW
+type: parsed
+protocol: nec
+address: 0.191
+command: 0
+#
+name: BLUE
+type: parsed
+protocol: nec
+address: 0.191
+command: 3
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 0.191
+command: 4
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 0.191
+command: 5
+#
+name: UP
+type: parsed
+protocol: nec
+address: 0.191
+command: 6
+#
+name: REPEAT
+type: parsed
+protocol: nec
+address: 0.191
+command: 7
+#
+name: PREV
+type: parsed
+protocol: nec
+address: 0.191
+command: 8
+#
+name: NEXT
+type: parsed
+protocol: nec
+address: 0.191
+command: 11
+#
+name: 9
+type: parsed
+protocol: nec
+address: 0.191
+command: 12
+#
+name: TTX
+type: parsed
+protocol: nec
+address: 0.191
+command: 13
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 0.191
+command: 14
+#
+name: 0
+type: parsed
+protocol: nec
+address: 0.191
+command: 15
+#
+name: 3
+type: parsed
+protocol: nec
+address: 0.191
+command: 16
+#
+name: SUBTITLE
+type: parsed
+protocol: nec
+address: 0.191
+command: 17
+#
+name: RECALL
+type: parsed
+protocol: nec
+address: 0.191
+command: 19
+#
+name: 6
+type: parsed
+protocol: nec
+address: 0.191
+command: 20
+#
+name: TVRADIO
+type: parsed
+protocol: nec
+address: 0.191
+command: 21
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 0.191
+command: 22
+#
+name: GOTO
+type: parsed
+protocol: nec
+address: 0.191
+command: 23
+#
+name: LIST
+type: parsed
+protocol: nec
+address: 0.191
+command: 24
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 0.191
+command: 25
+#
+name: OK
+type: parsed
+protocol: nec
+address: 0.191
+command: 26
+#
+name: RIGHT
+type: parsed
+protocol: nec
+address: 0.191
+command: 27
+#
+name: GREEN
+type: parsed
+protocol: nec
+address: 0.191
+command: 64
+#
+name: RED
+type: parsed
+protocol: nec
+address: 0.191
+command: 66
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 0.191
+command: 68
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 0.191
+command: 69
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 0.191
+command: 70
+#
+name: FF
+type: parsed
+protocol: nec
+address: 0.191
+command: 72
+#
+name: REW
+type: parsed
+protocol: nec
+address: 0.191
+command: 74
+#
+name: 8
+type: parsed
+protocol: nec
+address: 0.191
+command: 76
+#
+name: EPG
+type: parsed
+protocol: nec
+address: 0.191
+command: 77
+#
+name: 7
+type: parsed
+protocol: nec
+address: 0.191
+command: 78
+#
+name: 2
+type: parsed
+protocol: nec
+address: 0.191
+command: 80
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 0.191
+command: 81
+#
+name: 1
+type: parsed
+protocol: nec
+address: 0.191
+command: 82
+#
+name: 5
+type: parsed
+protocol: nec
+address: 0.191
+command: 84
+#
+name: FAV
+type: parsed
+protocol: nec
+address: 0.191
+command: 85
+#
+name: 4
+type: parsed
+protocol: nec
+address: 0.191
+command: 86
+#
+name: REC
+type: parsed
+protocol: nec
+address: 0.191
+command: 88
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 0.191
+command: 89
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 0.191
+command: 90
+#

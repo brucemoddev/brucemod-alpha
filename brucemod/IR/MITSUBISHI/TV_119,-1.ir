@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CABLE INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 26
+#
+name: CABLE INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 58
+#

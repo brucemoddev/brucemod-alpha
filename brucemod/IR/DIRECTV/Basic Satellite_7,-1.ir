@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CLEAR
+type: parsed
+protocol: rca
+address: 7
+command: 6
+#
+name: MENU
+type: parsed
+protocol: rca
+address: 7
+command: 8
+#
+name: GUIDE
+type: parsed
+protocol: rca
+address: 7
+command: 26
+#
+name: GO BACK
+type: parsed
+protocol: rca
+address: 7
+command: 39
+#
+name: POWER
+type: parsed
+protocol: rca
+address: 7
+command: 42
+#
+name: CHANNEL -
+type: parsed
+protocol: rca
+address: 7
+command: 44
+#
+name: CHANNEL +
+type: parsed
+protocol: rca
+address: 7
+command: 45
+#
+name: 0
+type: parsed
+protocol: rca
+address: 7
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca
+address: 7
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 7
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca
+address: 7
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 7
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 7
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca
+address: 7
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca
+address: 7
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca
+address: 7
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca
+address: 7
+command: 57
+#
+name: INFO
+type: parsed
+protocol: rca
+address: 7
+command: 60
+#
+name: SKIP
+type: parsed
+protocol: rca
+address: 7
+command: 83
+#
+name: ARROW LEFT
+type: parsed
+protocol: rca
+address: 7
+command: 86
+#
+name: ARROW RIGHT
+type: parsed
+protocol: rca
+address: 7
+command: 87
+#
+name: ARROW DOWN
+type: parsed
+protocol: rca
+address: 7
+command: 88
+#
+name: ARROW UP
+type: parsed
+protocol: rca
+address: 7
+command: 89
+#
+name: FETCH
+type: parsed
+protocol: rca
+address: 7
+command: 147
+#
+name: ARROW OK
+type: parsed
+protocol: rca
+address: 7
+command: 244
+#

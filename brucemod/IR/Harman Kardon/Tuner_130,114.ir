@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: # (P-SCAN)
+type: parsed
+protocol: nec2
+address: 130.114
+command: 10
+#
+name: AC-3
+type: parsed
+protocol: nec2
+address: 130.114
+command: 80
+#
+name: RF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 85
+#
+name: OPT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 86
+#
+name: COAX
+type: parsed
+protocol: nec2
+address: 130.114
+command: 87
+#
+name: OSD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 92
+#
+name: CH SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 93
+#
+name: SELECT ^
+type: parsed
+protocol: nec2
+address: 130.114
+command: 128
+#
+name: SELECT V
+type: parsed
+protocol: nec2
+address: 130.114
+command: 129
+#
+name: SELECT >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 130
+#
+name: SELECT <
+type: parsed
+protocol: nec2
+address: 130.114
+command: 131
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 132
+#
+name: DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 138
+#
+name: TEST TONE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 140
+#
+name: SPEAKER ^
+type: parsed
+protocol: nec2
+address: 130.114
+command: 142
+#
+name: SPEAKER V
+type: parsed
+protocol: nec2
+address: 130.114
+command: 143
+#
+name: HALL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 144
+#
+name: MATRIX
+type: parsed
+protocol: nec2
+address: 130.114
+command: 147
+#
+name: MOVIE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 149
+#
+name: NIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 150
+#
+name: STEREO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 155
+#
+name: 3 ST
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: P/L
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: AM/FM PRESET DISC +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET+
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: AM/FM PRESET DISC -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET-
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: AM/FM SKIP >>
+type: parsed
+protocol: nec1
+address: 130.114
+command: 210
+#
+name: AM/FM SKIP <<
+type: parsed
+protocol: nec1
+address: 130.114
+command: 211
+#
+name: AM/FM PTY (REC/)
+type: parsed
+protocol: nec1
+address: 130.114
+command: 212
+#
+name: AM/FM AF (>)
+type: parsed
+protocol: nec1
+address: 130.114
+command: 213
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 217
+#
+name: AM/FM RDS DISP (STOP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 221
+#
+name: INFO/RDS
+type: parsed
+protocol: nec1
+address: 130.114
+command: 221
+#
+name: MULTI
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#

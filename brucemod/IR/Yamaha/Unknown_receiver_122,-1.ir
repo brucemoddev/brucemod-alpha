@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VCR
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: tuner+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: tuner-
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: tuner-toggle
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: d-tv/cbl
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: md/cd-r
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 29
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 30
+#
+name: d-tv/cbl_alternative
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: v-aux
+type: parsed
+protocol: nec
+address: 122
+command: 85
+#
+name: KEY_6ch_input
+type: parsed
+protocol: nec
+address: 122
+command: 135
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 122
+command: 193
+#

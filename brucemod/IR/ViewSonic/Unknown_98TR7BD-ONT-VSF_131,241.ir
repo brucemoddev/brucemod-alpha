@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.241
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.241
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.241
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.241
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.241
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.241
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.241
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.241
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.241
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.241
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.241
+command: 10
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 131.241
+command: 11
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.241
+command: 12
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.241
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.241
+command: 17
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 131.241
+command: 18
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 131.241
+command: 19
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 131.241
+command: 30
+#
+name: KEY_TEXT
+type: parsed
+protocol: nec
+address: 131.241
+command: 33
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 131.241
+command: 37
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 131.241
+command: 38
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 131.241
+command: 39
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 131.241
+command: 40
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 131.241
+command: 41
+#
+name: pre-ch
+type: parsed
+protocol: nec
+address: 131.241
+command: 42
+#
+name: pip
+type: parsed
+protocol: nec
+address: 131.241
+command: 43
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.241
+command: 44
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 131.241
+command: 48
+#
+name: scart
+type: parsed
+protocol: nec
+address: 131.241
+command: 49
+#
+name: KEY_PC
+type: parsed
+protocol: nec
+address: 131.241
+command: 50
+#
+name: dtvmenu
+type: parsed
+protocol: nec
+address: 131.241
+command: 51
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 131.241
+command: 52
+#
+name: mix
+type: parsed
+protocol: nec
+address: 131.241
+command: 53
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 131.241
+command: 54
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 131.241
+command: 55
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 131.241
+command: 64
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 131.241
+command: 69
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 131.241
+command: 70
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 131.241
+command: 71
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 131.241
+command: 73
+#
+name: display
+type: parsed
+protocol: nec
+address: 131.241
+command: 112
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 131.241
+command: 113
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 131.241
+command: 114
+#
+name: index
+type: parsed
+protocol: nec
+address: 131.241
+command: 115
+#
+name: sound
+type: parsed
+protocol: nec
+address: 131.241
+command: 116
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 131.241
+command: 121
+#
+name: size
+type: parsed
+protocol: nec
+address: 131.241
+command: 134
+#
+name: reveal
+type: parsed
+protocol: nec
+address: 131.241
+command: 135
+#
+name: hold
+type: parsed
+protocol: nec
+address: 131.241
+command: 136
+#

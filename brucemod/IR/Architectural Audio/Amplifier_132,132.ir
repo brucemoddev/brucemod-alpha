@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME -
+type: parsed
+protocol: necx1
+address: 132.132
+command: 5
+#
+name: VOLUME +
+type: parsed
+protocol: necx1
+address: 132.132
+command: 13
+#
+name: POWER ON
+type: parsed
+protocol: necx1
+address: 132.132
+command: 28
+#
+name: POWER OFF
+type: parsed
+protocol: necx1
+address: 132.132
+command: 30
+#

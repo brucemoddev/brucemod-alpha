@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 68
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 68
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 68
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 68
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 68
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 68
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 68
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 68
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 68
+command: 9
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 68
+command: 10
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 68
+command: 13
+#
+name: SLOW MOTION
+type: parsed
+protocol: nec1
+address: 68
+command: 13
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 68
+command: 16
+#
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 68
+command: 17
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 68
+command: 18
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: nec1
+address: 68
+command: 19
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 68
+command: 20
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 68
+command: 21
+#
+name: CLOCK/COUNTER
+type: parsed
+protocol: nec1
+address: 68
+command: 22
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 68
+command: 24
+#
+name: REWIND <<
+type: parsed
+protocol: nec1
+address: 68
+command: 25
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 68
+command: 27
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 68
+command: 31
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 68
+command: 79
+#
+name: A. SELECT
+type: parsed
+protocol: nec1
+address: 68
+command: 83
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 68
+command: 92
+#
+name: SP/SLP
+type: parsed
+protocol: nec1
+address: 68
+command: 93
+#
+name: I. SELECT
+type: parsed
+protocol: nec1
+address: 68
+command: 95
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 68
+command: 131
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 68
+command: 150
+#
+name: CANCEL
+type: parsed
+protocol: nec1
+address: 68
+command: 239
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 68
+command: 245
+#

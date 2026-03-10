@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SYNC MENU
+type: parsed
+protocol: sony15
+address: 26
+command: 88
+#
+name: HDMI SCROLL
+type: parsed
+protocol: sony12
+address: 26
+command: 89
+#
+name: INPUT HDMI 1
+type: parsed
+protocol: sony15
+address: 26
+command: 90
+#
+name: INPUT HDMI 1 (2011)
+type: parsed
+protocol: sony12
+address: 26
+command: 90
+#
+name: INPUT HDMI 2
+type: parsed
+protocol: sony15
+address: 26
+command: 91
+#
+name: INPUT HDMI 2 (2011)
+type: parsed
+protocol: sony12
+address: 26
+command: 91
+#
+name: INPUT HDMI 3
+type: parsed
+protocol: sony15
+address: 26
+command: 92
+#
+name: INPUT HDMI 3 (2011)
+type: parsed
+protocol: sony12
+address: 26
+command: 92
+#
+name: INPUT HDMI 4
+type: parsed
+protocol: sony15
+address: 26
+command: 93
+#
+name: INPUT HDMI 4 (2011)
+type: parsed
+protocol: sony12
+address: 26
+command: 93
+#
+name: INPUT HDMI 5
+type: parsed
+protocol: sony15
+address: 26
+command: 94
+#
+name: INPUT HDMI 5 (2011)
+type: parsed
+protocol: sony12
+address: 26
+command: 94
+#
+name: MENU POP UP
+type: parsed
+protocol: sony12
+address: 26
+command: 97
+#
+name: DME X BRAVIA MODULE
+type: parsed
+protocol: sony15
+address: 26
+command: 107
+#
+name: INTERNET TV
+type: parsed
+protocol: sony15
+address: 26
+command: 121
+#
+name: INTERNET APPS
+type: parsed
+protocol: sony15
+address: 26
+command: 122
+#
+name: NETFLIX
+type: parsed
+protocol: sony12
+address: 26
+command: 124
+#
+name: INTERNET QRIOCITY
+type: parsed
+protocol: sony15
+address: 26
+command: 125
+#

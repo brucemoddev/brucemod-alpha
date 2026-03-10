@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRE AMP INPUT E
+type: parsed
+protocol: rc5
+address: 16
+command: 32
+#
+name: PRE AMP INPUT F
+type: parsed
+protocol: rc5
+address: 16
+command: 33
+#
+name: PRE AMP INPUT A
+type: parsed
+protocol: rc5
+address: 16
+command: 34
+#
+name: PRE AMP INPUT B
+type: parsed
+protocol: rc5
+address: 16
+command: 35
+#
+name: PRE AMP INPUT C
+type: parsed
+protocol: rc5
+address: 16
+command: 36
+#
+name: PRE AMP INPUT D
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#

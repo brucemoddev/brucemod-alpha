@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTING
+type: parsed
+protocol: denon
+address: 12
+command: 75
+#
+name: VOLUME V
+type: parsed
+protocol: denon
+address: 12
+command: 76
+#
+name: VOLUME ^
+type: parsed
+protocol: denon
+address: 12
+command: 77
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 12
+command: 80
+#
+name: VDP
+type: parsed
+protocol: denon
+address: 12
+command: 84
+#
+name: PHONO
+type: parsed
+protocol: denon
+address: 12
+command: 88
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 12
+command: 89
+#
+name: CD
+type: parsed
+protocol: denon
+address: 12
+command: 90
+#
+name: TAPE-1
+type: parsed
+protocol: denon
+address: 12
+command: 93
+#
+name: TAPE-2/VCR
+type: parsed
+protocol: denon
+address: 12
+command: 94
+#
+name: VIDEO SELECT
+type: parsed
+protocol: denon
+address: 12
+command: 98
+#
+name: REC SELECT
+type: parsed
+protocol: denon
+address: 12
+command: 117
+#
+name: PANEL
+type: parsed
+protocol: denon
+address: 12
+command: 126
+#
+name: PRESET V
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: PRESET ^
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: P.SCAN
+type: parsed
+protocol: denon
+address: 12
+command: 220
+#

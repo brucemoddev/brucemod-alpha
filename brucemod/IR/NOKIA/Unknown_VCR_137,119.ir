@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 137.119
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 137.119
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 137.119
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 137.119
+command: 6
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 137.119
+command: 15
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 137.119
+command: 19
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 137.119
+command: 22
+#
+name: TV_VCR
+type: parsed
+protocol: nec
+address: 137.119
+command: 23
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 137.119
+command: 64
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 137.119
+command: 65
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 137.119
+command: 66
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 137.119
+command: 67
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 137.119
+command: 68
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 137.119
+command: 69
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 137.119
+command: 70
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 137.119
+command: 71
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 137.119
+command: 72
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 137.119
+command: 73
+#
+name: SPEED
+type: parsed
+protocol: nec
+address: 137.119
+command: 75
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 137.119
+command: 76
+#
+name: SHOWVIEW
+type: parsed
+protocol: nec
+address: 137.119
+command: 77
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 137.119
+command: 79
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 137.119
+command: 80
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 137.119
+command: 81
+#
+name: TIMER
+type: parsed
+protocol: nec
+address: 137.119
+command: 83
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 137.119
+command: 86
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 137.119
+command: 88
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 137.119
+command: 89
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 137.119
+command: 92
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 137.119
+command: 93
+#

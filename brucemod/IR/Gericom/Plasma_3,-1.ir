@@ -1,0 +1,357 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 7
+type: parsed
+protocol: nec2
+address: 3
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 3
+command: 3
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 3
+command: 4
+#
+name: INFO.
+type: parsed
+protocol: nec2
+address: 3
+command: 6
+#
+name: PSM
+type: parsed
+protocol: nec2
+address: 3
+command: 7
+#
+name: PIP
+type: parsed
+protocol: nec2
+address: 3
+command: 8
+#
+name: PG DOWN
+type: parsed
+protocol: nec2
+address: 3
+command: 9
+#
+name: STILL
+type: parsed
+protocol: nec2
+address: 3
+command: 10
+#
+name: SLEEP
+type: parsed
+protocol: nec2
+address: 3
+command: 11
+#
+name: FAV
+type: parsed
+protocol: nec2
+address: 3
+command: 12
+#
+name: TV/RADIO
+type: parsed
+protocol: nec2
+address: 3
+command: 13
+#
+name: YELLOW
+type: parsed
+protocol: nec2
+address: 3
+command: 14
+#
+name: GREEN
+type: parsed
+protocol: nec2
+address: 3
+command: 15
+#
+name: PG UP
+type: parsed
+protocol: nec2
+address: 3
+command: 16
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 3
+command: 17
+#
+name: REVEAL
+type: parsed
+protocol: nec2
+address: 3
+command: 18
+#
+name: SOURCE
+type: parsed
+protocol: nec2
+address: 3
+command: 19
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 3
+command: 20
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 3
+command: 21
+#
+name: CANCEL
+type: parsed
+protocol: nec2
+address: 3
+command: 22
+#
+name: INDEX
+type: parsed
+protocol: nec2
+address: 3
+command: 23
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 3
+command: 24
+#
+name: DTV SETUP
+type: parsed
+protocol: nec2
+address: 3
+command: 25
+#
+name: PRE-CH
+type: parsed
+protocol: nec2
+address: 3
+command: 26
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 3
+command: 27
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 3
+command: 28
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 3
+command: 29
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 3
+command: 30
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 3
+command: 31
+#
+name: PIP PR-
+type: parsed
+protocol: nec2
+address: 3
+command: 64
+#
+name: PIP PR+
+type: parsed
+protocol: nec2
+address: 3
+command: 65
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 3
+command: 67
+#
+name: TIME
+type: parsed
+protocol: nec2
+address: 3
+command: 68
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 3
+command: 69
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 3
+command: 70
+#
+name: PR +
+type: parsed
+protocol: nec2
+address: 3
+command: 71
+#
+name: P.POSITION
+type: parsed
+protocol: nec2
+address: 3
+command: 72
+#
+name: SIZE
+type: parsed
+protocol: nec2
+address: 3
+command: 73
+#
+name: SSM
+type: parsed
+protocol: nec2
+address: 3
+command: 74
+#
+name: PR -
+type: parsed
+protocol: nec2
+address: 3
+command: 75
+#
+name: -/--
+type: parsed
+protocol: nec2
+address: 3
+command: 76
+#
+name: P.SIZE
+type: parsed
+protocol: nec2
+address: 3
+command: 77
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 3
+command: 79
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 3
+command: 80
+#
+name: BLUE
+type: parsed
+protocol: nec2
+address: 3
+command: 81
+#
+name: TTX ON
+type: parsed
+protocol: nec2
+address: 3
+command: 82
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 3
+command: 83
+#
+name: SWAP
+type: parsed
+protocol: nec2
+address: 3
+command: 84
+#
+name: RED
+type: parsed
+protocol: nec2
+address: 3
+command: 85
+#
+name: DUAL I-II
+type: parsed
+protocol: nec2
+address: 3
+command: 86
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 3
+command: 87
+#
+name: PC
+type: parsed
+protocol: nec2
+address: 3
+command: 88
+#
+name: MIX
+type: parsed
+protocol: nec2
+address: 3
+command: 89
+#
+name: ARC
+type: parsed
+protocol: nec2
+address: 3
+command: 90
+#
+name: HOLD
+type: parsed
+protocol: nec2
+address: 3
+command: 91
+#
+name: S.SELECT
+type: parsed
+protocol: nec2
+address: 3
+command: 92
+#
+name: STORE
+type: parsed
+protocol: nec2
+address: 3
+command: 93
+#
+name: P.INPUT
+type: parsed
+protocol: nec2
+address: 3
+command: 94
+#
+name: FLOP/LIST
+type: parsed
+protocol: nec2
+address: 3
+command: 95
+#

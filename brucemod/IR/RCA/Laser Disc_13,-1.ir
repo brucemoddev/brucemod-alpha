@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SPEED <
+type: parsed
+protocol: rca
+address: 13
+command: 4
+#
+name: CLEAR
+type: parsed
+protocol: rca
+address: 13
+command: 6
+#
+name: PROGRAM
+type: parsed
+protocol: rca
+address: 13
+command: 8
+#
+name: SELECT >
+type: parsed
+protocol: rca
+address: 13
+command: 16
+#
+name: PLAY
+type: parsed
+protocol: rca
+address: 13
+command: 21
+#
+name: PAUSE
+type: parsed
+protocol: rca
+address: 13
+command: 25
+#
+name: SCAN >>
+type: parsed
+protocol: rca
+address: 13
+command: 28
+#
+name: SCAN <<
+type: parsed
+protocol: rca
+address: 13
+command: 29
+#
+name: STOP
+type: parsed
+protocol: rca
+address: 13
+command: 31
+#
+name: FRAME >>
+type: parsed
+protocol: rca
+address: 13
+command: 32
+#
+name: FRAME <<
+type: parsed
+protocol: rca
+address: 13
+command: 34
+#
+name: POWER
+type: parsed
+protocol: rca
+address: 13
+command: 42
+#
+name: CHAP/TRACK <<
+type: parsed
+protocol: rca
+address: 13
+command: 44
+#
+name: CHAP/TRACK >>
+type: parsed
+protocol: rca
+address: 13
+command: 45
+#
+name: 0
+type: parsed
+protocol: rca
+address: 13
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca
+address: 13
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 13
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca
+address: 13
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 13
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 13
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca
+address: 13
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca
+address: 13
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca
+address: 13
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca
+address: 13
+command: 57
+#
+name: DISPLAY
+type: parsed
+protocol: rca
+address: 13
+command: 60
+#
+name: AUDIO
+type: parsed
+protocol: rca
+address: 13
+command: 70
+#
+name: RANDOM
+type: parsed
+protocol: rca
+address: 13
+command: 74
+#
+name: DISC SIDE B
+type: parsed
+protocol: rca
+address: 13
+command: 100
+#
+name: DISC SIDE A
+type: parsed
+protocol: rca
+address: 13
+command: 101
+#
+name: REPEAT
+type: parsed
+protocol: rca
+address: 13
+command: 148
+#
+name: REPEAT A * B
+type: parsed
+protocol: rca
+address: 13
+command: 149
+#
+name: HI-LITE INTRO
+type: parsed
+protocol: rca
+address: 13
+command: 165
+#
+name: CHAP * TIME
+type: parsed
+protocol: rca
+address: 13
+command: 208
+#
+name: +10
+type: parsed
+protocol: rca
+address: 13
+command: 209
+#

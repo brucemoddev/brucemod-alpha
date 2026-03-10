@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 10
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 17
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 18
+#
+name: band
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 19
+#
+name: KEY_AGAIN
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 81
+#
+name: display
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 128
+#
+name: KEY_MODE
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 143
+#
+name: KEY_PLAY
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 196
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 197
+#
+name: KEY_NEXT
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 198
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 199
+#
+name: KEY_PAUSE
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 201
+#
+name: eq
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 202
+#
+name: function
+type: parsed
+protocol: aiwa
+address: 112.0
+command: 221
+#

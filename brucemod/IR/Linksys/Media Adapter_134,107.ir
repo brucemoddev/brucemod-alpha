@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAGE DOWN
+type: parsed
+protocol: nec2
+address: 134.107
+command: 25
+#

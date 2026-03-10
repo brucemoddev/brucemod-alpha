@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: KEY_102ND
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: KEY_P
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: KEY_C
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: PIP
+type: parsed
+protocol: rc5
+address: 0
+command: 27
+#
+name: KEY_N
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: TXT_LANG
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: KEY_S
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: TXT_STOP
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: TXT_TIME
+type: parsed
+protocol: rc5
+address: 0
+command: 42
+#
+name: TXT_MAGN
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: TXT_REV
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: TXT_X
+type: parsed
+protocol: rc5
+address: 0
+command: 45
+#
+name: TXT_MIX
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 50
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: TXT_INFO
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: KEY_RED
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: AV
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: KEY_TEXT
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: KEY_A
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#

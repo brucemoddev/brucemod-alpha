@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD_CLEAR
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 128
+#
+name: CD_REPEAT
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 129
+#
+name: CD_RANDOM
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 130
+#
+name: CD_PREV
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 132
+#
+name: CD_NEXT
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 133
+#
+name: CD_PLAY
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 135
+#
+name: MEMORY
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 139
+#
+name: KEY_CANCEL
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 141
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 143
+#
+name: TAPE_STOP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 160
+#
+name: TAPE_REWIND
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 162
+#
+name: TAPE_FORWARD
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 163
+#
+name: TAPE_RECORD
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 164
+#
+name: TAPE_PLAY_REWIND
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 165
+#
+name: TAPE_PLAY_FORWARD
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 166
+#
+name: TAPE_DECK
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 173
+#
+name: TAPE_REV_MODE
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 174
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 176
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 177
+#
+name: TUNER_BAND
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 184
+#
+name: KEY_SLEEP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 188
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 191
+#
+name: TUNER_PRESET_TUNE_UP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 231
+#
+name: TUNER_PRESET_TUNE_DO
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 232
+#
+name: TUNER_TUNING_UP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 233
+#
+name: TUNER_TUNING_DOWN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 234
+#

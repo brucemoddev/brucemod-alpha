@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: pause-step
+type: parsed
+protocol: nec
+address: 69
+command: 0
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 69
+command: 18
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 69
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 69
+command: 21
+#
+name: rev
+type: parsed
+protocol: nec
+address: 69
+command: 25
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 69
+command: 34
+#
+name: skip-left
+type: parsed
+protocol: nec
+address: 69
+command: 35
+#
+name: skip-right
+type: parsed
+protocol: nec
+address: 69
+command: 36
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 69
+command: 39
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 69
+command: 40
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 69
+command: 41
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 69
+command: 41
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 69
+command: 239
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 69
+command: 245
+#

@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY/PAUSE >
+type: parsed
+protocol: akai
+address: 0
+command: 1
+#
+name: SKIP <<
+type: parsed
+protocol: akai
+address: 0
+command: 2
+#
+name: SKIP >>
+type: parsed
+protocol: akai
+address: 0
+command: 3
+#
+name: STOP/CLEAR []
+type: parsed
+protocol: akai
+address: 0
+command: 5
+#
+name: SEARCH >>
+type: parsed
+protocol: akai
+address: 0
+command: 6
+#
+name: SEARCH <<
+type: parsed
+protocol: akai
+address: 0
+command: 7
+#
+name: REPEAT
+type: parsed
+protocol: akai
+address: 0
+command: 10
+#
+name: PROGRAM
+type: parsed
+protocol: akai
+address: 0
+command: 14
+#
+name: TIME
+type: parsed
+protocol: akai
+address: 0
+command: 15
+#
+name: 0
+type: parsed
+protocol: akai
+address: 0
+command: 16
+#
+name: 1
+type: parsed
+protocol: akai
+address: 0
+command: 17
+#
+name: 2
+type: parsed
+protocol: akai
+address: 0
+command: 18
+#
+name: 3
+type: parsed
+protocol: akai
+address: 0
+command: 19
+#
+name: 4
+type: parsed
+protocol: akai
+address: 0
+command: 20
+#
+name: 5
+type: parsed
+protocol: akai
+address: 0
+command: 21
+#
+name: 6
+type: parsed
+protocol: akai
+address: 0
+command: 22
+#
+name: 7
+type: parsed
+protocol: akai
+address: 0
+command: 23
+#
+name: 8
+type: parsed
+protocol: akai
+address: 0
+command: 24
+#
+name: 9
+type: parsed
+protocol: akai
+address: 0
+command: 25
+#

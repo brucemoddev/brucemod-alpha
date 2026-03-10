@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP SEARCH
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 3
+#
+name: AUDIO TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 5
+#
+name: AUDIO VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 5
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 23
+#

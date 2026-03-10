@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 OPEN
+type: parsed
+protocol: jvc
+address: 81
+command: 174
+#

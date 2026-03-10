@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: WIDE 2
+type: parsed
+protocol: fujitsu
+address: 132.130
+command: 20
+#

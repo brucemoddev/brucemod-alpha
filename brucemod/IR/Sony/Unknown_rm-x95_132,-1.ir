@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MENU
+type: parsed
+protocol: sony15
+address: 132
+command: 10
+#
+name: OFF
+type: parsed
+protocol: sony15
+address: 132
+command: 13
+#
+name: SOUND
+type: parsed
+protocol: sony15
+address: 132
+command: 16
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony15
+address: 132
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony15
+address: 132
+command: 19
+#
+name: ATT
+type: parsed
+protocol: sony15
+address: 132
+command: 20
+#
+name: KEY_LIST
+type: parsed
+protocol: sony15
+address: 132
+command: 39
+#
+name: DSPL
+type: parsed
+protocol: sony15
+address: 132
+command: 40
+#
+name: KEY_OPEN
+type: parsed
+protocol: sony15
+address: 132
+command: 43
+#
+name: DISC-
+type: parsed
+protocol: sony15
+address: 132
+command: 50
+#
+name: DISC+
+type: parsed
+protocol: sony15
+address: 132
+command: 51
+#
+name: SEEK+
+type: parsed
+protocol: sony15
+address: 132
+command: 52
+#
+name: SEEK-
+type: parsed
+protocol: sony15
+address: 132
+command: 53
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: sony15
+address: 132
+command: 70
+#
+name: KEY_MODE
+type: parsed
+protocol: sony15
+address: 132
+command: 71
+#
+name: AF-TA
+type: parsed
+protocol: sony15
+address: 132
+command: 74
+#
+name: KEY_OK
+type: parsed
+protocol: sony15
+address: 132
+command: 92
+#
+name: DSO
+type: parsed
+protocol: sony15
+address: 132
+command: 115
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEQ/QUIT
+type: parsed
+protocol: zenith
+address: 7.0
+command: 126
+#

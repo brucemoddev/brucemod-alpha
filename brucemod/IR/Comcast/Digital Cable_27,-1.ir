@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP
+type: parsed
+protocol: panasonic
+address: 27
+command: 2
+#
+name: LEFT
+type: parsed
+protocol: panasonic
+address: 27
+command: 3
+#
+name: RIGHT
+type: parsed
+protocol: panasonic
+address: 27
+command: 4
+#
+name: GUIDE
+type: parsed
+protocol: panasonic
+address: 27
+command: 6
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 27
+command: 7
+#
+name: DOWN
+type: parsed
+protocol: panasonic
+address: 27
+command: 11
+#
+name: ENTER
+type: parsed
+protocol: panasonic
+address: 27
+command: 12
+#
+name: SELECT
+type: parsed
+protocol: panasonic
+address: 27
+command: 12
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 27
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 27
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 27
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 27
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 27
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 27
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 27
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 27
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 27
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 27
+command: 25
+#
+name: CHANNEL +
+type: parsed
+protocol: panasonic
+address: 27
+command: 29
+#
+name: CHANNEL -
+type: parsed
+protocol: panasonic
+address: 27
+command: 30
+#
+name: A
+type: parsed
+protocol: panasonic
+address: 27
+command: 47
+#
+name: B
+type: parsed
+protocol: panasonic
+address: 27
+command: 48
+#
+name: C
+type: parsed
+protocol: panasonic
+address: 27
+command: 49
+#
+name: MENU
+type: parsed
+protocol: panasonic
+address: 27
+command: 57
+#

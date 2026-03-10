@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD/HD
+type: parsed
+protocol: nec1
+address: 24.24
+command: 28
+#
+name: WIDE
+type: parsed
+protocol: nec1
+address: 24.24
+command: 173
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 24.24
+command: 176
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 24.24
+command: 177
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 178
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 179
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 24.24
+command: 192
+#
+name: MENU/ENTER
+type: parsed
+protocol: nec1
+address: 24.24
+command: 196
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 197
+#
+name: ID SELECT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 200
+#
+name: POINTER
+type: parsed
+protocol: nec1
+address: 24.24
+command: 201
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 24.24
+command: 202
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 24.24
+command: 203
+#
+name: MULTI
+type: parsed
+protocol: nec1
+address: 24.24
+command: 204
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 205
+#

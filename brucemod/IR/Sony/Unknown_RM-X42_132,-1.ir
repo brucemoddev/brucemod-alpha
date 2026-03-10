@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OFF
+type: parsed
+protocol: sony15
+address: 132
+command: 13
+#
+name: SOUND
+type: parsed
+protocol: sony15
+address: 132
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony15
+address: 132
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony15
+address: 132
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: sony15
+address: 132
+command: 20
+#
+name: SEEK-
+type: parsed
+protocol: sony15
+address: 132
+command: 27
+#
+name: SEEK+
+type: parsed
+protocol: sony15
+address: 132
+command: 28
+#
+name: DSPL
+type: parsed
+protocol: sony15
+address: 132
+command: 40
+#
+name: DISK+
+type: parsed
+protocol: sony15
+address: 132
+command: 48
+#
+name: DISK-
+type: parsed
+protocol: sony15
+address: 132
+command: 49
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: sony15
+address: 132
+command: 70
+#
+name: DIR
+type: parsed
+protocol: sony15
+address: 132
+command: 71
+#

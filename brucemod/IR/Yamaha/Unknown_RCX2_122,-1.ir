@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 0
+#
+name: TAPE_REWIND
+type: parsed
+protocol: nec
+address: 122
+command: 1
+#
+name: TAPE_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 2
+#
+name: TAPE_STOP
+type: parsed
+protocol: nec
+address: 122
+command: 3
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 122
+command: 4
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 122
+command: 5
+#
+name: DECK_A/B
+type: parsed
+protocol: nec
+address: 122
+command: 6
+#
+name: DIR_A
+type: parsed
+protocol: nec
+address: 122
+command: 7
+#
+name: CD_PLAY
+type: parsed
+protocol: nec
+address: 122
+command: 8
+#
+name: CD_PAUSE/STOP
+type: parsed
+protocol: nec
+address: 122
+command: 9
+#
+name: CD_SKIP_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 10
+#
+name: CD_SKIP_BACK
+type: parsed
+protocol: nec
+address: 122
+command: 11
+#
+name: CD_SEARCH_FWD
+type: parsed
+protocol: nec
+address: 122
+command: 12
+#
+name: CD_SEARCH_BACK
+type: parsed
+protocol: nec
+address: 122
+command: 13
+#
+name: PRESET+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: PRESET-
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: A/B/C/D/E
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: TAPE_MON
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: DIR_B
+type: parsed
+protocol: nec
+address: 122
+command: 64
+#
+name: DISC_SKIP
+type: parsed
+protocol: nec
+address: 122
+command: 79
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#

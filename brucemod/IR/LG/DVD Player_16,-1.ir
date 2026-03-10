@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 16
+command: 30
+#
+name: 1
+type: parsed
+protocol: necx2
+address: 16
+command: 65
+#
+name: 2
+type: parsed
+protocol: necx2
+address: 16
+command: 66
+#
+name: 3
+type: parsed
+protocol: necx2
+address: 16
+command: 67
+#
+name: 4
+type: parsed
+protocol: necx2
+address: 16
+command: 68
+#
+name: 5
+type: parsed
+protocol: necx2
+address: 16
+command: 69
+#
+name: 6
+type: parsed
+protocol: necx2
+address: 16
+command: 70
+#
+name: 7
+type: parsed
+protocol: necx2
+address: 16
+command: 71
+#
+name: 8
+type: parsed
+protocol: necx2
+address: 16
+command: 72
+#
+name: 9
+type: parsed
+protocol: necx2
+address: 16
+command: 73
+#
+name: 0
+type: parsed
+protocol: necx2
+address: 16
+command: 75
+#
+name: program
+type: parsed
+protocol: necx2
+address: 16
+command: 77
+#
+name: CLEAR
+type: parsed
+protocol: necx2
+address: 16
+command: 176
+#
+name: Menu
+type: parsed
+protocol: necx2
+address: 16
+command: 164
+#
+name: SHADOW
+type: parsed
+protocol: necx2
+address: 16
+command: 55
+#
+name: MALE/AUDIO
+type: parsed
+protocol: necx2
+address: 16
+command: 160
+#
+name: FEMALE/SOUND
+type: parsed
+protocol: necx2
+address: 16
+command: 161
+#
+name: CHORUS
+type: parsed
+protocol: necx2
+address: 16
+command: 127
+#
+name: Up
+type: parsed
+protocol: necx2
+address: 16
+command: 167
+#
+name: Down
+type: parsed
+protocol: necx2
+address: 16
+command: 166
+#
+name: Left
+type: parsed
+protocol: necx2
+address: 16
+command: 168
+#
+name: Right
+type: parsed
+protocol: necx2
+address: 16
+command: 169
+#
+name: SELECT/ENTER
+type: parsed
+protocol: necx2
+address: 16
+command: 170
+#
+name: Next
+type: parsed
+protocol: necx2
+address: 16
+command: 7
+#
+name: Prev
+type: parsed
+protocol: necx2
+address: 16
+command: 6
+#
+name: forward
+type: parsed
+protocol: necx2
+address: 16
+command: 178
+#
+name: rewind
+type: parsed
+protocol: necx2
+address: 16
+command: 177
+#
+name: Stop
+type: parsed
+protocol: necx2
+address: 16
+command: 5
+#
+name: Pause/Step
+type: parsed
+protocol: necx2
+address: 16
+command: 79
+#
+name: Play
+type: parsed
+protocol: necx2
+address: 16
+command: 4
+#
+name: ECHO_VOL-
+type: parsed
+protocol: necx2
+address: 16
+command: 83
+#
+name: ECHO_VOL+
+type: parsed
+protocol: necx2
+address: 16
+command: 82
+#
+name: MIC_VOL-
+type: parsed
+protocol: necx2
+address: 16
+command: 22
+#
+name: MIC_VOL+
+type: parsed
+protocol: necx2
+address: 16
+command: 23
+#
+name: display
+type: parsed
+protocol: necx2
+address: 16
+command: 163
+#
+name: TITLE
+type: parsed
+protocol: necx2
+address: 16
+command: 175
+#
+name: SUB TITLE
+type: parsed
+protocol: necx2
+address: 16
+command: 171
+#
+name: SET UP
+type: parsed
+protocol: necx2
+address: 16
+command: 165
+#
+name: REPEAT
+type: parsed
+protocol: necx2
+address: 16
+command: 78
+#
+name: REPEAT A-B
+type: parsed
+protocol: necx2
+address: 16
+command: 173
+#
+name: return
+type: parsed
+protocol: necx2
+address: 16
+command: 162
+#

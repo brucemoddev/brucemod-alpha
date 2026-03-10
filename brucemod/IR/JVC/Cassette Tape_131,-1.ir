@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DECK2 REC
+type: parsed
+protocol: jvc
+address: 131
+command: 2
+#
+name: DECK2 STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: DECK2 FF >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: DECK2 REW <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: DUBBING/NORMAL
+type: parsed
+protocol: jvc
+address: 131
+command: 8
+#
+name: DUBBING/HIGH
+type: parsed
+protocol: jvc
+address: 131
+command: 9
+#
+name: DECK2 DIRECTION <>
+type: parsed
+protocol: jvc
+address: 131
+command: 11
+#
+name: DECK2 PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: DECK2 PAUSE 
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: DECK2 MUSIC S. <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: DECK2 MUSIC S. >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: DECK2 MUTE
+type: parsed
+protocol: jvc
+address: 131
+command: 28
+#
+name: DECK 2
+type: parsed
+protocol: jvc
+address: 131
+command: 45
+#
+name: DECK1 REC
+type: parsed
+protocol: jvc
+address: 131
+command: 82
+#
+name: DECK1 STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 83
+#
+name: DECK1 FF >>
+type: parsed
+protocol: jvc
+address: 131
+command: 86
+#
+name: DECK1 REW <<
+type: parsed
+protocol: jvc
+address: 131
+command: 87
+#
+name: DECK1 DIRECTION <>
+type: parsed
+protocol: jvc
+address: 131
+command: 91
+#
+name: DECK1 PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 92
+#
+name: DECK1 PAUSE 
+type: parsed
+protocol: jvc
+address: 131
+command: 93
+#
+name: DECK1 MUSIC S. <<
+type: parsed
+protocol: jvc
+address: 131
+command: 104
+#
+name: DECK1 MUSIC S. >>
+type: parsed
+protocol: jvc
+address: 131
+command: 105
+#
+name: DECK1 MUTE
+type: parsed
+protocol: jvc
+address: 131
+command: 108
+#
+name: DECK 1
+type: parsed
+protocol: jvc
+address: 131
+command: 109
+#

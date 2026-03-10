@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MIX
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: DOUBLE
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: REVEAL
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: UPDATE
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 0
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 0
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 0
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 0
+command: 25
+#
+name: X_KEY_1_X_CHANNELS
+type: parsed
+protocol: rc5
+address: 0
+command: 26
+#
+name: PR_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 27
+#
+name: PR_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 0
+command: 36
+#
+name: VOL_LOW
+type: parsed
+protocol: rc5
+address: 0
+command: 37
+#
+name: KEY_RED
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: SWAP
+type: parsed
+protocol: rc5
+address: 0
+command: 39
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 0
+command: 40
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: AV/TV
+type: parsed
+protocol: rc5
+address: 0
+command: 42
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: KEY_I
+type: parsed
+protocol: rc5
+address: 0
+command: 47
+#
+name: KEY_TEXT
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 51
+#

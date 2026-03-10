@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1A
+type: parsed
+protocol: nec2
+address: 191
+command: 205
+#
+name: 2A
+type: parsed
+protocol: nec2
+address: 191
+command: 206
+#
+name: 3A
+type: parsed
+protocol: nec2
+address: 191
+command: 207
+#
+name: 4A
+type: parsed
+protocol: nec2
+address: 191
+command: 208
+#
+name: 5A
+type: parsed
+protocol: nec2
+address: 191
+command: 209
+#
+name: 6A
+type: parsed
+protocol: nec2
+address: 191
+command: 210
+#
+name: 7A
+type: parsed
+protocol: nec2
+address: 191
+command: 211
+#
+name: 8A
+type: parsed
+protocol: nec2
+address: 191
+command: 212
+#
+name: 9A
+type: parsed
+protocol: nec2
+address: 191
+command: 213
+#
+name: 0A
+type: parsed
+protocol: nec2
+address: 191
+command: 214
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 191
+command: 216
+#
+name: <<
+type: parsed
+protocol: nec2
+address: 191
+command: 218
+#
+name: >>
+type: parsed
+protocol: nec2
+address: 191
+command: 219
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 191
+command: 221
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 191
+command: 222
+#
+name: SELECT ALBUM
+type: parsed
+protocol: nec2
+address: 191
+command: 227
+#
+name: SELECT PLAYLIST
+type: parsed
+protocol: nec2
+address: 191
+command: 231
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 191
+command: 232
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 191
+command: 233
+#

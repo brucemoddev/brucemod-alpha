@@ -1,0 +1,987 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER FM
+type: parsed
+protocol: nec1
+address: 125
+command: 39
+#
+name: TUNER AM
+type: parsed
+protocol: nec1
+address: 125
+command: 40
+#
+name: INPUT XM
+type: parsed
+protocol: nec1
+address: 125
+command: 41
+#
+name: TUNER AUTO TUNE +
+type: parsed
+protocol: nec1
+address: 125
+command: 42
+#
+name: TUNER AUTO TUNE -
+type: parsed
+protocol: nec1
+address: 125
+command: 43
+#
+name: XM ALL CH SEARCH
+type: parsed
+protocol: nec1
+address: 125
+command: 44
+#
+name: XM CAT SEARCH
+type: parsed
+protocol: nec1
+address: 125
+command: 45
+#
+name: XM PRESET SEARCH
+type: parsed
+protocol: nec1
+address: 125
+command: 46
+#
+name: Z2 INPUT XM
+type: parsed
+protocol: nec1
+address: 125
+command: 47
+#
+name: XM PRESET +
+type: parsed
+protocol: nec1
+address: 125
+command: 49
+#
+name: XM PRESET -
+type: parsed
+protocol: nec1
+address: 125
+command: 50
+#
+name: XM CAT +
+type: parsed
+protocol: nec1
+address: 125
+command: 51
+#
+name: XM SRCH MODE
+type: parsed
+protocol: nec1
+address: 125
+command: 52
+#
+name: XM CAT -
+type: parsed
+protocol: nec1
+address: 125
+command: 53
+#
+name: XM MEMORY
+type: parsed
+protocol: nec1
+address: 125
+command: 56
+#
+name: XM DISPLAY
+type: parsed
+protocol: nec1
+address: 125
+command: 57
+#
+name: XM ENTER
+type: parsed
+protocol: nec1
+address: 125
+command: 63
+#
+name: Z2 POWER OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 99
+#
+name: Z2 POWER ON
+type: parsed
+protocol: nec1
+address: 125
+command: 100
+#
+name: Z2 INPUT PHONO
+type: parsed
+protocol: nec1
+address: 125
+command: 101
+#
+name: Z2 INPUT TUNER
+type: parsed
+protocol: nec1
+address: 125
+command: 102
+#
+name: Z2 INPUT CD
+type: parsed
+protocol: nec1
+address: 125
+command: 103
+#
+name: Z2 INPUT MD/TAPE
+type: parsed
+protocol: nec1
+address: 125
+command: 106
+#
+name: Z2 INPUT DTV/CBL
+type: parsed
+protocol: nec1
+address: 125
+command: 108
+#
+name: Z2 INPUT VCR
+type: parsed
+protocol: nec1
+address: 125
+command: 109
+#
+name: Z2 INPUT DVD
+type: parsed
+protocol: nec1
+address: 125
+command: 111
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 125
+command: 112
+#
+name: Z2 VOLUME +
+type: parsed
+protocol: nec1
+address: 125
+command: 112
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 125
+command: 113
+#
+name: Z2 VOLUME -
+type: parsed
+protocol: nec1
+address: 125
+command: 113
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 125
+command: 114
+#
+name: Z2 MUTE
+type: parsed
+protocol: nec1
+address: 125
+command: 114
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 125
+command: 129
+#
+name: INPUT VCR
+type: parsed
+protocol: nec1
+address: 125
+command: 129
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 125
+command: 130
+#
+name: LASER DISC
+type: parsed
+protocol: nec1
+address: 125
+command: 131
+#
+name: LD
+type: parsed
+protocol: nec1
+address: 125
+command: 131
+#
+name: TV/DBS
+type: parsed
+protocol: nec1
+address: 125
+command: 132
+#
+name: INPUT DTV/CBL
+type: parsed
+protocol: nec1
+address: 125
+command: 132
+#
+name: DVD/VCR 3
+type: parsed
+protocol: nec1
+address: 125
+command: 133
+#
+name: VCR3/DVD
+type: parsed
+protocol: nec1
+address: 125
+command: 133
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 125
+command: 135
+#
+name: INPUT CD
+type: parsed
+protocol: nec1
+address: 125
+command: 135
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 125
+command: 136
+#
+name: INPUT PHONO
+type: parsed
+protocol: nec1
+address: 125
+command: 136
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 125
+command: 137
+#
+name: INPUT TUNER
+type: parsed
+protocol: nec1
+address: 125
+command: 137
+#
+name: V-AUX
+type: parsed
+protocol: nec1
+address: 125
+command: 138
+#
+name: MD/TAPE 1
+type: parsed
+protocol: nec1
+address: 125
+command: 139
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 125
+command: 139
+#
+name: INPUT MD/TAPE
+type: parsed
+protocol: nec1
+address: 125
+command: 139
+#
+name: TAPE 2/MON./EXTERNAL
+type: parsed
+protocol: nec1
+address: 125
+command: 140
+#
+name: TAPE 2 MON
+type: parsed
+protocol: nec1
+address: 125
+command: 140
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 125
+command: 141
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 125
+command: 142
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 143
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 125
+command: 144
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 145
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 125
+command: 147
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 125
+command: 148
+#
+name: MUTING
+type: parsed
+protocol: nec1
+address: 125
+command: 148
+#
+name: INPUT DVD
+type: parsed
+protocol: nec1
+address: 125
+command: 151
+#
+name: MENU DOWN
+type: parsed
+protocol: nec1
+address: 125
+command: 156
+#
+name: MENU UP
+type: parsed
+protocol: nec1
+address: 125
+command: 157
+#
+name: MENU RIGHT
+type: parsed
+protocol: nec1
+address: 125
+command: 158
+#
+name: MENU LEFT
+type: parsed
+protocol: nec1
+address: 125
+command: 159
+#
+name: XM 0
+type: parsed
+protocol: nec1
+address: 125
+command: 160
+#
+name: XM 1
+type: parsed
+protocol: nec1
+address: 125
+command: 161
+#
+name: XM 2
+type: parsed
+protocol: nec1
+address: 125
+command: 162
+#
+name: XM 3
+type: parsed
+protocol: nec1
+address: 125
+command: 163
+#
+name: XM 4
+type: parsed
+protocol: nec1
+address: 125
+command: 164
+#
+name: XM 5
+type: parsed
+protocol: nec1
+address: 125
+command: 165
+#
+name: XM 6
+type: parsed
+protocol: nec1
+address: 125
+command: 166
+#
+name: XM 7
+type: parsed
+protocol: nec1
+address: 125
+command: 167
+#
+name: XM 8
+type: parsed
+protocol: nec1
+address: 125
+command: 168
+#
+name: XM 9
+type: parsed
+protocol: nec1
+address: 125
+command: 169
+#
+name: TUNER PRESET A
+type: parsed
+protocol: nec1
+address: 125
+command: 172
+#
+name: TUNER PRESET B
+type: parsed
+protocol: nec1
+address: 125
+command: 173
+#
+name: TUNER PRESET C
+type: parsed
+protocol: nec1
+address: 125
+command: 174
+#
+name: TUNER PRESET D
+type: parsed
+protocol: nec1
+address: 125
+command: 175
+#
+name: TUNER PRESET E
+type: parsed
+protocol: nec1
+address: 125
+command: 176
+#
+name: TUNER A-E/CAT.-
+type: parsed
+protocol: nec1
+address: 125
+command: 187
+#
+name: TUNER BAND
+type: parsed
+protocol: nec1
+address: 125
+command: 189
+#
+name: TUNER MEMORY
+type: parsed
+protocol: nec1
+address: 125
+command: 190
+#
+name: EFFECT ON/OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 193
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 125
+command: 194
+#
+name: PARAMETER DOWN
+type: parsed
+protocol: nec1
+address: 125
+command: 196
+#
+name: PARAMETER UP
+type: parsed
+protocol: nec1
+address: 125
+command: 197
+#
+name: PARAMETER RIGHT
+type: parsed
+protocol: nec1
+address: 125
+command: 198
+#
+name: PARAMETER LEFT
+type: parsed
+protocol: nec1
+address: 125
+command: 199
+#
+name: REAR LEVEL +
+type: parsed
+protocol: nec1
+address: 125
+command: 200
+#
+name: REAR LEVEL -
+type: parsed
+protocol: nec1
+address: 125
+command: 201
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 125
+command: 202
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: nec1
+address: 125
+command: 203
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: nec1
+address: 125
+command: 204
+#
+name: FRONT LEVEL +
+type: parsed
+protocol: nec1
+address: 125
+command: 205
+#
+name: FRONT LEVEL -
+type: parsed
+protocol: nec1
+address: 125
+command: 206
+#
+name: HALL 1
+type: parsed
+protocol: nec1
+address: 125
+command: 208
+#
+name: HALL A/B
+type: parsed
+protocol: nec1
+address: 125
+command: 208
+#
+name: HALL 2
+type: parsed
+protocol: nec1
+address: 125
+command: 209
+#
+name: HALL C/D
+type: parsed
+protocol: nec1
+address: 125
+command: 209
+#
+name: CHURCH
+type: parsed
+protocol: nec1
+address: 125
+command: 210
+#
+name: HALL E/LIVE CONCERT
+type: parsed
+protocol: nec1
+address: 125
+command: 210
+#
+name: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 125
+command: 211
+#
+name: CHURCH-FREIBURG/TOKY
+type: parsed
+protocol: nec1
+address: 125
+command: 211
+#
+name: ROCK CONCERT
+type: parsed
+protocol: nec1
+address: 125
+command: 212
+#
+name: WAREHOUSE/ROXY THEAT
+type: parsed
+protocol: nec1
+address: 125
+command: 212
+#
+name: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 125
+command: 213
+#
+name: CELL CLB/VILLAGE G
+type: parsed
+protocol: nec1
+address: 125
+command: 213
+#
+name: CONCERT VIDEO 1
+type: parsed
+protocol: nec1
+address: 125
+command: 214
+#
+name: RECITAL/CLASS OPERA
+type: parsed
+protocol: nec1
+address: 125
+command: 214
+#
+name: CONCERT VIDEO 2
+type: parsed
+protocol: nec1
+address: 125
+command: 215
+#
+name: POP ROCK/PAVILION
+type: parsed
+protocol: nec1
+address: 125
+command: 215
+#
+name: TV THEATER
+type: parsed
+protocol: nec1
+address: 125
+command: 216
+#
+name: VARIETY SPORTS/MONO
+type: parsed
+protocol: nec1
+address: 125
+command: 216
+#
+name: MOVIE THEATER 1
+type: parsed
+protocol: nec1
+address: 125
+command: 217
+#
+name: MUSICAL/SPECTACLE
+type: parsed
+protocol: nec1
+address: 125
+command: 217
+#
+name: MOVIE THEATER 2
+type: parsed
+protocol: nec1
+address: 125
+command: 218
+#
+name: ADVENTURE/GENERAL
+type: parsed
+protocol: nec1
+address: 125
+command: 218
+#
+name: PRO-LOGIC/DTS
+type: parsed
+protocol: nec1
+address: 125
+command: 219
+#
+name: NORMAL/ENHANCED
+type: parsed
+protocol: nec1
+address: 125
+command: 219
+#
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 125
+command: 224
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 125
+command: 224
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 125
+command: 225
+#
+name: POWER STANDBY
+type: parsed
+protocol: nec1
+address: 125
+command: 226
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 125
+command: 227
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 125
+command: 228
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 125
+command: 228
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 125
+command: 229
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 125
+command: 229
+#
+name: SPEAKER A ON/OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 231
+#
+name: SPEAKERS A TOGGLE
+type: parsed
+protocol: nec1
+address: 125
+command: 231
+#
+name: SPEAKER B ON/OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 232
+#
+name: SPEAKERS B TOGGLE
+type: parsed
+protocol: nec1
+address: 125
+command: 232
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 125
+command: 233
+#
+name: INPUT PHONO
+type: parsed
+protocol: nec1
+address: 125
+command: 233
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 125
+command: 234
+#
+name: INPUT CD
+type: parsed
+protocol: nec1
+address: 125
+command: 234
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 125
+command: 235
+#
+name: INPUT TUNER
+type: parsed
+protocol: nec1
+address: 125
+command: 235
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 125
+command: 236
+#
+name: INPUT TAPE/MD
+type: parsed
+protocol: nec1
+address: 125
+command: 236
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 125
+command: 237
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 125
+command: 238
+#
+name: INPUT DVD
+type: parsed
+protocol: nec1
+address: 125
+command: 238
+#
+name: INPUT D-TV
+type: parsed
+protocol: nec1
+address: 125
+command: 239
+#
+name: INPUT VCR1
+type: parsed
+protocol: nec1
+address: 125
+command: 240
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 125
+command: 245
+#
+name: TUNER PRESET+
+type: parsed
+protocol: nec1
+address: 125
+command: 245
+#
+name: TUNER PRESET/CH UP
+type: parsed
+protocol: nec1
+address: 125
+command: 245
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 125
+command: 246
+#
+name: TUNER PRESET-
+type: parsed
+protocol: nec1
+address: 125
+command: 246
+#
+name: TUNER PRESET/CH DN
+type: parsed
+protocol: nec1
+address: 125
+command: 246
+#
+name: A/B/C/D/E
+type: parsed
+protocol: nec1
+address: 125
+command: 247
+#
+name: TUNER A/B/C/D/E
+type: parsed
+protocol: nec1
+address: 125
+command: 247
+#
+name: TUNER A-E/CAT.+
+type: parsed
+protocol: nec1
+address: 125
+command: 247
+#
+name: TUNER PRESET 1
+type: parsed
+protocol: nec1
+address: 125
+command: 248
+#
+name: TUNER PRESET 2
+type: parsed
+protocol: nec1
+address: 125
+command: 249
+#
+name: TUNER PRESET 3
+type: parsed
+protocol: nec1
+address: 125
+command: 250
+#
+name: TUNER PRESET 4
+type: parsed
+protocol: nec1
+address: 125
+command: 251
+#
+name: TUNER PRESET 5
+type: parsed
+protocol: nec1
+address: 125
+command: 252
+#
+name: TUNER PRESET 6
+type: parsed
+protocol: nec1
+address: 125
+command: 253
+#
+name: TUNER PRESET 7
+type: parsed
+protocol: nec1
+address: 125
+command: 254
+#
+name: TUNER PRESET 8
+type: parsed
+protocol: nec1
+address: 125
+command: 255
+#

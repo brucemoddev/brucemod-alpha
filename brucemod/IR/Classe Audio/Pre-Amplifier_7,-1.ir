@@ -1,0 +1,399 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 0
+#
+name: MUTE T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 0
+#
+name: DISPLAY T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 1
+#
+name: DISPLAY T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 1
+#
+name: DISP T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 1
+#
+name: DISP T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 1
+#
+name: VOL+ T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 8
+#
+name: VOL+ T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 8
+#
+name: VOL- T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 9
+#
+name: VOL- T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 9
+#
+name: STANDBY T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: STANDBY T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: STDBY T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: STDBY T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: ENTER T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 13
+#
+name: ENTER T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 13
+#
+name: MENU T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 14
+#
+name: MENU T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 14
+#
+name: UP T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 15
+#
+name: UP T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 15
+#
+name: BAL R T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: BAL R T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: RIGHT T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: RIGHT T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: BALANCE R T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: BALANCE R T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 16
+#
+name: BAL L T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: BAL L T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: LEFT T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: LEFT T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: BALANCE L T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: BALANCE L T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 17
+#
+name: DOWN T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 18
+#
+name: DOWN T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 18
+#
+name: LINE4 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: LINE4 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: REG4 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: REG4 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: LINE3 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: LINE3 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: REG3 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: REG3 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: LINE2 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: LINE2 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: REG2 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: REG2 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: LINE1 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: LINE1 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: REG1 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: REG1 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: SRS T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 32
+#
+name: SRS T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 32
+#
+name: TAPE T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 33
+#
+name: TAPE T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 33
+#
+name: BAL2 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 34
+#
+name: BAL2 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 34
+#
+name: BAL1 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 35
+#
+name: BAL1 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 35
+#
+name: GAIN T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 40
+#
+name: GAIN T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 40
+#
+name: PHASE T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 41
+#
+name: PHASE T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 41
+#
+name: BAL3 T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 42
+#
+name: BAL3 T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 42
+#
+name: OUTPUT T0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 43
+#
+name: OUTPUT T1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 43
+#

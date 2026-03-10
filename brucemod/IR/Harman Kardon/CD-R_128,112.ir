@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 33
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 34
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 35
+#
+name: TRACKING +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 36
+#
+name: TRACKING -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 37
+#

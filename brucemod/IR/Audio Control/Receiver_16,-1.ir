@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SELECT SAT
+type: parsed
+protocol: rc5
+address: 16
+command: 0
+#
+name: SELECT AV
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: SELECT TUNER
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: SELECT DVD
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: SELECT TAPE
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: SELECT VCR
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: SELECT CD
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: SELECT AUX
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: SELECT MULTI-CHANNEL
+type: parsed
+protocol: rc5
+address: 16
+command: 9
+#
+name: DIRECT ONOFF TGL - R
+type: parsed
+protocol: rc5
+address: 16
+command: 10
+#
+name: SELECT NET
+type: parsed
+protocol: rc5
+address: 16
+command: 11
+#
+name: STAND BY
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE ON
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: TREBLE CON. MENU - R
+type: parsed
+protocol: rc5
+address: 16
+command: 14
+#
+name: CYCLE ASPECT RAT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 19
+#
+name: FOLLOW ZONE 1 - R
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: STORE PRE X (TUN - R
+type: parsed
+protocol: rc5
+address: 16
+command: 28
+#
+name: ROOM EQ ON/OFF - R
+type: parsed
+protocol: rc5
+address: 16
+command: 30
+#
+name: CYCLE DECODE MD - R
+type: parsed
+protocol: rc5
+address: 16
+command: 32
+#
+name: SELECT DVR
+type: parsed
+protocol: rc5
+address: 16
+command: 34
+#
+name: SPEAKER TRIM - R
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#
+name: BASS CON. MENU - R
+type: parsed
+protocol: rc5
+address: 16
+command: 39
+#
+name: FAVORITE UP - R
+type: parsed
+protocol: rc5
+address: 16
+command: 41
+#
+name: FAVORITE DOWN - R
+type: parsed
+protocol: rc5
+address: 16
+command: 42
+#
+name: HOME - R
+type: parsed
+protocol: rc5
+address: 16
+command: 43
+#
+name: BASS INCREMENT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 44
+#
+name: BASS DECREMENT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 45
+#
+name: TREBLE INCREMENT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 46
+#
+name: CYCLE OUTPUT RES - R
+type: parsed
+protocol: rc5
+address: 16
+command: 47
+#
+name: RANDOM
+type: parsed
+protocol: rc5
+address: 16
+command: 48
+#
+name: RANDOM - R
+type: parsed
+protocol: rc5
+address: 16
+command: 48
+#
+name: REPEAT
+type: parsed
+protocol: rc5
+address: 16
+command: 49
+#
+name: REPEAT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 49
+#
+name: LIPSYNC CONT MEN - R
+type: parsed
+protocol: rc5
+address: 16
+command: 50
+#
+name: SUB CONTROL MENU - R
+type: parsed
+protocol: rc5
+address: 16
+command: 51
+#
+name: SELECT AM
+type: parsed
+protocol: rc5
+address: 16
+command: 52
+#
+name: SELECT FM
+type: parsed
+protocol: rc5
+address: 16
+command: 54
+#
+name: TRACK FORWARD - R
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: TRACK BACKWARD - R
+type: parsed
+protocol: rc5
+address: 16
+command: 57
+#
+name: DISPLAY BRIGHT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 59
+#
+name: DOLBY VOL. ON/OF - R
+type: parsed
+protocol: rc5
+address: 16
+command: 70
+#
+name: SELECT SIRIUS
+type: parsed
+protocol: rc5
+address: 16
+command: 72
+#
+name: DISCRETE DIR ON - R
+type: parsed
+protocol: rc5
+address: 16
+command: 78
+#
+name: DISCRETE DIR OFF - R
+type: parsed
+protocol: rc5
+address: 16
+command: 79
+#
+name: NAVIGATE RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 80
+#
+name: NAVIGATE LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 81
+#
+name: MENU - R
+type: parsed
+protocol: rc5
+address: 16
+command: 82
+#
+name: NAVIGATE DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 85
+#
+name: NAVIGATE UP
+type: parsed
+protocol: rc5
+address: 16
+command: 86
+#
+name: SELECT
+type: parsed
+protocol: rc5
+address: 16
+command: 87
+#
+name: ZONE TOGGLE - R
+type: parsed
+protocol: rc5
+address: 16
+command: 95
+#
+name: TREBLE DECREMENT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 98
+#
+name: LIPSYNC + BY 1MS - R
+type: parsed
+protocol: rc5
+address: 16
+command: 100
+#
+name: LIPSYNC - BY 1MS - R
+type: parsed
+protocol: rc5
+address: 16
+command: 101
+#
+name: SUB DECREMENT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 104
+#
+name: SUB INCREMENT - R
+type: parsed
+protocol: rc5
+address: 16
+command: 105
+#
+name: MUTE OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 120
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 16
+command: 123
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 124
+#

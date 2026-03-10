@@ -1,0 +1,435 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: mce
+address: 4.22
+command: 0
+#
+name: 1
+type: parsed
+protocol: mce
+address: 4.22
+command: 1
+#
+name: 2
+type: parsed
+protocol: mce
+address: 4.22
+command: 2
+#
+name: 3
+type: parsed
+protocol: mce
+address: 4.22
+command: 3
+#
+name: 4
+type: parsed
+protocol: mce
+address: 4.22
+command: 4
+#
+name: 5
+type: parsed
+protocol: mce
+address: 4.22
+command: 5
+#
+name: 6
+type: parsed
+protocol: mce
+address: 4.22
+command: 6
+#
+name: 7
+type: parsed
+protocol: mce
+address: 4.22
+command: 7
+#
+name: 8
+type: parsed
+protocol: mce
+address: 4.22
+command: 8
+#
+name: 9
+type: parsed
+protocol: mce
+address: 4.22
+command: 9
+#
+name: VOLUME UP
+type: parsed
+protocol: mce
+address: 4.22
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: mce
+address: 4.22
+command: 12
+#
+name: CH/PAGE UP
+type: parsed
+protocol: mce
+address: 4.22
+command: 13
+#
+name: CH/PAGE +
+type: parsed
+protocol: mce
+address: 4.22
+command: 13
+#
+name: POWER
+type: parsed
+protocol: mce
+address: 4.22
+command: 15
+#
+name: ENTER
+type: parsed
+protocol: mce
+address: 4.22
+command: 16
+#
+name: MODE
+type: parsed
+protocol: mce
+address: 4.22
+command: 17
+#
+name: SETUP/SLEEP
+type: parsed
+protocol: mce
+address: 4.22
+command: 18
+#
+name: SETUP
+type: parsed
+protocol: mce
+address: 4.22
+command: 18
+#
+name: MENU - SETUP
+type: parsed
+protocol: mce
+address: 4.22
+command: 18
+#
+name: OPTION/INPUT
+type: parsed
+protocol: mce
+address: 4.22
+command: 19
+#
+name: OPTIONS
+type: parsed
+protocol: mce
+address: 4.22
+command: 19
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 4.22
+command: 20
+#
+name: GUIDE TOGGLE
+type: parsed
+protocol: mce
+address: 4.22
+command: 20
+#
+name: BACK
+type: parsed
+protocol: mce
+address: 4.22
+command: 21
+#
+name: ARROW DOWN
+type: parsed
+protocol: mce
+address: 4.22
+command: 23
+#
+name: ARROW LEFT
+type: parsed
+protocol: mce
+address: 4.22
+command: 24
+#
+name: CURSOR LEFT
+type: parsed
+protocol: mce
+address: 4.22
+command: 24
+#
+name: ARROW RIGHT
+type: parsed
+protocol: mce
+address: 4.22
+command: 25
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: mce
+address: 4.22
+command: 25
+#
+name: ARROW SELECT
+type: parsed
+protocol: mce
+address: 4.22
+command: 26
+#
+name: INFO
+type: parsed
+protocol: mce
+address: 4.22
+command: 27
+#
+name: MENU/VIEW
+type: parsed
+protocol: mce
+address: 4.22
+command: 28
+#
+name: DVD MENU
+type: parsed
+protocol: mce
+address: 4.22
+command: 28
+#
+name: REW
+type: parsed
+protocol: mce
+address: 4.22
+command: 32
+#
+name: SCAN <<
+type: parsed
+protocol: mce
+address: 4.22
+command: 32
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 4.22
+command: 33
+#
+name: FF
+type: parsed
+protocol: mce
+address: 4.22
+command: 34
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 4.22
+command: 35
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 4.22
+command: 36
+#
+name: PAUSE
+type: parsed
+protocol: mce
+address: 4.22
+command: 37
+#
+name: MOVIES
+type: parsed
+protocol: mce
+address: 4.22
+command: 38
+#
+name: MENU - MOVIES
+type: parsed
+protocol: mce
+address: 4.22
+command: 38
+#
+name: SUBTITLE
+type: parsed
+protocol: mce
+address: 4.22
+command: 39
+#
+name: SKIP >>
+type: parsed
+protocol: mce
+address: 4.22
+command: 40
+#
+name: SKIP <<
+type: parsed
+protocol: mce
+address: 4.22
+command: 41
+#
+name: IRADIO
+type: parsed
+protocol: mce
+address: 4.22
+command: 42
+#
+name: DISC +
+type: parsed
+protocol: mce
+address: 4.22
+command: 43
+#
+name: NEXT
+type: parsed
+protocol: mce
+address: 4.22
+command: 43
+#
+name: MUSIC
+type: parsed
+protocol: mce
+address: 4.22
+command: 44
+#
+name: ADD
+type: parsed
+protocol: mce
+address: 4.22
+command: 45
+#
+name: ADD TO FAVORITES
+type: parsed
+protocol: mce
+address: 4.22
+command: 45
+#
+name: JUKEBOX PLAY
+type: parsed
+protocol: mce
+address: 4.22
+command: 46
+#
+name: RANDOM
+type: parsed
+protocol: mce
+address: 4.22
+command: 47
+#
+name: AUDIO
+type: parsed
+protocol: mce
+address: 4.22
+command: 48
+#
+name: PREV
+type: parsed
+protocol: mce
+address: 4.22
+command: 50
+#
+name: REPEAT
+type: parsed
+protocol: mce
+address: 4.22
+command: 51
+#
+name: MENU - PHOTOS
+type: parsed
+protocol: mce
+address: 4.22
+command: 52
+#
+name: POWER ON
+type: parsed
+protocol: mce
+address: 4.22
+command: 65
+#
+name: POWER OFF
+type: parsed
+protocol: mce
+address: 4.22
+command: 66
+#
+name: PLAYMODE-NORMAL
+type: parsed
+protocol: mce
+address: 4.22
+command: 67
+#
+name: PLAYMODE-RPT TRACK
+type: parsed
+protocol: mce
+address: 4.22
+command: 68
+#
+name: PLAYMODE-RPT TITLE
+type: parsed
+protocol: mce
+address: 4.22
+command: 69
+#
+name: PLAYMODE-RPT GROUP
+type: parsed
+protocol: mce
+address: 4.22
+command: 70
+#
+name: PLAYMODE-RAND TITLE
+type: parsed
+protocol: mce
+address: 4.22
+command: 71
+#
+name: PLAYMODE-RAND GROUP
+type: parsed
+protocol: mce
+address: 4.22
+command: 72
+#
+name: VIEW BY ARTIST
+type: parsed
+protocol: mce
+address: 4.22
+command: 73
+#
+name: VIEW BY TITLE
+type: parsed
+protocol: mce
+address: 4.22
+command: 74
+#
+name: VIEW BY SONG
+type: parsed
+protocol: mce
+address: 4.22
+command: 75
+#
+name: VIEW BY COVER
+type: parsed
+protocol: mce
+address: 4.22
+command: 76
+#
+name: PLAYER
+type: parsed
+protocol: mce
+address: 4.22
+command: 77
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 4.22
+command: 78
+#

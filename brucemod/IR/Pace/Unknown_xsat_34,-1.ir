@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: Proton
+address: 34
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: Proton
+address: 34
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: Proton
+address: 34
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: Proton
+address: 34
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: Proton
+address: 34
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: Proton
+address: 34
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: Proton
+address: 34
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: Proton
+address: 34
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: Proton
+address: 34
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: Proton
+address: 34
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: Proton
+address: 34
+command: 10
+#
+name: KEY_MUTE
+type: parsed
+protocol: Proton
+address: 34
+command: 11
+#
+name: KEY_INFO
+type: parsed
+protocol: Proton
+address: 34
+command: 12
+#
+name: KEY_GREEN
+type: parsed
+protocol: Proton
+address: 34
+command: 13
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Proton
+address: 34
+command: 14
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Proton
+address: 34
+command: 15
+#
+name: KEY_AUDIO
+type: parsed
+protocol: Proton
+address: 34
+command: 16
+#
+name: FREEZE
+type: parsed
+protocol: Proton
+address: 34
+command: 17
+#
+name: KEY_OK
+type: parsed
+protocol: Proton
+address: 34
+command: 18
+#
+name: SKIP_DOWN
+type: parsed
+protocol: Proton
+address: 34
+command: 19
+#
+name: FORMAT
+type: parsed
+protocol: Proton
+address: 34
+command: 20
+#
+name: KEY_INFO
+type: parsed
+protocol: Proton
+address: 34
+command: 21
+#
+name: KEY_MENU
+type: parsed
+protocol: Proton
+address: 34
+command: 22
+#
+name: KEY_RED
+type: parsed
+protocol: Proton
+address: 34
+command: 24
+#
+name: TV/RADIO
+type: parsed
+protocol: Proton
+address: 34
+command: 25
+#
+name: KEY_YELLOW
+type: parsed
+protocol: Proton
+address: 34
+command: 26
+#
+name: KEY_BLUE
+type: parsed
+protocol: Proton
+address: 34
+command: 27
+#
+name: KEY_UP
+type: parsed
+protocol: Proton
+address: 34
+command: 28
+#
+name: KEY_DOWN
+type: parsed
+protocol: Proton
+address: 34
+command: 29
+#
+name: KEY_LEFT
+type: parsed
+protocol: Proton
+address: 34
+command: 30
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Proton
+address: 34
+command: 31
+#
+name: KEY_OK
+type: parsed
+protocol: Proton
+address: 34
+command: 88
+#
+name: KEY_AUX
+type: parsed
+protocol: Proton
+address: 34
+command: 156
+#
+name: INPUT
+type: parsed
+protocol: Proton
+address: 34
+command: 157
+#
+name: KEY_QUIT
+type: parsed
+protocol: Proton
+address: 34
+command: 158
+#
+name: SKIP_UP
+type: parsed
+protocol: Proton
+address: 34
+command: 159
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REAR
+type: parsed
+protocol: rc5
+address: 16
+command: 39
+#
+name: FRONT
+type: parsed
+protocol: rc5
+address: 16
+command: 40
+#

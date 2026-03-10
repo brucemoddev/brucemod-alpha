@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD-PlayPause
+type: parsed
+protocol: nec
+address: 135.124
+command: 1
+#
+name: CD-Play
+type: parsed
+protocol: nec
+address: 135.124
+command: 1
+#
+name: CD-Stop
+type: parsed
+protocol: nec
+address: 135.124
+command: 2
+#
+name: CD-Previous
+type: parsed
+protocol: nec
+address: 135.124
+command: 5
+#
+name: CD-Next
+type: parsed
+protocol: nec
+address: 135.124
+command: 6
+#
+name: CD-Disc
+type: parsed
+protocol: nec
+address: 135.124
+command: 23
+#
+name: Tuner-Bank
+type: parsed
+protocol: nec
+address: 135.124
+command: 36
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.124
+command: 37
+#
+name: CD-Pause
+type: parsed
+protocol: nec
+address: 135.124
+command: 74
+#
+name: TapeA-Stop
+type: parsed
+protocol: nec
+address: 135.124
+command: 82
+#
+name: TapeA-Play
+type: parsed
+protocol: nec
+address: 135.124
+command: 83
+#
+name: TapeA-Rev
+type: parsed
+protocol: nec
+address: 135.124
+command: 84
+#
+name: TapeA-Record
+type: parsed
+protocol: nec
+address: 135.124
+command: 85
+#
+name: TapeA-FastForward
+type: parsed
+protocol: nec
+address: 135.124
+command: 86
+#
+name: TapeA-Rewind
+type: parsed
+protocol: nec
+address: 135.124
+command: 87
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 135.124
+command: 128
+#
+name: Input-TunerFM
+type: parsed
+protocol: nec
+address: 135.124
+command: 129
+#
+name: Input-TunerAM
+type: parsed
+protocol: nec
+address: 135.124
+command: 130
+#
+name: Input-CD
+type: parsed
+protocol: nec
+address: 135.124
+command: 133
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 135.124
+command: 136
+#
+name: Input-Disc
+type: parsed
+protocol: nec
+address: 135.124
+command: 137
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 135.124
+command: 140
+#
+name: Input-Tape1
+type: parsed
+protocol: nec
+address: 135.124
+command: 141
+#
+name: Input-Tape2
+type: parsed
+protocol: nec
+address: 135.124
+command: 145
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 135.124
+command: 148
+#
+name: TapeB-Record
+type: parsed
+protocol: nec
+address: 135.124
+command: 154
+#
+name: Input-Aux
+type: parsed
+protocol: nec
+address: 135.124
+command: 155
+#
+name: TapeB-Play
+type: parsed
+protocol: nec
+address: 135.124
+command: 156
+#
+name: TapeB-FastForward
+type: parsed
+protocol: nec
+address: 135.124
+command: 157
+#
+name: TapeB-Rewind
+type: parsed
+protocol: nec
+address: 135.124
+command: 158
+#
+name: TapeB-Stop
+type: parsed
+protocol: nec
+address: 135.124
+command: 159
+#
+name: Input-Video2
+type: parsed
+protocol: nec
+address: 135.124
+command: 192
+#
+name: Input-Video3
+type: parsed
+protocol: nec
+address: 135.124
+command: 193
+#
+name: Input-Video1
+type: parsed
+protocol: nec
+address: 135.124
+command: 194
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.124
+command: 200
+#
+name: Speakers-A
+type: parsed
+protocol: nec
+address: 135.124
+command: 206
+#
+name: Speakers-B
+type: parsed
+protocol: nec
+address: 135.124
+command: 207
+#
+name: Tuner-PresetLeft
+type: parsed
+protocol: nec
+address: 135.124
+command: 209
+#
+name: Tuner-PresetRight
+type: parsed
+protocol: nec
+address: 135.124
+command: 210
+#
+name: TapeB-Rev
+type: parsed
+protocol: nec
+address: 135.124
+command: 222
+#

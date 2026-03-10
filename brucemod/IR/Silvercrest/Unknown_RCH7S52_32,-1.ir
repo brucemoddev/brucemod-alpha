@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: text1
+type: parsed
+protocol: nec
+address: 32
+command: 2
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 32
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 32
+command: 9
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 32
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 32
+command: 11
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 32
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 32
+command: 13
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 32
+command: 14
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 32
+command: 15
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 32
+command: 16
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 32
+command: 17
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 32
+command: 18
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 32
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 32
+command: 20
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 32
+command: 21
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 32
+command: 22
+#
+name: av
+type: parsed
+protocol: nec
+address: 32
+command: 23
+#
+name: text3
+type: parsed
+protocol: nec
+address: 32
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 32
+command: 25
+#
+name: text2
+type: parsed
+protocol: nec
+address: 32
+command: 27
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 32
+command: 28
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 32
+command: 29
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 32
+command: 30
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 32
+command: 64
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 32
+command: 66
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 32
+command: 67
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 32
+command: 68
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 32
+command: 71
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 32
+command: 72
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 32
+command: 73
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 32
+command: 77
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 32
+command: 78
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 32
+command: 79
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 32
+command: 81
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 32
+command: 84
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 32
+command: 85
+#
+name: forw
+type: parsed
+protocol: nec
+address: 32
+command: 89
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 32
+command: 92
+#
+name: text4
+type: parsed
+protocol: nec
+address: 32
+command: 93
+#

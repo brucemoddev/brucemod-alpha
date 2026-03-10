@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: Power
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: 0
+type: parsed
+protocol: nec
+address: 4
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec
+address: 4
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec
+address: 4
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec
+address: 4
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec
+address: 4
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec
+address: 4
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec
+address: 4
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec
+address: 4
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec
+address: 4
+command: 25
+#
+name: Prev
+type: parsed
+protocol: nec
+address: 4
+command: 26
+#
+name: Info
+type: parsed
+protocol: nec
+address: 4
+command: 27
+#
+name: CAST
+type: parsed
+protocol: nec
+address: 4
+command: 28
+#
+name: HAYSTACK
+type: parsed
+protocol: nec
+address: 4
+command: 30
+#
+name: DISNEY+
+type: parsed
+protocol: nec
+address: 4
+command: 31
+#
+name: ONSCREEN CONSOLE
+type: parsed
+protocol: nec
+address: 4
+command: 32
+#
+name: ONSCREEN CONSOLE
+type: parsed
+protocol: nec
+address: 4
+command: 33
+#
+name: RESTART
+type: parsed
+protocol: nec
+address: 4
+command: 37
+#
+name: home
+type: parsed
+protocol: nec
+address: 4
+command: 45
+#
+name: Input
+type: parsed
+protocol: nec
+address: 4
+command: 47
+#
+name: cc
+type: parsed
+protocol: nec
+address: 4
+command: 57
+#
+name: REDBOX
+type: parsed
+protocol: nec
+address: 4
+command: 66
+#
+name: OPTIONS
+type: parsed
+protocol: nec
+address: 4
+command: 67
+#
+name: enter
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4
+command: 69
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4
+command: 70
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4
+command: 71
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4
+command: 72
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4
+command: 74
+#
+name: PEACOCK
+type: parsed
+protocol: nec
+address: 4
+command: 81
+#
+name: TUBI
+type: parsed
+protocol: nec
+address: 4
+command: 90
+#
+name: PLUTO TV
+type: parsed
+protocol: nec
+address: 4
+command: 96
+#
+name: HBO MAX
+type: parsed
+protocol: nec
+address: 4
+command: 97
+#
+name: Status
+type: parsed
+protocol: nec
+address: 4
+command: 98
+#
+name: picture
+type: parsed
+protocol: nec
+address: 4
+command: 103
+#
+name: XUMO PLAY
+type: parsed
+protocol: nec
+address: 4
+command: 111
+#
+name: COMP
+type: parsed
+protocol: nec
+address: 4
+command: 113
+#
+name: Aspect
+type: parsed
+protocol: nec
+address: 4
+command: 119
+#
+name: HDMI 1
+type: parsed
+protocol: nec
+address: 4
+command: 129
+#
+name: HDMI 2
+type: parsed
+protocol: nec
+address: 4
+command: 130
+#
+name: HDMI 3
+type: parsed
+protocol: nec
+address: 4
+command: 131
+#
+name: PRIME VIDEO
+type: parsed
+protocol: nec
+address: 4
+command: 234
+#
+name: NETFLIX
+type: parsed
+protocol: nec
+address: 4
+command: 235
+#
+name: VUDU
+type: parsed
+protocol: nec
+address: 4
+command: 236
+#
+name: IHEART
+type: parsed
+protocol: nec
+address: 4
+command: 238
+#
+name: usb
+type: parsed
+protocol: nec
+address: 4
+command: 240
+#
+name: WATCH FREE+
+type: parsed
+protocol: nec
+address: 4
+command: 247
+#
+name: CRACKLE
+type: parsed
+protocol: nec
+address: 4
+command: 248
+#
+name: HULU
+type: parsed
+protocol: nec
+address: 4
+command: 249
+#
+name: Dash
+type: parsed
+protocol: nec
+address: 4
+command: 255
+#

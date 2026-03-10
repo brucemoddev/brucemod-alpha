@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAY
+type: parsed
+protocol: nec2
+address: 129.129
+command: 1
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec2
+address: 129.129
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec2
+address: 129.129
+command: 9
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec2
+address: 129.129
+command: 17
+#
+name: random
+type: parsed
+protocol: nec2
+address: 129.129
+command: 18
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec2
+address: 129.129
+command: 25
+#
+name: memory
+type: parsed
+protocol: nec2
+address: 129.129
+command: 26
+#

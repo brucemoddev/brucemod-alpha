@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SCAN
+type: parsed
+protocol: nec1
+address: 128
+command: 0
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 128
+command: 1
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128
+command: 2
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128
+command: 3
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128
+command: 4
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128
+command: 5
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128
+command: 6
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128
+command: 7
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128
+command: 9
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128
+command: 10
+#
+name: N7
+type: parsed
+protocol: nec1
+address: 128
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128
+command: 12
+#
+name: N10
+type: parsed
+protocol: nec1
+address: 128
+command: 13
+#
+name: SBS
+type: parsed
+protocol: nec1
+address: 128
+command: 14
+#
+name: N9
+type: parsed
+protocol: nec1
+address: 128
+command: 15
+#
+name: ABC
+type: parsed
+protocol: nec1
+address: 128
+command: 16
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128
+command: 17
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 128
+command: 18
+#
+name: EPG
+type: parsed
+protocol: nec1
+address: 128
+command: 19
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 128
+command: 20
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 128
+command: 21
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 128
+command: 22
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128
+command: 23
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 128
+command: 24
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 128
+command: 25
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 128
+command: 26
+#
+name: ASP
+type: parsed
+protocol: nec1
+address: 128
+command: 27
+#
+name: CC/TT
+type: parsed
+protocol: nec1
+address: 128
+command: 28
+#
+name: RD/TV
+type: parsed
+protocol: nec1
+address: 128
+command: 29
+#
+name: NXT ALT
+type: parsed
+protocol: nec1
+address: 128
+command: 30
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 128
+command: 128
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 128
+command: 129
+#

@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: nec1
+address: 128.126
+command: 1
+#
+name: MODE
+type: parsed
+protocol: nec
+address: 128.126
+command: 2
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 128.126
+command: 6
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 128.126
+command: 10
+#
+name: DN
+type: parsed
+protocol: nec
+address: 128.126
+command: 12
+#
+name: SAVE
+type: parsed
+protocol: nec1
+address: 128.126
+command: 13
+#
+name: PWR
+type: parsed
+protocol: nec1
+address: 128.126
+command: 23
+#

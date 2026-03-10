@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 0.73
+command: 0
+#
+name: QUELLE
+type: parsed
+protocol: nec1
+address: 0.73
+command: 2
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0.73
+command: 3
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0.73
+command: 4
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0.73
+command: 5
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0.73
+command: 6
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0.73
+command: 7
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0.73
+command: 8
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0.73
+command: 9
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0.73
+command: 10
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0.73
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0.73
+command: 12
+#
+name: TV/RADIO
+type: parsed
+protocol: nec1
+address: 0.73
+command: 13
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0.73
+command: 14
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 0.73
+command: 15
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 0.73
+command: 16
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0.73
+command: 17
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0.73
+command: 18
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 0.73
+command: 19
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0.73
+command: 20
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0.73
+command: 21
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 0.73
+command: 24
+#
+name: GELB
+type: parsed
+protocol: nec1
+address: 0.73
+command: 26
+#
+name: ROT
+type: parsed
+protocol: nec1
+address: 0.73
+command: 28
+#
+name: N
+type: parsed
+protocol: nec1
+address: 0.73
+command: 29
+#
+name: BLAU
+type: parsed
+protocol: nec1
+address: 0.73
+command: 30
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 0.73
+command: 31
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 0.73
+command: 64
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 0.73
+command: 67
+#
+name: TEXT
+type: parsed
+protocol: nec1
+address: 0.73
+command: 70
+#
+name: TEXT (SEITE +)
+type: parsed
+protocol: nec1
+address: 0.73
+command: 73
+#
+name: TEXT (SEITE -)
+type: parsed
+protocol: nec1
+address: 0.73
+command: 74
+#
+name: LISTE
+type: parsed
+protocol: nec1
+address: 0.73
+command: 77
+#
+name: WIDE
+type: parsed
+protocol: nec1
+address: 0.73
+command: 78
+#
+name: V-FORMAT
+type: parsed
+protocol: nec1
+address: 0.73
+command: 79
+#

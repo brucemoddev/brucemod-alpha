@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: akai
+address: 1
+command: 3
+#
+name: F.FWD
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: KEY_REWIND
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: KEY_PLAY
+type: parsed
+protocol: akai
+address: 1
+command: 12
+#
+name: KEY_PAUSE
+type: parsed
+protocol: akai
+address: 1
+command: 13
+#
+name: KEY_SEARCH
+type: parsed
+protocol: akai
+address: 1
+command: 14
+#
+name: VISUAL
+type: parsed
+protocol: akai
+address: 1
+command: 15
+#
+name: F.ADV
+type: parsed
+protocol: akai
+address: 1
+command: 22
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: akai
+address: 1
+command: 25
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: akai
+address: 1
+command: 26
+#

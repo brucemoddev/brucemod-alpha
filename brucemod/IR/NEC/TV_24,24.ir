@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD/HD
+type: parsed
+protocol: nec1
+address: 24.24
+command: 28
+#
+name: WIDE
+type: parsed
+protocol: nec1
+address: 24.24
+command: 173
+#
+name: CUR UP
+type: parsed
+protocol: nec1
+address: 24.24
+command: 176
+#
+name: CUR DN
+type: parsed
+protocol: nec1
+address: 24.24
+command: 177
+#
+name: CUR LF
+type: parsed
+protocol: nec1
+address: 24.24
+command: 178
+#
+name: CUR RT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 179
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 24.24
+command: 192
+#
+name: PROCEED
+type: parsed
+protocol: nec1
+address: 24.24
+command: 196
+#
+name: POINTER
+type: parsed
+protocol: nec1
+address: 24.24
+command: 201
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 24.24
+command: 202
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 24.24
+command: 203
+#

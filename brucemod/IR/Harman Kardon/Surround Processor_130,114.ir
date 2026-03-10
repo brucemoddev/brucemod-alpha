@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CASS FAST FORWARD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CASS REWIND
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS DECK STOP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CASS SEARCH>>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS SEARCH<<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CASS RECORD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CASS SELECT A/B
+type: parsed
+protocol: nec2
+address: 130.114
+command: 29
+#
+name: SPKR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 36
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 42
+#
+name: SKIP -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 48
+#
+name: SKIP +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 49
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 58
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 59
+#
+name: 
+type: parsed
+protocol: nec1
+address: 130.114
+command: 80
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 80
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 130.114
+command: 82
+#
+name: SPEAKER
+type: parsed
+protocol: nec1
+address: 130.114
+command: 83
+#
+name: DIGITAL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 84
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 130.114
+command: 88
+#
+name: OSD
+type: parsed
+protocol: nec1
+address: 130.114
+command: 92
+#
+name: CHANNEL
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: CH.
+type: parsed
+protocol: nec1
+address: 130.114
+command: 93
+#
+name: SET
+type: parsed
+protocol: nec1
+address: 130.114
+command: 132
+#
+name: OFF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 137
+#
+name: DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 138
+#
+name: TEST
+type: parsed
+protocol: nec2
+address: 130.114
+command: 140
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 130.114
+command: 140
+#
+name: CENT MODE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 141
+#
+name: THEATER
+type: parsed
+protocol: nec2
+address: 130.114
+command: 146
+#
+name: STADIUM
+type: parsed
+protocol: nec2
+address: 130.114
+command: 148
+#
+name: CORSOR UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 153
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 154
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 130.114
+command: 155
+#
+name: 3-CH
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: PRO-LOGIC
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: DTS SURROUND
+type: parsed
+protocol: nec1
+address: 130.114
+command: 160
+#
+name: DTS NEO6
+type: parsed
+protocol: nec1
+address: 130.114
+command: 161
+#
+name: LOGIC7
+type: parsed
+protocol: nec1
+address: 130.114
+command: 162
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 193
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 130.114
+command: 194
+#
+name: TONE
+type: parsed
+protocol: nec1
+address: 130.114
+command: 197
+#
+name: PSET UP
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: PSET DN
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: 6 CH
+type: parsed
+protocol: nec1
+address: 130.114
+command: 216
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 130.114
+command: 217
+#

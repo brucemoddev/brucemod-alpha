@@ -1,0 +1,513 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 32
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 128.55
+command: 33
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 128.55
+command: 34
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 128.55
+command: 35
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 128.55
+command: 37
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 128.55
+command: 38
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 128.55
+command: 39
+#
+name: CHAPTER <<
+type: parsed
+protocol: nec1
+address: 128.55
+command: 40
+#
+name: CHAPTER >>
+type: parsed
+protocol: nec1
+address: 128.55
+command: 41
+#
+name: GOUP -
+type: parsed
+protocol: nec1
+address: 128.55
+command: 42
+#
+name: GROUP +
+type: parsed
+protocol: nec1
+address: 128.55
+command: 43
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 48
+#
+name: BROADCAST
+type: parsed
+protocol: nec1
+address: 128.55
+command: 49
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 128.55
+command: 50
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 51
+#
+name: FUNCTION 3
+type: parsed
+protocol: nec1
+address: 128.55
+command: 61
+#
+name: RECEIVER MUTE
+type: parsed
+protocol: nec1
+address: 128.55
+command: 61
+#
+name: FUNCTION 1
+type: parsed
+protocol: nec1
+address: 128.55
+command: 62
+#
+name: RECEIVER VOL -
+type: parsed
+protocol: nec1
+address: 128.55
+command: 62
+#
+name: FUNCTION 2
+type: parsed
+protocol: nec1
+address: 128.55
+command: 63
+#
+name: RECEIVER VOL +
+type: parsed
+protocol: nec1
+address: 128.55
+command: 63
+#
+name: ARTIST
+type: parsed
+protocol: nec1
+address: 128.55
+command: 64
+#
+name: ALBUM
+type: parsed
+protocol: nec1
+address: 128.55
+command: 65
+#
+name: GENRES
+type: parsed
+protocol: nec1
+address: 128.55
+command: 66
+#
+name: ALL SONGS
+type: parsed
+protocol: nec1
+address: 128.55
+command: 67
+#
+name: PLAYLIST
+type: parsed
+protocol: nec1
+address: 128.55
+command: 68
+#
+name: SONG STATS.
+type: parsed
+protocol: nec1
+address: 128.55
+command: 69
+#
+name: BOOKMARKS
+type: parsed
+protocol: nec1
+address: 128.55
+command: 70
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.55
+command: 71
+#
+name: RECORDING
+type: parsed
+protocol: nec1
+address: 128.55
+command: 72
+#
+name: AV RECIEVER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 73
+#
+name: CLIENT PLAYBACK
+type: parsed
+protocol: nec1
+address: 128.55
+command: 74
+#
+name: EXT. INPUTS
+type: parsed
+protocol: nec1
+address: 128.55
+command: 75
+#
+name: PLAY INFO
+type: parsed
+protocol: nec1
+address: 128.55
+command: 78
+#
+name: BOOKMARK ON/OFF
+type: parsed
+protocol: nec1
+address: 128.55
+command: 79
+#
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 128.55
+command: 80
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128.55
+command: 81
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 128.55
+command: 82
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 128.55
+command: 83
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 84
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 85
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 86
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 128.55
+command: 87
+#
+name: SUB MENU
+type: parsed
+protocol: nec1
+address: 128.55
+command: 88
+#
+name: PAGE +
+type: parsed
+protocol: nec1
+address: 128.55
+command: 89
+#
+name: PAGE -
+type: parsed
+protocol: nec1
+address: 128.55
+command: 90
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 128.55
+command: 97
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 128
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 128.55
+command: 130
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128.55
+command: 131
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 128.55
+command: 131
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128.55
+command: 133
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 128.55
+command: 133
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128.55
+command: 134
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 128.55
+command: 134
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128.55
+command: 135
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 128.55
+command: 135
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128.55
+command: 136
+#
+name: CHAPTER -
+type: parsed
+protocol: nec1
+address: 128.55
+command: 136
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.55
+command: 137
+#
+name: CHAPTER +
+type: parsed
+protocol: nec1
+address: 128.55
+command: 137
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.55
+command: 138
+#
+name: GROUP -
+type: parsed
+protocol: nec1
+address: 128.55
+command: 138
+#
+name: GROUP +
+type: parsed
+protocol: nec1
+address: 128.55
+command: 139
+#
+name: FAVORITE 1
+type: parsed
+protocol: nec1
+address: 128.55
+command: 140
+#
+name: FAVORITE 2
+type: parsed
+protocol: nec1
+address: 128.55
+command: 141
+#
+name: FAVORITE 3
+type: parsed
+protocol: nec1
+address: 128.55
+command: 142
+#
+name: FAVORITE 4
+type: parsed
+protocol: nec1
+address: 128.55
+command: 143
+#
+name: BOOKMARK
+type: parsed
+protocol: nec1
+address: 128.55
+command: 145
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 128.55
+command: 146
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 147
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 152
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128.55
+command: 157
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 128.55
+command: 158
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 128.55
+command: 159
+#
+name: PLAY INFO
+type: parsed
+protocol: nec1
+address: 128.55
+command: 174
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128.55
+command: 177
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 128.55
+command: 178
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 128.55
+command: 179
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 180
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 128.55
+command: 181
+#
+name: SELECT/ENTER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 182
+#
+name: LIBRARY
+type: parsed
+protocol: nec1
+address: 128.55
+command: 189
+#
+name: OFF TIMER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 190
+#
+name: ON TIMER
+type: parsed
+protocol: nec1
+address: 128.55
+command: 191
+#

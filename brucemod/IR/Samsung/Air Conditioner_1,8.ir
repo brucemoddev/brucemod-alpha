@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SLEEP
+type: parsed
+protocol: necx2
+address: 1.8
+command: 39
+#
+name: AIR SWING
+type: parsed
+protocol: necx2
+address: 1.8
+command: 41
+#
+name: TEMP -
+type: parsed
+protocol: necx2
+address: 1.8
+command: 49
+#
+name: TEMP +
+type: parsed
+protocol: necx2
+address: 1.8
+command: 50
+#
+name: FAN SPEED
+type: parsed
+protocol: necx2
+address: 1.8
+command: 52
+#
+name: FAN
+type: parsed
+protocol: necx2
+address: 1.8
+command: 57
+#
+name: COOL
+type: parsed
+protocol: necx2
+address: 1.8
+command: 60
+#
+name: POWER
+type: parsed
+protocol: necx2
+address: 1.8
+command: 63
+#
+name: POWER LONG
+type: parsed
+protocol: necx2
+address: 1.8
+command: 63
+#
+name: POWER SUSTAIN
+type: parsed
+protocol: necx2
+address: 1.8
+command: 63
+#

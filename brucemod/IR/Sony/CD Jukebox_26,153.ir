@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ARTIST MODE
+type: parsed
+protocol: sony20
+address: 26.153
+command: 72
+#

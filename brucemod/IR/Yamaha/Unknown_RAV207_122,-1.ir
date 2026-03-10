@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AMP/VCR
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: AMP/TURNER_PAGE_UP
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: AMP/TURNER_PAGE_DOWN
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: AMP/TURNER_PAGE
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: AMP/AUX
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: AMP/CD_INPUT
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: AMP/TURNER_INPUT
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: AMP/VOL_UP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: AMP/VOL_DOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: AMP/MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: AMP/PLUS
+type: parsed
+protocol: nec
+address: 122
+command: 82
+#
+name: AMP/MINUS
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: AMP/TV_CBL
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: AMP/V_AUX
+type: parsed
+protocol: nec
+address: 122
+command: 85
+#
+name: AMP/EFFECT
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#
+name: AMP/SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: AMP/POWER
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: AMP/PRG_PLUS
+type: parsed
+protocol: nec
+address: 122
+command: 88
+#
+name: AMP/PRG_MINUS
+type: parsed
+protocol: nec
+address: 122
+command: 89
+#
+name: AMP/TEST
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: AMP/TIME_LEVEL
+type: parsed
+protocol: nec
+address: 122
+command: 134
+#
+name: AMP/6_CH
+type: parsed
+protocol: nec
+address: 122
+command: 135
+#
+name: AMP/SET_MENU
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#
+name: AMP/DVD
+type: parsed
+protocol: nec
+address: 122
+command: 193
+#
+name: AMP/MD_CDR_INPU
+type: parsed
+protocol: nec
+address: 122
+command: 201
+#

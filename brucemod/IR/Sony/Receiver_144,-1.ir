@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SND F. CINEMA STUDIO
+type: parsed
+protocol: sony15
+address: 144
+command: 38
+#
+name: 2 CH SOUND
+type: parsed
+protocol: sony15
+address: 144
+command: 65
+#
+name: SOUND FIELD 2CH
+type: parsed
+protocol: sony15
+address: 144
+command: 65
+#
+name: 2 CHANNEL
+type: parsed
+protocol: sony15
+address: 144
+command: 65
+#
+name: AFD
+type: parsed
+protocol: sony15
+address: 144
+command: 71
+#
+name: SOUND FIELD A.F.D.
+type: parsed
+protocol: sony15
+address: 144
+command: 71
+#
+name: AUTO FORMAT DECODE
+type: parsed
+protocol: sony15
+address: 144
+command: 71
+#
+name: TEST TONE
+type: parsed
+protocol: sony15
+address: 144
+command: 74
+#
+name: EQ/TONE
+type: parsed
+protocol: sony15
+address: 144
+command: 76
+#
+name: EQ
+type: parsed
+protocol: sony15
+address: 144
+command: 76
+#
+name: BASS BOOST
+type: parsed
+protocol: sony15
+address: 144
+command: 77
+#
+name: REAR LEVEL +
+type: parsed
+protocol: sony15
+address: 144
+command: 78
+#
+name: REAR +
+type: parsed
+protocol: sony15
+address: 144
+command: 78
+#
+name: REAR LEVEL -
+type: parsed
+protocol: sony15
+address: 144
+command: 79
+#
+name: REAR -
+type: parsed
+protocol: sony15
+address: 144
+command: 79
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: sony15
+address: 144
+command: 84
+#
+name: CENTER +
+type: parsed
+protocol: sony15
+address: 144
+command: 84
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: sony15
+address: 144
+command: 85
+#
+name: CENTER -
+type: parsed
+protocol: sony15
+address: 144
+command: 85
+#
+name: MODE
+type: parsed
+protocol: sony15
+address: 144
+command: 110
+#
+name: SOUND FIELD MODE
+type: parsed
+protocol: sony15
+address: 144
+command: 110
+#
+name: MENU <
+type: parsed
+protocol: sony15
+address: 144
+command: 114
+#
+name: MENU >
+type: parsed
+protocol: sony15
+address: 144
+command: 115
+#
+name: -
+type: parsed
+protocol: sony15
+address: 144
+command: 116
+#
+name: +
+type: parsed
+protocol: sony15
+address: 144
+command: 117
+#
+name: CURSOR MODE
+type: parsed
+protocol: sony15
+address: 144
+command: 119
+#
+name: MENU
+type: parsed
+protocol: sony15
+address: 144
+command: 119
+#
+name: CURSOR UP
+type: parsed
+protocol: sony15
+address: 144
+command: 120
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony15
+address: 144
+command: 121
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony15
+address: 144
+command: 122
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony15
+address: 144
+command: 123
+#

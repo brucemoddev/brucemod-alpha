@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON/OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE ATT
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: SPEAKER A/B
+type: parsed
+protocol: rc5
+address: 16
+command: 29
+#
+name: SOURCE DIRECT
+type: parsed
+protocol: rc5
+address: 16
+command: 34
+#
+name: LOUDNESS
+type: parsed
+protocol: rc5
+address: 16
+command: 50
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 16
+command: 80
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 81
+#
+name: EXIT MENU
+type: parsed
+protocol: rc5
+address: 16
+command: 83
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 85
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 86
+#
+name: ENTER (OK)
+type: parsed
+protocol: rc5
+address: 16
+command: 87
+#

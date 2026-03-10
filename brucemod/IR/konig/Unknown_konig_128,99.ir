@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128.99
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128.99
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128.99
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128.99
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128.99
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128.99
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128.99
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128.99
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128.99
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128.99
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 128.99
+command: 10
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 128.99
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 128.99
+command: 12
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 128.99
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 128.99
+command: 14
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 128.99
+command: 15
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 128.99
+command: 16
+#
+name: quick-view
+type: parsed
+protocol: nec
+address: 128.99
+command: 17
+#
+name: tv-av
+type: parsed
+protocol: nec
+address: 128.99
+command: 18
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 128.99
+command: 19
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 128.99
+command: 20
+#
+name: tone
+type: parsed
+protocol: nec
+address: 128.99
+command: 21
+#
+name: bar
+type: parsed
+protocol: nec
+address: 128.99
+command: 22
+#
+name: time-select
+type: parsed
+protocol: nec
+address: 128.99
+command: 23
+#
+name: time-set
+type: parsed
+protocol: nec
+address: 128.99
+command: 24
+#
+name: mono
+type: parsed
+protocol: nec
+address: 128.99
+command: 25
+#
+name: preset
+type: parsed
+protocol: nec
+address: 128.99
+command: 26
+#
+name: auto-mem
+type: parsed
+protocol: nec
+address: 128.99
+command: 27
+#
+name: ch-skip
+type: parsed
+protocol: nec
+address: 128.99
+command: 29
+#
+name: aft
+type: parsed
+protocol: nec
+address: 128.99
+command: 30
+#
+name: status
+type: parsed
+protocol: nec
+address: 128.99
+command: 64
+#
+name: display-cancel
+type: parsed
+protocol: nec
+address: 128.99
+command: 66
+#
+name: tune-right
+type: parsed
+protocol: nec
+address: 128.99
+command: 67
+#
+name: tune-left
+type: parsed
+protocol: nec
+address: 128.99
+command: 68
+#
+name: KEY_TEXT
+type: parsed
+protocol: nec
+address: 128.99
+command: 69
+#
+name: expand
+type: parsed
+protocol: nec
+address: 128.99
+command: 70
+#
+name: hold
+type: parsed
+protocol: nec
+address: 128.99
+command: 71
+#
+name: reveal
+type: parsed
+protocol: nec
+address: 128.99
+command: 72
+#
+name: browse
+type: parsed
+protocol: nec
+address: 128.99
+command: 73
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 128.99
+command: 74
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 128.99
+command: 75
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 128.99
+command: 76
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 128.99
+command: 77
+#

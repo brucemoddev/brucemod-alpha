@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MAIN POWER ON D
+type: parsed
+protocol: nec1
+address: 232.26
+command: 42
+#
+name: MAIN POWER ON C
+type: parsed
+protocol: nec1
+address: 232.26
+command: 84
+#
+name: MAIN POWER OFF C
+type: parsed
+protocol: nec1
+address: 232.26
+command: 85
+#
+name: MAIN POWER OFF D
+type: parsed
+protocol: nec1
+address: 232.26
+command: 170
+#

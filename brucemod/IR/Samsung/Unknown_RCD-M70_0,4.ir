@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 0
+#
+name: band
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 5
+#
+name: program
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 18
+#
+name: KEY_RADIO
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 19
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 32
+#
+name: KEY_PLAY
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 33
+#
+name: tuning_right
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 34
+#
+name: KEY_CD
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 37
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 48
+#
+name: preset
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 49
+#
+name: tuning_left
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 50
+#
+name: sound
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 82
+#
+name: eq
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 83
+#
+name: KEY_SLEEP
+type: parsed
+protocol: Teac-K
+address: 0.4
+command: 103
+#

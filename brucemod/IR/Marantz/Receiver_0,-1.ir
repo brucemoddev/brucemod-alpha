@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: 
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: TUNE/SEARCH FWD
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: TUNE/SEARCH BACK
+type: parsed
+protocol: rc5
+address: 0
+command: 11
+#
+name: OSD
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: TV VOLUME UP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: TV VOLUME DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: CHUP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: PRESET +
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CH/SKIP FWD
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CHANNEL +
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CHAN / CAT +
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: CHDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: PRESET -
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: CH/SKIP BACK
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: CHANNEL -
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: CHAN / CAT -
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: MEMO
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: CLEAR
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: INPUT/DISC+
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: TV
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: AMP
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: AUX
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: INPUT - TV
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: INPUT: TV
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: MENU OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 83
+#

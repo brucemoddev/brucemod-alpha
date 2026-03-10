@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 2.255
+command: 17
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 2.255
+command: 20
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 2.255
+command: 21
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 2.255
+command: 22
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 2.255
+command: 23
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 2.255
+command: 27
+#
+name: KEY_MEDIA_REPEAT
+type: parsed
+protocol: nec
+address: 2.255
+command: 31
+#
+name: X_KEY_CLOCK
+type: parsed
+protocol: nec
+address: 2.255
+command: 78
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 2.255
+command: 88
+#
+name: X_KEY_SOURCE
+type: parsed
+protocol: nec
+address: 2.255
+command: 92
+#

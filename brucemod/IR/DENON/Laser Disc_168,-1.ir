@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: pioneer
+address: 168
+command: 0
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 168
+command: 1
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 168
+command: 2
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 168
+command: 3
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 168
+command: 4
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 168
+command: 5
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 168
+command: 6
+#
+name: 7
+type: parsed
+protocol: pioneer
+address: 168
+command: 7
+#
+name: 8
+type: parsed
+protocol: pioneer
+address: 168
+command: 8
+#
+name: 9
+type: parsed
+protocol: pioneer
+address: 168
+command: 9
+#
+name: D/A.CX
+type: parsed
+protocol: pioneer
+address: 168
+command: 12
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 16
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 17
+#
+name: CHAPTER/FRAME TIME
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: STOP/EJECT []
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: PLAY >
+type: parsed
+protocol: pioneer
+address: 168
+command: 23
+#
+name: PAUSE 
+type: parsed
+protocol: pioneer
+address: 168
+command: 24
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 168
+command: 28
+#
+name: EDIT
+type: parsed
+protocol: pioneer
+address: 168
+command: 29
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: +10
+type: parsed
+protocol: pioneer
+address: 168
+command: 31
+#
+name: JOG FORWARD +
+type: parsed
+protocol: pioneer
+address: 168
+command: 32
+#
+name: JOG REVERSE -
+type: parsed
+protocol: pioneer
+address: 168
+command: 36
+#
+name: SHUT.FWD(FULL SP)
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: SHUT.REV(FULL SP)
+type: parsed
+protocol: pioneer
+address: 168
+command: 47
+#
+name: D-LEVEL CONTROL
+type: parsed
+protocol: pioneer
+address: 168
+command: 55
+#
+name: ON SCREEN
+type: parsed
+protocol: pioneer
+address: 168
+command: 67
+#
+name: REPEAT B
+type: parsed
+protocol: pioneer
+address: 168
+command: 68
+#
+name: C (CLEAR)
+type: parsed
+protocol: pioneer
+address: 168
+command: 69
+#
+name: MULTI SPEED -
+type: parsed
+protocol: pioneer
+address: 168
+command: 70
+#
+name: MULTI SPEED +
+type: parsed
+protocol: pioneer
+address: 168
+command: 71
+#
+name: REPEAT A
+type: parsed
+protocol: pioneer
+address: 168
+command: 72
+#
+name: PROGRAM
+type: parsed
+protocol: pioneer
+address: 168
+command: 76
+#
+name: DISC SIDE A
+type: parsed
+protocol: pioneer
+address: 168
+command: 77
+#
+name: DISC SIDE B
+type: parsed
+protocol: pioneer
+address: 168
+command: 78
+#
+name: STILL/STEP <
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: SKIP >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 82
+#
+name: SKIP <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 83
+#
+name: STILL/STEP >
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#
+name: MULTI SPEED <
+type: parsed
+protocol: pioneer
+address: 168
+command: 85
+#
+name: MULTI SPEED >
+type: parsed
+protocol: pioneer
+address: 168
+command: 88
+#
+name: HILITE/INTRO
+type: parsed
+protocol: pioneer
+address: 168
+command: 90
+#
+name: STROBE
+type: parsed
+protocol: pioneer
+address: 168
+command: 91
+#
+name: ONE SHOT MEMORY
+type: parsed
+protocol: pioneer
+address: 168
+command: 93
+#

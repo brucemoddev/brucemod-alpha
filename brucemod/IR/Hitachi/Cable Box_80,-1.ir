@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AVX
+type: parsed
+protocol: nec1
+address: 80
+command: 9
+#
+name: LST-CH
+type: parsed
+protocol: nec1
+address: 80
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 80
+command: 11
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 80
+command: 16
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 80
+command: 18
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 80
+command: 21
+#

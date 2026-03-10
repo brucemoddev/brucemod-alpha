@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony20
+address: 26.226
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony20
+address: 26.226
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony20
+address: 26.226
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony20
+address: 26.226
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony20
+address: 26.226
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony20
+address: 26.226
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony20
+address: 26.226
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony20
+address: 26.226
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony20
+address: 26.226
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony20
+address: 26.226
+command: 9
+#
+name: KEY_GREEN
+type: parsed
+protocol: sony20
+address: 26.226
+command: 11
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony20
+address: 26.226
+command: 15
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: sony20
+address: 26.226
+command: 22
+#
+name: KEY_STOP
+type: parsed
+protocol: sony20
+address: 26.226
+command: 24
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony20
+address: 26.226
+command: 25
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony20
+address: 26.226
+command: 26
+#
+name: SCAN_BACK
+type: parsed
+protocol: sony20
+address: 26.226
+command: 27
+#
+name: SCAN_FORWARD
+type: parsed
+protocol: sony20
+address: 26.226
+command: 28
+#
+name: POPUP_MENU
+type: parsed
+protocol: sony20
+address: 26.226
+command: 41
+#
+name: TOP_MENU
+type: parsed
+protocol: sony20
+address: 26.226
+command: 44
+#
+name: KEY_POWER
+type: parsed
+protocol: sony20
+address: 26.226
+command: 46
+#
+name: KEY_POWER
+type: parsed
+protocol: sony20
+address: 26.226
+command: 47
+#
+name: KEY_BLUE
+type: parsed
+protocol: sony20
+address: 26.226
+command: 51
+#
+name: NAV_UP
+type: parsed
+protocol: sony20
+address: 26.226
+command: 57
+#
+name: NAV_DOWN
+type: parsed
+protocol: sony20
+address: 26.226
+command: 58
+#
+name: NAV_LEFT
+type: parsed
+protocol: sony20
+address: 26.226
+command: 59
+#
+name: NAV_RIGHT
+type: parsed
+protocol: sony20
+address: 26.226
+command: 60
+#
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.226
+command: 61
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 26.226
+command: 65
+#
+name: SYSTEM_MENU
+type: parsed
+protocol: sony20
+address: 26.226
+command: 66
+#
+name: KEY_OK
+type: parsed
+protocol: sony20
+address: 26.226
+command: 67
+#
+name: KEY_YELLOW
+type: parsed
+protocol: sony20
+address: 26.226
+command: 75
+#
+name: KEY_VIDEO
+type: parsed
+protocol: sony20
+address: 26.226
+command: 80
+#
+name: STEP_BACK
+type: parsed
+protocol: sony20
+address: 26.226
+command: 83
+#
+name: STEP_FORWARD
+type: parsed
+protocol: sony20
+address: 26.226
+command: 84
+#
+name: KEY_NEXT
+type: parsed
+protocol: sony20
+address: 26.226
+command: 86
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: sony20
+address: 26.226
+command: 87
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: sony20
+address: 26.226
+command: 99
+#
+name: KEY_AUDIO
+type: parsed
+protocol: sony20
+address: 26.226
+command: 100
+#
+name: KEY_ANGLE
+type: parsed
+protocol: sony20
+address: 26.226
+command: 101
+#
+name: DIMMER
+type: parsed
+protocol: sony20
+address: 26.226
+command: 113
+#
+name: KEY_RED
+type: parsed
+protocol: sony20
+address: 26.226
+command: 115
+#

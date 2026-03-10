@@ -1,0 +1,321 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: GI_cable
+address: 0
+command: 0
+#
+name: 1
+type: parsed
+protocol: GI_cable
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: GI_cable
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: GI_cable
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: GI_cable
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: GI_cable
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: GI_cable
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: GI_cable
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: GI_cable
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: GI_cable
+address: 0
+command: 9
+#
+name: MUSIC
+type: parsed
+protocol: GI_cable
+address: 0
+command: 10
+#
+name: POWER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 10
+#
+name: CHANNEL +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 11
+#
+name: CHANNEL -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 12
+#
+name: ENTER
+type: parsed
+protocol: GI_cable
+address: 0
+command: 16
+#
+name: OK
+type: parsed
+protocol: GI_cable
+address: 0
+command: 17
+#
+name: LAST
+type: parsed
+protocol: GI_cable
+address: 0
+command: 19
+#
+name: INPUT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 20
+#
+name: FAV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 21
+#
+name: A
+type: parsed
+protocol: GI_cable
+address: 0
+command: 23
+#
+name: PPV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 24
+#
+name: MENU
+type: parsed
+protocol: GI_cable
+address: 0
+command: 25
+#
+name: VOD
+type: parsed
+protocol: GI_cable
+address: 0
+command: 26
+#
+name: PLAY
+type: parsed
+protocol: GI_cable
+address: 0
+command: 27
+#
+name: STOP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 28
+#
+name: FAST FOWARD
+type: parsed
+protocol: GI_cable
+address: 0
+command: 29
+#
+name: REWIND
+type: parsed
+protocol: GI_cable
+address: 0
+command: 30
+#
+name: PAUSE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 31
+#
+name: PIP ON/OFF
+type: parsed
+protocol: GI_cable
+address: 0
+command: 34
+#
+name: PIP SWAP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 35
+#
+name: PIP MOVE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 36
+#
+name: PIP +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 37
+#
+name: PIP -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 38
+#
+name: B
+type: parsed
+protocol: GI_cable
+address: 0
+command: 39
+#
+name: C
+type: parsed
+protocol: GI_cable
+address: 0
+command: 40
+#
+name: EXIT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 40
+#
+name: GUIDE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 48
+#
+name: TV GUIDE
+type: parsed
+protocol: GI_cable
+address: 0
+command: 48
+#
+name: RECORD
+type: parsed
+protocol: GI_cable
+address: 0
+command: 49
+#
+name: HELP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 50
+#
+name: INFO
+type: parsed
+protocol: GI_cable
+address: 0
+command: 51
+#
+name: UP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 52
+#
+name: DOWN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 53
+#
+name: LEFT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 54
+#
+name: RIGHT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 55
+#
+name: DAY -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 56
+#
+name: DAY +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 57
+#
+name: PAGE +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 58
+#
+name: PAGE -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 59
+#
+name: REPLAY
+type: parsed
+protocol: GI_cable
+address: 0
+command: 60
+#
+name: DVR LIST
+type: parsed
+protocol: GI_cable
+address: 0
+command: 61
+#
+name: LIVE TV
+type: parsed
+protocol: GI_cable
+address: 0
+command: 62
+#
+name: ASPECT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 64
+#

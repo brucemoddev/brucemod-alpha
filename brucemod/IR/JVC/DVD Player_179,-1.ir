@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: jvc
+address: 179
+command: 68
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 179
+command: 76
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 179
+command: 77
+#
+name: SKIP <<
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: SKIP >>
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: REPEAT
+type: parsed
+protocol: jvc
+address: 179
+command: 91
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 179
+command: 97
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 179
+command: 98
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 179
+command: 99
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 179
+command: 100
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 179
+command: 101
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 179
+command: 102
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 179
+command: 103
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 179
+command: 105
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: 10+
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: SCAN <<
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: SCAN >>
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#

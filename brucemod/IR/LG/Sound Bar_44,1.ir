@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44
+command: 30
+#
+name: source
+type: parsed
+protocol: nec2
+address: 44
+command: 138
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 44
+command: 23
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 44
+command: 22
+#
+name: SOUND_EFECT
+type: parsed
+protocol: nec2
+address: 44
+command: 47
+#
+name: AUTO_VOLUME
+type: parsed
+protocol: nec2
+address: 44
+command: 28
+#
+name: WOOFER_LEVEL
+type: parsed
+protocol: nec2
+address: 44
+command: 102
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44
+command: 31
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: pgm
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: KEY_TIME
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: ams-
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: ams+
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: shuffle
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: fader
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#

@@ -1,0 +1,465 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 0
+#
+name: 4 - TEST 3 - ADJ 1ST
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 0
+#
+name: 1
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 1
+#
+name: 2
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 2
+#
+name: 3
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 3
+#
+name: 4
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 4
+#
+name: 4 - A
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 4
+#
+name: 4 - TEST 1 - 10%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 4
+#
+name: 4 - TEST 4 - ADJ 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 4
+#
+name: 4 - TEST 5 - ADJ DOW
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 4
+#
+name: 5
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 5
+#
+name: 6
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 6
+#
+name: 7
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 7
+#
+name: 8
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 8
+#
+name: 9
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 9
+#
+name: VOLUME UP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 10
+#
+name: VOLUME DOWN
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 11
+#
+name: MUTE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 12
+#
+name: CHANNEL +
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 13
+#
+name: CHAN UP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 13
+#
+name: CHANNEL -
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 14
+#
+name: CHAN DOWN
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 14
+#
+name: POWER
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 15
+#
+name: MENU
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 32
+#
+name: CURSOR UP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 33
+#
+name: CURSOR DOWN
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 34
+#
+name: CURSOR LEFT
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 35
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 36
+#
+name: OK/SELECT
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 37
+#
+name: ENTER
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 37
+#
+name: INFO
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 38
+#
+name: GUIDE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 39
+#
+name: PAGE UP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 40
+#
+name: PAGE DOWN
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 41
+#
+name: EXIT
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 42
+#
+name: PLAY
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY 1ST
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY-5%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY-5% 8
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY-5% LONG
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY-7%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY-7% 8
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: PLAY-7% LONG
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 48
+#
+name: STOP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 49
+#
+name: STOP - 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 49
+#
+name: STOP - 5%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 49
+#
+name: PAUSE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 50
+#
+name: PAUSE - 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 50
+#
+name: PAUSE - 5%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 50
+#
+name: REVERSE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 51
+#
+name: REVERSE - 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 51
+#
+name: REVERSE - 5%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 51
+#
+name: FORWARD
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 52
+#
+name: FORWARD - 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 52
+#
+name: FORWARD - 5%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 52
+#
+name: REC
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 53
+#
+name: REC - 2ND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 53
+#
+name: REC - 5%
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 53
+#
+name: HD ZOOM
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 80
+#
+name: LAST
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 81
+#
+name: FAV
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 82
+#
+name: REPLAY
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 83
+#
+name: MY DVR
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 84
+#
+name: LIVE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 85
+#
+name: HELP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 86
+#
+name: TV/VCR
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 87
+#
+name: PIP ON/OFF
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 88
+#
+name: PIP SWAP
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 89
+#
+name: PIP MOVE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 90
+#
+name: PIP CHANNEL -
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 92
+#
+name: PIP CHAN+ -TEST TWK
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 92
+#
+name: A
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 96
+#
+name: B
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 97
+#
+name: C
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 98
+#
+name: ON DEMAND
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 100
+#
+name: LANGUAGE
+type: parsed
+protocol: xmp_1
+address: 62.16
+command: 130
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LIVE TV
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 17
+#
+name: INFO
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 19
+#
+name: GUIDE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 54
+#
+name: WINDOW
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 68
+#
+name: EXIT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 69
+#
+name: LIST
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 70
+#

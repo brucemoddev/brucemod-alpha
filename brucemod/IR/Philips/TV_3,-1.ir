@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV GUIDE + ON/OFF
+type: parsed
+protocol: rc5
+address: 3
+command: 44
+#
+name: 
+type: parsed
+protocol: rc5
+address: 3
+command: 44
+#
+name: TV GUIDE + INFO
+type: parsed
+protocol: rc5
+address: 3
+command: 45
+#
+name: 
+type: parsed
+protocol: rc5
+address: 3
+command: 45
+#
+name: TV GUIDE + RECORD
+type: parsed
+protocol: rc5
+address: 3
+command: 60
+#
+name: 
+type: parsed
+protocol: rc5
+address: 3
+command: 60
+#
+name: ANALOG TV
+type: parsed
+protocol: rc5
+address: 3
+command: 118
+#
+name: 
+type: parsed
+protocol: rc5
+address: 3
+command: 118
+#
+name: DTV
+type: parsed
+protocol: rc5
+address: 3
+command: 119
+#
+name: 
+type: parsed
+protocol: rc5
+address: 3
+command: 119
+#

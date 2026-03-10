@@ -1,0 +1,717 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SWITCHER 1
+type: parsed
+protocol: sony15
+address: 84
+command: 10
+#
+name: SW 1
+type: parsed
+protocol: sony15
+address: 84
+command: 10
+#
+name: 1
+type: parsed
+protocol: sony15
+address: 84
+command: 10
+#
+name: SWITCHER 2
+type: parsed
+protocol: sony15
+address: 84
+command: 11
+#
+name: SW 2
+type: parsed
+protocol: sony15
+address: 84
+command: 11
+#
+name: 2
+type: parsed
+protocol: sony15
+address: 84
+command: 11
+#
+name: SWITCHER 3
+type: parsed
+protocol: sony15
+address: 84
+command: 12
+#
+name: SW 3
+type: parsed
+protocol: sony15
+address: 84
+command: 12
+#
+name: 3
+type: parsed
+protocol: sony15
+address: 84
+command: 12
+#
+name: SWITCHER 4
+type: parsed
+protocol: sony15
+address: 84
+command: 13
+#
+name: SW 4
+type: parsed
+protocol: sony15
+address: 84
+command: 13
+#
+name: 4
+type: parsed
+protocol: sony15
+address: 84
+command: 13
+#
+name: SWITCHER 5
+type: parsed
+protocol: sony15
+address: 84
+command: 14
+#
+name: SW 5
+type: parsed
+protocol: sony15
+address: 84
+command: 14
+#
+name: 5
+type: parsed
+protocol: sony15
+address: 84
+command: 14
+#
+name: SWITCHER 6
+type: parsed
+protocol: sony15
+address: 84
+command: 15
+#
+name: SW 6
+type: parsed
+protocol: sony15
+address: 84
+command: 15
+#
+name: 6
+type: parsed
+protocol: sony15
+address: 84
+command: 15
+#
+name: SWITCHER 7
+type: parsed
+protocol: sony15
+address: 84
+command: 16
+#
+name: SW 7
+type: parsed
+protocol: sony15
+address: 84
+command: 16
+#
+name: 7
+type: parsed
+protocol: sony15
+address: 84
+command: 16
+#
+name: SWITCHER 8
+type: parsed
+protocol: sony15
+address: 84
+command: 17
+#
+name: SW 8
+type: parsed
+protocol: sony15
+address: 84
+command: 17
+#
+name: 8
+type: parsed
+protocol: sony15
+address: 84
+command: 17
+#
+name: VOLUME +
+type: parsed
+protocol: sony15
+address: 84
+command: 18
+#
+name: VOLUME+
+type: parsed
+protocol: sony15
+address: 84
+command: 18
+#
+name: VOLUME -
+type: parsed
+protocol: sony15
+address: 84
+command: 19
+#
+name: VOLUME-
+type: parsed
+protocol: sony15
+address: 84
+command: 19
+#
+name: AUDIO MUTE
+type: parsed
+protocol: sony15
+address: 84
+command: 20
+#
+name: AUDIO MUTING
+type: parsed
+protocol: sony15
+address: 84
+command: 20
+#
+name: POWER
+type: parsed
+protocol: sony15
+address: 84
+command: 21
+#
+name: CONTRAST +
+type: parsed
+protocol: sony15
+address: 84
+command: 24
+#
+name: CONTRAST -
+type: parsed
+protocol: sony15
+address: 84
+command: 25
+#
+name: COLOR +
+type: parsed
+protocol: sony15
+address: 84
+command: 26
+#
+name: COLOR -
+type: parsed
+protocol: sony15
+address: 84
+command: 27
+#
+name: PICTURE -
+type: parsed
+protocol: sony15
+address: 84
+command: 29
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: sony15
+address: 84
+command: 30
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: sony15
+address: 84
+command: 31
+#
+name: TINT +
+type: parsed
+protocol: sony15
+address: 84
+command: 32
+#
+name: HUE +
+type: parsed
+protocol: sony15
+address: 84
+command: 32
+#
+name: TINT -
+type: parsed
+protocol: sony15
+address: 84
+command: 33
+#
+name: HUE -
+type: parsed
+protocol: sony15
+address: 84
+command: 33
+#
+name: SHARPNESS +
+type: parsed
+protocol: sony15
+address: 84
+command: 34
+#
+name: SHARPNESS -
+type: parsed
+protocol: sony15
+address: 84
+command: 35
+#
+name: PICTURE MUTE
+type: parsed
+protocol: sony15
+address: 84
+command: 36
+#
+name: PIC
+type: parsed
+protocol: sony15
+address: 84
+command: 36
+#
+name: PIC-MUTING
+type: parsed
+protocol: sony15
+address: 84
+command: 36
+#
+name: VIDEO MUTING
+type: parsed
+protocol: sony15
+address: 84
+command: 36
+#
+name: PICTURE MUTING
+type: parsed
+protocol: sony15
+address: 84
+command: 36
+#
+name: STATUS ON
+type: parsed
+protocol: sony15
+address: 84
+command: 37
+#
+name: STATUS OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 38
+#
+name: MENU
+type: parsed
+protocol: sony15
+address: 84
+command: 41
+#
+name: PAGE
+type: parsed
+protocol: sony15
+address: 84
+command: 41
+#
+name: VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 42
+#
+name: VIDEO INPUT
+type: parsed
+protocol: sony15
+address: 84
+command: 42
+#
+name: INPUT:VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 42
+#
+name: INPUT - VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 42
+#
+name: INPUT A
+type: parsed
+protocol: sony15
+address: 84
+command: 43
+#
+name: A
+type: parsed
+protocol: sony15
+address: 84
+command: 43
+#
+name: INPUT:A
+type: parsed
+protocol: sony15
+address: 84
+command: 43
+#
+name: INPUT - A
+type: parsed
+protocol: sony15
+address: 84
+command: 43
+#
+name: INPUT B
+type: parsed
+protocol: sony15
+address: 84
+command: 44
+#
+name: B
+type: parsed
+protocol: sony15
+address: 84
+command: 44
+#
+name: INPUT:B
+type: parsed
+protocol: sony15
+address: 84
+command: 44
+#
+name: INPUT - B
+type: parsed
+protocol: sony15
+address: 84
+command: 44
+#
+name: POWER ON
+type: parsed
+protocol: sony15
+address: 84
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 46
+#
+name: ON
+type: parsed
+protocol: sony15
+address: 84
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 47
+#
+name: STANDBY POWER OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 47
+#
+name: POWER ON
+type: parsed
+protocol: sony15
+address: 84
+command: 47
+#
+name: OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 47
+#
+name: POSITION +
+type: parsed
+protocol: sony15
+address: 84
+command: 49
+#
+name: POSITION -
+type: parsed
+protocol: sony15
+address: 84
+command: 50
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony15
+address: 84
+command: 51
+#
+name: RT
+type: parsed
+protocol: sony15
+address: 84
+command: 51
+#
+name: RIGHT
+type: parsed
+protocol: sony15
+address: 84
+command: 51
+#
+name: ARROW RIGHT
+type: parsed
+protocol: sony15
+address: 84
+command: 51
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony15
+address: 84
+command: 52
+#
+name: LEFT
+type: parsed
+protocol: sony15
+address: 84
+command: 52
+#
+name: ARROW LEFT
+type: parsed
+protocol: sony15
+address: 84
+command: 52
+#
+name: CURSOR UP
+type: parsed
+protocol: sony15
+address: 84
+command: 53
+#
+name: UP
+type: parsed
+protocol: sony15
+address: 84
+command: 53
+#
+name: ARROW UP
+type: parsed
+protocol: sony15
+address: 84
+command: 53
+#
+name: 
+type: parsed
+protocol: sony15
+address: 84
+command: 53
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony15
+address: 84
+command: 54
+#
+name: DN
+type: parsed
+protocol: sony15
+address: 84
+command: 54
+#
+name: DOWN
+type: parsed
+protocol: sony15
+address: 84
+command: 54
+#
+name: ARROW DOWN
+type: parsed
+protocol: sony15
+address: 84
+command: 54
+#
+name: RGB SIZE
+type: parsed
+protocol: sony15
+address: 84
+command: 71
+#
+name: RGB SHIFT
+type: parsed
+protocol: sony15
+address: 84
+command: 72
+#
+name: CENTER RED
+type: parsed
+protocol: sony15
+address: 84
+command: 73
+#
+name: CENTER BLUE
+type: parsed
+protocol: sony15
+address: 84
+command: 75
+#
+name: INPUT
+type: parsed
+protocol: sony15
+address: 84
+command: 87
+#
+name: INPUT SELECT
+type: parsed
+protocol: sony15
+address: 84
+command: 87
+#
+name: BLANKING
+type: parsed
+protocol: sony15
+address: 84
+command: 88
+#
+name: ENTER
+type: parsed
+protocol: sony15
+address: 84
+command: 90
+#
+name: LT
+type: parsed
+protocol: sony15
+address: 84
+command: 90
+#
+name: MEMORY
+type: parsed
+protocol: sony15
+address: 84
+command: 94
+#
+name: S-VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: SVIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: VIDEO SELECT (VID/S)
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: INPUT SELECT
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: INPUT:S VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: S VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: INPUT - SVIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: 0
+type: parsed
+protocol: sony15
+address: 84
+command: 96
+#
+name: 1
+type: parsed
+protocol: sony15
+address: 84
+command: 97
+#
+name: 2
+type: parsed
+protocol: sony15
+address: 84
+command: 98
+#
+name: 3
+type: parsed
+protocol: sony15
+address: 84
+command: 99
+#
+name: 4
+type: parsed
+protocol: sony15
+address: 84
+command: 100
+#
+name: 5
+type: parsed
+protocol: sony15
+address: 84
+command: 101
+#
+name: 6
+type: parsed
+protocol: sony15
+address: 84
+command: 102
+#
+name: 7
+type: parsed
+protocol: sony15
+address: 84
+command: 103
+#
+name: 8
+type: parsed
+protocol: sony15
+address: 84
+command: 104
+#
+name: 9
+type: parsed
+protocol: sony15
+address: 84
+command: 105
+#
+name: C
+type: parsed
+protocol: sony15
+address: 84
+command: 111
+#
+name: D
+type: parsed
+protocol: sony15
+address: 84
+command: 112
+#
+name: RESET
+type: parsed
+protocol: sony15
+address: 84
+command: 123
+#

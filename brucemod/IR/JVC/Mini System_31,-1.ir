@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ASPECT
+type: parsed
+protocol: jvc
+address: 31
+command: 83
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 31
+command: 215
+#

@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ADD/DLT
+type: parsed
+protocol: panasonic
+address: 3
+command: 29
+#
+name: ADD/DELETE
+type: parsed
+protocol: panasonic
+address: 3
+command: 29
+#
+name: PROG
+type: parsed
+protocol: panasonic
+address: 3
+command: 44
+#

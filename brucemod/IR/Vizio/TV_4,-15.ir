@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: Input
+type: parsed
+protocol: nec
+address: 4
+command: 47
+#
+name: PEACOCK
+type: parsed
+protocol: nec
+address: 4
+command: 81
+#
+name: NETFLIX
+type: parsed
+protocol: nec
+address: 4
+command: 235
+#
+name: PRIME_VIDEO
+type: parsed
+protocol: nec
+address: 4
+command: 234
+#
+name: DISNEY+
+type: parsed
+protocol: nec
+address: 4
+command: 31
+#
+name: CRACKLE
+type: parsed
+protocol: nec
+address: 4
+command: 248
+#
+name: TUBI
+type: parsed
+protocol: nec
+address: 4
+command: 90
+#
+name: home
+type: parsed
+protocol: nec
+address: 4
+command: 45
+#
+name: SETTINGS
+type: parsed
+protocol: nec
+address: 4
+command: 79
+#
+name: WATCHFREE
+type: parsed
+protocol: nec
+address: 4
+command: 247
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4
+command: 69
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4
+command: 71
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4
+command: 72
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4
+command: 70
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4
+command: 74
+#
+name: cc
+type: parsed
+protocol: nec
+address: 4
+command: 57
+#
+name: MIC
+type: parsed
+protocol: nec
+address: 4
+command: 64
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#

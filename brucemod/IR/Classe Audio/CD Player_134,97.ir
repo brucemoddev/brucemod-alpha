@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 134.97
+command: 0
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 134.97
+command: 4
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 134.97
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 134.97
+command: 8
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 134.97
+command: 9
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 134.97
+command: 10
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 134.97
+command: 11
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 134.97
+command: 12
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 134.97
+command: 13
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 134.97
+command: 14
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 134.97
+command: 15
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 134.97
+command: 16
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 134.97
+command: 17
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 134.97
+command: 18
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 134.97
+command: 19
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 134.97
+command: 20
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 134.97
+command: 21
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 134.97
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 134.97
+command: 23
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 134.97
+command: 24
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 134.97
+command: 25
+#

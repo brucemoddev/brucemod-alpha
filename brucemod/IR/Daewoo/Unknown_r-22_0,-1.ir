@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: normal
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: pr_up
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: pr_down
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: system
+type: parsed
+protocol: rc5
+address: 0
+command: 34
+#
+name: i-ii
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: two_semicircles
+type: parsed
+protocol: rc5
+address: 0
+command: 36
+#
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: KEY_TIME
+type: parsed
+protocol: rc5
+address: 0
+command: 42
+#
+name: woofer
+type: parsed
+protocol: rc5
+address: 0
+command: 45
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 50
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: KEY_VIDEO
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: KEY_RED
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: scartmode
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: KEY_VIDEO
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: tvmode
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 82
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 0
+command: 87
+#

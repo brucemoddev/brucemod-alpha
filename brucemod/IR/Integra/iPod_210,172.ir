@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FF
+type: parsed
+protocol: nec1
+address: 210.172
+command: 0
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 210.172
+command: 1
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.172
+command: 70
+#
+name: PLAY MODE (SHUFFLE)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 140
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 210.172
+command: 141
+#
+name: STOP (PAUSE)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 142
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 210.172
+command: 143
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 210.172
+command: 144
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 145
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.172
+command: 148
+#
+name: SCROLL (BACKLIGHT)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 150
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 151
+#
+name: DISPLAY (BACKLIGHT)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 153
+#
+name: RANDOM (SHUFFLE)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 154
+#
+name: MEMORY (PLAYLIST)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 155
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.172
+command: 156
+#

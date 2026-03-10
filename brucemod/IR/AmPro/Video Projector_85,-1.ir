@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 85
+command: 1
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 85
+command: 3
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 85
+command: 5
+#
+name: VIEW
+type: parsed
+protocol: nec1
+address: 85
+command: 6
+#
+name: BLANK
+type: parsed
+protocol: nec1
+address: 85
+command: 7
+#
+name: <
+type: parsed
+protocol: nec1
+address: 85
+command: 14
+#
+name: ^
+type: parsed
+protocol: nec1
+address: 85
+command: 15
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 85
+command: 16
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 85
+command: 17
+#
+name: V
+type: parsed
+protocol: nec1
+address: 85
+command: 19
+#
+name: ADJUST
+type: parsed
+protocol: nec1
+address: 85
+command: 25
+#
+name: >
+type: parsed
+protocol: nec1
+address: 85
+command: 31
+#

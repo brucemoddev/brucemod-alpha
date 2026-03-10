@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEARCH SELECT
+type: parsed
+protocol: sony20
+address: 25.69
+command: 45
+#
+name: PRINT
+type: parsed
+protocol: sony20
+address: 25.69
+command: 110
+#

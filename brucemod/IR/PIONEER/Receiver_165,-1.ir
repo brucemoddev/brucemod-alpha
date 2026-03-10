@@ -1,0 +1,369 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 0
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 1
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 2
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 8
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 9
+#
+name: VOLUME +
+type: parsed
+protocol: pioneer
+address: 165
+command: 10
+#
+name: VOLUME -
+type: parsed
+protocol: pioneer
+address: 165
+command: 11
+#
+name: INPUT: TV/SAT
+type: parsed
+protocol: nec2
+address: 165
+command: 12
+#
+name: TV
+type: parsed
+protocol: pioneer
+address: 165
+command: 12
+#
+name: LASER DISC
+type: parsed
+protocol: pioneer
+address: 165
+command: 13
+#
+name: INPUT: VCR2
+type: parsed
+protocol: nec2
+address: 165
+command: 14
+#
+name: VCR 2
+type: parsed
+protocol: pioneer
+address: 165
+command: 14
+#
+name: INPUT: VCR1
+type: parsed
+protocol: nec2
+address: 165
+command: 15
+#
+name: VCR 1
+type: parsed
+protocol: pioneer
+address: 165
+command: 15
+#
+name: INPUT: TAPE1/MD
+type: parsed
+protocol: nec2
+address: 165
+command: 17
+#
+name: MUTE
+type: parsed
+protocol: pioneer
+address: 165
+command: 18
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 19
+#
+name: AUDIO SOURCE 1
+type: parsed
+protocol: pioneer
+address: 165
+command: 19
+#
+name: AUDIO SOURCE 2
+type: parsed
+protocol: pioneer
+address: 165
+command: 19
+#
+name: INPUT: VIDEO
+type: parsed
+protocol: nec2
+address: 165
+command: 22
+#
+name: VIDEO 1
+type: parsed
+protocol: pioneer
+address: 165
+command: 22
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 165
+command: 26
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 165
+command: 27
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 165
+command: 28
+#
+name: TAPE 2 MONITOR
+type: parsed
+protocol: nec2
+address: 165
+command: 29
+#
+name: TAPE 2/MONITOR
+type: parsed
+protocol: pioneer
+address: 165
+command: 29
+#
+name: SURROUND MODE
+type: parsed
+protocol: pioneer
+address: 165
+command: 64
+#
+name: LEVEL CENTER -
+type: parsed
+protocol: pioneer
+address: 165
+command: 65
+#
+name: LEVEL REAR +
+type: parsed
+protocol: pioneer
+address: 165
+command: 65
+#
+name: LEVEL CENTER +
+type: parsed
+protocol: pioneer
+address: 165
+command: 66
+#
+name: LEVEL REAR -
+type: parsed
+protocol: pioneer
+address: 165
+command: 66
+#
+name: VCR 3
+type: parsed
+protocol: pioneer
+address: 165
+command: 70
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec2
+address: 165
+command: 71
+#
+name: TUNER
+type: parsed
+protocol: pioneer
+address: 165
+command: 71
+#
+name: SLEEP
+type: parsed
+protocol: pioneer
+address: 165
+command: 72
+#
+name: BALLANCE R
+type: parsed
+protocol: pioneer
+address: 165
+command: 73
+#
+name: BALLANCE L
+type: parsed
+protocol: pioneer
+address: 165
+command: 75
+#
+name: INPUT: CD
+type: parsed
+protocol: nec2
+address: 165
+command: 76
+#
+name: CD
+type: parsed
+protocol: pioneer
+address: 165
+command: 76
+#
+name: PHONO
+type: parsed
+protocol: pioneer
+address: 165
+command: 77
+#
+name: TAPE 1/DAT
+type: parsed
+protocol: pioneer
+address: 165
+command: 78
+#
+name: LINE
+type: parsed
+protocol: pioneer
+address: 165
+command: 79
+#
+name: MUTE ON
+type: parsed
+protocol: nec2
+address: 165
+command: 81
+#
+name: MUTE OFF
+type: parsed
+protocol: nec2
+address: 165
+command: 82
+#
+name: VIDEO SELECT
+type: parsed
+protocol: pioneer
+address: 165
+command: 84
+#
+name: ACOUSTIC
+type: parsed
+protocol: pioneer
+address: 165
+command: 86
+#
+name: ENHANCER
+type: parsed
+protocol: pioneer
+address: 165
+command: 86
+#
+name: JOG MODE
+type: parsed
+protocol: pioneer
+address: 165
+command: 86
+#
+name: TEST TONE
+type: parsed
+protocol: pioneer
+address: 165
+command: 86
+#
+name: JOG -
+type: parsed
+protocol: pioneer
+address: 165
+command: 87
+#
+name: JOG +
+type: parsed
+protocol: pioneer
+address: 165
+command: 87
+#
+name: CONFIRM
+type: parsed
+protocol: pioneer
+address: 165
+command: 89
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 89
+#
+name: SPEAKER A
+type: parsed
+protocol: pioneer
+address: 165
+command: 89
+#
+name: SPEAKER B
+type: parsed
+protocol: pioneer
+address: 165
+command: 89
+#
+name: CENTER MODE
+type: parsed
+protocol: pioneer
+address: 165
+command: 90
+#
+name: REAR BAL L
+type: parsed
+protocol: pioneer
+address: 165
+command: 90
+#
+name: REAR BAL R
+type: parsed
+protocol: pioneer
+address: 165
+command: 90
+#
+name: DIRECT
+type: parsed
+protocol: pioneer
+address: 165
+command: 93
+#
+name: RETURN
+type: parsed
+protocol: pioneer
+address: 165
+command: 93
+#
+name: INPUT: DVD/LD
+type: parsed
+protocol: nec2
+address: 165
+command: 133
+#

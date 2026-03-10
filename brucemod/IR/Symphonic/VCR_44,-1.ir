@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: +100
+type: parsed
+protocol: emerson
+address: 44
+command: 61
+#

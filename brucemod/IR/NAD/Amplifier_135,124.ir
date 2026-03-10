@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD PLAY/PAUSE >/
+type: parsed
+protocol: nec1
+address: 135.124
+command: 1
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 2
+#
+name: CD SCAN <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 4
+#
+name: CD SKIP <
+type: parsed
+protocol: nec1
+address: 135.124
+command: 5
+#
+name: CD SKIP >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 6
+#
+name: CD SCAN >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 7
+#
+name: CD CDR
+type: parsed
+protocol: nec1
+address: 135.124
+command: 28
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.124
+command: 128
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 129
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 130
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 135.124
+command: 132
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 135.124
+command: 133
+#
+name: TUNER SCAN <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 134
+#
+name: TUNER SCAN >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 135
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 135.124
+command: 136
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 135.124
+command: 137
+#
+name: TUNER 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 138
+#
+name: TUNER 5
+type: parsed
+protocol: nec1
+address: 135.124
+command: 139
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 135.124
+command: 140
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 141
+#
+name: TUNER 2
+type: parsed
+protocol: nec1
+address: 135.124
+command: 142
+#
+name: TUNER 6
+type: parsed
+protocol: nec1
+address: 135.124
+command: 143
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 135.124
+command: 145
+#
+name: TUNER 3
+type: parsed
+protocol: nec1
+address: 135.124
+command: 146
+#
+name: TUNER 7
+type: parsed
+protocol: nec1
+address: 135.124
+command: 147
+#
+name: LOW LEVEL
+type: parsed
+protocol: nec1
+address: 135.124
+command: 148
+#
+name: TUNER 4
+type: parsed
+protocol: nec1
+address: 135.124
+command: 150
+#
+name: TUNER 8 BANK
+type: parsed
+protocol: nec1
+address: 135.124
+command: 151
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: nec1
+address: 135.124
+command: 153
+#
+name: TAPE REC
+type: parsed
+protocol: nec1
+address: 135.124
+command: 154
+#
+name: TAPE PLAY >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 156
+#
+name: TAPE SCAN >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 157
+#
+name: TAPE SCAN <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 158
+#
+name: TAPE STOP []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 159
+#

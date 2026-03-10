@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 166
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 166
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 166
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 166
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 166
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 166
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 166
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 166
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 166
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 166
+command: 9
+#
+name: VOLRIGHT
+type: parsed
+protocol: nec
+address: 166
+command: 10
+#
+name: VOLLEFT
+type: parsed
+protocol: nec
+address: 166
+command: 11
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 166
+command: 30
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 166
+command: 66
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 166
+command: 67
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 166
+command: 68
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 166
+command: 69
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 166
+command: 70
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 166
+command: 74
+#
+name: CHDWN
+type: parsed
+protocol: nec
+address: 166
+command: 75
+#
+name: A-B
+type: parsed
+protocol: nec
+address: 166
+command: 79
+#
+name: KEY_LAST
+type: parsed
+protocol: nec
+address: 166
+command: 82
+#
+name: ENT
+type: parsed
+protocol: nec
+address: 166
+command: 255
+#

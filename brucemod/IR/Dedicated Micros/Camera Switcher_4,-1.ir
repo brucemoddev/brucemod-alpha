@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LEFT
+type: parsed
+protocol: rc5
+address: 4
+command: 1
+#
+name: 13
+type: parsed
+protocol: rc5
+address: 4
+command: 2
+#
+name: UNIT SELECT
+type: parsed
+protocol: rc5
+address: 4
+command: 3
+#
+name: 3 PAGES
+type: parsed
+protocol: rc5
+address: 4
+command: 4
+#
+name: PAGES
+type: parsed
+protocol: rc5
+address: 4
+command: 4
+#
+name: HOLD
+type: parsed
+protocol: rc5
+address: 4
+command: 5
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 4
+command: 6
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 4
+command: 7
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 4
+command: 8
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 4
+command: 9
+#
+name: 14
+type: parsed
+protocol: rc5
+address: 4
+command: 10
+#
+name: 2 PICS
+type: parsed
+protocol: rc5
+address: 4
+command: 12
+#
+name: PIP
+type: parsed
+protocol: rc5
+address: 4
+command: 12
+#
+name: SPOT
+type: parsed
+protocol: rc5
+address: 4
+command: 13
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 4
+command: 14
+#
+name: 10
+type: parsed
+protocol: rc5
+address: 4
+command: 15
+#
+name: FRAME >>
+type: parsed
+protocol: rc5
+address: 4
+command: 16
+#
+name: REWIND
+type: parsed
+protocol: rc5
+address: 4
+command: 16
+#
+name: 15
+type: parsed
+protocol: rc5
+address: 4
+command: 18
+#
+name: 4 PICS
+type: parsed
+protocol: rc5
+address: 4
+command: 20
+#
+name: 4 PICTURES
+type: parsed
+protocol: rc5
+address: 4
+command: 20
+#
+name: EVENT
+type: parsed
+protocol: rc5
+address: 4
+command: 20
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 4
+command: 22
+#
+name: 11
+type: parsed
+protocol: rc5
+address: 4
+command: 23
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 4
+command: 24
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 4
+command: 26
+#
+name: MODE
+type: parsed
+protocol: rc5
+address: 4
+command: 27
+#
+name: EVENT
+type: parsed
+protocol: rc5
+address: 4
+command: 28
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 4
+command: 29
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 4
+command: 30
+#
+name: 12
+type: parsed
+protocol: rc5
+address: 4
+command: 31
+#
+name: FRAME <<
+type: parsed
+protocol: rc5
+address: 4
+command: 32
+#
+name: FAST FORWARD
+type: parsed
+protocol: rc5
+address: 4
+command: 32
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 4
+command: 34
+#
+name: 9 PICS
+type: parsed
+protocol: rc5
+address: 4
+command: 35
+#
+name: 9 PICTURES
+type: parsed
+protocol: rc5
+address: 4
+command: 35
+#
+name: GOTO
+type: parsed
+protocol: rc5
+address: 4
+command: 35
+#
+name: GOTO
+type: parsed
+protocol: rc5
+address: 4
+command: 36
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 4
+command: 37
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 4
+command: 38
+#
+name: 16
+type: parsed
+protocol: rc5
+address: 4
+command: 39
+#

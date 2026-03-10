@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE POSITION
+type: parsed
+protocol: panasonic
+address: 144.5
+command: 43
+#

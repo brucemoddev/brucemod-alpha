@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 204
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 204
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 204
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 204
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 204
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 204
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 204
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 204
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 204
+command: 9
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 204
+command: 9
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 204
+command: 64
+#
+name: PHONO/AUX
+type: parsed
+protocol: nec1
+address: 204
+command: 65
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 204
+command: 66
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 204
+command: 67
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 204
+command: 68
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 204
+command: 70
+#
+name: AV
+type: parsed
+protocol: nec1
+address: 204
+command: 77
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 204
+command: 89
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 204
+command: 91
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 204
+command: 93
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 204
+command: 95
+#

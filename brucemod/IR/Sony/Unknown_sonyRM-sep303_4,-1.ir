@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 4
+command: 0
+#
+name: KEY_POWER
+type: parsed
+protocol: recs80_45
+address: 4
+command: 1
+#
+name: KEY_TUNER
+type: parsed
+protocol: recs80_45
+address: 4
+command: 2
+#
+name: KEY_TAPE
+type: parsed
+protocol: recs80_45
+address: 4
+command: 3
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: recs80_45
+address: 4
+command: 4
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: recs80_45
+address: 4
+command: 5
+#
+name: Voume-
+type: parsed
+protocol: recs80_45
+address: 4
+command: 8
+#
+name: Muting
+type: parsed
+protocol: recs80_45
+address: 4
+command: 9
+#
+name: KEY_CD
+type: parsed
+protocol: recs80_45
+address: 4
+command: 10
+#
+name: KEY_NEXT
+type: parsed
+protocol: recs80_45
+address: 4
+command: 12
+#
+name: KEY_STOP
+type: parsed
+protocol: recs80_45
+address: 4
+command: 13
+#
+name: Shuffle
+type: parsed
+protocol: recs80_45
+address: 4
+command: 16
+#
+name: KEY_AGAIN
+type: parsed
+protocol: recs80_45
+address: 4
+command: 17
+#
+name: MegaBass
+type: parsed
+protocol: recs80_45
+address: 4
+command: 20
+#
+name: Tuning+
+type: parsed
+protocol: recs80_45
+address: 4
+command: 25
+#
+name: KEY_OK
+type: parsed
+protocol: recs80_45
+address: 4
+command: 28
+#
+name: Tuning-
+type: parsed
+protocol: recs80_45
+address: 4
+command: 30
+#
+name: Preset+
+type: parsed
+protocol: recs80_45
+address: 4
+command: 31
+#
+name: MusicMenu
+type: parsed
+protocol: recs80_45
+address: 4
+command: 33
+#
+name: Preset-
+type: parsed
+protocol: recs80_45
+address: 4
+command: 39
+#
+name: Clock/Timer
+type: parsed
+protocol: recs80_45
+address: 4
+command: 51
+#
+name: Timer(on/off)
+type: parsed
+protocol: recs80_45
+address: 4
+command: 54
+#

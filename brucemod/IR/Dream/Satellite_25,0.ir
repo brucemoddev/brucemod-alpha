@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: xmp_1
+address: 25.0
+command: 1
+#
+name: 7
+type: parsed
+protocol: xmp_1
+address: 25.0
+command: 7
+#
+name: 9
+type: parsed
+protocol: xmp_1
+address: 25.0
+command: 9
+#
+name: STANDBY
+type: parsed
+protocol: xmp_1
+address: 25.0
+command: 15
+#
+name: STANDBY 2
+type: parsed
+protocol: xmp_1
+address: 25.0
+command: 15
+#
+name: BLUE
+type: parsed
+protocol: xmp_1
+address: 25.0
+command: 68
+#

@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_R
+type: parsed
+protocol: nec
+address: 24.247
+command: 0
+#
+name: KEY_B
+type: parsed
+protocol: nec
+address: 24.247
+command: 2
+#
+name: OPERATE
+type: parsed
+protocol: nec
+address: 24.247
+command: 6
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24.247
+command: 8
+#
+name: 'END'
+type: parsed
+protocol: nec
+address: 24.247
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24.247
+command: 20
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 24.247
+command: 23
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 24.247
+command: 24
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 24.247
+command: 25
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 24.247
+command: 26
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 24.247
+command: 27
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 24.247
+command: 28
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 24.247
+command: 29
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 24.247
+command: 30
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 24.247
+command: 31
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 24.247
+command: 64
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 24.247
+command: 65
+#
+name: NORMAL
+type: parsed
+protocol: nec
+address: 24.247
+command: 67
+#
+name: SOUND_MUTE
+type: parsed
+protocol: nec
+address: 24.247
+command: 69
+#
+name: PIC_MUTE
+type: parsed
+protocol: nec
+address: 24.247
+command: 71
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 24.247
+command: 92
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 24.247
+command: 93
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 24.247
+command: 94
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 24.247
+command: 95
+#

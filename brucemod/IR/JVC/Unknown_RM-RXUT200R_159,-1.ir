@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 159
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: jvc
+address: 159
+command: 1
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: jvc
+address: 159
+command: 2
+#
+name: ahb-pro
+type: parsed
+protocol: jvc
+address: 159
+command: 4
+#
+name: KEY_TUNER
+type: parsed
+protocol: jvc
+address: 159
+command: 11
+#
+name: KEY_AUX
+type: parsed
+protocol: jvc
+address: 159
+command: 13
+#
+name: auto-preset
+type: parsed
+protocol: jvc
+address: 159
+command: 18
+#
+name: display-mode
+type: parsed
+protocol: jvc
+address: 159
+command: 22
+#
+name: pty-eon
+type: parsed
+protocol: jvc
+address: 159
+command: 23
+#
+name: right-select
+type: parsed
+protocol: jvc
+address: 159
+command: 24
+#
+name: left-select
+type: parsed
+protocol: jvc
+address: 159
+command: 25
+#
+name: display
+type: parsed
+protocol: jvc
+address: 159
+command: 28
+#
+name: stereo
+type: parsed
+protocol: jvc
+address: 159
+command: 31
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 159
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 159
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 159
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 159
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 159
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 159
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 159
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 159
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 159
+command: 41
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 159
+command: 42
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: jvc
+address: 159
+command: 46
+#
+name: KEY_SLEEP
+type: parsed
+protocol: jvc
+address: 159
+command: 50
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: jvc
+address: 159
+command: 61
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc
+address: 159
+command: 62
+#
+name: reverse-mode
+type: parsed
+protocol: jvc
+address: 159
+command: 65
+#
+name: KEY_TAPE
+type: parsed
+protocol: jvc
+address: 159
+command: 76
+#
+name: KEY_CD
+type: parsed
+protocol: jvc
+address: 159
+command: 112
+#
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 159
+command: 113
+#
+name: program
+type: parsed
+protocol: jvc
+address: 159
+command: 116
+#
+name: random
+type: parsed
+protocol: jvc
+address: 159
+command: 119
+#
+name: KEY_AGAIN
+type: parsed
+protocol: jvc
+address: 159
+command: 120
+#
+name: bass+
+type: parsed
+protocol: jvc
+address: 159
+command: 135
+#
+name: bass-
+type: parsed
+protocol: jvc
+address: 159
+command: 136
+#
+name: treble+
+type: parsed
+protocol: jvc
+address: 159
+command: 137
+#
+name: treble-
+type: parsed
+protocol: jvc
+address: 159
+command: 138
+#
+name: beat-cut
+type: parsed
+protocol: jvc
+address: 159
+command: 238
+#

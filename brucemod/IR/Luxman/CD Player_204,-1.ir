@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 204
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 204
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 204
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 204
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 204
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 204
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 204
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 204
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 204
+command: 9
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 204
+command: 10
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 204
+command: 10
+#
+name: T-DISP
+type: parsed
+protocol: nec1
+address: 204
+command: 11
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 204
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 204
+command: 12
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 204
+command: 12
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 204
+command: 13
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 204
+command: 14
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 204
+command: 14
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 204
+command: 15
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 204
+command: 15
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 204
+command: 16
+#
+name: M-CHECK
+type: parsed
+protocol: nec1
+address: 204
+command: 17
+#
+name: FWD
+type: parsed
+protocol: nec1
+address: 204
+command: 19
+#
+name: RWD
+type: parsed
+protocol: nec1
+address: 204
+command: 20
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 204
+command: 21
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 204
+command: 21
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 204
+command: 23
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 204
+command: 24
+#
+name: A-SCAN
+type: parsed
+protocol: nec1
+address: 204
+command: 28
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 204
+command: 31
+#
+name: DISC SELECT
+type: parsed
+protocol: nec1
+address: 204
+command: 88
+#
+name: DISC SKIP
+type: parsed
+protocol: nec1
+address: 204
+command: 88
+#

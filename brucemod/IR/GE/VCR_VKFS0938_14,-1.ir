@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: tv_vcr
+type: parsed
+protocol: rca_38
+address: 14
+command: 5
+#
+name: clear_reset
+type: parsed
+protocol: rca_38
+address: 14
+command: 6
+#
+name: program
+type: parsed
+protocol: rca_38
+address: 14
+command: 8
+#
+name: tracking_down
+type: parsed
+protocol: rca_38
+address: 14
+command: 10
+#
+name: tracking_up
+type: parsed
+protocol: rca_38
+address: 14
+command: 11
+#
+name: KEY_SLOW
+type: parsed
+protocol: rca_38
+address: 14
+command: 16
+#
+name: dup_forward_advance
+type: parsed
+protocol: rca_38
+address: 14
+command: 16
+#
+name: counter_memory
+type: parsed
+protocol: rca_38
+address: 14
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: rca_38
+address: 14
+command: 21
+#
+name: KEY_RECORD
+type: parsed
+protocol: rca_38
+address: 14
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rca_38
+address: 14
+command: 25
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rca_38
+address: 14
+command: 28
+#
+name: KEY_REWIND
+type: parsed
+protocol: rca_38
+address: 14
+command: 29
+#
+name: KEY_STOP
+type: parsed
+protocol: rca_38
+address: 14
+command: 31
+#
+name: add_delete
+type: parsed
+protocol: rca_38
+address: 14
+command: 36
+#
+name: KEY_POWER
+type: parsed
+protocol: rca_38
+address: 14
+command: 42
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rca_38
+address: 14
+command: 44
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rca_38
+address: 14
+command: 45
+#
+name: KEY_0
+type: parsed
+protocol: rca_38
+address: 14
+command: 48
+#
+name: KEY_1
+type: parsed
+protocol: rca_38
+address: 14
+command: 49
+#
+name: time_am
+type: parsed
+protocol: rca_38
+address: 14
+command: 49
+#
+name: KEY_2
+type: parsed
+protocol: rca_38
+address: 14
+command: 50
+#
+name: time_pm
+type: parsed
+protocol: rca_38
+address: 14
+command: 50
+#
+name: KEY_3
+type: parsed
+protocol: rca_38
+address: 14
+command: 51
+#
+name: KEY_4
+type: parsed
+protocol: rca_38
+address: 14
+command: 52
+#
+name: KEY_5
+type: parsed
+protocol: rca_38
+address: 14
+command: 53
+#
+name: KEY_6
+type: parsed
+protocol: rca_38
+address: 14
+command: 54
+#
+name: KEY_7
+type: parsed
+protocol: rca_38
+address: 14
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: rca_38
+address: 14
+command: 56
+#
+name: KEY_9
+type: parsed
+protocol: rca_38
+address: 14
+command: 57
+#
+name: display
+type: parsed
+protocol: rca_38
+address: 14
+command: 60
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: rca_38
+address: 14
+command: 64
+#
+name: otr_start
+type: parsed
+protocol: rca_38
+address: 14
+command: 68
+#
+name: otr_length
+type: parsed
+protocol: rca_38
+address: 14
+command: 69
+#
+name: speed
+type: parsed
+protocol: rca_38
+address: 14
+command: 70
+#
+name: input
+type: parsed
+protocol: rca_38
+address: 14
+command: 71
+#
+name: KEY_0
+type: parsed
+protocol: rca_38
+address: 14
+command: 209
+#

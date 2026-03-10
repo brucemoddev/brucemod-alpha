@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 80.79
+command: 2
+#
+name: DISP MODE
+type: parsed
+protocol: nec1
+address: 80.79
+command: 6
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 80.79
+command: 7
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 80.79
+command: 10
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 80.79
+command: 12
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 80.79
+command: 17
+#
+name: KEYSTONE +
+type: parsed
+protocol: nec1
+address: 80.79
+command: 19
+#
+name: KEYSTONE -
+type: parsed
+protocol: nec1
+address: 80.79
+command: 20
+#
+name: RESYNC
+type: parsed
+protocol: nec1
+address: 80.79
+command: 21
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 80.79
+command: 22
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 80.79
+command: 23
+#
+name: SOURCE-LOCK
+type: parsed
+protocol: nec1
+address: 80.79
+command: 27
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 80.79
+command: 28
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 80.79
+command: 29
+#
+name: COMPUTER
+type: parsed
+protocol: nec1
+address: 80.79
+command: 30
+#
+name: AV MUTE
+type: parsed
+protocol: nec1
+address: 80.79
+command: 48
+#

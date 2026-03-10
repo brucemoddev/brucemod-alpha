@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: sleep-timer
+type: parsed
+protocol: jvc
+address: 3
+command: 3
+#
+name: display
+type: parsed
+protocol: jvc
+address: 3
+command: 4
+#
+name: tv-video
+type: parsed
+protocol: jvc
+address: 3
+command: 19
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: chdn
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: KEY_MUTE
+type: parsed
+protocol: jvc
+address: 3
+command: 28
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 3
+command: 32
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 3
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 3
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 3
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 3
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 3
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 3
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 3
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 3
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 3
+command: 41
+#
+name: surround
+type: parsed
+protocol: jvc
+address: 3
+command: 66
+#
+name: picsnd-up
+type: parsed
+protocol: jvc
+address: 3
+command: 90
+#
+name: picsnd-dn
+type: parsed
+protocol: jvc
+address: 3
+command: 91
+#
+name: vsm
+type: parsed
+protocol: jvc
+address: 3
+command: 121
+#
+name: KEY_MENU
+type: parsed
+protocol: jvc
+address: 3
+command: 122
+#
+name: picture-sound
+type: parsed
+protocol: jvc
+address: 3
+command: 123
+#
+name: ssm
+type: parsed
+protocol: jvc
+address: 3
+command: 144
+#
+name: color-system
+type: parsed
+protocol: jvc
+address: 3
+command: 146
+#
+name: digits
+type: parsed
+protocol: jvc
+address: 3
+command: 157
+#

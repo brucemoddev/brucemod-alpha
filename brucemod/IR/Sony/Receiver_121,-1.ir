@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT: VIDEO 2
+type: parsed
+protocol: sony15
+address: 121
+command: 30
+#
+name: 2 VID 2
+type: parsed
+protocol: sony15
+address: 121
+command: 30
+#
+name: INPUT: TUNER
+type: parsed
+protocol: sony15
+address: 121
+command: 33
+#
+name: 2 TUNER
+type: parsed
+protocol: sony15
+address: 121
+command: 33
+#
+name: INPUT: VIDEO 1
+type: parsed
+protocol: sony15
+address: 121
+command: 34
+#
+name: 2 VID 1
+type: parsed
+protocol: sony15
+address: 121
+command: 34
+#
+name: INPUT: TAPE
+type: parsed
+protocol: sony15
+address: 121
+command: 35
+#
+name: 2 TAPE
+type: parsed
+protocol: sony15
+address: 121
+command: 35
+#
+name: INPUT: CD
+type: parsed
+protocol: sony15
+address: 121
+command: 37
+#
+name: 2 CD
+type: parsed
+protocol: sony15
+address: 121
+command: 37
+#
+name: INPUT: VIDEO 3
+type: parsed
+protocol: sony15
+address: 121
+command: 66
+#
+name: 2 VID 3
+type: parsed
+protocol: sony15
+address: 121
+command: 66
+#
+name: INPUT: MD/DAT
+type: parsed
+protocol: sony15
+address: 121
+command: 105
+#
+name: 2 MD
+type: parsed
+protocol: sony15
+address: 121
+command: 105
+#
+name: INPUT: TV/SAT
+type: parsed
+protocol: sony15
+address: 121
+command: 106
+#
+name: 2 TV
+type: parsed
+protocol: sony15
+address: 121
+command: 106
+#
+name: SOURCE
+type: parsed
+protocol: sony15
+address: 121
+command: 123
+#
+name: INPUT: SOURCE
+type: parsed
+protocol: sony15
+address: 121
+command: 123
+#
+name: 2 SOURCE
+type: parsed
+protocol: sony15
+address: 121
+command: 123
+#
+name: 2ND ROOM
+type: parsed
+protocol: sony15
+address: 121
+command: 123
+#
+name: INPUT: DVD/LD
+type: parsed
+protocol: sony15
+address: 121
+command: 125
+#
+name: 2 DVD
+type: parsed
+protocol: sony15
+address: 121
+command: 125
+#

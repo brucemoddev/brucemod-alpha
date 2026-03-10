@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 132.98
+command: 0
+#
+name: CH V
+type: parsed
+protocol: nec1
+address: 132.98
+command: 1
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 132.98
+command: 2
+#
+name: PLAY/ATR >
+type: parsed
+protocol: nec1
+address: 132.98
+command: 3
+#
+name: STOP/EJ []
+type: parsed
+protocol: nec1
+address: 132.98
+command: 4
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 132.98
+command: 5
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 132.98
+command: 6
+#
+name: CH ^
+type: parsed
+protocol: nec1
+address: 132.98
+command: 7
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 132.98
+command: 8
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 132.98
+command: 9
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 132.98
+command: 10
+#
+name: LCV (CHANGE)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 11
+#
+name: OSD
+type: parsed
+protocol: nec1
+address: 132.98
+command: 12
+#
+name: MUTE (SELECT)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 13
+#
+name: CLK/CTR
+type: parsed
+protocol: nec1
+address: 132.98
+command: 14
+#
+name: INDEX
+type: parsed
+protocol: nec1
+address: 132.98
+command: 15
+#
+name: 0 (AUX)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 132.98
+command: 17
+#
+name: 2 (TRK -)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 18
+#
+name: 3 (TRK +)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 132.98
+command: 20
+#
+name: 5 (PICTURE -)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 21
+#
+name: 6 (PICTURE +)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 132.98
+command: 23
+#
+name: 8 (SLOW -)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 24
+#
+name: 9 (SLOW +)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 25
+#
+name: 100
+type: parsed
+protocol: nec1
+address: 132.98
+command: 26
+#
+name: VIEW
+type: parsed
+protocol: nec1
+address: 132.98
+command: 27
+#
+name: COPY
+type: parsed
+protocol: nec1
+address: 132.98
+command: 28
+#
+name: DECK SELECT
+type: parsed
+protocol: nec1
+address: 132.98
+command: 29
+#
+name: SKIP (ZERO RTN)
+type: parsed
+protocol: nec1
+address: 132.98
+command: 30
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 132.98
+command: 31
+#

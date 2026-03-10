@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc6
+address: 48
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc6
+address: 48
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc6
+address: 48
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc6
+address: 48
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc6
+address: 48
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc6
+address: 48
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc6
+address: 48
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc6
+address: 48
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc6
+address: 48
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc6
+address: 48
+command: 9
+#
+name: vtdispin
+type: parsed
+protocol: rc6
+address: 48
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: rc6
+address: 48
+command: 12
+#
+name: KEY_MENU
+type: parsed
+protocol: rc6
+address: 48
+command: 15
+#
+name: vttvmix
+type: parsed
+protocol: rc6
+address: 48
+command: 28
+#
+name: KEY_RED
+type: parsed
+protocol: rc6
+address: 48
+command: 29
+#
+name: prg+
+type: parsed
+protocol: rc6
+address: 48
+command: 30
+#
+name: prg-
+type: parsed
+protocol: rc6
+address: 48
+command: 31
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc6
+address: 48
+command: 32
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc6
+address: 48
+command: 33
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc6
+address: 48
+command: 40
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc6
+address: 48
+command: 41
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc6
+address: 48
+command: 42
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc6
+address: 48
+command: 44
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc6
+address: 48
+command: 48
+#
+name: KEY_STOP
+type: parsed
+protocol: rc6
+address: 48
+command: 49
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc6
+address: 48
+command: 55
+#
+name: vtstop
+type: parsed
+protocol: rc6
+address: 48
+command: 59
+#
+name: vton
+type: parsed
+protocol: rc6
+address: 48
+command: 84
+#
+name: KEY_UP
+type: parsed
+protocol: rc6
+address: 48
+command: 88
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc6
+address: 48
+command: 89
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc6
+address: 48
+command: 90
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc6
+address: 48
+command: 91
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 48
+command: 92
+#
+name: KEY_EXIT
+type: parsed
+protocol: rc6
+address: 48
+command: 131
+#
+name: vtoff
+type: parsed
+protocol: rc6
+address: 48
+command: 207
+#
+name: av
+type: parsed
+protocol: rc6
+address: 48
+command: 238
+#
+name: pink
+type: parsed
+protocol: rc6
+address: 48
+command: 247
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 48
+command: 250
+#

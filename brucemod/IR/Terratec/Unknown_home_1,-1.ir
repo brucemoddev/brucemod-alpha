@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 1
+command: 0
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 1
+command: 1
+#
+name: +/-5dB
+type: parsed
+protocol: nec
+address: 1
+command: 2
+#
+name: NORMAL
+type: parsed
+protocol: nec
+address: 1
+command: 3
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 1
+command: 4
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 1
+command: 5
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 1
+command: 6
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 1
+command: 7
+#
+name: CENTER_-
+type: parsed
+protocol: nec
+address: 1
+command: 8
+#
+name: CENTER_+
+type: parsed
+protocol: nec
+address: 1
+command: 9
+#
+name: SURROUND_-
+type: parsed
+protocol: nec
+address: 1
+command: 10
+#
+name: SURROUND_+
+type: parsed
+protocol: nec
+address: 1
+command: 11
+#

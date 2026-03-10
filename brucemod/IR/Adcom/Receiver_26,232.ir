@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO 4 (2)
+type: parsed
+protocol: nec
+address: 26.232
+command: 16
+#
+name: CD (2)
+type: parsed
+protocol: nec
+address: 26.232
+command: 19
+#
+name: TUNER (2)
+type: parsed
+protocol: nec
+address: 26.232
+command: 80
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 26.232
+command: 84
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 26.232
+command: 85
+#
+name: DSP: PL2 MOVIE
+type: parsed
+protocol: nec
+address: 26.232
+command: 92
+#
+name: DSP: PL2 MUSIC
+type: parsed
+protocol: nec
+address: 26.232
+command: 93
+#
+name: VIDEO 2 (2)
+type: parsed
+protocol: nec
+address: 26.232
+command: 141
+#
+name: VIDEO 3 (2)
+type: parsed
+protocol: nec
+address: 26.232
+command: 142
+#
+name: POWER ON
+type: parsed
+protocol: nec
+address: 26.232
+command: 206
+#
+name: POWER OFF
+type: parsed
+protocol: nec
+address: 26.232
+command: 207
+#

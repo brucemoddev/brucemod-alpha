@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: +vol
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 176
+#
+name: -vol
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 177
+#
+name: +P
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 231
+#
+name: -P
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 232
+#

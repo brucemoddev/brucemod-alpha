@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NUM_1
+type: parsed
+protocol: nec
+address: 139
+command: 128
+#
+name: NUM_2
+type: parsed
+protocol: nec
+address: 139
+command: 129
+#
+name: NUM_3
+type: parsed
+protocol: nec
+address: 139
+command: 130
+#
+name: NUM_4
+type: parsed
+protocol: nec
+address: 139
+command: 131
+#
+name: NUM_5
+type: parsed
+protocol: nec
+address: 139
+command: 132
+#
+name: NUM_6
+type: parsed
+protocol: nec
+address: 139
+command: 133
+#
+name: NUM_7
+type: parsed
+protocol: nec
+address: 139
+command: 134
+#
+name: NUM_8
+type: parsed
+protocol: nec
+address: 139
+command: 135
+#
+name: NUM_9
+type: parsed
+protocol: nec
+address: 139
+command: 136
+#
+name: NUM_+10
+type: parsed
+protocol: nec
+address: 139
+command: 137
+#
+name: NUM_0
+type: parsed
+protocol: nec
+address: 139
+command: 138
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 139
+command: 142
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 139
+command: 144
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 139
+command: 145
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 139
+command: 146
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 139
+command: 147
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 139
+command: 148
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 139
+command: 149
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 139
+command: 150
+#
+name: RANDOM
+type: parsed
+protocol: nec
+address: 139
+command: 151
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 139
+command: 159
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 139
+command: 192
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 139
+command: 193
+#
+name: SRC_PHONO_LINE
+type: parsed
+protocol: nec
+address: 139
+command: 194
+#
+name: VOL_MUTE
+type: parsed
+protocol: nec
+address: 139
+command: 196
+#
+name: PROG
+type: parsed
+protocol: nec
+address: 139
+command: 201
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 139
+command: 202
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 139
+command: 203
+#
+name: CD_PLAY_DISC1
+type: parsed
+protocol: nec
+address: 139
+command: 205
+#
+name: CD_PLAY_DISC2
+type: parsed
+protocol: nec
+address: 139
+command: 206
+#
+name: CD_PLAY_DISC3
+type: parsed
+protocol: nec
+address: 139
+command: 207
+#
+name: SRC_CD
+type: parsed
+protocol: nec
+address: 139
+command: 209
+#
+name: SRC_TAPE
+type: parsed
+protocol: nec
+address: 139
+command: 210
+#
+name: SRC_TUNER
+type: parsed
+protocol: nec
+address: 139
+command: 211
+#

@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: rca
+address: 5
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: rca
+address: 5
+command: 21
+#
+name: PAUSE
+type: parsed
+protocol: rca
+address: 5
+command: 25
+#
+name: TITLE
+type: parsed
+protocol: rca
+address: 5
+command: 26
+#
+name: FFW
+type: parsed
+protocol: rca
+address: 5
+command: 28
+#
+name: SEARCH >>
+type: parsed
+protocol: rca
+address: 5
+command: 28
+#
+name: SCAN >>
+type: parsed
+protocol: rca
+address: 5
+command: 28
+#
+name: REW
+type: parsed
+protocol: rca
+address: 5
+command: 29
+#
+name: SEARCH <<
+type: parsed
+protocol: rca
+address: 5
+command: 29
+#
+name: SCAN <<
+type: parsed
+protocol: rca
+address: 5
+command: 29
+#
+name: STOP
+type: parsed
+protocol: rca
+address: 5
+command: 31
+#
+name: NEXT TRACK
+type: parsed
+protocol: rca
+address: 5
+command: 32
+#
+name: SKIP >>
+type: parsed
+protocol: rca
+address: 5
+command: 32
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 34
+#
+name: SKIP <<
+type: parsed
+protocol: rca
+address: 5
+command: 34
+#
+name: BACK
+type: parsed
+protocol: rca
+address: 5
+command: 39
+#
+name: DISPLAY
+type: parsed
+protocol: rca
+address: 5
+command: 42
+#
+name: 0
+type: parsed
+protocol: rca
+address: 5
+command: 48
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 49
+#
+name: 1
+type: parsed
+protocol: rca
+address: 5
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 5
+command: 50
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 51
+#
+name: 3
+type: parsed
+protocol: rca
+address: 5
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 5
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 5
+command: 53
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 54
+#
+name: 6
+type: parsed
+protocol: rca
+address: 5
+command: 54
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 55
+#
+name: 7
+type: parsed
+protocol: rca
+address: 5
+command: 55
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 56
+#
+name: 8
+type: parsed
+protocol: rca
+address: 5
+command: 56
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 57
+#
+name: 9
+type: parsed
+protocol: rca
+address: 5
+command: 57
+#
+name: INFO
+type: parsed
+protocol: rca
+address: 5
+command: 60
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 86
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: rca
+address: 5
+command: 86
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 87
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: rca
+address: 5
+command: 87
+#
+name: DOWN
+type: parsed
+protocol: rca
+address: 5
+command: 88
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: rca
+address: 5
+command: 88
+#
+name: UP
+type: parsed
+protocol: rca
+address: 5
+command: 89
+#
+name: CURSOR - UP
+type: parsed
+protocol: rca
+address: 5
+command: 89
+#
+name: 
+type: parsed
+protocol: rca
+address: 5
+command: 244
+#
+name: ENTER
+type: parsed
+protocol: rca
+address: 5
+command: 244
+#
+name: CURSOR - SELECT
+type: parsed
+protocol: rca
+address: 5
+command: 244
+#

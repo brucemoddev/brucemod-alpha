@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SWITCH INPUT 1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: SWITCH INPUT 2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: SWITCH INPUT 3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: SWITCH INPUT 4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: VOL UP (2DB)
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: VOL DN (2DB)
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: NEXT CHANNEL
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: TOGGLE MUTE
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: VOL DN (4DB)
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: VOL UP (4DB)
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: MUTE ON
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: MUTE OFF
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#

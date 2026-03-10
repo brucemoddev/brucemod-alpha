@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK018 POWER OFF
+type: parsed
+protocol: nec2
+address: 7.143
+command: 1
+#
+name: BK018 POWER ON
+type: parsed
+protocol: nec2
+address: 7.143
+command: 2
+#
+name: BK018 MUTE
+type: parsed
+protocol: nec2
+address: 7.143
+command: 3
+#
+name: BK018 INPUT 1
+type: parsed
+protocol: nec2
+address: 7.143
+command: 5
+#
+name: BK018 INPUT 3
+type: parsed
+protocol: nec2
+address: 7.143
+command: 6
+#
+name: BK018 INPUT 8
+type: parsed
+protocol: nec2
+address: 7.143
+command: 7
+#
+name: BK018 INPUT 2
+type: parsed
+protocol: nec2
+address: 7.143
+command: 9
+#
+name: BK018 INPUT 7
+type: parsed
+protocol: nec2
+address: 7.143
+command: 11
+#
+name: BK018 INPUT 4
+type: parsed
+protocol: nec2
+address: 7.143
+command: 13
+#
+name: BK018 TUNER 1
+type: parsed
+protocol: nec2
+address: 7.143
+command: 14
+#
+name: BK018 INPUT 5
+type: parsed
+protocol: nec2
+address: 7.143
+command: 15
+#
+name: BK018 STATION-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 23
+#
+name: BK018 STATION+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 24
+#
+name: BK018 TUNE-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 27
+#
+name: BK018 TUNE+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 28
+#
+name: BK018 LEFT
+type: parsed
+protocol: nec2
+address: 7.143
+command: 31
+#
+name: BK018 RIGHT
+type: parsed
+protocol: nec2
+address: 7.143
+command: 32
+#
+name: BK018 VOLUME-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 35
+#
+name: BK018 VOLUME+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 36
+#
+name: BK018 NUMBER +10
+type: parsed
+protocol: nec2
+address: 7.143
+command: 41
+#
+name: BK018 EQ
+type: parsed
+protocol: nec2
+address: 7.143
+command: 42
+#
+name: BK018 DOWN
+type: parsed
+protocol: nec2
+address: 7.143
+command: 45
+#
+name: BK018 UP
+type: parsed
+protocol: nec2
+address: 7.143
+command: 46
+#
+name: BK018 ENTER
+type: parsed
+protocol: nec2
+address: 7.143
+command: 48
+#
+name: BK018 NUMBER 1
+type: parsed
+protocol: nec2
+address: 7.143
+command: 49
+#
+name: BK018 NUMBER 2
+type: parsed
+protocol: nec2
+address: 7.143
+command: 50
+#
+name: BK018 NUMBER 3
+type: parsed
+protocol: nec2
+address: 7.143
+command: 51
+#
+name: BK018 NUMBER 4
+type: parsed
+protocol: nec2
+address: 7.143
+command: 53
+#
+name: BK018 NUMBER 5
+type: parsed
+protocol: nec2
+address: 7.143
+command: 54
+#
+name: BK018 NUMBER 6
+type: parsed
+protocol: nec2
+address: 7.143
+command: 55
+#
+name: BK018 NUMBER 7
+type: parsed
+protocol: nec2
+address: 7.143
+command: 57
+#
+name: BK018 NUMBER 8
+type: parsed
+protocol: nec2
+address: 7.143
+command: 58
+#
+name: BK018 NUMBER 9
+type: parsed
+protocol: nec2
+address: 7.143
+command: 59
+#
+name: BK018 NUMBER 0
+type: parsed
+protocol: nec2
+address: 7.143
+command: 62
+#
+name: BK018 SAVE
+type: parsed
+protocol: nec2
+address: 7.143
+command: 64
+#
+name: BK018 TUNER 3
+type: parsed
+protocol: nec2
+address: 7.143
+command: 68
+#
+name: BK018 INPUT 6
+type: parsed
+protocol: nec2
+address: 7.143
+command: 74
+#
+name: BK018 PRESET+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 75
+#
+name: BK018 D-IN
+type: parsed
+protocol: nec2
+address: 7.143
+command: 90
+#
+name: BK018 BASS-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 101
+#
+name: BK018 SOURCE+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 102
+#
+name: BK018 INPUT 9
+type: parsed
+protocol: nec2
+address: 7.143
+command: 110
+#
+name: BK018 AM
+type: parsed
+protocol: nec2
+address: 7.143
+command: 118
+#
+name: BK018 TREBLE-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 121
+#
+name: BK018 VIDEO-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 122
+#
+name: BK018 EXIT
+type: parsed
+protocol: nec2
+address: 7.143
+command: 125
+#
+name: BK018 TUNER 2
+type: parsed
+protocol: nec2
+address: 7.143
+command: 132
+#
+name: BK018 FM
+type: parsed
+protocol: nec2
+address: 7.143
+command: 142
+#
+name: BK018 SOURCE-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 166
+#
+name: BK018 SLEEP
+type: parsed
+protocol: nec2
+address: 7.143
+command: 179
+#
+name: BK018 PRESET-
+type: parsed
+protocol: nec2
+address: 7.143
+command: 198
+#
+name: BK018 LOUDNESS
+type: parsed
+protocol: nec2
+address: 7.143
+command: 207
+#
+name: BK018 AUTO LEVEL
+type: parsed
+protocol: nec2
+address: 7.143
+command: 228
+#
+name: BK018 BASS+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 229
+#
+name: BK018 TREBLE+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 249
+#
+name: BK018 VIDEO+
+type: parsed
+protocol: nec2
+address: 7.143
+command: 250
+#

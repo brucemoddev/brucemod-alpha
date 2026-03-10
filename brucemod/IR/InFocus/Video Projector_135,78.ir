@@ -1,0 +1,597 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 0
+#
+name: COMPUTER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 1
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 135.78
+command: 2
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 135.78
+command: 2
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: nec1
+address: 135.78
+command: 3
+#
+name: BRIGHTNESS >
+type: parsed
+protocol: nec1
+address: 135.78
+command: 3
+#
+name: BRITE+
+type: parsed
+protocol: nec1
+address: 135.78
+command: 3
+#
+name: VOLUME <
+type: parsed
+protocol: nec1
+address: 135.78
+command: 4
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 135.78
+command: 5
+#
+name: SCRIBBLE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 6
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: nec1
+address: 135.78
+command: 7
+#
+name: BRIGHTNESS <
+type: parsed
+protocol: nec1
+address: 135.78
+command: 7
+#
+name: BRITE-
+type: parsed
+protocol: nec1
+address: 135.78
+command: 7
+#
+name: FOCUS NEAR
+type: parsed
+protocol: nec1
+address: 135.78
+command: 8
+#
+name: VOLUME >
+type: parsed
+protocol: nec1
+address: 135.78
+command: 8
+#
+name: FOCUS FAR
+type: parsed
+protocol: nec1
+address: 135.78
+command: 9
+#
+name: LITESHOW
+type: parsed
+protocol: nec1
+address: 135.78
+command: 9
+#
+name: ZOOM IN
+type: parsed
+protocol: nec1
+address: 135.78
+command: 10
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 135.78
+command: 10
+#
+name: ZOOM OUT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 11
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 135.78
+command: 13
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 14
+#
+name: SOURCE SELECT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 16
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 16
+#
+name: CURSOR +
+type: parsed
+protocol: nec1
+address: 135.78
+command: 19
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 135.78
+command: 19
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 135.78
+command: 19
+#
+name: CURSOR -
+type: parsed
+protocol: nec1
+address: 135.78
+command: 20
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 135.78
+command: 20
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 135.78
+command: 20
+#
+name: DN
+type: parsed
+protocol: nec1
+address: 135.78
+command: 20
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 23
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec
+address: 135.78
+command: 23
+#
+name: HORIZ OFFSET LEFT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 27
+#
+name: HORIZ OFFSET RIGHT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 28
+#
+name: VERT OFFSET UP
+type: parsed
+protocol: nec1
+address: 135.78
+command: 29
+#
+name: VERT OFFSET DOWN
+type: parsed
+protocol: nec1
+address: 135.78
+command: 30
+#
+name: KEYSTONE +
+type: parsed
+protocol: nec1
+address: 135.78
+command: 32
+#
+name: KEYSTONE -
+type: parsed
+protocol: nec1
+address: 135.78
+command: 33
+#
+name: CUSTOM
+type: parsed
+protocol: nec1
+address: 135.78
+command: 43
+#
+name: PRESET
+type: parsed
+protocol: nec1
+address: 135.78
+command: 44
+#
+name: PRESETS
+type: parsed
+protocol: nec1
+address: 135.78
+command: 44
+#
+name: SOURCE 1
+type: parsed
+protocol: nec1
+address: 135.78
+command: 45
+#
+name: SOURCE 2
+type: parsed
+protocol: nec1
+address: 135.78
+command: 46
+#
+name: SOURCE2
+type: parsed
+protocol: nec1
+address: 135.78
+command: 46
+#
+name: SOURCE 3
+type: parsed
+protocol: nec1
+address: 135.78
+command: 47
+#
+name: SOURCE3
+type: parsed
+protocol: nec1
+address: 135.78
+command: 47
+#
+name: SOURCE 4
+type: parsed
+protocol: nec1
+address: 135.78
+command: 48
+#
+name: SOURCE4
+type: parsed
+protocol: nec1
+address: 135.78
+command: 48
+#
+name: BLANK
+type: parsed
+protocol: nec1
+address: 135.78
+command: 49
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 50
+#
+name: AUTO IMAGE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 51
+#
+name: RESIZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 52
+#
+name: OVERSCAN
+type: parsed
+protocol: nec1
+address: 135.78
+command: 53
+#
+name: CONTRAST +
+type: parsed
+protocol: nec1
+address: 135.78
+command: 54
+#
+name: CONTRAST+
+type: parsed
+protocol: nec1
+address: 135.78
+command: 54
+#
+name: CONTRAST -
+type: parsed
+protocol: nec1
+address: 135.78
+command: 55
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 135.78
+command: 57
+#
+name: POWER OFF
+type: parsed
+protocol: nec
+address: 135.78
+command: 57
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 135.78
+command: 58
+#
+name: POWER ON
+type: parsed
+protocol: nec
+address: 135.78
+command: 58
+#
+name: NATIVE RESIZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 59
+#
+name: 16:9
+type: parsed
+protocol: nec1
+address: 135.78
+command: 60
+#
+name: 16:9 RESIZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 60
+#
+name: 4:3
+type: parsed
+protocol: nec1
+address: 135.78
+command: 61
+#
+name: 4:3 RESIZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 61
+#
+name: LETTERBOX
+type: parsed
+protocol: nec1
+address: 135.78
+command: 62
+#
+name: LETTERBOX RESIZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 62
+#
+name: NATURAL WIDE RESIZE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 63
+#
+name: NATURAL WIDE RESIZE
+type: parsed
+protocol: nec
+address: 135.78
+command: 63
+#
+name: USER PRESET 1
+type: parsed
+protocol: nec1
+address: 135.78
+command: 64
+#
+name: USER PRESET 2
+type: parsed
+protocol: nec1
+address: 135.78
+command: 65
+#
+name: USER PRESET 3
+type: parsed
+protocol: nec1
+address: 135.78
+command: 66
+#
+name: LEVEL ^
+type: parsed
+protocol: nec1
+address: 135.78
+command: 128
+#
+name: CONT ^
+type: parsed
+protocol: nec1
+address: 135.78
+command: 129
+#
+name: WINDOW ^
+type: parsed
+protocol: nec1
+address: 135.78
+command: 130
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 131
+#
+name: LEVEL V
+type: parsed
+protocol: nec1
+address: 135.78
+command: 132
+#
+name: CONT V
+type: parsed
+protocol: nec1
+address: 135.78
+command: 133
+#
+name: WINDOW V
+type: parsed
+protocol: nec1
+address: 135.78
+command: 134
+#
+name: PREVIOUS
+type: parsed
+protocol: nec1
+address: 135.78
+command: 135
+#
+name: REVERSE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 136
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 139
+#
+name: GRAB
+type: parsed
+protocol: nec1
+address: 135.78
+command: 143
+#
+name: PRESENT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 144
+#
+name: EDIT
+type: parsed
+protocol: nec1
+address: 135.78
+command: 145
+#
+name: TOOLS
+type: parsed
+protocol: nec1
+address: 135.78
+command: 146
+#
+name: LIVE
+type: parsed
+protocol: nec1
+address: 135.78
+command: 147
+#
+name: UP LEFT CORNER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 148
+#
+name: UP (^)
+type: parsed
+protocol: nec1
+address: 135.78
+command: 149
+#
+name: UP RIGHT CORNER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 150
+#
+name: ESC
+type: parsed
+protocol: nec1
+address: 135.78
+command: 151
+#
+name: LEFT (<)
+type: parsed
+protocol: nec1
+address: 135.78
+command: 152
+#
+name: RIGHT (>)
+type: parsed
+protocol: nec1
+address: 135.78
+command: 154
+#
+name: GROUP
+type: parsed
+protocol: nec1
+address: 135.78
+command: 155
+#
+name: REAR LEFT CORNER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 156
+#
+name: DOWN (V)
+type: parsed
+protocol: nec1
+address: 135.78
+command: 157
+#
+name: REAR RIGHT CORNER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 158
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 159
+#

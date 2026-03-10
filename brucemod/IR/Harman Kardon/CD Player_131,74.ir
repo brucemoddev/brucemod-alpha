@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEARCH <<
+type: parsed
+protocol: nec2
+address: 131.74
+command: 0
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 131.74
+command: 0
+#
+name: SEARCH >>
+type: parsed
+protocol: nec2
+address: 131.74
+command: 1
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 131.74
+command: 1
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 131.74
+command: 3
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 131.74
+command: 3
+#
+name: SKIP <<
+type: parsed
+protocol: nec2
+address: 131.74
+command: 4
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 131.74
+command: 4
+#
+name: SKIP >>
+type: parsed
+protocol: nec2
+address: 131.74
+command: 5
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 131.74
+command: 5
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 131.74
+command: 7
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 131.74
+command: 7
+#
+name: DELETE
+type: parsed
+protocol: nec2
+address: 131.74
+command: 10
+#
+name: DELETE
+type: parsed
+protocol: nec1
+address: 131.74
+command: 10
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 131.74
+command: 11
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 131.74
+command: 11
+#
+name: REPEAT 1/ALL
+type: parsed
+protocol: nec2
+address: 131.74
+command: 12
+#
+name: 1/ALL
+type: parsed
+protocol: nec1
+address: 131.74
+command: 12
+#
+name: REPEAT A-B
+type: parsed
+protocol: nec2
+address: 131.74
+command: 13
+#
+name: A<->B
+type: parsed
+protocol: nec1
+address: 131.74
+command: 13
+#
+name: EDIT
+type: parsed
+protocol: nec2
+address: 131.74
+command: 14
+#
+name: EDIT
+type: parsed
+protocol: nec1
+address: 131.74
+command: 14
+#
+name: TIME
+type: parsed
+protocol: nec2
+address: 131.74
+command: 15
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 131.74
+command: 15
+#
+name: INTRO
+type: parsed
+protocol: nec2
+address: 131.74
+command: 16
+#
+name: INTRO
+type: parsed
+protocol: nec1
+address: 131.74
+command: 16
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 131.74
+command: 17
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 131.74
+command: 17
+#
+name: DISPLAY
+type: parsed
+protocol: nec2
+address: 131.74
+command: 18
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 131.74
+command: 18
+#
+name: DISC
+type: parsed
+protocol: nec2
+address: 131.74
+command: 19
+#
+name: DISC
+type: parsed
+protocol: nec1
+address: 131.74
+command: 19
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 131.74
+command: 20
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 131.74
+command: 20
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 131.74
+command: 21
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 131.74
+command: 21
+#
+name: PROG/REV
+type: parsed
+protocol: nec2
+address: 131.74
+command: 22
+#
+name: PROG/REV
+type: parsed
+protocol: nec1
+address: 131.74
+command: 22
+#
+name: TAPE SIZE
+type: parsed
+protocol: nec2
+address: 131.74
+command: 23
+#
+name: TAPE SIZE
+type: parsed
+protocol: nec1
+address: 131.74
+command: 23
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 131.74
+command: 24
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 131.74
+command: 24
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 131.74
+command: 25
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 131.74
+command: 25
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 131.74
+command: 26
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 131.74
+command: 26
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 131.74
+command: 27
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 131.74
+command: 27
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 131.74
+command: 28
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 131.74
+command: 28
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 131.74
+command: 29
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 131.74
+command: 29
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 131.74
+command: 30
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 131.74
+command: 30
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 131.74
+command: 31
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 131.74
+command: 31
+#

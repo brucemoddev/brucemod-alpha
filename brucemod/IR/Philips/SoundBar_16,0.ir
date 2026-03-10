@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: rc6
+address: 16
+command: 12
+#
+name: Mute
+type: parsed
+protocol: rc6
+address: 16
+command: 13
+#
+name: VOL +
+type: parsed
+protocol: rc6
+address: 16
+command: 16
+#
+name: VOL -
+type: parsed
+protocol: rc6
+address: 16
+command: 17
+#
+name: sound
+type: parsed
+protocol: rc6
+address: 16
+command: 81
+#
+name: BASS +
+type: parsed
+protocol: rc6
+address: 16
+command: 22
+#
+name: BASS -
+type: parsed
+protocol: rc6
+address: 16
+command: 23
+#
+name: TREBLE +
+type: parsed
+protocol: rc6
+address: 16
+command: 24
+#
+name: TREBLE -
+type: parsed
+protocol: rc6
+address: 16
+command: 25
+#
+name: aux
+type: parsed
+protocol: rc6
+address: 16
+command: 56
+#
+name: COAX IN
+type: parsed
+protocol: rc6
+address: 16
+command: 57
+#
+name: OPICAL IN
+type: parsed
+protocol: rc6
+address: 16
+command: 108
+#
+name: BT
+type: parsed
+protocol: rc6
+address: 16
+command: 105
+#
+name: usb
+type: parsed
+protocol: rc6
+address: 16
+command: 126
+#
+name: AUDIO IN
+type: parsed
+protocol: rc6
+address: 16
+command: 134
+#
+name: HDMI ARC
+type: parsed
+protocol: rc6
+address: 16
+command: 135
+#
+name: Stereo
+type: parsed
+protocol: rc6
+address: 16
+command: 80
+#
+name: Surround
+type: parsed
+protocol: rc6
+address: 16
+command: 82
+#

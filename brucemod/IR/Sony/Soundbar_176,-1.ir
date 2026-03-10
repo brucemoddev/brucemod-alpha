@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: sony15
+address: 48.0
+command: 21
+#
+name: Input
+type: parsed
+protocol: sony15
+address: 176.0
+command: 105
+#
+name: standard
+type: parsed
+protocol: sony20
+address: 16.13
+command: 29
+#
+name: AUTO_SOUND
+type: parsed
+protocol: sony20
+address: 16.13
+command: 47
+#
+name: MUSIC
+type: parsed
+protocol: sony15
+address: 176.0
+command: 73
+#
+name: CINEMA
+type: parsed
+protocol: sony15
+address: 176.0
+command: 67
+#
+name: night
+type: parsed
+protocol: sony15
+address: 176.0
+command: 32
+#
+name: VOICE
+type: parsed
+protocol: sony20
+address: 16.5
+command: 57
+#
+name: Vol_Up
+type: parsed
+protocol: sony15
+address: 48.0
+command: 18
+#
+name: Vol_Down
+type: parsed
+protocol: sony15
+address: 48.0
+command: 19
+#
+name: Mute
+type: parsed
+protocol: sony15
+address: 48.0
+command: 20
+#
+name: SW_UP
+type: parsed
+protocol: sony15
+address: 48.0
+command: 92
+#
+name: SW_DOWN
+type: parsed
+protocol: sony15
+address: 48.0
+command: 93
+#
+name: Dimmer
+type: parsed
+protocol: sony15
+address: 176.0
+command: 16
+#
+name: Menu
+type: parsed
+protocol: sony15
+address: 176.0
+command: 119
+#
+name: Back
+type: parsed
+protocol: sony20
+address: 16.1
+command: 125
+#
+name: enter
+type: parsed
+protocol: sony15
+address: 48.0
+command: 12
+#
+name: Up
+type: parsed
+protocol: sony15
+address: 176.0
+command: 120
+#
+name: Down
+type: parsed
+protocol: sony15
+address: 176.0
+command: 121
+#
+name: PLAY_PA
+type: parsed
+protocol: sony20
+address: 16.1
+command: 58
+#
+name: Next
+type: parsed
+protocol: sony20
+address: 16.1
+command: 49
+#
+name: Prev
+type: parsed
+protocol: sony20
+address: 16.1
+command: 48
+#

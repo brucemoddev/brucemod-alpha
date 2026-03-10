@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: HEATER
+type: parsed
+protocol: nec1
+address: 128
+command: 1
+#
+name: MIST_LVL
+type: parsed
+protocol: nec1
+address: 128
+command: 3
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 128
+command: 4
+#
+name: HUMIDITY_SET
+type: parsed
+protocol: nec1
+address: 128
+command: 5
+#
+name: IONIZER
+type: parsed
+protocol: nec1
+address: 128
+command: 6
+#
+name: NIGHT_MODE
+type: parsed
+protocol: nec1
+address: 128
+command: 9
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 128
+command: 30
+#

@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Jump
+type: parsed
+protocol: nec
+address: 0
+command: 1
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0
+command: 3
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0
+command: 4
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0
+command: 5
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0
+command: 9
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 18
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0
+command: 23
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0
+command: 25
+#
+name: T/S
+type: parsed
+protocol: nec
+address: 0
+command: 26
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 0
+command: 30
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0
+command: 67
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0
+command: 70
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0
+command: 75
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0
+command: 78
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0
+command: 79
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 0
+command: 83
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 0
+command: 87
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0
+command: 88
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0
+command: 89
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0
+command: 90
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 0
+command: 91
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0
+command: 92
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 0
+command: 94
+#
+name: Input
+type: parsed
+protocol: nec
+address: 0
+command: 95
+#

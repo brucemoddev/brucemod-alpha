@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: One
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 0
+#
+name: Two
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 1
+#
+name: Three
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 2
+#
+name: Four
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 3
+#
+name: Five
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 4
+#
+name: Six
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 5
+#
+name: Seven
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 6
+#
+name: Eight
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 7
+#
+name: Nine
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 8
+#
+name: Zero
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 9
+#
+name: VolUp
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 10
+#
+name: VolDown
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 11
+#
+name: ChanUp
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 12
+#
+name: ChanDown
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 13
+#
+name: Guide
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 15
+#
+name: Up
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 16
+#
+name: Down
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 17
+#
+name: Left
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 18
+#
+name: Right
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 19
+#
+name: OK
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 20
+#
+name: PgUp
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 23
+#
+name: PgDown
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 24
+#
+name: FavChan
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 27
+#
+name: Power
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 30
+#
+name: Mute
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 32
+#
+name: More
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 33
+#
+name: Green
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 34
+#
+name: Yellow
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 35
+#
+name: Blue
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 36
+#
+name: Menu
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 37
+#
+name: Red
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 38
+#
+name: Tv_Radio
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 43
+#
+name: Back
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 44
+#
+name: PreChan
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 48
+#
+name: Alt
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 49
+#
+name: Teletext
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 51
+#
+name: Subtitle
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 52
+#
+name: Audio
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 53
+#
+name: Timer
+type: parsed
+protocol: Samsung36
+address: 32.0
+command: 55
+#

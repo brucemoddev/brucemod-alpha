@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 67.164
+command: 0
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 67.164
+command: 1
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 67.164
+command: 2
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 67.164
+command: 3
+#
+name: DISPLAY INFO/ SELECT
+type: parsed
+protocol: nec2
+address: 67.164
+command: 4
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec2
+address: 67.164
+command: 5
+#
+name: HOME
+type: parsed
+protocol: nec2
+address: 67.164
+command: 6
+#
+name: QUICK MENU -TRIANGLE
+type: parsed
+protocol: nec2
+address: 67.164
+command: 7
+#
+name: QUIT -CIRCLE
+type: parsed
+protocol: nec2
+address: 67.164
+command: 8
+#
+name: MENU DVD -SQUARE
+type: parsed
+protocol: nec2
+address: 67.164
+command: 9
+#
+name: OK -CROSS
+type: parsed
+protocol: nec2
+address: 67.164
+command: 10
+#
+name: L1 -SLIP <
+type: parsed
+protocol: nec2
+address: 67.164
+command: 11
+#
+name: L2 -REW
+type: parsed
+protocol: nec2
+address: 67.164
+command: 12
+#
+name: R1 -SKIP >
+type: parsed
+protocol: nec2
+address: 67.164
+command: 13
+#
+name: R2 -FFW
+type: parsed
+protocol: nec2
+address: 67.164
+command: 14
+#

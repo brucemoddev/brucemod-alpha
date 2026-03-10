@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 32
+#
+name: VOLUME -
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 33
+#
+name: MUTE
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 50
+#
+name: DVD/CD
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 148
+#
+name: AUX
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 154
+#
+name: TV
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 156
+#
+name: VCR
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 158
+#
+name: PROLOGIC
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 180
+#
+name: CH SELECT
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 187
+#
+name: SUBWOOFER LEVEL
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 188
+#
+name: TEST
+type: parsed
+protocol: panasonic
+address: 160.0
+command: 246
+#

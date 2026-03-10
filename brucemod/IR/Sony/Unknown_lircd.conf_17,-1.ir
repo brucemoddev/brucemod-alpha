@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 17
+command: 9
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: KEY_0+
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: KEY_0+
+type: parsed
+protocol: sony12
+address: 17
+command: 62
+#
+name: KEY_MUTE
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#

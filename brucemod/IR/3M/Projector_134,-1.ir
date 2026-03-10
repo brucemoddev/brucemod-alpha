@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY/ON
+type: parsed
+protocol: fujitsu
+address: 134
+command: 0
+#
+name: VIDEO
+type: parsed
+protocol: fujitsu
+address: 134
+command: 5
+#
+name: VIDEO 1
+type: parsed
+protocol: fujitsu
+address: 134
+command: 5
+#
+name: RGB
+type: parsed
+protocol: fujitsu
+address: 134
+command: 8
+#
+name: FOCUS +
+type: parsed
+protocol: fujitsu
+address: 134
+command: 21
+#
+name: FOCUS -
+type: parsed
+protocol: fujitsu
+address: 134
+command: 22
+#
+name: ZOOM +
+type: parsed
+protocol: fujitsu
+address: 134
+command: 23
+#
+name: ZOOM -
+type: parsed
+protocol: fujitsu
+address: 134
+command: 24
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 134
+command: 33
+#
+name: BLANK
+type: parsed
+protocol: fujitsu
+address: 134
+command: 42
+#
+name: VOLUME +
+type: parsed
+protocol: fujitsu
+address: 134
+command: 48
+#
+name: VOLUME -
+type: parsed
+protocol: fujitsu
+address: 134
+command: 49
+#
+name: MUTE
+type: parsed
+protocol: fujitsu
+address: 134
+command: 50
+#
+name: MAGNIFY
+type: parsed
+protocol: fujitsu
+address: 134
+command: 63
+#
+name: TIMER
+type: parsed
+protocol: fujitsu
+address: 134
+command: 86
+#
+name: FREEZE
+type: parsed
+protocol: fujitsu
+address: 134
+command: 99
+#

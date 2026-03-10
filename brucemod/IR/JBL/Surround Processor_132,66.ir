@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SIBILANCE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 0
+#
+name: 70 MM MOVIE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 2
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 132.66
+command: 3
+#
+name: THEATER EQ.
+type: parsed
+protocol: nec1
+address: 132.66
+command: 4
+#
+name: 35 MM MOVIE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 6
+#
+name: POP
+type: parsed
+protocol: nec1
+address: 132.66
+command: 7
+#
+name: EFX MUTE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 8
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 132.66
+command: 10
+#
+name: JAZZ
+type: parsed
+protocol: nec1
+address: 132.66
+command: 11
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 132.66
+command: 14
+#
+name: HALL 1
+type: parsed
+protocol: nec1
+address: 132.66
+command: 15
+#
+name: MONO ENHANCE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 18
+#
+name: HALL 2
+type: parsed
+protocol: nec1
+address: 132.66
+command: 19
+#
+name: AMBIENCE +
+type: parsed
+protocol: nec1
+address: 132.66
+command: 24
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 132.66
+command: 25
+#
+name: CENTER ^
+type: parsed
+protocol: nec1
+address: 132.66
+command: 64
+#
+name: INPUT CALIBRATE <
+type: parsed
+protocol: nec1
+address: 132.66
+command: 65
+#
+name: CENTER V
+type: parsed
+protocol: nec1
+address: 132.66
+command: 67
+#
+name: SOURCE ^
+type: parsed
+protocol: nec1
+address: 132.66
+command: 68
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 132.66
+command: 69
+#
+name: SOURCE V
+type: parsed
+protocol: nec1
+address: 132.66
+command: 71
+#
+name: DELAY ^
+type: parsed
+protocol: nec1
+address: 132.66
+command: 72
+#
+name: INPUT CALIBRATE >
+type: parsed
+protocol: nec1
+address: 132.66
+command: 73
+#
+name: DELAY V
+type: parsed
+protocol: nec1
+address: 132.66
+command: 75
+#
+name: CENTER ON
+type: parsed
+protocol: nec1
+address: 132.66
+command: 76
+#
+name: CENTER +3DB
+type: parsed
+protocol: nec1
+address: 132.66
+command: 79
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 80
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 132.66
+command: 81
+#
+name: DIM.DISPLAY
+type: parsed
+protocol: nec1
+address: 132.66
+command: 83
+#
+name: REF.
+type: parsed
+protocol: nec1
+address: 132.66
+command: 86
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 132.66
+command: 88
+#
+name: AMBIENCE -
+type: parsed
+protocol: nec1
+address: 132.66
+command: 90
+#
+name: SOUND STAGE
+type: parsed
+protocol: nec1
+address: 132.66
+command: 95
+#

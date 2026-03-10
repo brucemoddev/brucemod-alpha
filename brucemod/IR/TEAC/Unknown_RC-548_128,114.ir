@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 128.114
+command: 0
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 128.114
+command: 4
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 128.114
+command: 6
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 128.114
+command: 7
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 128.114
+command: 8
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128.114
+command: 9
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 128.114
+command: 10
+#
+name: X_KEY_1/all
+type: parsed
+protocol: nec
+address: 128.114
+command: 12
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 128.114
+command: 13
+#
+name: A-B
+type: parsed
+protocol: nec
+address: 128.114
+command: 14
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128.114
+command: 15
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128.114
+command: 16
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128.114
+command: 17
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128.114
+command: 18
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128.114
+command: 19
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128.114
+command: 20
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128.114
+command: 21
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128.114
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128.114
+command: 23
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128.114
+command: 24
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 128.114
+command: 25
+#
+name: Program
+type: parsed
+protocol: nec
+address: 128.114
+command: 26
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 128.114
+command: 28
+#

@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 1.241
+command: 83
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 1.241
+command: 85
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 1.241
+command: 89
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 1.241
+command: 90
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 1.241
+command: 93
+#

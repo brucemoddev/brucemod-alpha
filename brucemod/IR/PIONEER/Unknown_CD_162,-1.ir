@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 162
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 162
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 162
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 162
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 162
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 162
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 162
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 162
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 162
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 162
+command: 9
+#
+name: Level+
+type: parsed
+protocol: nec
+address: 162
+command: 10
+#
+name: Level-
+type: parsed
+protocol: nec
+address: 162
+command: 11
+#
+name: Program
+type: parsed
+protocol: nec
+address: 162
+command: 13
+#
+name: Manual_Forward
+type: parsed
+protocol: nec
+address: 162
+command: 14
+#
+name: Manual_Back
+type: parsed
+protocol: nec
+address: 162
+command: 15
+#
+name: Track_Forward
+type: parsed
+protocol: nec
+address: 162
+command: 16
+#
+name: Track_Back
+type: parsed
+protocol: nec
+address: 162
+command: 17
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 162
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 162
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 162
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 162
+command: 28
+#
+name: RandomPlay
+type: parsed
+protocol: nec
+address: 162
+command: 74
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 162
+command: 81
+#
+name: >20
+type: parsed
+protocol: nec
+address: 162
+command: 86
+#
+name: Hi-LiteScan
+type: parsed
+protocol: nec
+address: 162
+command: 94
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 162
+command: 128
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 162
+command: 129
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 162
+command: 130
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 162
+command: 131
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 162
+command: 132
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 162
+command: 133
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 162
+command: 134
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 162
+command: 135
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 162
+command: 136
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 162
+command: 137
+#
+name: KEY_0_Prefix
+type: parsed
+protocol: nec
+address: 162
+command: 192
+#

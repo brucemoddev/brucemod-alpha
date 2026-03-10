@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TELEPHOTO
+type: parsed
+protocol: sony15
+address: 217
+command: 26
+#
+name: WIDE ANGLE
+type: parsed
+protocol: sony15
+address: 217
+command: 27
+#

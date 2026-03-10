@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER_ON
+type: parsed
+protocol: nec
+address: 131.244
+command: 79
+#
+name: POWER_OFF
+type: parsed
+protocol: nec
+address: 131.244
+command: 78
+#
+name: COMP
+type: parsed
+protocol: nec
+address: 131.244
+command: 65
+#
+name: video
+type: parsed
+protocol: nec
+address: 131.244
+command: 82
+#
+name: hdmi
+type: parsed
+protocol: nec
+address: 131.244
+command: 88
+#
+name: AUTO_SYNC
+type: parsed
+protocol: nec
+address: 131.244
+command: 8
+#
+name: source
+type: parsed
+protocol: nec
+address: 131.244
+command: 64
+#
+name: Up
+type: parsed
+protocol: nec
+address: 131.244
+command: 11
+#
+name: Right
+type: parsed
+protocol: nec
+address: 131.244
+command: 15
+#
+name: Down
+type: parsed
+protocol: nec
+address: 131.244
+command: 12
+#
+name: Left
+type: parsed
+protocol: nec
+address: 131.244
+command: 14
+#
+name: enter
+type: parsed
+protocol: nec
+address: 131.244
+command: 21
+#
+name: Menu
+type: parsed
+protocol: nec
+address: 131.244
+command: 48
+#
+name: Info
+type: parsed
+protocol: nec
+address: 131.244
+command: 151
+#
+name: Exit
+type: parsed
+protocol: nec
+address: 131.244
+command: 40
+#
+name: Aspect
+type: parsed
+protocol: nec
+address: 131.244
+command: 19
+#
+name: Freeze
+type: parsed
+protocol: nec
+address: 131.244
+command: 3
+#
+name: PATTERN
+type: parsed
+protocol: nec
+address: 131.244
+command: 85
+#
+name: blank
+type: parsed
+protocol: nec
+address: 131.244
+command: 7
+#
+name: PGUP
+type: parsed
+protocol: nec
+address: 131.244
+command: 6
+#
+name: VOL +
+type: parsed
+protocol: nec
+address: 131.244
+command: 130
+#
+name: ZOOM_IN
+type: parsed
+protocol: nec
+address: 131.244
+command: 103
+#
+name: PG_DOWN
+type: parsed
+protocol: nec
+address: 131.244
+command: 5
+#
+name: VOL -
+type: parsed
+protocol: nec
+address: 131.244
+command: 131
+#
+name: ZOOM_OUT
+type: parsed
+protocol: nec
+address: 131.244
+command: 104
+#
+name: ECO_MODE
+type: parsed
+protocol: nec
+address: 131.244
+command: 43
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 131.244
+command: 20
+#
+name: COLOR_MODE
+type: parsed
+protocol: nec
+address: 131.244
+command: 16
+#

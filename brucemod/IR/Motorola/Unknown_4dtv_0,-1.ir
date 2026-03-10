@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RIGHT
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 1
+#
+name: KEY_EXIT
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 5
+#
+name: KEY_POWER
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 9
+#
+name: KEY_7
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 10
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 11
+#
+name: KEY_9
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 14
+#
+name: KEY_1
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 15
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 18
+#
+name: KEY_OPTION
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 20
+#
+name: KEY_SAT
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 21
+#
+name: GoBack
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 22
+#
+name: KEY_4
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 23
+#
+name: LastCh
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 24
+#
+name: KEY_5
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 25
+#
+name: Interests
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 27
+#
+name: KEY_OK
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 28
+#
+name: KEY_LEFT
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 29
+#
+name: KEY_INFO
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 30
+#
+name: KEY_HELP
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 31
+#
+name: KEY_DOWN
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 32
+#
+name: Browse
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 33
+#
+name: Future
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 34
+#
+name: KEY_UP
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 35
+#
+name: KEY_0
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 36
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 37
+#
+name: KEY_INFO
+type: parsed
+protocol: GI4dtv
+address: 0
+command: 39
+#

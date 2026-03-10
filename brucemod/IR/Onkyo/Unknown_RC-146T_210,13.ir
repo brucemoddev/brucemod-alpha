@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 210.13
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 210.13
+command: 21
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 210.13
+command: 22
+#
+name: Pause-Record
+type: parsed
+protocol: nec
+address: 210.13
+command: 24
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 210.13
+command: 25
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 210.13
+command: 26
+#
+name: Autospace
+type: parsed
+protocol: nec
+address: 210.13
+command: 27
+#
+name: SkipForward
+type: parsed
+protocol: nec
+address: 210.13
+command: 29
+#
+name: Reset
+type: parsed
+protocol: nec
+address: 210.13
+command: 93
+#

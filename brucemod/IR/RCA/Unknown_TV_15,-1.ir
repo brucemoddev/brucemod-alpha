@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GO_BACK
+type: parsed
+protocol: rca_38
+address: 15
+command: 39
+#
+name: KEY_POWER
+type: parsed
+protocol: rca_38
+address: 15
+command: 42
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rca_38
+address: 15
+command: 44
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rca_38
+address: 15
+command: 45
+#
+name: LEFT_ARROW
+type: parsed
+protocol: rca_38
+address: 15
+command: 46
+#
+name: RIGHT_ARROW
+type: parsed
+protocol: rca_38
+address: 15
+command: 47
+#
+name: KEY_INFO
+type: parsed
+protocol: rca_38
+address: 15
+command: 60
+#
+name: KEY_PLAY
+type: parsed
+protocol: rca_38
+address: 15
+command: 63
+#
+name: KEY_OK
+type: parsed
+protocol: rca_38
+address: 15
+command: 244
+#

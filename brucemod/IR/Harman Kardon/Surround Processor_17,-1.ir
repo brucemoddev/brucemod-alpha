@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: >>/
+type: parsed
+protocol: rc5
+address: 17
+command: 32
+#
+name: \\<<
+type: parsed
+protocol: rc5
+address: 17
+command: 33
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 17
+command: 43
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 17
+command: 63
+#

@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SET/STELLEN
+type: parsed
+protocol: nec1
+address: 130.100
+command: 0
+#
+name: SET
+type: parsed
+protocol: nec1
+address: 130.100
+command: 0
+#
+name: BRT.
+type: parsed
+protocol: nec1
+address: 130.100
+command: 1
+#
+name: CONT.
+type: parsed
+protocol: nec1
+address: 130.100
+command: 2
+#
+name: VOL.
+type: parsed
+protocol: nec1
+address: 130.100
+command: 4
+#
+name: BAL.
+type: parsed
+protocol: nec1
+address: 130.100
+command: 5
+#
+name: DEGAU./ENTMAGN
+type: parsed
+protocol: nec1
+address: 130.100
+command: 7
+#
+name: DEGAU.
+type: parsed
+protocol: nec1
+address: 130.100
+command: 7
+#
+name: DISP.OFF(AUS)
+type: parsed
+protocol: nec1
+address: 130.100
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 130.100
+command: 8
+#
+name: TTL
+type: parsed
+protocol: nec1
+address: 130.100
+command: 12
+#
+name: ANALOG 2
+type: parsed
+protocol: nec1
+address: 130.100
+command: 14
+#
+name: RGB 2
+type: parsed
+protocol: nec1
+address: 130.100
+command: 14
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 130.100
+command: 16
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.100
+command: 17
+#
+name: UP (+)
+type: parsed
+protocol: nec1
+address: 130.100
+command: 19
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 130.100
+command: 19
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 130.100
+command: 22
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 130.100
+command: 23
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 130.100
+command: 24
+#
+name: ANALOG 1
+type: parsed
+protocol: nec1
+address: 130.100
+command: 30
+#
+name: RGB 1
+type: parsed
+protocol: nec1
+address: 130.100
+command: 30
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 130.100
+command: 68
+#
+name: CAL/CLR
+type: parsed
+protocol: nec1
+address: 130.100
+command: 69
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.100
+command: 70
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.100
+command: 71
+#
+name: DOWN (-)
+type: parsed
+protocol: nec1
+address: 130.100
+command: 76
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 130.100
+command: 76
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.100
+command: 80
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.100
+command: 82
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.100
+command: 83
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.100
+command: 84
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.100
+command: 85
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.100
+command: 86
+#

@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0
+command: 2
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 0
+command: 6
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 0
+command: 10
+#
+name: LIVE
+type: parsed
+protocol: nec
+address: 0
+command: 14
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0
+command: 18
+#
+name: DOWN_ARROW
+type: parsed
+protocol: nec
+address: 0
+command: 19
+#
+name: KEY_IMAGES
+type: parsed
+protocol: nec
+address: 0
+command: 22
+#
+name: RIGHT_ARROW
+type: parsed
+protocol: nec
+address: 0
+command: 23
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 0
+command: 26
+#
+name: UP_ARROW
+type: parsed
+protocol: nec
+address: 0
+command: 27
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 0
+command: 30
+#
+name: LEFT_ARROW
+type: parsed
+protocol: nec
+address: 0
+command: 31
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0
+command: 64
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 0
+command: 65
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0
+command: 66
+#
+name: PREVIOUS_CHAPTER
+type: parsed
+protocol: nec
+address: 0
+command: 68
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0
+command: 69
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0
+command: 70
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 0
+command: 72
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 0
+command: 73
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0
+command: 74
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 76
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0
+command: 77
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0
+command: 78
+#
+name: KEY_NUMERIC_STAR
+type: parsed
+protocol: nec
+address: 0
+command: 79
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0
+command: 80
+#
+name: BLUE_BUTTON
+type: parsed
+protocol: nec
+address: 0
+command: 81
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0
+command: 82
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: nec
+address: 0
+command: 83
+#
+name: MORE/INFO
+type: parsed
+protocol: nec
+address: 0
+command: 84
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 0
+command: 85
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0
+command: 86
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0
+command: 87
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0
+command: 88
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0
+command: 89
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0
+command: 90
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0
+command: 91
+#
+name: ESC/BACK
+type: parsed
+protocol: nec
+address: 0
+command: 92
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0
+command: 93
+#
+name: KEY_RADIO
+type: parsed
+protocol: nec
+address: 0
+command: 94
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0
+command: 95
+#

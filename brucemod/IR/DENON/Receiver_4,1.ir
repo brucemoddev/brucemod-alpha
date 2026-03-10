@@ -1,0 +1,1179 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 2
+#
+name: POWER OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 3
+#
+name: 12V TRIGGER 1 ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 12
+#
+name: 12V TRIGGER 1 OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 13
+#
+name: 12V TRIGGER 2 ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 14
+#
+name: 12V TRIGGER 2 OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 15
+#
+name: RETURN / BACK
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 34
+#
+name: GUI MENU / SETUP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 35
+#
+name: TUNER MEMORY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 36
+#
+name: TUNER BAND TOGGLE AM
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 152
+#
+name: TUNER BAND FM
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 153
+#
+name: TUNER BAND AM
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 154
+#
+name: TUNER BAND XM
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 155
+#
+name: INTERNET RADIO FAVOR
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 242
+#
+name: INTERNET RADIO FAVOR
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 243
+#
+name: INTERNET RADIO FAVOR
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 244
+#
+name: INTERNET RADIO FAVOR
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 245
+#
+name: QUICK SELECT / USER 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 292
+#
+name: QUICK SELECT / USER 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 293
+#
+name: QUICK SELECT / USER 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 294
+#
+name: QUICK SELECT / USER 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 295
+#
+name: QUICK SELECT / USER 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 296
+#
+name: SURROUND MODE DIRECT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 305
+#
+name: PURE DIRECT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 307
+#
+name: SURROUND MODE STANDA
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 308
+#
+name: SURROUND MODE AUTO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 324
+#
+name: SURROUND MODE AURO 3
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 332
+#
+name: SURROUND MODE DSP SI
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 336
+#
+name: SURROUND MODE MULTI 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 337
+#
+name: SURROUND MODE NEURAL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 347
+#
+name: SURROUND MODE DOLBY 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 348
+#
+name: SURROUND MODE AURO 3
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 349
+#
+name: INPUT MODE HDMI
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 357
+#
+name: INPUT MODE DIGITAL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 359
+#
+name: INPUT MODE DECODE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 364
+#
+name: VOLUME UP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 368
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 369
+#
+name: VOLUME MUTE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 370
+#
+name: CHANNEL LEVEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 378
+#
+name: SUBWOOFER 2 LEVEL UP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 410
+#
+name: SUBWOOFER 2 LEVEL DO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 411
+#
+name: DOLBY TFL SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 417
+#
+name: DOLBY TFL SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 418
+#
+name: DOLBY TFR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 419
+#
+name: DOLBY TFR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 420
+#
+name: DOLBY TML SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 421
+#
+name: DOLBY TML SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 422
+#
+name: DOLBY TMR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 423
+#
+name: DOLBY TMR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 424
+#
+name: DOLBY TRL SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 425
+#
+name: DOLBY TRL SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 426
+#
+name: DOLBY TRR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 427
+#
+name: DOLBY TRR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 428
+#
+name: DOLBY RHL SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 429
+#
+name: DOLBY RHL SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 430
+#
+name: DOLBY RHR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 431
+#
+name: DOLBY RHR SPEAKER LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 432
+#
+name: DOLBY LF SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 433
+#
+name: DOLBY LF SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 434
+#
+name: DOLBY RF SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 435
+#
+name: DOLBY RF SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 436
+#
+name: DOLBY SL SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 437
+#
+name: DOLBY SL SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 438
+#
+name: DOLBY SR SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 439
+#
+name: DOLBY SR SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 440
+#
+name: DOLBY LB SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 441
+#
+name: DOLBY LB SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 442
+#
+name: DOLBY RB SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 443
+#
+name: DOLBY RB SPEAKER LEV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 444
+#
+name: LFC ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 445
+#
+name: LFC OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 446
+#
+name: LFC TOGGLE ON/OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 456
+#
+name: DSX SELECT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 529
+#
+name: DYNAMIC VOLUME TOGGL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 545
+#
+name: DYNAMIC EQ TOGGLE ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 547
+#
+name: RESTORER MODE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 548
+#
+name: DYNAMIC EQ/VOLUME TO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 549
+#
+name: FRONT SPEAKER A
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 550
+#
+name: FRONT SPEAKER B
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 552
+#
+name: FRONT SPEAKER A+B
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 554
+#
+name: RESTORER OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 556
+#
+name: RESTORER MODE 1
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 557
+#
+name: RESTORER MODE 2
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 558
+#
+name: RESTORER MODE 3
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 559
+#
+name: SS AUDIO DELAY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 620
+#
+name: AUDIO DELAY MODE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 620
+#
+name: AUDIO DELAY UP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 621
+#
+name: AUDIO DELAY DOWN
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 622
+#
+name: INFO / OSD
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 624
+#
+name: DSX ON HEIGHT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 642
+#
+name: DSX ON WIDE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 643
+#
+name: DSX OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 644
+#
+name: STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 645
+#
+name: DSX ON WIDE+HEIGHT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 647
+#
+name: INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 667
+#
+name: HDMI MONITOR SELECT 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 669
+#
+name: HDMI MONITOR SELECT 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 670
+#
+name: INPUT AUX/NET/USB/ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 711
+#
+name: INPUT TUNER XM
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 714
+#
+name: INPUT DTU / HD RADIO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 715
+#
+name: INPUT AUX/NET
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 716
+#
+name: INPUT AUX/IPOD/DOCK
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 717
+#
+name: INPUT AUX/USB
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 718
+#
+name: INPUT HD RADIO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 719
+#
+name: INPUT BD
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 721
+#
+name: INPUT GAME
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 725
+#
+name: INPUT GAME 2
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 727
+#
+name: INPUT VCR4
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 728
+#
+name: INPUT AUX 2
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 730
+#
+name: INPUT BD/DVD/HDP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 732
+#
+name: INPUT VCR 1/2
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 733
+#
+name: INPUT VCR 3/4
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 734
+#
+name: INPUT VCR/DVR/MEDIA 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 735
+#
+name: MULTEQ XT 32 TOGGLE 
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 736
+#
+name: INPUT INTERNET RADIO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 741
+#
+name: DYNAMIC EQ ON + DYNA
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 746
+#
+name: DYNAMIC EQ OFF + DYN
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 747
+#
+name: DYNAMIC VOLUME HEAVY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 748
+#
+name: DYNAMIC VOLUME MEDIU
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 749
+#
+name: DYNAMIC VOLUME LIGHT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 750
+#
+name: INPUT BLUETOOTH
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 751
+#
+name: HDMI MONITOR SELECT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 753
+#
+name: HDMI MONITOR SCALE/R
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 754
+#
+name: HDMI ASPECT RADIO 16
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 757
+#
+name: HDMI ASPECT RADIO 4:
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 758
+#
+name: DYNAMIC EQ REF LEVEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 760
+#
+name: DYNAMIC EQ REF LEVEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 761
+#
+name: DYNAMIC EQ REF LEVEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 762
+#
+name: DYNAMIC EQ REF LEVEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 763
+#
+name: INPUT SPOTIFY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 764
+#
+name: INPUT PANDORA
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 765
+#
+name: NET/USB CURSOR/ARROW
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 768
+#
+name: NET/USB CURSOR/ARROW
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 769
+#
+name: NET/USB CURSOR/ARROW
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 770
+#
+name: NET/USB CURSOR/ARROW
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 771
+#
+name: NET/USB ENTER/PLAY/P
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 772
+#
+name: NET/USB PLAY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 773
+#
+name: NET/USB PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 774
+#
+name: NET/USB STOP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 775
+#
+name: NET/USB SKIP PLUS
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 776
+#
+name: NET/USB SKIP MINUS
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 777
+#
+name: NET/USB REPEAT ONE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 778
+#
+name: NET/USB REPEAT OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 779
+#
+name: NET/USB RANDOM ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 780
+#
+name: NET/USB RANDOM OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 781
+#
+name: NET/USB REPEAT ALL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 785
+#
+name: GRAPHIC EQ TOGGLE ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 789
+#
+name: GRAPHIC EQ ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 792
+#
+name: GRAPHIC EQ OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 799
+#
+name: IPOD CURSOR/ARROW UP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 800
+#
+name: IPOD CURSOR/ARROW DO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 801
+#
+name: IPOD CURSOR/ARROW LE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 802
+#
+name: IPOD CURSOR/ARROW RI
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 803
+#
+name: IPOD ENTER
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 804
+#
+name: IPOD PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 805
+#
+name: IPOD STOP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 807
+#
+name: IPOD SKIP PLUS/FORWA
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 808
+#
+name: IPOD SKIP MINUS/REVE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 809
+#
+name: IPOD SEARCH FORWARD
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 810
+#
+name: IPOD SEARCH REVERSE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 811
+#
+name: IPOD REPEAT ONE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 812
+#
+name: IPOD REPEAT ALL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 813
+#
+name: IPOD REPEAT OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 814
+#
+name: IPOD SHUFFLE SONGS
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 815
+#
+name: IPOD SHUFFLE ALBUMS
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 816
+#
+name: IPOD SHUFFLE OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 817
+#
+name: IPOD MENU
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 818
+#
+name: IPOD MODE BROWSE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 819
+#
+name: IPOD MODE REMOTE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 820
+#
+name: HDMI CONTROL/CEC ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 826
+#
+name: HDMI CONTROL/CEC OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 827
+#
+name: HDMI AUDIO OUT TOGGL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 829
+#
+name: HDMI AUDIO OUT TV
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 830
+#
+name: HDMI AUDIO OUT AMP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 831
+#
+name: PARTY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 835
+#
+name: SLEEP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 836
+#
+name: INSTA PREVIEW TOGGLE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 859
+#
+name: INSTA PREVIEW ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 870
+#
+name: INSTA PREVIEW OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 871
+#
+name: ECO MODE TOGGLE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 872
+#
+name: ECO MODE OFF
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 873
+#
+name: ECO MODE ON
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 874
+#
+name: ECO MODE AUTO
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 875
+#
+name: OPTION
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 949
+#
+name: REPEAT
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 956
+#
+name: RANDOM/SHUFFLE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 957
+#
+name: USB DIRECT PLAY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 958
+#
+name: FAVORITE DIRECT PLAY
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 959
+#
+name: TUNER PRESET CHANNEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 972
+#
+name: TUNER PRESET CHANNEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 973
+#
+name: TUNER PRESET CHANNEL
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 974
+#
+name: TUNER PRESET SEARCH/
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 983
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 992
+#
+name: STOP
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 993
+#
+name: TUNER PRESET SKIP/TU
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 995
+#
+name: TUNER PRESET SKIP/TU
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 996
+#

@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 10
+#
+name: TV/VCR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 13
+#
+name: INPUT
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 14
+#
+name: Counter_Display
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 16
+#
+name: F.Fwd
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 17
+#
+name: KEY_REWIND
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 18
+#
+name: Audio_MONI
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 19
+#
+name: KEY_RECORD
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 20
+#
+name: KEY_PLAY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 21
+#
+name: Pause/Still(Jog)
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 23
+#
+name: Index_SkipForward
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 24
+#
+name: Index_SkipBack
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 25
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 26
+#
+name: KEY_CLEAR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 31
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 64
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 65
+#
+name: Audio_DUB
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 66
+#
+name: KEY_SAT
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 68
+#
+name: Zero_Return
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 69
+#
+name: Tracking_+
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 70
+#
+name: Tracking_-
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 71
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 72
+#
+name: AD-Skip
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 73
+#
+name: Counter_Reset
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 76
+#
+name: Tape_Speed
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 80
+#
+name: A-TR
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 92
+#
+name: Tape_Remain
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 94
+#
+name: Fwd(Jog)
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 101
+#
+name: Rev(Jog)
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 116
+#
+name: KEY_MENU
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 129
+#
+name: VPS/PDC
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 130
+#
+name: Arrow_Right
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 131
+#
+name: Arrow_Left
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 132
+#
+name: OTPB
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 137
+#
+name: Arrow_Up
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 141
+#
+name: Arrow_Down
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 142
+#
+name: Showview_DeLuxe
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 152
+#
+name: Add_T
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 153
+#
+name: D/WLY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 154
+#
+name: Set_Ch.No
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 157
+#
+name: Set_Auto
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 158
+#
+name: KEY_OK
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 159
+#
+name: Audio_MIX
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 181
+#
+name: TheatreMode_BBE
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 185
+#
+name: TheatreMode_Q.Surrou
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 186
+#
+name: TheatreMode_Midnight
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 187
+#

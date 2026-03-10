@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 11
+#
+name: CHANNEL -
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 12
+#
+name: CH RETURN
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 14
+#
+name: CHANNEL RETURN
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 14
+#
+name: MTS/STEREO
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 18
+#
+name: ANTENNA
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 48
+#
+name: CABLE
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 49
+#
+name: 1
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 64
+#
+name: 2
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 65
+#
+name: 3
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 66
+#
+name: 4
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 67
+#
+name: 5
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 68
+#
+name: 6
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 69
+#
+name: 7
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 70
+#
+name: 8
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 71
+#
+name: 9
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 72
+#
+name: 0
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 74
+#
+name: .
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 88
+#
+name: .
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 88
+#
+name: FAVORITE
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 90
+#
+name: INFO
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 91
+#
+name: GUIDE
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 92
+#
+name: CC
+type: parsed
+protocol: fujitsu
+address: 132.141
+command: 93
+#

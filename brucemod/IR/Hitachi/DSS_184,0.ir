@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DSS VOL V
+type: parsed
+protocol: nec1
+address: 184.0
+command: 154
+#
+name: DSS VOL ^
+type: parsed
+protocol: nec1
+address: 184.0
+command: 155
+#
+name: DSS2 MUTE
+type: parsed
+protocol: nec1
+address: 184.0
+command: 156
+#

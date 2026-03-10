@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 7
+command: 230
+#
+name: v_up
+type: parsed
+protocol: necx2
+address: 7
+command: 7
+#
+name: v_down
+type: parsed
+protocol: necx2
+address: 7
+command: 11
+#

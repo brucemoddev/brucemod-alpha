@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL DOWN
+type: parsed
+protocol: zenith
+address: 7.0
+command: 4
+#
+name: VOLUME DOWN
+type: parsed
+protocol: zenith
+address: 7.0
+command: 8
+#
+name: << REWIND
+type: parsed
+protocol: zenith
+address: 7.0
+command: 12
+#
+name: STOP
+type: parsed
+protocol: zenith
+address: 7.0
+command: 16
+#
+name: PLAY
+type: parsed
+protocol: zenith
+address: 7.0
+command: 20
+#
+name: RECORD MUTE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 24
+#
+name: AUDIO OUT
+type: parsed
+protocol: zenith
+address: 7.0
+command: 28
+#
+name: CHANNEL UP
+type: parsed
+protocol: zenith
+address: 7.0
+command: 36
+#
+name: 
+type: parsed
+protocol: zenith
+address: 7.0
+command: 36
+#
+name: VOLUME UP
+type: parsed
+protocol: zenith
+address: 7.0
+command: 40
+#
+name: TV/TAPE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 44
+#
+name: >> FAST FORWARD
+type: parsed
+protocol: zenith
+address: 7.0
+command: 48
+#
+name: SOURCE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 52
+#
+name: POWER
+type: parsed
+protocol: zenith
+address: 7.0
+command: 56
+#
+name: 0
+type: parsed
+protocol: zenith
+address: 7.0
+command: 64
+#
+name: 1
+type: parsed
+protocol: zenith
+address: 7.0
+command: 68
+#
+name: 2
+type: parsed
+protocol: zenith
+address: 7.0
+command: 72
+#
+name: 3
+type: parsed
+protocol: zenith
+address: 7.0
+command: 76
+#
+name: 4
+type: parsed
+protocol: zenith
+address: 7.0
+command: 80
+#
+name: 5
+type: parsed
+protocol: zenith
+address: 7.0
+command: 84
+#
+name: 6
+type: parsed
+protocol: zenith
+address: 7.0
+command: 88
+#
+name: 7
+type: parsed
+protocol: zenith
+address: 7.0
+command: 92
+#
+name: 8
+type: parsed
+protocol: zenith
+address: 7.0
+command: 96
+#
+name: 9
+type: parsed
+protocol: zenith
+address: 7.0
+command: 100
+#
+name: PAUSE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 108
+#
+name: ENT/RCL
+type: parsed
+protocol: zenith
+address: 7.0
+command: 112
+#
+name: AUDIO MODE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 116
+#
+name: POWER ON
+type: parsed
+protocol: zenith
+address: 7.0
+command: 118
+#
+name: RECORD
+type: parsed
+protocol: zenith
+address: 7.0
+command: 120
+#
+name: POWER OFF
+type: parsed
+protocol: zenith
+address: 7.0
+command: 122
+#

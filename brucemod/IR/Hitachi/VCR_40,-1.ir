@@ -1,0 +1,471 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/VCR
+type: parsed
+protocol: emerson
+address: 40
+command: 0
+#
+name: VCR/TV
+type: parsed
+protocol: emerson
+address: 40
+command: 0
+#
+name: TV 1
+type: parsed
+protocol: nec1
+address: 40
+command: 0
+#
+name: TV 2
+type: parsed
+protocol: nec1
+address: 40
+command: 1
+#
+name: TV 3
+type: parsed
+protocol: nec1
+address: 40
+command: 2
+#
+name: TV 4
+type: parsed
+protocol: nec1
+address: 40
+command: 3
+#
+name: FFWD>>
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: TV 5
+type: parsed
+protocol: nec1
+address: 40
+command: 4
+#
+name: VCR FFWD >>
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: TV 6
+type: parsed
+protocol: nec1
+address: 40
+command: 5
+#
+name: SELECT
+type: parsed
+protocol: emerson
+address: 40
+command: 6
+#
+name: DISPLAY
+type: parsed
+protocol: emerson
+address: 40
+command: 6
+#
+name: TV 7
+type: parsed
+protocol: nec1
+address: 40
+command: 6
+#
+name: SEARCH MODE
+type: parsed
+protocol: emerson
+address: 40
+command: 7
+#
+name: TV 8
+type: parsed
+protocol: nec1
+address: 40
+command: 7
+#
+name: CH -
+type: parsed
+protocol: emerson
+address: 40
+command: 8
+#
+name: CHANNEL -
+type: parsed
+protocol: emerson
+address: 40
+command: 8
+#
+name: TV 9
+type: parsed
+protocol: nec1
+address: 40
+command: 8
+#
+name: VCR CH V
+type: parsed
+protocol: emerson
+address: 40
+command: 8
+#
+name: TV 0
+type: parsed
+protocol: nec1
+address: 40
+command: 9
+#
+name: PLAY
+type: parsed
+protocol: emerson
+address: 40
+command: 10
+#
+name: CURSOR - UP
+type: parsed
+protocol: emerson
+address: 40
+command: 10
+#
+name: VCR PLAY >
+type: parsed
+protocol: emerson
+address: 40
+command: 10
+#
+name: PAUSE
+type: parsed
+protocol: emerson
+address: 40
+command: 11
+#
+name: SLOW +
+type: parsed
+protocol: emerson
+address: 40
+command: 11
+#
+name: TV POWER
+type: parsed
+protocol: nec1
+address: 40
+command: 11
+#
+name: VCR PAUSE 
+type: parsed
+protocol: emerson
+address: 40
+command: 11
+#
+name: REWIND <<
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: <<REWIND
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: TV CH ^
+type: parsed
+protocol: nec1
+address: 40
+command: 12
+#
+name: VCR REW <<
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: SLOW >
+type: parsed
+protocol: emerson
+address: 40
+command: 13
+#
+name: TV CH V
+type: parsed
+protocol: nec1
+address: 40
+command: 13
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 40
+command: 14
+#
+name: ADD/DELETE
+type: parsed
+protocol: emerson
+address: 40
+command: 15
+#
+name: RESET COUNTER
+type: parsed
+protocol: emerson
+address: 40
+command: 15
+#
+name: EXIT/RESET
+type: parsed
+protocol: emerson
+address: 40
+command: 15
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 40
+command: 15
+#
+name: ADD/DELETE (RESET)
+type: parsed
+protocol: emerson
+address: 40
+command: 15
+#
+name: CH +
+type: parsed
+protocol: emerson
+address: 40
+command: 16
+#
+name: CHANNEL +
+type: parsed
+protocol: emerson
+address: 40
+command: 16
+#
+name: TV MUTE
+type: parsed
+protocol: nec1
+address: 40
+command: 16
+#
+name: VCR CH ^
+type: parsed
+protocol: emerson
+address: 40
+command: 16
+#
+name: TV LAST CH
+type: parsed
+protocol: nec1
+address: 40
+command: 19
+#
+name: MEMORY
+type: parsed
+protocol: emerson
+address: 40
+command: 20
+#
+name: COUNTER/MEMORY
+type: parsed
+protocol: emerson
+address: 40
+command: 20
+#
+name: MENU
+type: parsed
+protocol: emerson
+address: 40
+command: 21
+#
+name: RECORD
+type: parsed
+protocol: emerson
+address: 40
+command: 26
+#
+name: VCR REC
+type: parsed
+protocol: emerson
+address: 40
+command: 26
+#
+name: STOP
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: 
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: VCR STOP []
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: 1
+type: parsed
+protocol: emerson
+address: 40
+command: 31
+#
+name: VCR 1
+type: parsed
+protocol: emerson
+address: 40
+command: 31
+#
+name: POWER
+type: parsed
+protocol: emerson
+address: 40
+command: 32
+#
+name: VCR POWER
+type: parsed
+protocol: emerson
+address: 40
+command: 32
+#
+name: 2
+type: parsed
+protocol: emerson
+address: 40
+command: 33
+#
+name: VCR 2
+type: parsed
+protocol: emerson
+address: 40
+command: 33
+#
+name: 3
+type: parsed
+protocol: emerson
+address: 40
+command: 34
+#
+name: VCR 3
+type: parsed
+protocol: emerson
+address: 40
+command: 34
+#
+name: 4
+type: parsed
+protocol: emerson
+address: 40
+command: 35
+#
+name: VCR 4
+type: parsed
+protocol: emerson
+address: 40
+command: 35
+#
+name: 5
+type: parsed
+protocol: emerson
+address: 40
+command: 36
+#
+name: VCR 5
+type: parsed
+protocol: emerson
+address: 40
+command: 36
+#
+name: 6
+type: parsed
+protocol: emerson
+address: 40
+command: 37
+#
+name: VCR 6
+type: parsed
+protocol: emerson
+address: 40
+command: 37
+#
+name: 7
+type: parsed
+protocol: emerson
+address: 40
+command: 38
+#
+name: VCR 7
+type: parsed
+protocol: emerson
+address: 40
+command: 38
+#
+name: 8
+type: parsed
+protocol: emerson
+address: 40
+command: 39
+#
+name: VCR 8
+type: parsed
+protocol: emerson
+address: 40
+command: 39
+#
+name: 9
+type: parsed
+protocol: emerson
+address: 40
+command: 40
+#
+name: VCR 9
+type: parsed
+protocol: emerson
+address: 40
+command: 40
+#
+name: 0
+type: parsed
+protocol: emerson
+address: 40
+command: 41
+#
+name: VCR 0
+type: parsed
+protocol: emerson
+address: 40
+command: 41
+#

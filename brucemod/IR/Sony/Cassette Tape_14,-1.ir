@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: COUNTER MEMORY
+type: parsed
+protocol: sony12
+address: 14
+command: 14
+#
+name: COUNTER RESET
+type: parsed
+protocol: sony12
+address: 14
+command: 15
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 14
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 14
+command: 25
+#
+name: > PLAY
+type: parsed
+protocol: sony12
+address: 14
+command: 26
+#
+name: << REWIND
+type: parsed
+protocol: sony12
+address: 14
+command: 27
+#
+name: >> FAST FORWARD
+type: parsed
+protocol: sony12
+address: 14
+command: 28
+#
+name: RECORD
+type: parsed
+protocol: sony12
+address: 14
+command: 30
+#
+name: REC MUTE
+type: parsed
+protocol: sony12
+address: 14
+command: 31
+#
+name: < PLAY
+type: parsed
+protocol: sony12
+address: 14
+command: 32
+#
+name: COUNTER MEMORY
+type: parsed
+protocol: sony12
+address: 14
+command: 78
+#
+name: COUNTER RESET
+type: parsed
+protocol: sony12
+address: 14
+command: 80
+#

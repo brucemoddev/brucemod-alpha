@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: view
+type: parsed
+protocol: nec
+address: 134.107
+command: 0
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 134.107
+command: 2
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 134.107
+command: 6
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 134.107
+command: 7
+#
+name: a-b_pbc
+type: parsed
+protocol: nec
+address: 134.107
+command: 8
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 134.107
+command: 9
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 134.107
+command: 10
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 134.107
+command: 13
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 134.107
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 134.107
+command: 15
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 134.107
+command: 16
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 134.107
+command: 17
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 134.107
+command: 18
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 134.107
+command: 19
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 134.107
+command: 21
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 134.107
+command: 23
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 134.107
+command: 25
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 134.107
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 134.107
+command: 27
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 134.107
+command: 29
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 134.107
+command: 30
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 134.107
+command: 31
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 134.107
+command: 64
+#
+name: p/n
+type: parsed
+protocol: nec
+address: 134.107
+command: 65
+#
+name: spk
+type: parsed
+protocol: nec
+address: 134.107
+command: 66
+#
+name: mol
+type: parsed
+protocol: nec
+address: 134.107
+command: 67
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 134.107
+command: 68
+#
+name: ran
+type: parsed
+protocol: nec
+address: 134.107
+command: 69
+#
+name: rem
+type: parsed
+protocol: nec
+address: 134.107
+command: 69
+#
+name: r/l
+type: parsed
+protocol: nec
+address: 134.107
+command: 70
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 134.107
+command: 71
+#
+name: time_goto
+type: parsed
+protocol: nec
+address: 134.107
+command: 72
+#
+name: prog
+type: parsed
+protocol: nec
+address: 134.107
+command: 73
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 134.107
+command: 74
+#
+name: step
+type: parsed
+protocol: nec
+address: 134.107
+command: 75
+#
+name: mic_off
+type: parsed
+protocol: nec
+address: 134.107
+command: 77
+#
+name: mic_on
+type: parsed
+protocol: nec
+address: 134.107
+command: 78
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 134.107
+command: 80
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 134.107
+command: 81
+#
+name: game
+type: parsed
+protocol: nec
+address: 134.107
+command: 82
+#
+name: ret
+type: parsed
+protocol: nec
+address: 134.107
+command: 82
+#
+name: kres
+type: parsed
+protocol: nec
+address: 134.107
+command: 82
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 134.107
+command: 83
+#
+name: rep
+type: parsed
+protocol: nec
+address: 134.107
+command: 85
+#
+name: freeze_time
+type: parsed
+protocol: nec
+address: 134.107
+command: 86
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 134.107
+command: 87
+#
+name: KEY_0+
+type: parsed
+protocol: nec
+address: 134.107
+command: 89
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 134.107
+command: 94
+#
+name: c/e
+type: parsed
+protocol: nec
+address: 134.107
+command: 95
+#

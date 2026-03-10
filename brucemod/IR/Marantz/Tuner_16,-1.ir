@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BASS ++
+type: parsed
+protocol: rc5
+address: 16
+command: 22
+#
+name: BASS--
+type: parsed
+protocol: rc5
+address: 16
+command: 23
+#
+name: TREB ++
+type: parsed
+protocol: rc5
+address: 16
+command: 24
+#
+name: TREB--
+type: parsed
+protocol: rc5
+address: 16
+command: 25
+#
+name: SLEEP
+type: parsed
+protocol: rc5
+address: 16
+command: 38
+#

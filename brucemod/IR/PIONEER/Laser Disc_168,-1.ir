@@ -1,0 +1,693 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: pioneer
+address: 168
+command: 0
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 168
+command: 0
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 168
+command: 1
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 168
+command: 1
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 168
+command: 2
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 168
+command: 2
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 168
+command: 3
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 168
+command: 3
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 168
+command: 4
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 168
+command: 5
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 168
+command: 5
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 168
+command: 6
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 168
+command: 6
+#
+name: 7
+type: parsed
+protocol: pioneer
+address: 168
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 168
+command: 7
+#
+name: 8
+type: parsed
+protocol: pioneer
+address: 168
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 168
+command: 8
+#
+name: 9
+type: parsed
+protocol: pioneer
+address: 168
+command: 9
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 168
+command: 9
+#
+name: DIGITAL/ANALOG
+type: parsed
+protocol: nec2
+address: 168
+command: 12
+#
+name: AUTO DIGITAL/ANALOGU
+type: parsed
+protocol: pioneer
+address: 168
+command: 12
+#
+name: D/A/CX
+type: parsed
+protocol: pioneer
+address: 168
+command: 12
+#
+name: CX
+type: parsed
+protocol: pioneer
+address: 168
+command: 14
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 16
+#
+name: FRAME >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 16
+#
+name: SCAN >>
+type: parsed
+protocol: nec2
+address: 168
+command: 16
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 17
+#
+name: FRAME <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 17
+#
+name: SCAN <<
+type: parsed
+protocol: nec2
+address: 168
+command: 17
+#
+name: CHAPTER/TIME
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: CHAPTER FRAME/TIME
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: CHP/FR-TM
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: CHP/TM
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: STOP
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec2
+address: 168
+command: 22
+#
+name: EJECT
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: PLAY
+type: parsed
+protocol: pioneer
+address: 168
+command: 23
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 168
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 168
+command: 24
+#
+name: LAST MEMORY
+type: parsed
+protocol: pioneer
+address: 168
+command: 25
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 25
+#
+name: PICTURE CONTROL
+type: parsed
+protocol: pioneer
+address: 168
+command: 25
+#
+name: V-DNR
+type: parsed
+protocol: nec2
+address: 168
+command: 25
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 168
+command: 28
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 168
+command: 28
+#
+name: EDIT
+type: parsed
+protocol: pioneer
+address: 168
+command: 29
+#
+name: AUDIO D/A
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: AUDIO MODE
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec2
+address: 168
+command: 30
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: +10
+type: parsed
+protocol: pioneer
+address: 168
+command: 31
+#
+name: 10+
+type: parsed
+protocol: nec2
+address: 168
+command: 31
+#
+name: 10+
+type: parsed
+protocol: pioneer
+address: 168
+command: 31
+#
+name: FORWARD
+type: parsed
+protocol: pioneer
+address: 168
+command: 40
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 41
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: REVERSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 44
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 45
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 47
+#
+name: DISC 1
+type: parsed
+protocol: pioneer
+address: 168
+command: 49
+#
+name: DISC 2
+type: parsed
+protocol: pioneer
+address: 168
+command: 50
+#
+name: DISC 3
+type: parsed
+protocol: pioneer
+address: 168
+command: 51
+#
+name: DISC 4
+type: parsed
+protocol: pioneer
+address: 168
+command: 52
+#
+name: DISC 5
+type: parsed
+protocol: pioneer
+address: 168
+command: 53
+#
+name: LEVEL CONTROL
+type: parsed
+protocol: nec2
+address: 168
+command: 55
+#
+name: SEARCH
+type: parsed
+protocol: pioneer
+address: 168
+command: 66
+#
+name: DISPLAY
+type: parsed
+protocol: pioneer
+address: 168
+command: 67
+#
+name: DISPLAY
+type: parsed
+protocol: nec2
+address: 168
+command: 67
+#
+name: REPEAT
+type: parsed
+protocol: pioneer
+address: 168
+command: 68
+#
+name: REPEAT B
+type: parsed
+protocol: pioneer
+address: 168
+command: 68
+#
+name: CLEAR
+type: parsed
+protocol: pioneer
+address: 168
+command: 69
+#
+name: CLEAR
+type: parsed
+protocol: nec2
+address: 168
+command: 69
+#
+name: C
+type: parsed
+protocol: pioneer
+address: 168
+command: 69
+#
+name: STROBE MOTION <
+type: parsed
+protocol: pioneer
+address: 168
+command: 70
+#
+name: MULTI SPEED -
+type: parsed
+protocol: pioneer
+address: 168
+command: 70
+#
+name: STROBE MOTION >
+type: parsed
+protocol: pioneer
+address: 168
+command: 71
+#
+name: MULTI SPEED +
+type: parsed
+protocol: pioneer
+address: 168
+command: 71
+#
+name: REPEAT A-B
+type: parsed
+protocol: pioneer
+address: 168
+command: 72
+#
+name: REPEAT A
+type: parsed
+protocol: pioneer
+address: 168
+command: 72
+#
+name: PROGRAM
+type: parsed
+protocol: pioneer
+address: 168
+command: 76
+#
+name: PROGRAM
+type: parsed
+protocol: nec2
+address: 168
+command: 76
+#
+name: PGM
+type: parsed
+protocol: pioneer
+address: 168
+command: 76
+#
+name: SIDE A
+type: parsed
+protocol: nec2
+address: 168
+command: 77
+#
+name: SIDE A
+type: parsed
+protocol: pioneer
+address: 168
+command: 77
+#
+name: SIDE B
+type: parsed
+protocol: nec2
+address: 168
+command: 78
+#
+name: SIDE B
+type: parsed
+protocol: pioneer
+address: 168
+command: 78
+#
+name: STEP <
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: FRAME <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: FRAME <<
+type: parsed
+protocol: nec2
+address: 168
+command: 80
+#
+name: STEP <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: INDEX SKIP >
+type: parsed
+protocol: pioneer
+address: 168
+command: 81
+#
+name: SKIP >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 82
+#
+name: SKIP >>
+type: parsed
+protocol: nec2
+address: 168
+command: 82
+#
+name: SKIP <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 83
+#
+name: SKIP <<
+type: parsed
+protocol: nec2
+address: 168
+command: 83
+#
+name: STEP >
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#
+name: FRAME >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#
+name: FRAME >>
+type: parsed
+protocol: nec2
+address: 168
+command: 84
+#
+name: STEP >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#
+name: MULTI-SPEED <
+type: parsed
+protocol: pioneer
+address: 168
+command: 85
+#
+name: SLOW MOTION -
+type: parsed
+protocol: pioneer
+address: 168
+command: 85
+#
+name: MULTI SPEED <
+type: parsed
+protocol: pioneer
+address: 168
+command: 85
+#
+name: MULTISPEED <
+type: parsed
+protocol: pioneer
+address: 168
+command: 85
+#
+name: LAST MEMORY
+type: parsed
+protocol: pioneer
+address: 168
+command: 86
+#
+name: MULTI-SPEED >
+type: parsed
+protocol: pioneer
+address: 168
+command: 88
+#
+name: SLOW MOTION +
+type: parsed
+protocol: pioneer
+address: 168
+command: 88
+#
+name: MULTI SPEED >
+type: parsed
+protocol: pioneer
+address: 168
+command: 88
+#
+name: MULTISPEED >
+type: parsed
+protocol: pioneer
+address: 168
+command: 88
+#
+name: INDEX SKIP <
+type: parsed
+protocol: pioneer
+address: 168
+command: 89
+#
+name: HILITE/INTRO
+type: parsed
+protocol: pioneer
+address: 168
+command: 90
+#
+name: STILL WTIH SOUND
+type: parsed
+protocol: pioneer
+address: 168
+command: 91
+#
+name: ONE-SHOT MEMORY
+type: parsed
+protocol: pioneer
+address: 168
+command: 93
+#
+name: RANDOM
+type: parsed
+protocol: pioneer
+address: 168
+command: 94
+#
+name: PANDOM
+type: parsed
+protocol: pioneer
+address: 168
+command: 94
+#

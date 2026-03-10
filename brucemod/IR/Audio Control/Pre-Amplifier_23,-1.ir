@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZONE 2 VOL. UP
+type: parsed
+protocol: rc5
+address: 23
+command: 1
+#
+name: ZONE 2 VOL. DOWN
+type: parsed
+protocol: rc5
+address: 23
+command: 2
+#
+name: ZONE 2 MUTE TOG.
+type: parsed
+protocol: rc5
+address: 23
+command: 3
+#
+name: ZONE 2 MUTE ON
+type: parsed
+protocol: rc5
+address: 23
+command: 4
+#
+name: ZONE 2 MUTE OFF
+type: parsed
+protocol: rc5
+address: 23
+command: 5
+#
+name: ZONE 2 CD
+type: parsed
+protocol: rc5
+address: 23
+command: 6
+#
+name: ZONE 2 DVD
+type: parsed
+protocol: rc5
+address: 23
+command: 7
+#
+name: ZONE 2 SAT
+type: parsed
+protocol: rc5
+address: 23
+command: 8
+#
+name: ZONE 2 AV
+type: parsed
+protocol: rc5
+address: 23
+command: 9
+#
+name: ZONE 2 TAPE
+type: parsed
+protocol: rc5
+address: 23
+command: 10
+#
+name: ZONE 2 VCR
+type: parsed
+protocol: rc5
+address: 23
+command: 11
+#
+name: ZONE 2 DVR
+type: parsed
+protocol: rc5
+address: 23
+command: 12
+#
+name: ZONE 2 AUX
+type: parsed
+protocol: rc5
+address: 23
+command: 13
+#
+name: ZONE 2 NET
+type: parsed
+protocol: rc5
+address: 23
+command: 19
+#
+name: ZONE 3 VOL. UP
+type: parsed
+protocol: rc5
+address: 23
+command: 20
+#
+name: ZONE 3 VOL. DOWN
+type: parsed
+protocol: rc5
+address: 23
+command: 21
+#
+name: ZONE 3 MUTE
+type: parsed
+protocol: rc5
+address: 23
+command: 22
+#
+name: ZONE 3 MUTE ON
+type: parsed
+protocol: rc5
+address: 23
+command: 23
+#
+name: ZONE 3 MUTE OFF
+type: parsed
+protocol: rc5
+address: 23
+command: 24
+#
+name: ZONE 3 POWER ON
+type: parsed
+protocol: rc5
+address: 23
+command: 121
+#
+name: ZONE 3 POWER OFF
+type: parsed
+protocol: rc5
+address: 23
+command: 122
+#
+name: ZONE 2 PWR ON
+type: parsed
+protocol: rc5
+address: 23
+command: 123
+#
+name: ZONE 2 PWR OFF
+type: parsed
+protocol: rc5
+address: 23
+command: 124
+#

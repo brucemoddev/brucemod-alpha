@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TVRADIO
+type: parsed
+protocol: nec
+address: 8.247
+command: 0
+#
+name: PAGEUP
+type: parsed
+protocol: nec
+address: 8.247
+command: 1
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 8.247
+command: 2
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 8.247
+command: 3
+#
+name: REWIND
+type: parsed
+protocol: nec
+address: 8.247
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 8.247
+command: 9
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 8.247
+command: 10
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 8.247
+command: 11
+#
+name: FF
+type: parsed
+protocol: nec
+address: 8.247
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 8.247
+command: 13
+#
+name: SUB
+type: parsed
+protocol: nec
+address: 8.247
+command: 14
+#
+name: YELLOW
+type: parsed
+protocol: nec
+address: 8.247
+command: 16
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 8.247
+command: 17
+#
+name: TTX
+type: parsed
+protocol: nec
+address: 8.247
+command: 18
+#
+name: BLUE
+type: parsed
+protocol: nec
+address: 8.247
+command: 20
+#
+name: REC
+type: parsed
+protocol: nec
+address: 8.247
+command: 21
+#
+name: EPG
+type: parsed
+protocol: nec
+address: 8.247
+command: 22
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 8.247
+command: 24
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 8.247
+command: 25
+#
+name: OK
+type: parsed
+protocol: nec
+address: 8.247
+command: 26
+#
+name: UP
+type: parsed
+protocol: nec
+address: 8.247
+command: 27
+#
+name: PAGEDOWN
+type: parsed
+protocol: nec
+address: 8.247
+command: 29
+#
+name: RIGHT
+type: parsed
+protocol: nec
+address: 8.247
+command: 30
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 8.247
+command: 31
+#
+name: 7
+type: parsed
+protocol: nec
+address: 8.247
+command: 64
+#
+name: 1
+type: parsed
+protocol: nec
+address: 8.247
+command: 65
+#
+name: 4
+type: parsed
+protocol: nec
+address: 8.247
+command: 66
+#
+name: 8
+type: parsed
+protocol: nec
+address: 8.247
+command: 72
+#
+name: 2
+type: parsed
+protocol: nec
+address: 8.247
+command: 73
+#
+name: 5
+type: parsed
+protocol: nec
+address: 8.247
+command: 74
+#
+name: 9
+type: parsed
+protocol: nec
+address: 8.247
+command: 88
+#
+name: 3
+type: parsed
+protocol: nec
+address: 8.247
+command: 89
+#
+name: 6
+type: parsed
+protocol: nec
+address: 8.247
+command: 90
+#
+name: 0
+type: parsed
+protocol: nec
+address: 8.247
+command: 92
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 8.247
+command: 93
+#
+name: RECALL
+type: parsed
+protocol: nec
+address: 8.247
+command: 94
+#

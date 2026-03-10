@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: store
+type: parsed
+protocol: nec
+address: 120
+command: 128
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 120
+command: 129
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 120
+command: 130
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 120
+command: 132
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 120
+command: 133
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 120
+command: 134
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 120
+command: 137
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 120
+command: 138
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 120
+command: 139
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 120
+command: 140
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 120
+command: 141
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 120
+command: 146
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 120
+command: 149
+#
+name: KEY_ESC
+type: parsed
+protocol: nec
+address: 120
+command: 150
+#
+name: KEY_DELETE
+type: parsed
+protocol: nec
+address: 120
+command: 151
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 120
+command: 155
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 120
+command: 157
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 120
+command: 158
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 120
+command: 159
+#

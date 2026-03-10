@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 128
+command: 0
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128
+command: 3
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128
+command: 6
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 128
+command: 7
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128
+command: 8
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128
+command: 9
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128
+command: 10
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 128
+command: 11
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128
+command: 12
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128
+command: 13
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128
+command: 14
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 128
+command: 15
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 128
+command: 16
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128
+command: 17
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 128
+command: 18
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 128
+command: 19
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 128
+command: 21
+#
+name: KEY_DISPLAY
+type: parsed
+protocol: nec
+address: 128
+command: 23
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 128
+command: 24
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 128
+command: 25
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 128
+command: 26
+#
+name: X_KEY_SOURCE
+type: parsed
+protocol: nec
+address: 128
+command: 27
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 128
+command: 29
+#
+name: X_KEY_SNAPSHOT
+type: parsed
+protocol: nec
+address: 128
+command: 31
+#
+name: X_KEY_SKIP_LEFT
+type: parsed
+protocol: nec
+address: 128
+command: 64
+#
+name: X_KEY_SKIP_RIGHT
+type: parsed
+protocol: nec
+address: 128
+command: 66
+#
+name: X_KEY_TIME_SHIFT
+type: parsed
+protocol: nec
+address: 128
+command: 67
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128
+command: 68
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 128
+command: 69
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 128
+command: 70
+#
+name: X_KEY_REC_PLAY
+type: parsed
+protocol: nec
+address: 128
+command: 71
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 128
+command: 72
+#
+name: X_KEY_MTS
+type: parsed
+protocol: nec
+address: 128
+command: 73
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 128
+command: 74
+#
+name: KEY_REC
+type: parsed
+protocol: nec
+address: 128
+command: 75
+#

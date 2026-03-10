@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: KEY_102ND
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: pp
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: bright+
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: bright-
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: color+
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: color-
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: KEY_EXIT
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: tvtxt_freeze
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: KEY_TIME
+type: parsed
+protocol: rc5
+address: 0
+command: 42
+#
+name: tvtxt_large
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: ?
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: tvtxt_background
+type: parsed
+protocol: rc5
+address: 0
+command: 45
+#
+name: teletext+tv
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 0
+command: 50
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: ext1
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: ext2
+type: parsed
+protocol: rc5
+address: 0
+command: 57
+#
+name: KEY_TEXT
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: KEY_TV
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: blue+
+type: parsed
+protocol: rc5
+address: 0
+command: 77
+#
+name: red-
+type: parsed
+protocol: rc5
+address: 0
+command: 78
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 82
+#
+name: off
+type: parsed
+protocol: rc5
+address: 0
+command: 83
+#
+name: pip
+type: parsed
+protocol: rc5
+address: 0
+command: 88
+#
+name: pip_move
+type: parsed
+protocol: rc5
+address: 0
+command: 89
+#
+name: pip_switch
+type: parsed
+protocol: rc5
+address: 0
+command: 90
+#
+name: pip_source
+type: parsed
+protocol: rc5
+address: 0
+command: 95
+#
+name: pip_still
+type: parsed
+protocol: rc5
+address: 0
+command: 101
+#
+name: pip_prog+
+type: parsed
+protocol: rc5
+address: 0
+command: 102
+#
+name: pip_prog-
+type: parsed
+protocol: rc5
+address: 0
+command: 103
+#
+name: KEY_RED
+type: parsed
+protocol: rc5
+address: 0
+command: 107
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 108
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 109
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 110
+#
+name: tvtxt_index
+type: parsed
+protocol: rc5
+address: 0
+command: 111
+#
+name: KEY_SAT
+type: parsed
+protocol: rc5
+address: 0
+command: 118
+#

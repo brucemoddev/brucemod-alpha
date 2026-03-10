@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4
+command: 40
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4
+command: 64
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4
+command: 65
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4
+command: 7
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4
+command: 6
+#
+name: FAST_FO
+type: parsed
+protocol: nec
+address: 4
+command: 142
+#
+name: FAST_BA
+type: parsed
+protocol: nec
+address: 4
+command: 143
+#
+name: Pause
+type: parsed
+protocol: nec
+address: 4
+command: 186
+#
+name: Play
+type: parsed
+protocol: nec
+address: 4
+command: 176
+#
+name: Stop
+type: parsed
+protocol: nec
+address: 4
+command: 177
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: 1
+type: parsed
+protocol: nec
+address: 4
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec
+address: 4
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec
+address: 4
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec
+address: 4
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec
+address: 4
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec
+address: 4
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec
+address: 4
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec
+address: 4
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec
+address: 4
+command: 25
+#
+name: 0
+type: parsed
+protocol: nec
+address: 4
+command: 16
+#
+name: SETTINGS
+type: parsed
+protocol: nec
+address: 4
+command: 67
+#
+name: home
+type: parsed
+protocol: nec
+address: 4
+command: 124
+#
+name: BRIGHT_UP
+type: parsed
+protocol: nec
+address: 4
+command: 224
+#
+name: BRIGHT_DN
+type: parsed
+protocol: nec
+address: 4
+command: 225
+#
+name: Exit
+type: parsed
+protocol: nec
+address: 4
+command: 91
+#
+name: MONITOR_ON
+type: parsed
+protocol: nec
+address: 4
+command: 196
+#
+name: MONITOR_OFF
+type: parsed
+protocol: nec
+address: 4
+command: 197
+#
+name: Input
+type: parsed
+protocol: nec
+address: 4
+command: 11
+#
+name: 3D
+type: parsed
+protocol: nec
+address: 4
+command: 220
+#
+name: NUM_ALPHA_TOGGLE
+type: parsed
+protocol: nec
+address: 4
+command: 50
+#
+name: CLEAR
+type: parsed
+protocol: nec
+address: 4
+command: 47
+#
+name: arc
+type: parsed
+protocol: nec
+address: 4
+command: 121
+#
+name: Auto
+type: parsed
+protocol: nec
+address: 4
+command: 153
+#
+name: psm
+type: parsed
+protocol: nec
+address: 4
+command: 77
+#
+name: W_BAL
+type: parsed
+protocol: nec
+address: 4
+command: 95
+#
+name: SIGN_MENU
+type: parsed
+protocol: nec
+address: 4
+command: 63
+#
+name: Simplink
+type: parsed
+protocol: nec
+address: 4
+command: 126
+#
+name: TILE
+type: parsed
+protocol: nec
+address: 4
+command: 123
+#
+name: PIC_ID_ON
+type: parsed
+protocol: nec
+address: 4
+command: 114
+#
+name: PIC_ID_OFF
+type: parsed
+protocol: nec
+address: 4
+command: 113
+#
+name: Yellow
+type: parsed
+protocol: nec
+address: 4
+command: 99
+#
+name: blue
+type: parsed
+protocol: nec
+address: 4
+command: 97
+#
+name: energy_saving
+type: parsed
+protocol: nec
+address: 4
+command: 149
+#

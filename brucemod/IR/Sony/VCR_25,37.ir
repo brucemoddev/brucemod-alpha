@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony20
+address: 25.37
+command: 0
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 25.37
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony20
+address: 25.37
+command: 1
+#
+name: DATA CODE
+type: parsed
+protocol: sony20
+address: 25.37
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 25.37
+command: 2
+#
+name: COUNTER SELECT
+type: parsed
+protocol: sony20
+address: 25.37
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 25.37
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 25.37
+command: 4
+#
+name: X 2
+type: parsed
+protocol: sony20
+address: 25.37
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 25.37
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony20
+address: 25.37
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony20
+address: 25.37
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony20
+address: 25.37
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony20
+address: 25.37
+command: 9
+#
+name: -/- -
+type: parsed
+protocol: sony20
+address: 25.37
+command: 10
+#
+name: UP
+type: parsed
+protocol: sony20
+address: 25.37
+command: 10
+#
+name: PROGRAM +
+type: parsed
+protocol: sony20
+address: 25.37
+command: 16
+#
+name: PROGRAM -
+type: parsed
+protocol: sony20
+address: 25.37
+command: 17
+#
+name: POWER
+type: parsed
+protocol: sony20
+address: 25.37
+command: 21
+#
+name: EJECT
+type: parsed
+protocol: sony20
+address: 25.37
+command: 22
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: sony20
+address: 25.37
+command: 23
+#
+name: STOP
+type: parsed
+protocol: sony20
+address: 25.37
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony20
+address: 25.37
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony20
+address: 25.37
+command: 26
+#
+name: REW
+type: parsed
+protocol: sony20
+address: 25.37
+command: 27
+#
+name: FF
+type: parsed
+protocol: sony20
+address: 25.37
+command: 28
+#
+name: REC
+type: parsed
+protocol: sony20
+address: 25.37
+command: 29
+#
+name: SLOW >
+type: parsed
+protocol: sony20
+address: 25.37
+command: 35
+#
+name: SEARCH <<
+type: parsed
+protocol: sony20
+address: 25.37
+command: 40
+#
+name: SEARCH >>
+type: parsed
+protocol: sony20
+address: 25.37
+command: 41
+#
+name: TV/VTR
+type: parsed
+protocol: sony20
+address: 25.37
+command: 42
+#
+name: FRAME <<
+type: parsed
+protocol: sony20
+address: 25.37
+command: 48
+#
+name: FRAME >>
+type: parsed
+protocol: sony20
+address: 25.37
+command: 49
+#
+name: DOWN
+type: parsed
+protocol: sony20
+address: 25.37
+command: 67
+#
+name: MENU
+type: parsed
+protocol: sony20
+address: 25.37
+command: 77
+#
+name: EXECUTE
+type: parsed
+protocol: sony20
+address: 25.37
+command: 81
+#
+name: RIGHT
+type: parsed
+protocol: sony20
+address: 25.37
+command: 97
+#
+name: LEFT
+type: parsed
+protocol: sony20
+address: 25.37
+command: 98
+#

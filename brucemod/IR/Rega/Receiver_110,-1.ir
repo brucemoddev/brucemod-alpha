@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 110
+command: 0
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 110
+command: 1
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 110
+command: 2
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 110
+command: 3
+#
+name: CHECK
+type: parsed
+protocol: nec1
+address: 110
+command: 7
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 110
+command: 8
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 110
+command: 9
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 110
+command: 10
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 110
+command: 13
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 110
+command: 14
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 110
+command: 15
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 110
+command: 17
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 110
+command: 18
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 110
+command: 20
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 110
+command: 21
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 110
+command: 23
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 110
+command: 24
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 110
+command: 25
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 110
+command: 26
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 110
+command: 27
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 110
+command: 29
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 110
+command: 30
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 110
+command: 31
+#

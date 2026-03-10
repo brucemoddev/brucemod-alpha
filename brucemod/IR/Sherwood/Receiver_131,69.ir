@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: nec2
+address: 131.69
+command: 116
+#
+name: SURR MODE: HALL
+type: parsed
+protocol: nec2
+address: 131.69
+command: 117
+#
+name: SURR MODE: STADIUM
+type: parsed
+protocol: nec2
+address: 131.69
+command: 118
+#
+name: SURR MODE: CHURCH
+type: parsed
+protocol: nec2
+address: 131.69
+command: 119
+#
+name: OPTICAL 1
+type: parsed
+protocol: nec2
+address: 131.69
+command: 121
+#
+name: ANALOG
+type: parsed
+protocol: nec2
+address: 131.69
+command: 123
+#
+name: SURR MODE: TRUE SURR
+type: parsed
+protocol: nec2
+address: 131.69
+command: 124
+#
+name: DIGITAL INPUT
+type: parsed
+protocol: nec2
+address: 131.69
+command: 225
+#
+name: VIDEO 1
+type: parsed
+protocol: nec2
+address: 131.69
+command: 227
+#
+name: VIDEO 2
+type: parsed
+protocol: nec2
+address: 131.69
+command: 228
+#
+name: VIDEO 3
+type: parsed
+protocol: nec2
+address: 131.69
+command: 229
+#
+name: VIDEO 4
+type: parsed
+protocol: nec2
+address: 131.69
+command: 230
+#
+name: VIDEO 5
+type: parsed
+protocol: nec2
+address: 131.69
+command: 231
+#

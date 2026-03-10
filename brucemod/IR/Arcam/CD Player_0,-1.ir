@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REVERSE
+type: parsed
+protocol: rc5
+address: 0
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 0
+command: 30
+#

@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FREEZE
+type: parsed
+protocol: nec
+address: 0.48
+command: 3
+#
+name: SOURCE
+type: parsed
+protocol: nec
+address: 0.48
+command: 4
+#
+name: ECOBLANK
+type: parsed
+protocol: nec
+address: 0.48
+command: 7
+#
+name: AUTO
+type: parsed
+protocol: nec
+address: 0.48
+command: 8
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.48
+command: 11
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.48
+command: 12
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.48
+command: 13
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.48
+command: 14
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.48
+command: 15
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.48
+command: 16
+#
+name: CONTRAST
+type: parsed
+protocol: nec
+address: 0.48
+command: 17
+#
+name: ASPECT
+type: parsed
+protocol: nec
+address: 0.48
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.48
+command: 20
+#
+name: BRIGHT
+type: parsed
+protocol: nec
+address: 0.48
+command: 22
+#
+name: PIP
+type: parsed
+protocol: nec
+address: 0.48
+command: 27
+#
+name: PC
+type: parsed
+protocol: nec
+address: 0.48
+command: 65
+#
+name: KEY_SUSPEND
+type: parsed
+protocol: nec
+address: 0.48
+command: 78
+#
+name: OFF
+type: parsed
+protocol: nec
+address: 0.48
+command: 78
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.48
+command: 79
+#
+name: ON
+type: parsed
+protocol: nec
+address: 0.48
+command: 79
+#
+name: COMP
+type: parsed
+protocol: nec
+address: 0.48
+command: 81
+#
+name: VIDEO
+type: parsed
+protocol: nec
+address: 0.48
+command: 82
+#
+name: HDMI-1
+type: parsed
+protocol: nec
+address: 0.48
+command: 88
+#
+name: HDMI-2
+type: parsed
+protocol: nec
+address: 0.48
+command: 89
+#
+name: FINE_TUNE
+type: parsed
+protocol: nec
+address: 0.48
+command: 93
+#
+name: COLOR_TEMP
+type: parsed
+protocol: nec
+address: 0.48
+command: 95
+#
+name: USER1
+type: parsed
+protocol: nec
+address: 0.48
+command: 117
+#
+name: USER2
+type: parsed
+protocol: nec
+address: 0.48
+command: 118
+#
+name: USER3
+type: parsed
+protocol: nec
+address: 0.48
+command: 119
+#
+name: COLOR
+type: parsed
+protocol: nec
+address: 0.48
+command: 121
+#
+name: TINT
+type: parsed
+protocol: nec
+address: 0.48
+command: 122
+#
+name: SHARP
+type: parsed
+protocol: nec
+address: 0.48
+command: 126
+#
+name: WIRELESS
+type: parsed
+protocol: nec
+address: 0.48
+command: 134
+#
+name: 3D
+type: parsed
+protocol: nec
+address: 0.48
+command: 141
+#
+name: TEST
+type: parsed
+protocol: nec
+address: 0.48
+command: 148
+#
+name: SRS
+type: parsed
+protocol: nec
+address: 0.48
+command: 153
+#
+name: INVERT
+type: parsed
+protocol: nec
+address: 0.48
+command: 157
+#

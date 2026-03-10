@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PL II MOVIE
+type: parsed
+protocol: nec
+address: 184.7
+command: 0
+#
+name: DOLBY PL 2 MOVE
+type: parsed
+protocol: nec1
+address: 184.7
+command: 0
+#
+name: PL II MUSIC
+type: parsed
+protocol: nec
+address: 184.7
+command: 1
+#
+name: DOLBY PL 2 MUSIC
+type: parsed
+protocol: nec1
+address: 184.7
+command: 1
+#
+name: CONCERT HALL
+type: parsed
+protocol: nec1
+address: 184.7
+command: 4
+#
+name: STADIUM 2
+type: parsed
+protocol: nec1
+address: 184.7
+command: 5
+#
+name: DTS NEO 6 CINEMA
+type: parsed
+protocol: nec
+address: 184.7
+command: 12
+#
+name: NEO CINEMA
+type: parsed
+protocol: nec1
+address: 184.7
+command: 12
+#
+name: DTS NEO 6 MUSIC
+type: parsed
+protocol: nec
+address: 184.7
+command: 13
+#
+name: NEO MUSIC
+type: parsed
+protocol: nec1
+address: 184.7
+command: 13
+#
+name: MULTI CH. MUSIC
+type: parsed
+protocol: nec
+address: 184.7
+command: 15
+#
+name: MULTI CH MUSIC
+type: parsed
+protocol: nec1
+address: 184.7
+command: 15
+#
+name: PANORAMA
+type: parsed
+protocol: nec
+address: 184.7
+command: 20
+#

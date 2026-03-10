@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PORT1
+type: parsed
+protocol: rc5
+address: 11
+command: 64
+#
+name: PORT1 TOGGLE
+type: parsed
+protocol: rc5
+address: 11
+command: 64
+#
+name: PORT2
+type: parsed
+protocol: rc5
+address: 11
+command: 65
+#
+name: PORT2 TOGGLE
+type: parsed
+protocol: rc5
+address: 11
+command: 65
+#
+name: INPUT 1
+type: parsed
+protocol: rc5
+address: 11
+command: 67
+#
+name: INPUT 2
+type: parsed
+protocol: rc5
+address: 11
+command: 68
+#
+name: INPUT 2
+type: parsed
+protocol: rc5
+address: 11
+command: 69
+#
+name: INPUT 3
+type: parsed
+protocol: rc5
+address: 11
+command: 69
+#
+name: INPUT 3
+type: parsed
+protocol: rc5
+address: 11
+command: 71
+#
+name: INPUT 4
+type: parsed
+protocol: rc5
+address: 11
+command: 73
+#
+name: INPUT 5
+type: parsed
+protocol: rc5
+address: 11
+command: 114
+#
+name: INPUT 6
+type: parsed
+protocol: rc5
+address: 11
+command: 115
+#

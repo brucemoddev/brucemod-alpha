@@ -1,0 +1,789 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 0
+#
+name: DIGIT 0
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 1
+#
+name: DIGIT 1
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 1
+#
+name: 
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 2
+#
+name: ABC
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 2
+#
+name: DIGIT 2
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 2
+#
+name: 2
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 3
+#
+name: 3DEF
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 3
+#
+name: DEF
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 3
+#
+name: DIGIT 3
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 4
+#
+name: 4GHI
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 4
+#
+name: DIGIT 4
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 4
+#
+name: GHI
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 5
+#
+name: 5JKL
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 5
+#
+name: DIGIT 5
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 5
+#
+name: JKL
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 6
+#
+name: 6MNO
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 6
+#
+name: DIGIT 6
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 6
+#
+name: MNO
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 7
+#
+name: 7PQRS
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 7
+#
+name: DIGIT 7
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 7
+#
+name: PQRS
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 8
+#
+name: 8TUV
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 8
+#
+name: DIGIT 8
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 8
+#
+name: TUV
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 9
+#
+name: 9WXYZ
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 9
+#
+name: DIGIT 9
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 9
+#
+name: WXYZ
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 9
+#
+name: VOLUME UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 10
+#
+name: VOLUME +
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 10
+#
+name: 
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 10
+#
+name: VOLUME DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 11
+#
+name: VOLUME -
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 11
+#
+name: STOP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 12
+#
+name: TV []
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 12
+#
+name: TV
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 12
+#
+name: BOUQUET UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 13
+#
+name: BOUQUET +
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 13
+#
+name: CHANNEL UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 13
+#
+name: CHANNEL +
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 13
+#
+name: BOUQUET DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 14
+#
+name: BOUQUET -
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 14
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 14
+#
+name: CHANNEL -
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 14
+#
+name: POWER
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 15
+#
+name: TV POWER (TOGGLING)
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 15
+#
+name: POWER TOGGLE
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 15
+#
+name: DREAM
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 32
+#
+name: MENU
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 32
+#
+name: CURSOR UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 33
+#
+name: UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 33
+#
+name: MENU UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 33
+#
+name: CURSOR DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 34
+#
+name: DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 34
+#
+name: MENU DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 34
+#
+name: CURSOR LEFT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 35
+#
+name: LEFT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 35
+#
+name: MENU LEFT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 35
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 36
+#
+name: RIGHT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 36
+#
+name: MENU RIGHT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 36
+#
+name: SELECT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 37
+#
+name: OK
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 37
+#
+name: CURSOR ENTER
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 37
+#
+name: ENTER
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 37
+#
+name: AUDIO
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 38
+#
+name: VIDEO
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 39
+#
+name: GUIDE
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 39
+#
+name: INFO
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 40
+#
+name: A
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 48
+#
+name: B
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 49
+#
+name: C
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 50
+#
+name: DDD
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 51
+#
+name: SHIFT-STOP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 52
+#
+name: SHIFT-RECORD
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 53
+#
+name: REW <<
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 64
+#
+name: RED <<
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 64
+#
+name: >
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 64
+#
+name: RED
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 64
+#
+name: REWIND
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 64
+#
+name: PLAY
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 65
+#
+name: GREEN >
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 65
+#
+name: GREEN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 65
+#
+name: PAUSE
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 66
+#
+name: YELLOW II
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 66
+#
+name: YELLOW
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 66
+#
+name: FFW >>
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 67
+#
+name: BLUE >>
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 67
+#
+name: BACKGROUND
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 67
+#
+name: BLUE
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 67
+#
+name: FAST FORWARD
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 67
+#
+name: MUTE
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 68
+#
+name: TEXT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 69
+#
+name: >
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 80
+#
+name: FORWARD
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 80
+#
+name: PAGE UP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 80
+#
+name: <
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 81
+#
+name: PAGE DOWN
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 81
+#
+name: EXIT
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 82
+#
+name: LAME!
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 82
+#
+name: RADIO
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 83
+#
+name: RADIO O
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 83
+#
+name: RECORD
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 83
+#
+name: TUNER
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 83
+#
+name: HELP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 84
+#
+name: SET-TOP BOX 0
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 96
+#
+name: SET-TOP BOX 1
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 97
+#
+name: SET-TOP BOX 2
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 98
+#
+name: SET-TOP BOX 3
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 99
+#
+name: SET-TOP BOX 4
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 100
+#
+name: SET-TOP BOX 5
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 101
+#
+name: SET-TOP BOX 6
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 102
+#
+name: SET-TOP BOX 7
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 103
+#
+name: SET-TOP BOX 8
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 104
+#
+name: SET-TOP BOX 9
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 105
+#
+name: POWER OFF
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 180
+#
+name: POWER
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 232
+#
+name: POWER ON
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 232
+#
+name: RWD
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 240
+#
+name: PLAY
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 241
+#
+name: PAUSE
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 242
+#
+name: FF
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 243
+#
+name: STOP
+type: parsed
+protocol: xmp_1
+address: 26.0
+command: 244
+#

@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: > ^
+type: parsed
+protocol: nec1
+address: 132.99
+command: 0
+#
+name: 3 F
+type: parsed
+protocol: nec1
+address: 132.99
+command: 1
+#
+name: 2 T
+type: parsed
+protocol: nec1
+address: 132.99
+command: 2
+#
+name: 1 G
+type: parsed
+protocol: nec1
+address: 132.99
+command: 3
+#
+name: < V
+type: parsed
+protocol: nec1
+address: 132.99
+command: 4
+#
+name: 6 X
+type: parsed
+protocol: nec1
+address: 132.99
+command: 5
+#
+name: 5 W
+type: parsed
+protocol: nec1
+address: 132.99
+command: 6
+#
+name: 4 S
+type: parsed
+protocol: nec1
+address: 132.99
+command: 7
+#
+name: TEXT
+type: parsed
+protocol: nec1
+address: 132.99
+command: 8
+#
+name: VIEW
+type: parsed
+protocol: nec1
+address: 132.99
+command: 9
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 132.99
+command: 10
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 132.99
+command: 11
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 132.99
+command: 12
+#
+name: 9 K
+type: parsed
+protocol: nec1
+address: 132.99
+command: 13
+#
+name: 8 M
+type: parsed
+protocol: nec1
+address: 132.99
+command: 14
+#
+name: 7 A
+type: parsed
+protocol: nec1
+address: 132.99
+command: 15
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 132.99
+command: 16
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 132.99
+command: 17
+#
+name: 0 Z
+type: parsed
+protocol: nec1
+address: 132.99
+command: 18
+#
+name: CANCEL
+type: parsed
+protocol: nec1
+address: 132.99
+command: 19
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 132.99
+command: 20
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 132.99
+command: 21
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 132.99
+command: 22
+#
+name: MESSAGE
+type: parsed
+protocol: nec1
+address: 132.99
+command: 23
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 132.99
+command: 24
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 132.99
+command: 25
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 132.99
+command: 26
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 132.99
+command: 27
+#
+name: CHAN
+type: parsed
+protocol: nec1
+address: 132.99
+command: 28
+#
+name: TUNE
+type: parsed
+protocol: nec1
+address: 132.99
+command: 29
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 132.99
+command: 30
+#
+name: STORE
+type: parsed
+protocol: nec1
+address: 132.99
+command: 31
+#

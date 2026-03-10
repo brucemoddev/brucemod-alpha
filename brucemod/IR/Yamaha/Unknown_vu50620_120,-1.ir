@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 120
+command: 0
+#
+name: cd_stop
+type: parsed
+protocol: nec
+address: 120
+command: 1
+#
+name: cd_play
+type: parsed
+protocol: nec
+address: 120
+command: 2
+#
+name: cd_next
+type: parsed
+protocol: nec
+address: 120
+command: 3
+#
+name: cd_last
+type: parsed
+protocol: nec
+address: 120
+command: 4
+#
+name: random
+type: parsed
+protocol: nec
+address: 120
+command: 7
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 120
+command: 8
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 120
+command: 9
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 120
+command: 10
+#
+name: prog
+type: parsed
+protocol: nec
+address: 120
+command: 11
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 120
+command: 12
+#
+name: disc_scip
+type: parsed
+protocol: nec
+address: 120
+command: 13
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 120
+command: 15
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 120
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 120
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 120
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 120
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 120
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 120
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 120
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 120
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 120
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 120
+command: 25
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 120
+command: 26
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 120
+command: 30
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 120
+command: 31
+#
+name: tape_stop
+type: parsed
+protocol: nec
+address: 120
+command: 65
+#
+name: tape_play_forward
+type: parsed
+protocol: nec
+address: 120
+command: 66
+#
+name: tape_play_back
+type: parsed
+protocol: nec
+address: 120
+command: 67
+#
+name: tape_forward
+type: parsed
+protocol: nec
+address: 120
+command: 68
+#
+name: tape_back
+type: parsed
+protocol: nec
+address: 120
+command: 69
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 120
+command: 70
+#
+name: tape1/2
+type: parsed
+protocol: nec
+address: 120
+command: 71
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 120
+command: 75
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 120
+command: 79
+#
+name: up_arrow
+type: parsed
+protocol: nec
+address: 120
+command: 85
+#
+name: down_arrow
+type: parsed
+protocol: nec
+address: 120
+command: 86
+#
+name: left_arrow
+type: parsed
+protocol: nec
+address: 120
+command: 87
+#
+name: right_arrow
+type: parsed
+protocol: nec
+address: 120
+command: 88
+#
+name: flat
+type: parsed
+protocol: nec
+address: 120
+command: 89
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 120
+command: 90
+#
+name: location
+type: parsed
+protocol: nec
+address: 120
+command: 91
+#
+name: user
+type: parsed
+protocol: nec
+address: 120
+command: 92
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 120
+command: 93
+#
+name: input
+type: parsed
+protocol: nec
+address: 120
+command: 94
+#

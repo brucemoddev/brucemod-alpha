@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: rear+
+type: parsed
+protocol: f12
+address: 6.1
+command: 4
+#
+name: monitor
+type: parsed
+protocol: f12
+address: 6.0
+command: 5
+#
+name: test
+type: parsed
+protocol: f12
+address: 6.0
+command: 6
+#
+name: rear-
+type: parsed
+protocol: f12
+address: 6.1
+command: 8
+#
+name: matrix
+type: parsed
+protocol: f12
+address: 6.0
+command: 9
+#
+name: phantom
+type: parsed
+protocol: f12
+address: 6.0
+command: 10
+#
+name: center+
+type: parsed
+protocol: f12
+address: 6.1
+command: 16
+#
+name: hall
+type: parsed
+protocol: f12
+address: 6.0
+command: 17
+#
+name: 20ms
+type: parsed
+protocol: f12
+address: 6.0
+command: 18
+#
+name: center-
+type: parsed
+protocol: f12
+address: 6.1
+command: 32
+#
+name: surround
+type: parsed
+protocol: f12
+address: 6.0
+command: 33
+#
+name: 30ms
+type: parsed
+protocol: f12
+address: 6.0
+command: 34
+#
+name: vol+
+type: parsed
+protocol: f12
+address: 6.1
+command: 64
+#
+name: power
+type: parsed
+protocol: f12
+address: 6.0
+command: 65
+#
+name: vol-
+type: parsed
+protocol: f12
+address: 6.1
+command: 128
+#

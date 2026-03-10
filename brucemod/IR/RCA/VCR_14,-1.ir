@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/VCR
+type: parsed
+protocol: rca
+address: 14
+command: 5
+#
+name: CLEAR
+type: parsed
+protocol: rca
+address: 14
+command: 6
+#
+name: MENU
+type: parsed
+protocol: rca
+address: 14
+command: 8
+#
+name: TRACKING -
+type: parsed
+protocol: rca
+address: 14
+command: 10
+#
+name: TRACKING +
+type: parsed
+protocol: rca
+address: 14
+command: 11
+#
+name: PLAY
+type: parsed
+protocol: rca
+address: 14
+command: 21
+#
+name: RECORD
+type: parsed
+protocol: rca
+address: 14
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: rca
+address: 14
+command: 25
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: rca
+address: 14
+command: 28
+#
+name: REWIND <<
+type: parsed
+protocol: rca
+address: 14
+command: 29
+#
+name: STOP
+type: parsed
+protocol: rca
+address: 14
+command: 31
+#
+name: F. ADV
+type: parsed
+protocol: rca
+address: 14
+command: 32
+#
+name: 0
+type: parsed
+protocol: rca
+address: 14
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca
+address: 14
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 14
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca
+address: 14
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 14
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 14
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca
+address: 14
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca
+address: 14
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca
+address: 14
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca
+address: 14
+command: 57
+#
+name: POWER ON
+type: parsed
+protocol: rca
+address: 14
+command: 58
+#
+name: POWER OFF
+type: parsed
+protocol: rca
+address: 14
+command: 59
+#
+name: INFO
+type: parsed
+protocol: rca
+address: 14
+command: 60
+#
+name: SPEED
+type: parsed
+protocol: rca
+address: 14
+command: 70
+#
+name: INPUT
+type: parsed
+protocol: rca
+address: 14
+command: 71
+#
+name: SEARCH
+type: parsed
+protocol: rca
+address: 14
+command: 83
+#

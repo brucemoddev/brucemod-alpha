@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 6.248
+command: 0
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 6.248
+command: 1
+#
+name: VOLUME_UP
+type: parsed
+protocol: nec1
+address: 6.248
+command: 2
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 6.248
+command: 3
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 6.248
+command: 4
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 6.248
+command: 5
+#
+name: VOLUME_DOWN
+type: parsed
+protocol: nec1
+address: 6.248
+command: 6
+#
+name: BT
+type: parsed
+protocol: nec1
+address: 6.248
+command: 7
+#
+name: DAB
+type: parsed
+protocol: nec1
+address: 6.248
+command: 8
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 6.248
+command: 9
+#
+name: OPTICAL
+type: parsed
+protocol: nec1
+address: 6.248
+command: 10
+#
+name: LINE_IN
+type: parsed
+protocol: nec1
+address: 6.248
+command: 11
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 6.248
+command: 12
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec1
+address: 6.248
+command: 13
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 6.248
+command: 14
+#
+name: PREV
+type: parsed
+protocol: nec1
+address: 6.248
+command: 15
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 6.248
+command: 16
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 6.248
+command: 17
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 6.248
+command: 18
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 6.248
+command: 19
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 6.248
+command: 20
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 6.248
+command: 21
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 6.248
+command: 22
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 6.248
+command: 23
+#

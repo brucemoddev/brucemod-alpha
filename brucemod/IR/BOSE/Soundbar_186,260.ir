@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Mute
+type: parsed
+protocol: nec2
+address: 186.160
+command: 1
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 186.160
+command: 3
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 186.160
+command: 2
+#
+name: PLAY|PAUSE
+type: parsed
+protocol: nec2
+address: 186.160
+command: 85
+#
+name: Next
+type: parsed
+protocol: nec2
+address: 186.160
+command: 90
+#
+name: Previous
+type: parsed
+protocol: nec2
+address: 186.160
+command: 89
+#
+name: Power
+type: parsed
+protocol: nec2
+address: 186.160
+command: 76
+#
+name: aux
+type: parsed
+protocol: nec2
+address: 186.160
+command: 13
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec2
+address: 186.160
+command: 129
+#
+name: Bass
+type: parsed
+protocol: nec2
+address: 186.160
+command: 130
+#
+name: Pause
+type: parsed
+protocol: nec2
+address: 186.160
+command: 86
+#
+name: Stop
+type: parsed
+protocol: nec2
+address: 186.160
+command: 26
+#

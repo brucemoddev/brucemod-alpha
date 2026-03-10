@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 1
+command: 6
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 1
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 1
+command: 11
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 1
+command: 14
+#
+name: PLAY / PAUSE
+type: parsed
+protocol: nec1
+address: 1
+command: 15
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 1
+command: 18
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 1
+command: 19
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 1
+command: 20
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 1
+command: 21
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 1
+command: 22
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 1
+command: 23
+#
+name: CURSOR OK
+type: parsed
+protocol: nec1
+address: 1
+command: 24
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 1
+command: 25
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 1
+command: 26
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 1
+command: 27
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 1
+command: 28
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 1
+command: 29
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 1
+command: 30
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 1
+command: 31
+#
+name: STEP
+type: parsed
+protocol: nec1
+address: 1
+command: 68
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 1
+command: 72
+#
+name: REPEAT A-B
+type: parsed
+protocol: nec1
+address: 1
+command: 76
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 1
+command: 80
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 1
+command: 84
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 1
+command: 85
+#
+name: SEARCH
+type: parsed
+protocol: nec1
+address: 1
+command: 86
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 1
+command: 87
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 1
+command: 88
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 1
+command: 89
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 1
+command: 90
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 1
+command: 91
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 1
+command: 92
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 1
+command: 93
+#
+name: RETURN / TITLE
+type: parsed
+protocol: nec1
+address: 1
+command: 94
+#
+name: DISC MENU
+type: parsed
+protocol: nec1
+address: 1
+command: 95
+#

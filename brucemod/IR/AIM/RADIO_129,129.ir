@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: necx1
+address: 129.129
+command: 1
+#
+name: Preset_Repeat
+type: parsed
+protocol: necx1
+address: 129.129
+command: 2
+#
+name: Snooze
+type: parsed
+protocol: necx1
+address: 129.129
+command: 3
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 129.129
+command: 4
+#
+name: Stop_Band
+type: parsed
+protocol: necx1
+address: 129.129
+command: 9
+#
+name: Intro
+type: parsed
+protocol: necx1
+address: 129.129
+command: 10
+#
+name: Timer
+type: parsed
+protocol: necx1
+address: 129.129
+command: 11
+#
+name: KEY_FORWARD
+type: parsed
+protocol: necx1
+address: 129.129
+command: 17
+#
+name: Random
+type: parsed
+protocol: necx1
+address: 129.129
+command: 18
+#
+name: KEY_SLEEP
+type: parsed
+protocol: necx1
+address: 129.129
+command: 19
+#
+name: X-Bass
+type: parsed
+protocol: necx1
+address: 129.129
+command: 20
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 129.129
+command: 23
+#
+name: KEY_REWIND
+type: parsed
+protocol: necx1
+address: 129.129
+command: 25
+#
+name: Mem
+type: parsed
+protocol: necx1
+address: 129.129
+command: 26
+#
+name: Display
+type: parsed
+protocol: necx1
+address: 129.129
+command: 27
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 129.129
+command: 31
+#
+name: Function
+type: parsed
+protocol: necx1
+address: 129.129
+command: 32
+#

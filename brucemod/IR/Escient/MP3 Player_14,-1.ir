@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: EXIT
+type: parsed
+protocol: rca_38
+address: 14
+command: 6
+#
+name: ENTER
+type: parsed
+protocol: rca_38
+address: 14
+command: 83
+#

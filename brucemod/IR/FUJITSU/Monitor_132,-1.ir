@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: fujitsu
+address: 132
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: fujitsu
+address: 132
+command: 2
+#
+name: INPUT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 3
+#
+name: VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 5
+#
+name: VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 6
+#
+name: RGB
+type: parsed
+protocol: fujitsu
+address: 132
+command: 8
+#
+name: RGB2: D-SUB15
+type: parsed
+protocol: fujitsu
+address: 132
+command: 9
+#
+name: RGB3: 5 BNC
+type: parsed
+protocol: fujitsu
+address: 132
+command: 10
+#
+name: S-VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 11
+#
+name: COMPONENT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 12
+#
+name: RGB1: DVI-D
+type: parsed
+protocol: fujitsu
+address: 132
+command: 14
+#
+name: SHIFT 1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 16
+#
+name: VOLUME UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: SHIFT 2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOL +
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOLUME DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: VOL -
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: SHIFT 3
+type: parsed
+protocol: fujitsu
+address: 132
+command: 48
+#
+name: ARROW LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: ADJ LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: ARROW RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: ADJ RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 132
+command: 64
+#
+name: SHIFT 4
+type: parsed
+protocol: fujitsu
+address: 132
+command: 64
+#
+name: ARROW UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: ADJ UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: ARROW DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: ADJ DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: ENTER
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: SET
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: WIDE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 128
+#
+name: ASPECT TOGGLE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 128
+#
+name: ASPECT AUTO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 129
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: fujitsu
+address: 132
+command: 130
+#
+name: ASPECT WIDE1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 131
+#
+name: ASPECT WIDE2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 132
+#
+name: ASPECT ZOOM1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 133
+#
+name: ASPECT ZOOM2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 134
+#
+name: LOCK (HIDDEN)
+type: parsed
+protocol: fujitsu
+address: 132
+command: 224
+#
+name: MODE (HIDDEN)
+type: parsed
+protocol: fujitsu
+address: 132
+command: 250
+#

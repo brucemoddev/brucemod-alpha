@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 0
+#
+name: 2 DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 1
+#
+name: 3 DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 2
+#
+name: 4 DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 3
+#
+name: 5 DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 4
+#
+name: 6 DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 5
+#
+name: DATA
+type: parsed
+protocol: nec1
+address: 202.149
+command: 14
+#
+name: SCAN
+type: parsed
+protocol: nec1
+address: 202.149
+command: 19
+#
+name: SINGLE DISC
+type: parsed
+protocol: nec1
+address: 202.149
+command: 26
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 202.149
+command: 64
+#
+name: REV <<
+type: parsed
+protocol: nec1
+address: 202.149
+command: 65
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 66
+#
+name: CANCEL
+type: parsed
+protocol: nec1
+address: 202.149
+command: 67
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 202.149
+command: 68
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 202.149
+command: 69
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 202.149
+command: 70
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 202.149
+command: 71
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 202.149
+command: 72
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 202.149
+command: 73
+#
+name: REVIEW
+type: parsed
+protocol: nec1
+address: 202.149
+command: 74
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 202.149
+command: 75
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 202.149
+command: 77
+#
+name: 0 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 78
+#
+name: 1 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 79
+#
+name: 2 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 80
+#
+name: 3 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 81
+#
+name: 4 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 82
+#
+name: 5 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 83
+#
+name: 6 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 84
+#
+name: 7 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 85
+#
+name: 8 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 86
+#
+name: 9 TRACK
+type: parsed
+protocol: nec1
+address: 202.149
+command: 87
+#
+name: VOL ^
+type: parsed
+protocol: nec1
+address: 202.149
+command: 88
+#
+name: VOL V
+type: parsed
+protocol: nec1
+address: 202.149
+command: 89
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 202.149
+command: 91
+#

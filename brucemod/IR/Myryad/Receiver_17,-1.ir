@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNE +
+type: parsed
+protocol: rc5
+address: 17
+command: 30
+#
+name: TUNE -
+type: parsed
+protocol: rc5
+address: 17
+command: 31
+#
+name: MANUAL
+type: parsed
+protocol: rc5
+address: 17
+command: 36
+#
+name: MONO
+type: parsed
+protocol: rc5
+address: 17
+command: 37
+#
+name: PRESET
+type: parsed
+protocol: rc5
+address: 17
+command: 38
+#
+name: SEARCH
+type: parsed
+protocol: rc5
+address: 17
+command: 39
+#
+name: STORE
+type: parsed
+protocol: rc5
+address: 17
+command: 41
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 17
+command: 63
+#

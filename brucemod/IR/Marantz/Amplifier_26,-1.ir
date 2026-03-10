@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RECORDER 1 (CD-R)
+type: parsed
+protocol: rc5
+address: 26
+command: 63
+#

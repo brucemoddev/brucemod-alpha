@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 226
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 227
+#

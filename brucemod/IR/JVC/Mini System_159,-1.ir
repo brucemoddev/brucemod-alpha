@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: jvc
+address: 159
+command: 0
+#
+name: VOL +
+type: parsed
+protocol: jvc
+address: 159
+command: 1
+#
+name: VOL -
+type: parsed
+protocol: jvc
+address: 159
+command: 2
+#
+name: TUNER INPUT
+type: parsed
+protocol: jvc
+address: 159
+command: 11
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 159
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 159
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 159
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 159
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 159
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 159
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 159
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 159
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 159
+command: 41
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 159
+command: 42
+#
+name: 10
+type: parsed
+protocol: jvc
+address: 159
+command: 42
+#
+name: +10
+type: parsed
+protocol: jvc
+address: 159
+command: 46
+#
+name: SLEEP
+type: parsed
+protocol: jvc
+address: 159
+command: 50
+#
+name: CD SKIP +
+type: parsed
+protocol: jvc
+address: 159
+command: 61
+#
+name: CD SKIP -
+type: parsed
+protocol: jvc
+address: 159
+command: 62
+#
+name: CD PLAY/INPUT/PAUSE
+type: parsed
+protocol: jvc
+address: 159
+command: 112
+#
+name: CD STOPP
+type: parsed
+protocol: jvc
+address: 159
+command: 113
+#

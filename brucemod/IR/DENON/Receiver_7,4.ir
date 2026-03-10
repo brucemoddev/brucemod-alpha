@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 1
+#
+name: 2
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 2
+#
+name: 3
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 3
+#
+name: 4
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 4
+#
+name: 5
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 5
+#
+name: 6
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 6
+#
+name: 7
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 7
+#
+name: 8
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 8
+#
+name: 9
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 9
+#
+name: 0
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 10
+#
+name: MEMO
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 12
+#
+name: SEARCH
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 18
+#
+name: CHANNEL -
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 21
+#
+name: CHANNEL +
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 22
+#
+name: BAND
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 23
+#
+name: MODE
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 24
+#
+name: TUNER UP
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 25
+#
+name: TUNER DOWN
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 26
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 66
+#
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 69
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 70
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 71
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 72
+#
+name: TUNER A
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 96
+#
+name: TUNER B
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 97
+#
+name: TUNER C
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 98
+#
+name: TUNER D
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 99
+#
+name: TUNER E
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 100
+#
+name: TUNER F
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 101
+#
+name: TUNER G
+type: parsed
+protocol: Denon-K
+address: 7.4
+command: 102
+#

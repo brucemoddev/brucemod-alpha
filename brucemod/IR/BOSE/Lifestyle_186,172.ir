@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE TOGGLE
+type: parsed
+protocol: nec2
+address: 186.172
+command: 1
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 186.172
+command: 2
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 186.172
+command: 3
+#
+name: FM/AM TOGGLE
+type: parsed
+protocol: nec2
+address: 186.172
+command: 6
+#
+name: VCR
+type: parsed
+protocol: nec2
+address: 186.172
+command: 13
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 186.172
+command: 14
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 186.172
+command: 15
+#
+name: CBL/SAT
+type: parsed
+protocol: nec2
+address: 186.172
+command: 21
+#
+name: TRACK/CH./PRE DOWN
+type: parsed
+protocol: nec2
+address: 186.172
+command: 24
+#
+name: TRACK/CH./PRE. UP
+type: parsed
+protocol: nec2
+address: 186.172
+command: 25
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 186.172
+command: 26
+#
+name: FM ASSERT
+type: parsed
+protocol: nec2
+address: 186.172
+command: 37
+#
+name: AM ASSERT
+type: parsed
+protocol: nec2
+address: 186.172
+command: 40
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 186.172
+command: 64
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.172
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.172
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.172
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.172
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.172
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.172
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 186.172
+command: 70
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 186.172
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 186.172
+command: 73
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec2
+address: 186.172
+command: 76
+#
+name: MUTE ALL TOGGLE
+type: parsed
+protocol: nec2
+address: 186.172
+command: 77
+#
+name: CD/DVD
+type: parsed
+protocol: nec2
+address: 186.172
+command: 83
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 186.172
+command: 85
+#
+name: PAUSE TOGGLE
+type: parsed
+protocol: nec2
+address: 186.172
+command: 86
+#
+name: SEEK/SCAN<<
+type: parsed
+protocol: nec2
+address: 186.172
+command: 87
+#
+name: SEEK/SCAN >>
+type: parsed
+protocol: nec2
+address: 186.172
+command: 88
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2
+address: 186.172
+command: 92
+#
+name: CD #
+type: parsed
+protocol: nec2
+address: 186.172
+command: 99
+#
+name: SIMILAR (ENCOR)
+type: parsed
+protocol: nec2
+address: 186.172
+command: 101
+#
+name: UMUSIC
+type: parsed
+protocol: nec2
+address: 186.172
+command: 102
+#
+name: WHOLE CD
+type: parsed
+protocol: nec2
+address: 186.172
+command: 103
+#
+name: RATING -
+type: parsed
+protocol: nec2
+address: 186.172
+command: 104
+#
+name: RATING +
+type: parsed
+protocol: nec2
+address: 186.172
+command: 105
+#
+name: POWER ON ASSERT
+type: parsed
+protocol: nec2
+address: 186.172
+command: 140
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 186.172
+command: 157
+#
+name: PLAYLIST
+type: parsed
+protocol: nec2
+address: 186.172
+command: 159
+#
+name: STORED
+type: parsed
+protocol: nec2
+address: 186.172
+command: 179
+#
+name: POWER OFF ASSERT
+type: parsed
+protocol: nec2
+address: 186.172
+command: 204
+#
+name: LOCAL SOURCE
+type: parsed
+protocol: nec2
+address: 186.172
+command: 244
+#

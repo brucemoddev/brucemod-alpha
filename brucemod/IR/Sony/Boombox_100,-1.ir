@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony15
+address: 100
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony15
+address: 100
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony15
+address: 100
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony15
+address: 100
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony15
+address: 100
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony15
+address: 100
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony15
+address: 100
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony15
+address: 100
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony15
+address: 100
+command: 8
+#
+name: 0/10
+type: parsed
+protocol: sony15
+address: 100
+command: 12
+#
+name: >10
+type: parsed
+protocol: sony15
+address: 100
+command: 13
+#
+name: DISPLAY
+type: parsed
+protocol: sony15
+address: 100
+command: 28
+#
+name: TRACK -
+type: parsed
+protocol: sony15
+address: 100
+command: 48
+#
+name: TRACK +
+type: parsed
+protocol: sony15
+address: 100
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony15
+address: 100
+command: 50
+#
+name: LOOP
+type: parsed
+protocol: sony15
+address: 100
+command: 52
+#
+name: STOP
+type: parsed
+protocol: sony15
+address: 100
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony15
+address: 100
+command: 57
+#
+name: BAND
+type: parsed
+protocol: sony15
+address: 100
+command: 111
+#
+name: TUNE +
+type: parsed
+protocol: sony15
+address: 100
+command: 115
+#
+name: TUNE -
+type: parsed
+protocol: sony15
+address: 100
+command: 116
+#

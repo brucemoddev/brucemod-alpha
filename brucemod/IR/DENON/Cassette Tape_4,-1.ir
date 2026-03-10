@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: D1 CASS PITCH+/-
+type: parsed
+protocol: denon
+address: 4
+command: 69
+#
+name: 
+type: parsed
+protocol: denon
+address: 4
+command: 70
+#
+name: D2 CASS PITCH+/-
+type: parsed
+protocol: denon
+address: 4
+command: 74
+#
+name: DECK SELECT A/B
+type: parsed
+protocol: denon
+address: 4
+command: 83
+#
+name: A/B
+type: parsed
+protocol: denon
+address: 4
+command: 83
+#
+name: DECK PLAY REV. <
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: PLAY(REV)
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: D1 CASS FWD >> (>>)
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: F.F >>
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: DECK FF >>
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: FF >>
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: D1 CASS REW << (<<)
+type: parsed
+protocol: denon
+address: 4
+command: 91
+#
+name: REW <<
+type: parsed
+protocol: denon
+address: 4
+command: 91
+#
+name: DECK REW <<
+type: parsed
+protocol: denon
+address: 4
+command: 91
+#
+name: D1 CASS PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#
+name: PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#
+name: DECK PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#
+name: REC PAUSE/MUTE
+type: parsed
+protocol: denon
+address: 4
+command: 93
+#
+name: DECK PAUSE 
+type: parsed
+protocol: denon
+address: 4
+command: 93
+#
+name: PAUSE 
+type: parsed
+protocol: denon
+address: 4
+command: 93
+#
+name: D1 CASS STOP[] 
+type: parsed
+protocol: denon
+address: 4
+command: 94
+#
+name: STOP []
+type: parsed
+protocol: denon
+address: 4
+command: 94
+#
+name: DECK STOP []
+type: parsed
+protocol: denon
+address: 4
+command: 94
+#
+name: RECORD
+type: parsed
+protocol: denon
+address: 4
+command: 95
+#
+name: DECK REC
+type: parsed
+protocol: denon
+address: 4
+command: 95
+#
+name: D2 CASS FWD >> (>>)
+type: parsed
+protocol: denon
+address: 4
+command: 106
+#
+name: D2 CASS REW << (<<)
+type: parsed
+protocol: denon
+address: 4
+command: 107
+#
+name: D2 CASS PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 108
+#
+name: D2 CASS STOP[] 
+type: parsed
+protocol: denon
+address: 4
+command: 110
+#

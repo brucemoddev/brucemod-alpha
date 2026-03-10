@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 4.185
+command: 0
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 4.185
+command: 1
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 4.185
+command: 2
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 4.185
+command: 3
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 4.185
+command: 4
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 4.185
+command: 5
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 4.185
+command: 6
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 4.185
+command: 7
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 4.185
+command: 8
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 4.185
+command: 9
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 4.185
+command: 10
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 4.185
+command: 15
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 4.185
+command: 16
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 4.185
+command: 17
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 4.185
+command: 18
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 4.185
+command: 19
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 4.185
+command: 20
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 4.185
+command: 21
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 4.185
+command: 22
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 4.185
+command: 23
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 4.185
+command: 24
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 4.185
+command: 25
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 4.185
+command: 26
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 4.185
+command: 27
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 4.185
+command: 28
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 4.185
+command: 29
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 4.185
+command: 31
+#
+name: display
+type: parsed
+protocol: nec
+address: 4.185
+command: 32
+#
+name: KEY_LIGHTS_TOGGLE
+type: parsed
+protocol: nec
+address: 4.185
+command: 35
+#
+name: auto
+type: parsed
+protocol: nec
+address: 4.185
+command: 36
+#
+name: aspect
+type: parsed
+protocol: nec
+address: 4.185
+command: 37
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 4.185
+command: 40
+#
+name: freeze
+type: parsed
+protocol: nec
+address: 4.185
+command: 41
+#
+name: cc
+type: parsed
+protocol: nec
+address: 4.185
+command: 42
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 4.185
+command: 43
+#

@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RELAY 1 ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 1
+#
+name: RELAY 2 ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 2
+#
+name: RELAY 3 ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 3
+#
+name: RELAY 4 ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 4
+#
+name: RELAY 5 ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 5
+#
+name: RELAY 6 ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 6
+#
+name: LOOP ON/OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 10
+#
+name: FLAT
+type: parsed
+protocol: recs80_45
+address: 1
+command: 15
+#
+name: ZONE GROUPING ON/OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 16
+#
+name: WHOLE HOUSE ON/OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 17
+#
+name: RELAY 1 OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 33
+#
+name: RELAY 2 OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 34
+#
+name: RELAY 3 OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 35
+#
+name: RELAY 4 OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 36
+#
+name: RELAY 5 OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 37
+#
+name: RELAY 6 OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 38
+#

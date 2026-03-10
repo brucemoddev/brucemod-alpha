@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: recs80_45
+address: 0
+command: 2
+#
+name: DND
+type: parsed
+protocol: recs80_45
+address: 0
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 4
+#
+name: BASS +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 6
+#
+name: TREBLE +
+type: parsed
+protocol: recs80_45
+address: 0
+command: 7
+#
+name: VOLUME -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 36
+#
+name: BASS -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 38
+#
+name: TREBLE -
+type: parsed
+protocol: recs80_45
+address: 0
+command: 39
+#

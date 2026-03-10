@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: kathrein
+address: 0
+command: 0
+#
+name: 1
+type: parsed
+protocol: kathrein
+address: 0
+command: 1
+#
+name: 2
+type: parsed
+protocol: kathrein
+address: 0
+command: 2
+#
+name: 3
+type: parsed
+protocol: kathrein
+address: 0
+command: 3
+#
+name: 4
+type: parsed
+protocol: kathrein
+address: 0
+command: 4
+#
+name: 5
+type: parsed
+protocol: kathrein
+address: 0
+command: 5
+#
+name: 6
+type: parsed
+protocol: kathrein
+address: 0
+command: 6
+#
+name: 7
+type: parsed
+protocol: kathrein
+address: 0
+command: 7
+#
+name: 8
+type: parsed
+protocol: kathrein
+address: 0
+command: 8
+#
+name: 9
+type: parsed
+protocol: kathrein
+address: 0
+command: 9
+#
+name: I
+type: parsed
+protocol: kathrein
+address: 0
+command: 12
+#
+name: R
+type: parsed
+protocol: kathrein
+address: 0
+command: 13
+#
+name: CURSOR CENTER/OK
+type: parsed
+protocol: kathrein
+address: 0
+command: 14
+#
+name: TV
+type: parsed
+protocol: kathrein
+address: 0
+command: 15
+#
+name: UHR (SYMBOL)
+type: parsed
+protocol: kathrein
+address: 0
+command: 16
+#
+name: A/B
+type: parsed
+protocol: kathrein
+address: 0
+command: 17
+#
+name: POWER (SYMBOL)
+type: parsed
+protocol: kathrein
+address: 0
+command: 18
+#
+name: MUTE (SYMBOL)
+type: parsed
+protocol: kathrein
+address: 0
+command: 19
+#
+name: CURSOR VOL +
+type: parsed
+protocol: kathrein
+address: 0
+command: 21
+#
+name: CURSOR VOL -
+type: parsed
+protocol: kathrein
+address: 0
+command: 22
+#
+name: CURSOR UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 23
+#
+name: CURSOR DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 24
+#
+name: L
+type: parsed
+protocol: kathrein
+address: 0
+command: 43
+#
+name: EIERUHR (SYMBOL)
+type: parsed
+protocol: kathrein
+address: 0
+command: 44
+#
+name: STEREO (SYMBOL)
+type: parsed
+protocol: kathrein
+address: 0
+command: 66
+#
+name: F
+type: parsed
+protocol: kathrein
+address: 0
+command: 77
+#

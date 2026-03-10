@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.69
+command: 23
+#
+name: RGB
+type: parsed
+protocol: nec
+address: 135.69
+command: 24
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 135.69
+command: 25
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 135.69
+command: 26
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 135.69
+command: 32
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 135.69
+command: 33
+#
+name: Reset
+type: parsed
+protocol: nec
+address: 135.69
+command: 34
+#
+name: Auto
+type: parsed
+protocol: nec
+address: 135.69
+command: 36
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 135.69
+command: 40
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 135.69
+command: 42
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 135.69
+command: 44
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 135.69
+command: 46
+#
+name: Position
+type: parsed
+protocol: nec
+address: 135.69
+command: 48
+#
+name: Blank
+type: parsed
+protocol: nec
+address: 135.69
+command: 65
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 135.69
+command: 82
+#
+name: Volume
+type: parsed
+protocol: nec
+address: 135.69
+command: 83
+#
+name: Aspect
+type: parsed
+protocol: nec
+address: 135.69
+command: 122
+#
+name: MagnifyOn
+type: parsed
+protocol: nec
+address: 135.69
+command: 176
+#
+name: MagnifyOff
+type: parsed
+protocol: nec
+address: 135.69
+command: 179
+#
+name: Freeze
+type: parsed
+protocol: nec
+address: 135.69
+command: 180
+#
+name: Keystone
+type: parsed
+protocol: nec
+address: 135.69
+command: 182
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: nec
+address: 135.69
+command: 208
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: nec
+address: 135.69
+command: 209
+#
+name: KEY_ESC
+type: parsed
+protocol: nec
+address: 135.69
+command: 212
+#
+name: KEY_HOME
+type: parsed
+protocol: nec
+address: 135.69
+command: 213
+#
+name: End0
+type: parsed
+protocol: nec
+address: 135.69
+command: 214
+#

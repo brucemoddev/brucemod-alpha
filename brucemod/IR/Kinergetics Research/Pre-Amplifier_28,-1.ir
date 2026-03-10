@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: rc5
+address: 28
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 28
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 28
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 28
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 28
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 28
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 28
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 28
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 28
+command: 9
+#
+name: 10
+type: parsed
+protocol: rc5
+address: 28
+command: 10
+#
+name: SEEK UP
+type: parsed
+protocol: rc5
+address: 28
+command: 11
+#
+name: AM/FM
+type: parsed
+protocol: rc5
+address: 28
+command: 12
+#
+name: CAL /SET
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: ON
+type: parsed
+protocol: rc5
+address: 28
+command: 14
+#
+name: SEEK DOWN
+type: parsed
+protocol: rc5
+address: 28
+command: 15
+#
+name: OFF
+type: parsed
+protocol: rc5
+address: 28
+command: 16
+#
+name: ENHANCE
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: AUX 1
+type: parsed
+protocol: rc5
+address: 28
+command: 18
+#
+name: DOLBY/PRO LOGIC
+type: parsed
+protocol: rc5
+address: 28
+command: 19
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 28
+command: 20
+#
+name: TV
+type: parsed
+protocol: rc5
+address: 28
+command: 21
+#
+name: THX / CINAMA
+type: parsed
+protocol: rc5
+address: 28
+command: 22
+#
+name: LD
+type: parsed
+protocol: rc5
+address: 28
+command: 23
+#
+name: STEREO
+type: parsed
+protocol: rc5
+address: 28
+command: 24
+#
+name: AUX 2
+type: parsed
+protocol: rc5
+address: 28
+command: 25
+#
+name: VCR 2
+type: parsed
+protocol: rc5
+address: 28
+command: 26
+#
+name: TAPE
+type: parsed
+protocol: rc5
+address: 28
+command: 27
+#
+name: VCR 1
+type: parsed
+protocol: rc5
+address: 28
+command: 28
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 28
+command: 29
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 28
+command: 30
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 28
+command: 31
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 28
+command: 32
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 28
+command: 33
+#

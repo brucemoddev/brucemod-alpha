@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 2
+#
+name: 2
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 3
+#
+name: 3
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 4
+#
+name: 4
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 5
+#
+name: 5
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 6
+#
+name: 6
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 7
+#
+name: 7
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 8
+#
+name: 8
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 9
+#
+name: 9
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 10
+#
+name: SUBTITLE
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 13
+#
+name: AUDIO
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 14
+#
+name: ANGLE
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 15
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 16
+#
+name: POP UP MENU
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 17
+#
+name: RETURN
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 18
+#
+name: REPEAT
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 19
+#
+name: PAUSE
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 22
+#
+name: STOP
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 23
+#
+name: TRACK >>
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 24
+#
+name: TRACK <<
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 25
+#
+name: SCAN >>
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 26
+#
+name: SCAN <<
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 27
+#
+name: PLAY
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 28
+#
+name: CLEAR
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 30
+#
+name: RANDOM
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 31
+#
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 32
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 33
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 34
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 35
+#
+name: POWER ON
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 40
+#
+name: POWER OFF
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 41
+#
+name: A-B REPEAT
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 42
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 43
+#
+name: SETUP
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 44
+#
+name: TOP MENU
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 45
+#
+name: SEARCH
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 47
+#
+name: 0
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 48
+#
+name: ZOOM
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 48
+#
+name: MODE
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 49
+#
+name: RED
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 50
+#
+name: GREEN
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 51
+#
+name: BLUE
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 52
+#
+name: YELLOW
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 53
+#
+name: DIMMER
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 57
+#
+name: PURE DIRECT
+type: parsed
+protocol: Denon-K
+address: 2.1
+command: 62
+#

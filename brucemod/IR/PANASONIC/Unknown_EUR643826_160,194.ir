@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: cdstop
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 128
+#
+name: KEY_AGAIN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 129
+#
+name: random
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 130
+#
+name: cdhome
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 132
+#
+name: cdend
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 133
+#
+name: cdplaypause
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 135
+#
+name: display
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 143
+#
+name: tapestop
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 160
+#
+name: taperew
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 162
+#
+name: tapeff
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 163
+#
+name: tapeplay
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 166
+#
+name: deck12
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 173
+#
+name: revmode
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 174
+#
+name: creset
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 175
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 176
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 177
+#
+name: band
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 184
+#
+name: KEY_SLEEP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 188
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 191
+#
+name: preseteq
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 217
+#
+name: virtualizer
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 218
+#
+name: stmonobp
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 228
+#
+name: tune
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 231
+#
+name: preset
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 232
+#
+name: panelopen
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 244
+#
+name: panelclose
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 245
+#

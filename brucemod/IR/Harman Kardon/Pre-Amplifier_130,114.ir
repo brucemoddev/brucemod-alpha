@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CASS PLAY >
+type: parsed
+protocol: nec2
+address: 130.114
+command: 1
+#
+name: CASS REV PLAY <
+type: parsed
+protocol: nec2
+address: 130.114
+command: 2
+#
+name: CASS STOP []
+type: parsed
+protocol: nec2
+address: 130.114
+command: 3
+#
+name: CASS FFWD >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 4
+#
+name: CASS REW <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 5
+#
+name: CASS REC/PAUSE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 6
+#
+name: CASS SKIP >>
+type: parsed
+protocol: nec2
+address: 130.114
+command: 8
+#
+name: CASS SKIP <<
+type: parsed
+protocol: nec2
+address: 130.114
+command: 9
+#

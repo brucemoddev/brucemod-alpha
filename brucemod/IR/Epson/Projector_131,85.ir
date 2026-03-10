@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 131.85
+command: 144
+#
+name: SOURCESRC
+type: parsed
+protocol: nec2
+address: 131.85
+command: 140
+#
+name: Computer
+type: parsed
+protocol: nec2
+address: 131.85
+command: 148
+#
+name: HDMI/ANAL
+type: parsed
+protocol: nec2
+address: 131.85
+command: 112
+#
+name: USBPC
+type: parsed
+protocol: nec2
+address: 131.85
+command: 118
+#
+name: LAN
+type: parsed
+protocol: nec2
+address: 131.85
+command: 116
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 131.85
+command: 63
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 131.85
+command: 35
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 131.85
+command: 67
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 131.85
+command: 65
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 131.85
+command: 96
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 131.85
+command: 158
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 131.85
+command: 138
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 131.85
+command: 143
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 131.85
+command: 171
+#
+name: id
+type: parsed
+protocol: nec2
+address: 131.85
+command: 49
+#
+name: Menu
+type: parsed
+protocol: nec2
+address: 131.85
+command: 154
+#
+name: ESC
+type: parsed
+protocol: nec2
+address: 131.85
+command: 132
+#
+name: user
+type: parsed
+protocol: nec2
+address: 131.85
+command: 159
+#
+name: POINTER
+type: parsed
+protocol: nec2
+address: 131.85
+command: 155
+#
+name: PGUP
+type: parsed
+protocol: nec2
+address: 131.85
+command: 134
+#
+name: PG DWN
+type: parsed
+protocol: nec2
+address: 131.85
+command: 135
+#
+name: ZOOM IN
+type: parsed
+protocol: nec2
+address: 131.85
+command: 136
+#
+name: ZOOM OUT
+type: parsed
+protocol: nec2
+address: 131.85
+command: 137
+#
+name: VolUp
+type: parsed
+protocol: nec2
+address: 131.85
+command: 152
+#
+name: VOLDWN
+type: parsed
+protocol: nec2
+address: 131.85
+command: 153
+#
+name: MUTESRC
+type: parsed
+protocol: nec2
+address: 131.85
+command: 147
+#
+name: SPLIT
+type: parsed
+protocol: nec2
+address: 131.85
+command: 130
+#
+name: Freeze
+type: parsed
+protocol: nec2
+address: 131.85
+command: 146
+#
+name: home
+type: parsed
+protocol: nec2
+address: 131.85
+command: 149
+#

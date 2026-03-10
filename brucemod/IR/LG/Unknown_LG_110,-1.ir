@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 110
+command: 0
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 110
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 110
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 110
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 110
+command: 8
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 110
+command: 9
+#
+name: P/STIIL
+type: parsed
+protocol: nec
+address: 110
+command: 11
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 110
+command: 20
+#
+name: TRACKING(+)
+type: parsed
+protocol: nec
+address: 110
+command: 68
+#
+name: TRACKING(-)
+type: parsed
+protocol: nec
+address: 110
+command: 69
+#
+name: SPEED
+type: parsed
+protocol: nec
+address: 110
+command: 72
+#
+name: OPR
+type: parsed
+protocol: nec
+address: 110
+command: 175
+#
+name: A.REPEAT
+type: parsed
+protocol: nec
+address: 110
+command: 182
+#

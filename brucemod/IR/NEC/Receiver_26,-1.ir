@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD TRACH >>
+type: parsed
+protocol: nec1
+address: 26
+command: 0
+#
+name: CD TRACK <<
+type: parsed
+protocol: nec1
+address: 26
+command: 1
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 26
+command: 4
+#
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 26
+command: 5
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec1
+address: 26
+command: 14
+#

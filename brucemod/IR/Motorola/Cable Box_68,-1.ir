@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR
+type: parsed
+protocol: nec1
+address: 68
+command: 18
+#

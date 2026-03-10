@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 3
+command: 4
+#
+name: KEY_OK
+type: parsed
+protocol: jvc
+address: 3
+command: 5
+#
+name: RESET
+type: parsed
+protocol: jvc
+address: 3
+command: 6
+#
+name: KEY_OK
+type: parsed
+protocol: jvc
+address: 3
+command: 10
+#
+name: BROADCAST
+type: parsed
+protocol: jvc
+address: 3
+command: 11
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: LEVELUP
+type: parsed
+protocol: jvc
+address: 3
+command: 26
+#
+name: LEVELDOWN
+type: parsed
+protocol: jvc
+address: 3
+command: 27
+#
+name: KEY_MUTE
+type: parsed
+protocol: jvc
+address: 3
+command: 28
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 3
+command: 32
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 3
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 3
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 3
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 3
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 3
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 3
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 3
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 3
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 3
+command: 41
+#
+name: KEY_MENU
+type: parsed
+protocol: jvc
+address: 3
+command: 58
+#
+name: FUNCTION
+type: parsed
+protocol: jvc
+address: 3
+command: 59
+#
+name: KEY_AGAIN
+type: parsed
+protocol: jvc
+address: 3
+command: 60
+#

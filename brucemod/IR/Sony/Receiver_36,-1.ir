@@ -1,0 +1,1245 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ARENA SURROUND
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: AUTO FORMAT DECODING
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: 
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: GAME SURROUND
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: JAZZ CLUB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: NIGHT THEATER
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: NORMAL SURROUND
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: STADIUM
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: STEREO
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: THEATER A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: AUTO FORMAT DECODE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVE L+7 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -1 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -2 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -3 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -4 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -5 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -6 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -7 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -8 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -9 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL -10 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +1 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +2 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +3 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +4 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +5 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +6 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +8 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +9 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTER LEVEL +10 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CENTERL LEVEL 0 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.1
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.2
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.3
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.4
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.5
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.6
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.7
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.8
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: D. RANGE 0.9
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: DOLBY PROLOGIC
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE - 12 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE - 13 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE - 14 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE - 17 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE - 18 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE - 20 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE 0 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -1 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -2 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -3 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -4 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -5 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -6 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -7 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -8 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -9 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -10 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -11 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -15 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -19 DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE -16DB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LFE MUTING
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE CENTER
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L1
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L2
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L3
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L4
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L5
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L6
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L7
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE L8 (L)
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R1
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R2
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R3
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R4
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R5
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R6
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R7
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REAR BALANCE R8 (R)
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 2
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 3
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 4
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 5
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 6
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 7
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 8
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 10
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 11
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 12
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 13
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 14
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 15
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 16
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 17 LONG
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 9 MID
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: REVERB TIME 1 SHORT
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SOUNDFIELD OFF
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 01
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 02
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 03
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 04
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 05
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 06
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 07
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 08
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 09
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 10
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 11
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 12
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 13
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 14
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 15
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 16
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 17
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 18
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 19
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 20
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR EFFECT STEP 21
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT ENHANCED A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT ENHANCED B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT MULTI DIMEN
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT MULTI REAR
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT SEMI THEATA
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT SEMI THEATB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRT SEMI THEATC
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR VIRTSEMI MULDIM
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD01
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD02
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD03
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD04
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD05
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD06
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD07
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD08
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD09
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD10
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD11
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD12
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD13
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD14
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD15
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD16
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SUR WALL SOFT-HARD17
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND ARENA
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND CHURCH
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND DISCO
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND JAZZ
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND LARGE HALL
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND LIVE HOUSE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND MOVIE MONO
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND MOVIE STERE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND NIGHT THEAT
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND NORMAL
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND OPERA HOUSE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND SMALL HALL
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND STADIUM
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND STUDIO A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND STUDIO B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND STUDIO C
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND VIRT THEATA
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND VIRT THEATB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SURROUND VIRT THEATC
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: ANALOG DIRECT
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: ARENA
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CHURCH
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA C STUDIO EX B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA C STUDIO EX C
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA STUDIO A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA STUDIO B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA STUDIO C
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: GAME
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: HEADPHONE THEATER
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LARGE HALL
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: LIVE HOUSE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: MONO MOVIE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SEMI C STUDIO A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SMALL HALL
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: STEREO MOVIE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRT ENHANCED B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL MATRIX 6.1
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL MULTI DIMENS
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL MULTI REAR
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: 2 CH. STEREO
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: AUTO DECODE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA STUDIO EX A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA STUDIO EX B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: CINEMA STUDIO EX C
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: DIGITAL CONCERT A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: DIGITAL CONCERT B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: DISCO/CLUB
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: EQ OFF
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: EQ PESET 1
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: EQ PESET 2
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: EQ PESET 3
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: EQ PESET 4
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: EQ PESET 5
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: OPERA HOUSE
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SEMI-CINEMA EX A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SEMI-CINEMA EX B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: SEMI-CINEMA EX C
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL ENHANCED A
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL ENHANCED B
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL MULTI-DIMENS
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VIRTUAL SEMI-MULTI D
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#
+name: VITUAL MULTI-REAR
+type: parsed
+protocol: sony15
+address: 36
+command: 96
+#

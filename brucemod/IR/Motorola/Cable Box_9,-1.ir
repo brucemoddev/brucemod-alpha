@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO
+type: parsed
+protocol: panasonic
+address: 9
+command: 32
+#

@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: TV 9
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 1
+#
+name: TV POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: TV CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 7
+#
+name: TV 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: TV 0
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 9
+#
+name: TV CH ^ (SCAN ^)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: TV SCAN ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: TV QV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: TV 3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: TV CH V (SCAN V)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: TV SCAN V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: TV OTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: TV 4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: TV INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 26
+#
+name: TV DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: TV 5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: TV 6
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: TV 7
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: TV ENTER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 53
+#
+name: TV 8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: TV A
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 57
+#
+name: TV INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: TV VIDEO ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: TV ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: TV VIDEO V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 72
+#
+name: TV ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: TV AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: TV MENU
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: TV AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 88
+#

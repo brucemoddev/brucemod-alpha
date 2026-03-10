@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 27
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 28
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 29
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 30
+#
+name: ENTER
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 31
+#
+name: RETURN
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 34
+#
+name: MENU
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 35
+#
+name: TUNER XM 1
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 96
+#
+name: TUNER XM 2
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 97
+#
+name: TUNER XM 3
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 98
+#
+name: TUNER XM 4
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 99
+#
+name: TUNER XM 5
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 100
+#
+name: TUNER XM 6
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 101
+#
+name: TUNER XM 7
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 102
+#
+name: TUNER XM 8
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 103
+#
+name: TUNER XM 9
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 104
+#
+name: TUNER XM 0
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 105
+#
+name: Z3 MUTE
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 370
+#
+name: MUTE
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 370
+#
+name: STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 645
+#
+name: AUX ZONE 3
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 711
+#
+name: Z3 INP AUX
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 711
+#
+name: TOGGLE NET/USB
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 711
+#
+name: INPUT XM
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 714
+#
+name: INPUT HD RADIO
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 715
+#
+name: INPUT NET
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 716
+#
+name: INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 717
+#
+name: INPUT USB
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 718
+#
+name: TOGGLE DVD/HDP
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 732
+#
+name: Z3 INP VCR 1/2
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 733
+#
+name: Z3 INP VCR 3/4
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 734
+#
+name: TOGGLE VCR/DVR
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 735
+#
+name: Z3 REPEAT
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 956
+#
+name: Z3 RANDOM
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 957
+#
+name: Z3 USB DIR. PLAY
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 958
+#
+name: Z3 FAVORITE DIR.PLAY
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 959
+#
+name: Z3 PRESET CH+
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 972
+#
+name: Z3 PRESET CH-
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 973
+#
+name: Z3 PRESET SHIFT
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 974
+#
+name: Z3 SEARCH (RDS)
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 983
+#
+name: Z3 PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 992
+#
+name: Z3 STOP
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 993
+#
+name: Z3 SKIP/TUNE-
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 995
+#
+name: Z3 SKIP/TUNE+
+type: parsed
+protocol: Denon-K
+address: 4.5
+command: 996
+#

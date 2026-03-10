@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: necx1
+address: 22.22
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: necx1
+address: 22.22
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: necx1
+address: 22.22
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: necx1
+address: 22.22
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: necx1
+address: 22.22
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: necx1
+address: 22.22
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: necx1
+address: 22.22
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: necx1
+address: 22.22
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: necx1
+address: 22.22
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: necx1
+address: 22.22
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: necx1
+address: 22.22
+command: 10
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: necx1
+address: 22.22
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 22.22
+command: 12
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 22.22
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx1
+address: 22.22
+command: 14
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 22.22
+command: 15
+#
+name: quick_view
+type: parsed
+protocol: necx1
+address: 22.22
+command: 16
+#
+name: KEY_SLEEP
+type: parsed
+protocol: necx1
+address: 22.22
+command: 19
+#
+name: add
+type: parsed
+protocol: necx1
+address: 22.22
+command: 20
+#
+name: KEY_DELETE
+type: parsed
+protocol: necx1
+address: 22.22
+command: 21
+#
+name: KEY_SELECT
+type: parsed
+protocol: necx1
+address: 22.22
+command: 22
+#
+name: call
+type: parsed
+protocol: necx1
+address: 22.22
+command: 23
+#
+name: auto
+type: parsed
+protocol: necx1
+address: 22.22
+command: 25
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: necx1
+address: 22.22
+command: 26
+#
+name: KEY_CLOSE
+type: parsed
+protocol: necx1
+address: 22.22
+command: 28
+#
+name: cc_channel
+type: parsed
+protocol: necx1
+address: 22.22
+command: 29
+#

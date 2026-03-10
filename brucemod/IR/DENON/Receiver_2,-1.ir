@@ -1,0 +1,615 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 65
+#
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 66
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 67
+#
+name: AUX/VIDEO 1
+type: parsed
+protocol: denon
+address: 2
+command: 68
+#
+name: AUX/VIDEO 2
+type: parsed
+protocol: denon
+address: 2
+command: 69
+#
+name: ZONE3 INPUT TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 72
+#
+name: ZONE3 INPUT PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 73
+#
+name: ZONE3 INPUT CD
+type: parsed
+protocol: denon
+address: 2
+command: 74
+#
+name: MUTING
+type: parsed
+protocol: denon
+address: 2
+command: 75
+#
+name: VOL -
+type: parsed
+protocol: denon
+address: 2
+command: 76
+#
+name: VOL +
+type: parsed
+protocol: denon
+address: 2
+command: 77
+#
+name: ZONE3 INPUT DVD
+type: parsed
+protocol: denon
+address: 2
+command: 78
+#
+name: ZONE3 INPUT VDP
+type: parsed
+protocol: denon
+address: 2
+command: 79
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 2
+command: 80
+#
+name: ZONE3 INPUT TV
+type: parsed
+protocol: denon
+address: 2
+command: 82
+#
+name: ZONE3 INPUT DBS/SAT
+type: parsed
+protocol: denon
+address: 2
+command: 83
+#
+name: ZONE3 INPUT VCR1
+type: parsed
+protocol: denon
+address: 2
+command: 84
+#
+name: ZONE3 INPUT VCR2
+type: parsed
+protocol: denon
+address: 2
+command: 85
+#
+name: ZONE 1 VCR-3
+type: parsed
+protocol: denon
+address: 2
+command: 86
+#
+name: MZ-1 VCR-3
+type: parsed
+protocol: denon
+address: 2
+command: 86
+#
+name: ZONE3 INPUT V.AUX
+type: parsed
+protocol: denon
+address: 2
+command: 87
+#
+name: ZONE3 INPUT CDR/TAPE
+type: parsed
+protocol: denon
+address: 2
+command: 91
+#
+name: ZONE 1 TAPE-2
+type: parsed
+protocol: denon
+address: 2
+command: 92
+#
+name: ZONE2 POWER TOGGLE
+type: parsed
+protocol: denon
+address: 2
+command: 93
+#
+name: DIRECT DIGITAL
+type: parsed
+protocol: denon
+address: 2
+command: 96
+#
+name: OPTICAL DIGITAL 1
+type: parsed
+protocol: denon
+address: 2
+command: 97
+#
+name: DIGITAL 2
+type: parsed
+protocol: denon
+address: 2
+command: 98
+#
+name: DIGITAL 3
+type: parsed
+protocol: denon
+address: 2
+command: 99
+#
+name: ZONE3 VOLUME DOWN
+type: parsed
+protocol: denon
+address: 2
+command: 101
+#
+name: ZONE3 VOLUME UP
+type: parsed
+protocol: denon
+address: 2
+command: 102
+#
+name: DAT MONITOR
+type: parsed
+protocol: denon
+address: 2
+command: 103
+#
+name: SURROUND MODE PURE D
+type: parsed
+protocol: denon
+address: 2
+command: 106
+#
+name: INPUT MODE AUTO
+type: parsed
+protocol: denon
+address: 2
+command: 115
+#
+name: INPUT MODE PCM
+type: parsed
+protocol: denon
+address: 2
+command: 116
+#
+name: INPUT MODE DTS
+type: parsed
+protocol: denon
+address: 2
+command: 117
+#
+name: POWER ON
+type: parsed
+protocol: denon
+address: 2
+command: 121
+#
+name: POWER OFF
+type: parsed
+protocol: denon
+address: 2
+command: 122
+#
+name: ZONE2 POWER ON
+type: parsed
+protocol: denon
+address: 2
+command: 123
+#
+name: ZONE2 POWER OFF
+type: parsed
+protocol: denon
+address: 2
+command: 124
+#
+name: ZONE3 POWER ON
+type: parsed
+protocol: denon
+address: 2
+command: 125
+#
+name: ZONE3 POWER OFF
+type: parsed
+protocol: denon
+address: 2
+command: 126
+#
+name: ALL POWER TOGGLE
+type: parsed
+protocol: denon
+address: 2
+command: 193
+#
+name: FL SPEAKER LEVEL UP
+type: parsed
+protocol: denon
+address: 2
+command: 194
+#
+name: INPUT PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 195
+#
+name: INPUT CD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: INPUT TUNER / HD RAD
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: INPUT AUX
+type: parsed
+protocol: denon
+address: 2
+command: 198
+#
+name: FL SPEAKER LEVEL DOW
+type: parsed
+protocol: denon
+address: 2
+command: 199
+#
+name: INPUT CABLE/SAT/DBS
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: INPUT TV/DBS
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: INPUT BDP/HDP/DVP
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: FR SPEAKER LEVEL UP
+type: parsed
+protocol: denon
+address: 2
+command: 203
+#
+name: INPUT V.AUX
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: INPUT GAME/VCR1
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: INPUT MEDIA PLAYER/D
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: INPUT DVR2/VCR3
+type: parsed
+protocol: denon
+address: 2
+command: 207
+#
+name: FR SPEAKER LEVEL DOW
+type: parsed
+protocol: denon
+address: 2
+command: 208
+#
+name: AMP DAT/TAPE MONITOR
+type: parsed
+protocol: denon
+address: 2
+command: 209
+#
+name: INPUT CDR/DAT/TAPE
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: INPUT TAPE2
+type: parsed
+protocol: denon
+address: 2
+command: 211
+#
+name: CINEMA EQ ON
+type: parsed
+protocol: denon
+address: 2
+command: 213
+#
+name: SR SPEAKER LEVEL UP
+type: parsed
+protocol: denon
+address: 2
+command: 214
+#
+name: SR SPEAKER LEVEL DOW
+type: parsed
+protocol: denon
+address: 2
+command: 215
+#
+name: VIDEO SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 216
+#
+name: CINEMA EQ OFF
+type: parsed
+protocol: denon
+address: 2
+command: 217
+#
+name: AMP VIDEO
+type: parsed
+protocol: denon
+address: 2
+command: 218
+#
+name: MODE MULTI CHANNEL
+type: parsed
+protocol: denon
+address: 2
+command: 219
+#
+name: INPUT MODE ANALOG
+type: parsed
+protocol: denon
+address: 2
+command: 220
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: denon
+address: 2
+command: 221
+#
+name: STATUS
+type: parsed
+protocol: denon
+address: 2
+command: 222
+#
+name: INFO / OSD
+type: parsed
+protocol: denon
+address: 2
+command: 223
+#
+name: ENTER / SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 224
+#
+name: ALL POWER ON
+type: parsed
+protocol: denon
+address: 2
+command: 225
+#
+name: ALL POWER OFF
+type: parsed
+protocol: denon
+address: 2
+command: 226
+#
+name: INPUT DVD
+type: parsed
+protocol: denon
+address: 2
+command: 227
+#
+name: SURROUND MODE STANDA
+type: parsed
+protocol: denon
+address: 2
+command: 228
+#
+name: SW SPEAKER LEVEL DOW
+type: parsed
+protocol: denon
+address: 2
+command: 229
+#
+name: SURROUND MODE DSP SI
+type: parsed
+protocol: denon
+address: 2
+command: 230
+#
+name: SB/SBL SPEAKER LEVEL
+type: parsed
+protocol: denon
+address: 2
+command: 231
+#
+name: AMP DELAY V
+type: parsed
+protocol: denon
+address: 2
+command: 232
+#
+name: AMP DELAY ^
+type: parsed
+protocol: denon
+address: 2
+command: 233
+#
+name: TEST TONE
+type: parsed
+protocol: denon
+address: 2
+command: 234
+#
+name: SB/SBL SPEAKER LEVEL
+type: parsed
+protocol: denon
+address: 2
+command: 235
+#
+name: SUBWOOFER LEVEL UP
+type: parsed
+protocol: denon
+address: 2
+command: 236
+#
+name: SPEAKER
+type: parsed
+protocol: denon
+address: 2
+command: 237
+#
+name: SP-A, FRONT
+type: parsed
+protocol: denon
+address: 2
+command: 238
+#
+name: SP-B, FRONT
+type: parsed
+protocol: denon
+address: 2
+command: 239
+#
+name: MUTING / MUTE TOGGLE
+type: parsed
+protocol: denon
+address: 2
+command: 240
+#
+name: VOLUME UP
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: VOLUME DOWN
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#
+name: SL SPEAKER LEVEL UP
+type: parsed
+protocol: denon
+address: 2
+command: 243
+#
+name: SL SPEAKER LEVEL DOW
+type: parsed
+protocol: denon
+address: 2
+command: 244
+#
+name: CENTER SPEAKER LEVEL
+type: parsed
+protocol: denon
+address: 2
+command: 245
+#
+name: CENTER SPEAKER LEVEL
+type: parsed
+protocol: denon
+address: 2
+command: 246
+#
+name: SBR SPEAKER LEVEL UP
+type: parsed
+protocol: denon
+address: 2
+command: 247
+#
+name: SBR SPEAKER LEVEL DO
+type: parsed
+protocol: denon
+address: 2
+command: 248
+#
+name: TONE CONTROL OFF / D
+type: parsed
+protocol: denon
+address: 2
+command: 249
+#
+name: TONE CONTROL ON / DE
+type: parsed
+protocol: denon
+address: 2
+command: 250
+#
+name: SB SPEAKER MATRIX ON
+type: parsed
+protocol: denon
+address: 2
+command: 251
+#
+name: SB SPEAKER MATRIX OF
+type: parsed
+protocol: denon
+address: 2
+command: 252
+#
+name: SB SPEAKER OFF
+type: parsed
+protocol: denon
+address: 2
+command: 253
+#
+name: AMP K-O
+type: parsed
+protocol: denon
+address: 2
+command: 254
+#

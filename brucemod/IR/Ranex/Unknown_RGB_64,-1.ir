@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_R
+type: parsed
+protocol: nec
+address: 64
+command: 1
+#
+name: KEY_G
+type: parsed
+protocol: nec
+address: 64
+command: 2
+#
+name: KEY_B
+type: parsed
+protocol: nec
+address: 64
+command: 3
+#
+name: R1
+type: parsed
+protocol: nec
+address: 64
+command: 4
+#
+name: G1
+type: parsed
+protocol: nec
+address: 64
+command: 5
+#
+name: B1
+type: parsed
+protocol: nec
+address: 64
+command: 6
+#
+name: R2
+type: parsed
+protocol: nec
+address: 64
+command: 7
+#
+name: G2
+type: parsed
+protocol: nec
+address: 64
+command: 8
+#
+name: B2
+type: parsed
+protocol: nec
+address: 64
+command: 9
+#
+name: R3
+type: parsed
+protocol: nec
+address: 64
+command: 10
+#
+name: G3
+type: parsed
+protocol: nec
+address: 64
+command: 11
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 64
+command: 12
+#
+name: R4
+type: parsed
+protocol: nec
+address: 64
+command: 13
+#
+name: G4
+type: parsed
+protocol: nec
+address: 64
+command: 14
+#
+name: Strobe
+type: parsed
+protocol: nec
+address: 64
+command: 15
+#
+name: Smooth
+type: parsed
+protocol: nec
+address: 64
+command: 16
+#
+name: Flash
+type: parsed
+protocol: nec
+address: 64
+command: 17
+#
+name: Fade
+type: parsed
+protocol: nec
+address: 64
+command: 19
+#
+name: OFF
+type: parsed
+protocol: nec
+address: 64
+command: 21
+#
+name: B3
+type: parsed
+protocol: nec
+address: 64
+command: 23
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 64
+command: 24
+#
+name: KEY_W
+type: parsed
+protocol: nec
+address: 64
+command: 25
+#
+name: L4
+type: parsed
+protocol: nec
+address: 64
+command: 26
+#
+name: L2
+type: parsed
+protocol: nec
+address: 64
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 64
+command: 28
+#
+name: B4
+type: parsed
+protocol: nec
+address: 64
+command: 29
+#
+name: L3
+type: parsed
+protocol: nec
+address: 64
+command: 30
+#
+name: L1
+type: parsed
+protocol: nec
+address: 64
+command: 31
+#

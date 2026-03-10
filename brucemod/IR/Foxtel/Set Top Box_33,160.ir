@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 0
+#
+name: 1
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 1
+#
+name: 2
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 2
+#
+name: 3
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 3
+#
+name: 4
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 4
+#
+name: 5
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 5
+#
+name: 6
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 6
+#
+name: 7
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 7
+#
+name: 8
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 8
+#
+name: 9
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 9
+#
+name: POWER
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 13
+#
+name: I
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 17
+#
+name: CHANNEL +
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 32
+#
+name: CHANNEL -
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 33
+#
+name: AV
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 56
+#
+name: SETUP
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 84
+#
+name: CURSOR UP
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 88
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 89
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 90
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 91
+#
+name: SELECT
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 92
+#
+name: RED
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 109
+#
+name: GREEN
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 110
+#
+name: YELLOW
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 111
+#
+name: BLUE
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 112
+#
+name: HELP
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 129
+#
+name: BACK
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 131
+#
+name: FOXTEL
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 142
+#
+name: TV GUIDE
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 204
+#
+name: BOX OFFICE
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 213
+#
+name: PLANNER
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 244
+#
+name: ACTIVE
+type: parsed
+protocol: Nokia32
+address: 33.160
+command: 253
+#

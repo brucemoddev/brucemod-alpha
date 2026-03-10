@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 0
+#
+name: SCAN <<
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 2
+#
+name: SLOW SEARCH <<
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 2
+#
+name: SCAN >>
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 3
+#
+name: SLOW SEARCH >>
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 3
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 6
+#
+name: AUDIO
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 51
+#
+name: CURSOR UP
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 52
+#
+name: UP/ON
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 52
+#
+name: CURSOR DOWN
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 53
+#
+name: DOWN/OFF
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 53
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 54
+#
+name: RIGHT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 54
+#
+name: CURSOR LEFT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 55
+#
+name: LEFT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 55
+#
+name: REPEAT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 71
+#
+name: A-B REPEAT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 72
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 87
+#
+name: CLEAR
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 128
+#
+name: DISC MANAGER
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 161
+#
+name: DISC
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 164
+#
+name: TITLE
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 171
+#
+name: MARKER
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 172
+#
+name: ANGLE
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 173
+#
+name: SUBTITLE
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 174
+#
+name: SETUP
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 181
+#
+name: PLAY MODE
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 187
+#
+name: MENU
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 192
+#
+name: EXIT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 196
+#
+name: RETURN
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 196
+#
+name: ENTER
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 198
+#
+name: SELECT
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 198
+#
+name: DISC SKIP
+type: parsed
+protocol: panasonic
+address: 160.34
+command: 235
+#

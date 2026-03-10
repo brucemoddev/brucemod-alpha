@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 115
+command: 1
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 2
+#
+name: EXIT
+type: parsed
+protocol: jvc
+address: 115
+command: 3
+#
+name: PWR ON
+type: parsed
+protocol: jvc
+address: 115
+command: 5
+#
+name: PWR OFF
+type: parsed
+protocol: jvc
+address: 115
+command: 6
+#
+name: HIDE
+type: parsed
+protocol: jvc
+address: 115
+command: 29
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 115
+command: 46
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 115
+command: 52
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 115
+command: 54
+#
+name: INPUT VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 75
+#
+name: INPUT S-VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 76
+#
+name: INPUT COMPONENT
+type: parsed
+protocol: jvc
+address: 115
+command: 77
+#
+name: TEST
+type: parsed
+protocol: jvc
+address: 115
+command: 89
+#
+name: CINEMA 'C'
+type: parsed
+protocol: jvc
+address: 115
+command: 105
+#
+name: NATURAL 'N'
+type: parsed
+protocol: jvc
+address: 115
+command: 106
+#
+name: DYNAMIC 'D'
+type: parsed
+protocol: jvc
+address: 115
+command: 107
+#
+name: USER 1
+type: parsed
+protocol: jvc
+address: 115
+command: 108
+#
+name: USER 2
+type: parsed
+protocol: jvc
+address: 115
+command: 109
+#
+name: USER 3
+type: parsed
+protocol: jvc
+address: 115
+command: 110
+#
+name: HDMI-1
+type: parsed
+protocol: jvc
+address: 115
+command: 112
+#
+name: HDMI-2
+type: parsed
+protocol: jvc
+address: 115
+command: 113
+#
+name: INFO
+type: parsed
+protocol: jvc
+address: 115
+command: 116
+#
+name: COLOR TEMP
+type: parsed
+protocol: jvc
+address: 115
+command: 118
+#
+name: ASPECT
+type: parsed
+protocol: jvc
+address: 115
+command: 119
+#
+name: CONTRAST +
+type: parsed
+protocol: jvc
+address: 115
+command: 120
+#
+name: CONTRAST -
+type: parsed
+protocol: jvc
+address: 115
+command: 121
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: jvc
+address: 115
+command: 122
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: jvc
+address: 115
+command: 123
+#
+name: COLOR+
+type: parsed
+protocol: jvc
+address: 115
+command: 124
+#
+name: COLOR-
+type: parsed
+protocol: jvc
+address: 115
+command: 125
+#
+name: SHARP+
+type: parsed
+protocol: jvc
+address: 115
+command: 126
+#
+name: SHARP-
+type: parsed
+protocol: jvc
+address: 115
+command: 127
+#

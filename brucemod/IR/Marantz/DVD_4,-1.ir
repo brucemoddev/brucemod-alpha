@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc6
+address: 4
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc6
+address: 4
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc6
+address: 4
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc6
+address: 4
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc6
+address: 4
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc6
+address: 4
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc6
+address: 4
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc6
+address: 4
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc6
+address: 4
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc6
+address: 4
+command: 9
+#
+name: POWER
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 15
+#
+name: DIMMER
+type: parsed
+protocol: rc6
+address: 4
+command: 19
+#
+name: RANDOM
+type: parsed
+protocol: rc6
+address: 4
+command: 28
+#
+name: REPEAT
+type: parsed
+protocol: rc6
+address: 4
+command: 29
+#
+name: CHAPTER +
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: CHAPTER -
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: FOWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: REWIND
+type: parsed
+protocol: rc6
+address: 4
+command: 41
+#
+name: PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: CLEAR
+type: parsed
+protocol: rc6
+address: 4
+command: 58
+#
+name: A-B
+type: parsed
+protocol: rc6
+address: 4
+command: 59
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: rc6
+address: 4
+command: 66
+#
+name: PROGRAM
+type: parsed
+protocol: rc6
+address: 4
+command: 69
+#
+name: SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: AUDIO
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: S.MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 84
+#
+name: UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: ENTER
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: TOP MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: +10
+type: parsed
+protocol: rc6
+address: 4
+command: 120
+#
+name: SETUP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: RETURN
+type: parsed
+protocol: rc6
+address: 4
+command: 131
+#
+name: ANGLE
+type: parsed
+protocol: rc6
+address: 4
+command: 133
+#
+name: VIDEO ADJUST
+type: parsed
+protocol: rc6
+address: 4
+command: 150
+#
+name: SEARCH
+type: parsed
+protocol: rc6
+address: 4
+command: 200
+#
+name: PAGE
+type: parsed
+protocol: rc6
+address: 4
+command: 202
+#
+name: CONDITION
+type: parsed
+protocol: rc6
+address: 4
+command: 204
+#
+name: MARKER
+type: parsed
+protocol: rc6
+address: 4
+command: 238
+#
+name: ZOOM
+type: parsed
+protocol: rc6
+address: 4
+command: 247
+#
+name: VIDEO ON/OFF
+type: parsed
+protocol: rc6
+address: 4
+command: 255
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SURR:EX/ES/PLII
+type: parsed
+protocol: jvc_48
+address: 34.84
+command: 16
+#
+name: DIMMER
+type: parsed
+protocol: jvc_48
+address: 34.84
+command: 145
+#

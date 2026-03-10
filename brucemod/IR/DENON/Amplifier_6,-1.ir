@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VDP POWER
+type: parsed
+protocol: denon
+address: 6
+command: 129
+#
+name: VDP1 POWER
+type: parsed
+protocol: denon
+address: 6
+command: 129
+#
+name: VDP STOP []
+type: parsed
+protocol: denon
+address: 6
+command: 131
+#
+name: VDP1 STOP []
+type: parsed
+protocol: denon
+address: 6
+command: 131
+#
+name: VDP PLAY >
+type: parsed
+protocol: denon
+address: 6
+command: 132
+#
+name: VDP1 PLAY >
+type: parsed
+protocol: denon
+address: 6
+command: 132
+#
+name: VDP PAUSE 
+type: parsed
+protocol: denon
+address: 6
+command: 133
+#
+name: VDP1 PAUSE 
+type: parsed
+protocol: denon
+address: 6
+command: 133
+#
+name: VDP SEARCH >>
+type: parsed
+protocol: denon
+address: 6
+command: 134
+#
+name: VDP1 SRCH >>
+type: parsed
+protocol: denon
+address: 6
+command: 134
+#
+name: VDP SEARCH <<
+type: parsed
+protocol: denon
+address: 6
+command: 135
+#
+name: VDP1 SRCH <<
+type: parsed
+protocol: denon
+address: 6
+command: 135
+#
+name: VDP FF >>
+type: parsed
+protocol: denon
+address: 6
+command: 136
+#
+name: VDP1 FF >>
+type: parsed
+protocol: denon
+address: 6
+command: 136
+#
+name: VDP REW <<
+type: parsed
+protocol: denon
+address: 6
+command: 137
+#
+name: VDP1 REW <<
+type: parsed
+protocol: denon
+address: 6
+command: 137
+#
+name: VDP1 DISPLAY
+type: parsed
+protocol: denon
+address: 6
+command: 147
+#

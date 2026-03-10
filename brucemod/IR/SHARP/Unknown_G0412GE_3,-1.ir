@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: C-LOCK
+type: parsed
+protocol: sharp_1
+address: 3
+command: 13
+#
+name: KEY_TIME
+type: parsed
+protocol: sharp_1
+address: 3
+command: 14
+#
+name: KEY_RECORD
+type: parsed
+protocol: sharp_1
+address: 3
+command: 15
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sharp_1
+address: 3
+command: 17
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sharp_1
+address: 3
+command: 18
+#
+name: OPERATE
+type: parsed
+protocol: sharp_1
+address: 3
+command: 22
+#
+name: KEY_MUTE
+type: parsed
+protocol: sharp_1
+address: 3
+command: 23
+#
+name: TIMER_ON_OFF
+type: parsed
+protocol: sharp_1
+address: 3
+command: 25
+#
+name: PROG
+type: parsed
+protocol: sharp_1
+address: 3
+command: 29
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sharp_1
+address: 3
+command: 32
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sharp_1
+address: 3
+command: 33
+#
+name: KEY_PLAY
+type: parsed
+protocol: sharp_1
+address: 3
+command: 34
+#
+name: REV
+type: parsed
+protocol: sharp_1
+address: 3
+command: 35
+#
+name: PAUSE_STILL
+type: parsed
+protocol: sharp_1
+address: 3
+command: 37
+#
+name: KEY_STOP
+type: parsed
+protocol: sharp_1
+address: 3
+command: 39
+#
+name: KEY_RECORD
+type: parsed
+protocol: sharp_1
+address: 3
+command: 40
+#
+name: KEY_TIME
+type: parsed
+protocol: sharp_1
+address: 3
+command: 44
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: sharp_1
+address: 3
+command: 51
+#
+name: KEY_SEARCH
+type: parsed
+protocol: sharp_1
+address: 3
+command: 55
+#
+name: MEMORY
+type: parsed
+protocol: sharp_1
+address: 3
+command: 131
+#
+name: TRACKING_UP
+type: parsed
+protocol: sharp_1
+address: 3
+command: 133
+#
+name: TRACKING_DOWN
+type: parsed
+protocol: sharp_1
+address: 3
+command: 134
+#
+name: DISPLAY
+type: parsed
+protocol: sharp_1
+address: 3
+command: 140
+#

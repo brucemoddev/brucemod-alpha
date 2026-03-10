@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: STOP
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: PLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: Proton
+address: 21
+command: 15
+#
+name: REWIND <<
+type: parsed
+protocol: Proton
+address: 21
+command: 16
+#
+name: PAUSE
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: RECORD OTR
+type: parsed
+protocol: Proton
+address: 21
+command: 18
+#
+name: ATR
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: VCR POWER
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: TV/VCR
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: CH TRACK +
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: CH TRACK -
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: 100
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: SPEED
+type: parsed
+protocol: Proton
+address: 21
+command: 27
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 29
+#
+name: CM SKIP
+type: parsed
+protocol: Proton
+address: 21
+command: 30
+#
+name: CHILD LOCK
+type: parsed
+protocol: Proton
+address: 21
+command: 31
+#
+name: EJECT
+type: parsed
+protocol: Proton
+address: 21
+command: 33
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 21
+command: 34
+#
+name: CLEAR
+type: parsed
+protocol: Proton
+address: 21
+command: 41
+#
+name: SLOW -
+type: parsed
+protocol: Proton
+address: 21
+command: 49
+#
+name: INDEX +
+type: parsed
+protocol: Proton
+address: 21
+command: 51
+#
+name: SLOW +
+type: parsed
+protocol: Proton
+address: 21
+command: 53
+#
+name: INPUT
+type: parsed
+protocol: Proton
+address: 21
+command: 54
+#
+name: PROGRAM
+type: parsed
+protocol: Proton
+address: 21
+command: 57
+#
+name: INDEX -
+type: parsed
+protocol: Proton
+address: 21
+command: 63
+#

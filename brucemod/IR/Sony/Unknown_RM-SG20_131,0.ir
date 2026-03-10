@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.0
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131.0
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131.0
+command: 3
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 131.0
+command: 5
+#
+name: Band
+type: parsed
+protocol: nec
+address: 131.0
+command: 7
+#
+name: Phono
+type: parsed
+protocol: nec
+address: 131.0
+command: 11
+#
+name: Preset+
+type: parsed
+protocol: nec
+address: 131.0
+command: 76
+#
+name: Preset-
+type: parsed
+protocol: nec
+address: 131.0
+command: 77
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.0
+command: 83
+#
+name: DBFB
+type: parsed
+protocol: nec
+address: 131.0
+command: 84
+#
+name: PresetEq
+type: parsed
+protocol: nec
+address: 131.0
+command: 85
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 131.0
+command: 93
+#
+name: Program
+type: parsed
+protocol: nec
+address: 131.0
+command: 140
+#
+name: Shuffle
+type: parsed
+protocol: nec
+address: 131.0
+command: 141
+#
+name: MScan
+type: parsed
+protocol: nec
+address: 131.0
+command: 142
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 131.0
+command: 146
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 131.0
+command: 147
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 131.0
+command: 148
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 131.0
+command: 149
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 131.0
+command: 154
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 131.0
+command: 155
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 131.0
+command: 156
+#
+name: Discskip
+type: parsed
+protocol: nec
+address: 131.0
+command: 192
+#

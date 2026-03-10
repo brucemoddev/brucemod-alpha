@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: cd_stop
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 128
+#
+name: KEY_AGAIN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 129
+#
+name: random
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 130
+#
+name: KEY_BACK
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 132
+#
+name: KEY_NEXT
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 133
+#
+name: cd_play
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 135
+#
+name: program
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 139
+#
+name: KEY_CANCEL
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 141
+#
+name: display
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 143
+#
+name: KEY_1
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 144
+#
+name: KEY_2
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 145
+#
+name: KEY_3
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 146
+#
+name: KEY_4
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 147
+#
+name: KEY_5
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 148
+#
+name: KEY_6
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 149
+#
+name: KEY_7
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 150
+#
+name: KEY_8
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 151
+#
+name: KEY_9
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 152
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 159
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 159
+#
+name: tape_stop
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 160
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 162
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 163
+#
+name: tape_record
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 164
+#
+name: tape_play
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 166
+#
+name: rev_mode
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 174
+#
+name: counter_reset
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 175
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 176
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 177
+#
+name: tuner_band
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 184
+#
+name: KEY_SLEEP
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 188
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 191
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 191
+#
+name: preset_eq
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 217
+#
+name: st-mono
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 228
+#
+name: tuning+
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 233
+#
+name: tuning-
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 234
+#
+name: bp
+type: parsed
+protocol: panasonic
+address: 160.194
+command: 239
+#

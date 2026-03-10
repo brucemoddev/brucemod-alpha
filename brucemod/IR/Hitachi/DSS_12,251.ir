@@ -1,0 +1,657 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DSS2 CH ^
+type: parsed
+protocol: nec1
+address: 12.251
+command: 2
+#
+name: DSS2 CH V
+type: parsed
+protocol: nec1
+address: 12.251
+command: 3
+#
+name: DSS2 0 (&!/)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 4
+#
+name: DSS2 1 (ABC)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 5
+#
+name: DSS2 2 (DEF)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 6
+#
+name: DSS2 3 (GHI)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 7
+#
+name: DSS2 4 (JKL)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 8
+#
+name: DSS2 5 (MNO)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 9
+#
+name: DSS2 6 (PQR)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 10
+#
+name: DSS2 7 (STU)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 11
+#
+name: DSS2 8 (VWX)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 12
+#
+name: DSS2 9 (YZ)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 13
+#
+name: ACTION
+type: parsed
+protocol: nec1
+address: 12.251
+command: 14
+#
+name: DSS2 EXIT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 15
+#
+name: DSS2 V
+type: parsed
+protocol: nec1
+address: 12.251
+command: 16
+#
+name: DSS2 FAV
+type: parsed
+protocol: nec1
+address: 12.251
+command: 17
+#
+name: DSS2 GUIDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 18
+#
+name: DSS2 INFO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 19
+#
+name: DSS2 <
+type: parsed
+protocol: nec1
+address: 12.251
+command: 20
+#
+name: DSS2 POWER
+type: parsed
+protocol: nec1
+address: 12.251
+command: 21
+#
+name: DSS2 LAST CH
+type: parsed
+protocol: nec1
+address: 12.251
+command: 22
+#
+name: DSS2 >
+type: parsed
+protocol: nec1
+address: 12.251
+command: 23
+#
+name: DSS2 SELECT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 24
+#
+name: DSS2 ^
+type: parsed
+protocol: nec1
+address: 12.251
+command: 25
+#
+name: DSS2 SVCS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 105
+#
+name: DSS2 TRIANGLE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 106
+#
+name: DSS2 CIRCLE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 107
+#
+name: DSS2 SQUARE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 108
+#
+name: DSS2 MOVIES
+type: parsed
+protocol: nec1
+address: 12.251
+command: 109
+#
+name: DSS2 SPORTS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 110
+#
+name: DSS2 NEWS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 111
+#
+name: DSS2 MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 112
+#
+name: DSS2 ALPHA
+type: parsed
+protocol: nec1
+address: 12.251
+command: 117
+#
+name: DSS2 SCHED
+type: parsed
+protocol: nec1
+address: 12.251
+command: 118
+#
+name: DSS2 QT1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 119
+#
+name: DSS2 QT2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 120
+#
+name: DSS2 QT3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 121
+#
+name: DSS2 QT4
+type: parsed
+protocol: nec1
+address: 12.251
+command: 122
+#
+name: DSS2 QT5
+type: parsed
+protocol: nec1
+address: 12.251
+command: 123
+#
+name: DSS2 QT6
+type: parsed
+protocol: nec1
+address: 12.251
+command: 124
+#
+name: DSS2 QT7
+type: parsed
+protocol: nec1
+address: 12.251
+command: 125
+#
+name: DSS2 QT8
+type: parsed
+protocol: nec1
+address: 12.251
+command: 126
+#
+name: DSS2 QT9
+type: parsed
+protocol: nec1
+address: 12.251
+command: 127
+#
+name: DSS1 INPUT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 129
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 12.251
+command: 130
+#
+name: DSS1 CH ^
+type: parsed
+protocol: nec1
+address: 12.251
+command: 130
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 12.251
+command: 131
+#
+name: DSS1 CH V
+type: parsed
+protocol: nec1
+address: 12.251
+command: 131
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 12.251
+command: 132
+#
+name: DSS1 0 (*!/)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 132
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 133
+#
+name: DSS1 1 (ABC)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 133
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 134
+#
+name: DSS1 2 (DEF)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 134
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 135
+#
+name: DSS1 3 (GHI)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 135
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 12.251
+command: 136
+#
+name: DSS1 4 (JKL)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 136
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 12.251
+command: 137
+#
+name: DSS1 5 (MNO)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 137
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 12.251
+command: 138
+#
+name: DSS1 6 (PQR)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 138
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 12.251
+command: 139
+#
+name: DSS1 7 (STU)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 139
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 12.251
+command: 140
+#
+name: DSS1 8 (VWX)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 140
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 12.251
+command: 141
+#
+name: DSS1 9 (YZ)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 141
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 143
+#
+name: DSS1 EXIT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 143
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 144
+#
+name: DSS1 V
+type: parsed
+protocol: nec1
+address: 12.251
+command: 144
+#
+name: FAV (LIST)
+type: parsed
+protocol: nec1
+address: 12.251
+command: 145
+#
+name: DSS1 FAV
+type: parsed
+protocol: nec1
+address: 12.251
+command: 145
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 146
+#
+name: DSS1 GUIDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 146
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 147
+#
+name: DSS1 INFO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 147
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 148
+#
+name: DSS1 <
+type: parsed
+protocol: nec1
+address: 12.251
+command: 148
+#
+name: DSS1 POWER
+type: parsed
+protocol: nec1
+address: 12.251
+command: 149
+#
+name: LAST CHAN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 150
+#
+name: DSS1 LAST CH
+type: parsed
+protocol: nec1
+address: 12.251
+command: 150
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 151
+#
+name: DSS1 >
+type: parsed
+protocol: nec1
+address: 12.251
+command: 151
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 152
+#
+name: DSS1 SELECT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 152
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 153
+#
+name: DSS1 ^
+type: parsed
+protocol: nec1
+address: 12.251
+command: 153
+#
+name: DSS1 SVCS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 233
+#
+name: DSS1 TRIANGLE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 234
+#
+name: DSS1 CIRCLE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 235
+#
+name: DSS1 SQUARE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 236
+#
+name: DSS1 MOVIES
+type: parsed
+protocol: nec1
+address: 12.251
+command: 237
+#
+name: DSS1 SPORTS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 238
+#
+name: DSS1 NEWS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 239
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 240
+#
+name: DSS1 MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 240
+#
+name: DSS1 ALPHA
+type: parsed
+protocol: nec1
+address: 12.251
+command: 245
+#
+name: DSS1 SCHED
+type: parsed
+protocol: nec1
+address: 12.251
+command: 246
+#
+name: DSS1 QT1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 247
+#
+name: DSS1 QT2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 248
+#
+name: DSS1 QT3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 249
+#
+name: DSS1 QT4
+type: parsed
+protocol: nec1
+address: 12.251
+command: 250
+#
+name: DSS1 QT5
+type: parsed
+protocol: nec1
+address: 12.251
+command: 251
+#
+name: DSS1 QT6
+type: parsed
+protocol: nec1
+address: 12.251
+command: 252
+#
+name: DSS1 QT7
+type: parsed
+protocol: nec1
+address: 12.251
+command: 253
+#
+name: DSS1 QT8
+type: parsed
+protocol: nec1
+address: 12.251
+command: 254
+#
+name: DSS1 QT9
+type: parsed
+protocol: nec1
+address: 12.251
+command: 255
+#

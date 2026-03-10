@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME -
+type: parsed
+protocol: xmp_1
+address: 11.0
+command: 12
+#

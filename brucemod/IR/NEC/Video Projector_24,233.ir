@@ -1,0 +1,771 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 3
+#
+name: RGB
+type: parsed
+protocol: nec1
+address: 24.233
+command: 4
+#
+name: RGB1
+type: parsed
+protocol: nec1
+address: 24.233
+command: 4
+#
+name: S-VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 5
+#
+name: RGB2
+type: parsed
+protocol: nec1
+address: 24.233
+command: 5
+#
+name: SET UP
+type: parsed
+protocol: nec1
+address: 24.233
+command: 6
+#
+name: SET UP (ON SCRN MGR)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 6
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 24.233
+command: 7
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 24.233
+command: 8
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 24.233
+command: 8
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 24.233
+command: 8
+#
+name: ZOOM W
+type: parsed
+protocol: nec1
+address: 24.233
+command: 9
+#
+name: ZOOM ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 9
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 9
+#
+name: ZOOM T
+type: parsed
+protocol: nec1
+address: 24.233
+command: 10
+#
+name: ZOOM V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 10
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 10
+#
+name: FOCUS +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 11
+#
+name: FOCUS ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 11
+#
+name: FOCUS -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 12
+#
+name: FOCUS V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 12
+#
+name: CONTRAST ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 13
+#
+name: CONTRAST V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 14
+#
+name: BRIGHT ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 15
+#
+name: BRIGHT V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 16
+#
+name: DISPLAY MUTE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 17
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 24.233
+command: 20
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 24.233
+command: 20
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 24.233
+command: 21
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 24.233
+command: 22
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 24.233
+command: 23
+#
+name: MENU L-CLICK (UNDER)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 23
+#
+name: 1 (ABC)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 24
+#
+name: 2 (DEF)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 25
+#
+name: 3 (GHI)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 26
+#
+name: 4 (JKL)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 27
+#
+name: 5 (MNO)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 28
+#
+name: 6 (PQR)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 29
+#
+name: 7 (STU)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 30
+#
+name: 8 (VWX)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 31
+#
+name: POSITION MOUSE NE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 33
+#
+name: POSITION MOUSE NW
+type: parsed
+protocol: nec1
+address: 24.233
+command: 34
+#
+name: POSITION MOUSE SE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 35
+#
+name: POSITION MOUSE WEST
+type: parsed
+protocol: nec1
+address: 24.233
+command: 36
+#
+name: POSITION (OFF)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 37
+#
+name: 9 (YZ-)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 64
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 24.233
+command: 65
+#
+name: FOCUS PAT.
+type: parsed
+protocol: nec1
+address: 24.233
+command: 66
+#
+name: NORMAL
+type: parsed
+protocol: nec1
+address: 24.233
+command: 67
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 24.233
+command: 67
+#
+name: KEY LOCK
+type: parsed
+protocol: nec1
+address: 24.233
+command: 68
+#
+name: MUTE AUDIO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 69
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 24.233
+command: 70
+#
+name: MENU (ON SCREEN MGR)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 70
+#
+name: MUTE PICTURE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 71
+#
+name: PICTURE MUTE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 71
+#
+name: PIC-MUTE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 71
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 72
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 72
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 73
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 73
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 76
+#
+name: EXPAND
+type: parsed
+protocol: nec1
+address: 24.233
+command: 77
+#
+name: RGB MODE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 77
+#
+name: >+
+type: parsed
+protocol: nec1
+address: 24.233
+command: 92
+#
+name: + (ON SCREEN MGR)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 92
+#
+name: +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 92
+#
+name: MENU MOUSE EAST (+)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 92
+#
+name: <-
+type: parsed
+protocol: nec1
+address: 24.233
+command: 93
+#
+name: - (ON SCREEN MGR)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 93
+#
+name: -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 93
+#
+name: MENU MOUSE WEST (-)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 93
+#
+name: ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 94
+#
+name: POSITION ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 94
+#
+name: MENU MOUSE NORTH
+type: parsed
+protocol: nec1
+address: 24.233
+command: 94
+#
+name: V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 95
+#
+name: POSITION V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 95
+#
+name: MENU MOUSE SOUTH
+type: parsed
+protocol: nec1
+address: 24.233
+command: 95
+#
+name: CTL VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 131
+#
+name: CTL RGB
+type: parsed
+protocol: nec1
+address: 24.233
+command: 132
+#
+name: POSITION >
+type: parsed
+protocol: nec1
+address: 24.233
+command: 132
+#
+name: CTL S-VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 133
+#
+name: POSITION <
+type: parsed
+protocol: nec1
+address: 24.233
+command: 133
+#
+name: CTL SET UP
+type: parsed
+protocol: nec1
+address: 24.233
+command: 134
+#
+name: 2X/4X
+type: parsed
+protocol: nec1
+address: 24.233
+command: 135
+#
+name: CTL POWER
+type: parsed
+protocol: nec1
+address: 24.233
+command: 136
+#
+name: CTL ZOOM W
+type: parsed
+protocol: nec1
+address: 24.233
+command: 137
+#
+name: MAGNIFY REDUCE +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 137
+#
+name: CTL ZOOM T
+type: parsed
+protocol: nec1
+address: 24.233
+command: 138
+#
+name: MAGNIFY REDUCE -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 138
+#
+name: CTL FOCUS +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 139
+#
+name: CTL FOCUS -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 140
+#
+name: CTL CONTRAST ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 141
+#
+name: CTL CONTRAST V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 142
+#
+name: CTL BRIGHT ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 143
+#
+name: CTL BRIGHT V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 144
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 145
+#
+name: CTL CLEAR
+type: parsed
+protocol: nec1
+address: 24.233
+command: 149
+#
+name: CTL DISPLAY
+type: parsed
+protocol: nec1
+address: 24.233
+command: 150
+#
+name: CTL ENTER
+type: parsed
+protocol: nec1
+address: 24.233
+command: 151
+#
+name: CTL 1 (ABC)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 152
+#
+name: CTL 2 (DEF)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 153
+#
+name: CTL 3 (GHI)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 154
+#
+name: CTL 4 (JKL)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 155
+#
+name: CTL 5 (MNO)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 156
+#
+name: CTL 6 (PQR)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 157
+#
+name: CTL 7 (STU)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 158
+#
+name: CTL 8 (VWX)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 159
+#
+name: CTL 9 (YZ-)
+type: parsed
+protocol: nec1
+address: 24.233
+command: 192
+#
+name: CTL 0
+type: parsed
+protocol: nec1
+address: 24.233
+command: 193
+#
+name: CTL FOCUS PAT.
+type: parsed
+protocol: nec1
+address: 24.233
+command: 194
+#
+name: CTL NORMAL
+type: parsed
+protocol: nec1
+address: 24.233
+command: 195
+#
+name: CTL KEY LOCK
+type: parsed
+protocol: nec1
+address: 24.233
+command: 196
+#
+name: CTL MUTE AUDIO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 197
+#
+name: CTL MENU
+type: parsed
+protocol: nec1
+address: 24.233
+command: 198
+#
+name: S-VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 198
+#
+name: CTL MUTE PICTURE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 199
+#
+name: CTL VOLUME ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 200
+#
+name: CTL VOLUME V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 201
+#
+name: CTL EXPAND
+type: parsed
+protocol: nec1
+address: 24.233
+command: 205
+#
+name: CTL >+
+type: parsed
+protocol: nec1
+address: 24.233
+command: 220
+#
+name: POSITION MOUSE EAST
+type: parsed
+protocol: nec1
+address: 24.233
+command: 220
+#
+name: CTL <-
+type: parsed
+protocol: nec1
+address: 24.233
+command: 221
+#
+name: POSITION MOUSE SW
+type: parsed
+protocol: nec1
+address: 24.233
+command: 221
+#
+name: CTL ^
+type: parsed
+protocol: nec1
+address: 24.233
+command: 222
+#
+name: POSITION MOUSE NORTH
+type: parsed
+protocol: nec1
+address: 24.233
+command: 222
+#
+name: CTL V
+type: parsed
+protocol: nec1
+address: 24.233
+command: 223
+#
+name: POSITION MOUSE SOUTH
+type: parsed
+protocol: nec1
+address: 24.233
+command: 223
+#

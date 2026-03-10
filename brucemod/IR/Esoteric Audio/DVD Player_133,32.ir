@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 133.32
+command: 0
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 133.32
+command: 1
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 133.32
+command: 2
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 133.32
+command: 3
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 133.32
+command: 4
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 133.32
+command: 5
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 133.32
+command: 6
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 133.32
+command: 7
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 133.32
+command: 9
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 133.32
+command: 10
+#
+name: PREVIOUS
+type: parsed
+protocol: nec1
+address: 133.32
+command: 11
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 133.32
+command: 12
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 133.32
+command: 13
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 133.32
+command: 14
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 133.32
+command: 15
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 133.32
+command: 17
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 133.32
+command: 21
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 133.32
+command: 22
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 133.32
+command: 23
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 133.32
+command: 29
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 133.32
+command: 30
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 133.32
+command: 64
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 133.32
+command: 65
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 133.32
+command: 66
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 133.32
+command: 69
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 133.32
+command: 70
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 133.32
+command: 71
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 133.32
+command: 74
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 133.32
+command: 75
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 133.32
+command: 76
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 133.32
+command: 77
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 133.32
+command: 78
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 133.32
+command: 79
+#
+name: STEP SLOW <<
+type: parsed
+protocol: nec1
+address: 133.32
+command: 80
+#
+name: STEP SLOW >>
+type: parsed
+protocol: nec1
+address: 133.32
+command: 81
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 133.32
+command: 82
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 133.32
+command: 83
+#
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 133.32
+command: 84
+#
+name: ENTER SELECT
+type: parsed
+protocol: nec1
+address: 133.32
+command: 85
+#
+name: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 133.32
+command: 89
+#
+name: FL DIMMER
+type: parsed
+protocol: nec1
+address: 133.32
+command: 90
+#
+name: FUNCTION MEMORY
+type: parsed
+protocol: nec1
+address: 133.32
+command: 91
+#
+name: LAST MEMORY
+type: parsed
+protocol: nec1
+address: 133.32
+command: 92
+#
+name: CONDITION MEMORY
+type: parsed
+protocol: nec1
+address: 133.32
+command: 93
+#
+name: VIDEO OFF
+type: parsed
+protocol: nec1
+address: 133.32
+command: 94
+#

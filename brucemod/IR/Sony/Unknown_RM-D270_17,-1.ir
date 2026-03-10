@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CLEAR
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: ^
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: 18
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: 19
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: CONTINUE
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: SINGLE
+type: parsed
+protocol: sony12
+address: 17
+command: 30
+#
+name: PGM
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: 10
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: 11
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: 12
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: 13
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: 14
+type: parsed
+protocol: sony12
+address: 17
+command: 36
+#
+name: 15
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: 16
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: 17
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: >20
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: CHECK
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: FORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: FORWARD_slow
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: REWIND_slow
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: REWIND
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: NEXT
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: PREVIOUS
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: TIME
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: FADER
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 1
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#

@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: xmp_1
+address: 10.0
+command: 0
+#
+name: 5
+type: parsed
+protocol: xmp_1
+address: 10.0
+command: 4
+#
+name: VIDEO
+type: parsed
+protocol: xmp_1
+address: 10.0
+command: 39
+#
+name: 
+type: parsed
+protocol: xmp_1
+address: 10.0
+command: 68
+#

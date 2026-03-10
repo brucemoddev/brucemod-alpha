@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: AUX
+type: parsed
+protocol: denon
+address: 2
+command: 198
+#
+name: DBS/BS
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: TV
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: VDP
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: V.AUX
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: VCR-1
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: VCR-2
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: TAPE-1
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: DAT/TAPE-2
+type: parsed
+protocol: denon
+address: 2
+command: 211
+#
+name: MUTING
+type: parsed
+protocol: denon
+address: 2
+command: 240
+#
+name: MASTER ^
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: MASTER V
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#

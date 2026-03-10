@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: mce
+address: 1.22
+command: 1
+#
+name: 3
+type: parsed
+protocol: mce
+address: 1.22
+command: 3
+#
+name: 5
+type: parsed
+protocol: mce
+address: 1.22
+command: 5
+#
+name: 7
+type: parsed
+protocol: mce
+address: 1.22
+command: 7
+#
+name: 9
+type: parsed
+protocol: mce
+address: 1.22
+command: 9
+#
+name: VOLUME DOWN
+type: parsed
+protocol: mce
+address: 1.22
+command: 11
+#
+name: CH/PAGE DOWN
+type: parsed
+protocol: mce
+address: 1.22
+command: 14
+#
+name: PWR
+type: parsed
+protocol: mce
+address: 1.22
+command: 15
+#
+name: MODE/LAST
+type: parsed
+protocol: mce
+address: 1.22
+command: 17
+#
+name: DISC FLIP
+type: parsed
+protocol: mce
+address: 1.22
+command: 21
+#
+name: ARROW UP
+type: parsed
+protocol: mce
+address: 1.22
+command: 22
+#
+name: ARROW DOWN
+type: parsed
+protocol: mce
+address: 1.22
+command: 23
+#
+name: ARROW RIGHT
+type: parsed
+protocol: mce
+address: 1.22
+command: 25
+#
+name: INFO
+type: parsed
+protocol: mce
+address: 1.22
+command: 27
+#
+name: REWIND/BACKSPACE
+type: parsed
+protocol: mce
+address: 1.22
+command: 32
+#
+name: FF/SPACE
+type: parsed
+protocol: mce
+address: 1.22
+command: 34
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 1.22
+command: 35
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 1.22
+command: 36
+#
+name: PAUSE
+type: parsed
+protocol: mce
+address: 1.22
+command: 37
+#
+name: NEXT
+type: parsed
+protocol: mce
+address: 1.22
+command: 43
+#
+name: MUSIC
+type: parsed
+protocol: mce
+address: 1.22
+command: 44
+#
+name: PLAY (FAVORITES)
+type: parsed
+protocol: mce
+address: 1.22
+command: 46
+#
+name: MACRO
+type: parsed
+protocol: mce
+address: 1.22
+command: 49
+#

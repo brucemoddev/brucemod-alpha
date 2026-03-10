@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 134.124
+command: 1
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 134.124
+command: 2
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 134.124
+command: 3
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 134.124
+command: 4
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 134.124
+command: 5
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 134.124
+command: 6
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 134.124
+command: 7
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 134.124
+command: 8
+#
+name: RESET
+type: parsed
+protocol: nec
+address: 134.124
+command: 9
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 134.124
+command: 10
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 134.124
+command: 11
+#
+name: KEY_DISPLAYTOGGLE
+type: parsed
+protocol: nec
+address: 134.124
+command: 12
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 134.124
+command: 13
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 134.124
+command: 14
+#
+name: KEY_EPG
+type: parsed
+protocol: nec
+address: 134.124
+command: 15
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 134.124
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 134.124
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 134.124
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 134.124
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 134.124
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 134.124
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 134.124
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 134.124
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 134.124
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 134.124
+command: 25
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 134.124
+command: 26
+#
+name: CLOCK
+type: parsed
+protocol: nec
+address: 134.124
+command: 30
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 134.124
+command: 31
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MODE
+type: parsed
+protocol: nec1
+address: 182.72
+command: 3
+#

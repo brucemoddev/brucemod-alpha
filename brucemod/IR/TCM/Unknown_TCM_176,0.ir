@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 0
+#
+name: Frwd
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 4
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 5
+#
+name: KEY_PAUSE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 6
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 10
+#
+name: KEY_1
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 18
+#
+name: KEY_4
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 19
+#
+name: KEY_5
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 22
+#
+name: KEY_8
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 23
+#
+name: KEY_9
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 24
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 25
+#
+name: KEY_GREEN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 51
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 61
+#
+name: AV
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 72
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 73
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 74
+#
+name: KEY_MENU
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 128
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 130
+#
+name: KEY_BACK
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 131
+#
+name: KEY_UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 133
+#
+name: KEY_DOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 134
+#
+name: KEY_LEFT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 135
+#
+name: KEY_RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: KEY_RECORD
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 142
+#
+name: KEY_YELLOW
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 144
+#
+name: KEY_RED
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 145
+#
+name: Pink
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 148
+#
+name: KEY_BLUE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 155
+#

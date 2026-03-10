@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: EQ SLOPE
+type: parsed
+protocol: sony12
+address: 18
+command: 13
+#
+name: EQ CHANNEL
+type: parsed
+protocol: sony12
+address: 18
+command: 15
+#
+name: EQ BAND
+type: parsed
+protocol: sony12
+address: 18
+command: 32
+#
+name: EQ
+type: parsed
+protocol: sony12
+address: 18
+command: 44
+#
+name: EQ FLAT
+type: parsed
+protocol: sony12
+address: 18
+command: 63
+#
+name: TEST TONE
+type: parsed
+protocol: sony12
+address: 18
+command: 74
+#
+name: REAR VOL +
+type: parsed
+protocol: sony12
+address: 18
+command: 78
+#
+name: REAR VOL -
+type: parsed
+protocol: sony12
+address: 18
+command: 79
+#
+name: CENTER VOL +
+type: parsed
+protocol: sony12
+address: 18
+command: 84
+#
+name: CENTER VOL -
+type: parsed
+protocol: sony12
+address: 18
+command: 85
+#
+name: PRESET / USER
+type: parsed
+protocol: sony12
+address: 18
+command: 126
+#

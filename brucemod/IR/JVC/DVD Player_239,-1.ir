@@ -1,0 +1,813 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: jvc
+address: 239
+command: 64
+#
+name: STOP
+type: parsed
+protocol: jvc
+address: 239
+command: 67
+#
+name: STOP []
+type: parsed
+protocol: jvc
+address: 239
+command: 67
+#
+name: STOP/CLEAR
+type: parsed
+protocol: jvc
+address: 239
+command: 67
+#
+name: STOP / CLEAR
+type: parsed
+protocol: jvc
+address: 239
+command: 67
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: jvc
+address: 239
+command: 68
+#
+name: RETURN
+type: parsed
+protocol: jvc
+address: 239
+command: 73
+#
+name: RETURN LOOP
+type: parsed
+protocol: jvc
+address: 239
+command: 73
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 76
+#
+name: PLAY/SELECT
+type: parsed
+protocol: jvc
+address: 239
+command: 76
+#
+name: POWER ON
+type: parsed
+protocol: jvc
+address: 239
+command: 76
+#
+name: PLAY / SELECT
+type: parsed
+protocol: jvc
+address: 239
+command: 76
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 239
+command: 77
+#
+name: PAUSE / STROBE
+type: parsed
+protocol: jvc
+address: 239
+command: 77
+#
+name: DIMMER
+type: parsed
+protocol: jvc
+address: 239
+command: 81
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 84
+#
+name: REPEAT
+type: parsed
+protocol: jvc
+address: 239
+command: 91
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 239
+command: 96
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 239
+command: 97
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 239
+command: 98
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 239
+command: 99
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 239
+command: 100
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 239
+command: 101
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 239
+command: 102
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 239
+command: 103
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 239
+command: 104
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 239
+command: 105
+#
+name: PLAY/PAUSE >
+type: parsed
+protocol: jvc
+address: 239
+command: 107
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 239
+command: 109
+#
+name: 10 (0)
+type: parsed
+protocol: jvc
+address: 239
+command: 110
+#
+name: 10
+type: parsed
+protocol: jvc
+address: 239
+command: 110
+#
+name: +10
+type: parsed
+protocol: jvc
+address: 239
+command: 111
+#
+name: 10+
+type: parsed
+protocol: jvc
+address: 239
+command: 111
+#
+name: FRAME <<
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SCAN <<
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SEARCH <<
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SLOW -
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SLOW-
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SLOW MOTION -
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SEARCH << / SLOW -
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: FRAME >>
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SCAN >>
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SEARCH >>
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SLOW +
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SLOW+
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SLOW MOTION +
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SEARCH >> / SLOW +
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: SETUP
+type: parsed
+protocol: jvc
+address: 239
+command: 127
+#
+name: CHOICE
+type: parsed
+protocol: jvc
+address: 239
+command: 127
+#
+name: SCAN >>
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 144
+#
+name: JOG +
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 146
+#
+name: SCAN <<
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 152
+#
+name: JOG -
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 154
+#
+name: ZOOM +
+type: parsed
+protocol: jvc
+address: 239
+command: 174
+#
+name: ZOOM -
+type: parsed
+protocol: jvc
+address: 239
+command: 175
+#
+name: SKIP >>
+type: parsed
+protocol: jvc
+address: 239
+command: 176
+#
+name: NEXT >>
+type: parsed
+protocol: jvc
+address: 239
+command: 176
+#
+name: NEXT
+type: parsed
+protocol: jvc
+address: 239
+command: 176
+#
+name: >> NEXT
+type: parsed
+protocol: jvc
+address: 239
+command: 176
+#
+name: SKIP <<
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: PREVIOUS <<
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: PREV
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: PREVIOUS
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: << PREVIOUS
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: SLOW
+type: parsed
+protocol: jvc
+address: 239
+command: 178
+#
+name: SLOW MOTION +
+type: parsed
+protocol: jvc
+address: 239
+command: 178
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 181
+#
+name: RESUME
+type: parsed
+protocol: jvc
+address: 239
+command: 183
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 239
+command: 183
+#
+name: DIGEST
+type: parsed
+protocol: jvc
+address: 239
+command: 185
+#
+name: THUMBNAIL/LIST
+type: parsed
+protocol: jvc
+address: 239
+command: 185
+#
+name: SLOW MOTION -
+type: parsed
+protocol: jvc
+address: 239
+command: 187
+#
+name: ZOOM
+type: parsed
+protocol: jvc
+address: 239
+command: 188
+#
+name: 3D
+type: parsed
+protocol: jvc
+address: 239
+command: 189
+#
+name: SOUND EFFECT
+type: parsed
+protocol: jvc
+address: 239
+command: 189
+#
+name: 3D PHONIC
+type: parsed
+protocol: jvc
+address: 239
+command: 189
+#
+name: VFP
+type: parsed
+protocol: jvc
+address: 239
+command: 190
+#
+name: TH POS
+type: parsed
+protocol: jvc
+address: 239
+command: 190
+#
+name: VPF
+type: parsed
+protocol: jvc
+address: 239
+command: 190
+#
+name: VFP I/P
+type: parsed
+protocol: jvc
+address: 239
+command: 190
+#
+name: VPF PROGESS. SCAN
+type: parsed
+protocol: jvc
+address: 239
+command: 190
+#
+name: ON SCREEN
+type: parsed
+protocol: jvc
+address: 239
+command: 192
+#
+name: ON SCREEN DISPLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 192
+#
+name: MENU
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 193
+#
+name: DVD MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 193
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 193
+#
+name: TOP MENU
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 194
+#
+name: TITLE
+type: parsed
+protocol: jvc
+address: 239
+command: 194
+#
+name: TOP MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 194
+#
+name: AUDIO
+type: parsed
+protocol: jvc
+address: 239
+command: 200
+#
+name: AUDIO MODE
+type: parsed
+protocol: jvc
+address: 239
+command: 200
+#
+name: ANGLE
+type: parsed
+protocol: jvc
+address: 239
+command: 203
+#
+name: ANGLE SIDE EFFECT
+type: parsed
+protocol: jvc
+address: 239
+command: 203
+#
+name: SUB TITLE
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 205
+#
+name: SUB-TITLE ON/OFF
+type: parsed
+protocol: jvc
+address: 239
+command: 205
+#
+name: SUB TL
+type: parsed
+protocol: jvc
+address: 239
+command: 205
+#
+name: SUBTITLLE
+type: parsed
+protocol: jvc
+address: 239
+command: 205
+#
+name: SUBTITLE
+type: parsed
+protocol: jvc
+address: 239
+command: 205
+#
+name: SUB TITLE
+type: parsed
+protocol: jvc
+address: 239
+command: 205
+#
+name: UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: UP ^
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: CUR UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: CUSOR UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: ARROW UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: CURSOR - UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: DOWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: DOWN V
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: CUR DWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: ARROW DOWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: LEFT
+type: parsed
+protocol: jvc_two_frames
+address: 239
+command: 210
+#
+name: LEFT <
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: CUR LT
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: TOP MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: ARROW LEFT
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: RIGHT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: RIGHT >
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: CUR RT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: ARROW RIGHT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: ENTER
+type: parsed
+protocol: jvc
+address: 239
+command: 212
+#
+name: ENTER/SELECT
+type: parsed
+protocol: jvc
+address: 239
+command: 212
+#
+name: CURSOR ENTER
+type: parsed
+protocol: jvc
+address: 239
+command: 212
+#
+name: CURSOR - SELECT
+type: parsed
+protocol: jvc
+address: 239
+command: 212
+#
+name: RETURN
+type: parsed
+protocol: jvc
+address: 239
+command: 213
+#
+name: +100
+type: parsed
+protocol: jvc
+address: 239
+command: 216
+#
+name: STEP
+type: parsed
+protocol: jvc
+address: 239
+command: 218
+#
+name: PAGE
+type: parsed
+protocol: jvc
+address: 239
+command: 219
+#
+name: TITLE/GROUP
+type: parsed
+protocol: jvc
+address: 239
+command: 238
+#
+name: TITLE / GROUP
+type: parsed
+protocol: jvc
+address: 239
+command: 238
+#

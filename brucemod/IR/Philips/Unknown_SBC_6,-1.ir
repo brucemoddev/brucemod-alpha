@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 6
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 6
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 6
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 6
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 6
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 6
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 6
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 6
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 6
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 6
+command: 9
+#
+name: 10+
+type: parsed
+protocol: rc5
+address: 6
+command: 10
+#
+name: PROG+
+type: parsed
+protocol: rc5
+address: 6
+command: 32
+#
+name: PROG-
+type: parsed
+protocol: rc5
+address: 6
+command: 33
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 6
+command: 48
+#
+name: REWIND
+type: parsed
+protocol: rc5
+address: 6
+command: 50
+#
+name: FORWARD
+type: parsed
+protocol: rc5
+address: 6
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 6
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 6
+command: 54
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 6
+command: 55
+#
+name: SCART
+type: parsed
+protocol: rc5
+address: 6
+command: 56
+#
+name: PP
+type: parsed
+protocol: rc5
+address: 6
+command: 58
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 6
+command: 80
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 6
+command: 81
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 6
+command: 82
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 6
+command: 85
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 6
+command: 86
+#
+name: OK
+type: parsed
+protocol: rc5
+address: 6
+command: 87
+#

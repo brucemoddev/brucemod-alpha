@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSER UP
+type: parsed
+protocol: panasonic
+address: 27
+command: 2
+#
+name: CURSER LEFT
+type: parsed
+protocol: panasonic
+address: 27
+command: 3
+#
+name: CURSER RIGHT
+type: parsed
+protocol: panasonic
+address: 27
+command: 4
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 27
+command: 5
+#
+name: GUIDE
+type: parsed
+protocol: panasonic
+address: 27
+command: 6
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 27
+command: 7
+#
+name: INFO
+type: parsed
+protocol: panasonic
+address: 27
+command: 8
+#
+name: CURSER DOWN
+type: parsed
+protocol: panasonic
+address: 27
+command: 11
+#
+name: CURSER SELECT
+type: parsed
+protocol: panasonic
+address: 27
+command: 12
+#
+name: LAST
+type: parsed
+protocol: panasonic
+address: 27
+command: 14
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 27
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 27
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 27
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 27
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 27
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 27
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 27
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 27
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 27
+command: 24
+#
+name: LIVE TV
+type: parsed
+protocol: panasonic
+address: 27
+command: 26
+#
+name: CHANNEL +
+type: parsed
+protocol: panasonic
+address: 27
+command: 29
+#
+name: CHANNEL -
+type: parsed
+protocol: panasonic
+address: 27
+command: 30
+#
+name: FAV
+type: parsed
+protocol: panasonic
+address: 27
+command: 31
+#
+name: LIST
+type: parsed
+protocol: panasonic
+address: 27
+command: 38
+#
+name: REPLAY
+type: parsed
+protocol: panasonic
+address: 27
+command: 39
+#
+name: FWD
+type: parsed
+protocol: panasonic
+address: 27
+command: 40
+#
+name: RWD
+type: parsed
+protocol: panasonic
+address: 27
+command: 41
+#
+name: EXIT
+type: parsed
+protocol: panasonic
+address: 27
+command: 44
+#
+name: A
+type: parsed
+protocol: panasonic
+address: 27
+command: 47
+#
+name: B
+type: parsed
+protocol: panasonic
+address: 27
+command: 48
+#
+name: C
+type: parsed
+protocol: panasonic
+address: 27
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 27
+command: 51
+#
+name: STOP
+type: parsed
+protocol: panasonic
+address: 27
+command: 52
+#
+name: RECORD
+type: parsed
+protocol: panasonic
+address: 27
+command: 53
+#
+name: PAGE +
+type: parsed
+protocol: panasonic
+address: 27
+command: 54
+#
+name: PAGE -
+type: parsed
+protocol: panasonic
+address: 27
+command: 55
+#
+name: SETTINGS
+type: parsed
+protocol: panasonic
+address: 27
+command: 57
+#
+name: ASPECT
+type: parsed
+protocol: panasonic
+address: 27
+command: 58
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 27
+command: 62
+#
+name: MENU
+type: parsed
+protocol: panasonic
+address: 27
+command: 62
+#
+name: VOD
+type: parsed
+protocol: panasonic
+address: 27
+command: 62
+#

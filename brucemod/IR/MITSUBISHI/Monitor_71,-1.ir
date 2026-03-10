@@ -1,0 +1,1269 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV 1 (SUN)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: 1 (SUN)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: TV 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: TV 9
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 1
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 1
+#
+name: TV POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: COLOR +
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 4
+#
+name: EXT1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 5
+#
+name: TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 5
+#
+name: TV CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 7
+#
+name: CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 7
+#
+name: TV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 7
+#
+name: TV 2 (MON)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: 2 (MON)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: TV 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: TV 0
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 9
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 9
+#
+name: TV CH ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: CH ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: SCAN ^ (CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: SCAN ^(CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: TV CH^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: SCAN^(CH^)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: RESET
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 11
+#
+name: COLOR -
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 12
+#
+name: EXT2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 13
+#
+name: TV Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: Q.V. (QUICK VIEW)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: TV QV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: QV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: TV 3 (TUE)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: 3 (TUE)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: TV 3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: TV CH V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: CH V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: TV CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: SCAN V (CH V)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: SCAN V(CH V)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: TV CHV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: SCANV(CHV)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: EXPAND
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 19
+#
+name: TV OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: TV OFF-T/OTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: OFF-T/OTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: OFF-T
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: OFF-TV/QTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: OFF TIMER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: TV SLEEP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 23
+#
+name: TV 4 (WED)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: 4 (WED)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: TV 4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 26
+#
+name: ANT A/B
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 26
+#
+name: INPUTV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 26
+#
+name: TV DISP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: DISP (DISPLAY)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: DISP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: DATA ON SCREEN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: TV INFO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: TV 5 (THU)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: 5 (THU)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: TV 5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 34
+#
+name: VOLUME ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 34
+#
+name: CONTRAST +
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 35
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 39
+#
+name: TV 6 (FRI)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: 6 (FRI)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: TV 6
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: VOL V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 42
+#
+name: VOLUME V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 42
+#
+name: CONTRAST -
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 43
+#
+name: TV 7 (SAT)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: 7 (SAT)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: TV 7
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 50
+#
+name: MUTING
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 50
+#
+name: TINT +
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 51
+#
+name: SLOW
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 52
+#
+name: TV ENTER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 53
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 53
+#
+name: INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 54
+#
+name: TV 8 (M-F)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: 8 (M-F)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: TV 8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: ANT A/B
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 57
+#
+name: TV INPUT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: INPUT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: TV INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: VIDEO/TV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: INPUT^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: TINT -
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 59
+#
+name: NEXT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 61
+#
+name: SKIP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 61
+#
+name: INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 62
+#
+name: TV VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: TV VIDEO ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: VIDEO ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: FUNCTION VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: VIDEO^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: TV ADJ >
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: ADJ >
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: TV ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: ADJ ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: ADJ(ADJUST) ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: ADJUST^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: TV VIDEO V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 72
+#
+name: VIDEO V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 72
+#
+name: VIDEOV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 72
+#
+name: TV ADJ <
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: ADJ <
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: TV ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: ADJ V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: ADJ(ADJUST) V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: ADJUSTV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: TV EXCH V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: SQV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 78
+#
+name: TV SQV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 78
+#
+name: TV AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: TV AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: FUNCTION AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: AUDIO^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 80
+#
+name: TV MODE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: MODE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: TV MENU
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: TV AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 88
+#
+name: AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 88
+#
+name: AUDIOV
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 88
+#
+name: TV SOURCE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 95
+#
+name: SOURCE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 95
+#
+name: -2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 95
+#
+name: <
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 101
+#
+name: TV <
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 101
+#
+name: -5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 102
+#
+name: UNKNOWN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 102
+#
+name: FREEZE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 103
+#
+name: PAUSE(FREEZE)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 103
+#
+name: FREEZE(PAUSE)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 103
+#
+name: PIP FREEZE(PAUSE)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 103
+#
+name: >
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 109
+#
+name: TV >
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 109
+#
+name: TV POSITION
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 110
+#
+name: POSITION
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 110
+#
+name: -4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 110
+#
+name: REC (STARSIGHT)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 117
+#
+name: TV PIP CH ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 118
+#
+name: TV PIP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 119
+#
+name: PIP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 119
+#
+name: -1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 119
+#
+name: HOME
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 125
+#
+name: TV HOME
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 125
+#
+name: TV PIP CH V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 126
+#
+name: TV EXCH
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 127
+#
+name: EXCH
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 127
+#
+name: EXCH (EXCHANGE)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 127
+#
+name: -3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 127
+#
+name: EXT 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 128
+#
+name: MONO-CHROME
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 129
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 130
+#
+name: CONT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 131
+#
+name: EXT 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 136
+#
+name: BRIGHT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 139
+#
+name: EXT 3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 144
+#
+name: SHARPNESS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 147
+#
+name: SET +
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 148
+#
+name: VTR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 152
+#
+name: S-VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 153
+#
+name: COLOR
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 155
+#
+name: SET -
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 156
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 160
+#
+name: SEPARATE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 161
+#
+name: VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 162
+#
+name: TINT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 163
+#
+name: H.SIZE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 164
+#
+name: OVER/UNDER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 167
+#
+name: 16
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 168
+#
+name: ON GREEN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 169
+#
+name: VOL V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 170
+#
+name: BALANCE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 171
+#
+name: V.SIZE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 172
+#
+name: 64
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 176
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 178
+#
+name: TREBLE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 179
+#
+name: H.POS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 180
+#
+name: SUPERIMP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 183
+#
+name: AUTO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 184
+#
+name: RESET
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 186
+#
+name: BASS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 187
+#
+name: V.POS
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 188
+#

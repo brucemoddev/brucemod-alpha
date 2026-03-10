@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD SKIP FWD >>
+type: parsed
+protocol: denon
+address: 8
+command: 88
+#
+name: CD SKIP REV <<
+type: parsed
+protocol: denon
+address: 8
+command: 89
+#
+name: CD PLAY >
+type: parsed
+protocol: denon
+address: 8
+command: 92
+#
+name: CD PAUSE 
+type: parsed
+protocol: denon
+address: 8
+command: 93
+#
+name: CD PITCH +
+type: parsed
+protocol: denon
+address: 8
+command: 119
+#
+name: CD PITCH -
+type: parsed
+protocol: denon
+address: 8
+command: 120
+#

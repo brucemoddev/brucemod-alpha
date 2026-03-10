@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GAIN
+type: parsed
+protocol: rc5
+address: 16
+command: 10
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: BALANCE LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 27
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 27
+#
+name: PRE AMP INPUT E
+type: parsed
+protocol: rc5
+address: 16
+command: 32
+#
+name: PRE AMP INPUT F
+type: parsed
+protocol: rc5
+address: 16
+command: 33
+#
+name: S-2
+type: parsed
+protocol: rc5
+address: 16
+command: 33
+#
+name: PRE AMP INPUT A
+type: parsed
+protocol: rc5
+address: 16
+command: 34
+#
+name: PRE AMP INPUT B
+type: parsed
+protocol: rc5
+address: 16
+command: 35
+#
+name: PRE AMP INPUT C
+type: parsed
+protocol: rc5
+address: 16
+command: 36
+#
+name: B-1
+type: parsed
+protocol: rc5
+address: 16
+command: 36
+#
+name: PRE AMP INPUT D
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#
+name: B-2
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#
+name: POWER TOGGLE
+type: parsed
+protocol: rc5
+address: 16
+command: 40
+#
+name: AMP POWER
+type: parsed
+protocol: rc5
+address: 16
+command: 40
+#
+name: MTR
+type: parsed
+protocol: rc5
+address: 16
+command: 41
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 41
+#

@@ -1,0 +1,651 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony15
+address: 183
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony15
+address: 183
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony15
+address: 183
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony15
+address: 183
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony15
+address: 183
+command: 4
+#
+name: 
+type: parsed
+protocol: sony15
+address: 183
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony15
+address: 183
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony15
+address: 183
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony15
+address: 183
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony15
+address: 183
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony15
+address: 183
+command: 9
+#
+name: ALTERNATE AUDIO
+type: parsed
+protocol: sony15
+address: 183
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony15
+address: 183
+command: 11
+#
+name: ENTER/JUMP
+type: parsed
+protocol: sony15
+address: 183
+command: 11
+#
+name: CLEAR
+type: parsed
+protocol: sony15
+address: 183
+command: 15
+#
+name: CHANNEL +
+type: parsed
+protocol: sony15
+address: 183
+command: 16
+#
+name: CHANNEL -
+type: parsed
+protocol: sony15
+address: 183
+command: 17
+#
+name: POWER
+type: parsed
+protocol: sony15
+address: 183
+command: 21
+#
+name: ALTERNATE AUDIO
+type: parsed
+protocol: sony15
+address: 183
+command: 23
+#
+name: STOP
+type: parsed
+protocol: sony15
+address: 183
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony15
+address: 183
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony15
+address: 183
+command: 26
+#
+name: BACK
+type: parsed
+protocol: sony15
+address: 183
+command: 27
+#
+name: RR
+type: parsed
+protocol: sony15
+address: 183
+command: 27
+#
+name: FORWARD
+type: parsed
+protocol: sony15
+address: 183
+command: 28
+#
+name: FF
+type: parsed
+protocol: sony15
+address: 183
+command: 28
+#
+name: REC ON/OFF
+type: parsed
+protocol: sony15
+address: 183
+command: 29
+#
+name: REC
+type: parsed
+protocol: sony15
+address: 183
+command: 29
+#
+name: LIST
+type: parsed
+protocol: sony15
+address: 183
+command: 32
+#
+name: SLOW FWD
+type: parsed
+protocol: sony15
+address: 183
+command: 35
+#
+name: REPLAY
+type: parsed
+protocol: sony15
+address: 183
+command: 35
+#
+name: ADVANCE
+type: parsed
+protocol: sony15
+address: 183
+command: 39
+#
+name: JUMP
+type: parsed
+protocol: sony15
+address: 183
+command: 39
+#
+name: WINDOW
+type: parsed
+protocol: sony15
+address: 183
+command: 40
+#
+name: SEARCH
+type: parsed
+protocol: sony15
+address: 183
+command: 41
+#
+name: INFO
+type: parsed
+protocol: sony15
+address: 183
+command: 42
+#
+name: MY SHOWS
+type: parsed
+protocol: sony15
+address: 183
+command: 43
+#
+name: HELP
+type: parsed
+protocol: sony15
+address: 183
+command: 44
+#
+name: POWER ON
+type: parsed
+protocol: sony15
+address: 183
+command: 46
+#
+name: PWR ON
+type: parsed
+protocol: sony15
+address: 183
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony15
+address: 183
+command: 47
+#
+name: OUTPUT CONTROL
+type: parsed
+protocol: sony15
+address: 183
+command: 50
+#
+name: OUTPUT
+type: parsed
+protocol: sony15
+address: 183
+command: 50
+#
+name: 
+type: parsed
+protocol: sony15
+address: 183
+command: 50
+#
+name: FORMAT
+type: parsed
+protocol: sony15
+address: 183
+command: 50
+#
+name: SIGNAL
+type: parsed
+protocol: sony15
+address: 183
+command: 53
+#
+name: MENU
+type: parsed
+protocol: sony15
+address: 183
+command: 56
+#
+name: DISPLAY
+type: parsed
+protocol: sony15
+address: 183
+command: 58
+#
+name: CC
+type: parsed
+protocol: sony15
+address: 183
+command: 59
+#
+name: CLOSED CAPTION
+type: parsed
+protocol: sony15
+address: 183
+command: 59
+#
+name: WIDE MODE
+type: parsed
+protocol: sony15
+address: 183
+command: 61
+#
+name: INDEX
+type: parsed
+protocol: sony15
+address: 183
+command: 63
+#
+name: PIP (ON)
+type: parsed
+protocol: sony15
+address: 183
+command: 64
+#
+name: PIP
+type: parsed
+protocol: sony15
+address: 183
+command: 64
+#
+name: PIP-CH+
+type: parsed
+protocol: sony15
+address: 183
+command: 65
+#
+name: PIP-CH--
+type: parsed
+protocol: sony15
+address: 183
+command: 66
+#
+name: PIP-SWAP
+type: parsed
+protocol: sony15
+address: 183
+command: 67
+#
+name: CATEGORY
+type: parsed
+protocol: sony15
+address: 183
+command: 68
+#
+name: CATAGORY
+type: parsed
+protocol: sony15
+address: 183
+command: 68
+#
+name: PIP-POSITION
+type: parsed
+protocol: sony15
+address: 183
+command: 70
+#
+name: PIP-AUDIO
+type: parsed
+protocol: sony15
+address: 183
+command: 71
+#
+name: PIP-OFF
+type: parsed
+protocol: sony15
+address: 183
+command: 72
+#
+name: DOT
+type: parsed
+protocol: sony15
+address: 183
+command: 74
+#
+name: .
+type: parsed
+protocol: sony15
+address: 183
+command: 74
+#
+name: *
+type: parsed
+protocol: sony15
+address: 183
+command: 74
+#
+name: .
+type: parsed
+protocol: sony15
+address: 183
+command: 74
+#
+name: RECENT
+type: parsed
+protocol: sony15
+address: 183
+command: 75
+#
+name: BACK
+type: parsed
+protocol: sony15
+address: 183
+command: 76
+#
+name: SCROLL >
+type: parsed
+protocol: sony15
+address: 183
+command: 88
+#
+name: SCROLL<
+type: parsed
+protocol: sony15
+address: 183
+command: 89
+#
+name: REPLAY
+type: parsed
+protocol: sony15
+address: 183
+command: 91
+#
+name: FREEZE
+type: parsed
+protocol: sony15
+address: 183
+command: 92
+#
+name: TV/WEB
+type: parsed
+protocol: sony15
+address: 183
+command: 92
+#
+name: I(INTERACTIVE)
+type: parsed
+protocol: sony15
+address: 183
+command: 96
+#
+name: OPTIONS
+type: parsed
+protocol: sony15
+address: 183
+command: 97
+#
+name: HOME
+type: parsed
+protocol: sony15
+address: 183
+command: 98
+#
+name: EXIT
+type: parsed
+protocol: sony15
+address: 183
+command: 99
+#
+name: LIVE TV
+type: parsed
+protocol: sony15
+address: 183
+command: 99
+#
+name: TIVO
+type: parsed
+protocol: sony15
+address: 183
+command: 100
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony15
+address: 183
+command: 104
+#
+name: TV/DSS
+type: parsed
+protocol: sony15
+address: 183
+command: 105
+#
+name: TV/SAT
+type: parsed
+protocol: sony15
+address: 183
+command: 105
+#
+name: TV/DSS - SELECT DSS
+type: parsed
+protocol: sony15
+address: 183
+command: 106
+#
+name: SAT
+type: parsed
+protocol: sony15
+address: 183
+command: 106
+#
+name: TV/DSS - SELECT TV
+type: parsed
+protocol: sony15
+address: 183
+command: 107
+#
+name: TV
+type: parsed
+protocol: sony15
+address: 183
+command: 107
+#
+name: JUMP
+type: parsed
+protocol: sony15
+address: 183
+command: 108
+#
+name: GUIDE
+type: parsed
+protocol: sony15
+address: 183
+command: 110
+#
+name: DISPLAY
+type: parsed
+protocol: sony15
+address: 183
+command: 110
+#
+name: FAVORITE
+type: parsed
+protocol: sony15
+address: 183
+command: 111
+#
+name: FAVORITES
+type: parsed
+protocol: sony15
+address: 183
+command: 111
+#
+name: THUMBS UP
+type: parsed
+protocol: sony15
+address: 183
+command: 112
+#
+name: THUMBS DOWN
+type: parsed
+protocol: sony15
+address: 183
+command: 113
+#
+name: CURSOR UP
+type: parsed
+protocol: sony15
+address: 183
+command: 114
+#
+name: UP
+type: parsed
+protocol: sony15
+address: 183
+command: 114
+#
+name: CURSOR UO
+type: parsed
+protocol: sony15
+address: 183
+command: 114
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony15
+address: 183
+command: 115
+#
+name: DOWN
+type: parsed
+protocol: sony15
+address: 183
+command: 115
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony15
+address: 183
+command: 116
+#
+name: RIGHT
+type: parsed
+protocol: sony15
+address: 183
+command: 116
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony15
+address: 183
+command: 117
+#
+name: LEFT
+type: parsed
+protocol: sony15
+address: 183
+command: 117
+#
+name: SELECT
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#
+name: OK
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#
+name: ENT
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#
+name: CURSOR CLICK
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#
+name: CURSOR SELECT
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#
+name: ENTER
+type: parsed
+protocol: sony15
+address: 183
+command: 118
+#

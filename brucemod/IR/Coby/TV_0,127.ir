@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 8
+type: parsed
+protocol: nec1
+address: 0.127
+command: 2
+#
+name: -/--
+type: parsed
+protocol: nec1
+address: 0.127
+command: 3
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0.127
+command: 6
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0.127
+command: 7
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 0.127
+command: 10
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 0.127
+command: 11
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0.127
+command: 14
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0.127
+command: 15
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0.127
+command: 18
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0.127
+command: 19
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0.127
+command: 22
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0.127
+command: 23
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0.127
+command: 26
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 0.127
+command: 27
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 0.127
+command: 30
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 0.127
+command: 31
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 0.127
+command: 76
+#
+name: SOUND
+type: parsed
+protocol: nec1
+address: 0.127
+command: 77
+#
+name: FORMAT
+type: parsed
+protocol: nec1
+address: 0.127
+command: 78
+#
+name: EPG
+type: parsed
+protocol: nec1
+address: 0.127
+command: 79
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 0.127
+command: 80
+#
+name: CH LIST
+type: parsed
+protocol: nec1
+address: 0.127
+command: 81
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 0.127
+command: 82
+#
+name: P-MODE
+type: parsed
+protocol: nec1
+address: 0.127
+command: 83
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 0.127
+command: 84
+#
+name: C.C.
+type: parsed
+protocol: nec1
+address: 0.127
+command: 85
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0.127
+command: 86
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 0.127
+command: 87
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0.127
+command: 88
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0.127
+command: 89
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 0.127
+command: 90
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0.127
+command: 91
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 0.127
+command: 92
+#
+name: MTS
+type: parsed
+protocol: nec1
+address: 0.127
+command: 93
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0.127
+command: 94
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 0.127
+command: 95
+#

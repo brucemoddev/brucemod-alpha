@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec
+address: 1.254
+command: 0
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 1.254
+command: 1
+#
+name: 4
+type: parsed
+protocol: nec
+address: 1.254
+command: 4
+#
+name: 3
+type: parsed
+protocol: nec
+address: 1.254
+command: 6
+#
+name: 2
+type: parsed
+protocol: nec
+address: 1.254
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec
+address: 1.254
+command: 8
+#
+name: SUB
+type: parsed
+protocol: nec
+address: 1.254
+command: 9
+#
+name: 6
+type: parsed
+protocol: nec
+address: 1.254
+command: 10
+#
+name: 5
+type: parsed
+protocol: nec
+address: 1.254
+command: 11
+#
+name: VOL+
+type: parsed
+protocol: nec
+address: 1.254
+command: 13
+#
+name: 9
+type: parsed
+protocol: nec
+address: 1.254
+command: 14
+#
+name: 8
+type: parsed
+protocol: nec
+address: 1.254
+command: 15
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 1.254
+command: 16
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 1.254
+command: 18
+#
+name: 0
+type: parsed
+protocol: nec
+address: 1.254
+command: 19
+#
+name: VOL-
+type: parsed
+protocol: nec
+address: 1.254
+command: 20
+#
+name: OK
+type: parsed
+protocol: nec
+address: 1.254
+command: 21
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 1.254
+command: 22
+#
+name: UP
+type: parsed
+protocol: nec
+address: 1.254
+command: 23
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 1.254
+command: 26
+#
+name: ALT
+type: parsed
+protocol: nec
+address: 1.254
+command: 30
+#
+name: LIST
+type: parsed
+protocol: nec
+address: 1.254
+command: 64
+#
+name: RIGHT
+type: parsed
+protocol: nec
+address: 1.254
+command: 65
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 1.254
+command: 66
+#
+name: FAV
+type: parsed
+protocol: nec
+address: 1.254
+command: 67
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 1.254
+command: 78
+#
+name: ZOOM
+type: parsed
+protocol: nec
+address: 1.254
+command: 81
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 1.254
+command: 82
+#
+name: USB
+type: parsed
+protocol: nec
+address: 1.254
+command: 83
+#
+name: SCAN
+type: parsed
+protocol: nec
+address: 1.254
+command: 84
+#
+name: REW
+type: parsed
+protocol: nec
+address: 1.254
+command: 85
+#
+name: FF
+type: parsed
+protocol: nec
+address: 1.254
+command: 86
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 1.254
+command: 87
+#
+name: EPG
+type: parsed
+protocol: nec
+address: 1.254
+command: 90
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 1.254
+command: 91
+#

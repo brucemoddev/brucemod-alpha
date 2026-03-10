@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128.123
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128.123
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128.123
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128.123
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128.123
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128.123
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128.123
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128.123
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128.123
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128.123
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 128.123
+command: 10
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 128.123
+command: 11
+#
+name: TIMER_REC
+type: parsed
+protocol: nec
+address: 128.123
+command: 13
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 128.123
+command: 17
+#
+name: TV_VCR
+type: parsed
+protocol: nec
+address: 128.123
+command: 18
+#
+name: VCR_ON
+type: parsed
+protocol: nec
+address: 128.123
+command: 19
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 128.123
+command: 21
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 128.123
+command: 22
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128.123
+command: 23
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 128.123
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 128.123
+command: 25
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 128.123
+command: 26
+#
+name: CLOCK_SET
+type: parsed
+protocol: nec
+address: 128.123
+command: 28
+#
+name: SPEED
+type: parsed
+protocol: nec
+address: 128.123
+command: 30
+#
+name: PRESET
+type: parsed
+protocol: nec
+address: 128.123
+command: 64
+#
+name: SET+
+type: parsed
+protocol: nec
+address: 128.123
+command: 65
+#
+name: SET-
+type: parsed
+protocol: nec
+address: 128.123
+command: 66
+#
+name: TRACKING+
+type: parsed
+protocol: nec
+address: 128.123
+command: 67
+#
+name: TRACKING-
+type: parsed
+protocol: nec
+address: 128.123
+command: 68
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 128.123
+command: 69
+#
+name: AFT
+type: parsed
+protocol: nec
+address: 128.123
+command: 70
+#
+name: PROG
+type: parsed
+protocol: nec
+address: 128.123
+command: 72
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 128.123
+command: 74
+#
+name: MEM
+type: parsed
+protocol: nec
+address: 128.123
+command: 75
+#
+name: RESET
+type: parsed
+protocol: nec
+address: 128.123
+command: 76
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 128.123
+command: 78
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 128.123
+command: 81
+#
+name: AUTO
+type: parsed
+protocol: nec
+address: 128.123
+command: 82
+#

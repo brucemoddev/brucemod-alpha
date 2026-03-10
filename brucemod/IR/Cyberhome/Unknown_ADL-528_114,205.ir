@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 114.205
+command: 2
+#
+name: Goto
+type: parsed
+protocol: nec
+address: 114.205
+command: 3
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 114.205
+command: 4
+#
+name: Effect
+type: parsed
+protocol: nec
+address: 114.205
+command: 5
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 114.205
+command: 6
+#
+name: Bookmark
+type: parsed
+protocol: nec
+address: 114.205
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 114.205
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 114.205
+command: 9
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 114.205
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 114.205
+command: 11
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 114.205
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 114.205
+command: 13
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 114.205
+command: 14
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 114.205
+command: 15
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 114.205
+command: 16
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 114.205
+command: 17
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 114.205
+command: 18
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 114.205
+command: 19
+#
+name: Repeat_1
+type: parsed
+protocol: nec
+address: 114.205
+command: 21
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 114.205
+command: 22
+#
+name: Program
+type: parsed
+protocol: nec
+address: 114.205
+command: 23
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 114.205
+command: 24
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 114.205
+command: 25
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 114.205
+command: 26
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 114.205
+command: 27
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 114.205
+command: 28
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 114.205
+command: 29
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 114.205
+command: 30
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 114.205
+command: 31
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 114.205
+command: 64
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 114.205
+command: 65
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 114.205
+command: 68
+#
+name: Intro
+type: parsed
+protocol: nec
+address: 114.205
+command: 69
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 114.205
+command: 72
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 114.205
+command: 73
+#
+name: +Ten
+type: parsed
+protocol: nec
+address: 114.205
+command: 77
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 114.205
+command: 80
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 114.205
+command: 81
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 114.205
+command: 84
+#
+name: Repeat_A-B
+type: parsed
+protocol: nec
+address: 114.205
+command: 85
+#
+name: Display
+type: parsed
+protocol: nec
+address: 114.205
+command: 88
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 114.205
+command: 89
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 114.205
+command: 92
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 114.205
+command: 93
+#

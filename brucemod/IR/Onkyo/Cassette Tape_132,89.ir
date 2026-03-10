@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 132.89
+command: 4
+#
+name: DECKA OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 5
+#
+name: DECKA SRCH FWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 6
+#
+name: DECKA SRCH REV <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 7
+#
+name: DECKA REC/MUTE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 11
+#
+name: DECKA STOP []
+type: parsed
+protocol: nec1
+address: 132.89
+command: 12
+#
+name: DECKA PLAY >
+type: parsed
+protocol: nec1
+address: 132.89
+command: 13
+#
+name: DECKA REVERSE PLAY <
+type: parsed
+protocol: nec1
+address: 132.89
+command: 14
+#
+name: DECKA REC/PAUSE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 16
+#
+name: DECKA FWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 17
+#
+name: DECKA REW <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 18
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 132.89
+command: 19
+#
+name: DECKB STOP []
+type: parsed
+protocol: nec1
+address: 132.89
+command: 19
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 132.89
+command: 21
+#
+name: DECKB PLAY >
+type: parsed
+protocol: nec1
+address: 132.89
+command: 21
+#
+name: PLAY R. <
+type: parsed
+protocol: nec1
+address: 132.89
+command: 22
+#
+name: PLAY REVERSE <
+type: parsed
+protocol: nec1
+address: 132.89
+command: 22
+#
+name: DECKB REVERSE PLAY<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 22
+#
+name: REC/PAUSE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 24
+#
+name: DECKB REC/PAUSE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 24
+#
+name: FFWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 25
+#
+name: DECKB FWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 25
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 26
+#
+name: DECKB REW <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 26
+#
+name: REC/MUTE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 27
+#
+name: DECKB REC/MUTE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 27
+#
+name: SEARCH FWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 29
+#
+name: SEARCH REV <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 30
+#
+name: RANDOM PLAY
+type: parsed
+protocol: nec1
+address: 132.89
+command: 72
+#
+name: MONITOR
+type: parsed
+protocol: nec1
+address: 132.89
+command: 73
+#
+name: DECKA RESET
+type: parsed
+protocol: nec1
+address: 132.89
+command: 74
+#
+name: DECKA TAPE SIZE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 75
+#
+name: DECKB OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 83
+#
+name: SRCH REV <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 84
+#
+name: DECKB SRCH REV <<
+type: parsed
+protocol: nec1
+address: 132.89
+command: 84
+#
+name: SRCH FWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 85
+#
+name: DECKB SRCH FWD >>
+type: parsed
+protocol: nec1
+address: 132.89
+command: 85
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 132.89
+command: 93
+#
+name: DECKB RESET
+type: parsed
+protocol: nec1
+address: 132.89
+command: 93
+#
+name: ELAPSE REMAIN
+type: parsed
+protocol: nec1
+address: 132.89
+command: 94
+#
+name: ELAPSED/REMAIN
+type: parsed
+protocol: nec1
+address: 132.89
+command: 94
+#
+name: T-SIZE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 95
+#
+name: TAPE SIZE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 95
+#
+name: DECKB TAPE SIZE
+type: parsed
+protocol: nec1
+address: 132.89
+command: 95
+#

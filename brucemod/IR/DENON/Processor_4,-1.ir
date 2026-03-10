@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: USER 2
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 293
+#
+name: USER 3
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 294
+#
+name: SURR DIRECT MAIN
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 305
+#
+name: AUX MAIN
+type: parsed
+protocol: Denon-K
+address: 4.1
+command: 711
+#

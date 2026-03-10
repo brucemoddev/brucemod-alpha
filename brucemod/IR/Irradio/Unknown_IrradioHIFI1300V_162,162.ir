@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: skip/tuning-
+type: parsed
+protocol: necx1
+address: 162.162
+command: 4
+#
+name: mode/remain
+type: parsed
+protocol: necx1
+address: 162.162
+command: 5
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 6
+#
+name: KEY_TUNER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 7
+#
+name: skip/tuning+
+type: parsed
+protocol: necx1
+address: 162.162
+command: 12
+#
+name: random
+type: parsed
+protocol: necx1
+address: 162.162
+command: 13
+#
+name: band
+type: parsed
+protocol: necx1
+address: 162.162
+command: 14
+#
+name: KEY_CD
+type: parsed
+protocol: necx1
+address: 162.162
+command: 15
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: necx1
+address: 162.162
+command: 19
+#
+name: memory/clock
+type: parsed
+protocol: necx1
+address: 162.162
+command: 20
+#
+name: intro
+type: parsed
+protocol: necx1
+address: 162.162
+command: 21
+#
+name: KEY_SLEEP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 23
+#
+name: KEY_STOP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 27
+#
+name: KEY_AGAIN
+type: parsed
+protocol: necx1
+address: 162.162
+command: 28
+#
+name: xbass
+type: parsed
+protocol: necx1
+address: 162.162
+command: 29
+#
+name: KEY_TAPE
+type: parsed
+protocol: necx1
+address: 162.162
+command: 30
+#
+name: timer
+type: parsed
+protocol: necx1
+address: 162.162
+command: 31
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 32
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 162.162
+command: 96
+#

@@ -1,0 +1,1083 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: jvc
+address: 179
+command: 64
+#
+name: POWER (ENTER)
+type: parsed
+protocol: jvc
+address: 179
+command: 64
+#
+name: STOP
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: STOP []
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: STOP[]
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: STOP/CANCEL []
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: STOP [] (U)
+type: parsed
+protocol: jvc
+address: 179
+command: 67
+#
+name: STOP []
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 67
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: jvc
+address: 179
+command: 68
+#
+name: DISC OPEN/CLOSE
+type: parsed
+protocol: jvc
+address: 179
+command: 68
+#
+name: OPEN/CLOSE (W)
+type: parsed
+protocol: jvc
+address: 179
+command: 68
+#
+name: DISC NEXT
+type: parsed
+protocol: jvc
+address: 179
+command: 69
+#
+name: CALL
+type: parsed
+protocol: jvc
+address: 179
+command: 69
+#
+name: INTRO
+type: parsed
+protocol: jvc
+address: 179
+command: 72
+#
+name: PLAY MODE INTROSCAN
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 72
+#
+name: EDITING
+type: parsed
+protocol: jvc
+address: 179
+command: 73
+#
+name: SIDE A/B
+type: parsed
+protocol: jvc
+address: 179
+command: 74
+#
+name: EJECT
+type: parsed
+protocol: jvc
+address: 179
+command: 75
+#
+name: M. EJECT
+type: parsed
+protocol: jvc
+address: 179
+command: 75
+#
+name: M.EJECT
+type: parsed
+protocol: jvc
+address: 179
+command: 75
+#
+name: M.EJECT (V)
+type: parsed
+protocol: jvc
+address: 179
+command: 75
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 179
+command: 76
+#
+name: PLAY >
+type: parsed
+protocol: jvc
+address: 179
+command: 76
+#
+name: PLAY>
+type: parsed
+protocol: jvc
+address: 179
+command: 76
+#
+name: PLAY > (T)
+type: parsed
+protocol: jvc
+address: 179
+command: 76
+#
+name: PLAY >
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 76
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 179
+command: 77
+#
+name: PAUSE 
+type: parsed
+protocol: jvc
+address: 179
+command: 77
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 179
+command: 77
+#
+name: PAUSE (S)
+type: parsed
+protocol: jvc
+address: 179
+command: 77
+#
+name: PAUSE 
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 77
+#
+name: DISPLAY MODE
+type: parsed
+protocol: jvc
+address: 179
+command: 84
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 179
+command: 84
+#
+name: DISPLAY (MODE)
+type: parsed
+protocol: jvc
+address: 179
+command: 84
+#
+name: CALL
+type: parsed
+protocol: jvc
+address: 179
+command: 85
+#
+name: CALL (->)
+type: parsed
+protocol: jvc
+address: 179
+command: 85
+#
+name: CALL
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 85
+#
+name: INDEX ->
+type: parsed
+protocol: jvc
+address: 179
+command: 86
+#
+name: INDEX -->
+type: parsed
+protocol: jvc
+address: 179
+command: 86
+#
+name: INDEX <-
+type: parsed
+protocol: jvc
+address: 179
+command: 87
+#
+name: INDEX <--
+type: parsed
+protocol: jvc
+address: 179
+command: 87
+#
+name: AUTO SEARCH REV
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: AUTO SEARCH <<
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: SKIP REW <<
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: SKIP <<
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: SKIP <<
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: AUTO SRCH << (X)
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: SKIP REW <<
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 88
+#
+name: AUTO SRCH/CK <<
+type: parsed
+protocol: jvc
+address: 179
+command: 88
+#
+name: AUTO SEARCH >>
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: SKIP FWD>>
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: SKIP >>
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: SKIP >>
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: AUTO SRCH >> (Y)
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: SKIP FWD >>
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 89
+#
+name: AUTO SRCH/CK >>
+type: parsed
+protocol: jvc
+address: 179
+command: 89
+#
+name: REPEAT ALL/1
+type: parsed
+protocol: jvc
+address: 179
+command: 91
+#
+name: REPEAT
+type: parsed
+protocol: jvc
+address: 179
+command: 91
+#
+name: REPEAT (ALL 1)
+type: parsed
+protocol: jvc
+address: 179
+command: 91
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 179
+command: 97
+#
+name: 1 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 97
+#
+name: TRACK 1
+type: parsed
+protocol: jvc
+address: 179
+command: 97
+#
+name: TRACK 1 (A)
+type: parsed
+protocol: jvc
+address: 179
+command: 97
+#
+name: TRACK 1
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 97
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 179
+command: 98
+#
+name: 2 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 98
+#
+name: TRACK 2
+type: parsed
+protocol: jvc
+address: 179
+command: 98
+#
+name: TRACK 2 (B)
+type: parsed
+protocol: jvc
+address: 179
+command: 98
+#
+name: TRACK 2
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 98
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 179
+command: 99
+#
+name: 3 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 99
+#
+name: TRACK 3
+type: parsed
+protocol: jvc
+address: 179
+command: 99
+#
+name: TRACK 3 (C)
+type: parsed
+protocol: jvc
+address: 179
+command: 99
+#
+name: TRACK 3
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 99
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 179
+command: 100
+#
+name: 4 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 100
+#
+name: TRACK 4
+type: parsed
+protocol: jvc
+address: 179
+command: 100
+#
+name: TRACK 4 (D)
+type: parsed
+protocol: jvc
+address: 179
+command: 100
+#
+name: TRACK 4
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 100
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 179
+command: 101
+#
+name: 5 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 101
+#
+name: TRACK 5
+type: parsed
+protocol: jvc
+address: 179
+command: 101
+#
+name: TRACK 5 (E)
+type: parsed
+protocol: jvc
+address: 179
+command: 101
+#
+name: TRACK 5
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 101
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 179
+command: 102
+#
+name: 6 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 102
+#
+name: TRACK 6
+type: parsed
+protocol: jvc
+address: 179
+command: 102
+#
+name: TRACK 6 (F)
+type: parsed
+protocol: jvc
+address: 179
+command: 102
+#
+name: TRACK 6
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 102
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 179
+command: 103
+#
+name: 7 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 103
+#
+name: TRACK 7
+type: parsed
+protocol: jvc
+address: 179
+command: 103
+#
+name: TRACK 7 (G)
+type: parsed
+protocol: jvc
+address: 179
+command: 103
+#
+name: TRACK 7
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 103
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: 8 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: TRACK 8
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: TRACK 8 (H)
+type: parsed
+protocol: jvc
+address: 179
+command: 104
+#
+name: TRACK 8
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 104
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 179
+command: 105
+#
+name: 9 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 105
+#
+name: TRACK 9
+type: parsed
+protocol: jvc
+address: 179
+command: 105
+#
+name: TRACK 9 (I)
+type: parsed
+protocol: jvc
+address: 179
+command: 105
+#
+name: TRACK 9
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 105
+#
+name: PROGRAM
+type: parsed
+protocol: jvc
+address: 179
+command: 106
+#
+name: MEMORY
+type: parsed
+protocol: jvc
+address: 179
+command: 106
+#
+name: RESERVE
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 106
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 179
+command: 109
+#
+name: CANCEL (<-)
+type: parsed
+protocol: jvc
+address: 179
+command: 109
+#
+name: CANCEL
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 109
+#
+name: 10
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: 10 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: TRACK 10
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: TRACK 10 (J)
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: TRACK 10
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 110
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 179
+command: 110
+#
+name: +10
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: +10 TRACK
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: TRACK +10
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: 10+
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: TRACK +10 (K)
+type: parsed
+protocol: jvc
+address: 179
+command: 111
+#
+name: TRACK +10
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 111
+#
+name: SEARCH REV
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: SEARCH <<
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: SRCH REW<<
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: SEARCH REV <<
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 112
+#
+name: MANUAL SEARCH <<
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: SEARCH REW <<
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: SCAN <<
+type: parsed
+protocol: jvc
+address: 179
+command: 112
+#
+name: PROGRAM
+type: parsed
+protocol: jvc
+address: 179
+command: 113
+#
+name: PLAY MODE PROGRAM
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 113
+#
+name: PRGM
+type: parsed
+protocol: jvc
+address: 179
+command: 113
+#
+name: RANDOM
+type: parsed
+protocol: jvc
+address: 179
+command: 114
+#
+name: PLAY MODE RANDOM
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 114
+#
+name: MAG.PRGM
+type: parsed
+protocol: jvc
+address: 179
+command: 115
+#
+name: GRAPHICS CH ^
+type: parsed
+protocol: jvc
+address: 179
+command: 116
+#
+name: GRAPHICS CH V
+type: parsed
+protocol: jvc
+address: 179
+command: 117
+#
+name: SEARCH FWD
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#
+name: SEARCH >>
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#
+name: SRCH FWD>>
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#
+name: SEARCH FWD >>
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 118
+#
+name: MANUAL SEARCH >>
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#
+name: SEARCH FWD >>
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#
+name: SCAN >>
+type: parsed
+protocol: jvc
+address: 179
+command: 118
+#
+name: CONTINUE
+type: parsed
+protocol: jvc
+address: 179
+command: 119
+#
+name: CONTINUE (Z)
+type: parsed
+protocol: jvc
+address: 179
+command: 119
+#
+name: PLAY MODE CONTINUE
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 119
+#
+name: DISC P
+type: parsed
+protocol: jvc
+address: 179
+command: 120
+#
+name: DISC P (L)
+type: parsed
+protocol: jvc
+address: 179
+command: 120
+#
+name: DISC P
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 120
+#
+name: P DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 120
+#
+name: DISC 1
+type: parsed
+protocol: jvc
+address: 179
+command: 121
+#
+name: DISC 1 (M)
+type: parsed
+protocol: jvc
+address: 179
+command: 121
+#
+name: DISC 1
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 121
+#
+name: 1 DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 121
+#
+name: DISC 2
+type: parsed
+protocol: jvc
+address: 179
+command: 122
+#
+name: DISC 2 (N)
+type: parsed
+protocol: jvc
+address: 179
+command: 122
+#
+name: DISC 2
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 122
+#
+name: 2 DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 122
+#
+name: DISC 3
+type: parsed
+protocol: jvc
+address: 179
+command: 123
+#
+name: DISC 3 (O)
+type: parsed
+protocol: jvc
+address: 179
+command: 123
+#
+name: DISC 3
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 123
+#
+name: 3 DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 123
+#
+name: DISC 4
+type: parsed
+protocol: jvc
+address: 179
+command: 124
+#
+name: DISC 4 (P)
+type: parsed
+protocol: jvc
+address: 179
+command: 124
+#
+name: DISC 4
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 124
+#
+name: 4 DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 124
+#
+name: DISC 5
+type: parsed
+protocol: jvc
+address: 179
+command: 125
+#
+name: DISC 5 (Q)
+type: parsed
+protocol: jvc
+address: 179
+command: 125
+#
+name: DISC 5
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 125
+#
+name: 5 DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 125
+#
+name: DISC 6
+type: parsed
+protocol: jvc
+address: 179
+command: 126
+#
+name: DISC 6 (R)
+type: parsed
+protocol: jvc
+address: 179
+command: 126
+#
+name: DISC 6
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 126
+#
+name: 6 DISC
+type: parsed
+protocol: jvc
+address: 179
+command: 126
+#
+name: DISC SKIP
+type: parsed
+protocol: jvc
+address: 179
+command: 134
+#
+name: DEL. PRGM
+type: parsed
+protocol: jvc
+address: 179
+command: 138
+#
+name: DEL.PRGM
+type: parsed
+protocol: jvc
+address: 179
+command: 138
+#
+name: EXCHANGE
+type: parsed
+protocol: jvc
+address: 179
+command: 147
+#
+name: DISC BEFORE
+type: parsed
+protocol: jvc
+address: 179
+command: 148
+#

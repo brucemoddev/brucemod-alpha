@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 9
+#
+name: power
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 12
+#
+name: ch-up
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 32
+#
+name: ch-down
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 33
+#
+name: setup
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 60
+#
+name: up
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 88
+#
+name: down
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 89
+#
+name: left
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 90
+#
+name: right
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 91
+#
+name: select
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 92
+#
+name: red
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 109
+#
+name: green
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 110
+#
+name: yellow
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 111
+#
+name: blue
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 112
+#
+name: boxoffice
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 125
+#
+name: active
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 126
+#
+name: foxtel
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 128
+#
+name: help
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 129
+#
+name: back
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 131
+#
+name: av
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 132
+#
+name: i
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 203
+#
+name: tvguide
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 204
+#
+name: planner
+type: parsed
+protocol: rc6_6_20
+address: 0.0
+command: 245
+#

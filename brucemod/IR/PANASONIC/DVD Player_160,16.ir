@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SFC
+type: parsed
+protocol: panasonic
+address: 160.16
+command: 131
+#

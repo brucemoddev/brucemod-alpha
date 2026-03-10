@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: Volume-
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: Volume+
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: Back
+type: parsed
+protocol: Proton
+address: 21
+command: 11
+#
+name: Stop
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: Play
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: Pause
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: Forward
+type: parsed
+protocol: Proton
+address: 21
+command: 15
+#
+name: Rewind
+type: parsed
+protocol: Proton
+address: 21
+command: 16
+#
+name: Menu
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: Power
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: Yello
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: Channel+
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: Channel-
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: Rigth
+type: parsed
+protocol: Proton
+address: 21
+command: 25
+#
+name: Left
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: Mute
+type: parsed
+protocol: Proton
+address: 21
+command: 30
+#
+name: Red
+type: parsed
+protocol: Proton
+address: 21
+command: 38
+#
+name: Green
+type: parsed
+protocol: Proton
+address: 21
+command: 39
+#
+name: Blue
+type: parsed
+protocol: Proton
+address: 21
+command: 56
+#

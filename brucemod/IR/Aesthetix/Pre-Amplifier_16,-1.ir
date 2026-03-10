@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY
+type: parsed
+protocol: rc5
+address: 16
+command: 1
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: BAL LEFT
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: BAL RIGHT
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: BYPASS
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: PHASE
+type: parsed
+protocol: rc5
+address: 16
+command: 9
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 16
+command: 10
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 16
+command: 11
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 16
+command: 14
+#
+name: TAPE
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: PHONO
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#

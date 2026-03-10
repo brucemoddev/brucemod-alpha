@@ -1,0 +1,375 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAUSE
+type: parsed
+protocol: nec
+address: 69
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec
+address: 69
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec
+address: 69
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec
+address: 69
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec
+address: 69
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec
+address: 69
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec
+address: 69
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec
+address: 69
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec
+address: 69
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec
+address: 69
+command: 9
+#
+name: 0
+type: parsed
+protocol: nec
+address: 69
+command: 10
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec
+address: 69
+command: 18
+#
+name: SCAN >>
+type: parsed
+protocol: nec
+address: 69
+command: 19
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 69
+command: 20
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 69
+command: 21
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 69
+command: 22
+#
+name: SCAN <<
+type: parsed
+protocol: nec
+address: 69
+command: 25
+#
+name: DVD RESUME
+type: parsed
+protocol: nec
+address: 69
+command: 32
+#
+name: DVD TOP MENU
+type: parsed
+protocol: nec
+address: 69
+command: 32
+#
+name: SELECT
+type: parsed
+protocol: nec
+address: 69
+command: 33
+#
+name: PREVIOUS
+type: parsed
+protocol: nec
+address: 69
+command: 35
+#
+name: NEXT
+type: parsed
+protocol: nec
+address: 69
+command: 36
+#
+name: AUDIO NEXT
+type: parsed
+protocol: nec
+address: 69
+command: 39
+#
+name: ANGLE NEXT
+type: parsed
+protocol: nec
+address: 69
+command: 41
+#
+name: SUBTITLES NEXT
+type: parsed
+protocol: nec
+address: 69
+command: 47
+#
+name: ASPECT
+type: parsed
+protocol: nec
+address: 69
+command: 64
+#
+name: RIGHT
+type: parsed
+protocol: nec
+address: 69
+command: 77
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 69
+command: 81
+#
+name: UP
+type: parsed
+protocol: nec
+address: 69
+command: 128
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 69
+command: 129
+#
+name: DVD MENU
+type: parsed
+protocol: nec
+address: 69
+command: 132
+#
+name: REPLAY
+type: parsed
+protocol: nec
+address: 69
+command: 160
+#
+name: SHUFFLE COVER ART
+type: parsed
+protocol: nec
+address: 69
+command: 161
+#
+name: DETAILS
+type: parsed
+protocol: nec
+address: 69
+command: 162
+#
+name: SAFE LEVEL
+type: parsed
+protocol: nec
+address: 69
+command: 164
+#
+name: SET FAV SCENE START
+type: parsed
+protocol: nec
+address: 69
+command: 166
+#
+name: SET FAV SCENE END
+type: parsed
+protocol: nec
+address: 69
+command: 167
+#
+name: GO COVER ART
+type: parsed
+protocol: nec
+address: 69
+command: 168
+#
+name: GO MOVIE LIST
+type: parsed
+protocol: nec
+address: 69
+command: 169
+#
+name: GO FAVORITES
+type: parsed
+protocol: nec
+address: 69
+command: 170
+#
+name: GO SYSTEM STATUS
+type: parsed
+protocol: nec
+address: 69
+command: 171
+#
+name: GO PARENTAL CTRL
+type: parsed
+protocol: nec
+address: 69
+command: 172
+#
+name: INTERMISSION TOGGLE
+type: parsed
+protocol: nec
+address: 69
+command: 173
+#
+name: INTERMISSION ON
+type: parsed
+protocol: nec
+address: 69
+command: 174
+#
+name: INTERMISSION OFF
+type: parsed
+protocol: nec
+address: 69
+command: 175
+#
+name: GO SCREEN SAVER
+type: parsed
+protocol: nec
+address: 69
+command: 177
+#
+name: STOP SCREEN SAVER
+type: parsed
+protocol: nec
+address: 69
+command: 178
+#
+name: GO DEMO
+type: parsed
+protocol: nec
+address: 69
+command: 179
+#
+name: GO DEMO LOOP
+type: parsed
+protocol: nec
+address: 69
+command: 180
+#
+name: PAUSE ON
+type: parsed
+protocol: nec
+address: 69
+command: 181
+#
+name: PAUSE OFF
+type: parsed
+protocol: nec
+address: 69
+command: 182
+#
+name: DISPLAY OFF
+type: parsed
+protocol: nec
+address: 69
+command: 183
+#
+name: K MENU ON
+type: parsed
+protocol: nec
+address: 69
+command: 184
+#
+name: K MENU OFF
+type: parsed
+protocol: nec
+address: 69
+command: 185
+#
+name: PAGE UP
+type: parsed
+protocol: nec
+address: 69
+command: 186
+#
+name: PAGE DOWN
+type: parsed
+protocol: nec
+address: 69
+command: 187
+#
+name: DISPLAY CYCLE
+type: parsed
+protocol: nec
+address: 69
+command: 188
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 69
+command: 203
+#
+name: TITLE
+type: parsed
+protocol: nec
+address: 69
+command: 222
+#
+name: LEAVE STANDBY
+type: parsed
+protocol: nec
+address: 69
+command: 243
+#
+name: ENTER STANDBY
+type: parsed
+protocol: nec
+address: 69
+command: 244
+#
+name: K MENU TOGGLE
+type: parsed
+protocol: nec
+address: 69
+command: 245
+#

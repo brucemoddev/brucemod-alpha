@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REPEAT
+type: parsed
+protocol: denon
+address: 8
+command: 84
+#
+name: CD REPEAT
+type: parsed
+protocol: denon
+address: 8
+command: 84
+#
+name: CD SKIP >>
+type: parsed
+protocol: denon
+address: 8
+command: 88
+#
+name: CD SKIP FWD >>
+type: parsed
+protocol: denon
+address: 8
+command: 88
+#
+name: CD SKIP <<
+type: parsed
+protocol: denon
+address: 8
+command: 89
+#
+name: CD SKIP REV <<
+type: parsed
+protocol: denon
+address: 8
+command: 89
+#
+name: CD SCAN >>
+type: parsed
+protocol: denon
+address: 8
+command: 90
+#
+name: CD SCAN FFWD >>
+type: parsed
+protocol: denon
+address: 8
+command: 90
+#
+name: CD SCAN <<
+type: parsed
+protocol: denon
+address: 8
+command: 91
+#
+name: CD SCAN REV <<
+type: parsed
+protocol: denon
+address: 8
+command: 91
+#
+name: CD PLAY >
+type: parsed
+protocol: denon
+address: 8
+command: 92
+#
+name: CD PAUSE 
+type: parsed
+protocol: denon
+address: 8
+command: 93
+#
+name: CD STOP []
+type: parsed
+protocol: denon
+address: 8
+command: 94
+#
+name: DISC 1
+type: parsed
+protocol: denon
+address: 8
+command: 100
+#
+name: DISC 2
+type: parsed
+protocol: denon
+address: 8
+command: 101
+#
+name: DISC 3
+type: parsed
+protocol: denon
+address: 8
+command: 102
+#
+name: DISC 4
+type: parsed
+protocol: denon
+address: 8
+command: 103
+#
+name: DISC 5
+type: parsed
+protocol: denon
+address: 8
+command: 104
+#
+name: DISC 6
+type: parsed
+protocol: denon
+address: 8
+command: 105
+#
+name: CD DISC SKIP +
+type: parsed
+protocol: denon
+address: 8
+command: 107
+#
+name: CD SKIP
+type: parsed
+protocol: denon
+address: 8
+command: 107
+#
+name: CD POWER
+type: parsed
+protocol: denon
+address: 8
+command: 115
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 1
+command: 68
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 1
+command: 69
+#

@@ -1,0 +1,501 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_SPACE
+type: parsed
+protocol: sony20
+address: 26.97
+command: 32
+#
+name: exclamation
+type: parsed
+protocol: sony20
+address: 26.97
+command: 33
+#
+name: doublequote
+type: parsed
+protocol: sony20
+address: 26.97
+command: 34
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: sony20
+address: 26.97
+command: 35
+#
+name: dollar
+type: parsed
+protocol: sony20
+address: 26.97
+command: 36
+#
+name: percent
+type: parsed
+protocol: sony20
+address: 26.97
+command: 37
+#
+name: ampersand
+type: parsed
+protocol: sony20
+address: 26.97
+command: 38
+#
+name: apostrophe
+type: parsed
+protocol: sony20
+address: 26.97
+command: 39
+#
+name: open_parenthesis
+type: parsed
+protocol: sony20
+address: 26.97
+command: 40
+#
+name: KEY_CLOSE
+type: parsed
+protocol: sony20
+address: 26.97
+command: 41
+#
+name: asterick
+type: parsed
+protocol: sony20
+address: 26.97
+command: 42
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: sony20
+address: 26.97
+command: 43
+#
+name: comma
+type: parsed
+protocol: sony20
+address: 26.97
+command: 44
+#
+name: dash
+type: parsed
+protocol: sony20
+address: 26.97
+command: 45
+#
+name: period
+type: parsed
+protocol: sony20
+address: 26.97
+command: 46
+#
+name: slash
+type: parsed
+protocol: sony20
+address: 26.97
+command: 47
+#
+name: KEY_0
+type: parsed
+protocol: sony20
+address: 26.97
+command: 48
+#
+name: KEY_1
+type: parsed
+protocol: sony20
+address: 26.97
+command: 49
+#
+name: KEY_2
+type: parsed
+protocol: sony20
+address: 26.97
+command: 50
+#
+name: KEY_3
+type: parsed
+protocol: sony20
+address: 26.97
+command: 51
+#
+name: KEY_4
+type: parsed
+protocol: sony20
+address: 26.97
+command: 52
+#
+name: KEY_5
+type: parsed
+protocol: sony20
+address: 26.97
+command: 53
+#
+name: KEY_6
+type: parsed
+protocol: sony20
+address: 26.97
+command: 54
+#
+name: KEY_7
+type: parsed
+protocol: sony20
+address: 26.97
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: sony20
+address: 26.97
+command: 56
+#
+name: KEY_9
+type: parsed
+protocol: sony20
+address: 26.97
+command: 57
+#
+name: colon
+type: parsed
+protocol: sony20
+address: 26.97
+command: 58
+#
+name: semicolon
+type: parsed
+protocol: sony20
+address: 26.97
+command: 59
+#
+name: lessthan
+type: parsed
+protocol: sony20
+address: 26.97
+command: 60
+#
+name: greaterthan
+type: parsed
+protocol: sony20
+address: 26.97
+command: 62
+#
+name: question
+type: parsed
+protocol: sony20
+address: 26.97
+command: 63
+#
+name: cap_a
+type: parsed
+protocol: sony20
+address: 26.97
+command: 65
+#
+name: cap_b
+type: parsed
+protocol: sony20
+address: 26.97
+command: 66
+#
+name: cap_c
+type: parsed
+protocol: sony20
+address: 26.97
+command: 67
+#
+name: cap_d
+type: parsed
+protocol: sony20
+address: 26.97
+command: 68
+#
+name: cap_e
+type: parsed
+protocol: sony20
+address: 26.97
+command: 69
+#
+name: cap_f
+type: parsed
+protocol: sony20
+address: 26.97
+command: 70
+#
+name: cap_g
+type: parsed
+protocol: sony20
+address: 26.97
+command: 71
+#
+name: cap_h
+type: parsed
+protocol: sony20
+address: 26.97
+command: 72
+#
+name: cap_i
+type: parsed
+protocol: sony20
+address: 26.97
+command: 73
+#
+name: cap_j
+type: parsed
+protocol: sony20
+address: 26.97
+command: 74
+#
+name: cap_k
+type: parsed
+protocol: sony20
+address: 26.97
+command: 75
+#
+name: cap_l
+type: parsed
+protocol: sony20
+address: 26.97
+command: 76
+#
+name: cap_m
+type: parsed
+protocol: sony20
+address: 26.97
+command: 77
+#
+name: cap_n
+type: parsed
+protocol: sony20
+address: 26.97
+command: 78
+#
+name: cap_o
+type: parsed
+protocol: sony20
+address: 26.97
+command: 79
+#
+name: cap_p
+type: parsed
+protocol: sony20
+address: 26.97
+command: 80
+#
+name: cap_q
+type: parsed
+protocol: sony20
+address: 26.97
+command: 81
+#
+name: cap_r
+type: parsed
+protocol: sony20
+address: 26.97
+command: 82
+#
+name: cap_s
+type: parsed
+protocol: sony20
+address: 26.97
+command: 83
+#
+name: cap_t
+type: parsed
+protocol: sony20
+address: 26.97
+command: 84
+#
+name: cap_u
+type: parsed
+protocol: sony20
+address: 26.97
+command: 85
+#
+name: cap_v
+type: parsed
+protocol: sony20
+address: 26.97
+command: 86
+#
+name: cap_w
+type: parsed
+protocol: sony20
+address: 26.97
+command: 87
+#
+name: cap_x
+type: parsed
+protocol: sony20
+address: 26.97
+command: 88
+#
+name: cap_y
+type: parsed
+protocol: sony20
+address: 26.97
+command: 89
+#
+name: cap_z
+type: parsed
+protocol: sony20
+address: 26.97
+command: 90
+#
+name: KEY_A
+type: parsed
+protocol: sony20
+address: 26.97
+command: 97
+#
+name: KEY_B
+type: parsed
+protocol: sony20
+address: 26.97
+command: 98
+#
+name: KEY_C
+type: parsed
+protocol: sony20
+address: 26.97
+command: 99
+#
+name: KEY_D
+type: parsed
+protocol: sony20
+address: 26.97
+command: 100
+#
+name: KEY_E
+type: parsed
+protocol: sony20
+address: 26.97
+command: 101
+#
+name: KEY_F
+type: parsed
+protocol: sony20
+address: 26.97
+command: 102
+#
+name: KEY_G
+type: parsed
+protocol: sony20
+address: 26.97
+command: 103
+#
+name: KEY_H
+type: parsed
+protocol: sony20
+address: 26.97
+command: 104
+#
+name: KEY_I
+type: parsed
+protocol: sony20
+address: 26.97
+command: 105
+#
+name: KEY_J
+type: parsed
+protocol: sony20
+address: 26.97
+command: 106
+#
+name: KEY_K
+type: parsed
+protocol: sony20
+address: 26.97
+command: 107
+#
+name: KEY_L
+type: parsed
+protocol: sony20
+address: 26.97
+command: 108
+#
+name: KEY_M
+type: parsed
+protocol: sony20
+address: 26.97
+command: 109
+#
+name: KEY_N
+type: parsed
+protocol: sony20
+address: 26.97
+command: 110
+#
+name: KEY_O
+type: parsed
+protocol: sony20
+address: 26.97
+command: 111
+#
+name: KEY_P
+type: parsed
+protocol: sony20
+address: 26.97
+command: 112
+#
+name: KEY_Q
+type: parsed
+protocol: sony20
+address: 26.97
+command: 113
+#
+name: KEY_R
+type: parsed
+protocol: sony20
+address: 26.97
+command: 114
+#
+name: KEY_S
+type: parsed
+protocol: sony20
+address: 26.97
+command: 115
+#
+name: KEY_T
+type: parsed
+protocol: sony20
+address: 26.97
+command: 116
+#
+name: KEY_U
+type: parsed
+protocol: sony20
+address: 26.97
+command: 117
+#
+name: KEY_V
+type: parsed
+protocol: sony20
+address: 26.97
+command: 118
+#
+name: KEY_W
+type: parsed
+protocol: sony20
+address: 26.97
+command: 119
+#
+name: KEY_X
+type: parsed
+protocol: sony20
+address: 26.97
+command: 120
+#
+name: KEY_Y
+type: parsed
+protocol: sony20
+address: 26.97
+command: 121
+#
+name: KEY_Z
+type: parsed
+protocol: sony20
+address: 26.97
+command: 122
+#

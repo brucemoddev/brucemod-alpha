@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD-SYNC STANDBY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: 
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: CD-SYNC STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: 
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#

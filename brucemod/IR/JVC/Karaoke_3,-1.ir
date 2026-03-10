@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY B
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: KEY #
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#

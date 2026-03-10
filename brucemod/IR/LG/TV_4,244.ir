@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Up
+type: parsed
+protocol: nec2
+address: 4.244
+command: 64
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 4.244
+command: 65
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 4.244
+command: 7
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 4.244
+command: 6
+#
+name: enter
+type: parsed
+protocol: nec2
+address: 4.244
+command: 68
+#
+name: Power
+type: parsed
+protocol: nec2
+address: 4.244
+command: 8
+#
+name: source
+type: parsed
+protocol: nec2
+address: 4.244
+command: 11
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 4.244
+command: 67
+#
+name: Back
+type: parsed
+protocol: nec2
+address: 4.244
+command: 40
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 4.244
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 4.244
+command: 3
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 4.244
+command: 9
+#
+name: BRT+
+type: parsed
+protocol: nec2
+address: 4.244
+command: 224
+#
+name: BRT-
+type: parsed
+protocol: nec2
+address: 4.244
+command: 225
+#
+name: READER_MODE
+type: parsed
+protocol: nec2
+address: 4.244
+command: 219
+#
+name: CUSTOM 1
+type: parsed
+protocol: nec2
+address: 4.244
+command: 78
+#
+name: CUSTOM 2
+type: parsed
+protocol: nec2
+address: 4.244
+command: 79
+#
+name: DTS
+type: parsed
+protocol: nec2
+address: 4.244
+command: 81
+#
+name: SOUND_OUTPUT
+type: parsed
+protocol: nec2
+address: 4.244
+command: 97
+#

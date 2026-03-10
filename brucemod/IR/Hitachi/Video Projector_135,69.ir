@@ -1,0 +1,585 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RGB1
+type: parsed
+protocol: nec1
+address: 135.69
+command: 16
+#
+name: PC
+type: parsed
+protocol: nec1
+address: 135.69
+command: 16
+#
+name: RGB2
+type: parsed
+protocol: nec1
+address: 135.69
+command: 17
+#
+name: DVI
+type: parsed
+protocol: nec1
+address: 135.69
+command: 18
+#
+name: HDMI
+type: parsed
+protocol: nec1
+address: 135.69
+command: 18
+#
+name: COMPOSITE VIDEO
+type: parsed
+protocol: nec1
+address: 135.69
+command: 19
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 135.69
+command: 19
+#
+name: S VIDEO
+type: parsed
+protocol: nec1
+address: 135.69
+command: 20
+#
+name: S-VIDEO
+type: parsed
+protocol: nec1
+address: 135.69
+command: 20
+#
+name: COMPONENT VIDEO 1
+type: parsed
+protocol: nec1
+address: 135.69
+command: 21
+#
+name: COMPONENT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 21
+#
+name: WIRELESS
+type: parsed
+protocol: nec1
+address: 135.69
+command: 22
+#
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 135.69
+command: 23
+#
+name: STANDBY / ON
+type: parsed
+protocol: nec1
+address: 135.69
+command: 23
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec1
+address: 135.69
+command: 23
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.69
+command: 23
+#
+name: RGB
+type: parsed
+protocol: nec1
+address: 135.69
+command: 24
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 135.69
+command: 25
+#
+name: SEARCH
+type: parsed
+protocol: nec1
+address: 135.69
+command: 26
+#
+name: ONE TOUCH
+type: parsed
+protocol: nec1
+address: 135.69
+command: 26
+#
+name: COMPONENT VIDEO2
+type: parsed
+protocol: nec1
+address: 135.69
+command: 27
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 135.69
+command: 29
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 135.69
+command: 30
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 135.69
+command: 32
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 135.69
+command: 33
+#
+name: MENU SELECT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 33
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 135.69
+command: 34
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 135.69
+command: 36
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 135.69
+command: 40
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 135.69
+command: 40
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 42
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 42
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 135.69
+command: 44
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 135.69
+command: 44
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 46
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 46
+#
+name: POSITION
+type: parsed
+protocol: nec1
+address: 135.69
+command: 48
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 135.69
+command: 64
+#
+name: BLANK
+type: parsed
+protocol: nec1
+address: 135.69
+command: 65
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 80
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 135.69
+command: 80
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 81
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 135.69
+command: 81
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 135.69
+command: 82
+#
+name: MUTE ON/OFF
+type: parsed
+protocol: nec1
+address: 135.69
+command: 82
+#
+name: VOLUME ON
+type: parsed
+protocol: nec1
+address: 135.69
+command: 83
+#
+name: VOLUME
+type: parsed
+protocol: nec1
+address: 135.69
+command: 83
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 96
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 97
+#
+name: FOCUS +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 98
+#
+name: FOCUS -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 99
+#
+name: LENS SHIFT +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 106
+#
+name: LENS SHIFT -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 107
+#
+name: IRIS
+type: parsed
+protocol: nec1
+address: 135.69
+command: 109
+#
+name: BRIGHT +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 114
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 114
+#
+name: BRIGHT -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 115
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 115
+#
+name: CONTRAST +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 116
+#
+name: CONTRAST -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 117
+#
+name: COLOR +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 118
+#
+name: COLOR -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 119
+#
+name: C. TEMP.
+type: parsed
+protocol: nec1
+address: 135.69
+command: 121
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 122
+#
+name: GAMMA
+type: parsed
+protocol: nec1
+address: 135.69
+command: 123
+#
+name: GAMMA -1
+type: parsed
+protocol: nec1
+address: 135.69
+command: 124
+#
+name: GAMMA -2
+type: parsed
+protocol: nec1
+address: 135.69
+command: 125
+#
+name: GAMMA -3
+type: parsed
+protocol: nec1
+address: 135.69
+command: 126
+#
+name: GAMMA -4
+type: parsed
+protocol: nec1
+address: 135.69
+command: 127
+#
+name: MAGNIFY ON
+type: parsed
+protocol: nec1
+address: 135.69
+command: 176
+#
+name: MAGNIFY OFF
+type: parsed
+protocol: nec1
+address: 135.69
+command: 177
+#
+name: MAGNIFY +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 177
+#
+name: MAGNIFY -
+type: parsed
+protocol: nec1
+address: 135.69
+command: 178
+#
+name: MAGNIFY +
+type: parsed
+protocol: nec1
+address: 135.69
+command: 179
+#
+name: MAGNIFY OFF
+type: parsed
+protocol: nec1
+address: 135.69
+command: 179
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 135.69
+command: 180
+#
+name: PINP
+type: parsed
+protocol: nec1
+address: 135.69
+command: 181
+#
+name: KEYSTONE
+type: parsed
+protocol: nec1
+address: 135.69
+command: 182
+#
+name: LIGHT
+type: parsed
+protocol: nec1
+address: 135.69
+command: 187
+#
+name: VIDEO MEMORY 1
+type: parsed
+protocol: nec1
+address: 135.69
+command: 192
+#
+name: VIDEO MEMORY 2
+type: parsed
+protocol: nec1
+address: 135.69
+command: 193
+#
+name: VIDEO MEMORY 3
+type: parsed
+protocol: nec1
+address: 135.69
+command: 194
+#
+name: VIDEO MEMORY 4
+type: parsed
+protocol: nec1
+address: 135.69
+command: 195
+#
+name: OPT BLACK
+type: parsed
+protocol: nec1
+address: 135.69
+command: 204
+#
+name: BLACK
+type: parsed
+protocol: nec1
+address: 135.69
+command: 204
+#
+name: PICTURE MODE
+type: parsed
+protocol: nec1
+address: 135.69
+command: 205
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 135.69
+command: 205
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 135.69
+command: 206
+#
+name: PC - P_UP
+type: parsed
+protocol: nec1
+address: 135.69
+command: 208
+#
+name: PAGE UP
+type: parsed
+protocol: nec1
+address: 135.69
+command: 208
+#
+name: PC - P_DOWN
+type: parsed
+protocol: nec1
+address: 135.69
+command: 209
+#
+name: PAGE DOWN
+type: parsed
+protocol: nec1
+address: 135.69
+command: 209
+#
+name: PC - F5 (SLIDE SHOW)
+type: parsed
+protocol: nec1
+address: 135.69
+command: 210
+#
+name: PC - ESCAPE
+type: parsed
+protocol: nec1
+address: 135.69
+command: 212
+#
+name: ESC
+type: parsed
+protocol: nec1
+address: 135.69
+command: 212
+#
+name: PC - HOME
+type: parsed
+protocol: nec1
+address: 135.69
+command: 213
+#
+name: PC - END
+type: parsed
+protocol: nec1
+address: 135.69
+command: 214
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV CMEMORY/ADD
+type: parsed
+protocol: zenith
+address: 5.1
+command: 14
+#

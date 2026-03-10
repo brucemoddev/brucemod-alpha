@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT MODE
+type: parsed
+protocol: rc5
+address: 1
+command: 0
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 1
+command: 1
+#
+name: FACTORY PRESET
+type: parsed
+protocol: rc5
+address: 1
+command: 2
+#
+name: USER PRESETS
+type: parsed
+protocol: rc5
+address: 1
+command: 3
+#
+name: FUNCTION +
+type: parsed
+protocol: rc5
+address: 1
+command: 4
+#
+name: VALUE +
+type: parsed
+protocol: rc5
+address: 1
+command: 5
+#
+name: FUNCTION -
+type: parsed
+protocol: rc5
+address: 1
+command: 6
+#
+name: VALUE -
+type: parsed
+protocol: rc5
+address: 1
+command: 7
+#

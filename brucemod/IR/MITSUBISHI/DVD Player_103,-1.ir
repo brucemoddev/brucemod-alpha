@@ -1,0 +1,459 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 0
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 1
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 2
+#
+name: PLAY
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 4
+#
+name: PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 4
+#
+name: LAST PLAY
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 5
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 8
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 9
+#
+name: CLEAR
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 11
+#
+name: MEMORY
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 12
+#
+name: T/C
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 15
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 16
+#
+name: STOP
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 20
+#
+name: STOP []
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 20
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 23
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 24
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 27
+#
+name: PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 28
+#
+name: PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 28
+#
+name: PAUSE/STEP />
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 28
+#
+name: +10
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 30
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 32
+#
+name: SKIP >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 36
+#
+name: SKIP >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 36
+#
+name: SCAN >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 37
+#
+name: SEARCH >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 37
+#
+name: FWD >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 37
+#
+name: FL DIMMER
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 39
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 40
+#
+name: 3D-DNR
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 43
+#
+name: SKIP <<
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 44
+#
+name: SKIP <<
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 44
+#
+name: SCAN <<
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 45
+#
+name: SEARCH <<
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 45
+#
+name: REV <<
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 45
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 48
+#
+name: SLOW MOTION -
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 52
+#
+name: SLOW MOTION +
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 52
+#
+name: SLOW MOTION >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 52
+#
+name: SLOW >
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 52
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 53
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 53
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 54
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 56
+#
+name: SIDE A/B
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 61
+#
+name: A-B REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 61
+#
+name: A-B RPT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 61
+#
+name: RANDOM
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 62
+#
+name: TITLE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 64
+#
+name: UP
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 65
+#
+name: CURSOR ^
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 65
+#
+name: CURSOR UP
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 65
+#
+name: DOWN
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 73
+#
+name: CURSOR V
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 73
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 73
+#
+name: AUDIO MODE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 80
+#
+name: AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 80
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 82
+#
+name: SET UP
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 96
+#
+name: SET-UP
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 96
+#
+name: SUBTITLE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 99
+#
+name: SUB-TITLE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 99
+#
+name: ANGLE
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 100
+#
+name: FRAME <<
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 101
+#
+name: LEFT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 101
+#
+name: CURSOR <
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 101
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 101
+#
+name: ZOOM
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 102
+#
+name: SUB ON
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 103
+#
+name: SUB-TITLE ON/OFF
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 103
+#
+name: SUBTITLE ON OFF
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 103
+#
+name: FRAME >>
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 109
+#
+name: RIGHT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 109
+#
+name: CURSOR >
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 109
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 109
+#
+name: RETURN
+type: parsed
+protocol: Mitsubishi
+address: 103
+command: 111
+#

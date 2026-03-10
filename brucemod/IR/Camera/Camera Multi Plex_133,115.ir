@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 133.115
+command: 128
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 133.115
+command: 129
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 133.115
+command: 130
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 133.115
+command: 131
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 133.115
+command: 132
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 133.115
+command: 133
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 133.115
+command: 134
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 133.115
+command: 135
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 133.115
+command: 136
+#
+name: PIP ON
+type: parsed
+protocol: nec1
+address: 133.115
+command: 137
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 133.115
+command: 138
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 133.115
+command: 139
+#
+name: IR OP
+type: parsed
+protocol: nec1
+address: 133.115
+command: 140
+#
+name: PG DWN
+type: parsed
+protocol: nec1
+address: 133.115
+command: 141
+#
+name: PG UP
+type: parsed
+protocol: nec1
+address: 133.115
+command: 142
+#
+name: BELL MT
+type: parsed
+protocol: nec1
+address: 133.115
+command: 143
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 133.115
+command: 144
+#
+name: MAIN +
+type: parsed
+protocol: nec1
+address: 133.115
+command: 145
+#
+name: SUB +
+type: parsed
+protocol: nec1
+address: 133.115
+command: 146
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 133.115
+command: 147
+#
+name: MAIN -
+type: parsed
+protocol: nec1
+address: 133.115
+command: 149
+#
+name: SUB -
+type: parsed
+protocol: nec1
+address: 133.115
+command: 150
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 133.115
+command: 151
+#
+name: MUENU
+type: parsed
+protocol: nec1
+address: 133.115
+command: 152
+#

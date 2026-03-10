@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 15
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 26
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 45
+#
+name: KEY_MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 50
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 53
+#

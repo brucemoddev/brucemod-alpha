@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 4.2
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 4.2
+command: 1
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 4.2
+command: 2
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 4.2
+command: 3
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 4.2
+command: 4
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 4.2
+command: 5
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 4.2
+command: 6
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 4.2
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 4.2
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 4.2
+command: 9
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 4.2
+command: 10
+#
+name: CC
+type: parsed
+protocol: nec1
+address: 4.2
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 4.2
+command: 12
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 4.2
+command: 13
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 4.2
+command: 14
+#
+name: FAV-CH
+type: parsed
+protocol: nec1
+address: 4.2
+command: 15
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 4.2
+command: 16
+#
+name: PREVIOUS CHANNEL
+type: parsed
+protocol: nec1
+address: 4.2
+command: 17
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 4.2
+command: 18
+#
+name: CURSOR UP/CH+
+type: parsed
+protocol: nec1
+address: 4.2
+command: 19
+#
+name: CURSOR DOWN/CH-
+type: parsed
+protocol: nec1
+address: 4.2
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 4.2
+command: 21
+#
+name: CURSOR ENTER/SELECT
+type: parsed
+protocol: nec1
+address: 4.2
+command: 22
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 4.2
+command: 23
+#
+name: -
+type: parsed
+protocol: nec1
+address: 4.2
+command: 24
+#
+name: +
+type: parsed
+protocol: nec1
+address: 4.2
+command: 25
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 4.2
+command: 26
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 4.2
+command: 27
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 4.2
+command: 28
+#
+name: METER
+type: parsed
+protocol: nec1
+address: 4.2
+command: 29
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 4.2
+command: 30
+#
+name: CHANNEL ADD
+type: parsed
+protocol: nec1
+address: 4.2
+command: 31
+#
+name: CHANNEL DEL
+type: parsed
+protocol: nec1
+address: 4.2
+command: 64
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 4.2
+command: 65
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 4.2
+command: 66
+#

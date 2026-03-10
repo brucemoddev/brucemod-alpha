@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 133.118
+command: 0
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 133.118
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 133.118
+command: 2
+#
+name: START/STOP
+type: parsed
+protocol: nec
+address: 133.118
+command: 3
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 133.118
+command: 4
+#
+name: TAPE-RETURN
+type: parsed
+protocol: nec
+address: 133.118
+command: 6
+#
+name: COUNTER-RESET
+type: parsed
+protocol: nec
+address: 133.118
+command: 13
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 133.118
+command: 23
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 133.118
+command: 27
+#
+name: KEY_T
+type: parsed
+protocol: nec
+address: 133.118
+command: 28
+#
+name: KEY_W
+type: parsed
+protocol: nec
+address: 133.118
+command: 29
+#

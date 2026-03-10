@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DIGITAL DBS/BS
+type: parsed
+protocol: denon
+address: 12
+command: 131
+#
+name: DIGITAL VDP
+type: parsed
+protocol: denon
+address: 12
+command: 132
+#
+name: DIGITAL CD
+type: parsed
+protocol: denon
+address: 12
+command: 133
+#
+name: DIGITAL DAT
+type: parsed
+protocol: denon
+address: 12
+command: 134
+#
+name: AMP CD DIRECT
+type: parsed
+protocol: denon
+address: 12
+command: 140
+#
+name: STEREO T.M.
+type: parsed
+protocol: denon
+address: 12
+command: 157
+#
+name: DIRECT T.S.
+type: parsed
+protocol: denon
+address: 12
+command: 158
+#
+name: PARAM.DSP.REC
+type: parsed
+protocol: denon
+address: 12
+command: 159
+#
+name: AMP PARAMETER
+type: parsed
+protocol: denon
+address: 12
+command: 160
+#
+name: PARAM.MAIN
+type: parsed
+protocol: denon
+address: 12
+command: 160
+#
+name: PARAM.SUB
+type: parsed
+protocol: denon
+address: 12
+command: 161
+#
+name: AMP CLEAR
+type: parsed
+protocol: denon
+address: 12
+command: 162
+#
+name: PARAM.CLEAR
+type: parsed
+protocol: denon
+address: 12
+command: 162
+#
+name: AMP SET +
+type: parsed
+protocol: denon
+address: 12
+command: 163
+#
+name: PARAM.SET +
+type: parsed
+protocol: denon
+address: 12
+command: 163
+#
+name: AMP SET -
+type: parsed
+protocol: denon
+address: 12
+command: 164
+#
+name: PARAM.SET -
+type: parsed
+protocol: denon
+address: 12
+command: 164
+#
+name: AMP EFFECT
+type: parsed
+protocol: denon
+address: 12
+command: 166
+#
+name: AMP INPUT ADJ.
+type: parsed
+protocol: denon
+address: 12
+command: 167
+#
+name: AMP MEMORY
+type: parsed
+protocol: denon
+address: 12
+command: 169
+#
+name: AMP PERSONAL MEM 1
+type: parsed
+protocol: denon
+address: 12
+command: 170
+#
+name: AMP PERSONAL MEM 2
+type: parsed
+protocol: denon
+address: 12
+command: 171
+#
+name: VIDEO OFF
+type: parsed
+protocol: denon
+address: 12
+command: 178
+#
+name: AMP TUNER PRESET V
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: TUNER CH V
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: TUNER PRESET V
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: TUNER PRESET CH DN
+type: parsed
+protocol: denon
+address: 12
+command: 213
+#
+name: AMP TUNER PRESET ^
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: TUNER CH ^
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: TUNER PRESET ^
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: TUNER PRESET CH UP
+type: parsed
+protocol: denon
+address: 12
+command: 214
+#
+name: TUNER BAND
+type: parsed
+protocol: denon
+address: 12
+command: 215
+#
+name: TUNER AT/MANU
+type: parsed
+protocol: denon
+address: 12
+command: 216
+#
+name: TUNER TUNE ^
+type: parsed
+protocol: denon
+address: 12
+command: 217
+#
+name: TUNER TUNE V
+type: parsed
+protocol: denon
+address: 12
+command: 218
+#
+name: TUNER RF
+type: parsed
+protocol: denon
+address: 12
+command: 219
+#
+name: TUNER P.SCAN
+type: parsed
+protocol: denon
+address: 12
+command: 220
+#
+name: TUNER POWER
+type: parsed
+protocol: denon
+address: 12
+command: 221
+#

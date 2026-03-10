@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: S.TRACKING +
+type: parsed
+protocol: nec1
+address: 96
+command: 0
+#
+name: S.TRACKING -
+type: parsed
+protocol: nec1
+address: 96
+command: 1
+#
+name: S.SPEED +
+type: parsed
+protocol: nec1
+address: 96
+command: 2
+#
+name: S.SPEED -
+type: parsed
+protocol: nec1
+address: 96
+command: 3
+#
+name: 8 (AM)
+type: parsed
+protocol: nec1
+address: 96
+command: 4
+#
+name: 9 (PM)
+type: parsed
+protocol: nec1
+address: 96
+command: 5
+#
+name: F.FWD/VI.SRCH >>
+type: parsed
+protocol: nec1
+address: 96
+command: 9
+#
+name: REW/VI.SRCH <<
+type: parsed
+protocol: nec1
+address: 96
+command: 10
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 96
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 96
+command: 12
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 96
+command: 13
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 96
+command: 14
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 96
+command: 15
+#
+name: F.ADV >
+type: parsed
+protocol: nec1
+address: 96
+command: 16
+#
+name: SLOW >
+type: parsed
+protocol: nec1
+address: 96
+command: 17
+#
+name: X2 FAST
+type: parsed
+protocol: nec1
+address: 96
+command: 18
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 96
+command: 20
+#
+name: REC/PLAY
+type: parsed
+protocol: nec1
+address: 96
+command: 20
+#
+name: OPERATE
+type: parsed
+protocol: nec1
+address: 96
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 96
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 96
+command: 25
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 96
+command: 26
+#
+name: REC/PAUSE
+type: parsed
+protocol: nec1
+address: 96
+command: 26
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 96
+command: 28
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 96
+command: 29
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 96
+command: 30
+#
+name: 7 (WKL/DLY)
+type: parsed
+protocol: nec1
+address: 96
+command: 31
+#
+name: TRANS
+type: parsed
+protocol: nec1
+address: 96
+command: 64
+#
+name: COUNTER RESET
+type: parsed
+protocol: nec1
+address: 96
+command: 65
+#
+name: COUNTER MEMORY
+type: parsed
+protocol: nec1
+address: 96
+command: 68
+#
+name: UNKNOWN
+type: parsed
+protocol: nec1
+address: 96
+command: 69
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 96
+command: 71
+#

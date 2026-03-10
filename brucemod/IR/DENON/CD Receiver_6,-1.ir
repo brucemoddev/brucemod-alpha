@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MINI-DISC STOP
+type: parsed
+protocol: denon
+address: 6
+command: 225
+#
+name: MINI-DISC PLAY/PAUSE
+type: parsed
+protocol: denon
+address: 6
+command: 226
+#

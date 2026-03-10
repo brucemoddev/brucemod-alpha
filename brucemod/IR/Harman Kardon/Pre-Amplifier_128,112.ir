@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD STOP []
+type: parsed
+protocol: nec2
+address: 128.112
+command: 1
+#
+name: CD PLAY >
+type: parsed
+protocol: nec2
+address: 128.112
+command: 2
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec2
+address: 128.112
+command: 3
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 4
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 5
+#
+name: CD SEARCH >>
+type: parsed
+protocol: nec2
+address: 128.112
+command: 6
+#
+name: CD SEARCH <<
+type: parsed
+protocol: nec2
+address: 128.112
+command: 7
+#
+name: CD REPEAT
+type: parsed
+protocol: nec2
+address: 128.112
+command: 10
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 130
+#
+name: TUNING ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNING V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: SHIFT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 143
+#
+name: SEEK
+type: parsed
+protocol: nec1
+address: 128.112
+command: 145
+#
+name: RECEIVER POWER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 192
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 128.112
+command: 194
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 128.112
+command: 195
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 196
+#
+name: A/V 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 197
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VCR/TAPE 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VCR/TAPE 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: A/V 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 212
+#

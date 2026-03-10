@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VCR
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: Preset+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: Preset-
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: A/B/C/D/E
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 31
+#
+name: Menu+
+type: parsed
+protocol: nec
+address: 122
+command: 82
+#
+name: Menu-
+type: parsed
+protocol: nec
+address: 122
+command: 83
+#
+name: DTV/CBL
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: V-AUX
+type: parsed
+protocol: nec
+address: 122
+command: 85
+#
+name: Stereo
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 122
+command: 88
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 89
+#
+name: Test
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: Level
+type: parsed
+protocol: nec
+address: 122
+command: 134
+#
+name: KEY_6chIN
+type: parsed
+protocol: nec
+address: 122
+command: 135
+#
+name: Dobly/DTS
+type: parsed
+protocol: nec
+address: 122
+command: 144
+#
+name: Night
+type: parsed
+protocol: nec
+address: 122
+command: 149
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 122
+command: 151
+#
+name: MenuUp
+type: parsed
+protocol: nec
+address: 122
+command: 152
+#
+name: MenuDown
+type: parsed
+protocol: nec
+address: 122
+command: 153
+#
+name: SetMenu
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 122
+command: 193
+#
+name: MD/CD-R
+type: parsed
+protocol: nec
+address: 122
+command: 201
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 0
+#
+name: KEY_SLOW
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 15
+#
+name: KEY_FORWARD
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 17
+#
+name: KEY_REWIND
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 21
+#
+name: KEY_PAUSE
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 23
+#
+name: KEY_STOP
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 26
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 70
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 71
+#
+name: AUTO
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 92
+#
+name: KEY_AGAIN
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 95
+#
+name: KEY_INFO
+type: parsed
+protocol: aiwa
+address: 127.0
+command: 176
+#

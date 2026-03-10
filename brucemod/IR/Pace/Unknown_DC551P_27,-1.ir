@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OK
+type: parsed
+protocol: panasonic
+address: 27
+command: 12
+#
+name: KEY_1
+type: parsed
+protocol: panasonic
+address: 27
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: panasonic
+address: 27
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: panasonic
+address: 27
+command: 18
+#
+name: KEY_4
+type: parsed
+protocol: panasonic
+address: 27
+command: 19
+#
+name: KEY_5
+type: parsed
+protocol: panasonic
+address: 27
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: panasonic
+address: 27
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: panasonic
+address: 27
+command: 22
+#
+name: KEY_8
+type: parsed
+protocol: panasonic
+address: 27
+command: 23
+#
+name: KEY_9
+type: parsed
+protocol: panasonic
+address: 27
+command: 24
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 27
+command: 25
+#

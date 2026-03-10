@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR DOWN / SOUN
+type: parsed
+protocol: nec1
+address: 184.7
+command: 80
+#
+name: CURSOR UP / SOUND C
+type: parsed
+protocol: nec1
+address: 184.7
+command: 81
+#
+name: CURSOR LEFT / SOUND
+type: parsed
+protocol: nec1
+address: 184.7
+command: 82
+#
+name: CURSOR RIGHT / SOUND
+type: parsed
+protocol: nec1
+address: 184.7
+command: 83
+#
+name: ROOM EQ
+type: parsed
+protocol: nec1
+address: 184.7
+command: 86
+#
+name: FLAT
+type: parsed
+protocol: nec1
+address: 184.7
+command: 87
+#
+name: D-BASS
+type: parsed
+protocol: nec1
+address: 184.7
+command: 95
+#
+name: PLAY/PAUSE / DIGITAL
+type: parsed
+protocol: nec1
+address: 184.7
+command: 155
+#

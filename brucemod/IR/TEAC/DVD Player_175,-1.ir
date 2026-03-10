@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 54
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 99
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 100
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 160
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 161
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 162
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 163
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 164
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 165
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 166
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 167
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 168
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 169
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 176
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 180
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 181
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 182
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 183
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 184
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 185
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 188
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 190
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 191
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 227
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 229
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 239
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 242
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 243
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 175
+command: 244
+#

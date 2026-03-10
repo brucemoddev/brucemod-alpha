@@ -1,0 +1,1233 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PWR ON-OFF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 4
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 210.43
+command: 4
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 210.43
+command: 4
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 5
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 5
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 6
+#
+name: DISPLAY/NAVI
+type: parsed
+protocol: nec1
+address: 210.43
+command: 6
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 7
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 210.43
+command: 8
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 8
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 210.43
+command: 8
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 9
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 210.43
+command: 10
+#
+name: RANDOM 1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 10
+#
+name: STEP/SLOW >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: SLOW MOTION >
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: STEP +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: SLOW+
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: SLOW >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: STEP/SLOW +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 11
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: FAST FORWARD
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: FAST FORWARD>>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: SEARCH +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: FORWARD SEARCH
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: FRAME >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 12
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: RR
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: FAST REWIND<<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: FAST REWIND <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: SEARCH -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: REVERSE SEARCH
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: FRAME <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 13
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 14
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.43
+command: 15
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.43
+command: 16
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.43
+command: 17
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.43
+command: 18
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.43
+command: 19
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.43
+command: 20
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.43
+command: 21
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.43
+command: 22
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 210.43
+command: 23
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 210.43
+command: 24
+#
+name: 10+
+type: parsed
+protocol: nec1
+address: 210.43
+command: 24
+#
+name: SEARCH/ENTER
+type: parsed
+protocol: nec1
+address: 210.43
+command: 25
+#
+name: SEARCH
+type: parsed
+protocol: nec1
+address: 210.43
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 27
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 28
+#
+name: STOP 5.1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 28
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: CHAPTER +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: CHAPTER>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: NEXT DISC
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: NEXT TRACK/CHPT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: TRACK+
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: CHAP +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: TRACK >
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: TRACK-
+type: parsed
+protocol: nec1
+address: 210.43
+command: 29
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: CHAPTER -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: 
+type: parsed
+protocol: nec2
+address: 210.43
+command: 30
+#
+name: CHAPTER<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: PREV TRACK/CHPT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: TRACK-
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: CHAP -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: TRACK <
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 30
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 31
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 68
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 210.43
+command: 69
+#
+name: A/B
+type: parsed
+protocol: nec1
+address: 210.43
+command: 69
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 210.43
+command: 70
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 210.43
+command: 72
+#
+name: ZOOM ON
+type: parsed
+protocol: nec1
+address: 210.43
+command: 72
+#
+name: LAST M
+type: parsed
+protocol: nec1
+address: 210.43
+command: 73
+#
+name: LAST MEMORY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 73
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 210.43
+command: 74
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 74
+#
+name: LAST MEMORY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 74
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 210.43
+command: 75
+#
+name: SET-UP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 77
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 77
+#
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 210.43
+command: 78
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 78
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 210.43
+command: 79
+#
+name: MENU ( DISC )
+type: parsed
+protocol: nec1
+address: 210.43
+command: 79
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 80
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 80
+#
+name: C UP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 80
+#
+name: MENU UP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 80
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 81
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 81
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.43
+command: 81
+#
+name: C DN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 81
+#
+name: MENU DOWN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 81
+#
+name: CURSOR DN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 81
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 82
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 82
+#
+name: C LF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 82
+#
+name: MENU LEFT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 82
+#
+name: CURSOR LF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 82
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 83
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 83
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec
+address: 210.43
+command: 83
+#
+name: C RT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 83
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.43
+command: 83
+#
+name: MENU RIGHT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 83
+#
+name: CURSOR RT
+type: parsed
+protocol: nec1
+address: 210.43
+command: 83
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 84
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 210.43
+command: 85
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 85
+#
+name: SUBTITLE ON/OFF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 86
+#
+name: DNR
+type: parsed
+protocol: nec1
+address: 210.43
+command: 87
+#
+name: PLAY MODE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 88
+#
+name: SPEED >
+type: parsed
+protocol: nec1
+address: 210.43
+command: 138
+#
+name: SPEED <
+type: parsed
+protocol: nec1
+address: 210.43
+command: 139
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 140
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 140
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 140
+#
+name: STEP/SLOW <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: SLOW MOTION <
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: STEP-
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: SLOW-
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: SLOW <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: STEP/SLOW -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 143
+#
+name: NEXT SELECTION
+type: parsed
+protocol: nec1
+address: 210.43
+command: 144
+#
+name: AUDIO SEL
+type: parsed
+protocol: nec1
+address: 210.43
+command: 146
+#
+name: PROGRESSIVE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 146
+#
+name: PRORESSIVE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 146
+#
+name: V. REMOTE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 147
+#
+name: COND M
+type: parsed
+protocol: nec1
+address: 210.43
+command: 150
+#
+name: COND. M
+type: parsed
+protocol: nec1
+address: 210.43
+command: 150
+#
+name: CONDITION MEMORY
+type: parsed
+protocol: nec
+address: 210.43
+command: 150
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.43
+command: 150
+#
+name: FUNCTION M
+type: parsed
+protocol: nec1
+address: 210.43
+command: 151
+#
+name: FUNCTION MENU
+type: parsed
+protocol: nec1
+address: 210.43
+command: 151
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 210.43
+command: 153
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 210.43
+command: 153
+#
+name: PICTURE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 154
+#
+name: STILL -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 155
+#
+name: FRAME <<
+type: parsed
+protocol: nec1
+address: 210.43
+command: 155
+#
+name: STILL +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 156
+#
+name: FRAME >>
+type: parsed
+protocol: nec1
+address: 210.43
+command: 156
+#
+name: QUICK
+type: parsed
+protocol: nec1
+address: 210.43
+command: 158
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 208
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 208
+#
+name: ZOOM+
+type: parsed
+protocol: nec1
+address: 210.43
+command: 208
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec1
+address: 210.43
+command: 209
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 209
+#
+name: ZOOM-
+type: parsed
+protocol: nec1
+address: 210.43
+command: 209
+#
+name: CD MODE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 210
+#
+name: CDPLAY
+type: parsed
+protocol: nec1
+address: 210.43
+command: 210
+#
+name: CHAIN MODE
+type: parsed
+protocol: nec1
+address: 210.43
+command: 210
+#
+name: DISC +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 211
+#
+name: DISC+
+type: parsed
+protocol: nec1
+address: 210.43
+command: 211
+#
+name: DISC SKIP
+type: parsed
+protocol: nec1
+address: 210.43
+command: 211
+#
+name: DISC SKIP +
+type: parsed
+protocol: nec1
+address: 210.43
+command: 211
+#
+name: DISC -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 212
+#
+name: DISC-
+type: parsed
+protocol: nec1
+address: 210.43
+command: 212
+#
+name: DISC SKIP -
+type: parsed
+protocol: nec1
+address: 210.43
+command: 212
+#
+name: D1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 213
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 213
+#
+name: DISC1
+type: parsed
+protocol: nec1
+address: 210.43
+command: 213
+#
+name: D2
+type: parsed
+protocol: nec1
+address: 210.43
+command: 214
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 210.43
+command: 214
+#
+name: DISC2
+type: parsed
+protocol: nec1
+address: 210.43
+command: 214
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.43
+command: 214
+#
+name: D3
+type: parsed
+protocol: nec1
+address: 210.43
+command: 215
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 210.43
+command: 215
+#
+name: DISC3
+type: parsed
+protocol: nec1
+address: 210.43
+command: 215
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.43
+command: 215
+#
+name: D4
+type: parsed
+protocol: nec1
+address: 210.43
+command: 216
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 210.43
+command: 216
+#
+name: DISC4
+type: parsed
+protocol: nec1
+address: 210.43
+command: 216
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.43
+command: 216
+#
+name: D5
+type: parsed
+protocol: nec1
+address: 210.43
+command: 217
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 210.43
+command: 217
+#
+name: DISC5
+type: parsed
+protocol: nec1
+address: 210.43
+command: 217
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.43
+command: 217
+#
+name: DISC 6
+type: parsed
+protocol: nec1
+address: 210.43
+command: 218
+#
+name: DISC6
+type: parsed
+protocol: nec1
+address: 210.43
+command: 218
+#
+name: D6
+type: parsed
+protocol: nec1
+address: 210.43
+command: 218
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.43
+command: 218
+#
+name: RESOLUTION
+type: parsed
+protocol: nec1
+address: 210.43
+command: 221
+#
+name: ASPECT/ZOOM
+type: parsed
+protocol: nec1
+address: 210.43
+command: 222
+#
+name: VIDEO OFF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 223
+#
+name: VID OFF
+type: parsed
+protocol: nec1
+address: 210.43
+command: 223
+#

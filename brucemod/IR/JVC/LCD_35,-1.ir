@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TEXT
+type: parsed
+protocol: jvc
+address: 35
+command: 19
+#
+name: D
+type: parsed
+protocol: jvc
+address: 35
+command: 60
+#
+name: 3D SOUND / GREEN
+type: parsed
+protocol: jvc
+address: 35
+command: 61
+#
+name: PIP SOUND / YELLOW
+type: parsed
+protocol: jvc
+address: 35
+command: 62
+#
+name: PIP / BLUE
+type: parsed
+protocol: jvc
+address: 35
+command: 63
+#

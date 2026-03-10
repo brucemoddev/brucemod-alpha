@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DECK A/B
+type: parsed
+protocol: denon
+address: 4
+command: 83
+#
+name: DECK1 A/B
+type: parsed
+protocol: denon
+address: 4
+command: 83
+#
+name: DECK SELECT A/B
+type: parsed
+protocol: denon
+address: 4
+command: 83
+#
+name: DECK REV PLAY <
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: DECK1 REV PLAY <
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: DECK PLAY REV <
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: DECK PLAY(REV) <
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: DECK PLAY REV. <
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: DECK FF >>
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: DECK1 FF >>
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: DECK REW <<
+type: parsed
+protocol: denon
+address: 4
+command: 91
+#
+name: DECK1 REW <<
+type: parsed
+protocol: denon
+address: 4
+command: 91
+#
+name: DECK PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#
+name: DECK1 PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#
+name: DECK PAUSE
+type: parsed
+protocol: denon
+address: 4
+command: 93
+#
+name: DECK1 PAUSE 
+type: parsed
+protocol: denon
+address: 4
+command: 93
+#
+name: DECK STOP []
+type: parsed
+protocol: denon
+address: 4
+command: 94
+#
+name: DECK1 STOP []
+type: parsed
+protocol: denon
+address: 4
+command: 94
+#
+name: DECK REC
+type: parsed
+protocol: denon
+address: 4
+command: 95
+#
+name: DECK1 REC
+type: parsed
+protocol: denon
+address: 4
+command: 95
+#
+name: DECK POWER
+type: parsed
+protocol: denon
+address: 4
+command: 117
+#
+name: DAT SRCH >>
+type: parsed
+protocol: denon
+address: 4
+command: 216
+#
+name: DAT1 SRCH >>
+type: parsed
+protocol: denon
+address: 4
+command: 216
+#
+name: DAT SRCH <<
+type: parsed
+protocol: denon
+address: 4
+command: 217
+#
+name: DAT1 SRCH <<
+type: parsed
+protocol: denon
+address: 4
+command: 217
+#
+name: DAT FF >>
+type: parsed
+protocol: denon
+address: 4
+command: 218
+#
+name: DAT1 FF >>
+type: parsed
+protocol: denon
+address: 4
+command: 218
+#
+name: DAT REW <<
+type: parsed
+protocol: denon
+address: 4
+command: 219
+#
+name: DAT1 REW <<
+type: parsed
+protocol: denon
+address: 4
+command: 219
+#
+name: DAT PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 220
+#
+name: DAT1 PLAY >
+type: parsed
+protocol: denon
+address: 4
+command: 220
+#
+name: DAT PAUSE 
+type: parsed
+protocol: denon
+address: 4
+command: 221
+#
+name: DAT1 PAUSE 
+type: parsed
+protocol: denon
+address: 4
+command: 221
+#
+name: DAT STOP []
+type: parsed
+protocol: denon
+address: 4
+command: 222
+#
+name: DAT1 STOP []
+type: parsed
+protocol: denon
+address: 4
+command: 222
+#
+name: DAT REC
+type: parsed
+protocol: denon
+address: 4
+command: 223
+#
+name: DAT1 REC
+type: parsed
+protocol: denon
+address: 4
+command: 223
+#

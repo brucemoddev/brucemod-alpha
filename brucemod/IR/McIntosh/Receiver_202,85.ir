@@ -1,0 +1,321 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY >
+type: parsed
+protocol: nec2
+address: 202.85
+command: 1
+#
+name: AMS >>
+type: parsed
+protocol: nec2
+address: 202.85
+command: 2
+#
+name: SKIP >>
+type: parsed
+protocol: nec2
+address: 202.85
+command: 2
+#
+name: NEXT
+type: parsed
+protocol: nec2
+address: 202.85
+command: 2
+#
+name: AMS <<
+type: parsed
+protocol: nec2
+address: 202.85
+command: 3
+#
+name: SKIP <<
+type: parsed
+protocol: nec2
+address: 202.85
+command: 3
+#
+name: BACK
+type: parsed
+protocol: nec2
+address: 202.85
+command: 3
+#
+name: STOP []
+type: parsed
+protocol: nec2
+address: 202.85
+command: 4
+#
+name: ACC ON
+type: parsed
+protocol: nec2
+address: 202.85
+command: 5
+#
+name: ACC OFF
+type: parsed
+protocol: nec2
+address: 202.85
+command: 6
+#
+name: E
+type: parsed
+protocol: nec2
+address: 202.85
+command: 7
+#
+name: SAT
+type: parsed
+protocol: nec2
+address: 202.85
+command: 8
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 202.85
+command: 9
+#
+name: LV
+type: parsed
+protocol: nec2
+address: 202.85
+command: 10
+#
+name: VCR 1
+type: parsed
+protocol: nec2
+address: 202.85
+command: 11
+#
+name: VCR 2
+type: parsed
+protocol: nec2
+address: 202.85
+command: 12
+#
+name: V-AUX
+type: parsed
+protocol: nec2
+address: 202.85
+command: 13
+#
+name: CD 1
+type: parsed
+protocol: nec2
+address: 202.85
+command: 16
+#
+name: CD 2
+type: parsed
+protocol: nec2
+address: 202.85
+command: 17
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 202.85
+command: 17
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 202.85
+command: 18
+#
+name: TAPE 1
+type: parsed
+protocol: nec2
+address: 202.85
+command: 19
+#
+name: TAPE 2
+type: parsed
+protocol: nec2
+address: 202.85
+command: 20
+#
+name: V
+type: parsed
+protocol: nec2
+address: 202.85
+command: 22
+#
+name: VIDEO
+type: parsed
+protocol: nec2
+address: 202.85
+command: 22
+#
+name: PH/AUX
+type: parsed
+protocol: nec2
+address: 202.85
+command: 23
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 202.85
+command: 23
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 202.85
+command: 64
+#
+name: SYS OFF
+type: parsed
+protocol: nec2
+address: 202.85
+command: 65
+#
+name: SYSTEM OFF
+type: parsed
+protocol: nec2
+address: 202.85
+command: 65
+#
+name: VOLUME ^
+type: parsed
+protocol: nec2
+address: 202.85
+command: 66
+#
+name: VOLUME V
+type: parsed
+protocol: nec2
+address: 202.85
+command: 67
+#
+name: SURROUND ^
+type: parsed
+protocol: nec2
+address: 202.85
+command: 68
+#
+name: SURROUND V
+type: parsed
+protocol: nec2
+address: 202.85
+command: 69
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 202.85
+command: 70
+#
+name: SP
+type: parsed
+protocol: nec2
+address: 202.85
+command: 71
+#
+name: HOME
+type: parsed
+protocol: nec2
+address: 202.85
+command: 72
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 202.85
+command: 80
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 202.85
+command: 81
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 202.85
+command: 82
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 202.85
+command: 83
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 202.85
+command: 84
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 202.85
+command: 85
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 202.85
+command: 86
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 202.85
+command: 87
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 202.85
+command: 88
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 202.85
+command: 89
+#
+name: SEEK V
+type: parsed
+protocol: nec2
+address: 202.85
+command: 90
+#
+name: SEEK ^
+type: parsed
+protocol: nec2
+address: 202.85
+command: 91
+#
+name: REVIEW
+type: parsed
+protocol: nec2
+address: 202.85
+command: 92
+#
+name: SEARCH
+type: parsed
+protocol: nec2
+address: 202.85
+command: 92
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 202.85
+command: 93
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 202.85
+command: 94
+#

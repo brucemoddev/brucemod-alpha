@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BK012 POWER OFF
+type: parsed
+protocol: nec2
+address: 219.66
+command: 1
+#
+name: BK012 POWER ON
+type: parsed
+protocol: nec2
+address: 219.66
+command: 2
+#
+name: BK012 MUTE
+type: parsed
+protocol: nec2
+address: 219.66
+command: 3
+#
+name: BK012 INPUT 1
+type: parsed
+protocol: nec2
+address: 219.66
+command: 5
+#
+name: BK012 INPUT 3
+type: parsed
+protocol: nec2
+address: 219.66
+command: 6
+#
+name: BK012 INPUT 8
+type: parsed
+protocol: nec2
+address: 219.66
+command: 7
+#
+name: BK012 INPUT 2
+type: parsed
+protocol: nec2
+address: 219.66
+command: 9
+#
+name: BK012 INPUT 7
+type: parsed
+protocol: nec2
+address: 219.66
+command: 11
+#
+name: BK012 INPUT 4
+type: parsed
+protocol: nec2
+address: 219.66
+command: 13
+#
+name: BK012 TUNER 1
+type: parsed
+protocol: nec2
+address: 219.66
+command: 14
+#
+name: BK012 INPUT 5
+type: parsed
+protocol: nec2
+address: 219.66
+command: 15
+#
+name: BK012 STATION-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 23
+#
+name: BK012 STATION+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 24
+#
+name: BK012 TUNE-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 27
+#
+name: BK012 TUNE+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 28
+#
+name: BK012 LEFT
+type: parsed
+protocol: nec2
+address: 219.66
+command: 31
+#
+name: BK012 RIGHT
+type: parsed
+protocol: nec2
+address: 219.66
+command: 32
+#
+name: BK012 VOLUME-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 35
+#
+name: BK012 VOLUME+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 36
+#
+name: BK012 NUMBER +10
+type: parsed
+protocol: nec2
+address: 219.66
+command: 41
+#
+name: BK012 EQ
+type: parsed
+protocol: nec2
+address: 219.66
+command: 42
+#
+name: BK012 DOWN
+type: parsed
+protocol: nec2
+address: 219.66
+command: 45
+#
+name: BK012 UP
+type: parsed
+protocol: nec2
+address: 219.66
+command: 46
+#
+name: BK012 ENTER
+type: parsed
+protocol: nec2
+address: 219.66
+command: 48
+#
+name: BK012 NUMBER 1
+type: parsed
+protocol: nec2
+address: 219.66
+command: 49
+#
+name: BK012 NUMBER 2
+type: parsed
+protocol: nec2
+address: 219.66
+command: 50
+#
+name: BK012 NUMBER 3
+type: parsed
+protocol: nec2
+address: 219.66
+command: 51
+#
+name: BK012 NUMBER 4
+type: parsed
+protocol: nec2
+address: 219.66
+command: 53
+#
+name: BK012 NUMBER 5
+type: parsed
+protocol: nec2
+address: 219.66
+command: 54
+#
+name: BK012 NUMBER 6
+type: parsed
+protocol: nec2
+address: 219.66
+command: 55
+#
+name: BK012 NUMBER 7
+type: parsed
+protocol: nec2
+address: 219.66
+command: 57
+#
+name: BK012 NUMBER 8
+type: parsed
+protocol: nec2
+address: 219.66
+command: 58
+#
+name: BK012 NUMBER 9
+type: parsed
+protocol: nec2
+address: 219.66
+command: 59
+#
+name: BK012 NUMBER 0
+type: parsed
+protocol: nec2
+address: 219.66
+command: 62
+#
+name: BK012 SAVE
+type: parsed
+protocol: nec2
+address: 219.66
+command: 64
+#
+name: BK012 TUNER 3
+type: parsed
+protocol: nec2
+address: 219.66
+command: 68
+#
+name: BK012 INPUT 6
+type: parsed
+protocol: nec2
+address: 219.66
+command: 74
+#
+name: BK012 PRESET+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 75
+#
+name: BK012 D-IN
+type: parsed
+protocol: nec2
+address: 219.66
+command: 90
+#
+name: BK012 BASS-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 101
+#
+name: BK012 SOURCE+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 102
+#
+name: BK012 INPUT 9
+type: parsed
+protocol: nec2
+address: 219.66
+command: 110
+#
+name: BK012 AM
+type: parsed
+protocol: nec2
+address: 219.66
+command: 118
+#
+name: BK012 TREBLE-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 121
+#
+name: BK012 VIDEO-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 122
+#
+name: BK012 EXIT
+type: parsed
+protocol: nec2
+address: 219.66
+command: 125
+#
+name: BK012 TUNER 2
+type: parsed
+protocol: nec2
+address: 219.66
+command: 132
+#
+name: BK012 FM
+type: parsed
+protocol: nec2
+address: 219.66
+command: 142
+#
+name: BK012 SOURCE-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 166
+#
+name: BK012 SLEEP
+type: parsed
+protocol: nec2
+address: 219.66
+command: 179
+#
+name: BK012 PRESET-
+type: parsed
+protocol: nec2
+address: 219.66
+command: 198
+#
+name: BK012 LOUDNESS
+type: parsed
+protocol: nec2
+address: 219.66
+command: 207
+#
+name: BK012 AUTO LEVEL
+type: parsed
+protocol: nec2
+address: 219.66
+command: 228
+#
+name: BK012 BASS+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 229
+#
+name: BK012 TREBLE+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 249
+#
+name: BK012 VIDEO+
+type: parsed
+protocol: nec2
+address: 219.66
+command: 250
+#

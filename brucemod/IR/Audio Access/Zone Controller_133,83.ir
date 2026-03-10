@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER
+type: parsed
+protocol: nec1
+address: 133.83
+command: 128
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 133.83
+command: 129
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 130
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 133.83
+command: 131
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 133.83
+command: 133
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 133.83
+command: 134
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 133.83
+command: 141
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 133.83
+command: 142
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 143
+#
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 133.83
+command: 148
+#
+name: CHANNEL V
+type: parsed
+protocol: nec1
+address: 133.83
+command: 149
+#
+name: CHANNEL ^
+type: parsed
+protocol: nec1
+address: 133.83
+command: 150
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 151
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 133.83
+command: 156
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 133.83
+command: 157
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 133.83
+command: 158
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 133.83
+command: 159
+#

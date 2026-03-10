@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: P1t8P9t16P17t24
+type: parsed
+protocol: nec
+address: 209
+command: 13
+#
+name: P1P9P17
+type: parsed
+protocol: nec
+address: 209
+command: 14
+#
+name: P2P10P18
+type: parsed
+protocol: nec
+address: 209
+command: 15
+#
+name: P3P11P19
+type: parsed
+protocol: nec
+address: 209
+command: 16
+#
+name: P4P12P20
+type: parsed
+protocol: nec
+address: 209
+command: 17
+#
+name: P5P13P21
+type: parsed
+protocol: nec
+address: 209
+command: 18
+#
+name: P6P14P22
+type: parsed
+protocol: nec
+address: 209
+command: 19
+#
+name: P7P15P23
+type: parsed
+protocol: nec
+address: 209
+command: 20
+#
+name: P8P16P24
+type: parsed
+protocol: nec
+address: 209
+command: 21
+#

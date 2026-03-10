@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: A-B
+type: parsed
+protocol: nec1
+address: 135.34
+command: 67
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 135.34
+command: 80
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 135.34
+command: 82
+#
+name: FORWARD
+type: parsed
+protocol: nec1
+address: 135.34
+command: 83
+#
+name: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 87
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 135.34
+command: 88
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 91
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 92
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 135.34
+command: 94
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 96
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 112
+#
+name: DISC MENU
+type: parsed
+protocol: nec1
+address: 135.34
+command: 113
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 135.34
+command: 114
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 135.34
+command: 115
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 121
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 122
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 135.34
+command: 123
+#
+name: V.SURR
+type: parsed
+protocol: nec1
+address: 135.34
+command: 129
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 135.34
+command: 198
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 135.34
+command: 199
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec1
+address: 135.34
+command: 200
+#
+name: PICTURE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 201
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 203
+#
+name: 
+type: parsed
+protocol: nec
+address: 135.34
+command: 205
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 135.34
+command: 205
+#
+name: 
+type: parsed
+protocol: nec1
+address: 135.34
+command: 205
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 135.34
+command: 207
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 208
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.34
+command: 223
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.34
+command: 224
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 135.34
+command: 225
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 135.34
+command: 226
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.34
+command: 227
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.34
+command: 228
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.34
+command: 229
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.34
+command: 230
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 135.34
+command: 231
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 135.34
+command: 232
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 135.34
+command: 233
+#
+name: 100+
+type: parsed
+protocol: nec1
+address: 135.34
+command: 236
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 239
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 240
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 135.34
+command: 241
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 243
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 246
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 135.34
+command: 247
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 135.34
+command: 250
+#
+name: SPEED
+type: parsed
+protocol: nec1
+address: 135.34
+command: 251
+#
+name: C.RESET
+type: parsed
+protocol: nec1
+address: 135.34
+command: 252
+#

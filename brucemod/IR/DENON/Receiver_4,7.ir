@@ -1,0 +1,609 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER Z4 TOGGLE
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 5
+#
+name: Z4 ON
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 6
+#
+name: POWER Z4 ON
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 6
+#
+name: Z4 OFF
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 7
+#
+name: POWER Z4 OFF
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 7
+#
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 27
+#
+name: NET CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 27
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 28
+#
+name: NET CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 28
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 29
+#
+name: NET CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 29
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 30
+#
+name: NET CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 30
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 31
+#
+name: NET ENTER
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 31
+#
+name: TUNER UP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 144
+#
+name: TUNER DOWN
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 145
+#
+name: CHANNEL +
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 146
+#
+name: NET PRESET+
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 146
+#
+name: CHANNEL -
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 147
+#
+name: NET PRESET-
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 147
+#
+name: NET SHIFT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 148
+#
+name: MODE
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 156
+#
+name: MEMO
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 160
+#
+name: NET MEMORY
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 160
+#
+name: SEARCH
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 163
+#
+name: NET PG./CHAR. SRCH.
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 163
+#
+name: 1
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 176
+#
+name: NET 1
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 176
+#
+name: 2
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 177
+#
+name: NET 2
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 177
+#
+name: 3
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 178
+#
+name: NET 3
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 178
+#
+name: 4
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 179
+#
+name: NET 4
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 179
+#
+name: 5
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 180
+#
+name: NET 5
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 180
+#
+name: 6
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 181
+#
+name: NET 6
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 181
+#
+name: 7
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 182
+#
+name: NET 7
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 182
+#
+name: 8
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 183
+#
+name: NET 8
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 183
+#
+name: 9
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 184
+#
+name: 0
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 185
+#
+name: TUNER A
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 248
+#
+name: NET SHIFT A
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 248
+#
+name: TUNER B
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 249
+#
+name: NET SHIFT B
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 249
+#
+name: TUNER C
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 250
+#
+name: NET SHIFT C
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 250
+#
+name: TUNER D
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 251
+#
+name: NET SHIFT D
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 251
+#
+name: TUNER E
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 252
+#
+name: NET SHIFT E
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 252
+#
+name: TUNER F
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 253
+#
+name: NET SHIFT F
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 253
+#
+name: TUNER G
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 254
+#
+name: NET SHIFT G
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 254
+#
+name: STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 645
+#
+name: INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 704
+#
+name: INPUT TUNER
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 705
+#
+name: INPUT CD
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 706
+#
+name: TOGGLE NET/USB
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 711
+#
+name: INPUT XM
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 714
+#
+name: INPUT HD RADIO
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 715
+#
+name: INPUT NET
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 716
+#
+name: INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 717
+#
+name: INPUT USB
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 718
+#
+name: INPUT DVD
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 720
+#
+name: INPUT HDP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 721
+#
+name: INPUT TV/CBL
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 722
+#
+name: INPUT SAT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 723
+#
+name: INPUT VCR
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 725
+#
+name: INPUT DVR
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 726
+#
+name: INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 729
+#
+name: TOGGLE DVD/HDP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 732
+#
+name: TOGGLE VCR/DVR
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 735
+#
+name: NET PLAY
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 773
+#
+name: NET PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 774
+#
+name: NET STOP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 775
+#
+name: NET SKIP +
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 776
+#
+name: NET SKIP -
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 777
+#
+name: NET REPEAT ONE
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 778
+#
+name: NET REPEAT OFF
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 779
+#
+name: NET RANDON ON
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 780
+#
+name: NET RANDOM OFF
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 781
+#
+name: NET REPEAT ALL
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 785
+#
+name: NET STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 790
+#
+name: Z4 REPEAT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 956
+#
+name: Z4 RANDOM
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 957
+#
+name: Z4 USB DIR. PLAY
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 958
+#
+name: Z4 FAVORITE DIR.PLAY
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 959
+#
+name: Z4 PRESET CH+
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 972
+#
+name: Z4 PRESET CH-
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 973
+#
+name: Z4 PRESET SHIFT
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 974
+#
+name: Z4 SEARCH (RDS)
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 983
+#
+name: Z4 PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 992
+#
+name: Z4 STOP
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 993
+#
+name: Z4 SKIP/TUNE-
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 995
+#
+name: Z4 SKIP/TUNE+
+type: parsed
+protocol: Denon-K
+address: 4.7
+command: 996
+#

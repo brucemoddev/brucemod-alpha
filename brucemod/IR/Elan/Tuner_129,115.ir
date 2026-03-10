@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 129.115
+command: 7
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 129.115
+command: 10
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 129.115
+command: 11
+#
+name: TUNING/ PRESET UP
+type: parsed
+protocol: nec1
+address: 129.115
+command: 12
+#
+name: PRESET+
+type: parsed
+protocol: nec1
+address: 129.115
+command: 12
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 129.115
+command: 12
+#
+name: TUNING/ PRESET DOWN
+type: parsed
+protocol: nec1
+address: 129.115
+command: 13
+#
+name: PRESET-
+type: parsed
+protocol: nec1
+address: 129.115
+command: 13
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 129.115
+command: 13
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 129.115
+command: 14
+#
+name: PRRESET SELECT
+type: parsed
+protocol: nec1
+address: 129.115
+command: 15
+#
+name: PRESET SELECT
+type: parsed
+protocol: nec1
+address: 129.115
+command: 15
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 129.115
+command: 16
+#
+name: FM MODE
+type: parsed
+protocol: nec1
+address: 129.115
+command: 17
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 129.115
+command: 22
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 129.115
+command: 22
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 129.115
+command: 23
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 129.115
+command: 24
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 129.115
+command: 25
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 129.115
+command: 26
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 129.115
+command: 27
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 129.115
+command: 28
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 129.115
+command: 29
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 129.115
+command: 30
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 129.115
+command: 31
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 129.115
+command: 74
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 129.115
+command: 75
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 129.115
+command: 78
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 129.115
+command: 80
+#
+name: FM MODE
+type: parsed
+protocol: nec1
+address: 129.115
+command: 81
+#
+name: PWR ON
+type: parsed
+protocol: nec1
+address: 129.115
+command: 83
+#
+name: PWR OFF
+type: parsed
+protocol: nec1
+address: 129.115
+command: 84
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 129.115
+command: 86
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 129.115
+command: 87
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 129.115
+command: 88
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 129.115
+command: 89
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 129.115
+command: 90
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 129.115
+command: 91
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 129.115
+command: 92
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 129.115
+command: 93
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 129.115
+command: 94
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 129.115
+command: 95
+#

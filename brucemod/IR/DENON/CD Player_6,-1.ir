@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STROBE
+type: parsed
+protocol: denon
+address: 6
+command: 65
+#
+name: DIGITAL FNR
+type: parsed
+protocol: denon
+address: 6
+command: 66
+#
+name: STILL & SOUND
+type: parsed
+protocol: denon
+address: 6
+command: 67
+#
+name: ART
+type: parsed
+protocol: denon
+address: 6
+command: 87
+#
+name: SIDE A
+type: parsed
+protocol: denon
+address: 6
+command: 118
+#
+name: SIDE B
+type: parsed
+protocol: denon
+address: 6
+command: 119
+#
+name: JOG REV
+type: parsed
+protocol: denon
+address: 6
+command: 121
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 6
+command: 129
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: denon
+address: 6
+command: 130
+#
+name: STOP []
+type: parsed
+protocol: denon
+address: 6
+command: 131
+#
+name: PLAY>/PAUSE
+type: parsed
+protocol: denon
+address: 6
+command: 132
+#
+name: >>
+type: parsed
+protocol: denon
+address: 6
+command: 134
+#
+name: <<
+type: parsed
+protocol: denon
+address: 6
+command: 135
+#
+name: >>
+type: parsed
+protocol: denon
+address: 6
+command: 136
+#
+name: <<
+type: parsed
+protocol: denon
+address: 6
+command: 137
+#
+name: PROGRAM
+type: parsed
+protocol: denon
+address: 6
+command: 138
+#
+name: CALL
+type: parsed
+protocol: denon
+address: 6
+command: 139
+#
+name: REPEAT
+type: parsed
+protocol: denon
+address: 6
+command: 142
+#
+name: A/B
+type: parsed
+protocol: denon
+address: 6
+command: 143
+#
+name: SEARCH MODE
+type: parsed
+protocol: denon
+address: 6
+command: 144
+#
+name: DIGITAL/ANALOG/CX
+type: parsed
+protocol: denon
+address: 6
+command: 145
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: denon
+address: 6
+command: 146
+#
+name: ON SCREEN
+type: parsed
+protocol: denon
+address: 6
+command: 147
+#
+name: INTRO SCAN
+type: parsed
+protocol: denon
+address: 6
+command: 148
+#
+name: MULTI SPEED >
+type: parsed
+protocol: denon
+address: 6
+command: 152
+#
+name: MULTI SPEED <
+type: parsed
+protocol: denon
+address: 6
+command: 153
+#
+name: STROBE +
+type: parsed
+protocol: denon
+address: 6
+command: 154
+#
+name: STROBE -
+type: parsed
+protocol: denon
+address: 6
+command: 155
+#
+name: >
+type: parsed
+protocol: denon
+address: 6
+command: 156
+#
+name: <
+type: parsed
+protocol: denon
+address: 6
+command: 157
+#
+name: RANDOM
+type: parsed
+protocol: denon
+address: 6
+command: 158
+#
+name: AUTO SPACE
+type: parsed
+protocol: denon
+address: 6
+command: 159
+#
+name: 0
+type: parsed
+protocol: denon
+address: 6
+command: 160
+#
+name: 1
+type: parsed
+protocol: denon
+address: 6
+command: 161
+#
+name: 2
+type: parsed
+protocol: denon
+address: 6
+command: 162
+#
+name: 3
+type: parsed
+protocol: denon
+address: 6
+command: 163
+#
+name: 4
+type: parsed
+protocol: denon
+address: 6
+command: 164
+#
+name: 5
+type: parsed
+protocol: denon
+address: 6
+command: 165
+#
+name: 6
+type: parsed
+protocol: denon
+address: 6
+command: 166
+#
+name: 8
+type: parsed
+protocol: denon
+address: 6
+command: 168
+#
+name: 9
+type: parsed
+protocol: denon
+address: 6
+command: 169
+#
+name: SINGLE
+type: parsed
+protocol: denon
+address: 6
+command: 177
+#
+name: JOG FWD
+type: parsed
+protocol: denon
+address: 6
+command: 185
+#

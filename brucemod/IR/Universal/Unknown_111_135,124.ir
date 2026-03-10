@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 135.124
+command: 12
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 135.124
+command: 13
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 135.124
+command: 14
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 135.124
+command: 15
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 135.124
+command: 16
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 135.124
+command: 17
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 135.124
+command: 18
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 135.124
+command: 19
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 135.124
+command: 21
+#
+name: EmptyWindow
+type: parsed
+protocol: nec
+address: 135.124
+command: 32
+#
+name: Shift7
+type: parsed
+protocol: nec
+address: 135.124
+command: 33
+#
+name: Shift9
+type: parsed
+protocol: nec
+address: 135.124
+command: 34
+#
+name: Shift8
+type: parsed
+protocol: nec
+address: 135.124
+command: 35
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 135.124
+command: 36
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 135.124
+command: 76
+#
+name: ShiftStop
+type: parsed
+protocol: nec
+address: 135.124
+command: 82
+#
+name: ShiftPlay
+type: parsed
+protocol: nec
+address: 135.124
+command: 83
+#
+name: ShiftPause
+type: parsed
+protocol: nec
+address: 135.124
+command: 85
+#
+name: ShiftFF
+type: parsed
+protocol: nec
+address: 135.124
+command: 86
+#
+name: ShiftRew
+type: parsed
+protocol: nec
+address: 135.124
+command: 87
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.124
+command: 128
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 135.124
+command: 136
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 135.124
+command: 137
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 135.124
+command: 140
+#
+name: Ent
+type: parsed
+protocol: nec
+address: 135.124
+command: 141
+#
+name: Shift0
+type: parsed
+protocol: nec
+address: 135.124
+command: 145
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 135.124
+command: 148
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 135.124
+command: 153
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 135.124
+command: 154
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 135.124
+command: 156
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 135.124
+command: 157
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 135.124
+command: 158
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 135.124
+command: 159
+#
+name: Shift2
+type: parsed
+protocol: nec
+address: 135.124
+command: 192
+#
+name: Shift3
+type: parsed
+protocol: nec
+address: 135.124
+command: 193
+#
+name: Transparent
+type: parsed
+protocol: nec
+address: 135.124
+command: 194
+#
+name: FullWindow
+type: parsed
+protocol: nec
+address: 135.124
+command: 204
+#
+name: Shift4
+type: parsed
+protocol: nec
+address: 135.124
+command: 206
+#
+name: Shift5
+type: parsed
+protocol: nec
+address: 135.124
+command: 207
+#
+name: ShiftChnUp
+type: parsed
+protocol: nec
+address: 135.124
+command: 208
+#
+name: ChnDn
+type: parsed
+protocol: nec
+address: 135.124
+command: 209
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 135.124
+command: 210
+#
+name: ShiftChnDn
+type: parsed
+protocol: nec
+address: 135.124
+command: 213
+#
+name: ShiftVolUp
+type: parsed
+protocol: nec
+address: 135.124
+command: 214
+#
+name: ShiftVolDn
+type: parsed
+protocol: nec
+address: 135.124
+command: 215
+#
+name: ShiftInfo
+type: parsed
+protocol: nec
+address: 135.124
+command: 218
+#
+name: AB
+type: parsed
+protocol: nec
+address: 135.124
+command: 221
+#
+name: Shift6
+type: parsed
+protocol: nec
+address: 135.124
+command: 255
+#

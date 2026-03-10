@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MONO T0
+type: parsed
+protocol: rc5
+address: 17
+command: 28
+#
+name: MONO T1
+type: parsed
+protocol: rc5
+address: 17
+command: 28
+#
+name: - (SCAN/TUNE) T0
+type: parsed
+protocol: rc5
+address: 17
+command: 34
+#
+name: - (SCAN/TUNE) T1
+type: parsed
+protocol: rc5
+address: 17
+command: 34
+#
+name: + (SCAN/TUNE) T0
+type: parsed
+protocol: rc5
+address: 17
+command: 40
+#
+name: + (SCAN/TUNE) T1
+type: parsed
+protocol: rc5
+address: 17
+command: 40
+#
+name: BAND T0
+type: parsed
+protocol: rc5
+address: 17
+command: 46
+#
+name: BAND T1
+type: parsed
+protocol: rc5
+address: 17
+command: 46
+#
+name: STORE T0
+type: parsed
+protocol: rc5
+address: 17
+command: 55
+#
+name: STORE T1
+type: parsed
+protocol: rc5
+address: 17
+command: 55
+#
+name: PRESET T0
+type: parsed
+protocol: rc5
+address: 17
+command: 56
+#
+name: PRESET T1
+type: parsed
+protocol: rc5
+address: 17
+command: 56
+#
+name: SIGNAL T0
+type: parsed
+protocol: rc5
+address: 17
+command: 57
+#
+name: SIGNAL T1
+type: parsed
+protocol: rc5
+address: 17
+command: 57
+#
+name: TUNE T0
+type: parsed
+protocol: rc5
+address: 17
+command: 58
+#
+name: TUNE T1
+type: parsed
+protocol: rc5
+address: 17
+command: 58
+#
+name: SCAN T0
+type: parsed
+protocol: rc5
+address: 17
+command: 59
+#
+name: SCAN T1
+type: parsed
+protocol: rc5
+address: 17
+command: 59
+#

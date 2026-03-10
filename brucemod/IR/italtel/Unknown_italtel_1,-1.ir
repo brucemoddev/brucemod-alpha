@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: recs80_45
+address: 1
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: recs80_45
+address: 1
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: recs80_45
+address: 1
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: recs80_45
+address: 1
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: recs80_45
+address: 1
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: recs80_45
+address: 1
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: recs80_45
+address: 1
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: recs80_45
+address: 1
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: recs80_45
+address: 1
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: recs80_45
+address: 1
+command: 9
+#
+name: KEY_OK
+type: parsed
+protocol: recs80_45
+address: 1
+command: 15
+#
+name: KEY_INFO
+type: parsed
+protocol: recs80_45
+address: 1
+command: 20
+#
+name: ARROW_UP
+type: parsed
+protocol: recs80_45
+address: 1
+command: 22
+#
+name: ARROW_LEFT
+type: parsed
+protocol: recs80_45
+address: 1
+command: 23
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: recs80_45
+address: 1
+command: 25
+#
+name: ARROW_DOWN
+type: parsed
+protocol: recs80_45
+address: 1
+command: 29
+#
+name: TV/SAT
+type: parsed
+protocol: recs80_45
+address: 1
+command: 30
+#
+name: TV/RADIO
+type: parsed
+protocol: recs80_45
+address: 1
+command: 31
+#
+name: KEY_MENU
+type: parsed
+protocol: recs80_45
+address: 1
+command: 36
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: recs80_45
+address: 1
+command: 37
+#
+name: STREAM
+type: parsed
+protocol: recs80_45
+address: 1
+command: 40
+#
+name: KEY_ESC
+type: parsed
+protocol: recs80_45
+address: 1
+command: 45
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: recs80_45
+address: 1
+command: 49
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: recs80_45
+address: 1
+command: 51
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 1
+command: 53
+#
+name: KEY_MUTE
+type: parsed
+protocol: recs80_45
+address: 1
+command: 56
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 1
+command: 58
+#
+name: KEY_POWER
+type: parsed
+protocol: recs80_45
+address: 1
+command: 60
+#

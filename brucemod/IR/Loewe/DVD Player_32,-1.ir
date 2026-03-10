@@ -1,0 +1,393 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD 0
+type: parsed
+protocol: konka
+address: 32
+command: 0
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 0
+#
+name: FM 0
+type: parsed
+protocol: konka
+address: 32
+command: 0
+#
+name: DVD 1
+type: parsed
+protocol: konka
+address: 32
+command: 1
+#
+name: FM 1
+type: parsed
+protocol: konka
+address: 32
+command: 1
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 1
+#
+name: DVD 2
+type: parsed
+protocol: konka
+address: 32
+command: 2
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 2
+#
+name: DVD 3
+type: parsed
+protocol: konka
+address: 32
+command: 3
+#
+name: DVD 4
+type: parsed
+protocol: konka
+address: 32
+command: 4
+#
+name: FM 4
+type: parsed
+protocol: konka
+address: 32
+command: 4
+#
+name: DVD 5
+type: parsed
+protocol: konka
+address: 32
+command: 5
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 5
+#
+name: FM 5
+type: parsed
+protocol: konka
+address: 32
+command: 5
+#
+name: DVD 6
+type: parsed
+protocol: konka
+address: 32
+command: 6
+#
+name: FM 6
+type: parsed
+protocol: konka
+address: 32
+command: 6
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 6
+#
+name: DVD 7
+type: parsed
+protocol: konka
+address: 32
+command: 7
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 7
+#
+name: FM 7
+type: parsed
+protocol: konka
+address: 32
+command: 7
+#
+name: DVD 8
+type: parsed
+protocol: konka
+address: 32
+command: 8
+#
+name: FM 8
+type: parsed
+protocol: konka
+address: 32
+command: 8
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 8
+#
+name: DVD 9
+type: parsed
+protocol: konka
+address: 32
+command: 9
+#
+name: FM 9
+type: parsed
+protocol: konka
+address: 32
+command: 9
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 9
+#
+name: POWER
+type: parsed
+protocol: konka
+address: 32
+command: 12
+#
+name: RC1 MUTE
+type: parsed
+protocol: konka
+address: 32
+command: 13
+#
+name: FM ON
+type: parsed
+protocol: konka
+address: 32
+command: 28
+#
+name: CERTOS ON PLAY
+type: parsed
+protocol: konka
+address: 32
+command: 33
+#
+name: AUX 3 DIGITAL
+type: parsed
+protocol: konka
+address: 32
+command: 34
+#
+name: FM 11
+type: parsed
+protocol: konka
+address: 32
+command: 41
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 41
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 42
+#
+name: FM SEARCH FF
+type: parsed
+protocol: konka
+address: 32
+command: 50
+#
+name: FM SEARCH REV
+type: parsed
+protocol: konka
+address: 32
+command: 51
+#
+name: DVD CURSOR UPP
+type: parsed
+protocol: konka
+address: 32
+command: 88
+#
+name: FM SKIP FF
+type: parsed
+protocol: konka
+address: 32
+command: 88
+#
+name: DVD CURSOR NER
+type: parsed
+protocol: konka
+address: 32
+command: 89
+#
+name: FM SKIP REV
+type: parsed
+protocol: konka
+address: 32
+command: 89
+#
+name: NSTER
+type: parsed
+protocol: konka
+address: 32
+command: 90
+#
+name: VOLYM -.
+type: parsed
+protocol: konka
+address: 32
+command: 90
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 90
+#
+name: GER
+type: parsed
+protocol: konka
+address: 32
+command: 91
+#
+name: VOLYM +
+type: parsed
+protocol: konka
+address: 32
+command: 91
+#
+name: DVD CURSOR ENTER
+type: parsed
+protocol: konka
+address: 32
+command: 92
+#
+name: DVD DISC MENY
+type: parsed
+protocol: konka
+address: 32
+command: 142
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 142
+#
+name: DVD ZOOM
+type: parsed
+protocol: konka
+address: 32
+command: 144
+#
+name: DVD KAPITEL
+type: parsed
+protocol: konka
+address: 32
+command: 145
+#
+name: CD REPEAT
+type: parsed
+protocol: konka
+address: 32
+command: 150
+#
+name: DVD REPEAT
+type: parsed
+protocol: konka
+address: 32
+command: 153
+#
+name: CD TIME
+type: parsed
+protocol: konka
+address: 32
+command: 157
+#
+name: CD TEXT
+type: parsed
+protocol: konka
+address: 32
+command: 159
+#
+name: CD MIX
+type: parsed
+protocol: konka
+address: 32
+command: 161
+#
+name: DVD PAUSE
+type: parsed
+protocol: konka
+address: 32
+command: 192
+#
+name: DVD SETUP
+type: parsed
+protocol: konka
+address: 32
+command: 193
+#
+name: DVD EXIT
+type: parsed
+protocol: konka
+address: 32
+command: 194
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 194
+#
+name: DVD SKIP REV
+type: parsed
+protocol: konka
+address: 32
+command: 196
+#
+name: DVD STOP
+type: parsed
+protocol: konka
+address: 32
+command: 197
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 197
+#
+name: DVD PLAY
+type: parsed
+protocol: konka
+address: 32
+command: 198
+#
+name: 
+type: parsed
+protocol: konka
+address: 32
+command: 198
+#
+name: DVD SKIP FF
+type: parsed
+protocol: konka
+address: 32
+command: 199
+#

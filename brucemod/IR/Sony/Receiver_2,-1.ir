@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: sony12
+address: 2
+command: 46
+#
+name: 
+type: parsed
+protocol: sony12
+address: 2
+command: 47
+#
+name: CURSER ENTER
+type: parsed
+protocol: sony12
+address: 2
+command: 81
+#

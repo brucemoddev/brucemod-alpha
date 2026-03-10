@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Cero
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: Uno
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: Dos
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: Tres
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: Cuatro
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: Cinco
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: Seis
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: Siete
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: Ocho
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: Nueve
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: PP
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: DBB
+type: parsed
+protocol: rc5
+address: 0
+command: 22
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: Stereo
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: Spatial
+type: parsed
+protocol: rc5
+address: 0
+command: 36
+#
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: AV
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: Arriba
+type: parsed
+protocol: rc5
+address: 0
+command: 80
+#
+name: Abajo
+type: parsed
+protocol: rc5
+address: 0
+command: 81
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 0
+command: 82
+#
+name: Out
+type: parsed
+protocol: rc5
+address: 0
+command: 83
+#
+name: Izquierda
+type: parsed
+protocol: rc5
+address: 0
+command: 85
+#
+name: Derecha
+type: parsed
+protocol: rc5
+address: 0
+command: 86
+#

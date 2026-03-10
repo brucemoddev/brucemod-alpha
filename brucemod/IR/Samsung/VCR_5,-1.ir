@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: necx2
+address: 5
+command: 72
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: necx2
+address: 5
+command: 50
+#
+name: INFO
+type: parsed
+protocol: necx2
+address: 5
+command: 30
+#
+name: DVD
+type: parsed
+protocol: necx2
+address: 5
+command: 85
+#
+name: VCR
+type: parsed
+protocol: necx2
+address: 5
+command: 40
+#
+name: TV/VCR
+type: parsed
+protocol: necx2
+address: 5
+command: 1
+#
+name: INPUT
+type: parsed
+protocol: necx2
+address: 5
+command: 89
+#
+name: STOP
+type: parsed
+protocol: necx2
+address: 5
+command: 21
+#
+name: PLAY
+type: parsed
+protocol: necx2
+address: 5
+command: 25
+#
+name: REC
+type: parsed
+protocol: necx2
+address: 5
+command: 20
+#
+name: REW
+type: parsed
+protocol: necx2
+address: 5
+command: 14
+#
+name: FORW
+type: parsed
+protocol: necx2
+address: 5
+command: 14
+#
+name: NEXT
+type: parsed
+protocol: necx2
+address: 5
+command: 24
+#
+name: PREV
+type: parsed
+protocol: necx2
+address: 5
+command: 26
+#
+name: TRK+
+type: parsed
+protocol: necx2
+address: 5
+command: 99
+#
+name: TRK-
+type: parsed
+protocol: necx2
+address: 5
+command: 64
+#
+name: PROG+
+type: parsed
+protocol: necx2
+address: 5
+command: 18
+#
+name: PROG-
+type: parsed
+protocol: necx2
+address: 5
+command: 16
+#
+name: AUDIO
+type: parsed
+protocol: necx2
+address: 5
+command: 61
+#
+name: MENU
+type: parsed
+protocol: necx2
+address: 5
+command: 10
+#
+name: RETURN
+type: parsed
+protocol: necx2
+address: 5
+command: 29
+#
+name: UP
+type: parsed
+protocol: necx2
+address: 5
+command: 44
+#
+name: DOWN
+type: parsed
+protocol: necx2
+address: 5
+command: 45
+#
+name: LEFT
+type: parsed
+protocol: necx2
+address: 5
+command: 23
+#
+name: RIGHT
+type: parsed
+protocol: necx2
+address: 5
+command: 19
+#
+name: OK
+type: parsed
+protocol: necx2
+address: 5
+command: 67
+#
+name: SUBTITLE
+type: parsed
+protocol: necx2
+address: 5
+command: 34
+#

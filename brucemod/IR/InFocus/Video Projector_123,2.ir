@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NATIVE
+type: parsed
+protocol: nec
+address: 123.2
+command: 0
+#
+name: STANDARD
+type: parsed
+protocol: nec
+address: 123.2
+command: 1
+#
+name: WIDESCREEN
+type: parsed
+protocol: nec2
+address: 123.2
+command: 2
+#
+name: WIDE ENHANCED
+type: parsed
+protocol: nec
+address: 123.2
+command: 3
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 123.2
+command: 17
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 123.2
+command: 18
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 123.2
+command: 19
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec
+address: 123.2
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec
+address: 123.2
+command: 21
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec
+address: 123.2
+command: 22
+#
+name: OK
+type: parsed
+protocol: nec
+address: 123.2
+command: 23
+#
+name: POWER OFF
+type: parsed
+protocol: nec
+address: 123.2
+command: 24
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 123.2
+command: 25
+#
+name: 
+type: parsed
+protocol: nec2
+address: 123.2
+command: 25
+#
+name: PC1 ANALOG
+type: parsed
+protocol: nec2
+address: 123.2
+command: 26
+#
+name: PC1 DIGITAL
+type: parsed
+protocol: nec
+address: 123.2
+command: 27
+#
+name: COMP HDTV
+type: parsed
+protocol: nec2
+address: 123.2
+command: 28
+#
+name: COMP INT.
+type: parsed
+protocol: nec2
+address: 123.2
+command: 29
+#
+name: S-VIDEO
+type: parsed
+protocol: nec2
+address: 123.2
+command: 30
+#
+name: VIDEO
+type: parsed
+protocol: nec2
+address: 123.2
+command: 31
+#
+name: PC HDTV
+type: parsed
+protocol: nec2
+address: 123.2
+command: 64
+#
+name: PC VGA
+type: parsed
+protocol: nec2
+address: 123.2
+command: 65
+#

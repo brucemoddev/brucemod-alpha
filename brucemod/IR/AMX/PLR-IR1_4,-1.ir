@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 5
+type: parsed
+protocol: denon_1
+address: 4
+command: 223
+#

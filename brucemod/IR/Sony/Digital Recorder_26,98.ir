@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TITLE LIST
+type: parsed
+protocol: sony20
+address: 26.98
+command: 16
+#
+name: INSTANT SEARCH
+type: parsed
+protocol: sony20
+address: 26.98
+command: 20
+#
+name: TOOLS
+type: parsed
+protocol: sony20
+address: 26.98
+command: 23
+#
+name: CURSOR MODE
+type: parsed
+protocol: sony20
+address: 26.98
+command: 24
+#
+name: ZOOM -
+type: parsed
+protocol: sony20
+address: 26.98
+command: 25
+#
+name: TIMER
+type: parsed
+protocol: sony20
+address: 26.98
+command: 28
+#
+name: ZOOM +
+type: parsed
+protocol: sony20
+address: 26.98
+command: 121
+#

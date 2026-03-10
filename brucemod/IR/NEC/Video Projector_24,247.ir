@@ -1,0 +1,519 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: R
+type: parsed
+protocol: nec1
+address: 24.247
+command: 0
+#
+name: R
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 0
+#
+name: B
+type: parsed
+protocol: nec1
+address: 24.247
+command: 2
+#
+name: B
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 2
+#
+name: OPERATE
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 6
+#
+name: DISPLAY
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 7
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 24.247
+command: 8
+#
+name: POWER ON
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 8
+#
+name: END
+type: parsed
+protocol: nec1
+address: 24.247
+command: 9
+#
+name: END
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 9
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 24.247
+command: 11
+#
+name: COARSE
+type: parsed
+protocol: nec1
+address: 24.247
+command: 14
+#
+name: FINE
+type: parsed
+protocol: nec1
+address: 24.247
+command: 15
+#
+name: STORE
+type: parsed
+protocol: nec1
+address: 24.247
+command: 18
+#
+name: POWER OFF
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 20
+#
+name: STATIC
+type: parsed
+protocol: nec1
+address: 24.247
+command: 21
+#
+name: STATIC
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 21
+#
+name: ENTER
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 23
+#
+name: VIDEO1
+type: parsed
+protocol: nec1
+address: 24.247
+command: 24
+#
+name: 1 (ABC)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 24
+#
+name: VIDEO2
+type: parsed
+protocol: nec1
+address: 24.247
+command: 25
+#
+name: 2 (DEF)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 25
+#
+name: 3 (GHI)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 26
+#
+name: 4 (JKL)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 27
+#
+name: RGB1
+type: parsed
+protocol: nec1
+address: 24.247
+command: 28
+#
+name: 5 (MNO)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 28
+#
+name: RGB2
+type: parsed
+protocol: nec1
+address: 24.247
+command: 29
+#
+name: 6 (PQR)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 29
+#
+name: RGB3
+type: parsed
+protocol: nec1
+address: 24.247
+command: 30
+#
+name: 7 (STU)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 30
+#
+name: 8 (VWX)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 31
+#
+name: SEL
+type: parsed
+protocol: nec1
+address: 24.247
+command: 64
+#
+name: 9 (YZ/)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 64
+#
+name: BEAM
+type: parsed
+protocol: nec1
+address: 24.247
+command: 65
+#
+name: 10 *..
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 65
+#
+name: PRESET
+type: parsed
+protocol: nec1
+address: 24.247
+command: 66
+#
+name: CALL
+type: parsed
+protocol: nec1
+address: 24.247
+command: 67
+#
+name: SOUND MUTE
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 69
+#
+name: PICTURE ^
+type: parsed
+protocol: nec1
+address: 24.247
+command: 70
+#
+name: PICTURE V
+type: parsed
+protocol: nec1
+address: 24.247
+command: 71
+#
+name: PICTURE MUTE
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 71
+#
+name: COLOR ^
+type: parsed
+protocol: nec1
+address: 24.247
+command: 72
+#
+name: COLOR V
+type: parsed
+protocol: nec1
+address: 24.247
+command: 73
+#
+name: BRIGHT ^
+type: parsed
+protocol: nec1
+address: 24.247
+command: 74
+#
+name: CAPTION
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 74
+#
+name: BRIGHT V
+type: parsed
+protocol: nec1
+address: 24.247
+command: 75
+#
+name: TINT ^
+type: parsed
+protocol: nec1
+address: 24.247
+command: 76
+#
+name: TINT V
+type: parsed
+protocol: nec1
+address: 24.247
+command: 77
+#
+name: SHARPNESS ^
+type: parsed
+protocol: nec1
+address: 24.247
+command: 78
+#
+name: SHARPNESS V
+type: parsed
+protocol: nec1
+address: 24.247
+command: 79
+#
+name: NORMAL
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 91
+#
+name: ^ (UP)
+type: parsed
+protocol: nec1
+address: 24.247
+command: 92
+#
+name: ^
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 92
+#
+name: V (DOWN)
+type: parsed
+protocol: nec1
+address: 24.247
+command: 93
+#
+name: V
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 93
+#
+name: > (RIGHT)
+type: parsed
+protocol: nec1
+address: 24.247
+command: 94
+#
+name: >
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 94
+#
+name: < (LEFT)
+type: parsed
+protocol: nec1
+address: 24.247
+command: 95
+#
+name: <
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 95
+#
+name: CTL R
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 128
+#
+name: CTL B
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 130
+#
+name: CTL OPERATE
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 134
+#
+name: CTL DISPLAY
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 135
+#
+name: CTL POWER ON
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 136
+#
+name: CTL END
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 137
+#
+name: CTL POWER OFF
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 148
+#
+name: CTL STATIC
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 149
+#
+name: CTL ENTER
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 151
+#
+name: CTL 1 (ABC)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 152
+#
+name: CTL 2 (DEF)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 153
+#
+name: CTL 3 (GHI)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 154
+#
+name: CTL 4 (JKL)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 155
+#
+name: CTL 5 (MNO)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 156
+#
+name: CTL 6 (PQR)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 157
+#
+name: CTL 7 (STU)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 158
+#
+name: CTL 8 (VWX)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 159
+#
+name: CTL 9 (YZ/)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 192
+#
+name: CTL 10 (*..)
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 193
+#
+name: CTL SOUND MUTE
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 197
+#
+name: CTL PICTURE MUTE
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 199
+#
+name: CTL CAPTION
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 202
+#
+name: CTL NORMAL
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 219
+#
+name: CTL ^
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 220
+#
+name: CTL V
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 221
+#
+name: CTL >
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 222
+#
+name: CTL <
+type: parsed
+protocol: 48_nec1
+address: 24.247
+command: 223
+#

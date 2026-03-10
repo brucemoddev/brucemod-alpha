@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 120
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 120
+command: 31
+#
+name: CH LEVEL
+type: parsed
+protocol: nec1
+address: 120
+command: 72
+#
+name: VCR
+type: parsed
+protocol: nec1
+address: 120
+command: 73
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 120
+command: 74
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 120
+command: 79
+#
+name: STEREO MODE
+type: parsed
+protocol: nec1
+address: 120
+command: 80
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 120
+command: 95
+#
+name: NIGHT
+type: parsed
+protocol: nec1
+address: 120
+command: 138
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 120
+command: 142
+#
+name: 
+type: parsed
+protocol: nec1
+address: 120
+command: 143
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 120
+command: 153
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 120
+command: 156
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 120
+command: 157
+#
+name: SET MENU
+type: parsed
+protocol: nec1
+address: 120
+command: 157
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 120
+command: 158
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 120
+command: 159
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 120
+command: 192
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 120
+command: 193
+#
+name: 5 BEAM MODE
+type: parsed
+protocol: nec1
+address: 120
+command: 194
+#
+name: ST+3 BEAM MODE
+type: parsed
+protocol: nec1
+address: 120
+command: 195
+#
+name: 3 BEAM MODE
+type: parsed
+protocol: nec1
+address: 120
+command: 196
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 120
+command: 222
+#
+name: CODE SET
+type: parsed
+protocol: nec1
+address: 120
+command: 223
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 120
+command: 223
+#

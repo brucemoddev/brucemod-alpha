@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: nec1
+address: 135.78
+command: 2
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 13
+#
+name: COMPUTER
+type: parsed
+protocol: nec1
+address: 135.78
+command: 25
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 135.78
+command: 26
+#

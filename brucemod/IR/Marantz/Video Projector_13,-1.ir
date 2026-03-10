@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: COMP 1
+type: parsed
+protocol: sharp
+address: 13
+command: 26
+#
+name: POWER ON
+type: parsed
+protocol: sharp
+address: 13
+command: 86
+#
+name: POWER OFF
+type: parsed
+protocol: sharp
+address: 13
+command: 150
+#

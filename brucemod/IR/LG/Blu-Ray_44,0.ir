@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44.0
+command: 30
+#
+name: Input
+type: parsed
+protocol: nec2
+address: 44.0
+command: 138
+#
+name: eject
+type: parsed
+protocol: nec2
+address: 44.0
+command: 154
+#
+name: subtitle
+type: parsed
+protocol: nec2
+address: 44.0
+command: 171
+#
+name: Sleep
+type: parsed
+protocol: nec2
+address: 44.0
+command: 194
+#
+name: Info
+type: parsed
+protocol: nec2
+address: 44.0
+command: 163
+#
+name: home
+type: parsed
+protocol: nec2
+address: 44.0
+command: 165
+#
+name: DISC MENU
+type: parsed
+protocol: nec2
+address: 44.0
+command: 164
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 44.0
+command: 167
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 44.0
+command: 166
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 44.0
+command: 168
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 44.0
+command: 169
+#
+name: enter
+type: parsed
+protocol: nec2
+address: 44.0
+command: 170
+#
+name: Back
+type: parsed
+protocol: nec2
+address: 44.0
+command: 162
+#
+name: TITLEPOPUP
+type: parsed
+protocol: nec2
+address: 44.0
+command: 175
+#
+name: Stop
+type: parsed
+protocol: nec2
+address: 44.0
+command: 5
+#
+name: Play
+type: parsed
+protocol: nec2
+address: 44.0
+command: 4
+#
+name: Pause
+type: parsed
+protocol: nec2
+address: 44.0
+command: 79
+#
+name: SKIP BACK
+type: parsed
+protocol: nec2
+address: 44.0
+command: 6
+#
+name: skipforward
+type: parsed
+protocol: nec2
+address: 44.0
+command: 7
+#
+name: ScanBack
+type: parsed
+protocol: nec2
+address: 44.0
+command: 83
+#
+name: ScanForward
+type: parsed
+protocol: nec2
+address: 44.0
+command: 82
+#
+name: SPEAKER LEVEL
+type: parsed
+protocol: nec2
+address: 44.0
+command: 102
+#
+name: SOUND EFFECT
+type: parsed
+protocol: nec2
+address: 44.0
+command: 47
+#
+name: OPTICAL_TVSOUND
+type: parsed
+protocol: nec2
+address: 44.0
+command: 182
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44.0
+command: 31
+#
+name: VolUp
+type: parsed
+protocol: nec2
+address: 44.0
+command: 23
+#
+name: VolDown
+type: parsed
+protocol: nec2
+address: 44.0
+command: 22
+#
+name: red
+type: parsed
+protocol: nec2
+address: 44.0
+command: 108
+#
+name: green
+type: parsed
+protocol: nec2
+address: 44.0
+command: 109
+#
+name: Yellow
+type: parsed
+protocol: nec2
+address: 44.0
+command: 110
+#
+name: blue
+type: parsed
+protocol: nec2
+address: 44.0
+command: 111
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 44.0
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 44.0
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 44.0
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 44.0
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 44.0
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 44.0
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 44.0
+command: 71
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 44.0
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 44.0
+command: 73
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 44.0
+command: 75
+#
+name: Audio
+type: parsed
+protocol: nec2
+address: 44.0
+command: 54
+#
+name: rec
+type: parsed
+protocol: nec2
+address: 44.0
+command: 131
+#
+name: ASTERISK1
+type: parsed
+protocol: nec2
+address: 44.0
+command: 48
+#
+name: ASTERISK2
+type: parsed
+protocol: nec2
+address: 44.0
+command: 211
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 44.0
+command: 78
+#
+name: CLEAR
+type: parsed
+protocol: nec2
+address: 44.0
+command: 176
+#

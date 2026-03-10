@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 135.108
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 135.108
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 135.108
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 135.108
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 135.108
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 135.108
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 135.108
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 135.108
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 135.108
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 135.108
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 135.108
+command: 10
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 135.108
+command: 17
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 135.108
+command: 18
+#
+name: random
+type: parsed
+protocol: nec
+address: 135.108
+command: 19
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 135.108
+command: 20
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 135.108
+command: 21
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 135.108
+command: 22
+#
+name: KEY_SPACE
+type: parsed
+protocol: nec
+address: 135.108
+command: 23
+#
+name: intro
+type: parsed
+protocol: nec
+address: 135.108
+command: 24
+#
+name: program
+type: parsed
+protocol: nec
+address: 135.108
+command: 25
+#
+name: display
+type: parsed
+protocol: nec
+address: 135.108
+command: 26
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 135.108
+command: 29
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 135.108
+command: 30
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 135.108
+command: 31
+#
+name: band
+type: parsed
+protocol: nec
+address: 135.108
+command: 67
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 135.108
+command: 72
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 135.108
+command: 74
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 135.108
+command: 75
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 135.108
+command: 77
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 135.108
+command: 79
+#
+name: tun+
+type: parsed
+protocol: nec
+address: 135.108
+command: 148
+#
+name: tun-
+type: parsed
+protocol: nec
+address: 135.108
+command: 149
+#

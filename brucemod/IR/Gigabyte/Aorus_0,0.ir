@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 0
+command: 26
+#
+name: source
+type: parsed
+protocol: nec
+address: 0
+command: 27
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 0
+command: 34
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 0
+command: 17
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 0
+command: 51
+#
+name: Select
+type: parsed
+protocol: nec
+address: 0
+command: 174
+#
+name: Up
+type: parsed
+protocol: nec
+address: 0
+command: 42
+#
+name: Down
+type: parsed
+protocol: nec
+address: 0
+command: 44
+#
+name: Right
+type: parsed
+protocol: nec
+address: 0
+command: 60
+#
+name: Left
+type: parsed
+protocol: nec
+address: 0
+command: 43
+#
+name: PIC_MODE
+type: parsed
+protocol: nec
+address: 0
+command: 190
+#
+name: SPACE_AU
+type: parsed
+protocol: nec
+address: 0
+command: 207
+#

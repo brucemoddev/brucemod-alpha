@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DSP >
+type: parsed
+protocol: nec1
+address: 210.108
+command: 24
+#
+name: DSP <
+type: parsed
+protocol: nec1
+address: 210.108
+command: 25
+#
+name: LEVEL +
+type: parsed
+protocol: nec2
+address: 210.108
+command: 66
+#
+name: LEVEL -
+type: parsed
+protocol: nec2
+address: 210.108
+command: 67
+#
+name: CHANNEL SELECT
+type: parsed
+protocol: nec1
+address: 210.108
+command: 68
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.108
+command: 71
+#
+name: STEREO
+type: parsed
+protocol: nec1
+address: 210.108
+command: 76
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 210.108
+command: 77
+#
+name: OSD MENU
+type: parsed
+protocol: nec1
+address: 210.108
+command: 83
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 210.108
+command: 85
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 210.108
+command: 140
+#

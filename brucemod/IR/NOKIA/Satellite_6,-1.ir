@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 8
+type: parsed
+protocol: barco
+address: 6
+command: 23
+#
+name: 9
+type: parsed
+protocol: barco
+address: 6
+command: 24
+#
+name: TV-SAT
+type: parsed
+protocol: barco
+address: 6
+command: 25
+#
+name: P+
+type: parsed
+protocol: barco
+address: 6
+command: 46
+#

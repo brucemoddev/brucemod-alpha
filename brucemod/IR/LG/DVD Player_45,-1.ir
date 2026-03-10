@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 45
+command: 48
+#
+name: OPEN_CLOSE
+type: parsed
+protocol: necx2
+address: 45
+command: 54
+#
+name: 1
+type: parsed
+protocol: necx2
+address: 45
+command: 59
+#
+name: 2
+type: parsed
+protocol: necx2
+address: 45
+command: 60
+#
+name: 3
+type: parsed
+protocol: necx2
+address: 45
+command: 61
+#
+name: 4
+type: parsed
+protocol: necx2
+address: 45
+command: 62
+#
+name: 5
+type: parsed
+protocol: necx2
+address: 45
+command: 63
+#
+name: 6
+type: parsed
+protocol: necx2
+address: 45
+command: 64
+#
+name: 7
+type: parsed
+protocol: necx2
+address: 45
+command: 65
+#
+name: 8
+type: parsed
+protocol: necx2
+address: 45
+command: 66
+#
+name: 9
+type: parsed
+protocol: necx2
+address: 45
+command: 67
+#
+name: 0
+type: parsed
+protocol: necx2
+address: 45
+command: 68
+#
+name: CLEAR
+type: parsed
+protocol: necx2
+address: 45
+command: 70
+#
+name: TV_POWER
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: TV_AV
+type: parsed
+protocol: nec
+address: 4
+command: 11
+#
+name: TV_CH-
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: TV_CH+
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: TV_VOL-
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: TV_VOL+
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: rewind
+type: parsed
+protocol: necx2
+address: 45
+command: 50
+#
+name: forward
+type: parsed
+protocol: necx2
+address: 45
+command: 51
+#
+name: Prev
+type: parsed
+protocol: necx2
+address: 45
+command: 53
+#
+name: Next
+type: parsed
+protocol: necx2
+address: 45
+command: 52
+#
+name: Play
+type: parsed
+protocol: necx2
+address: 45
+command: 49
+#
+name: Pause
+type: parsed
+protocol: necx2
+address: 45
+command: 56
+#
+name: Stop
+type: parsed
+protocol: necx2
+address: 45
+command: 57
+#
+name: DVD_MENU
+type: parsed
+protocol: necx2
+address: 45
+command: 75
+#
+name: TITLE
+type: parsed
+protocol: necx2
+address: 45
+command: 74
+#
+name: enter
+type: parsed
+protocol: necx2
+address: 45
+command: 88
+#
+name: display
+type: parsed
+protocol: necx2
+address: 45
+command: 58
+#
+name: return
+type: parsed
+protocol: necx2
+address: 45
+command: 69
+#
+name: Up
+type: parsed
+protocol: necx2
+address: 45
+command: 71
+#
+name: Down
+type: parsed
+protocol: necx2
+address: 45
+command: 72
+#
+name: Left
+type: parsed
+protocol: necx2
+address: 45
+command: 89
+#
+name: Right
+type: parsed
+protocol: necx2
+address: 45
+command: 90
+#
+name: Audio
+type: parsed
+protocol: necx2
+address: 45
+command: 79
+#
+name: subtitle
+type: parsed
+protocol: necx2
+address: 45
+command: 80
+#
+name: ANGLE
+type: parsed
+protocol: necx2
+address: 45
+command: 76
+#
+name: setup
+type: parsed
+protocol: necx2
+address: 45
+command: 86
+#
+name: Marker
+type: parsed
+protocol: necx2
+address: 45
+command: 97
+#
+name: SEARCH
+type: parsed
+protocol: necx2
+address: 45
+command: 98
+#
+name: program
+type: parsed
+protocol: necx2
+address: 45
+command: 87
+#
+name: ZOOM
+type: parsed
+protocol: necx2
+address: 45
+command: 100
+#
+name: REPEAT
+type: parsed
+protocol: necx2
+address: 45
+command: 83
+#
+name: A_B
+type: parsed
+protocol: necx2
+address: 45
+command: 85
+#
+name: RESOLUTION
+type: parsed
+protocol: necx2
+address: 45
+command: 245
+#
+name: STAR
+type: parsed
+protocol: necx2
+address: 45
+command: 94
+#

@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP
+type: parsed
+protocol: nec1
+address: 2
+command: 0
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 2
+command: 1
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 2
+command: 2
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 2
+command: 3
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 2
+command: 4
+#
+name: Repeat?
+type: parsed
+protocol: nec1
+address: 2
+command: 5
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 2
+command: 6
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 2
+command: 7
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 2
+command: 8
+#
+name: PROG-
+type: parsed
+protocol: nec1
+address: 2
+command: 9
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 2
+command: 10
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 2
+command: 12
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 2
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 2
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 2
+command: 19
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 2
+command: 20
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 2
+command: 21
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 2
+command: 22
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 2
+command: 23
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 2
+command: 24
+#
+name: VOL-
+type: parsed
+protocol: nec1
+address: 2
+command: 26
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 2
+command: 27
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 2
+command: 29
+#
+name: SUB.T
+type: parsed
+protocol: nec1
+address: 2
+command: 30
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 2
+command: 31
+#
+name: EPG
+type: parsed
+protocol: nec1
+address: 2
+command: 48
+#
+name: SAT.LIST
+type: parsed
+protocol: nec1
+address: 2
+command: 49
+#
+name: Picture
+type: parsed
+protocol: nec1
+address: 2
+command: 50
+#
+name: REWIND.BACK
+type: parsed
+protocol: nec1
+address: 2
+command: 51
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 2
+command: 52
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 2
+command: 53
+#
+name: REWIND.FORWARD
+type: parsed
+protocol: nec1
+address: 2
+command: 54
+#
+name: SKIP.PREV
+type: parsed
+protocol: nec1
+address: 2
+command: 55
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 2
+command: 56
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 2
+command: 57
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 2
+command: 64
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 2
+command: 70
+#
+name: TEXT
+type: parsed
+protocol: nec1
+address: 2
+command: 72
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 2
+command: 75
+#
+name: PROG+
+type: parsed
+protocol: nec1
+address: 2
+command: 80
+#
+name: VOL+
+type: parsed
+protocol: nec1
+address: 2
+command: 81
+#
+name: BACKLIGHT
+type: parsed
+protocol: nec1
+address: 2
+command: 88
+#
+name: 3D
+type: parsed
+protocol: nec1
+address: 2
+command: 90
+#
+name: SKIP.NEXT
+type: parsed
+protocol: nec1
+address: 2
+command: 96
+#
+name: RADIO
+type: parsed
+protocol: nec1
+address: 2
+command: 97
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 2
+command: 98
+#
+name: S/M/D
+type: parsed
+protocol: nec1
+address: 2
+command: 99
+#
+name: RES.
+type: parsed
+protocol: nec1
+address: 2
+command: 100
+#

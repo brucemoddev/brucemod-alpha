@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_DOWN
+type: parsed
+protocol: necx1
+address: 162.162
+command: 4
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 6
+#
+name: KEY_TUNER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 7
+#
+name: KEY_UP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 12
+#
+name: BAND
+type: parsed
+protocol: necx1
+address: 162.162
+command: 14
+#
+name: KEY_CD
+type: parsed
+protocol: necx1
+address: 162.162
+command: 15
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: necx1
+address: 162.162
+command: 19
+#
+name: MEMORY/CLOCK
+type: parsed
+protocol: necx1
+address: 162.162
+command: 20
+#
+name: KEY_STOP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 27
+#
+name: M-UP/REPEAT
+type: parsed
+protocol: necx1
+address: 162.162
+command: 28
+#
+name: EQ
+type: parsed
+protocol: necx1
+address: 162.162
+command: 29
+#
+name: KEY_TAPE
+type: parsed
+protocol: necx1
+address: 162.162
+command: 30
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: necx1
+address: 162.162
+command: 32
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: necx1
+address: 162.162
+command: 96
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx1
+address: 162.162
+command: 160
+#

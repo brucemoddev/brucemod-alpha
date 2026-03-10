@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: mce
+address: 18.17
+command: 0
+#
+name: 1
+type: parsed
+protocol: mce
+address: 18.17
+command: 1
+#
+name: 2
+type: parsed
+protocol: mce
+address: 18.17
+command: 2
+#
+name: 3
+type: parsed
+protocol: mce
+address: 18.17
+command: 3
+#
+name: 4
+type: parsed
+protocol: mce
+address: 18.17
+command: 4
+#
+name: 5
+type: parsed
+protocol: mce
+address: 18.17
+command: 5
+#
+name: 6
+type: parsed
+protocol: mce
+address: 18.17
+command: 6
+#
+name: 7
+type: parsed
+protocol: mce
+address: 18.17
+command: 7
+#
+name: 8
+type: parsed
+protocol: mce
+address: 18.17
+command: 8
+#
+name: 9
+type: parsed
+protocol: mce
+address: 18.17
+command: 9
+#
+name: LAST
+type: parsed
+protocol: mce
+address: 18.17
+command: 10
+#
+name: POWER
+type: parsed
+protocol: mce
+address: 18.17
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: mce
+address: 18.17
+command: 13
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: mce
+address: 18.17
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: mce
+address: 18.17
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: mce
+address: 18.17
+command: 17
+#
+name: CHANNEL +
+type: parsed
+protocol: mce
+address: 18.17
+command: 30
+#
+name: CHANNEL -
+type: parsed
+protocol: mce
+address: 18.17
+command: 31
+#
+name: MENU
+type: parsed
+protocol: mce
+address: 18.17
+command: 84
+#
+name: EXIT
+type: parsed
+protocol: mce
+address: 18.17
+command: 85
+#
+name: CURSOR UP
+type: parsed
+protocol: mce
+address: 18.17
+command: 88
+#
+name: CURSOR DOWN
+type: parsed
+protocol: mce
+address: 18.17
+command: 89
+#
+name: CURSOR LEFT
+type: parsed
+protocol: mce
+address: 18.17
+command: 90
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: mce
+address: 18.17
+command: 91
+#
+name: CURSOR ENTER
+type: parsed
+protocol: mce
+address: 18.17
+command: 92
+#
+name: CURSOR SELECT
+type: parsed
+protocol: mce
+address: 18.17
+command: 92
+#
+name: SWAP
+type: parsed
+protocol: mce
+address: 18.17
+command: 99
+#
+name: SOURCE
+type: parsed
+protocol: mce
+address: 18.17
+command: 139
+#
+name: PHOTO
+type: parsed
+protocol: mce
+address: 18.17
+command: 164
+#
+name: SAP/MTS
+type: parsed
+protocol: mce
+address: 18.17
+command: 167
+#
+name: SAP
+type: parsed
+protocol: mce
+address: 18.17
+command: 167
+#
+name: SLEEP
+type: parsed
+protocol: mce
+address: 18.17
+command: 168
+#
+name: ASPECT
+type: parsed
+protocol: mce
+address: 18.17
+command: 169
+#
+name: FAV
+type: parsed
+protocol: mce
+address: 18.17
+command: 171
+#
+name: .
+type: parsed
+protocol: mce
+address: 18.17
+command: 172
+#
+name: . (DOT)
+type: parsed
+protocol: mce
+address: 18.17
+command: 172
+#
+name: RETURN
+type: parsed
+protocol: mce
+address: 18.17
+command: 215
+#
+name: SPLIT
+type: parsed
+protocol: mce
+address: 18.17
+command: 216
+#
+name: BBE
+type: parsed
+protocol: mce
+address: 18.17
+command: 219
+#
+name: RECALL
+type: parsed
+protocol: mce
+address: 18.17
+command: 220
+#

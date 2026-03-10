@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: THX
+type: parsed
+protocol: nec1
+address: 121
+command: 141
+#

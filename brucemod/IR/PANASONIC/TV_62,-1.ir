@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 62
+command: 12
+#
+name: Up
+type: parsed
+protocol: necx2
+address: 62
+command: 66
+#
+name: Left
+type: parsed
+protocol: necx2
+address: 62
+command: 68
+#
+name: Menu
+type: parsed
+protocol: necx2
+address: 62
+command: 120
+#
+name: Menu
+type: parsed
+protocol: necx2
+address: 62
+command: 17
+#
+name: Back
+type: parsed
+protocol: necx2
+address: 62
+command: 100
+#
+name: Vol_Up
+type: parsed
+protocol: necx2
+address: 62
+command: 20
+#
+name: VOL_DN
+type: parsed
+protocol: necx2
+address: 62
+command: 21
+#
+name: NETFLIX
+type: parsed
+protocol: necx2
+address: 62
+command: 213
+#
+name: p_up
+type: parsed
+protocol: necx2
+address: 62
+command: 18
+#
+name: p_down
+type: parsed
+protocol: necx2
+address: 62
+command: 19
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 62
+command: 13
+#
+name: 1
+type: parsed
+protocol: necx2
+address: 62
+command: 1
+#
+name: 2
+type: parsed
+protocol: necx2
+address: 62
+command: 2
+#
+name: 3
+type: parsed
+protocol: necx2
+address: 62
+command: 3
+#
+name: 4
+type: parsed
+protocol: necx2
+address: 62
+command: 4
+#
+name: 5
+type: parsed
+protocol: necx2
+address: 62
+command: 5
+#
+name: 6
+type: parsed
+protocol: necx2
+address: 62
+command: 6
+#
+name: 7
+type: parsed
+protocol: necx2
+address: 62
+command: 7
+#
+name: 8
+type: parsed
+protocol: necx2
+address: 62
+command: 8
+#
+name: 9
+type: parsed
+protocol: necx2
+address: 62
+command: 9
+#
+name: 0
+type: parsed
+protocol: necx2
+address: 62
+command: 0
+#
+name: List
+type: parsed
+protocol: necx2
+address: 62
+command: 179
+#
+name: Info
+type: parsed
+protocol: necx2
+address: 62
+command: 22
+#
+name: Guide
+type: parsed
+protocol: necx2
+address: 62
+command: 180
+#
+name: ZOOM
+type: parsed
+protocol: necx2
+address: 62
+command: 79
+#
+name: source
+type: parsed
+protocol: necx2
+address: 62
+command: 15
+#
+name: rewind
+type: parsed
+protocol: necx2
+address: 62
+command: 64
+#
+name: forward
+type: parsed
+protocol: necx2
+address: 62
+command: 65
+#
+name: Play
+type: parsed
+protocol: necx2
+address: 62
+command: 97
+#
+name: Pause
+type: parsed
+protocol: necx2
+address: 62
+command: 99
+#
+name: Stop
+type: parsed
+protocol: necx2
+address: 62
+command: 74
+#
+name: r
+type: parsed
+protocol: necx2
+address: 62
+command: 160
+#
+name: g
+type: parsed
+protocol: necx2
+address: 62
+command: 161
+#
+name: y
+type: parsed
+protocol: necx2
+address: 62
+command: 162
+#
+name: b
+type: parsed
+protocol: necx2
+address: 62
+command: 163
+#
+name: Text
+type: parsed
+protocol: necx2
+address: 62
+command: 171
+#
+name: fav
+type: parsed
+protocol: necx2
+address: 62
+command: 173
+#
+name: AD
+type: parsed
+protocol: necx2
+address: 62
+command: 103
+#
+name: I/II
+type: parsed
+protocol: necx2
+address: 62
+command: 172
+#
+name: SUB TITLE
+type: parsed
+protocol: necx2
+address: 62
+command: 178
+#

@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 67
+#
+name: KEY_OPEN
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 68
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 70
+#
+name: fast_rewind
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 71
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 76
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 77
+#
+name: Skip_back
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 88
+#
+name: Skip_forward
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 89
+#
+name: KEY_AGAIN
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 91
+#
+name: KEY_0
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 96
+#
+name: KEY_1
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 97
+#
+name: KEY_2
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 98
+#
+name: KEY_3
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 99
+#
+name: KEY_4
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 100
+#
+name: KEY_5
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 101
+#
+name: KEY_6
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 102
+#
+name: KEY_7
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 103
+#
+name: KEY_8
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 103
+#
+name: KEY_9
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 105
+#
+name: Reserve
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 106
+#
+name: KEY_CANCEL
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 109
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 112
+#
+name: KEY_FORWARD
+type: parsed
+protocol: jvc_two_frames
+address: 179
+command: 118
+#

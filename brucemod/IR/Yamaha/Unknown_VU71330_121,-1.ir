@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 121
+command: 1
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 121
+command: 2
+#
+name: SKIP_BACKWARD
+type: parsed
+protocol: nec
+address: 121
+command: 4
+#
+name: SEARCH_BACKWARD
+type: parsed
+protocol: nec
+address: 121
+command: 5
+#
+name: SEARCH_FORWARD
+type: parsed
+protocol: nec
+address: 121
+command: 6
+#
+name: SKIP_FORWARD
+type: parsed
+protocol: nec
+address: 121
+command: 7
+#
+name: S_F
+type: parsed
+protocol: nec
+address: 121
+command: 8
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 121
+command: 10
+#
+name: INDEX
+type: parsed
+protocol: nec
+address: 121
+command: 11
+#
+name: PROG
+type: parsed
+protocol: nec
+address: 121
+command: 12
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 121
+command: 13
+#
+name: KEY_SPACE
+type: parsed
+protocol: nec
+address: 121
+command: 15
+#
+name: NUMBER_0
+type: parsed
+protocol: nec
+address: 121
+command: 16
+#
+name: NUMBER_1
+type: parsed
+protocol: nec
+address: 121
+command: 17
+#
+name: NUMBER_2
+type: parsed
+protocol: nec
+address: 121
+command: 18
+#
+name: NUMBER_3
+type: parsed
+protocol: nec
+address: 121
+command: 19
+#
+name: NUMBER_4
+type: parsed
+protocol: nec
+address: 121
+command: 20
+#
+name: NUMBER_5
+type: parsed
+protocol: nec
+address: 121
+command: 21
+#
+name: NUMBER_6
+type: parsed
+protocol: nec
+address: 121
+command: 22
+#
+name: NUMBER_7
+type: parsed
+protocol: nec
+address: 121
+command: 23
+#
+name: NUMBER_8
+type: parsed
+protocol: nec
+address: 121
+command: 24
+#
+name: NUMBER_9
+type: parsed
+protocol: nec
+address: 121
+command: 25
+#
+name: PLUS_10
+type: parsed
+protocol: nec
+address: 121
+command: 26
+#
+name: RANDOM
+type: parsed
+protocol: nec
+address: 121
+command: 27
+#
+name: DIMMER
+type: parsed
+protocol: nec
+address: 121
+command: 30
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 121
+command: 85
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 121
+command: 86
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 121
+command: 87
+#
+name: SYNCHRO
+type: parsed
+protocol: nec
+address: 121
+command: 88
+#
+name: PEAK
+type: parsed
+protocol: nec
+address: 121
+command: 93
+#

@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 2
+#
+name: ENTER
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 4
+#
+name: UP
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 10
+#
+name: DOWN
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 18
+#
+name: RIGHT
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 34
+#
+name: LEFT
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 42
+#
+name: INPUT
+type: parsed
+protocol: jvc_two_frames
+address: 71
+command: 58
+#

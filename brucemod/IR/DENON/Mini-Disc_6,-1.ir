@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: denon
+address: 6
+command: 193
+#
+name: 2
+type: parsed
+protocol: denon
+address: 6
+command: 194
+#
+name: 3
+type: parsed
+protocol: denon
+address: 6
+command: 195
+#
+name: 4
+type: parsed
+protocol: denon
+address: 6
+command: 196
+#
+name: 5
+type: parsed
+protocol: denon
+address: 6
+command: 197
+#
+name: 6
+type: parsed
+protocol: denon
+address: 6
+command: 198
+#
+name: 7
+type: parsed
+protocol: denon
+address: 6
+command: 199
+#
+name: 8
+type: parsed
+protocol: denon
+address: 6
+command: 200
+#
+name: 9
+type: parsed
+protocol: denon
+address: 6
+command: 201
+#
+name: 10
+type: parsed
+protocol: denon
+address: 6
+command: 202
+#
+name: MEMORY REC
+type: parsed
+protocol: denon
+address: 6
+command: 209
+#
+name: SYNCHRO REC
+type: parsed
+protocol: denon
+address: 6
+command: 210
+#
+name: CHARACTER
+type: parsed
+protocol: denon
+address: 6
+command: 221
+#
+name: ENTER
+type: parsed
+protocol: denon
+address: 6
+command: 222
+#
+name: CLEAR
+type: parsed
+protocol: denon
+address: 6
+command: 223
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 6
+command: 224
+#
+name: STOP
+type: parsed
+protocol: denon
+address: 6
+command: 225
+#
+name: PLAY
+type: parsed
+protocol: denon
+address: 6
+command: 226
+#
+name: PAUSE
+type: parsed
+protocol: denon
+address: 6
+command: 227
+#
+name: RECORD
+type: parsed
+protocol: denon
+address: 6
+command: 229
+#
+name: EJECT
+type: parsed
+protocol: denon
+address: 6
+command: 230
+#
+name: +10
+type: parsed
+protocol: denon
+address: 6
+command: 232
+#
+name: >>I
+type: parsed
+protocol: denon
+address: 6
+command: 233
+#
+name: I<<
+type: parsed
+protocol: denon
+address: 6
+command: 234
+#
+name: >>
+type: parsed
+protocol: denon
+address: 6
+command: 235
+#
+name: <<
+type: parsed
+protocol: denon
+address: 6
+command: 236
+#
+name: EDIT
+type: parsed
+protocol: denon
+address: 6
+command: 239
+#
+name: PROG/DIRECT
+type: parsed
+protocol: denon
+address: 6
+command: 240
+#
+name: REPEAT 1/ALL
+type: parsed
+protocol: denon
+address: 6
+command: 241
+#
+name: REPEAT A-B
+type: parsed
+protocol: denon
+address: 6
+command: 242
+#
+name: RANDOM
+type: parsed
+protocol: denon
+address: 6
+command: 243
+#
+name: TIME
+type: parsed
+protocol: denon
+address: 6
+command: 244
+#
+name: TITLE
+type: parsed
+protocol: denon
+address: 6
+command: 245
+#
+name: CALL
+type: parsed
+protocol: denon
+address: 6
+command: 246
+#

@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 129.114
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 129.114
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 129.114
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 129.114
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 129.114
+command: 7
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 129.114
+command: 8
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 129.114
+command: 9
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 129.114
+command: 10
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 129.114
+command: 11
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 129.114
+command: 12
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 129.114
+command: 13
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 129.114
+command: 16
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 129.114
+command: 17
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 129.114
+command: 18
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 129.114
+command: 19
+#
+name: random
+type: parsed
+protocol: nec
+address: 129.114
+command: 24
+#
+name: skip_p
+type: parsed
+protocol: nec
+address: 129.114
+command: 25
+#
+name: skip_n
+type: parsed
+protocol: nec
+address: 129.114
+command: 26
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 129.114
+command: 28
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 129.114
+command: 29
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 129.114
+command: 30
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 129.114
+command: 31
+#
+name: tun
+type: parsed
+protocol: nec
+address: 129.114
+command: 68
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 129.114
+command: 69
+#
+name: sel
+type: parsed
+protocol: nec
+address: 129.114
+command: 71
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 129.114
+command: 72
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 129.114
+command: 73
+#
+name: vid1
+type: parsed
+protocol: nec
+address: 129.114
+command: 74
+#
+name: dat
+type: parsed
+protocol: nec
+address: 129.114
+command: 75
+#
+name: ph
+type: parsed
+protocol: nec
+address: 129.114
+command: 76
+#
+name: vid2
+type: parsed
+protocol: nec
+address: 129.114
+command: 77
+#
+name: hall
+type: parsed
+protocol: nec
+address: 129.114
+command: 86
+#
+name: stereo
+type: parsed
+protocol: nec
+address: 129.114
+command: 87
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 129.114
+command: 90
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 129.114
+command: 94
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 129.114
+command: 95
+#

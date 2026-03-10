@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Z3 VOLUME + (2)
+type: parsed
+protocol: nec1
+address: 210.22
+command: 66
+#
+name: Z3 VOLUME - (2)
+type: parsed
+protocol: nec1
+address: 210.22
+command: 67
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 210.22
+command: 71
+#
+name: Z3 STANDBY
+type: parsed
+protocol: nec1
+address: 210.22
+command: 71
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: nec1
+address: 210.22
+command: 71
+#
+name: Z3 SOURCE
+type: parsed
+protocol: nec1
+address: 210.22
+command: 95
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 210.22
+command: 95
+#
+name: Z3 MUTING ON
+type: parsed
+protocol: nec1
+address: 210.22
+command: 132
+#
+name: MUTE ON
+type: parsed
+protocol: nec1
+address: 210.22
+command: 132
+#
+name: Z3 MUTING OFF
+type: parsed
+protocol: nec1
+address: 210.22
+command: 133
+#
+name: MUTE OFF
+type: parsed
+protocol: nec1
+address: 210.22
+command: 133
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 210.22
+command: 140
+#
+name: Z3 DVD
+type: parsed
+protocol: nec1
+address: 210.22
+command: 140
+#
+name: INPUT: DVD
+type: parsed
+protocol: nec1
+address: 210.22
+command: 140
+#
+name: Z3 STANDBY/ON (TGLE)
+type: parsed
+protocol: nec1
+address: 210.22
+command: 203
+#
+name: STANDBY/ON
+type: parsed
+protocol: nec1
+address: 210.22
+command: 203
+#

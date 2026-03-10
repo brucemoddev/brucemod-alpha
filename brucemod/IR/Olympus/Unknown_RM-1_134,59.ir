@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: capture
+type: parsed
+protocol: nec
+address: 134.59
+command: 1
+#
+name: KEY_W
+type: parsed
+protocol: nec
+address: 134.59
+command: 2
+#
+name: KEY_T
+type: parsed
+protocol: nec
+address: 134.59
+command: 3
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 134.59
+command: 4
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 134.59
+command: 5
+#

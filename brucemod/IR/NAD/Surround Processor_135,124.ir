@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD >
+type: parsed
+protocol: nec1
+address: 135.124
+command: 1
+#
+name: CD []
+type: parsed
+protocol: nec
+address: 135.124
+command: 2
+#
+name: CD <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 5
+#
+name: CD >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 6
+#
+name: CD DISC
+type: parsed
+protocol: nec
+address: 135.124
+command: 23
+#
+name: SLEEP
+type: parsed
+protocol: nec
+address: 135.124
+command: 32
+#
+name: MULTI SOURCE
+type: parsed
+protocol: nec
+address: 135.124
+command: 33
+#
+name: MULTI VOLUME ^
+type: parsed
+protocol: nec
+address: 135.124
+command: 34
+#
+name: MULTI VOLUME V
+type: parsed
+protocol: nec
+address: 135.124
+command: 35
+#
+name: BANK
+type: parsed
+protocol: nec
+address: 135.124
+command: 36
+#
+name: CD 
+type: parsed
+protocol: nec1
+address: 135.124
+command: 74
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 135.124
+command: 128
+#
+name: CD
+type: parsed
+protocol: nec
+address: 135.124
+command: 133
+#
+name: MASTER VOLUME ^
+type: parsed
+protocol: nec
+address: 135.124
+command: 136
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 135.124
+command: 137
+#
+name: MASTER VOLUME V
+type: parsed
+protocol: nec1
+address: 135.124
+command: 140
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 135.124
+command: 141
+#
+name: TAPE 2
+type: parsed
+protocol: nec
+address: 135.124
+command: 145
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 135.124
+command: 148
+#
+name: TAPE 
+type: parsed
+protocol: nec
+address: 135.124
+command: 153
+#
+name: TAPE REC
+type: parsed
+protocol: nec
+address: 135.124
+command: 154
+#
+name: TAPE >
+type: parsed
+protocol: nec
+address: 135.124
+command: 156
+#
+name: TAPE >>
+type: parsed
+protocol: nec1
+address: 135.124
+command: 157
+#
+name: TAPE <<
+type: parsed
+protocol: nec1
+address: 135.124
+command: 158
+#
+name: TAPE []
+type: parsed
+protocol: nec1
+address: 135.124
+command: 159
+#
+name: VIDEO 2
+type: parsed
+protocol: nec
+address: 135.124
+command: 192
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 135.124
+command: 193
+#
+name: VIDEO 1
+type: parsed
+protocol: nec
+address: 135.124
+command: 194
+#
+name: MODE
+type: parsed
+protocol: nec
+address: 135.124
+command: 204
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 135.124
+command: 205
+#
+name: SPEAKERS MAIN
+type: parsed
+protocol: nec1
+address: 135.124
+command: 206
+#
+name: SPEAKERS REMOTE
+type: parsed
+protocol: nec
+address: 135.124
+command: 207
+#
+name: CENTER VOLUME ^
+type: parsed
+protocol: nec
+address: 135.124
+command: 208
+#
+name: BANK V
+type: parsed
+protocol: nec
+address: 135.124
+command: 209
+#
+name: BANK ^
+type: parsed
+protocol: nec1
+address: 135.124
+command: 210
+#
+name: CENTER VOLUME V
+type: parsed
+protocol: nec
+address: 135.124
+command: 213
+#
+name: REAR VOLUME ^
+type: parsed
+protocol: nec1
+address: 135.124
+command: 214
+#
+name: REAR VOLUME V
+type: parsed
+protocol: nec1
+address: 135.124
+command: 215
+#
+name: DELAY
+type: parsed
+protocol: nec
+address: 135.124
+command: 218
+#
+name: TUNER
+type: parsed
+protocol: nec
+address: 135.124
+command: 221
+#

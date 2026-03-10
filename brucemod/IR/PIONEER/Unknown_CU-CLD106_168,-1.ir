@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 168
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 168
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 168
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 168
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 168
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 168
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 168
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 168
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 168
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 168
+command: 9
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 168
+command: 16
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 168
+command: 17
+#
+name: chp/tm
+type: parsed
+protocol: nec
+address: 168
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 168
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 168
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 168
+command: 24
+#
+name: memory
+type: parsed
+protocol: nec
+address: 168
+command: 25
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 168
+command: 25
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 168
+command: 28
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 168
+command: 30
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 168
+command: 31
+#
+name: display
+type: parsed
+protocol: nec
+address: 168
+command: 67
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 168
+command: 68
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 168
+command: 69
+#
+name: repeata-b
+type: parsed
+protocol: nec
+address: 168
+command: 72
+#
+name: pgm
+type: parsed
+protocol: nec
+address: 168
+command: 76
+#
+name: step-
+type: parsed
+protocol: nec
+address: 168
+command: 80
+#
+name: seek+
+type: parsed
+protocol: nec
+address: 168
+command: 82
+#
+name: seek-
+type: parsed
+protocol: nec
+address: 168
+command: 83
+#
+name: step+
+type: parsed
+protocol: nec
+address: 168
+command: 84
+#
+name: multi-speed-
+type: parsed
+protocol: nec
+address: 168
+command: 85
+#
+name: multi-speed+
+type: parsed
+protocol: nec
+address: 168
+command: 88
+#
+name: intro
+type: parsed
+protocol: nec
+address: 168
+command: 90
+#
+name: random
+type: parsed
+protocol: nec
+address: 168
+command: 94
+#

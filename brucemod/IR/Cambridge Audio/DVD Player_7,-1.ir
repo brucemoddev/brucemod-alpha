@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY
+type: parsed
+protocol: nec
+address: 7
+command: 1
+#
+name: I-SCAN
+type: parsed
+protocol: nec
+address: 7
+command: 4
+#
+name: PSM
+type: parsed
+protocol: nec
+address: 7
+command: 6
+#
+name: PAL/NTSC
+type: parsed
+protocol: nec
+address: 7
+command: 7
+#
+name: REWIND
+type: parsed
+protocol: nec
+address: 7
+command: 8
+#
+name: 1
+type: parsed
+protocol: nec
+address: 7
+command: 9
+#
+name: FAST FORWARD
+type: parsed
+protocol: nec
+address: 7
+command: 10
+#
+name: SKIP BACK
+type: parsed
+protocol: nec
+address: 7
+command: 11
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 7
+command: 12
+#
+name: 5
+type: parsed
+protocol: nec
+address: 7
+command: 13
+#
+name: REPEAT
+type: parsed
+protocol: nec
+address: 7
+command: 14
+#
+name: A-B
+type: parsed
+protocol: nec
+address: 7
+command: 15
+#
+name: SLOW
+type: parsed
+protocol: nec
+address: 7
+command: 16
+#
+name: 9
+type: parsed
+protocol: nec
+address: 7
+command: 17
+#
+name: MODE
+type: parsed
+protocol: nec
+address: 7
+command: 18
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 7
+command: 19
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 7
+command: 20
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 7
+command: 21
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 7
+command: 22
+#
+name: STOP
+type: parsed
+protocol: nec
+address: 7
+command: 23
+#
+name: TITLE
+type: parsed
+protocol: nec
+address: 7
+command: 25
+#
+name: SETUP
+type: parsed
+protocol: nec
+address: 7
+command: 29
+#
+name: EJECT
+type: parsed
+protocol: nec
+address: 7
+command: 67
+#
+name: 2
+type: parsed
+protocol: nec
+address: 7
+command: 72
+#
+name: 3
+type: parsed
+protocol: nec
+address: 7
+command: 73
+#
+name: SKIP FORWARD
+type: parsed
+protocol: nec
+address: 7
+command: 74
+#
+name: 4
+type: parsed
+protocol: nec
+address: 7
+command: 75
+#
+name: 6
+type: parsed
+protocol: nec
+address: 7
+command: 76
+#
+name: 7
+type: parsed
+protocol: nec
+address: 7
+command: 77
+#
+name: CLEAR
+type: parsed
+protocol: nec
+address: 7
+command: 78
+#
+name: 8
+type: parsed
+protocol: nec
+address: 7
+command: 79
+#
+name: 0
+type: parsed
+protocol: nec
+address: 7
+command: 80
+#
+name: +10
+type: parsed
+protocol: nec
+address: 7
+command: 81
+#
+name: VOLUME -
+type: parsed
+protocol: nec
+address: 7
+command: 82
+#
+name: GOTO
+type: parsed
+protocol: nec
+address: 7
+command: 83
+#
+name: SUBTITLE
+type: parsed
+protocol: nec
+address: 7
+command: 84
+#
+name: ANGLE
+type: parsed
+protocol: nec
+address: 7
+command: 85
+#
+name: VOLUME +
+type: parsed
+protocol: nec
+address: 7
+command: 86
+#
+name: ZOOM
+type: parsed
+protocol: nec
+address: 7
+command: 87
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec
+address: 7
+command: 88
+#
+name: CURSOR UP
+type: parsed
+protocol: nec
+address: 7
+command: 89
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 7
+command: 91
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec
+address: 7
+command: 92
+#
+name: SELECT
+type: parsed
+protocol: nec
+address: 7
+command: 93
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec
+address: 7
+command: 94
+#
+name: RETURN
+type: parsed
+protocol: nec
+address: 7
+command: 95
+#
+name: OSD
+type: parsed
+protocol: nec
+address: 7
+command: 185
+#

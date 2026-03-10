@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: VCR2
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: DVD/LD
+type: parsed
+protocol: nec1
+address: 122
+command: 23
+#
+name: MD/TAPE1
+type: parsed
+protocol: nec1
+address: 122
+command: 24
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: TV/DBS
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: EFFET ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: EXTER.DEC
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 122
+command: 145
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 122
+command: 146
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 122
+command: 147
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#

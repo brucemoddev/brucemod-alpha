@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4.0
+command: 8
+#
+name: 1
+type: parsed
+protocol: nec
+address: 4.0
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec
+address: 4.0
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec
+address: 4.0
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec
+address: 4.0
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec
+address: 4.0
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec
+address: 4.0
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec
+address: 4.0
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec
+address: 4.0
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec
+address: 4.0
+command: 25
+#
+name: List
+type: parsed
+protocol: nec
+address: 4.0
+command: 76
+#
+name: 0
+type: parsed
+protocol: nec
+address: 4.0
+command: 16
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 2
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4.0
+command: 9
+#
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 4.0
+command: 0
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4.0
+command: 3
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 4.0
+command: 1
+#
+name: APPS
+type: parsed
+protocol: nec
+address: 4.0
+command: 124
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 64
+#
+name: SETTINGS
+type: parsed
+protocol: nec
+address: 4.0
+command: 67
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4.0
+command: 7
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4.0
+command: 68
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4.0
+command: 6
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4.0
+command: 40
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4.0
+command: 65
+#
+name: Guide
+type: parsed
+protocol: nec
+address: 4.0
+command: 171
+#
+name: NETFLIX
+type: parsed
+protocol: nec
+address: 4.0
+command: 86
+#
+name: Input
+type: parsed
+protocol: nec
+address: 4.0
+command: 11
+#
+name: AMAZON
+type: parsed
+protocol: nec
+address: 4.0
+command: 92
+#
+name: red
+type: parsed
+protocol: nec
+address: 4.0
+command: 114
+#
+name: green
+type: parsed
+protocol: nec
+address: 4.0
+command: 113
+#
+name: Yellow
+type: parsed
+protocol: nec
+address: 4.0
+command: 99
+#
+name: blue
+type: parsed
+protocol: nec
+address: 4.0
+command: 97
+#
+name: Play
+type: parsed
+protocol: nec
+address: 4.0
+command: 176
+#
+name: Pause
+type: parsed
+protocol: nec
+address: 4.0
+command: 186
+#

@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 3
+#
+name: PAGE DOWN
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 7
+#
+name: PAGE UP
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 15
+#
+name: REWIND
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 49
+#
+name: REW
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 49
+#
+name: FAST FORWARD
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 50
+#
+name: FWD
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 50
+#
+name: DISH
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 52
+#
+name: SKIP-
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 54
+#
+name: SKIP BACK
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 54
+#
+name: SKIP+
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 55
+#
+name: SKIP FWD
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 55
+#
+name: PVR
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 57
+#
+name: PIP
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 58
+#
+name: PIP POSTION
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 59
+#
+name: POSITION
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 59
+#
+name: PIP SAWP
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 61
+#
+name: SWAP
+type: parsed
+protocol: dish_netwo
+address: 1.6
+command: 61
+#

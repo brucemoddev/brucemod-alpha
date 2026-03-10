@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RELAY 8
+type: parsed
+protocol: rc5
+address: 27
+command: 0
+#
+name: RELAY 1
+type: parsed
+protocol: rc5
+address: 27
+command: 1
+#
+name: RELAY 2
+type: parsed
+protocol: rc5
+address: 27
+command: 2
+#
+name: RELAY 3
+type: parsed
+protocol: rc5
+address: 27
+command: 3
+#
+name: RELAY 4
+type: parsed
+protocol: rc5
+address: 27
+command: 4
+#
+name: RELAY 5
+type: parsed
+protocol: rc5
+address: 27
+command: 5
+#
+name: RELAY 6
+type: parsed
+protocol: rc5
+address: 27
+command: 6
+#
+name: RELAY 7
+type: parsed
+protocol: rc5
+address: 27
+command: 7
+#

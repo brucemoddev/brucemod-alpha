@@ -1,0 +1,369 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEYSTONE
+type: parsed
+protocol: sony20
+address: 26.42
+command: 58
+#
+name: MS SLIDE
+type: parsed
+protocol: sony20
+address: 26.42
+command: 60
+#
+name: STANDARD
+type: parsed
+protocol: sony20
+address: 26.42
+command: 62
+#
+name: SIDE SHOT -
+type: parsed
+protocol: sony20
+address: 26.42
+command: 63
+#
+name: SIDE SHOT +
+type: parsed
+protocol: sony20
+address: 26.42
+command: 63
+#
+name: OFF
+type: parsed
+protocol: sony20
+address: 26.42
+command: 80
+#
+name: VID MEM OFF
+type: parsed
+protocol: sony20
+address: 26.42
+command: 80
+#
+name: VIDEO MEMORY - OFF
+type: parsed
+protocol: sony20
+address: 26.42
+command: 80
+#
+name: MEM 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 81
+#
+name: VIDEO MEMORY 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 81
+#
+name: DYNAMIC
+type: parsed
+protocol: sony20
+address: 26.42
+command: 81
+#
+name: VIDEO MEM 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 81
+#
+name: 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 81
+#
+name: VIDEO MEMORY - 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 81
+#
+name: MEM 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 82
+#
+name: VIDEO MEMORY 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 82
+#
+name: VIDEO MEM 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 82
+#
+name: 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 82
+#
+name: VIDEO MEMORY - 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 82
+#
+name: MEM 3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 83
+#
+name: VIDEO MEMORY 3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 83
+#
+name: CINEMA
+type: parsed
+protocol: sony20
+address: 26.42
+command: 83
+#
+name: VIDEO MEM 3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 83
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 83
+#
+name: VIDEO MEMORY - 3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 83
+#
+name: MEM 4
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: VIDEO MEMORY 4
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: USER 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: PIC MODE 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: VIDEO MEM 4
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: VIDEO MEMORY - 4
+type: parsed
+protocol: sony20
+address: 26.42
+command: 84
+#
+name: MEM 5
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: VIDEO MEMORY 5
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: USER2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: PIC MODE 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: VIDEO MEM 5
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: VIDEO MEMORY - 5
+type: parsed
+protocol: sony20
+address: 26.42
+command: 85
+#
+name: MEM 6
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: VIDEO MEMORY 6
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: USER3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: PIC MODE 3
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: VIDEO MEM 6
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: VIDEO MEMORY - 6
+type: parsed
+protocol: sony20
+address: 26.42
+command: 86
+#
+name: VIDEO MEMORY 7
+type: parsed
+protocol: sony20
+address: 26.42
+command: 87
+#
+name: VIDEO MEMORY 8
+type: parsed
+protocol: sony20
+address: 26.42
+command: 88
+#
+name: VIDEO MEMORY 9
+type: parsed
+protocol: sony20
+address: 26.42
+command: 89
+#
+name: VIDEO MEMORY 10
+type: parsed
+protocol: sony20
+address: 26.42
+command: 90
+#
+name: APA
+type: parsed
+protocol: sony20
+address: 26.42
+command: 96
+#
+name: HELP
+type: parsed
+protocol: sony20
+address: 26.42
+command: 102
+#
+name: FREEZE
+type: parsed
+protocol: sony20
+address: 26.42
+command: 103
+#
+name: FUNTION 1
+type: parsed
+protocol: sony20
+address: 26.42
+command: 104
+#
+name: FUNTION 2
+type: parsed
+protocol: sony20
+address: 26.42
+command: 105
+#
+name: PLUS
+type: parsed
+protocol: sony20
+address: 26.42
+command: 106
+#
+name: ZOOM +
+type: parsed
+protocol: sony20
+address: 26.42
+command: 106
+#
+name: MINUS
+type: parsed
+protocol: sony20
+address: 26.42
+command: 107
+#
+name: ZOOM -
+type: parsed
+protocol: sony20
+address: 26.42
+command: 107
+#
+name: WIDE MODE
+type: parsed
+protocol: sony20
+address: 26.42
+command: 110
+#
+name: LENS
+type: parsed
+protocol: sony20
+address: 26.42
+command: 120
+#

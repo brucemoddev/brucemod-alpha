@@ -1,0 +1,495 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 7
+command: 0
+#
+name: DISPLAY B
+type: parsed
+protocol: rc5
+address: 7
+command: 0
+#
+name: DISPLAY A
+type: parsed
+protocol: rc5
+address: 7
+command: 0
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 7
+command: 1
+#
+name: POWER B
+type: parsed
+protocol: rc5
+address: 7
+command: 1
+#
+name: POWER A
+type: parsed
+protocol: rc5
+address: 7
+command: 1
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 7
+command: 2
+#
+name: CD B
+type: parsed
+protocol: rc5
+address: 7
+command: 2
+#
+name: CD A
+type: parsed
+protocol: rc5
+address: 7
+command: 2
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 7
+command: 3
+#
+name: TUNER B
+type: parsed
+protocol: rc5
+address: 7
+command: 3
+#
+name: TUNER A
+type: parsed
+protocol: rc5
+address: 7
+command: 3
+#
+name: VIDEO
+type: parsed
+protocol: rc5
+address: 7
+command: 4
+#
+name: VIDEO B
+type: parsed
+protocol: rc5
+address: 7
+command: 4
+#
+name: VIDEO 1 A
+type: parsed
+protocol: rc5
+address: 7
+command: 4
+#
+name: VIDEO 1 B
+type: parsed
+protocol: rc5
+address: 7
+command: 4
+#
+name: PHONO
+type: parsed
+protocol: rc5
+address: 7
+command: 8
+#
+name: PHONO B
+type: parsed
+protocol: rc5
+address: 7
+command: 8
+#
+name: PHONO A
+type: parsed
+protocol: rc5
+address: 7
+command: 8
+#
+name: AUX 1
+type: parsed
+protocol: rc5
+address: 7
+command: 9
+#
+name: AUX 1 B
+type: parsed
+protocol: rc5
+address: 7
+command: 9
+#
+name: AUX 1 A
+type: parsed
+protocol: rc5
+address: 7
+command: 9
+#
+name: AUX 2
+type: parsed
+protocol: rc5
+address: 7
+command: 10
+#
+name: AUX 2 B
+type: parsed
+protocol: rc5
+address: 7
+command: 10
+#
+name: AUX 2 A
+type: parsed
+protocol: rc5
+address: 7
+command: 10
+#
+name: MONITOR A
+type: parsed
+protocol: rc5
+address: 7
+command: 11
+#
+name: MONITOR B
+type: parsed
+protocol: rc5
+address: 7
+command: 11
+#
+name: GAIN A
+type: parsed
+protocol: rc5
+address: 7
+command: 12
+#
+name: GAIN B
+type: parsed
+protocol: rc5
+address: 7
+command: 12
+#
+name: VOL UP
+type: parsed
+protocol: rc5
+address: 7
+command: 15
+#
+name: VOL UP B
+type: parsed
+protocol: rc5
+address: 7
+command: 15
+#
+name: VOLUME + A
+type: parsed
+protocol: rc5
+address: 7
+command: 15
+#
+name: VOLUME + B
+type: parsed
+protocol: rc5
+address: 7
+command: 15
+#
+name: BAL L
+type: parsed
+protocol: rc5
+address: 7
+command: 17
+#
+name: BAL L B
+type: parsed
+protocol: rc5
+address: 7
+command: 17
+#
+name: BALANCE LEFT A
+type: parsed
+protocol: rc5
+address: 7
+command: 17
+#
+name: BALANCE LEFT B
+type: parsed
+protocol: rc5
+address: 7
+command: 17
+#
+name: BAL R
+type: parsed
+protocol: rc5
+address: 7
+command: 19
+#
+name: BAL R B
+type: parsed
+protocol: rc5
+address: 7
+command: 19
+#
+name: BALANCE RIGHT A
+type: parsed
+protocol: rc5
+address: 7
+command: 19
+#
+name: BALANCE RIGHT B
+type: parsed
+protocol: rc5
+address: 7
+command: 19
+#
+name: VOL DN
+type: parsed
+protocol: rc5
+address: 7
+command: 21
+#
+name: VOL DN B
+type: parsed
+protocol: rc5
+address: 7
+command: 21
+#
+name: VOLUME - A
+type: parsed
+protocol: rc5
+address: 7
+command: 21
+#
+name: VOLUME - B
+type: parsed
+protocol: rc5
+address: 7
+command: 21
+#
+name: BAL/SE
+type: parsed
+protocol: rc5
+address: 7
+command: 23
+#
+name: BAL/SE B
+type: parsed
+protocol: rc5
+address: 7
+command: 23
+#
+name: BAL/SE A
+type: parsed
+protocol: rc5
+address: 7
+command: 23
+#
+name: HOURS
+type: parsed
+protocol: rc5
+address: 7
+command: 24
+#
+name: HOURS B
+type: parsed
+protocol: rc5
+address: 7
+command: 24
+#
+name: HOURS A
+type: parsed
+protocol: rc5
+address: 7
+command: 24
+#
+name: PROC
+type: parsed
+protocol: rc5
+address: 7
+command: 25
+#
+name: PROC B
+type: parsed
+protocol: rc5
+address: 7
+command: 25
+#
+name: PROC A
+type: parsed
+protocol: rc5
+address: 7
+command: 25
+#
+name: INVERT
+type: parsed
+protocol: rc5
+address: 7
+command: 26
+#
+name: INVERT B
+type: parsed
+protocol: rc5
+address: 7
+command: 26
+#
+name: INVERT A
+type: parsed
+protocol: rc5
+address: 7
+command: 26
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 7
+command: 27
+#
+name: MUTE B
+type: parsed
+protocol: rc5
+address: 7
+command: 27
+#
+name: MUTE A
+type: parsed
+protocol: rc5
+address: 7
+command: 27
+#
+name: MONO
+type: parsed
+protocol: rc5
+address: 7
+command: 28
+#
+name: MONO B
+type: parsed
+protocol: rc5
+address: 7
+command: 28
+#
+name: STEREO/MONO A
+type: parsed
+protocol: rc5
+address: 7
+command: 28
+#
+name: STEREO/MONO B
+type: parsed
+protocol: rc5
+address: 7
+command: 28
+#
+name: POWER OFF A
+type: parsed
+protocol: rc5
+address: 7
+command: 32
+#
+name: POWER OFF B
+type: parsed
+protocol: rc5
+address: 7
+command: 32
+#
+name: POWER ON A
+type: parsed
+protocol: rc5
+address: 7
+command: 33
+#
+name: POWER ON B
+type: parsed
+protocol: rc5
+address: 7
+command: 33
+#
+name: MUTE OFF A
+type: parsed
+protocol: rc5
+address: 7
+command: 34
+#
+name: MUTE OFF B
+type: parsed
+protocol: rc5
+address: 7
+command: 34
+#
+name: MUTE ON A
+type: parsed
+protocol: rc5
+address: 7
+command: 35
+#
+name: MUTE ON B
+type: parsed
+protocol: rc5
+address: 7
+command: 35
+#
+name: MONIT OFF A
+type: parsed
+protocol: rc5
+address: 7
+command: 36
+#
+name: MONIT OFF B
+type: parsed
+protocol: rc5
+address: 7
+command: 36
+#
+name: MONITOR ON A
+type: parsed
+protocol: rc5
+address: 7
+command: 37
+#
+name: MONITOR ON B
+type: parsed
+protocol: rc5
+address: 7
+command: 37
+#
+name: LO GAIN A
+type: parsed
+protocol: rc5
+address: 7
+command: 40
+#
+name: LO GAIN B
+type: parsed
+protocol: rc5
+address: 7
+command: 40
+#
+name: MED GAIN A
+type: parsed
+protocol: rc5
+address: 7
+command: 41
+#
+name: MED GAIN B
+type: parsed
+protocol: rc5
+address: 7
+command: 41
+#
+name: HI GAIN A
+type: parsed
+protocol: rc5
+address: 7
+command: 42
+#
+name: HI GAIN B
+type: parsed
+protocol: rc5
+address: 7
+command: 42
+#

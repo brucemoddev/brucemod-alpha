@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: pioneer
+address: 163
+command: 152
+#
+name: 0
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 7
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 8
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: 9
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: +10
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: ANGLE
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: AUDIO MODE
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: CLEAR
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: DISPLAY
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: ENTER
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: MENU
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: MENU DOWN
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: MENU LEFT
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: MENU RIGHT
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: MENU UP
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: MODE
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: RETURN
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: STEP <
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: STEP >
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: SUBTITLE
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: TITLE
+type: parsed
+protocol: pioneer
+address: 163
+command: 153
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 163
+command: 154
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 163
+command: 155
+#
+name: SKIP >>
+type: parsed
+protocol: pioneer
+address: 163
+command: 156
+#
+name: SKIP <<
+type: parsed
+protocol: pioneer
+address: 163
+command: 157
+#
+name: PLAY
+type: parsed
+protocol: pioneer
+address: 163
+command: 158
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 163
+command: 159
+#

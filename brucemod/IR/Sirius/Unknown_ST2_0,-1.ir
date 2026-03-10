@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: num0
+type: parsed
+protocol: nec
+address: 0
+command: 132
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0
+command: 133
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0
+command: 134
+#
+name: up_arrow
+type: parsed
+protocol: nec
+address: 0
+command: 135
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 0
+command: 136
+#
+name: right_arrow
+type: parsed
+protocol: nec
+address: 0
+command: 137
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 0
+command: 138
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0
+command: 139
+#
+name: down_arrow
+type: parsed
+protocol: nec
+address: 0
+command: 140
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 141
+#
+name: fm_preset
+type: parsed
+protocol: nec
+address: 0
+command: 142
+#
+name: display
+type: parsed
+protocol: nec
+address: 0
+command: 143
+#
+name: num7
+type: parsed
+protocol: nec
+address: 0
+command: 144
+#
+name: num4
+type: parsed
+protocol: nec
+address: 0
+command: 145
+#
+name: num1
+type: parsed
+protocol: nec
+address: 0
+command: 146
+#
+name: band
+type: parsed
+protocol: nec
+address: 0
+command: 147
+#
+name: num8
+type: parsed
+protocol: nec
+address: 0
+command: 148
+#
+name: num5
+type: parsed
+protocol: nec
+address: 0
+command: 149
+#
+name: num2
+type: parsed
+protocol: nec
+address: 0
+command: 150
+#
+name: memory
+type: parsed
+protocol: nec
+address: 0
+command: 151
+#
+name: num9
+type: parsed
+protocol: nec
+address: 0
+command: 152
+#
+name: num6
+type: parsed
+protocol: nec
+address: 0
+command: 153
+#
+name: num3
+type: parsed
+protocol: nec
+address: 0
+command: 154
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0
+command: 155
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0
+command: 156
+#
+name: jump_button
+type: parsed
+protocol: nec
+address: 0
+command: 157
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0
+command: 158
+#
+name: left_arrow
+type: parsed
+protocol: nec
+address: 0
+command: 159
+#

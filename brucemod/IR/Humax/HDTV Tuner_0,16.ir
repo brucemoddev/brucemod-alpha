@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 0.16
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0.16
+command: 3
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0.16
+command: 4
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0.16
+command: 5
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0.16
+command: 6
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0.16
+command: 7
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0.16
+command: 8
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0.16
+command: 9
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0.16
+command: 10
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0.16
+command: 11
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0.16
+command: 12
+#
+name: MENY
+type: parsed
+protocol: nec1
+address: 0.16
+command: 14
+#
+name: P-
+type: parsed
+protocol: nec1
+address: 0.16
+command: 15
+#
+name: P+
+type: parsed
+protocol: nec1
+address: 0.16
+command: 16
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0.16
+command: 17
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0.16
+command: 18
+#
+name: CURSOR OK
+type: parsed
+protocol: nec1
+address: 0.16
+command: 19
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0.16
+command: 20
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0.16
+command: 21
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 0.16
+command: 24
+#
+name: RG 3 GUL
+type: parsed
+protocol: nec1
+address: 0.16
+command: 26
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 0.16
+command: 27
+#
+name: D
+type: parsed
+protocol: nec1
+address: 0.16
+command: 28
+#
+name: N
+type: parsed
+protocol: nec1
+address: 0.16
+command: 29
+#
+name: 
+type: parsed
+protocol: nec1
+address: 0.16
+command: 30
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 0.16
+command: 31
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 0.16
+command: 64
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 0.16
+command: 65
+#
+name: OPT+
+type: parsed
+protocol: nec1
+address: 0.16
+command: 66
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 0.16
+command: 67
+#
+name: SOUND?
+type: parsed
+protocol: nec1
+address: 0.16
+command: 69
+#
+name: TEXT
+type: parsed
+protocol: nec1
+address: 0.16
+command: 73
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 0.16
+command: 76
+#
+name: WIDE
+type: parsed
+protocol: nec1
+address: 0.16
+command: 78
+#
+name: V-FORMAT
+type: parsed
+protocol: nec1
+address: 0.16
+command: 79
+#

@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 40.0
+command: 11
+#
+name: GAME_ON/OFF
+type: parsed
+protocol: nec
+address: 40.0
+command: 20
+#
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 40.0
+command: 12
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 40.0
+command: 13
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 40.0
+command: 14
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 40.0
+command: 15
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 40.0
+command: 16
+#
+name: Memory
+type: parsed
+protocol: nec
+address: 40.0
+command: 24
+#
+name: Add
+type: parsed
+protocol: nec
+address: 40.0
+command: 25
+#
+name: Erase
+type: parsed
+protocol: nec
+address: 40.0
+command: 26
+#
+name: Sleep
+type: parsed
+protocol: nec
+address: 40.0
+command: 17
+#
+name: SLEEPCALL
+type: parsed
+protocol: nec
+address: 40.0
+command: 29
+#
+name: FLASH BACK
+type: parsed
+protocol: nec
+address: 40.0
+command: 19
+#
+name: 1
+type: parsed
+protocol: nec
+address: 40.0
+command: 0
+#
+name: 2
+type: parsed
+protocol: nec
+address: 40.0
+command: 1
+#
+name: 3
+type: parsed
+protocol: nec
+address: 40.0
+command: 2
+#
+name: 4
+type: parsed
+protocol: nec
+address: 40.0
+command: 3
+#
+name: 5
+type: parsed
+protocol: nec
+address: 40.0
+command: 4
+#
+name: 6
+type: parsed
+protocol: nec
+address: 40.0
+command: 5
+#
+name: 7
+type: parsed
+protocol: nec
+address: 40.0
+command: 6
+#
+name: 8
+type: parsed
+protocol: nec
+address: 40.0
+command: 7
+#
+name: 9
+type: parsed
+protocol: nec
+address: 40.0
+command: 8
+#
+name: 0
+type: parsed
+protocol: nec
+address: 40.0
+command: 9
+#

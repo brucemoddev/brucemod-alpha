@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 110.146
+command: 7
+#
+name: BACK
+type: parsed
+protocol: nec2
+address: 110.146
+command: 9
+#
+name: PAGE CHAPTER +
+type: parsed
+protocol: nec2
+address: 110.146
+command: 11
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 110.146
+command: 12
+#
+name: LIST COVERS <>
+type: parsed
+protocol: nec2
+address: 110.146
+command: 13
+#
+name: PAGE CHAPTER -
+type: parsed
+protocol: nec2
+address: 110.146
+command: 14
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 110.146
+command: 15
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 110.146
+command: 16
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 110.146
+command: 17
+#
+name: REWIND
+type: parsed
+protocol: nec2
+address: 110.146
+command: 18
+#
+name: FFORWARD
+type: parsed
+protocol: nec2
+address: 110.146
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 110.146
+command: 24
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 110.146
+command: 26
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 110.146
+command: 38
+#
+name: OK
+type: parsed
+protocol: nec2
+address: 110.146
+command: 65
+#

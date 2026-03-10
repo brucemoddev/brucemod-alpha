@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FF
+type: parsed
+protocol: nec1
+address: 210.108
+command: 0
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 210.108
+command: 1
+#
+name: PLAY MODE (SHUFFLE)
+type: parsed
+protocol: nec1
+address: 210.108
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 210.108
+command: 10
+#
+name: STOP (PAUSE)
+type: parsed
+protocol: nec1
+address: 210.108
+command: 11
+#
+name: TRACK +
+type: parsed
+protocol: nec1
+address: 210.108
+command: 12
+#
+name: TRACK -
+type: parsed
+protocol: nec1
+address: 210.108
+command: 13
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 210.108
+command: 14
+#
+name: PROGRAM (PLAYLIST MO
+type: parsed
+protocol: nec1
+address: 210.108
+command: 16
+#
+name: DISPLAY (BKLIGHT)
+type: parsed
+protocol: nec1
+address: 210.108
+command: 17
+#
+name: ENTER (PLAYLIST MODE
+type: parsed
+protocol: nec1
+address: 210.108
+command: 17
+#
+name: SCROLL (BKLIGHT)
+type: parsed
+protocol: nec1
+address: 210.108
+command: 18
+#
+name: RANDOM (SHUFFLE)
+type: parsed
+protocol: nec1
+address: 210.108
+command: 21
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.108
+command: 22
+#

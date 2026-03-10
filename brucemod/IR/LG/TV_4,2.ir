@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4.0
+command: 8
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4.0
+command: 9
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4.0
+command: 68
+#
+name: Exit
+type: parsed
+protocol: nec
+address: 4.0
+command: 91
+#
+name: 1
+type: parsed
+protocol: nec
+address: 4.0
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec
+address: 4.0
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec
+address: 4.0
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec
+address: 4.0
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec
+address: 4.0
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec
+address: 4.0
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec
+address: 4.0
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec
+address: 4.0
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec
+address: 4.0
+command: 25
+#
+name: 0
+type: parsed
+protocol: nec
+address: 4.0
+command: 16
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4.0
+command: 40
+#
+name: TXT
+type: parsed
+protocol: nec
+address: 4.0
+command: 32
+#
+name: red
+type: parsed
+protocol: nec
+address: 4.0
+command: 64
+#
+name: yelow
+type: parsed
+protocol: nec
+address: 4.0
+command: 7
+#
+name: green
+type: parsed
+protocol: nec
+address: 4.0
+command: 65
+#
+name: blue
+type: parsed
+protocol: nec
+address: 4.0
+command: 6
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4.0
+command: 3
+#
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 4.0
+command: 0
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 4.0
+command: 1
+#
+name: i
+type: parsed
+protocol: nec
+address: 4.0
+command: 170
+#
+name: Av
+type: parsed
+protocol: nec
+address: 4.0
+command: 11
+#

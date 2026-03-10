@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF (ALT.)
+type: parsed
+protocol: sony15
+address: 4
+command: 55
+#

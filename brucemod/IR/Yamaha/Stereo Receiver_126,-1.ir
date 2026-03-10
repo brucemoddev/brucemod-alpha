@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DC1 TRG CTRL Z1
+type: parsed
+protocol: nec1
+address: 126
+command: 50
+#
+name: DC1 TRG CTRL Z2
+type: parsed
+protocol: nec1
+address: 126
+command: 51
+#
+name: DC1 TRG CTRL ALL
+type: parsed
+protocol: nec1
+address: 126
+command: 52
+#
+name: DC1 TRG Z2 ON
+type: parsed
+protocol: nec1
+address: 126
+command: 113
+#
+name: DC1 TRG Z2 OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 114
+#
+name: DC1 TRG Z1 ON
+type: parsed
+protocol: nec1
+address: 126
+command: 115
+#
+name: DC1 TRG Z1 OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 116
+#
+name: Z2 MUTE ON
+type: parsed
+protocol: nec1
+address: 126
+command: 160
+#
+name: Z2 MUTE OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 161
+#
+name: MUTE ON
+type: parsed
+protocol: nec1
+address: 126
+command: 162
+#
+name: MUTE OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 163
+#
+name: SP RELAY A ON
+type: parsed
+protocol: nec1
+address: 126
+command: 171
+#
+name: SP RELAY A OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 172
+#
+name: SP RELAY B ON
+type: parsed
+protocol: nec1
+address: 126
+command: 173
+#
+name: SP RELAY B OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 174
+#
+name: SLEEP OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 179
+#
+name: SLEEP 120
+type: parsed
+protocol: nec1
+address: 126
+command: 180
+#
+name: SLEEP 90
+type: parsed
+protocol: nec1
+address: 126
+command: 181
+#
+name: SLEEP 60
+type: parsed
+protocol: nec1
+address: 126
+command: 182
+#
+name: SLEEP 30
+type: parsed
+protocol: nec1
+address: 126
+command: 183
+#

@@ -1,0 +1,537 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 92
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 92
+command: 1
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 92
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 92
+command: 2
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 92
+command: 3
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 92
+command: 3
+#
+name: TUNER SEEK^(TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 4
+#
+name: SEEK >
+type: parsed
+protocol: nec1
+address: 92
+command: 4
+#
+name: TUNER SEEKV(TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 5
+#
+name: SEEK <
+type: parsed
+protocol: nec1
+address: 92
+command: 5
+#
+name: TUNER AM(TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 6
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 92
+command: 6
+#
+name: TUNER FM(TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 7
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 92
+command: 7
+#
+name: TUNER PRESET^(TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 18
+#
+name: PRESET >
+type: parsed
+protocol: nec1
+address: 92
+command: 18
+#
+name: TUNER PRESETV(TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 19
+#
+name: PRESET <
+type: parsed
+protocol: nec1
+address: 92
+command: 19
+#
+name: TAPE1 REC
+type: parsed
+protocol: nec1
+address: 92
+command: 20
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 92
+command: 20
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: nec1
+address: 92
+command: 21
+#
+name: TAPE PLAY FORWARD
+type: parsed
+protocol: nec1
+address: 92
+command: 21
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: nec1
+address: 92
+command: 22
+#
+name: TAPE PAUSE
+type: parsed
+protocol: nec1
+address: 92
+command: 22
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: nec1
+address: 92
+command: 23
+#
+name: TAPE STOP
+type: parsed
+protocol: nec1
+address: 92
+command: 23
+#
+name: SPKS A
+type: parsed
+protocol: nec1
+address: 92
+command: 64
+#
+name: SPKS B
+type: parsed
+protocol: nec1
+address: 92
+command: 65
+#
+name: SPKS A+B
+type: parsed
+protocol: nec1
+address: 92
+command: 66
+#
+name: SPKS OFF
+type: parsed
+protocol: nec1
+address: 92
+command: 67
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 92
+command: 68
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 92
+command: 69
+#
+name: TUNER (TAPE1)
+type: parsed
+protocol: nec1
+address: 92
+command: 70
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 92
+command: 70
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 92
+command: 71
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 92
+command: 71
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 92
+command: 72
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 92
+command: 73
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 92
+command: 73
+#
+name: TAPE 2/VCR
+type: parsed
+protocol: nec1
+address: 92
+command: 74
+#
+name: TAPE1 FFWD >>
+type: parsed
+protocol: nec1
+address: 92
+command: 84
+#
+name: TAPE FF
+type: parsed
+protocol: nec1
+address: 92
+command: 84
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: nec1
+address: 92
+command: 85
+#
+name: TAPE REWIND
+type: parsed
+protocol: nec1
+address: 92
+command: 85
+#
+name: TAPE1 CUE
+type: parsed
+protocol: nec1
+address: 92
+command: 86
+#
+name: CUE
+type: parsed
+protocol: nec1
+address: 92
+command: 86
+#
+name: TAPE1 R.PLAY <
+type: parsed
+protocol: nec1
+address: 92
+command: 88
+#
+name: TAPE REVERSE PLAY
+type: parsed
+protocol: nec1
+address: 92
+command: 88
+#
+name: TAPE1 AZIMUTH >
+type: parsed
+protocol: nec1
+address: 92
+command: 89
+#
+name: TAPE1 AZIMUTH <
+type: parsed
+protocol: nec1
+address: 92
+command: 90
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 92
+command: 128
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 92
+command: 129
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 92
+command: 130
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 92
+command: 131
+#
+name: TUNER SEEK ^
+type: parsed
+protocol: nec1
+address: 92
+command: 132
+#
+name: TUNER SEEK^(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 132
+#
+name: TUNER SEEK V
+type: parsed
+protocol: nec1
+address: 92
+command: 133
+#
+name: TUNER SEEKV(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 133
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 92
+command: 134
+#
+name: TUNER AM(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 134
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 92
+command: 135
+#
+name: TUNER FM(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 135
+#
+name: TUNER PRESET ^
+type: parsed
+protocol: nec1
+address: 92
+command: 146
+#
+name: TUNER PRESET^(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 146
+#
+name: TUNER PRESET V
+type: parsed
+protocol: nec1
+address: 92
+command: 147
+#
+name: TUNER PRESETV(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 147
+#
+name: TAPE2 REC
+type: parsed
+protocol: nec1
+address: 92
+command: 148
+#
+name: TAPE2 PLAY >
+type: parsed
+protocol: nec1
+address: 92
+command: 149
+#
+name: TAPE2 PAUSE 
+type: parsed
+protocol: nec1
+address: 92
+command: 150
+#
+name: TAPE2 STOP []
+type: parsed
+protocol: nec1
+address: 92
+command: 151
+#
+name: SPKS A
+type: parsed
+protocol: nec1
+address: 92
+command: 192
+#
+name: SPKS B
+type: parsed
+protocol: nec1
+address: 92
+command: 193
+#
+name: SPKS A+B
+type: parsed
+protocol: nec1
+address: 92
+command: 194
+#
+name: SPKS OFF
+type: parsed
+protocol: nec1
+address: 92
+command: 195
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 92
+command: 196
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 92
+command: 197
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 92
+command: 198
+#
+name: TUNER(TAPE2)
+type: parsed
+protocol: nec1
+address: 92
+command: 198
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 92
+command: 199
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 92
+command: 200
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 92
+command: 201
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 92
+command: 202
+#
+name: TAPE 3/VCR
+type: parsed
+protocol: nec1
+address: 92
+command: 203
+#
+name: TAPE2 FFWD >>
+type: parsed
+protocol: nec1
+address: 92
+command: 212
+#
+name: TAPE2 REW <<
+type: parsed
+protocol: nec1
+address: 92
+command: 213
+#
+name: TAPE2 CUE
+type: parsed
+protocol: nec1
+address: 92
+command: 214
+#
+name: TAPE2 R.PLAY <
+type: parsed
+protocol: nec1
+address: 92
+command: 216
+#
+name: TAPE2 AZIMUTH >
+type: parsed
+protocol: nec1
+address: 92
+command: 217
+#
+name: TAPE2 AZIMUTH <
+type: parsed
+protocol: nec1
+address: 92
+command: 218
+#

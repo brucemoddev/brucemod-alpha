@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 172
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 172
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 172
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 172
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 172
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 172
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 172
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 172
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 172
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 172
+command: 9
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 172
+command: 10
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 172
+command: 11
+#
+name: STORE
+type: parsed
+protocol: nec1
+address: 172
+command: 12
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 172
+command: 13
+#
+name: RECALL
+type: parsed
+protocol: nec1
+address: 172
+command: 14
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 172
+command: 16
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 172
+command: 17
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 172
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 172
+command: 20
+#
+name: #
+type: parsed
+protocol: nec1
+address: 172
+command: 21
+#
+name: TIMER
+type: parsed
+protocol: nec1
+address: 172
+command: 29
+#
+name: C/R
+type: parsed
+protocol: nec1
+address: 172
+command: 30
+#
+name: AUTH
+type: parsed
+protocol: nec1
+address: 172
+command: 31
+#

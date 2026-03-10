@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME -
+type: parsed
+protocol: barco
+address: 28
+command: 29
+#
+name: VOLUME +
+type: parsed
+protocol: barco
+address: 28
+command: 30
+#

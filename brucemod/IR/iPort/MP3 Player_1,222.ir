@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NEXT TRACK
+type: parsed
+protocol: nec1
+address: 1.222
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 1.222
+command: 7
+#
+name: PREVIOUS TRACK
+type: parsed
+protocol: nec1
+address: 1.222
+command: 11
+#
+name: NEXT ALBUM
+type: parsed
+protocol: nec1
+address: 1.222
+command: 12
+#
+name: PREVIOUS ALBUM
+type: parsed
+protocol: nec1
+address: 1.222
+command: 13
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 1.222
+command: 14
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 1.222
+command: 15
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 16
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 17
+#
+name: NEXT CHAPTER
+type: parsed
+protocol: nec1
+address: 1.222
+command: 18
+#
+name: PREVIOUS CHAPTER
+type: parsed
+protocol: nec1
+address: 1.222
+command: 19
+#
+name: NEXT PLAYLIST
+type: parsed
+protocol: nec1
+address: 1.222
+command: 20
+#
+name: PREVIOUS PLAYLIST
+type: parsed
+protocol: nec1
+address: 1.222
+command: 21
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 22
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 1.222
+command: 23
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 1.222
+command: 24
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 1.222
+command: 25
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 1.222
+command: 26
+#
+name: BACK LIGHT
+type: parsed
+protocol: nec1
+address: 1.222
+command: 27
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: FAST FORWARD
+type: parsed
+protocol: nec1
+address: 1.222
+command: 32
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 1.222
+command: 33
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 1.222
+command: 34
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 1.222
+command: 35
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 1.222
+command: 36
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 1.222
+command: 37
+#
+name: LED ADJUST
+type: parsed
+protocol: nec1
+address: 1.222
+command: 48
+#

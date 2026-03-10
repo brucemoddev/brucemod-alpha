@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER PRESET >
+type: parsed
+protocol: nec2
+address: 210.109
+command: 0
+#
+name: TUNER PRESET <
+type: parsed
+protocol: nec2
+address: 210.109
+command: 1
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 210.109
+command: 2
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 210.109
+command: 3
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 210.109
+command: 4
+#
+name: AUDIO MUTING
+type: parsed
+protocol: nec1
+address: 210.109
+command: 5
+#
+name: TAPE-2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 7
+#
+name: TAPE-1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 8
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 210.109
+command: 9
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 210.109
+command: 10
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.109
+command: 11
+#
+name: VCR-2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 13
+#
+name: VCR-1/VDP
+type: parsed
+protocol: nec1
+address: 210.109
+command: 14
+#
+name: CD DIRECT
+type: parsed
+protocol: nec1
+address: 210.109
+command: 18
+#
+name: DECK-B STOP []
+type: parsed
+protocol: nec1
+address: 210.109
+command: 19
+#
+name: DECK-B PLAY >
+type: parsed
+protocol: nec1
+address: 210.109
+command: 21
+#
+name: DECK-B PLAY R. <
+type: parsed
+protocol: nec1
+address: 210.109
+command: 22
+#
+name: DECK-B REC/PAUSE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 24
+#
+name: DECK-B FF >>
+type: parsed
+protocol: nec1
+address: 210.109
+command: 25
+#
+name: DECK-B REW <<
+type: parsed
+protocol: nec1
+address: 210.109
+command: 26
+#
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 210.109
+command: 27
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 210.109
+command: 28
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 210.109
+command: 29
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 210.109
+command: 30
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 31
+#
+name: DECK-A STOP []
+type: parsed
+protocol: nec1
+address: 210.109
+command: 77
+#
+name: DECK-A PLAY >
+type: parsed
+protocol: nec1
+address: 210.109
+command: 78
+#
+name: DECK-A PLAY R. <
+type: parsed
+protocol: nec1
+address: 210.109
+command: 79
+#
+name: DECK-A REC/PAUSE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 80
+#
+name: DECK-A FFWD >>
+type: parsed
+protocol: nec1
+address: 210.109
+command: 81
+#
+name: DECK-A REW <<
+type: parsed
+protocol: nec1
+address: 210.109
+command: 82
+#
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 210.109
+command: 92
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 210.109
+command: 93
+#
+name: PHONO PLAY/REJECT
+type: parsed
+protocol: nec1
+address: 210.109
+command: 95
+#

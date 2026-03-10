@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MenuDown
+type: parsed
+protocol: nec
+address: 64.47
+command: 0
+#
+name: Display/Info
+type: parsed
+protocol: nec
+address: 64.47
+command: 1
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 64.47
+command: 2
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 64.47
+command: 3
+#
+name: Input/Setup
+type: parsed
+protocol: nec
+address: 64.47
+command: 4
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 64.47
+command: 5
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 64.47
+command: 6
+#
+name: KEY_M
+type: parsed
+protocol: nec
+address: 64.47
+command: 7
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 64.47
+command: 8
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 64.47
+command: 9
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 64.47
+command: 10
+#
+name: Angle/PiP
+type: parsed
+protocol: nec
+address: 64.47
+command: 11
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 64.47
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 64.47
+command: 13
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 64.47
+command: 14
+#
+name: MenuRight/Next
+type: parsed
+protocol: nec
+address: 64.47
+command: 15
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 64.47
+command: 16
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 64.47
+command: 17
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 64.47
+command: 18
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 64.47
+command: 19
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 64.47
+command: 20
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 64.47
+command: 21
+#
+name: MenuUp
+type: parsed
+protocol: nec
+address: 64.47
+command: 22
+#
+name: MenuLeft/Back
+type: parsed
+protocol: nec
+address: 64.47
+command: 23
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 64.47
+command: 24
+#
+name: Repeat/PrevChan
+type: parsed
+protocol: nec
+address: 64.47
+command: 25
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 64.47
+command: 26
+#
+name: MenuSelect/OK
+type: parsed
+protocol: nec
+address: 64.47
+command: 26
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 64.47
+command: 27
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 64.47
+command: 28
+#
+name: ScanBackwards/Rewind
+type: parsed
+protocol: nec
+address: 64.47
+command: 29
+#
+name: ScanForwards/FastFor
+type: parsed
+protocol: nec
+address: 64.47
+command: 30
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 64.47
+command: 31
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 64.47
+command: 255
+#
+name: Exit/Return
+type: parsed
+protocol: nec
+address: 64.47
+command: 255
+#
+name: Swap
+type: parsed
+protocol: nec
+address: 64.47
+command: 255
+#

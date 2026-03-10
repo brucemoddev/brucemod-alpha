@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RADIO
+type: parsed
+protocol: nec2
+address: 16.16
+command: 0
+#
+name: mw
+type: parsed
+protocol: nec2
+address: 16.16
+command: 1
+#
+name: lw
+type: parsed
+protocol: nec2
+address: 16.16
+command: 2
+#
+name: KEY_CD
+type: parsed
+protocol: nec2
+address: 16.16
+command: 3
+#
+name: ply/pau
+type: parsed
+protocol: nec2
+address: 16.16
+command: 4
+#
+name: KEY_STOP
+type: parsed
+protocol: nec2
+address: 16.16
+command: 5
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec2
+address: 16.16
+command: 6
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec2
+address: 16.16
+command: 7
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec2
+address: 16.16
+command: 8
+#
+name: KEY_AUX
+type: parsed
+protocol: nec2
+address: 16.16
+command: 9
+#
+name: pre-
+type: parsed
+protocol: nec2
+address: 16.16
+command: 18
+#
+name: pre+
+type: parsed
+protocol: nec2
+address: 16.16
+command: 19
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec2
+address: 16.16
+command: 22
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec2
+address: 16.16
+command: 23
+#
+name: KEY_POWER
+type: parsed
+protocol: nec2
+address: 16.16
+command: 30
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec2
+address: 16.16
+command: 31
+#
+name: eqpatt
+type: parsed
+protocol: nec2
+address: 16.16
+command: 64
+#
+name: dskip
+type: parsed
+protocol: nec2
+address: 16.16
+command: 74
+#
+name: prog
+type: parsed
+protocol: nec2
+address: 16.16
+command: 77
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec2
+address: 16.16
+command: 78
+#
+name: random
+type: parsed
+protocol: nec2
+address: 16.16
+command: 80
+#
+name: remain
+type: parsed
+protocol: nec2
+address: 16.16
+command: 81
+#

@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 3
+#
+name: 4
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 5
+#
+name: 6
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 7
+#
+name: 8
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 8
+#
+name: 9
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 9
+#
+name: CHANNEL +
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 13
+#
+name: CHANNEL -
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 14
+#
+name: JUMP
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 17
+#
+name: CURSOR UP
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 22
+#
+name: CURSOR DOWN
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 23
+#
+name: CURSOR LEFT
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 24
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 25
+#
+name: OK
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 26
+#
+name: INFO
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 27
+#
+name: REWIND
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 32
+#
+name: PLAY
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 33
+#
+name: FAST FORWARD
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 34
+#
+name: RECORD
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 35
+#
+name: STOP
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 36
+#
+name: PAUSE
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 37
+#
+name: SKIP
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 38
+#
+name: REPLAY
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 39
+#
+name: NEXT
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 40
+#
+name: ZOOM
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 80
+#
+name: BUY *
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 81
+#
+name: BUY (*)
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 81
+#
+name: VOD
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 82
+#
+name: ON DEMAND
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 82
+#
+name: LIVE TV
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 83
+#
+name: MOXI
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 84
+#
+name: ENTER
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 128
+#
+name: TICKER
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 131
+#
+name: BACK
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 132
+#
+name: CLEAR
+type: parsed
+protocol: xmp_1
+address: 18.0
+command: 133
+#

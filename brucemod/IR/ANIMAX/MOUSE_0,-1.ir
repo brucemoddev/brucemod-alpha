@@ -1,0 +1,567 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MINUS_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 0
+#
+name: X_KEY_0_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 1
+#
+name: SLASH_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 2
+#
+name: X_KEY_9_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 3
+#
+name: X_KEY_8_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 4
+#
+name: X_KEY_7_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 5
+#
+name: X_KEY_6_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 6
+#
+name: X_KEY_5_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 7
+#
+name: X_KEY_4_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 8
+#
+name: X_KEY_3_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 9
+#
+name: X_KEY_2_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 10
+#
+name: X_KEY_1_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 11
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 12
+#
+name: GREEN_BUTTON_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 13
+#
+name: RED_BUTTON_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 14
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 15
+#
+name: MUTE_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 16
+#
+name: BLUE_BUTTON_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 17
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 18
+#
+name: KEY_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 19
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 20
+#
+name: SKIP_FORWARD_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 21
+#
+name: STOP_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 22
+#
+name: SKIP_BACKWARD_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 23
+#
+name: FORWARD_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 24
+#
+name: KEY_PLAY
+type: parsed
+protocol: kathrein
+address: 0
+command: 25
+#
+name: KEY_REWIND
+type: parsed
+protocol: kathrein
+address: 0
+command: 26
+#
+name: LEFT_MOUSE_BUTTON_TO
+type: parsed
+protocol: kathrein
+address: 0
+command: 27
+#
+name: KEY_POWER
+type: parsed
+protocol: kathrein
+address: 0
+command: 28
+#
+name: AUX2_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 29
+#
+name: MAIL_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 30
+#
+name: AUX1_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 31
+#
+name: KEY_VIDEO
+type: parsed
+protocol: kathrein
+address: 0
+command: 32
+#
+name: RADIO_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 33
+#
+name: PHONE_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 34
+#
+name: TV_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 35
+#
+name: CD_DOWN
+type: parsed
+protocol: kathrein
+address: 0
+command: 36
+#
+name: MOUSE_N
+type: parsed
+protocol: kathrein
+address: 0
+command: 40
+#
+name: MOUSE_NE
+type: parsed
+protocol: kathrein
+address: 0
+command: 41
+#
+name: MOUSE_E
+type: parsed
+protocol: kathrein
+address: 0
+command: 42
+#
+name: MOUSE_SE
+type: parsed
+protocol: kathrein
+address: 0
+command: 43
+#
+name: MOUSE_S
+type: parsed
+protocol: kathrein
+address: 0
+command: 44
+#
+name: MOUSE_SW
+type: parsed
+protocol: kathrein
+address: 0
+command: 45
+#
+name: MOUSE_W
+type: parsed
+protocol: kathrein
+address: 0
+command: 46
+#
+name: MOUSE_NW
+type: parsed
+protocol: kathrein
+address: 0
+command: 47
+#
+name: LEFT_MOUSE_BUTTON_DO
+type: parsed
+protocol: kathrein
+address: 0
+command: 49
+#
+name: RIGHT_MOUSE_BUTTON_D
+type: parsed
+protocol: kathrein
+address: 0
+command: 57
+#
+name: MOUSE_NNE
+type: parsed
+protocol: kathrein
+address: 0
+command: 104
+#
+name: MOUSE_NEE
+type: parsed
+protocol: kathrein
+address: 0
+command: 105
+#
+name: MOUSE_SEE
+type: parsed
+protocol: kathrein
+address: 0
+command: 106
+#
+name: MOUSE_SSE
+type: parsed
+protocol: kathrein
+address: 0
+command: 107
+#
+name: MOUSE_SSW
+type: parsed
+protocol: kathrein
+address: 0
+command: 108
+#
+name: MOUSE_SWW
+type: parsed
+protocol: kathrein
+address: 0
+command: 109
+#
+name: MOUSE_NWW
+type: parsed
+protocol: kathrein
+address: 0
+command: 110
+#
+name: MOUSE_NNW
+type: parsed
+protocol: kathrein
+address: 0
+command: 111
+#
+name: MINUS_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 128
+#
+name: X_KEY_0_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 129
+#
+name: SLASH_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 130
+#
+name: X_KEY_9_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 131
+#
+name: X_KEY_8_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 132
+#
+name: X_KEY_7_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 133
+#
+name: X_KEY_6_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 134
+#
+name: X_KEY_5_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 135
+#
+name: X_KEY_4_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 136
+#
+name: X_KEY_3_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 137
+#
+name: X_KEY_2_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 138
+#
+name: X_KEY_1_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 139
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: kathrein
+address: 0
+command: 140
+#
+name: GREEN_BUTTON_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 141
+#
+name: RED_BUTTON_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 142
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: kathrein
+address: 0
+command: 143
+#
+name: MUTE_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 144
+#
+name: BLUE_BUTTON_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 145
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: kathrein
+address: 0
+command: 146
+#
+name: KEY_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 147
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: kathrein
+address: 0
+command: 148
+#
+name: SKIP_FORWARD_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 149
+#
+name: STOP_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 150
+#
+name: SKIP_BACKWARD
+type: parsed
+protocol: kathrein
+address: 0
+command: 151
+#
+name: FORWARD_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 152
+#
+name: KEY_PLAY
+type: parsed
+protocol: kathrein
+address: 0
+command: 153
+#
+name: KEY_REWIND
+type: parsed
+protocol: kathrein
+address: 0
+command: 154
+#
+name: LEFT_MOUSE_BUTTON_TO
+type: parsed
+protocol: kathrein
+address: 0
+command: 155
+#
+name: KEY_POWER
+type: parsed
+protocol: kathrein
+address: 0
+command: 156
+#
+name: AUX2_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 157
+#
+name: MAIL_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 158
+#
+name: AUX1_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 159
+#
+name: KEY_VIDEO
+type: parsed
+protocol: kathrein
+address: 0
+command: 160
+#
+name: RADIO_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 161
+#
+name: PHONE_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 162
+#
+name: TV_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 163
+#
+name: CD_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 164
+#
+name: LEFT_MOUSE_BUTTON_UP
+type: parsed
+protocol: kathrein
+address: 0
+command: 177
+#
+name: RIGHT_MOUSE_BUTTON_U
+type: parsed
+protocol: kathrein
+address: 0
+command: 185
+#

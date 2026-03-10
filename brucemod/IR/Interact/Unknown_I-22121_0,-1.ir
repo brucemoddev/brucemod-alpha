@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0
+command: 128
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 129
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0
+command: 130
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0
+command: 131
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0
+command: 132
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0
+command: 133
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0
+command: 134
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0
+command: 135
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 0
+command: 136
+#
+name: KEY_LANGUAGE
+type: parsed
+protocol: nec
+address: 0
+command: 137
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 0
+command: 138
+#
+name: KEY_OPTION
+type: parsed
+protocol: nec
+address: 0
+command: 139
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0
+command: 140
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0
+command: 141
+#
+name: MAIN_MENU
+type: parsed
+protocol: nec
+address: 0
+command: 142
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0
+command: 143
+#

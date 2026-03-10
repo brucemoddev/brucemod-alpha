@@ -1,0 +1,6081 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SRCH MODE PRESET
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 0
+#
+name: HDRADIO: PRES MOD
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 0
+#
+name: SRCH MODE TUNING
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 1
+#
+name: HDRADIO: MAN MOD
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 1
+#
+name: OPERATION 11
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 2
+#
+name: SRCE: MZ PRESET -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 2
+#
+name: SRCE: Z2 PRESET -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 3
+#
+name: Z2 OPERATION 11
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 3
+#
+name: Z2 OPERATION 11
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 3
+#
+name: SRCE: Z3 PRESET -
+type: parsed
+protocol: nec1_f16
+address: 127.1
+command: 4
+#
+name: Z3 SOURCE: OP 11
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 4
+#
+name: Z3 SOURCE: OP 11
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 4
+#
+name: SRCE: Z4 PRESET -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 5
+#
+name: Z4 SOURCE: OP 11
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 5
+#
+name: Z4 SOURCE: OP 11
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 5
+#
+name: OPERATION 12
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 6
+#
+name: SRCE: MZ PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 6
+#
+name: SRCE: Z2 PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 7
+#
+name: Z2 OPERATION 12
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 7
+#
+name: Z2 OPERATION 12
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 7
+#
+name: SRCE: Z3 PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 8
+#
+name: Z3 SOURCE: OP 12
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 8
+#
+name: Z3 SOURCE: OP 12
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 8
+#
+name: SRCE: Z4 PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 9
+#
+name: Z4 SOURCE: OP 12
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 9
+#
+name: Z4 SOURCE: OP 12
+type: parsed
+protocol: nec1_f16
+address: 127.1
+command: 9
+#
+name: A
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 10
+#
+name: SIRIUS PRESET A
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 10
+#
+name: SIRIUS: A
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 10
+#
+name: B
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 11
+#
+name: SIRIUS PRESET B
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 11
+#
+name: SIRIUS: B
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 11
+#
+name: SIRIUS: B
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 11
+#
+name: C
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 12
+#
+name: SIRIUS PRESET C
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 12
+#
+name: SIRIUS: C
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 12
+#
+name: SIRIUS: C
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 12
+#
+name: DOCK BLUETOOTH PAIR
+type: parsed
+protocol: nec1
+address: 127.1
+command: 13
+#
+name: D
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 13
+#
+name: SIRIUS PRESET D
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 13
+#
+name: SIRIUS: D
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 13
+#
+name: SIRIUS: D
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 13
+#
+name: IPOD UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: IPOD CURSOR UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: IPOD: CURSOR UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: IPOD MENU UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: DOCK NAV UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: E
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 14
+#
+name: DOCK: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 14
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: SIRIUS PRESET E
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 14
+#
+name: DOCK MENU UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: IPOD: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: SIRIUS: E
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 14
+#
+name: IPOD: UP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 14
+#
+name: SIRIUS: E
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 14
+#
+name: IPOD MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 15
+#
+name: IPOD: MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 15
+#
+name: SEARCH ALL CH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 15
+#
+name: SIRIUS:ALL CH SEARCH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 15
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 15
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 15
+#
+name: SIRIUS MODE ALL
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 15
+#
+name: SIRIUS ALL CH SRCH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 15
+#
+name: IPOD MENU LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: IPOD CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: IPOD: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: SEARCH CATEGORY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 16
+#
+name: DOCK: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: SIRIUS:CATEG. SEARCH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 16
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 16
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 16
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: SIRIUS MODE CATEGOR
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 16
+#
+name: DOCK MENU LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: SIRIUS CAT SRCH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 16
+#
+name: IPOD: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 16
+#
+name: IPOD: LEFT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 16
+#
+name: IPOD ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: IPOD CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: IPOD: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: DOCK NAV ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: SEARCH PRESET
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 17
+#
+name: DOCK: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: SIRIUS:PRESET SEARCH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 17
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 17
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 17
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: IPOD: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: SIRIUS MODE PRESET
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 17
+#
+name: DOCK MENU ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: SIRIUS PRESET SRCH
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 17
+#
+name: IPOD: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 17
+#
+name: IPOD MENU RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: IPOD CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: IPOD: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: DOCK NAV RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: DOCK: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 18
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: DOCK MENU RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: IPOD: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 18
+#
+name: IPOD: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 18
+#
+name: NET: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 18
+#
+name: IPOD BLUETOOTH OFF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 19
+#
+name: IPOD DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: IPOD CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: IPOD: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: IPOD MENU DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: DOCK NAV DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: DOCK: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 20
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: DOCK MENU DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: IPOD: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: IPOD: DOWN
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 20
+#
+name: IPOD DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 21
+#
+name: IPOD: DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 21
+#
+name: DOCK: DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 21
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 21
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 21
+#
+name: DOCK DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 21
+#
+name: IPOD REW(SEARCH)
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD: REWIND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD: REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD REWIND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: DOCK REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: DOCK: REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 23
+#
+name: REWIND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD: SCAN DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD SEARCH DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: DOCK CONT REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: IPOD: REWIND
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 23
+#
+name: IPOD FF(SEARCH)
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD: FAST FORWARD
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD: FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD FAST FORWARD
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: DOCK FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: DOCK NAV LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: DOCK: FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 24
+#
+name: FAST FORWARD
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD: SCAN UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD SEARCH UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: DOCK CONT FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: IPOD: FAST FORWARD
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 24
+#
+name: IPOD PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: IPOD: PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: DOCK PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: DOCK: PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 26
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: DOCK CONT PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: IPOD: PAUSE
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 26
+#
+name: IPOD CHP/SKIP-
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: IPOD SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: IPOD: SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: IPOD: SKIP-
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: DOCK SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: DOCK: SKIP-
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 27
+#
+name: PREV TRACK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: IPOD: SKIP DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: IPOD SKIP BACK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: DOCK CONT SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: IPOD: SKIP-
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 27
+#
+name: NET: SKIP-
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 27
+#
+name: IPOD CHP/SKIP+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: IPOD SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: IPOD: SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: IPOD: SKIP+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: DOCK SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: DOCK: SKIP+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 28
+#
+name: NEXT TRACK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: IPOD: SKIP UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: IPOD SKIP UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: DOCK CONT SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: IPOD: SKIP+
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 28
+#
+name: NET: SKIP+
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 28
+#
+name: IPOD STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: IPOD: STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: DOCK STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: DOCK: STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 29
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: DOCK CONT STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: IPOD: STOP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 29
+#
+name: NET: STOP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 29
+#
+name: IPOD PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#
+name: IPOD: PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#
+name: DOCK PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#
+name: DOCK: PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 30
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#
+name: DOCK CONT PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#
+name: IPOD: PLAY
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 30
+#
+name: NET 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 33
+#
+name: NET: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 33
+#
+name: 1
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 33
+#
+name: NET/USB 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 33
+#
+name: HD RADIO: 1
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 33
+#
+name: NET: 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 33
+#
+name: HD RADIO: 1
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 33
+#
+name: NET 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 34
+#
+name: NET: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 34
+#
+name: 2
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 34
+#
+name: NET/USB 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 34
+#
+name: HD RADIO: 2
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 34
+#
+name: NET: 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 34
+#
+name: HD RADIO: 2
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 34
+#
+name: NET 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 35
+#
+name: NET: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 35
+#
+name: 3
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 35
+#
+name: NET/USB 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 35
+#
+name: HD RADIO: 3
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 35
+#
+name: NET: 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 35
+#
+name: HD RADIO: 3
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 35
+#
+name: NET 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 36
+#
+name: NET: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 36
+#
+name: 4
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 36
+#
+name: NET/USB 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 36
+#
+name: HD RADIO: 4
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 36
+#
+name: NET: 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 36
+#
+name: HD RADIO: 4
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 36
+#
+name: NET 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 37
+#
+name: NET: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 37
+#
+name: 5
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 37
+#
+name: NET/USB 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 37
+#
+name: HD RADIO: 5
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 37
+#
+name: NET: 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 37
+#
+name: HD RADIO: 5
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 37
+#
+name: NET 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 38
+#
+name: NET: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 38
+#
+name: 6
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 38
+#
+name: NET/USB 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 38
+#
+name: HD RADIO: 6
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 38
+#
+name: NET: 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 38
+#
+name: HD RADIO: 6
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 38
+#
+name: NET 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 39
+#
+name: NET: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 39
+#
+name: 7
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 39
+#
+name: NET/USB 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 39
+#
+name: HD RADIO: 7
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 39
+#
+name: NET: 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 39
+#
+name: HD RADIO: 7
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 39
+#
+name: NET 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 40
+#
+name: NET: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 40
+#
+name: 8
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 40
+#
+name: NET/USB 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 40
+#
+name: HD RADIO: 8
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 40
+#
+name: NET: 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 40
+#
+name: HD RADIO: 8
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 40
+#
+name: 9
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 41
+#
+name: HD RADIO: 9
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 41
+#
+name: HD RADIO: 9
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 41
+#
+name: 0
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 42
+#
+name: HD RADIO: 0
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 42
+#
+name: HD RADIO: 0
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 42
+#
+name: NET NUM ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 44
+#
+name: NET: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 44
+#
+name: NET: ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 44
+#
+name: ENT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 44
+#
+name: NET/USB ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 44
+#
+name: HD RADIO: ENTER
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 44
+#
+name: NET SETUP: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 44
+#
+name: HD RADIO: ENTER
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 44
+#
+name: NET TITLE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 45
+#
+name: NET: TITLE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 45
+#
+name: NET CURSOR UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 46
+#
+name: NET: CURSOR UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 46
+#
+name: IPOD MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 46
+#
+name: NET/USB NAV UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 46
+#
+name: USB MENU UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 46
+#
+name: NET: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 46
+#
+name: NET: UP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 46
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 46
+#
+name: NET MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 47
+#
+name: NET: MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 47
+#
+name: MEMORY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 47
+#
+name: HD RADIO: MEMORY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 47
+#
+name: HD RADIO: MEMORY
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 47
+#
+name: NET CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 48
+#
+name: NET: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 48
+#
+name: NET/USB NAV LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 48
+#
+name: USB MENU LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 48
+#
+name: NET: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 48
+#
+name: NET: LEFT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 48
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 48
+#
+name: NET CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 49
+#
+name: NET: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 49
+#
+name: NAV UP
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 49
+#
+name: NET/USB NAV ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 49
+#
+name: USB ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 49
+#
+name: NET SETUP: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 49
+#
+name: NET: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 49
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 49
+#
+name: NET CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 50
+#
+name: NET: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 50
+#
+name: NAV LEFT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 50
+#
+name: NET/USB NAV RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 50
+#
+name: USB MENU RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 50
+#
+name: NET: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 50
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 50
+#
+name: NET MEM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 51
+#
+name: NET: MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 51
+#
+name: ENTER
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 51
+#
+name: NET/USB MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 51
+#
+name: USB RETURN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 51
+#
+name: HD RAD SETUP: ENT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 51
+#
+name: NET: MEMORY
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 51
+#
+name: HD RAD SETUP: ENT
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 51
+#
+name: NET CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 52
+#
+name: NET: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 52
+#
+name: NAV RIGHT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 52
+#
+name: NET/USB NAV DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 52
+#
+name: USB MENU DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 52
+#
+name: NET: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 52
+#
+name: NET: DOWN
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 52
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 52
+#
+name: NET DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 53
+#
+name: NET: DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 53
+#
+name: NAV DOWN
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 53
+#
+name: USB DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 53
+#
+name: NET REC(PC/MCX)
+type: parsed
+protocol: nec1
+address: 127.1
+command: 54
+#
+name: NET INPUT: PC/MCX
+type: parsed
+protocol: nec1
+address: 127.1
+command: 54
+#
+name: NET: PC/MCX
+type: parsed
+protocol: nec1
+address: 127.1
+command: 54
+#
+name: NET: REC
+type: parsed
+protocol: nec1
+address: 127.1
+command: 54
+#
+name: NET REW (RADIO)
+type: parsed
+protocol: nec1
+address: 127.1
+command: 55
+#
+name: NET INPUT: NET RADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 55
+#
+name: NET: IRADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 55
+#
+name: NET: REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 55
+#
+name: NET FF(USB)
+type: parsed
+protocol: nec1
+address: 127.1
+command: 56
+#
+name: NET INPUT: USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 56
+#
+name: NET: FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 56
+#
+name: NET: USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 56
+#
+name: NET PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 58
+#
+name: NET: PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 58
+#
+name: NET: PAUSE
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 58
+#
+name: NET SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 59
+#
+name: NET: SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 59
+#
+name: NET: SKIP-
+type: parsed
+protocol: nec1
+address: 127.1
+command: 59
+#
+name: NET/USB SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 59
+#
+name: USB SKIP BACK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 59
+#
+name: NET SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 60
+#
+name: NET: SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 60
+#
+name: NET: SKIP+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 60
+#
+name: PROGRAM SELECT -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 60
+#
+name: NET/USB SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 60
+#
+name: USB SKIP FORWARD
+type: parsed
+protocol: nec1
+address: 127.1
+command: 60
+#
+name: NET STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 61
+#
+name: NET: STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 61
+#
+name: PROGRAM SELECT +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 61
+#
+name: NET/USB STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 61
+#
+name: USB STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 61
+#
+name: NET PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 62
+#
+name: NET: PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 62
+#
+name: NET/USB PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 62
+#
+name: USB PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 62
+#
+name: NET: PLAY
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 62
+#
+name: INPUT NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: INPUT USB-NET
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: MZ IN: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: Z2 IN: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: MZ: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: USB INPUT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: MZ: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 63
+#
+name: Z2 IN NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: ZONE2 INPUT USB-NET
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: Z3 IN: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: Z2: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: DOCK SIMPL REMOTE
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 64
+#
+name: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: DOCK SIMPLE REMOT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 64
+#
+name: Z2: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: Z2 INP: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 64
+#
+name: Z2 INP: NET/USB
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 64
+#
+name: Z3 IN NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 65
+#
+name: ZONE3 INPUT USB-NET
+type: parsed
+protocol: nec1
+address: 127.1
+command: 65
+#
+name: Z3: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 65
+#
+name: DOCK MENU BROWSE
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 65
+#
+name: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 65
+#
+name: Z3: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 65
+#
+name: Z3 INP: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 65
+#
+name: Z3 INP: NET/USB
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 65
+#
+name: DOCK PAGE UP
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 66
+#
+name: IPOD: PAGE UP
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 66
+#
+name: IPOD: PAGE UP
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 66
+#
+name: DOCK PAGE DOWN
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 67
+#
+name: IPOD: PAGE DOWN
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 67
+#
+name: IPOD: PAGE DOWN
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 67
+#
+name: NET PAGE UP
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 68
+#
+name: NET: PAGE UP
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 68
+#
+name: NET: PAGE UP
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 68
+#
+name: NET PAGE DOWN
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 69
+#
+name: NET: PAGE DOWN
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 69
+#
+name: NET: PAGE DOWN
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 69
+#
+name: NET BOOK MARK ON
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 70
+#
+name: NET: BOOKMARK ON
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 70
+#
+name: NET: BOOKMARK ON
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 70
+#
+name: NET BOOK MARK OFF
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 71
+#
+name: NET: BOOKMARK OFF
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 71
+#
+name: NET: BOOKMARK OFF
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 71
+#
+name: INPUT RHAPSODY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 72
+#
+name: INP RHAPSODY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 72
+#
+name: MZ INP: RHAPSODY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 72
+#
+name: MZ INP: RHAPSODY
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 72
+#
+name: INP SIRIUS INTERNET
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 73
+#
+name: Z4: INP NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 73
+#
+name: MZ INP: SIRIUS INTER
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 73
+#
+name: MZ INP: SIRIUS INTER
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 73
+#
+name: Z4 INP: NET/USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 73
+#
+name: Z4 INP: NET/USB
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 73
+#
+name: INPUT DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 74
+#
+name: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 74
+#
+name: STEREO
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 74
+#
+name: DOCK INPUT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 74
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 74
+#
+name: MZ: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 74
+#
+name: MZ INP: DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 74
+#
+name: MZ INP: DOCK
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 74
+#
+name: MONO
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 75
+#
+name: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 75
+#
+name: Z2: DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 75
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 75
+#
+name: Z2 INPUT DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 75
+#
+name: Z2: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 75
+#
+name: Z2 INP: DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 75
+#
+name: Z2 INP: DOCK
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 75
+#
+name: STEREO
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 76
+#
+name: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 76
+#
+name: Z3: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 76
+#
+name: Z3 INP: DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 76
+#
+name: Z3 INP: DOCK
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 76
+#
+name: MONO
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 77
+#
+name: Z4: INP DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 77
+#
+name: Z4 INP: DOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 77
+#
+name: DOCK PAIRING
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 78
+#
+name: DOCK PAIRING CANCL
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 79
+#
+name: DOCK PARING CANCEL
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 79
+#
+name: DOCK CONNECT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 80
+#
+name: DOCK DISCONNECT
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 81
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 81
+#
+name: SRCE: MZ 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 81
+#
+name: INPUT PC
+type: parsed
+protocol: nec1
+address: 127.1
+command: 82
+#
+name: INP PC/MCX
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 82
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 82
+#
+name: SRCE: MZ 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 82
+#
+name: MZ INP: PC/MCX
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 82
+#
+name: MZ INP: PC/MCX
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 82
+#
+name: INPUT NET RADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 83
+#
+name: INP NET RADIO
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 83
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 83
+#
+name: SRCE: MZ 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 83
+#
+name: MZ INP: NET RADIO
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 83
+#
+name: MZ INP: NET RADIO
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 83
+#
+name: Z2 SOURCE: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 83
+#
+name: INPUT USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 84
+#
+name: INP USB
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 84
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 84
+#
+name: SRCE: MZ 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 84
+#
+name: MZ INP: USB
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 84
+#
+name: MZ INP: USB
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 84
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 85
+#
+name: SOURCE: CAT./BAND+
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 85
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 85
+#
+name: MZ OP-CAT BAND +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 85
+#
+name: SRCE: MZ 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 85
+#
+name: Z2 SOURCE: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 85
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 86
+#
+name: Z2:SOURC: CAT/BAND +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 86
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 86
+#
+name: Z2 OP-CAT BAND +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 86
+#
+name: SRCE: MZ 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 86
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 87
+#
+name: SRCE: MZ 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 87
+#
+name: Z2 SOURCE: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 87
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 88
+#
+name: SOURCE: CAT./BAND-
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 88
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 88
+#
+name: MZ OP-CAT BAND -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 88
+#
+name: SRCE: MZ 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 88
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 89
+#
+name: Z2:SOURC: CAT/BAND -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 89
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 89
+#
+name: Z2 OP-CAT BAND -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 89
+#
+name: SRCE: MZ 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 89
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 90
+#
+name: SRCE: MZ 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 90
+#
+name: SOURCE: PRESET+
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 91
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 91
+#
+name: MZ OP-PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 91
+#
+name: Z2: SOURCE:PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 92
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 92
+#
+name: Z2 OP-PRESET +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 92
+#
+name: TUNER: MZ ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 92
+#
+name: XM: MZ ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 92
+#
+name: PARENTAL LOCK
+type: parsed
+protocol: nec1
+address: 127.1
+command: 93
+#
+name: MODE 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 93
+#
+name: TUNER: MZ BAND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 93
+#
+name: XM: MZ TITLE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 93
+#
+name: MODE 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 94
+#
+name: SOURCE: PRESET-
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 94
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 94
+#
+name: MZ OP-PRESET -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 94
+#
+name: DOCK: MZ MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 94
+#
+name: NETUSB: MZ MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 94
+#
+name: TUNER: MZ SRCHM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 94
+#
+name: XM: MZ SRCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 94
+#
+name: MODE 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 95
+#
+name: Z2: SOURCE:PRESET -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 95
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 95
+#
+name: Z2 OP-PRESET -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 95
+#
+name: SRCE: MZ MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 95
+#
+name: MODE 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 96
+#
+name: SOURCE: DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 96
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 96
+#
+name: MZ SOURCE DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 96
+#
+name: SRCE: MZ DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 96
+#
+name: SETUP UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 97
+#
+name: SOURCE:TUNING/CH+
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 97
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 97
+#
+name: MZ OP-TUNING +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 97
+#
+name: SRCE: MZ CURS UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 97
+#
+name: SETUP: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 97
+#
+name: SETUP LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 98
+#
+name: Z2:SOURCE:TUNING/CH+
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 98
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 98
+#
+name: Z2 OP-TUNING +
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 98
+#
+name: SRCE: MZ CURS LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 98
+#
+name: SETUP ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 99
+#
+name: SRCE: MZ CURS ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 99
+#
+name: SETUP: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 99
+#
+name: SETUP RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 100
+#
+name: SOURCE:TUNING/CH-
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 100
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 100
+#
+name: MZ OP-TUNING -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 100
+#
+name: SRCE: MZ CURS RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 100
+#
+name: SETUP: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 100
+#
+name: SETUP DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 101
+#
+name: Z2:SOURCE:TUNING/CH-
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 101
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 101
+#
+name: Z2 OP-TUNING -
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 101
+#
+name: SRCE: MZ CURS DN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 101
+#
+name: SETUP: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 101
+#
+name: SETUP: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 101
+#
+name: NETUSB: MZ PC/MC
+type: parsed
+protocol: nec1
+address: 127.1
+command: 102
+#
+name: OPERATION 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 103
+#
+name: SOURCE: MEMORY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 103
+#
+name: 
+type: parsed
+protocol: nec1_y3
+address: 127.1
+command: 103
+#
+name: MZ SOURCE MEMORY
+type: parsed
+protocol: nec1_y1
+address: 127.1
+command: 103
+#
+name: DOCK: MZ PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 103
+#
+name: OPERATION 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 104
+#
+name: DOCK: MZ PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 104
+#
+name: NETUSB: MZ PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 104
+#
+name: OPERATION 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 105
+#
+name: DOCK: MZ STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 105
+#
+name: NETUSB: MZ STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 105
+#
+name: OPERATION 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 106
+#
+name: DOCK: MZ REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 106
+#
+name: NETUSB: MZ NRADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 106
+#
+name: OPERATION 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 107
+#
+name: DOCK: MZ FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 107
+#
+name: NETUSB: MZ USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 107
+#
+name: OPERATION 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 108
+#
+name: DOCK: MZ SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 108
+#
+name: HDRADIO: MZ PROG-
+type: parsed
+protocol: nec1
+address: 127.1
+command: 108
+#
+name: NETUSB: MZ SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 108
+#
+name: OPERATION 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 109
+#
+name: DOCK: MZ SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 109
+#
+name: HDRADIO: MZPROG+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 109
+#
+name: NETUSB: MZ SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 109
+#
+name: OPERATION 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 110
+#
+name: SRCE: Z2 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 113
+#
+name: Z2 SOURCE: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 113
+#
+name: Z2 SOURCE: 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 113
+#
+name: SRCE: Z2 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 114
+#
+name: Z2 SOURCE: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 114
+#
+name: Z2 SOURCE: 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 114
+#
+name: SRCE: Z2 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 115
+#
+name: Z2 SOURCE: 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 115
+#
+name: SRCE: Z2 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 116
+#
+name: Z2 SOURCE: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 116
+#
+name: Z2 SOURCE: 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 116
+#
+name: SRCE: Z2 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 117
+#
+name: Z2 SOURCE: 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 117
+#
+name: SRCE: Z2 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 118
+#
+name: Z2 SOURCE: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 118
+#
+name: Z2 SOURCE: 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 118
+#
+name: SRCE: Z2 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 119
+#
+name: Z2 SOURCE: 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 119
+#
+name: SRCE: Z2 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 120
+#
+name: Z2 SOURCE: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 120
+#
+name: Z2 SOURCE: 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 120
+#
+name: SRCE: Z2 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 121
+#
+name: Z2 SOURCE: 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 121
+#
+name: Z2 SOURCE: 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 121
+#
+name: SRCE: Z2 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 122
+#
+name: Z2 SOURCE: 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 122
+#
+name: Z2 SOURCE: 0
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 122
+#
+name: TUNER: Z2 ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 124
+#
+name: XM: Z2 ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 124
+#
+name: Z2 SOURCE: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 124
+#
+name: Z2 SOURCE: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 124
+#
+name: TUNER: Z2 BAND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 125
+#
+name: XM: Z2 TITLE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 125
+#
+name: DOCK: Z2 MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 126
+#
+name: NETUSB: Z2 MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 126
+#
+name: TUNER: Z2 SRCHM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 126
+#
+name: XM: Z2 SRCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 126
+#
+name: SRCE: Z2 MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 127
+#
+name: SRCE: Z2 DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 128
+#
+name: SRCE: Z2 CURS UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 129
+#
+name: SRCE: Z2 CURS LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 130
+#
+name: Z3 SOURCE: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 130
+#
+name: SRCE: Z2 CURS ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 131
+#
+name: SRCE: Z2 CURS RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 132
+#
+name: SRCE: Z2 CURS DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 133
+#
+name: NETUSB: Z2 PC/MC
+type: parsed
+protocol: nec1
+address: 127.1
+command: 134
+#
+name: DOCK: Z2 PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 135
+#
+name: Z2 OPERATION 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 135
+#
+name: Z2 OPERATION 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 135
+#
+name: DOCK: Z2 PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 136
+#
+name: NETUSB: Z2 PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 136
+#
+name: Z2 OPERATION 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 136
+#
+name: Z2 OPERATION 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 136
+#
+name: DOCK: Z2 STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 137
+#
+name: NETUSB: Z2 STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 137
+#
+name: Z2 OPERATION 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 137
+#
+name: Z2 OPERATION 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 137
+#
+name: DOCK: Z2 REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 138
+#
+name: NETUSB: Z2 NRADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 138
+#
+name: Z2 OPERATION 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 138
+#
+name: Z2 OPERATION 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 138
+#
+name: DOCK: Z2 FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 139
+#
+name: NETUSB: Z2 USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 139
+#
+name: Z2 OPERATION 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 139
+#
+name: Z2 OPERATION 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 139
+#
+name: DOCK: Z2 SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 140
+#
+name: HDRADIO: Z2 PROG -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 140
+#
+name: NETUSB: Z2 SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 140
+#
+name: Z2 OPERATION 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 140
+#
+name: Z2 OPERATION 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 140
+#
+name: DOCK: Z2 SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 141
+#
+name: HDRADIO: Z2 PROG+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 141
+#
+name: NETUSB: Z2 SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 141
+#
+name: Z2 OPERATION 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 141
+#
+name: Z2 OPERATION 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 141
+#
+name: Z2 OPERATION 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 142
+#
+name: Z2 OPERATION 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 142
+#
+name: SRCE: Z3 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 145
+#
+name: Z3 SOURCE: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 145
+#
+name: Z3 SOURCE: 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 145
+#
+name: SRCE: Z3 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 146
+#
+name: Z3 SOURCE: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 146
+#
+name: Z3 SOURCE: 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 146
+#
+name: SRCE: Z3 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 147
+#
+name: Z3 SOURCE: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 147
+#
+name: Z3 SOURCE: 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 147
+#
+name: SRCE: Z3 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 148
+#
+name: Z3 SOURCE: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 148
+#
+name: Z3 SOURCE: 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 148
+#
+name: SRCE: Z3 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 149
+#
+name: Z3 SOURCE: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 149
+#
+name: Z3 SOURCE: 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 149
+#
+name: SRCE: Z3 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 150
+#
+name: Z3 SOURCE: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 150
+#
+name: Z3 SOURCE: 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 150
+#
+name: SRCE: Z3 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 151
+#
+name: Z3 SOURCE: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 151
+#
+name: Z3 SOURCE: 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 151
+#
+name: SRCE: Z3 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 152
+#
+name: Z3 SOURCE: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 152
+#
+name: Z3 SOURCE: 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 152
+#
+name: SRCE: Z3 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 153
+#
+name: Z3 SOURCE: 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 153
+#
+name: Z3 SOURCE: 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 153
+#
+name: SRCE: Z3 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 154
+#
+name: Z3 SOURCE: 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 154
+#
+name: Z3 SOURCE: 0
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 154
+#
+name: TUNER: Z3 ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 156
+#
+name: XM: Z3 ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 156
+#
+name: Z3: SOURCE ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 156
+#
+name: Z3 SOURCE: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 156
+#
+name: Z3: SOURCE ENT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 156
+#
+name: TUNER: Z3 BAND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 157
+#
+name: XM: Z3 TITLE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 157
+#
+name: Z3 SOURCE: MODE 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 157
+#
+name: Z3 SOURCE: MODE 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 157
+#
+name: DOCK: Z3 MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 158
+#
+name: NETUSB: Z3 MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 158
+#
+name: TUNER: Z3 SRCHM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 158
+#
+name: XM: Z3 SRCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 158
+#
+name: Z3 SOURCE: MODE 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 158
+#
+name: Z3 SOURCE: MODE 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 158
+#
+name: SRCE: Z3 MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 159
+#
+name: Z3 SOURCE: MODE 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 159
+#
+name: Z3 SOURCE: MODE 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 159
+#
+name: SRCE: Z3 DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 160
+#
+name: Z3 SOURCE: MODE 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 160
+#
+name: Z3 SOURCE: MODE 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 160
+#
+name: SRCE: Z3 CURS UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 161
+#
+name: Z3 SOURCE: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 161
+#
+name: Z3 SOURCE: UP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 161
+#
+name: SRCE: Z3 CURS LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 162
+#
+name: Z3 SOURCE: LEFT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 162
+#
+name: SRCE: Z3 CURS ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 163
+#
+name: Z3 SOURCE: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 163
+#
+name: SRCE: Z3 CURS RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 164
+#
+name: Z3 SOURCE: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 164
+#
+name: Z3 SOURCE: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 164
+#
+name: SRCE: Z3 CURS DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 165
+#
+name: Z3 SOURCE: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 165
+#
+name: Z3 SOURCE: DOWN
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 165
+#
+name: NETUSB: Z3 PC/MC
+type: parsed
+protocol: nec1
+address: 127.1
+command: 166
+#
+name: DOCK: Z3 PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 167
+#
+name: Z3 SOURCE: OP 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 167
+#
+name: Z3 SOURCE: OP 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 167
+#
+name: DOCK: Z3 PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 168
+#
+name: NETUSB: Z3 PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 168
+#
+name: Z3 SOURCE: OP 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 168
+#
+name: Z3 SOURCE: OP 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 168
+#
+name: DOCK: Z3 STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 169
+#
+name: NETUSB: Z3 STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 169
+#
+name: Z3 SOURCE: OP 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 169
+#
+name: Z3 SOURCE: OP 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 169
+#
+name: DOCK: Z3 REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 170
+#
+name: NETUSB: Z3 NRADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 170
+#
+name: Z3 SOURCE: OP 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 170
+#
+name: Z3 SOURCE: OP 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 170
+#
+name: DOCK: Z3 FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 171
+#
+name: NETUSB: Z3 USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 171
+#
+name: Z3 SOURCE: OP 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 171
+#
+name: Z3 SOURCE: OP 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 171
+#
+name: DOCK: Z3 SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 172
+#
+name: HDRADIO: Z3 PROG -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 172
+#
+name: NETUSB: Z3 SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 172
+#
+name: Z3 SOURCE: OP 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 172
+#
+name: Z3 SOURCE: OP 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 172
+#
+name: DOCK: Z3 SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 173
+#
+name: HDRADIO: Z3 PROG+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 173
+#
+name: NETUSB: Z3 SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 173
+#
+name: Z3 SOURCE: OP 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 173
+#
+name: Z3 SOURCE: OP 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 173
+#
+name: Z3 SOURCE: OP 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 174
+#
+name: Z3 SOURCE: OP 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 174
+#
+name: SRCE: Z4 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 177
+#
+name: Z4 SOURCE: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 177
+#
+name: Z4 SOURCE: 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 177
+#
+name: SRCE: Z4 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 178
+#
+name: Z4 SOURCE: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 178
+#
+name: Z4 SOURCE: 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 178
+#
+name: SRCE: Z4 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 179
+#
+name: Z4 SOURCE: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 179
+#
+name: Z4 SOURCE: 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 179
+#
+name: SRCE: Z4 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 180
+#
+name: Z4 SOURCE: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 180
+#
+name: Z4 SOURCE: 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 180
+#
+name: SRCE: Z4 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 181
+#
+name: Z4 SOURCE: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 181
+#
+name: Z4 SOURCE: 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 181
+#
+name: SRCE: Z4 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 182
+#
+name: Z4 SOURCE: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 182
+#
+name: Z4 SOURCE: 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 182
+#
+name: SRCE: Z4 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 183
+#
+name: Z4 SOURCE: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 183
+#
+name: Z4 SOURCE: 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 183
+#
+name: SRCE: Z4 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 184
+#
+name: Z4 SOURCE: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 184
+#
+name: Z4 SOURCE: 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 184
+#
+name: SRCE: Z4 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 185
+#
+name: Z4 SOURCE: 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 185
+#
+name: Z4 SOURCE: 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 185
+#
+name: SRCE: Z4 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 186
+#
+name: Z4 SOURCE: 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 186
+#
+name: Z4 SOURCE: 0
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 186
+#
+name: TUNER: Z4 ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 188
+#
+name: XM: Z4 ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 188
+#
+name: Z4 SOURCE: ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 188
+#
+name: Z4: SOURCE ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 188
+#
+name: Z4: SOURCE ENT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 188
+#
+name: TUNER: Z4 BAND
+type: parsed
+protocol: nec1
+address: 127.1
+command: 189
+#
+name: XM: Z4 TITLE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 189
+#
+name: Z4 SOURCE: MODE 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 189
+#
+name: Z4 SOURCE: MODE 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 189
+#
+name: DOCK: Z4 MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 190
+#
+name: NETUSB: Z4 MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 190
+#
+name: TUNER: Z4 SRCHM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 190
+#
+name: XM: Z4 SRCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 190
+#
+name: Z4 SOURCE: MODE 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 190
+#
+name: Z4 SOURCE: MODE 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 190
+#
+name: SRCE: Z4 MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 191
+#
+name: Z4 SOURCE: MODE 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 191
+#
+name: Z4 SOURCE: MODE 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 191
+#
+name: SRCE: Z4 DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 192
+#
+name: Z4 SOURCE: MODE 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 192
+#
+name: Z4 SOURCE: MODE 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 192
+#
+name: SRCE: Z4 CURS UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 193
+#
+name: Z4 SOURCE: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 193
+#
+name: Z4 SOURCE: UP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 193
+#
+name: SRCE: Z4 CURS LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 194
+#
+name: Z4 SOURCE: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 194
+#
+name: Z4 SOURCE: LEFT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 194
+#
+name: SRCE: Z4 CURS ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 195
+#
+name: Z4 SOURCE: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 195
+#
+name: Z4 SOURCE: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 195
+#
+name: SRCE: Z4 CURS RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 196
+#
+name: Z4 SOURCE: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 196
+#
+name: Z4 SOURCE: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 196
+#
+name: SRCE: Z4 CURS DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 197
+#
+name: Z4 SOURCE: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 197
+#
+name: Z4 SOURCE: DOWN
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 197
+#
+name: NETUSB: Z4 PC/MC
+type: parsed
+protocol: nec1
+address: 127.1
+command: 198
+#
+name: DOCK: Z4 PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 199
+#
+name: Z4 SOURCE: OP 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 199
+#
+name: Z4 SOURCE: OP 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 199
+#
+name: DOCK: Z4 PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 200
+#
+name: NETUSB: Z4 PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 200
+#
+name: Z4 SOURCE: OP 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 200
+#
+name: Z4 SOURCE: OP 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 200
+#
+name: DOCK: Z4 STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 201
+#
+name: NETUSB: Z4 STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 201
+#
+name: Z4 SOURCE: OP 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 201
+#
+name: Z4 SOURCE: OP 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 201
+#
+name: DOCK: Z4 REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 202
+#
+name: NETUSB: Z4 NRADIO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 202
+#
+name: Z4 SOURCE: OP 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 202
+#
+name: Z4 SOURCE: OP 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 202
+#
+name: DOCK: Z4 FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 203
+#
+name: NETUSB: Z4 USB
+type: parsed
+protocol: nec1
+address: 127.1
+command: 203
+#
+name: Z4 SOURCE: OP 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 203
+#
+name: Z4 SOURCE: OP 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 203
+#
+name: DOCK: Z4 SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 204
+#
+name: HDRADIO: Z4 PROG -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 204
+#
+name: NETUSB: Z4 SKIP -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 204
+#
+name: Z4 SOURCE: OP 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 204
+#
+name: Z4 SOURCE: OP 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 204
+#
+name: DOCK: Z4 SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 205
+#
+name: HDRADIO: Z4 PROG+
+type: parsed
+protocol: nec1
+address: 127.1
+command: 205
+#
+name: NETUSB: Z4 SKIP +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 205
+#
+name: Z4 SOURCE: OP 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 205
+#
+name: Z4 SOURCE: OP 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 205
+#
+name: Z4 SOURCE: OP 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 206
+#
+name: Z4 SOURCE: OP 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 206
+#
+name: SIRIUS 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 208
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 209
+#
+name: SIRIUS 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 209
+#
+name: SIRIUS: 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 209
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 209
+#
+name: SIRIUS NUM 1
+type: parsed
+protocol: nec1
+address: 127.1
+command: 209
+#
+name: SIRIUS: 1
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 209
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 210
+#
+name: SIRIUS 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 210
+#
+name: SIRIUS: 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 210
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 210
+#
+name: SIRIUS NUM 2
+type: parsed
+protocol: nec1
+address: 127.1
+command: 210
+#
+name: SIRIUS: 2
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 210
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 211
+#
+name: SIRIUS 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 211
+#
+name: SIRIUS: 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 211
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 211
+#
+name: SIRIUS NUM 3
+type: parsed
+protocol: nec1
+address: 127.1
+command: 211
+#
+name: SIRIUS: 3
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 211
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 212
+#
+name: SIRIUS 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 212
+#
+name: SIRIUS: 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 212
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 212
+#
+name: SIRIUS NUM 4
+type: parsed
+protocol: nec1
+address: 127.1
+command: 212
+#
+name: SIRIUS: 4
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 212
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 213
+#
+name: SIRIUS 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 213
+#
+name: SIRIUS: 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 213
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 213
+#
+name: SIRIUS NUM 5
+type: parsed
+protocol: nec1
+address: 127.1
+command: 213
+#
+name: SIRIUS: 5
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 213
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 214
+#
+name: SIRIUS 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 214
+#
+name: SIRIUS: 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 214
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 214
+#
+name: SIRIUS NUM 6
+type: parsed
+protocol: nec1
+address: 127.1
+command: 214
+#
+name: SIRIUS: 6
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 214
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 215
+#
+name: SIRIUS 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 215
+#
+name: SIRIUS: 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 215
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 215
+#
+name: SIRIUS NUM 7
+type: parsed
+protocol: nec1
+address: 127.1
+command: 215
+#
+name: SIRIUS: 7
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 215
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 216
+#
+name: SIRIUS 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 216
+#
+name: SIRIUS: 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 216
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 216
+#
+name: SIRIUS NUM 8
+type: parsed
+protocol: nec1
+address: 127.1
+command: 216
+#
+name: SIRIUS: 8
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 216
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 217
+#
+name: SIRIUS 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 217
+#
+name: SIRIUS: 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 217
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 217
+#
+name: SIRIUS NUM 9
+type: parsed
+protocol: nec1
+address: 127.1
+command: 217
+#
+name: SIRIUS: 9
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 217
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 218
+#
+name: SIRIUS: 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 218
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 218
+#
+name: SIRIUS 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 218
+#
+name: SIRIUS NUM 0
+type: parsed
+protocol: nec1
+address: 127.1
+command: 218
+#
+name: SIRIUS: 0
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 218
+#
+name: ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 220
+#
+name: SIRIUS ENT NO INPUT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 220
+#
+name: SIRIUS: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 220
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 220
+#
+name: SIRIUS ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 220
+#
+name: SIRIUS NUM ENT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 220
+#
+name: SIRIUS SEARCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 222
+#
+name: SIRIUS:SEARCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 222
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 222
+#
+name: SIRIUS SRCH MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 222
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 223
+#
+name: SIRIUS MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 223
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 223
+#
+name: SIRIUS: MEMORY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 223
+#
+name: SIRIUS: MEMORY
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 223
+#
+name: SIRIUS DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 224
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 224
+#
+name: NAV UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 225
+#
+name: SIRIUS PRESET CH UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 225
+#
+name: SIRIUS:CH/PRESET UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 225
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 225
+#
+name: SIRIUS CURSOR UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 225
+#
+name: SIRIUS CH/PR NO UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 225
+#
+name: SIRIUS: UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 225
+#
+name: SIRIUS: UP
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 225
+#
+name: NAV LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 226
+#
+name: SIRIUS CATEGORY -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 226
+#
+name: SIRIU:CAT/PST GRP DN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 226
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 226
+#
+name: SIRIUS CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 226
+#
+name: SIRIUS CAT/PR GRP DN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 226
+#
+name: SIRIUS: LEFT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 226
+#
+name: SIRIUS: LEFT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 226
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 227
+#
+name: SIRIUS ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 227
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 227
+#
+name: SIRIUS SETUP: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 227
+#
+name: SIRIUS SETUP: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 227
+#
+name: SIRIUS: ENTER
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 227
+#
+name: NAV RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 228
+#
+name: SIRIUS CATEGORY +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 228
+#
+name: SIRIU:CAT/PST GRP UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 228
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 228
+#
+name: SIRIUS CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 228
+#
+name: SIRIUS CAT/PR GRP UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 228
+#
+name: SIRIUS: RIGHT
+type: parsed
+protocol: nec1
+address: 127.1
+command: 228
+#
+name: SIRIUS: RIGHT
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 228
+#
+name: NAV DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 229
+#
+name: SIRIUS PRESET CH DW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 229
+#
+name: SIRIUS:CH/PRESET DWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 229
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 229
+#
+name: SIRIUS CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 229
+#
+name: SIRIUS CH/PR NO DN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 229
+#
+name: SIRIUS: DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 229
+#
+name: SIRIUS: DOWN
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 229
+#
+name: SIRIUS INFO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 234
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 234
+#
+name: A
+type: parsed
+protocol: nec1
+address: 127.1
+command: 240
+#
+name: HDRADIO: PRESET A
+type: parsed
+protocol: nec1
+address: 127.1
+command: 240
+#
+name: HD RADIO: A
+type: parsed
+protocol: nec1
+address: 127.1
+command: 240
+#
+name: HD RADIO: A
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 240
+#
+name: B
+type: parsed
+protocol: nec1
+address: 127.1
+command: 241
+#
+name: HDRADIO: PRESET B
+type: parsed
+protocol: nec1
+address: 127.1
+command: 241
+#
+name: HD RADIO: B
+type: parsed
+protocol: nec1
+address: 127.1
+command: 241
+#
+name: HD RADIO: B
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 241
+#
+name: C
+type: parsed
+protocol: nec1
+address: 127.1
+command: 242
+#
+name: HDRADIO: PRESET C
+type: parsed
+protocol: nec1
+address: 127.1
+command: 242
+#
+name: HD RADIO: C
+type: parsed
+protocol: nec1
+address: 127.1
+command: 242
+#
+name: HD RADIO: C
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 242
+#
+name: D
+type: parsed
+protocol: nec1
+address: 127.1
+command: 243
+#
+name: HDRADIO: PRESET D
+type: parsed
+protocol: nec1
+address: 127.1
+command: 243
+#
+name: HD RADIO: D
+type: parsed
+protocol: nec1
+address: 127.1
+command: 243
+#
+name: HD RADIO: D
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 243
+#
+name: E
+type: parsed
+protocol: nec1
+address: 127.1
+command: 244
+#
+name: HDRADIO: PRESET E
+type: parsed
+protocol: nec1
+address: 127.1
+command: 244
+#
+name: HD RADIO: E
+type: parsed
+protocol: nec1
+address: 127.1
+command: 244
+#
+name: HD RADIO: E
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 244
+#
+name: INP AM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 245
+#
+name: HDRADIO: AM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 245
+#
+name: INP FM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 246
+#
+name: HDRADIO: FM
+type: parsed
+protocol: nec1
+address: 127.1
+command: 246
+#
+name: AUTO TUNE -
+type: parsed
+protocol: nec1
+address: 127.1
+command: 247
+#
+name: HDRADIO: AUTO DN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 247
+#
+name: AUTO TUNE +
+type: parsed
+protocol: nec1
+address: 127.1
+command: 248
+#
+name: HDRADIO: AUTO UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 248
+#
+name: DISPLAY ON
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 251
+#
+name: DISPLAY OFF
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 252
+#
+name: SRCH MODE PRESET
+type: parsed
+protocol: nec1
+address: 127.1
+command: 253
+#
+name: TUNER: SEARCH PRESET
+type: parsed
+protocol: nec1
+address: 127.1
+command: 253
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 253
+#
+name: TUNER MODE PRESET
+type: parsed
+protocol: nec1
+address: 127.1
+command: 253
+#
+name: TUNER SRCH MODE PRES
+type: parsed
+protocol: nec1
+address: 127.1
+command: 253
+#
+name: TUNER: PRES MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 253
+#
+name: SRCH MODE TUNING
+type: parsed
+protocol: nec1
+address: 127.1
+command: 254
+#
+name: TUNER: SEARCH MANUAL
+type: parsed
+protocol: nec1
+address: 127.1
+command: 254
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 254
+#
+name: TUNER MODE MANUAL
+type: parsed
+protocol: nec1
+address: 127.1
+command: 254
+#
+name: TUNER SRCH MODE MANU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 254
+#
+name: TUNER: MANL MODE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 254
+#
+name: TUNER: SEARCH AUTO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 255
+#
+name: 
+type: parsed
+protocol: nec1_y2
+address: 127.1
+command: 255
+#
+name: TUNER MODE AUTO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 255
+#
+name: TUNER SRCH MODE AUTO
+type: parsed
+protocol: nec1
+address: 127.1
+command: 255
+#

@@ -1,0 +1,375 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 8
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 9
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 210.172
+command: 10
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.172
+command: 14
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.172
+command: 15
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.172
+command: 16
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.172
+command: 17
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.172
+command: 18
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.172
+command: 19
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.172
+command: 20
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.172
+command: 21
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.172
+command: 22
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 210.172
+command: 23
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 210.172
+command: 24
+#
+name: SEARCH-ENTER
+type: parsed
+protocol: nec1
+address: 210.172
+command: 25
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 210.172
+command: 26
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 210.172
+command: 27
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 210.172
+command: 28
+#
+name: MODE: STRAIGHT DECOD
+type: parsed
+protocol: nec1
+address: 210.172
+command: 82
+#
+name: MODE: TV LOGIC
+type: parsed
+protocol: nec1
+address: 210.172
+command: 82
+#
+name: MODE STRAIGHT DECODE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 82
+#
+name: STRAIGHT DECODE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 82
+#
+name: MODE: DOLBY EX
+type: parsed
+protocol: nec1
+address: 210.172
+command: 83
+#
+name: MODE DOLBY EX
+type: parsed
+protocol: nec1
+address: 210.172
+command: 83
+#
+name: DOLBY - WRAP AROUND
+type: parsed
+protocol: nec1
+address: 210.172
+command: 83
+#
+name: DOLBY EX
+type: parsed
+protocol: nec1
+address: 210.172
+command: 83
+#
+name: DOLLBY EX
+type: parsed
+protocol: nec1
+address: 210.172
+command: 83
+#
+name: MODE: MONO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 84
+#
+name: MODE MONO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 84
+#
+name: MONO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 84
+#
+name: VIDEO ADJUST
+type: parsed
+protocol: nec1
+address: 210.172
+command: 135
+#
+name: SETUP VIDEO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 135
+#
+name: UNIVERSAL PORT
+type: parsed
+protocol: nec1
+address: 210.172
+command: 138
+#
+name: INPUT UNIVERSAL PORT
+type: parsed
+protocol: nec1
+address: 210.172
+command: 138
+#
+name: RESOLUTION
+type: parsed
+protocol: nec1
+address: 210.172
+command: 157
+#
+name: RESOLUTION: TOGGLE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 157
+#
+name: RESOLUTION SCROLL
+type: parsed
+protocol: nec1
+address: 210.172
+command: 157
+#
+name: INPUT USB (FRONT)
+type: parsed
+protocol: nec1
+address: 210.172
+command: 158
+#
+name: INPUT USB REAR
+type: parsed
+protocol: nec1
+address: 210.172
+command: 159
+#
+name: LISTEN MODE TV
+type: parsed
+protocol: nec1
+address: 210.172
+command: 208
+#
+name: MODE LISTEN MODEMOVI
+type: parsed
+protocol: nec1
+address: 210.172
+command: 208
+#
+name: LM MOVIE/TV
+type: parsed
+protocol: nec1
+address: 210.172
+command: 208
+#
+name: LISTEN: MOVIE/TV
+type: parsed
+protocol: nec1
+address: 210.172
+command: 208
+#
+name: LISTEN MODE MUSIC
+type: parsed
+protocol: nec1
+address: 210.172
+command: 209
+#
+name: LM MUSIC
+type: parsed
+protocol: nec1
+address: 210.172
+command: 209
+#
+name: LISTEN: MUSIC
+type: parsed
+protocol: nec1
+address: 210.172
+command: 209
+#
+name: LISTEN MODE GAME
+type: parsed
+protocol: nec1
+address: 210.172
+command: 210
+#
+name: MODE LISTEN MODEGAME
+type: parsed
+protocol: nec1
+address: 210.172
+command: 210
+#
+name: LM GAME
+type: parsed
+protocol: nec1
+address: 210.172
+command: 210
+#
+name: LISTEN: GAME
+type: parsed
+protocol: nec1
+address: 210.172
+command: 210
+#
+name: HDMI OUT NO ANALOG
+type: parsed
+protocol: nec1
+address: 210.172
+command: 211
+#
+name: HDMI OUT NO
+type: parsed
+protocol: nec1
+address: 210.172
+command: 211
+#
+name: HDMI OUT MAIN
+type: parsed
+protocol: nec1
+address: 210.172
+command: 212
+#
+name: HDMI OUT YES
+type: parsed
+protocol: nec1
+address: 210.172
+command: 212
+#
+name: HDMI OUT SUB
+type: parsed
+protocol: nec1
+address: 210.172
+command: 213
+#
+name: XM
+type: parsed
+protocol: nec1
+address: 210.172
+command: 218
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.172
+command: 218
+#
+name: INPUT: XM
+type: parsed
+protocol: nec1
+address: 210.172
+command: 218
+#
+name: SIRIUS
+type: parsed
+protocol: nec1
+address: 210.172
+command: 219
+#
+name: INPUT SIRIUS
+type: parsed
+protocol: nec1
+address: 210.172
+command: 219
+#
+name: INPUT: SIRIUS
+type: parsed
+protocol: nec1
+address: 210.172
+command: 219
+#
+name: AUDYSSEY TOGGLE
+type: parsed
+protocol: nec1
+address: 210.172
+command: 223
+#

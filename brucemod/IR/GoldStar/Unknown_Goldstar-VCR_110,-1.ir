@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 110
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 110
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 110
+command: 3
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 110
+command: 4
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 110
+command: 5
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 110
+command: 6
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 110
+command: 7
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 110
+command: 8
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 110
+command: 9
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 110
+command: 11
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 110
+command: 12
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 110
+command: 13
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 110
+command: 14
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 110
+command: 15
+#
+name: f/a
+type: parsed
+protocol: nec
+address: 110
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 110
+command: 20
+#
+name: PrUp
+type: parsed
+protocol: nec
+address: 110
+command: 24
+#
+name: PrDown
+type: parsed
+protocol: nec
+address: 110
+command: 25
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 110
+command: 28
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 110
+command: 29
+#
+name: trackUp
+type: parsed
+protocol: nec
+address: 110
+command: 68
+#
+name: trackDown
+type: parsed
+protocol: nec
+address: 110
+command: 69
+#
+name: cl/cnt
+type: parsed
+protocol: nec
+address: 110
+command: 76
+#
+name: reset
+type: parsed
+protocol: nec
+address: 110
+command: 77
+#
+name: TU/AV
+type: parsed
+protocol: nec
+address: 110
+command: 86
+#

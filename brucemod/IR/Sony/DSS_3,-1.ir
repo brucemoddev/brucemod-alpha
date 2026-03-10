@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#

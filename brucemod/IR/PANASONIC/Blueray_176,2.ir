@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 208
+#
+name: TV_POWER
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 208
+#
+name: TV_VOL+
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: TV_VOL-
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: TV_INPUT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: Exit
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 16
+#
+name: return
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: OPTION
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: Ok
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: POP UP MENU
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 0
+#
+name: home
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: TOPMENU
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 176
+#
+name: NETFLIX
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 128
+#
+name: Play
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 160
+#
+name: Pause
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: Stop
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: rewind
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: Skip
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 160
+#
+name: Previous
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 0
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 32
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 64
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 80
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 96
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 112
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 128
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 144
+#
+name: CANCEL
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: Audio
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 48
+#
+name: OPEN / CLOSE
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 16
+#
+name: Status
+type: parsed
+protocol: panasonic
+address: 176.2
+command: 240
+#
+name: MIRACAST
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 48
+#
+name: internet
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 144
+#
+name: red
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 16
+#
+name: green
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 32
+#
+name: Yellow
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 48
+#
+name: blue
+type: parsed
+protocol: panasonic
+address: 177.2
+command: 0
+#

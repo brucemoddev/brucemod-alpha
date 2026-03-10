@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: directv
+address: 10
+command: 128
+#
+name: MENU
+type: parsed
+protocol: directv
+address: 10
+command: 129
+#
+name: EXIT
+type: parsed
+protocol: directv
+address: 10
+command: 130
+#
+name: HELP
+type: parsed
+protocol: directv
+address: 10
+command: 131
+#
+name: GENRE
+type: parsed
+protocol: directv
+address: 10
+command: 132
+#
+name: 
+type: parsed
+protocol: directv
+address: 10
+command: 132
+#
+name: ARTIST
+type: parsed
+protocol: directv
+address: 10
+command: 134
+#
+name: SEARCH
+type: parsed
+protocol: directv
+address: 10
+command: 135
+#
+name: CURSOR UP
+type: parsed
+protocol: directv
+address: 10
+command: 136
+#
+name: CURSOR DOWN
+type: parsed
+protocol: directv
+address: 10
+command: 137
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: directv
+address: 10
+command: 138
+#
+name: CURSOR LEFT
+type: parsed
+protocol: directv
+address: 10
+command: 139
+#
+name: CURSOR ENTER
+type: parsed
+protocol: directv
+address: 10
+command: 140
+#
+name: SKIP <<
+type: parsed
+protocol: directv
+address: 10
+command: 141
+#
+name: PLAY
+type: parsed
+protocol: directv
+address: 10
+command: 142
+#
+name: SKIP >>
+type: parsed
+protocol: directv
+address: 10
+command: 143
+#
+name: THEME
+type: parsed
+protocol: directv
+address: 10
+command: 165
+#
+name: POWER
+type: parsed
+protocol: directv
+address: 10
+command: 176
+#
+name: STREAM 1
+type: parsed
+protocol: directv
+address: 10
+command: 177
+#
+name: STREAM 2
+type: parsed
+protocol: directv
+address: 10
+command: 178
+#
+name: STREAM 3
+type: parsed
+protocol: directv
+address: 10
+command: 179
+#
+name: F1
+type: parsed
+protocol: directv
+address: 10
+command: 180
+#
+name: F2
+type: parsed
+protocol: directv
+address: 10
+command: 181
+#
+name: F3
+type: parsed
+protocol: directv
+address: 10
+command: 182
+#

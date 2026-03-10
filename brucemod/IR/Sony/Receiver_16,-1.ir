@@ -1,0 +1,543 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: sony12
+address: 16
+command: 18
+#
+name: MASTER VOL +
+type: parsed
+protocol: sony12
+address: 16
+command: 18
+#
+name: VOL+
+type: parsed
+protocol: sony12
+address: 16
+command: 18
+#
+name: VOLUME (+)
+type: parsed
+protocol: sony12
+address: 16
+command: 18
+#
+name: VOL UP
+type: parsed
+protocol: sony12
+address: 16
+command: 18
+#
+name: VOLUME -
+type: parsed
+protocol: sony12
+address: 16
+command: 19
+#
+name: MASTER VOL -
+type: parsed
+protocol: sony12
+address: 16
+command: 19
+#
+name: VOL-
+type: parsed
+protocol: sony12
+address: 16
+command: 19
+#
+name: VOLUME (-)
+type: parsed
+protocol: sony12
+address: 16
+command: 19
+#
+name: VOL DOWN
+type: parsed
+protocol: sony12
+address: 16
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: sony12
+address: 16
+command: 20
+#
+name: MUTING
+type: parsed
+protocol: sony12
+address: 16
+command: 20
+#
+name: VOLUME MUTE
+type: parsed
+protocol: sony12
+address: 16
+command: 20
+#
+name: POWER TOGGLE
+type: parsed
+protocol: sony12
+address: 16
+command: 21
+#
+name: POWER ON/OFF
+type: parsed
+protocol: sony12
+address: 16
+command: 21
+#
+name: POWER
+type: parsed
+protocol: sony12
+address: 16
+command: 21
+#
+name: AUX
+type: parsed
+protocol: sony12
+address: 16
+command: 29
+#
+name: VIDEO 2
+type: parsed
+protocol: sony12
+address: 16
+command: 30
+#
+name: INPUT: VIDEO 2
+type: parsed
+protocol: sony12
+address: 16
+command: 30
+#
+name: PHONO
+type: parsed
+protocol: sony12
+address: 16
+command: 32
+#
+name: INPUT: PHONO
+type: parsed
+protocol: sony12
+address: 16
+command: 32
+#
+name: INPUT PHONO
+type: parsed
+protocol: sony12
+address: 16
+command: 32
+#
+name: MUTING
+type: parsed
+protocol: sony12
+address: 16
+command: 32
+#
+name: TUNER INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 33
+#
+name: TUNER
+type: parsed
+protocol: sony12
+address: 16
+command: 33
+#
+name: INPUT: TUNER
+type: parsed
+protocol: sony12
+address: 16
+command: 33
+#
+name: INPUT TUNER
+type: parsed
+protocol: sony12
+address: 16
+command: 33
+#
+name: VIDEO INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: INPUT: VIDEO 1
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: VID 1
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: VIDEO 1
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: INPUT TV
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: VIDEO
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: 
+type: parsed
+protocol: sony12
+address: 16
+command: 34
+#
+name: TAPE 1
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: INPUT: TAPE 1
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: INPUT: TAPE
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: TAPE
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: INPUT TAPE
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: TAPE/MD
+type: parsed
+protocol: sony12
+address: 16
+command: 35
+#
+name: CD INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: CD
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: INPUT: COMPACT DISC
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: INPUT: CD
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: INPUT CD
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: 
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: INPUT:CD
+type: parsed
+protocol: sony12
+address: 16
+command: 37
+#
+name: POWER ON
+type: parsed
+protocol: sony12
+address: 16
+command: 46
+#
+name: 
+type: parsed
+protocol: sony12
+address: 16
+command: 47
+#
+name: POWER OFF
+type: parsed
+protocol: sony12
+address: 16
+command: 47
+#
+name: SYSTEM OFF
+type: parsed
+protocol: sony12
+address: 16
+command: 47
+#
+name: VIDEO 3
+type: parsed
+protocol: sony12
+address: 16
+command: 66
+#
+name: INPUT: VIDEO 3
+type: parsed
+protocol: sony12
+address: 16
+command: 66
+#
+name: INPUT FRONT
+type: parsed
+protocol: sony12
+address: 16
+command: 66
+#
+name: DAT/MD
+type: parsed
+protocol: sony12
+address: 16
+command: 70
+#
+name: INPUT: DAT
+type: parsed
+protocol: sony12
+address: 16
+command: 70
+#
+name: MD/DAT
+type: parsed
+protocol: sony12
+address: 16
+command: 70
+#
+name: DAT
+type: parsed
+protocol: sony12
+address: 16
+command: 70
+#
+name: SND F. ANALOG DIRECT
+type: parsed
+protocol: sony12
+address: 16
+command: 73
+#
+name: ON SCREEN DISPLAY
+type: parsed
+protocol: sony12
+address: 16
+command: 83
+#
+name: ON SCREEN
+type: parsed
+protocol: sony12
+address: 16
+command: 83
+#
+name: SLEEP
+type: parsed
+protocol: sony12
+address: 16
+command: 96
+#
+name: TAPE INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 105
+#
+name: INPUT MD
+type: parsed
+protocol: sony12
+address: 16
+command: 105
+#
+name: MD/TAPE
+type: parsed
+protocol: sony12
+address: 16
+command: 105
+#
+name: MD
+type: parsed
+protocol: sony12
+address: 16
+command: 105
+#
+name: MD/DAT
+type: parsed
+protocol: sony12
+address: 16
+command: 105
+#
+name: INPUT: MD/DAT
+type: parsed
+protocol: sony12
+address: 16
+command: 105
+#
+name: SAT INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 106
+#
+name: TV/SAT
+type: parsed
+protocol: sony12
+address: 16
+command: 106
+#
+name: TV
+type: parsed
+protocol: sony12
+address: 16
+command: 106
+#
+name: INPUT DBS
+type: parsed
+protocol: sony12
+address: 16
+command: 106
+#
+name: INPUT:TV/SAT
+type: parsed
+protocol: sony12
+address: 16
+command: 106
+#
+name: ENTER
+type: parsed
+protocol: sony12
+address: 16
+command: 107
+#
+name: LASER DISC
+type: parsed
+protocol: sony12
+address: 16
+command: 107
+#
+name: LD
+type: parsed
+protocol: sony12
+address: 16
+command: 107
+#
+name: DVD/LD
+type: parsed
+protocol: sony12
+address: 16
+command: 107
+#
+name: DVD
+type: parsed
+protocol: sony12
+address: 16
+command: 107
+#
+name: 5.1
+type: parsed
+protocol: sony12
+address: 16
+command: 114
+#
+name: 5.1CH
+type: parsed
+protocol: sony12
+address: 16
+command: 114
+#
+name: 5.1 IN
+type: parsed
+protocol: sony12
+address: 16
+command: 114
+#
+name: 5.1 CH
+type: parsed
+protocol: sony12
+address: 16
+command: 114
+#
+name: 5.1 INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 114
+#
+name: INPUT: 5.1
+type: parsed
+protocol: sony12
+address: 16
+command: 114
+#
+name: 
+type: parsed
+protocol: sony12
+address: 16
+command: 123
+#
+name: INPUT: DVD/LD
+type: parsed
+protocol: sony12
+address: 16
+command: 123
+#
+name: DVD INPUT
+type: parsed
+protocol: sony12
+address: 16
+command: 125
+#
+name: INPUT DVD
+type: parsed
+protocol: sony12
+address: 16
+command: 125
+#
+name: DVD/LD
+type: parsed
+protocol: sony12
+address: 16
+command: 125
+#
+name: DVD
+type: parsed
+protocol: sony12
+address: 16
+command: 125
+#

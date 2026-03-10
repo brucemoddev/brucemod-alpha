@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FC SCAN
+type: parsed
+protocol: nec1
+address: 0
+command: 0
+#
+name: FC MEMO
+type: parsed
+protocol: nec1
+address: 0
+command: 1
+#
+name: TV / CATV
+type: parsed
+protocol: nec1
+address: 0
+command: 2
+#
+name: CHANNEL - PREVIOUS
+type: parsed
+protocol: nec1
+address: 0
+command: 4
+#
+name: 1--
+type: parsed
+protocol: nec1
+address: 0
+command: 5
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0
+command: 6
+#
+name: CHANNEL - DOWN
+type: parsed
+protocol: nec1
+address: 0
+command: 7
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0
+command: 9
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0
+command: 10
+#
+name: CHANNEL - UP
+type: parsed
+protocol: nec1
+address: 0
+command: 11
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0
+command: 12
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0
+command: 13
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0
+command: 14
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: nec1
+address: 0
+command: 15
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0
+command: 16
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0
+command: 17
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0
+command: 18
+#
+name: VOLUME - UP
+type: parsed
+protocol: nec1
+address: 0
+command: 19
+#
+name: PC
+type: parsed
+protocol: nec1
+address: 0
+command: 20
+#
+name: PC MEMO
+type: parsed
+protocol: nec1
+address: 0
+command: 21
+#
+name: PC SCAN
+type: parsed
+protocol: nec1
+address: 0
+command: 22
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: nec1
+address: 0
+command: 23
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 0
+command: 24
+#
+name: MTS
+type: parsed
+protocol: nec1
+address: 0
+command: 25
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 0
+command: 31
+#

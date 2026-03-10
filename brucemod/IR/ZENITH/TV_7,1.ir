@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT - DVD
+type: parsed
+protocol: zenith
+address: 7.1
+command: 16
+#
+name: INPUT - VIDEO
+type: parsed
+protocol: zenith
+address: 7.1
+command: 44
+#

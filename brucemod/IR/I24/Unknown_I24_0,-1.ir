@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Brightness+
+type: parsed
+protocol: nec
+address: 0
+command: 128
+#
+name: Brightness-
+type: parsed
+protocol: nec
+address: 0
+command: 129
+#
+name: OFF
+type: parsed
+protocol: nec
+address: 0
+command: 130
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0
+command: 131
+#
+name: KEY_R
+type: parsed
+protocol: nec
+address: 0
+command: 132
+#
+name: KEY_G
+type: parsed
+protocol: nec
+address: 0
+command: 133
+#
+name: KEY_B
+type: parsed
+protocol: nec
+address: 0
+command: 134
+#
+name: KEY_W
+type: parsed
+protocol: nec
+address: 0
+command: 135
+#
+name: orange
+type: parsed
+protocol: nec
+address: 0
+command: 136
+#
+name: pea_green
+type: parsed
+protocol: nec
+address: 0
+command: 137
+#
+name: dark_blue
+type: parsed
+protocol: nec
+address: 0
+command: 138
+#
+name: FLASH
+type: parsed
+protocol: nec
+address: 0
+command: 139
+#
+name: dark_yellow
+type: parsed
+protocol: nec
+address: 0
+command: 140
+#
+name: cyan
+type: parsed
+protocol: nec
+address: 0
+command: 141
+#
+name: brown
+type: parsed
+protocol: nec
+address: 0
+command: 142
+#
+name: STROBE
+type: parsed
+protocol: nec
+address: 0
+command: 143
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 0
+command: 144
+#
+name: KEY_LIGHTS_TOGGLE
+type: parsed
+protocol: nec
+address: 0
+command: 145
+#
+name: pink
+type: parsed
+protocol: nec
+address: 0
+command: 146
+#
+name: FADE
+type: parsed
+protocol: nec
+address: 0
+command: 147
+#
+name: straw_yellow
+type: parsed
+protocol: nec
+address: 0
+command: 148
+#
+name: sky_blue
+type: parsed
+protocol: nec
+address: 0
+command: 149
+#
+name: purple
+type: parsed
+protocol: nec
+address: 0
+command: 150
+#
+name: SMOOTH
+type: parsed
+protocol: nec
+address: 0
+command: 151
+#

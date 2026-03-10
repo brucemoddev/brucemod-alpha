@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: source
+type: parsed
+protocol: nec
+address: 4
+command: 47
+#
+name: LINK
+type: parsed
+protocol: nec
+address: 4
+command: 99
+#
+name: image
+type: parsed
+protocol: nec
+address: 4
+command: 119
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: CH_NEXT
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: CH_PREV
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec
+address: 4
+command: 55
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: PIC
+type: parsed
+protocol: nec
+address: 4
+command: 103
+#

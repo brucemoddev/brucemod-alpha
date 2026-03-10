@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: RETURN
+type: parsed
+protocol: nec1
+address: 5.122
+command: 0
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 5.122
+command: 2
+#
+name: NOTE
+type: parsed
+protocol: nec1
+address: 5.122
+command: 3
+#
+name: =AU
+type: parsed
+protocol: nec1
+address: 5.122
+command: 4
+#
+name: MNO
+type: parsed
+protocol: nec1
+address: 5.122
+command: 5
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 5.122
+command: 6
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 5.122
+command: 7
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 5.122
+command: 7
+#
+name: =AO
+type: parsed
+protocol: nec1
+address: 5.122
+command: 8
+#
+name: PQR
+type: parsed
+protocol: nec1
+address: 5.122
+command: 9
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 5.122
+command: 10
+#
+name: ECHO -
+type: parsed
+protocol: nec1
+address: 5.122
+command: 11
+#
+name: JKL
+type: parsed
+protocol: nec1
+address: 5.122
+command: 14
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 5.122
+command: 15
+#
+name: ..?
+type: parsed
+protocol: nec1
+address: 5.122
+command: 16
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 5.122
+command: 17
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 5.122
+command: 18
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 5.122
+command: 19
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 5.122
+command: 20
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 5.122
+command: 21
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 5.122
+command: 22
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 5.122
+command: 23
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 5.122
+command: 24
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 5.122
+command: 25
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 5.122
+command: 26
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 5.122
+command: 27
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 5.122
+command: 29
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 5.122
+command: 30
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 5.122
+command: 31
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 5.122
+command: 64
+#
+name: EDIT
+type: parsed
+protocol: nec1
+address: 5.122
+command: 65
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 5.122
+command: 66
+#
+name: SYSTEM
+type: parsed
+protocol: nec1
+address: 5.122
+command: 67
+#
+name: SUBTL
+type: parsed
+protocol: nec1
+address: 5.122
+command: 68
+#
+name: DEF
+type: parsed
+protocol: nec1
+address: 5.122
+command: 69
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 5.122
+command: 70
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 5.122
+command: 71
+#
+name: STORE
+type: parsed
+protocol: nec1
+address: 5.122
+command: 72
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 5.122
+command: 73
+#
+name: SHARP
+type: parsed
+protocol: nec1
+address: 5.122
+command: 74
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 5.122
+command: 75
+#
+name: FLAT
+type: parsed
+protocol: nec1
+address: 5.122
+command: 76
+#
+name: MIC-
+type: parsed
+protocol: nec1
+address: 5.122
+command: 77
+#
+name: MIC+
+type: parsed
+protocol: nec1
+address: 5.122
+command: 78
+#
+name: ECHO +
+type: parsed
+protocol: nec1
+address: 5.122
+command: 79
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 5.122
+command: 80
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 5.122
+command: 81
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 5.122
+command: 82
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 5.122
+command: 83
+#
+name: ABC
+type: parsed
+protocol: nec1
+address: 5.122
+command: 84
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 5.122
+command: 85
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 5.122
+command: 86
+#
+name: GHI
+type: parsed
+protocol: nec1
+address: 5.122
+command: 87
+#
+name: GOTO
+type: parsed
+protocol: nec1
+address: 5.122
+command: 88
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 5.122
+command: 90
+#
+name: STU
+type: parsed
+protocol: nec1
+address: 5.122
+command: 91
+#
+name: VWX
+type: parsed
+protocol: nec1
+address: 5.122
+command: 92
+#
+name: YZ
+type: parsed
+protocol: nec1
+address: 5.122
+command: 93
+#
+name: SPACE
+type: parsed
+protocol: nec1
+address: 5.122
+command: 94
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 5.122
+command: 95
+#

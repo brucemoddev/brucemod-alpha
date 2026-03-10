@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 0
+#
+name: STOP/DOWN ARROW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 0
+#
+name: EJECT
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 1
+#
+name: REWIND <<
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 2
+#
+name: REW/LEFT ARROW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 2
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: FF >>/RIGHT ARROW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: FF/RIGHT ARROW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 6
+#
+name: PAUSE/SLOW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 6
+#
+name: RECORD/TIME
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 8
+#
+name: RECORD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 10
+#
+name: PLAY/UP ARROW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 10
+#
+name: STILL ADV
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 12
+#
+name: SEARCH
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 15
+#
+name: SLOW
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 15
+#
+name: SLOW MOTION +
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 15
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 25
+#
+name: SPATIALIZER
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 49
+#
+name: AUDIO OUT
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 51
+#
+name: CHANNEL/TRACKING +
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 52
+#
+name: CHANNEL UP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 52
+#
+name: CHANNEL +/TRACKING +
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 52
+#
+name: CHANNEL/TRACKING -
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 53
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 53
+#
+name: CHANNEL -/TRACKING -
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 53
+#
+name: VCR/TV
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 54
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 57
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 61
+#
+name: POWER ON
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 62
+#
+name: POWER OFF
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 63
+#
+name: INDEX/M/A SKIP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 64
+#
+name: SEARCH/M/A SKIP/ENT
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 64
+#
+name: INDEX <<
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 73
+#
+name: INDEX >>
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 74
+#
+name: COUNTER RESET
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 84
+#
+name: FRAME >>
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 142
+#
+name: FRAME <<
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 143
+#
+name: INPUT SELECT
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 192
+#
+name: INPUT
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 192
+#
+name: 100
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 229
+#
+name: SAP/HI-FI
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 230
+#
+name: ZERO/C/A SKIP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 245
+#
+name: C/A SKIP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 248
+#

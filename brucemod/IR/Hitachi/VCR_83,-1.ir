@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV 8
+type: parsed
+protocol: nec1
+address: 83
+command: 4
+#
+name: TV 9
+type: parsed
+protocol: nec1
+address: 83
+command: 5
+#
+name: TV 0
+type: parsed
+protocol: nec1
+address: 83
+command: 6
+#
+name: TV DISPLAY
+type: parsed
+protocol: nec1
+address: 83
+command: 7
+#
+name: TV 1
+type: parsed
+protocol: nec1
+address: 83
+command: 13
+#
+name: TV 2
+type: parsed
+protocol: nec1
+address: 83
+command: 14
+#
+name: TV 3
+type: parsed
+protocol: nec1
+address: 83
+command: 15
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 83
+command: 18
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 83
+command: 21
+#
+name: TV OPERATE
+type: parsed
+protocol: nec1
+address: 83
+command: 23
+#
+name: TV CHANNEL V
+type: parsed
+protocol: nec1
+address: 83
+command: 24
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: nec1
+address: 83
+command: 25
+#
+name: TV MENU
+type: parsed
+protocol: nec1
+address: 83
+command: 26
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 83
+command: 27
+#
+name: TV 4
+type: parsed
+protocol: nec1
+address: 83
+command: 28
+#
+name: TV 5
+type: parsed
+protocol: nec1
+address: 83
+command: 29
+#
+name: TV 6 (CL)
+type: parsed
+protocol: nec1
+address: 83
+command: 30
+#
+name: TV 7
+type: parsed
+protocol: nec1
+address: 83
+command: 31
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 14
+#
+name: VOLUME -
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 15
+#
+name: STANDBY (ON/OFF)
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 16
+#
+name: LITE SHOW
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 17
+#
+name: NEXT ^
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 18
+#
+name: PROG
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 23
+#
+name: FREEZE ESC
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 24
+#
+name: MENU EDIT
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 25
+#
+name: MIC >
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 27
+#
+name: MUTE <
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 29
+#
+name: SELECT ENTER
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 30
+#
+name: PREV V
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 31
+#

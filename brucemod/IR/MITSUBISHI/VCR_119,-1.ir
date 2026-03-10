@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME UP
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 34
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 42
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 50
+#
+name: VCR A
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 68
+#

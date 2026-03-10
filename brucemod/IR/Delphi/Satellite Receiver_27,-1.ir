@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0 A
+type: parsed
+protocol: rc5
+address: 27
+command: 64
+#
+name: 0 B
+type: parsed
+protocol: rc5
+address: 27
+command: 64
+#
+name: 1 A
+type: parsed
+protocol: rc5
+address: 27
+command: 65
+#
+name: 1 B
+type: parsed
+protocol: rc5
+address: 27
+command: 65
+#
+name: 2 A
+type: parsed
+protocol: rc5
+address: 27
+command: 66
+#
+name: 2 B
+type: parsed
+protocol: rc5
+address: 27
+command: 66
+#
+name: 3 A
+type: parsed
+protocol: rc5
+address: 27
+command: 67
+#
+name: 3 B
+type: parsed
+protocol: rc5
+address: 27
+command: 67
+#
+name: 4 A
+type: parsed
+protocol: rc5
+address: 27
+command: 68
+#
+name: 4 B
+type: parsed
+protocol: rc5
+address: 27
+command: 68
+#
+name: 5 A
+type: parsed
+protocol: rc5
+address: 27
+command: 69
+#
+name: 5 B
+type: parsed
+protocol: rc5
+address: 27
+command: 69
+#
+name: 6 A
+type: parsed
+protocol: rc5
+address: 27
+command: 70
+#
+name: 6 B
+type: parsed
+protocol: rc5
+address: 27
+command: 70
+#
+name: 7 A
+type: parsed
+protocol: rc5
+address: 27
+command: 71
+#
+name: 7 B
+type: parsed
+protocol: rc5
+address: 27
+command: 71
+#
+name: 8 A
+type: parsed
+protocol: rc5
+address: 27
+command: 72
+#
+name: 8 B
+type: parsed
+protocol: rc5
+address: 27
+command: 72
+#
+name: 9 A
+type: parsed
+protocol: rc5
+address: 27
+command: 73
+#
+name: 9 B
+type: parsed
+protocol: rc5
+address: 27
+command: 73
+#
+name: POWER A
+type: parsed
+protocol: rc5
+address: 27
+command: 76
+#
+name: POWER B
+type: parsed
+protocol: rc5
+address: 27
+command: 76
+#
+name: MUTE A
+type: parsed
+protocol: rc5
+address: 27
+command: 77
+#
+name: MUTE B
+type: parsed
+protocol: rc5
+address: 27
+command: 77
+#
+name: + A
+type: parsed
+protocol: rc5
+address: 27
+command: 80
+#
+name: + B
+type: parsed
+protocol: rc5
+address: 27
+command: 80
+#
+name: - A
+type: parsed
+protocol: rc5
+address: 27
+command: 81
+#
+name: - B
+type: parsed
+protocol: rc5
+address: 27
+command: 81
+#
+name: MEMORY A
+type: parsed
+protocol: rc5
+address: 27
+command: 87
+#
+name: MEMORY B
+type: parsed
+protocol: rc5
+address: 27
+command: 87
+#
+name: CHANNEL + A
+type: parsed
+protocol: rc5
+address: 27
+command: 96
+#
+name: CHANNEL + B
+type: parsed
+protocol: rc5
+address: 27
+command: 96
+#
+name: UP A
+type: parsed
+protocol: rc5
+address: 27
+command: 96
+#
+name: UP B
+type: parsed
+protocol: rc5
+address: 27
+command: 96
+#
+name: CHANNEL - A
+type: parsed
+protocol: rc5
+address: 27
+command: 97
+#
+name: CHANNEL - B
+type: parsed
+protocol: rc5
+address: 27
+command: 97
+#
+name: DOWN A
+type: parsed
+protocol: rc5
+address: 27
+command: 97
+#
+name: DOWN B
+type: parsed
+protocol: rc5
+address: 27
+command: 97
+#
+name: PRESET/DIRECT A
+type: parsed
+protocol: rc5
+address: 27
+command: 98
+#
+name: PRESET/DIRECT B
+type: parsed
+protocol: rc5
+address: 27
+command: 98
+#
+name: XM A
+type: parsed
+protocol: rc5
+address: 27
+command: 99
+#
+name: XM B
+type: parsed
+protocol: rc5
+address: 27
+command: 99
+#
+name: CATEGORY >> A
+type: parsed
+protocol: rc5
+address: 27
+command: 112
+#
+name: CATEGORY >> B
+type: parsed
+protocol: rc5
+address: 27
+command: 112
+#
+name: CATEGORY << A
+type: parsed
+protocol: rc5
+address: 27
+command: 113
+#
+name: CATEGORY << B
+type: parsed
+protocol: rc5
+address: 27
+command: 113
+#
+name: DISPLAY A
+type: parsed
+protocol: rc5
+address: 27
+command: 122
+#
+name: DISPLAY B
+type: parsed
+protocol: rc5
+address: 27
+command: 122
+#

@@ -1,0 +1,339 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP / CLEAR
+type: parsed
+protocol: jvc
+address: 111
+command: 3
+#
+name: SLOW MOTION +
+type: parsed
+protocol: jvc
+address: 111
+command: 6
+#
+name: SLOW MOTION -
+type: parsed
+protocol: jvc
+address: 111
+command: 7
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 111
+command: 11
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 111
+command: 12
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 111
+command: 13
+#
+name: JUMP -
+type: parsed
+protocol: jvc
+address: 111
+command: 14
+#
+name: JUMP +
+type: parsed
+protocol: jvc
+address: 111
+command: 15
+#
+name: TV / AV / VIDEO
+type: parsed
+protocol: jvc
+address: 111
+command: 19
+#
+name: NEXT
+type: parsed
+protocol: jvc
+address: 111
+command: 20
+#
+name: PREVIOUS
+type: parsed
+protocol: jvc
+address: 111
+command: 21
+#
+name: AUDIO
+type: parsed
+protocol: jvc
+address: 111
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 111
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 111
+command: 25
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 111
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 111
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 111
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 111
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 111
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 111
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 111
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 111
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 111
+command: 41
+#
+name: SAT TIMER
+type: parsed
+protocol: jvc
+address: 111
+command: 48
+#
+name: DVD
+type: parsed
+protocol: jvc
+address: 111
+command: 50
+#
+name: 0 / AUX
+type: parsed
+protocol: jvc
+address: 111
+command: 51
+#
+name: DUBBING
+type: parsed
+protocol: jvc
+address: 111
+command: 52
+#
+name: VPS / PDC TIMER
+type: parsed
+protocol: jvc
+address: 111
+command: 53
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 111
+command: 54
+#
+name: SET UP
+type: parsed
+protocol: jvc
+address: 111
+command: 55
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 111
+command: 56
+#
+name: CURSOR ENTER
+type: parsed
+protocol: jvc
+address: 111
+command: 60
+#
+name: 
+type: parsed
+protocol: jvc
+address: 111
+command: 60
+#
+name: ON SCREEN
+type: parsed
+protocol: jvc
+address: 111
+command: 62
+#
+name: HDD
+type: parsed
+protocol: jvc
+address: 111
+command: 68
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 111
+command: 128
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 111
+command: 129
+#
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 111
+command: 130
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 111
+command: 132
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 111
+command: 134
+#
+name: OPEN / CLOSE
+type: parsed
+protocol: jvc
+address: 111
+command: 135
+#
+name: PROGRESSIVE SCAN
+type: parsed
+protocol: jvc
+address: 111
+command: 142
+#
+name: TOP MENU
+type: parsed
+protocol: jvc
+address: 111
+command: 143
+#
+name: MEMO / MARK
+type: parsed
+protocol: jvc
+address: 111
+command: 144
+#
+name: CHAPTER +
+type: parsed
+protocol: jvc
+address: 111
+command: 150
+#
+name: ANGLE / LIVE CHECK
+type: parsed
+protocol: jvc
+address: 111
+command: 192
+#
+name: PROGRAMME
+type: parsed
+protocol: jvc
+address: 111
+command: 193
+#
+name: SUBTITLE
+type: parsed
+protocol: jvc
+address: 111
+command: 196
+#
+name: RECORD
+type: parsed
+protocol: jvc
+address: 111
+command: 204
+#
+name: RECORD MODE
+type: parsed
+protocol: jvc
+address: 111
+command: 204
+#
+name: RETURN
+type: parsed
+protocol: jvc
+address: 111
+command: 212
+#
+name: CHAPTER -
+type: parsed
+protocol: jvc
+address: 111
+command: 220
+#
+name: EDIT
+type: parsed
+protocol: jvc
+address: 111
+command: 221
+#
+name: NAVIGATION
+type: parsed
+protocol: jvc
+address: 111
+command: 224
+#
+name: HELP
+type: parsed
+protocol: jvc
+address: 111
+command: 232
+#
+name: LIVE
+type: parsed
+protocol: jvc
+address: 111
+command: 233
+#

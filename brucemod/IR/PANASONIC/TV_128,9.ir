@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: GUIDE
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 135
+#
+name: LIST
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 136
+#
+name: APPS
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 143
+#
+name: VIERA CAST / INTERNE
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 147
+#
+name: MENU HOME
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 149
+#
+name: MENU SUB / OPTION
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 167
+#
+name: SD CARD / USB / MEDI
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 171
+#
+name: FAVORITE CHANNEL
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 174
+#
+name: VIERA LINK
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 177
+#
+name: IPOD
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 180
+#
+name: 3D
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 183
+#
+name: USB
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 184
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 193
+#
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 192
+#
+name: STOP
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 194
+#
+name: FAST FORWARD
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 195
+#
+name: REWIND
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 196
+#
+name: RECORD
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 197
+#
+name: INPUT ANTENNA A
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 205
+#
+name: INPUT ANTENNA B
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 206
+#
+name: SD RECORD
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 213
+#
+name: PREVIOUS
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 220
+#
+name: NEXT
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 221
+#
+name: NETFLIX
+type: parsed
+protocol: panasonic
+address: 128.9
+command: 242
+#

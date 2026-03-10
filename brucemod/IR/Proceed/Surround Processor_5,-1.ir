@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 1
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 1
+#
+name: BAL/AUX
+type: parsed
+protocol: recs80_45
+address: 5
+command: 2
+#
+name: LD
+type: parsed
+protocol: recs80_45
+address: 5
+command: 3
+#
+name: VOLUME +
+type: parsed
+protocol: recs80_45
+address: 5
+command: 8
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 8
+#
+name: CD2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 9
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 9
+#
+name: TUNER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 10
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 10
+#
+name: TV/AUX
+type: parsed
+protocol: recs80_45
+address: 5
+command: 11
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 11
+#
+name: VOLUME -
+type: parsed
+protocol: recs80_45
+address: 5
+command: 16
+#
+name: TAPE1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 17
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 17
+#
+name: VCR 1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 18
+#
+name: TAPE2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 25
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 25
+#
+name: VCR2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 26
+#
+name: MUTE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 48
+#

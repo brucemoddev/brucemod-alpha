@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 69
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 69
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 69
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 69
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 69
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 69
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 69
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 69
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 69
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 69
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 69
+command: 10
+#
+name: quick
+type: parsed
+protocol: nec
+address: 69
+command: 11
+#
+name: slow+
+type: parsed
+protocol: nec
+address: 69
+command: 13
+#
+name: slow-
+type: parsed
+protocol: nec
+address: 69
+command: 14
+#
+name: v.remote
+type: parsed
+protocol: nec
+address: 69
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 69
+command: 18
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 69
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 69
+command: 20
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 69
+command: 21
+#
+name: navi
+type: parsed
+protocol: nec
+address: 69
+command: 22
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 69
+command: 25
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 69
+command: 32
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 69
+command: 33
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 69
+command: 34
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 69
+command: 35
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 69
+command: 36
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 69
+command: 37
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 69
+command: 38
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 69
+command: 39
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 69
+command: 40
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 69
+command: 41
+#
+name: memory
+type: parsed
+protocol: nec
+address: 69
+command: 42
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 69
+command: 43
+#
+name: abrpt
+type: parsed
+protocol: nec
+address: 69
+command: 44
+#
+name: random
+type: parsed
+protocol: nec
+address: 69
+command: 46
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 69
+command: 64
+#
+name: fldimmer
+type: parsed
+protocol: nec
+address: 69
+command: 65
+#
+name: e.a.m
+type: parsed
+protocol: nec
+address: 69
+command: 67
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 69
+command: 77
+#
+name: colorstream
+type: parsed
+protocol: nec
+address: 69
+command: 78
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 69
+command: 81
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 69
+command: 128
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 69
+command: 129
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 69
+command: 132
+#
+name: topmenu
+type: parsed
+protocol: nec
+address: 69
+command: 222
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 69
+command: 239
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 69
+command: 240
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 69
+command: 241
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 69
+command: 245
+#

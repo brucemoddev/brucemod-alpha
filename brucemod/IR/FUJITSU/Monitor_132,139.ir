@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER TOGGLE
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 0
+#
+name: VIDEO 1
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 64
+#
+name: VIDEO 2
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 65
+#
+name: VIDEO 3
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 66
+#
+name: VIDEO 4
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 67
+#
+name: RGB1: DVI-D
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 104
+#
+name: RGB2: D-SUB15
+type: parsed
+protocol: fujitsu
+address: 132.139
+command: 105
+#

@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 130.114
+command: 32
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 130.114
+command: 33
+#
+name: OFF
+type: parsed
+protocol: nec
+address: 130.114
+command: 34
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 130.114
+command: 35
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 130.114
+command: 36
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 130.114
+command: 37
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 130.114
+command: 38
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 130.114
+command: 39
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 130.114
+command: 40
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 130.114
+command: 41
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 130.114
+command: 42
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 130.114
+command: 43
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 130.114
+command: 44
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 130.114
+command: 45
+#
+name: SearchBack
+type: parsed
+protocol: nec
+address: 130.114
+command: 46
+#
+name: SearchForward
+type: parsed
+protocol: nec
+address: 130.114
+command: 47
+#
+name: Prev.
+type: parsed
+protocol: nec
+address: 130.114
+command: 48
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 130.114
+command: 49
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 130.114
+command: 51
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 130.114
+command: 52
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 130.114
+command: 53
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 130.114
+command: 54
+#
+name: Status
+type: parsed
+protocol: nec
+address: 130.114
+command: 57
+#
+name: SlowBack
+type: parsed
+protocol: nec
+address: 130.114
+command: 58
+#
+name: SlowForward
+type: parsed
+protocol: nec
+address: 130.114
+command: 59
+#
+name: StepBack
+type: parsed
+protocol: nec
+address: 130.114
+command: 60
+#
+name: StepForward
+type: parsed
+protocol: nec
+address: 130.114
+command: 61
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 130.114
+command: 96
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 130.114
+command: 97
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 130.114
+command: 98
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 130.114
+command: 99
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 130.114
+command: 100
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 130.114
+command: 101
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 130.114
+command: 102
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 130.114
+command: 103
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 130.114
+command: 104
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 130.114
+command: 105
+#
+name: Prog.
+type: parsed
+protocol: nec
+address: 130.114
+command: 106
+#
+name: Check
+type: parsed
+protocol: nec
+address: 130.114
+command: 107
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 130.114
+command: 108
+#
+name: Random
+type: parsed
+protocol: nec
+address: 130.114
+command: 109
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 130.114
+command: 110
+#
+name: A-B
+type: parsed
+protocol: nec
+address: 130.114
+command: 111
+#

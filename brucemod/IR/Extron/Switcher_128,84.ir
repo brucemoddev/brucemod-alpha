@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 6
+type: parsed
+protocol: nec1
+address: 128.84
+command: 0
+#
+name: DISPLAY/POWER
+type: parsed
+protocol: nec1
+address: 128.84
+command: 1
+#
+name: DISPLAY/MUTE
+type: parsed
+protocol: nec1
+address: 128.84
+command: 2
+#
+name: RGB/MUTE
+type: parsed
+protocol: nec1
+address: 128.84
+command: 3
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128.84
+command: 7
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128.84
+command: 8
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.84
+command: 9
+#
+name: AUDIO/MUTE
+type: parsed
+protocol: nec1
+address: 128.84
+command: 10
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128.84
+command: 12
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128.84
+command: 13
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 128.84
+command: 14
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.84
+command: 17
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128.84
+command: 18
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128.84
+command: 21
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128.84
+command: 24
+#
+name: FUNCTION
+type: parsed
+protocol: nec1
+address: 128.84
+command: 25
+#

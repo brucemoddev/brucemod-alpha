@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 65.84
+command: 5
+#
+name: VOLUME_P
+type: parsed
+protocol: panasonic
+address: 65.84
+command: 112
+#
+name: VOLUME_M
+type: parsed
+protocol: panasonic
+address: 65.84
+command: 113
+#

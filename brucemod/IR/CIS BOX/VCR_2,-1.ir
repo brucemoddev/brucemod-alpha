@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CH UP
+type: parsed
+protocol: sony12
+address: 2
+command: 16
+#
+name: CH DN
+type: parsed
+protocol: sony12
+address: 2
+command: 17
+#
+name: EJECT
+type: parsed
+protocol: sony12
+address: 2
+command: 22
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 2
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 2
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 2
+command: 26
+#
+name: REWIND <<
+type: parsed
+protocol: sony12
+address: 2
+command: 27
+#
+name: FF
+type: parsed
+protocol: sony12
+address: 2
+command: 28
+#
+name: RECORD
+type: parsed
+protocol: sony12
+address: 2
+command: 29
+#
+name: AUTO TRACKING
+type: parsed
+protocol: sony12
+address: 2
+command: 39
+#
+name: ANT VCR
+type: parsed
+protocol: sony12
+address: 2
+command: 45
+#
+name: PWR ON
+type: parsed
+protocol: sony12
+address: 2
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony12
+address: 2
+command: 47
+#
+name: FORWARD
+type: parsed
+protocol: sony12
+address: 2
+command: 49
+#
+name: SLOW MOTION -
+type: parsed
+protocol: sony12
+address: 2
+command: 62
+#
+name: CURSER UP
+type: parsed
+protocol: sony12
+address: 2
+command: 66
+#
+name: CURSER DN
+type: parsed
+protocol: sony12
+address: 2
+command: 67
+#
+name: TRACKING
+type: parsed
+protocol: sony12
+address: 2
+command: 69
+#
+name: COUNTER RESET
+type: parsed
+protocol: sony12
+address: 2
+command: 70
+#
+name: MENU
+type: parsed
+protocol: sony12
+address: 2
+command: 81
+#

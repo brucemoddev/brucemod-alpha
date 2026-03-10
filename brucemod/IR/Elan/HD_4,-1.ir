@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SOURCE POWER
+type: parsed
+protocol: velleman
+address: 4
+command: 0
+#
+name: SKIP >>
+type: parsed
+protocol: velleman
+address: 4
+command: 2
+#
+name: SKIP <<
+type: parsed
+protocol: velleman
+address: 4
+command: 3
+#
+name: PLAY
+type: parsed
+protocol: velleman
+address: 4
+command: 4
+#
+name: STOP
+type: parsed
+protocol: velleman
+address: 4
+command: 5
+#
+name: CHANNEL +
+type: parsed
+protocol: velleman
+address: 4
+command: 8
+#
+name: CHANNEL -
+type: parsed
+protocol: velleman
+address: 4
+command: 9
+#
+name: RECORD
+type: parsed
+protocol: velleman
+address: 4
+command: 10
+#
+name: TV/VCR
+type: parsed
+protocol: velleman
+address: 4
+command: 11
+#
+name: PAUSE
+type: parsed
+protocol: velleman
+address: 4
+command: 12
+#
+name: REWIND
+type: parsed
+protocol: velleman
+address: 4
+command: 13
+#
+name: FAST FWD
+type: parsed
+protocol: velleman
+address: 4
+command: 15
+#
+name: RECALL
+type: parsed
+protocol: velleman
+address: 4
+command: 16
+#
+name: ENTER
+type: parsed
+protocol: velleman
+address: 4
+command: 17
+#
+name: A
+type: parsed
+protocol: velleman
+address: 4
+command: 18
+#
+name: ACCOUSTIC
+type: parsed
+protocol: velleman
+address: 4
+command: 18
+#
+name: B
+type: parsed
+protocol: velleman
+address: 4
+command: 19
+#
+name: C
+type: parsed
+protocol: velleman
+address: 4
+command: 20
+#
+name: D
+type: parsed
+protocol: velleman
+address: 4
+command: 21
+#
+name: E
+type: parsed
+protocol: velleman
+address: 4
+command: 22
+#
+name: F
+type: parsed
+protocol: velleman
+address: 4
+command: 23
+#
+name: G
+type: parsed
+protocol: velleman
+address: 4
+command: 24
+#
+name: H
+type: parsed
+protocol: velleman
+address: 4
+command: 25
+#
+name: I
+type: parsed
+protocol: velleman
+address: 4
+command: 26
+#
+name: J
+type: parsed
+protocol: velleman
+address: 4
+command: 27
+#
+name: 0
+type: parsed
+protocol: velleman
+address: 4
+command: 28
+#
+name: 1
+type: parsed
+protocol: velleman
+address: 4
+command: 29
+#
+name: 2
+type: parsed
+protocol: velleman
+address: 4
+command: 30
+#
+name: 3
+type: parsed
+protocol: velleman
+address: 4
+command: 31
+#
+name: 4
+type: parsed
+protocol: velleman
+address: 4
+command: 32
+#
+name: 5
+type: parsed
+protocol: velleman
+address: 4
+command: 33
+#
+name: 6
+type: parsed
+protocol: velleman
+address: 4
+command: 34
+#
+name: 7
+type: parsed
+protocol: velleman
+address: 4
+command: 35
+#
+name: 8
+type: parsed
+protocol: velleman
+address: 4
+command: 36
+#
+name: 9
+type: parsed
+protocol: velleman
+address: 4
+command: 37
+#
+name: *  MUTE
+type: parsed
+protocol: velleman
+address: 4
+command: 38
+#
+name: *  SKIP +
+type: parsed
+protocol: velleman
+address: 4
+command: 39
+#
+name: *  SKIP -
+type: parsed
+protocol: velleman
+address: 4
+command: 40
+#
+name: *  PLAY
+type: parsed
+protocol: velleman
+address: 4
+command: 41
+#
+name: *  STOP
+type: parsed
+protocol: velleman
+address: 4
+command: 42
+#
+name: *  CHAN +
+type: parsed
+protocol: velleman
+address: 4
+command: 45
+#
+name: *  CHAN -
+type: parsed
+protocol: velleman
+address: 4
+command: 46
+#
+name: *  RECALL
+type: parsed
+protocol: velleman
+address: 4
+command: 47
+#
+name: *  ENTER
+type: parsed
+protocol: velleman
+address: 4
+command: 48
+#
+name: *  TV
+type: parsed
+protocol: velleman
+address: 4
+command: 49
+#
+name: *  ELAN
+type: parsed
+protocol: velleman
+address: 4
+command: 63
+#

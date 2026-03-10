@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 131
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 131
+command: 3
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 131
+command: 7
+#
+name: function
+type: parsed
+protocol: nec
+address: 131
+command: 12
+#
+name: display
+type: parsed
+protocol: nec
+address: 131
+command: 82
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131
+command: 83
+#
+name: dbfb
+type: parsed
+protocol: nec
+address: 131
+command: 84
+#
+name: file_select
+type: parsed
+protocol: nec
+address: 131
+command: 85
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 131
+command: 144
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 131
+command: 145
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 131
+command: 147
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 131
+command: 148
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 131
+command: 149
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 131
+command: 150
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 131
+command: 151
+#
+name: check
+type: parsed
+protocol: nec
+address: 131
+command: 153
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 131
+command: 154
+#
+name: disk_skip
+type: parsed
+protocol: nec
+address: 131
+command: 192
+#

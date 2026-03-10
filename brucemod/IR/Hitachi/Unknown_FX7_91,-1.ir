@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 91
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 91
+command: 1
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 91
+command: 2
+#
+name: TUNER_BAND
+type: parsed
+protocol: nec
+address: 91
+command: 7
+#
+name: CASSETTE_TAPE_1/2
+type: parsed
+protocol: nec
+address: 91
+command: 9
+#
+name: CD_PLAY/PAUSE
+type: parsed
+protocol: nec
+address: 91
+command: 18
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 91
+command: 19
+#
+name: CD_SKIP_FWD
+type: parsed
+protocol: nec
+address: 91
+command: 20
+#
+name: CD_SKIP_BACK
+type: parsed
+protocol: nec
+address: 91
+command: 21
+#
+name: CD_PROG
+type: parsed
+protocol: nec
+address: 91
+command: 22
+#
+name: CASSETTE_PLAY_FORWAR
+type: parsed
+protocol: nec
+address: 91
+command: 25
+#
+name: CASSETTE_PLAY_BACK
+type: parsed
+protocol: nec
+address: 91
+command: 26
+#
+name: CASSETTE_FFW
+type: parsed
+protocol: nec
+address: 91
+command: 27
+#
+name: CASSETTE_REW
+type: parsed
+protocol: nec
+address: 91
+command: 28
+#
+name: CASSETTE_STOP
+type: parsed
+protocol: nec
+address: 91
+command: 29
+#
+name: CASSETTE_REC
+type: parsed
+protocol: nec
+address: 91
+command: 31
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 91
+command: 77
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 91
+command: 78
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 91
+command: 79
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 91
+command: 80
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 91
+command: 81
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 91
+command: 82
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 91
+command: 83
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 91
+command: 84
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 91
+command: 85
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 91
+command: 86
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 91
+command: 87
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 91
+command: 91
+#

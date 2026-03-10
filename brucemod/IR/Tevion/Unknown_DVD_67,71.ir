@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 67.71
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 67.71
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 67.71
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 67.71
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 67.71
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 67.71
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 67.71
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 67.71
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 67.71
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 67.71
+command: 9
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 67.71
+command: 10
+#
+name: disc
+type: parsed
+protocol: nec
+address: 67.71
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 67.71
+command: 12
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 67.71
+command: 13
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 67.71
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 67.71
+command: 15
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 67.71
+command: 16
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 67.71
+command: 17
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 67.71
+command: 18
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 67.71
+command: 19
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 67.71
+command: 20
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 67.71
+command: 21
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 67.71
+command: 22
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 67.71
+command: 23
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 67.71
+command: 24
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 67.71
+command: 25
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 67.71
+command: 26
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 67.71
+command: 27
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 67.71
+command: 28
+#
+name: audio_eq
+type: parsed
+protocol: nec
+address: 67.71
+command: 29
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 67.71
+command: 30
+#
+name: p_i
+type: parsed
+protocol: nec
+address: 67.71
+command: 31
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 67.71
+command: 46
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 67.71
+command: 47
+#

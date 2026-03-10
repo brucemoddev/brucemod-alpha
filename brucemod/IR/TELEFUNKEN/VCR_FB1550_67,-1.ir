@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 3
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 4
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 6
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 11
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 12
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 13
+#
+name: MENU/TEXT
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 19
+#
+name: SEARCHFWD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 20
+#
+name: KEY_GREEN
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 21
+#
+name: AUDIO-MONITOR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 23
+#
+name: CURSORLEFT
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 24
+#
+name: CURSORRIGHT
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 25
+#
+name: KEY_MENU
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 30
+#
+name: KEY_1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 41
+#
+name: SP/LP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 49
+#
+name: KEY_0
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 51
+#
+name: VPS/CHANNEL
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 52
+#
+name: KEY_DELETE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 54
+#
+name: PROGR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 55
+#
+name: DISPLAY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 56
+#
+name: KEY_0
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 57
+#
+name: TARGET
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 59
+#
+name: KEY_SELECT
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 60
+#
+name: D/W/MEMORY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 62
+#
+name: RINGRIGHTPROG
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 128
+#
+name: RINGLEFTPROG
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 132
+#
+name: INDEX
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 145
+#
+name: SETMARKE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 147
+#
+name: ERASEMARK
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 148
+#
+name: SEEK-INTERVAL/-EMPTY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 150
+#
+name: SEEKMARK
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 151
+#
+name: JOGTAPE-1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 175
+#
+name: RINGTAPE-6
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 177
+#
+name: RINGTAPE-5
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 178
+#
+name: RINGTAPE-4
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 179
+#
+name: RINGTAPE-3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 180
+#
+name: RINGTAPE-2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 181
+#
+name: RINGTAPE-1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 182
+#
+name: RINGTAPE+1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 185
+#
+name: RINGTAPE+2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 186
+#
+name: RINGTAPE+3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 187
+#
+name: RINGTAPE+4
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 188
+#
+name: RINGTAPE+5
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 189
+#
+name: RINGTAPE+6
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 190
+#
+name: KEY_RECORD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 204
+#
+name: SEARCHBWD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 213
+#
+name: JOGTAPE-3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 216
+#
+name: JOGTAPE-2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 217
+#
+name: JOGTAPE+2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 218
+#
+name: JOGTAPE+3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 219
+#
+name: JOGTAPE+1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 237
+#

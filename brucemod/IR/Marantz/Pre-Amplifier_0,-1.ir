@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUX1 AMS ./..
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#

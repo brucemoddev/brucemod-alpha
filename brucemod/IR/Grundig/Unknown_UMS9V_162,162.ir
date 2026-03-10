@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNE_DOWN
+type: parsed
+protocol: necx1
+address: 162.162
+command: 4
+#
+name: MODE_remain
+type: parsed
+protocol: necx1
+address: 162.162
+command: 5
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 6
+#
+name: KEY_TUNER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 7
+#
+name: TUNE_UP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 12
+#
+name: RANDOM
+type: parsed
+protocol: necx1
+address: 162.162
+command: 13
+#
+name: BAND
+type: parsed
+protocol: necx1
+address: 162.162
+command: 14
+#
+name: KEY_CD
+type: parsed
+protocol: necx1
+address: 162.162
+command: 15
+#
+name: KEY_PLAY
+type: parsed
+protocol: necx1
+address: 162.162
+command: 19
+#
+name: MEMORY_clock
+type: parsed
+protocol: necx1
+address: 162.162
+command: 20
+#
+name: INTRO
+type: parsed
+protocol: necx1
+address: 162.162
+command: 21
+#
+name: KEY_SLEEP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 23
+#
+name: KEY_STOP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 27
+#
+name: REPEAT_PRESET
+type: parsed
+protocol: necx1
+address: 162.162
+command: 28
+#
+name: BASS
+type: parsed
+protocol: necx1
+address: 162.162
+command: 29
+#
+name: KEY_TAPE
+type: parsed
+protocol: necx1
+address: 162.162
+command: 30
+#
+name: TIMER
+type: parsed
+protocol: necx1
+address: 162.162
+command: 31
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 162.162
+command: 32
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 162.162
+command: 96
+#

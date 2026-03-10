@@ -1,0 +1,591 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: pioneer
+address: 168
+command: 0
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 168
+command: 1
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 168
+command: 2
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 168
+command: 3
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 168
+command: 4
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 168
+command: 5
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 168
+command: 6
+#
+name: 7
+type: parsed
+protocol: pioneer
+address: 168
+command: 7
+#
+name: 8
+type: parsed
+protocol: pioneer
+address: 168
+command: 8
+#
+name: 9
+type: parsed
+protocol: pioneer
+address: 168
+command: 9
+#
+name: DIGITAL/ANALOG
+type: parsed
+protocol: pioneer
+address: 168
+command: 12
+#
+name: DIGITAL/ANALOG/CX
+type: parsed
+protocol: pioneer
+address: 168
+command: 12
+#
+name: DIGITAL
+type: parsed
+protocol: pioneer
+address: 168
+command: 12
+#
+name: FILE
+type: parsed
+protocol: pioneer
+address: 168
+command: 13
+#
+name: CX
+type: parsed
+protocol: pioneer
+address: 168
+command: 14
+#
+name: FWD >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 16
+#
+name: FFWD>>
+type: parsed
+protocol: pioneer
+address: 168
+command: 16
+#
+name: REV <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 17
+#
+name: REW<<
+type: parsed
+protocol: pioneer
+address: 168
+command: 17
+#
+name: MENU
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: CHAPTER
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: STOP/OPEN []
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: STOP []
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: STOP/OPEN
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: PLAY >
+type: parsed
+protocol: pioneer
+address: 168
+command: 23
+#
+name: PLAY>
+type: parsed
+protocol: pioneer
+address: 168
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 24
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 25
+#
+name: LAST MEMORY
+type: parsed
+protocol: pioneer
+address: 168
+command: 25
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 168
+command: 28
+#
+name: AUTO EDIT
+type: parsed
+protocol: pioneer
+address: 168
+command: 29
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: AUDIO D/A
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: AUDIO
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: +10
+type: parsed
+protocol: pioneer
+address: 168
+command: 31
+#
+name: JOG FWD
+type: parsed
+protocol: pioneer
+address: 168
+command: 32
+#
+name: JOG FWD >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 32
+#
+name: JOG REV
+type: parsed
+protocol: pioneer
+address: 168
+command: 36
+#
+name: JOG REV <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 36
+#
+name: SCAN X2 FWD
+type: parsed
+protocol: pioneer
+address: 168
+command: 40
+#
+name: SCAN FWD
+type: parsed
+protocol: pioneer
+address: 168
+command: 40
+#
+name: SCAN FWD(CLEAR SCAN)
+type: parsed
+protocol: pioneer
+address: 168
+command: 40
+#
+name: SCAN FWD(SLOW SP)
+type: parsed
+protocol: pioneer
+address: 168
+command: 40
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 41
+#
+name: SCAN FWD(LOW SCAN)
+type: parsed
+protocol: pioneer
+address: 168
+command: 41
+#
+name: SCAN FWD(MED-SLOW)
+type: parsed
+protocol: pioneer
+address: 168
+command: 41
+#
+name: SCAN FWD(MED-HIGH)
+type: parsed
+protocol: pioneer
+address: 168
+command: 42
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: SCAN FWD(HIGH SCAN)
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: SHUTTLE FWD(F.S)
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: SHUTTLE FWD >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: SCAN FWD(FULL SP)
+type: parsed
+protocol: pioneer
+address: 168
+command: 43
+#
+name: SCAN X2 REV
+type: parsed
+protocol: pioneer
+address: 168
+command: 44
+#
+name: SCAN REV(CLEAR SCAN)
+type: parsed
+protocol: pioneer
+address: 168
+command: 44
+#
+name: SCAN REV(SLOW SP)
+type: parsed
+protocol: pioneer
+address: 168
+command: 44
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 168
+command: 45
+#
+name: SCAN REV(LOW SCAN)
+type: parsed
+protocol: pioneer
+address: 168
+command: 45
+#
+name: SCAN REV(MED-SLOW)
+type: parsed
+protocol: pioneer
+address: 168
+command: 45
+#
+name: SCAN REV(MED-HIGH)
+type: parsed
+protocol: pioneer
+address: 168
+command: 46
+#
+name: SCAN REV(HIGH SCAN)
+type: parsed
+protocol: pioneer
+address: 168
+command: 47
+#
+name: SHUTTLE REV(F.S)
+type: parsed
+protocol: pioneer
+address: 168
+command: 47
+#
+name: SHUTTLE REW <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 47
+#
+name: SCAN REV(FULL SP)
+type: parsed
+protocol: pioneer
+address: 168
+command: 47
+#
+name: DIGITAL LEVEL
+type: parsed
+protocol: pioneer
+address: 168
+command: 55
+#
+name: AUDIO COMPRESS
+type: parsed
+protocol: pioneer
+address: 168
+command: 55
+#
+name: ENTER
+type: parsed
+protocol: pioneer
+address: 168
+command: 66
+#
+name: DISPLAY
+type: parsed
+protocol: pioneer
+address: 168
+command: 67
+#
+name: REPEAT B
+type: parsed
+protocol: pioneer
+address: 168
+command: 68
+#
+name: REPEAT A
+type: parsed
+protocol: pioneer
+address: 168
+command: 68
+#
+name: C (CANCEL)
+type: parsed
+protocol: pioneer
+address: 168
+command: 69
+#
+name: CANCEL
+type: parsed
+protocol: pioneer
+address: 168
+command: 69
+#
+name: SEARCH -
+type: parsed
+protocol: pioneer
+address: 168
+command: 70
+#
+name: SEARCH +
+type: parsed
+protocol: pioneer
+address: 168
+command: 71
+#
+name: REPEAT A
+type: parsed
+protocol: pioneer
+address: 168
+command: 72
+#
+name: REPEAT B
+type: parsed
+protocol: pioneer
+address: 168
+command: 72
+#
+name: PROGRAM
+type: parsed
+protocol: pioneer
+address: 168
+command: 76
+#
+name: SIDE A
+type: parsed
+protocol: pioneer
+address: 168
+command: 77
+#
+name: DISC SIDE A
+type: parsed
+protocol: pioneer
+address: 168
+command: 77
+#
+name: SIDE B
+type: parsed
+protocol: pioneer
+address: 168
+command: 78
+#
+name: DISC SIDE B
+type: parsed
+protocol: pioneer
+address: 168
+command: 78
+#
+name: FRAME <
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: STEP <
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: FS (FWD SRCH) >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 82
+#
+name: FS >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 82
+#
+name: SRCH FWD (FS)>>
+type: parsed
+protocol: pioneer
+address: 168
+command: 82
+#
+name: RS (REV SRCH) <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 83
+#
+name: RS <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 83
+#
+name: SRCH REV (RS)<<
+type: parsed
+protocol: pioneer
+address: 168
+command: 83
+#
+name: FRAME >
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#
+name: STEP >
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#
+name: SEARCH <
+type: parsed
+protocol: pioneer
+address: 168
+command: 85
+#
+name: SEARCH >
+type: parsed
+protocol: pioneer
+address: 168
+command: 88
+#
+name: HILITE/INTRO SCAN
+type: parsed
+protocol: pioneer
+address: 168
+command: 90
+#
+name: STROBE
+type: parsed
+protocol: pioneer
+address: 168
+command: 91
+#
+name: STILL/W SOUND
+type: parsed
+protocol: pioneer
+address: 168
+command: 91
+#
+name: ONE SHOT MEMORY
+type: parsed
+protocol: pioneer
+address: 168
+command: 93
+#
+name: RANDOM
+type: parsed
+protocol: pioneer
+address: 168
+command: 94
+#

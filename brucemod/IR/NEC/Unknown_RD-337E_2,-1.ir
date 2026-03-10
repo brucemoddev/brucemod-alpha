@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CH_UP
+type: parsed
+protocol: Proton
+address: 2
+command: 1
+#
+name: CH_DOWN
+type: parsed
+protocol: Proton
+address: 2
+command: 2
+#
+name: VOLUME_UP
+type: parsed
+protocol: Proton
+address: 2
+command: 3
+#
+name: VOLUME_DOWN
+type: parsed
+protocol: Proton
+address: 2
+command: 4
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 2
+command: 9
+#
+name: RETURN
+type: parsed
+protocol: Proton
+address: 2
+command: 10
+#
+name: OFF_TIMER
+type: parsed
+protocol: Proton
+address: 2
+command: 12
+#
+name: TV/VIDEO
+type: parsed
+protocol: Proton
+address: 2
+command: 13
+#
+name: OPERATE
+type: parsed
+protocol: Proton
+address: 2
+command: 14
+#
+name: CH-CALL
+type: parsed
+protocol: Proton
+address: 2
+command: 15
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 2
+command: 16
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 2
+command: 17
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 2
+command: 18
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 2
+command: 19
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 2
+command: 20
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 2
+command: 21
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 2
+command: 22
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 2
+command: 23
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 2
+command: 24
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 2
+command: 25
+#
+name: 1*
+type: parsed
+protocol: Proton
+address: 2
+command: 26
+#
+name: 2*
+type: parsed
+protocol: Proton
+address: 2
+command: 27
+#
+name: 3*
+type: parsed
+protocol: Proton
+address: 2
+command: 28
+#
+name: 4*
+type: parsed
+protocol: Proton
+address: 2
+command: 29
+#
+name: ON_TIMER
+type: parsed
+protocol: Proton
+address: 2
+command: 52
+#
+name: HOUR
+type: parsed
+protocol: Proton
+address: 2
+command: 53
+#
+name: MINUTE
+type: parsed
+protocol: Proton
+address: 2
+command: 54
+#
+name: PICTURE
+type: parsed
+protocol: Proton
+address: 2
+command: 88
+#
+name: CONTROL_UP
+type: parsed
+protocol: Proton
+address: 2
+command: 89
+#
+name: CONTROL_DOWN
+type: parsed
+protocol: Proton
+address: 2
+command: 90
+#
+name: RESET
+type: parsed
+protocol: Proton
+address: 2
+command: 91
+#

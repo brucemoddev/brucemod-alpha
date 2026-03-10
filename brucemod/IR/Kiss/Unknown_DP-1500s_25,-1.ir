@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 25
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 25
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 25
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 25
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 25
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 25
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 25
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 25
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 25
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 25
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 25
+command: 12
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 25
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 25
+command: 17
+#
+name: chap+
+type: parsed
+protocol: rc5
+address: 25
+command: 32
+#
+name: chap-
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: del
+type: parsed
+protocol: rc5
+address: 25
+command: 41
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: rc5
+address: 25
+command: 45
+#
+name: step
+type: parsed
+protocol: rc5
+address: 25
+command: 48
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 25
+command: 50
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 25
+command: 52
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 25
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 25
+command: 54
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc5
+address: 25
+command: 64
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: rc5
+address: 25
+command: 65
+#
+name: KEY_TITLE
+type: parsed
+protocol: rc5
+address: 25
+command: 66
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 25
+command: 67
+#
+name: KEY_ZOOM
+type: parsed
+protocol: rc5
+address: 25
+command: 68
+#
+name: KEY_AUDIO
+type: parsed
+protocol: rc5
+address: 25
+command: 69
+#
+name: mark
+type: parsed
+protocol: rc5
+address: 25
+command: 70
+#
+name: KEY_BACK
+type: parsed
+protocol: rc5
+address: 25
+command: 72
+#
+name: KEY_ANGLE
+type: parsed
+protocol: rc5
+address: 25
+command: 73
+#
+name: KEY_SETUP
+type: parsed
+protocol: rc5
+address: 25
+command: 74
+#
+name: KEY_SEARCH
+type: parsed
+protocol: rc5
+address: 25
+command: 76
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 25
+command: 80
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 25
+command: 81
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 25
+command: 85
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 25
+command: 86
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 25
+command: 87
+#

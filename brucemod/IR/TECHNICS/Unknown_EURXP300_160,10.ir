@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 0
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 10
+#
+name: KEY_1
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 18
+#
+name: KEY_4
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 19
+#
+name: KEY_5
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 22
+#
+name: KEY_8
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 23
+#
+name: KEY_9
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 24
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 25
+#
+name: LEVEL_UP
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 32
+#
+name: LEVEL_DOWN
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 33
+#
+name: M.SCAN
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 70
+#
+name: KEY_AGAIN
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 71
+#
+name: REPEAT_A-B
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 72
+#
+name: KEY_NEXT
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 73
+#
+name: KEY_SEARCH
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 74
+#
+name: KEY_CLEAR
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 128
+#
+name: KEY_AGAIN
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 129
+#
+name: >10
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 132
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 133
+#
+name: PROGRAM
+type: parsed
+protocol: panasonic
+address: 160.10
+command: 138
+#

@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_HOME
+type: parsed
+protocol: sony20
+address: 26.241
+command: 38
+#
+name: BTN_TRIGGER
+type: parsed
+protocol: sony20
+address: 26.241
+command: 45
+#
+name: KEY_MENU
+type: parsed
+protocol: sony20
+address: 26.241
+command: 56
+#
+name: BTN_SELECT
+type: parsed
+protocol: sony20
+address: 26.241
+command: 57
+#
+name: KEY_UP
+type: parsed
+protocol: sony20
+address: 26.241
+command: 58
+#
+name: KEY_DOWN
+type: parsed
+protocol: sony20
+address: 26.241
+command: 59
+#
+name: BTN_LEFT
+type: parsed
+protocol: sony20
+address: 26.241
+command: 62
+#
+name: BTN_RIGHT
+type: parsed
+protocol: sony20
+address: 26.241
+command: 63
+#
+name: BTN_EXTRA
+type: parsed
+protocol: sony20
+address: 26.241
+command: 71
+#
+name: KEY_T
+type: parsed
+protocol: sony20
+address: 26.241
+command: 74
+#
+name: KEY_W
+type: parsed
+protocol: sony20
+address: 26.241
+command: 75
+#

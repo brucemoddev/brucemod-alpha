@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: denon_1
+address: 6
+command: 193
+#
+name: KEY_2
+type: parsed
+protocol: denon_1
+address: 6
+command: 194
+#
+name: KEY_3
+type: parsed
+protocol: denon_1
+address: 6
+command: 195
+#
+name: KEY_4
+type: parsed
+protocol: denon_1
+address: 6
+command: 196
+#
+name: KEY_5
+type: parsed
+protocol: denon_1
+address: 6
+command: 197
+#
+name: KEY_6
+type: parsed
+protocol: denon_1
+address: 6
+command: 198
+#
+name: KEY_7
+type: parsed
+protocol: denon_1
+address: 6
+command: 199
+#
+name: KEY_8
+type: parsed
+protocol: denon_1
+address: 6
+command: 200
+#
+name: KEY_9
+type: parsed
+protocol: denon_1
+address: 6
+command: 201
+#
+name: KEY_0
+type: parsed
+protocol: denon_1
+address: 6
+command: 202
+#
+name: CHAR
+type: parsed
+protocol: denon_1
+address: 6
+command: 221
+#
+name: KEY_OK
+type: parsed
+protocol: denon_1
+address: 6
+command: 222
+#
+name: KEY_CLEAR
+type: parsed
+protocol: denon_1
+address: 6
+command: 223
+#
+name: KEY_POWER
+type: parsed
+protocol: denon_1
+address: 6
+command: 224
+#
+name: KEY_STOP
+type: parsed
+protocol: denon_1
+address: 6
+command: 225
+#
+name: KEY_PLAY
+type: parsed
+protocol: denon_1
+address: 6
+command: 226
+#
+name: KEY_PAUSE
+type: parsed
+protocol: denon_1
+address: 6
+command: 227
+#
+name: KEY_RECORD
+type: parsed
+protocol: denon_1
+address: 6
+command: 229
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: denon_1
+address: 6
+command: 230
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: denon_1
+address: 6
+command: 232
+#
+name: KEY_NEXT
+type: parsed
+protocol: denon_1
+address: 6
+command: 233
+#
+name: PREV_TRACK
+type: parsed
+protocol: denon_1
+address: 6
+command: 234
+#
+name: KEY_FORWARD
+type: parsed
+protocol: denon_1
+address: 6
+command: 235
+#
+name: KEY_BACK
+type: parsed
+protocol: denon_1
+address: 6
+command: 236
+#
+name: KEY_EDIT
+type: parsed
+protocol: denon_1
+address: 6
+command: 239
+#
+name: PROG
+type: parsed
+protocol: denon_1
+address: 6
+command: 240
+#
+name: KEY_AGAIN
+type: parsed
+protocol: denon_1
+address: 6
+command: 241
+#
+name: RANDOM
+type: parsed
+protocol: denon_1
+address: 6
+command: 243
+#
+name: KEY_TIME
+type: parsed
+protocol: denon_1
+address: 6
+command: 244
+#
+name: KEY_TITLE
+type: parsed
+protocol: denon_1
+address: 6
+command: 245
+#
+name: CALL
+type: parsed
+protocol: denon_1
+address: 6
+command: 246
+#

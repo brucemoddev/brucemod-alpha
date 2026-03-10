@@ -1,0 +1,597 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 65
+#
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 66
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 67
+#
+name: AUX/VIDEO-1
+type: parsed
+protocol: denon
+address: 2
+command: 68
+#
+name: AUX/VIDEO-2
+type: parsed
+protocol: denon
+address: 2
+command: 69
+#
+name: MUTING
+type: parsed
+protocol: denon
+address: 2
+command: 75
+#
+name: VOLUME -
+type: parsed
+protocol: denon
+address: 2
+command: 76
+#
+name: VOLUME +
+type: parsed
+protocol: denon
+address: 2
+command: 77
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 2
+command: 80
+#
+name: TAPE MONITOR
+type: parsed
+protocol: denon
+address: 2
+command: 88
+#
+name: TAPE-1/1>2
+type: parsed
+protocol: denon
+address: 2
+command: 89
+#
+name: TAPE-2/2>1
+type: parsed
+protocol: denon
+address: 2
+command: 90
+#
+name: PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 129
+#
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 130
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 131
+#
+name: AUX
+type: parsed
+protocol: denon
+address: 2
+command: 132
+#
+name: MUTING
+type: parsed
+protocol: denon
+address: 2
+command: 139
+#
+name: VOLUME V
+type: parsed
+protocol: denon
+address: 2
+command: 140
+#
+name: VOLUME ^
+type: parsed
+protocol: denon
+address: 2
+command: 141
+#
+name: AMP POWER
+type: parsed
+protocol: denon
+address: 2
+command: 144
+#
+name: SOURCE DIRECT
+type: parsed
+protocol: denon
+address: 2
+command: 145
+#
+name: TAPE-1
+type: parsed
+protocol: denon
+address: 2
+command: 153
+#
+name: TAPE-2
+type: parsed
+protocol: denon
+address: 2
+command: 154
+#
+name: SP-A
+type: parsed
+protocol: denon
+address: 2
+command: 172
+#
+name: SP-B
+type: parsed
+protocol: denon
+address: 2
+command: 173
+#
+name: SURR.AUT.BAL
+type: parsed
+protocol: denon
+address: 2
+command: 192
+#
+name: AMP POWER
+type: parsed
+protocol: denon
+address: 2
+command: 193
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 2
+command: 193
+#
+name: AMP PHONO
+type: parsed
+protocol: denon
+address: 2
+command: 195
+#
+name: AMP CD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: CD
+type: parsed
+protocol: denon
+address: 2
+command: 196
+#
+name: AMP TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: TUNER
+type: parsed
+protocol: denon
+address: 2
+command: 197
+#
+name: AUX
+type: parsed
+protocol: denon
+address: 2
+command: 198
+#
+name: AMP DBS/BS
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: DBS/BS
+type: parsed
+protocol: denon
+address: 2
+command: 200
+#
+name: TV
+type: parsed
+protocol: denon
+address: 2
+command: 201
+#
+name: AMP VDP
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: VDP
+type: parsed
+protocol: denon
+address: 2
+command: 202
+#
+name: AMP V.AUX
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: V.AUX
+type: parsed
+protocol: denon
+address: 2
+command: 204
+#
+name: AMP VCR-1
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: VCR-1
+type: parsed
+protocol: denon
+address: 2
+command: 205
+#
+name: AMP VCR-2
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: VCR-2
+type: parsed
+protocol: denon
+address: 2
+command: 206
+#
+name: AMP DAT/TAPE-1
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: TAPE-1
+type: parsed
+protocol: denon
+address: 2
+command: 210
+#
+name: AMP DAT/TAPE-2
+type: parsed
+protocol: denon
+address: 2
+command: 211
+#
+name: DAT/TAPE-2
+type: parsed
+protocol: denon
+address: 2
+command: 211
+#
+name: AMP CINEMA
+type: parsed
+protocol: denon
+address: 2
+command: 213
+#
+name: CINEMA
+type: parsed
+protocol: denon
+address: 2
+command: 213
+#
+name: AMP VIDEO SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 216
+#
+name: VIDEO SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 216
+#
+name: AMP A.V.S.E
+type: parsed
+protocol: denon
+address: 2
+command: 217
+#
+name: A.V.S.E
+type: parsed
+protocol: denon
+address: 2
+command: 217
+#
+name: AMP REC SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 219
+#
+name: AUDIO REC SELECT
+type: parsed
+protocol: denon
+address: 2
+command: 219
+#
+name: AMP PANEL
+type: parsed
+protocol: denon
+address: 2
+command: 222
+#
+name: PANEL
+type: parsed
+protocol: denon
+address: 2
+command: 222
+#
+name: AMP SCREEN
+type: parsed
+protocol: denon
+address: 2
+command: 223
+#
+name: ON SCREEN
+type: parsed
+protocol: denon
+address: 2
+command: 223
+#
+name: AMP CENTER MODE
+type: parsed
+protocol: denon
+address: 2
+command: 228
+#
+name: SURROUND CENTER
+type: parsed
+protocol: denon
+address: 2
+command: 228
+#
+name: AMP SURR.MODE
+type: parsed
+protocol: denon
+address: 2
+command: 230
+#
+name: SURROUND MODE
+type: parsed
+protocol: denon
+address: 2
+command: 230
+#
+name: AMP BYPASS
+type: parsed
+protocol: denon
+address: 2
+command: 231
+#
+name: AMP DELAY V
+type: parsed
+protocol: denon
+address: 2
+command: 232
+#
+name: SURR.DELAY V
+type: parsed
+protocol: denon
+address: 2
+command: 232
+#
+name: AMP DELAY ^
+type: parsed
+protocol: denon
+address: 2
+command: 233
+#
+name: SURR.DELAY ^
+type: parsed
+protocol: denon
+address: 2
+command: 233
+#
+name: AMP T.TONE
+type: parsed
+protocol: denon
+address: 2
+command: 234
+#
+name: SURR./PARAM.T.TONE
+type: parsed
+protocol: denon
+address: 2
+command: 234
+#
+name: 3CH LOGIC
+type: parsed
+protocol: denon
+address: 2
+command: 235
+#
+name: AMP CENTER
+type: parsed
+protocol: denon
+address: 2
+command: 236
+#
+name: OUTPUT CENTER
+type: parsed
+protocol: denon
+address: 2
+command: 236
+#
+name: AMP REAR
+type: parsed
+protocol: denon
+address: 2
+command: 237
+#
+name: OUTPUT REAR
+type: parsed
+protocol: denon
+address: 2
+command: 237
+#
+name: AMP SP-A
+type: parsed
+protocol: denon
+address: 2
+command: 238
+#
+name: OUTPUT FRONT
+type: parsed
+protocol: denon
+address: 2
+command: 238
+#
+name: AMP SP-B
+type: parsed
+protocol: denon
+address: 2
+command: 239
+#
+name: AMP MUTING
+type: parsed
+protocol: denon
+address: 2
+command: 240
+#
+name: MUTING
+type: parsed
+protocol: denon
+address: 2
+command: 240
+#
+name: AMP MASTER VOL ^
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: MASTER ^
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: AMP MASTER VOL V
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#
+name: MASTER V
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#
+name: AMP REAR ^
+type: parsed
+protocol: denon
+address: 2
+command: 243
+#
+name: SURR.REAR ^
+type: parsed
+protocol: denon
+address: 2
+command: 243
+#
+name: AMP REAR V
+type: parsed
+protocol: denon
+address: 2
+command: 244
+#
+name: SURR.REAR V
+type: parsed
+protocol: denon
+address: 2
+command: 244
+#
+name: AMP CENTER ^
+type: parsed
+protocol: denon
+address: 2
+command: 245
+#
+name: SURR.CENTER ^
+type: parsed
+protocol: denon
+address: 2
+command: 245
+#
+name: AMP CENTER V
+type: parsed
+protocol: denon
+address: 2
+command: 246
+#
+name: SURR.CENTER V
+type: parsed
+protocol: denon
+address: 2
+command: 246
+#
+name: AMP BALANCE <
+type: parsed
+protocol: denon
+address: 2
+command: 247
+#
+name: SURR.BAL <
+type: parsed
+protocol: denon
+address: 2
+command: 247
+#
+name: AMP BALANCE >
+type: parsed
+protocol: denon
+address: 2
+command: 248
+#
+name: SURR.BAL >
+type: parsed
+protocol: denon
+address: 2
+command: 248
+#
+name: AMP VDP DIRECT
+type: parsed
+protocol: denon
+address: 2
+command: 255
+#

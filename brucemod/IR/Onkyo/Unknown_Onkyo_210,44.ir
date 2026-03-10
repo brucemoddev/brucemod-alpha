@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FWD_SEEK
+type: parsed
+protocol: nec
+address: 210.44
+command: 0
+#
+name: REV_SEEK
+type: parsed
+protocol: nec
+address: 210.44
+command: 1
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 210.44
+command: 5
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 210.44
+command: 6
+#
+name: A_B
+type: parsed
+protocol: nec
+address: 210.44
+command: 7
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 210.44
+command: 8
+#
+name: MEMORY
+type: parsed
+protocol: nec
+address: 210.44
+command: 9
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 210.44
+command: 10
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 210.44
+command: 11
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 210.44
+command: 12
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 210.44
+command: 13
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 210.44
+command: 14
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 210.44
+command: 15
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 210.44
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 210.44
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 210.44
+command: 18
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 210.44
+command: 19
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 210.44
+command: 24
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 210.44
+command: 25
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 210.44
+command: 26
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 210.44
+command: 27
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 210.44
+command: 28
+#
+name: FWD_SKIP
+type: parsed
+protocol: nec
+address: 210.44
+command: 29
+#
+name: REV_SKIP
+type: parsed
+protocol: nec
+address: 210.44
+command: 30
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 210.44
+command: 31
+#
+name: SHUFFLE
+type: parsed
+protocol: nec
+address: 210.44
+command: 70
+#
+name: TIME_EDIT
+type: parsed
+protocol: nec
+address: 210.44
+command: 77
+#
+name: PEAK_SEARCH
+type: parsed
+protocol: nec
+address: 210.44
+command: 93
+#

@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 5
+type: parsed
+protocol: nec1
+address: 0
+command: 128
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0
+command: 129
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0
+command: 130
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0
+command: 131
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 0
+command: 136
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0
+command: 140
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0
+command: 141
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0
+command: 143
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0
+command: 144
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 0
+command: 144
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 0
+command: 145
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 0
+command: 147
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 0
+command: 147
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0
+command: 192
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0
+command: 193
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 0
+command: 194
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 0
+command: 196
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 0
+command: 197
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0
+command: 198
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 0
+command: 200
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 0
+command: 201
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 0
+command: 204
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0
+command: 205
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0
+command: 208
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0
+command: 209
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0
+command: 210
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 0
+command: 210
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 0
+command: 211
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 0
+command: 215
+#

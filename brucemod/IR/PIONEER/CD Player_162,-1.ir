@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PROGRAM
+type: parsed
+protocol: pioneer
+address: 162
+command: 13
+#
+name: PGM
+type: parsed
+protocol: pioneer
+address: 162
+command: 13
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 162
+command: 14
+#
+name: FF
+type: parsed
+protocol: pioneer
+address: 162
+command: 14
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 162
+command: 15
+#
+name: REW
+type: parsed
+protocol: pioneer
+address: 162
+command: 15
+#
+name: SKIP I<<
+type: parsed
+protocol: pioneer
+address: 162
+command: 16
+#
+name: NEXT
+type: parsed
+protocol: pioneer
+address: 162
+command: 16
+#
+name: SKIP >>I
+type: parsed
+protocol: pioneer
+address: 162
+command: 17
+#
+name: PREV
+type: parsed
+protocol: pioneer
+address: 162
+command: 17
+#
+name: STOP
+type: parsed
+protocol: pioneer
+address: 162
+command: 22
+#
+name: PLAY
+type: parsed
+protocol: pioneer
+address: 162
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 162
+command: 24
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 162
+command: 28
+#
+name: DISC 1
+type: parsed
+protocol: pioneer
+address: 162
+command: 30
+#
+name: DISC 2
+type: parsed
+protocol: pioneer
+address: 162
+command: 31
+#
+name: CLEAR
+type: parsed
+protocol: pioneer
+address: 162
+command: 69
+#
+name: CHECK
+type: parsed
+protocol: pioneer
+address: 162
+command: 73
+#
+name: RANDOM
+type: parsed
+protocol: pioneer
+address: 162
+command: 74
+#
+name: DISC 3
+type: parsed
+protocol: pioneer
+address: 162
+command: 80
+#
+name: DISC 4
+type: parsed
+protocol: pioneer
+address: 162
+command: 80
+#
+name: DISC 4
+type: parsed
+protocol: pioneer
+address: 162
+command: 83
+#
+name: DISC 5
+type: parsed
+protocol: pioneer
+address: 162
+command: 87
+#
+name: DISC 6
+type: parsed
+protocol: pioneer
+address: 162
+command: 91
+#
+name: DELETE
+type: parsed
+protocol: pioneer
+address: 162
+command: 93
+#
+name: HI-LITE SCAN
+type: parsed
+protocol: pioneer
+address: 162
+command: 94
+#

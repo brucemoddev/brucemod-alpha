@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony20
+address: 26.83
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony20
+address: 26.83
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 26.83
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 26.83
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 26.83
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 26.83
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony20
+address: 26.83
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony20
+address: 26.83
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony20
+address: 26.83
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony20
+address: 26.83
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony20
+address: 26.83
+command: 11
+#
+name: CH UP
+type: parsed
+protocol: sony20
+address: 26.83
+command: 16
+#
+name: CH DN
+type: parsed
+protocol: sony20
+address: 26.83
+command: 17
+#
+name: POWER
+type: parsed
+protocol: sony20
+address: 26.83
+command: 21
+#
+name: AUDIO
+type: parsed
+protocol: sony20
+address: 26.83
+command: 23
+#
+name: STOP
+type: parsed
+protocol: sony20
+address: 26.83
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony20
+address: 26.83
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony20
+address: 26.83
+command: 26
+#
+name: SCAN/SLOW <<
+type: parsed
+protocol: sony20
+address: 26.83
+command: 27
+#
+name: SCAN/SLOW >>
+type: parsed
+protocol: sony20
+address: 26.83
+command: 28
+#
+name: RECORD
+type: parsed
+protocol: sony20
+address: 26.83
+command: 29
+#
+name: SURROUND
+type: parsed
+protocol: sony20
+address: 26.83
+command: 30
+#
+name: TOP MENU
+type: parsed
+protocol: sony20
+address: 26.83
+command: 34
+#
+name: MENU
+type: parsed
+protocol: sony20
+address: 26.83
+command: 35
+#
+name: RETURN
+type: parsed
+protocol: sony20
+address: 26.83
+command: 36
+#
+name: TV/VIDEO
+type: parsed
+protocol: sony20
+address: 26.83
+command: 42
+#
+name: BOOKMARK/SEARCH MENU
+type: parsed
+protocol: sony20
+address: 26.83
+command: 48
+#
+name: CURSOR UP
+type: parsed
+protocol: sony20
+address: 26.83
+command: 66
+#
+name: CURSOR DN
+type: parsed
+protocol: sony20
+address: 26.83
+command: 67
+#
+name: VCR +
+type: parsed
+protocol: sony20
+address: 26.83
+command: 76
+#
+name: SET UP
+type: parsed
+protocol: sony20
+address: 26.83
+command: 77
+#
+name: INPUT SELECT
+type: parsed
+protocol: sony20
+address: 26.83
+command: 79
+#
+name: NEXT >
+type: parsed
+protocol: sony20
+address: 26.83
+command: 86
+#
+name: < PREV
+type: parsed
+protocol: sony20
+address: 26.83
+command: 87
+#
+name: SP/EP
+type: parsed
+protocol: sony20
+address: 26.83
+command: 88
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 26.83
+command: 90
+#
+name: REPEAT/REPLAY
+type: parsed
+protocol: sony20
+address: 26.83
+command: 91
+#
+name: SKIP >
+type: parsed
+protocol: sony20
+address: 26.83
+command: 93
+#
+name: SUBTITLE/TIMER
+type: parsed
+protocol: sony20
+address: 26.83
+command: 96
+#
+name: CURSOR RT
+type: parsed
+protocol: sony20
+address: 26.83
+command: 97
+#
+name: CURSOR LF
+type: parsed
+protocol: sony20
+address: 26.83
+command: 98
+#
+name: CLEAR
+type: parsed
+protocol: sony20
+address: 26.83
+command: 99
+#
+name: ANGLE
+type: parsed
+protocol: sony20
+address: 26.83
+command: 101
+#
+name: VIDEO
+type: parsed
+protocol: sony20
+address: 26.83
+command: 105
+#
+name: DVD
+type: parsed
+protocol: sony20
+address: 26.83
+command: 106
+#
+name: MUTE/ZOOM
+type: parsed
+protocol: sony20
+address: 26.83
+command: 121
+#

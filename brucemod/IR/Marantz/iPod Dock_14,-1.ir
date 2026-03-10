@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: rc5
+address: 14
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 14
+command: 13
+#

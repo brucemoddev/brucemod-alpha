@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 2.255
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec
+address: 2.255
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec
+address: 2.255
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec
+address: 2.255
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 2.255
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec
+address: 2.255
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 2.255
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 2.255
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec
+address: 2.255
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 2.255
+command: 9
+#
+name: DELETE
+type: parsed
+protocol: nec
+address: 2.255
+command: 10
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 2.255
+command: 12
+#
+name: BANK
+type: parsed
+protocol: nec
+address: 2.255
+command: 13
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 2.255
+command: 14
+#
+name: CHANNEL +
+type: parsed
+protocol: nec
+address: 2.255
+command: 16
+#
+name: MEMO
+type: parsed
+protocol: nec1
+address: 2.255
+command: 17
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 2.255
+command: 18
+#
+name: ENTER
+type: parsed
+protocol: nec
+address: 2.255
+command: 19
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 2.255
+command: 20
+#
+name: CATAGORY LEFT
+type: parsed
+protocol: nec1
+address: 2.255
+command: 21
+#
+name: CATAGORY RIGHT
+type: parsed
+protocol: nec1
+address: 2.255
+command: 22
+#
+name: DIRECT
+type: parsed
+protocol: nec
+address: 2.255
+command: 23
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 2.255
+command: 24
+#
+name: SEEK MODE
+type: parsed
+protocol: nec
+address: 2.255
+command: 25
+#
+name: &()-
+type: parsed
+protocol: nec
+address: 2.255
+command: 26
+#
+name: ' ?!
+type: parsed
+protocol: nec
+address: 2.255
+command: 27
+#
+name: DIMMER
+type: parsed
+protocol: nec
+address: 2.255
+command: 28
+#
+name: SPACE
+type: parsed
+protocol: nec
+address: 2.255
+command: 30
+#
+name: CHANNEL SCAN
+type: parsed
+protocol: nec
+address: 2.255
+command: 31
+#

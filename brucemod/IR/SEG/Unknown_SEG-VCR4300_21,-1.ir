@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 21
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 21
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 21
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 21
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 21
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 21
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 21
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 21
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 21
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 21
+command: 9
+#
+name: STOP
+type: parsed
+protocol: Proton
+address: 21
+command: 13
+#
+name: PLAY
+type: parsed
+protocol: Proton
+address: 21
+command: 14
+#
+name: FFWD
+type: parsed
+protocol: Proton
+address: 21
+command: 15
+#
+name: FRWD
+type: parsed
+protocol: Proton
+address: 21
+command: 16
+#
+name: PAUSE
+type: parsed
+protocol: Proton
+address: 21
+command: 17
+#
+name: RECORD
+type: parsed
+protocol: Proton
+address: 21
+command: 18
+#
+name: SLOW_MOTION
+type: parsed
+protocol: Proton
+address: 21
+command: 19
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 21
+command: 21
+#
+name: TV_VCR
+type: parsed
+protocol: Proton
+address: 21
+command: 22
+#
+name: PR+
+type: parsed
+protocol: Proton
+address: 21
+command: 23
+#
+name: PR-
+type: parsed
+protocol: Proton
+address: 21
+command: 24
+#
+name: AD
+type: parsed
+protocol: Proton
+address: 21
+command: 25
+#
+name: A_SEL
+type: parsed
+protocol: Proton
+address: 21
+command: 26
+#
+name: SP_LP
+type: parsed
+protocol: Proton
+address: 21
+command: 27
+#
+name: A
+type: parsed
+protocol: Proton
+address: 21
+command: 29
+#
+name: FFWD_30
+type: parsed
+protocol: Proton
+address: 21
+command: 30
+#
+name: PAL_SEC
+type: parsed
+protocol: Proton
+address: 21
+command: 31
+#
+name: EJECT
+type: parsed
+protocol: Proton
+address: 21
+command: 33
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 21
+command: 34
+#
+name: QS
+type: parsed
+protocol: Proton
+address: 21
+command: 39
+#
+name: OK
+type: parsed
+protocol: Proton
+address: 21
+command: 41
+#
+name: LEFT
+type: parsed
+protocol: Proton
+address: 21
+command: 49
+#
+name: INDEX+
+type: parsed
+protocol: Proton
+address: 21
+command: 51
+#
+name: RIGHT
+type: parsed
+protocol: Proton
+address: 21
+command: 53
+#
+name: AV
+type: parsed
+protocol: Proton
+address: 21
+command: 54
+#
+name: SV_V+
+type: parsed
+protocol: Proton
+address: 21
+command: 57
+#
+name: INDEX-
+type: parsed
+protocol: Proton
+address: 21
+command: 63
+#

@@ -1,0 +1,813 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc6
+address: 4
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc6
+address: 4
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc6
+address: 4
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc6
+address: 4
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc6
+address: 4
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc6
+address: 4
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc6
+address: 4
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc6
+address: 4
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc6
+address: 4
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc6
+address: 4
+command: 9
+#
+name: POWER ON/STANDBY
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: POWER OFF
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: POWER
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 15
+#
+name: OSD
+type: parsed
+protocol: rc6
+address: 4
+command: 15
+#
+name: DIMMER
+type: parsed
+protocol: rc6
+address: 4
+command: 19
+#
+name: AUDIO EX
+type: parsed
+protocol: rc6
+address: 4
+command: 19
+#
+name: RANDOM
+type: parsed
+protocol: rc6
+address: 4
+command: 28
+#
+name: REPEAT
+type: parsed
+protocol: rc6
+address: 4
+command: 29
+#
+name: NEXT
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: SKIP >>
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: CHAPTER +
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: PREVIOUS
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: SKIP <<
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: CHAPTER -
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: SLOW FORWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 34
+#
+name: SLOW MOTION +
+type: parsed
+protocol: rc6
+address: 4
+command: 34
+#
+name: SLOW BACKWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 35
+#
+name: SLOW MOTION -
+type: parsed
+protocol: rc6
+address: 4
+command: 35
+#
+name: FAST FORWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: SCAN >>
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: FORWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: FOWARD
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: REWIND
+type: parsed
+protocol: rc6
+address: 4
+command: 41
+#
+name: SCAN <<
+type: parsed
+protocol: rc6
+address: 4
+command: 41
+#
+name: REVERSE
+type: parsed
+protocol: rc6
+address: 4
+command: 41
+#
+name: PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: POWER ON
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: JOG/PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: 
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: CLEAR
+type: parsed
+protocol: rc6
+address: 4
+command: 58
+#
+name: REPEAT A-B
+type: parsed
+protocol: rc6
+address: 4
+command: 59
+#
+name: A-B
+type: parsed
+protocol: rc6
+address: 4
+command: 59
+#
+name: A-B
+type: parsed
+protocol: rc5
+address: 4
+command: 59
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: rc6
+address: 4
+command: 66
+#
+name: +10
+type: parsed
+protocol: rc6
+address: 4
+command: 66
+#
+name: PROGRAM
+type: parsed
+protocol: rc6
+address: 4
+command: 69
+#
+name: SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: AUDIO
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: AUDIO MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: SOUND MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: SACD MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: SEARCH MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: SURROUND
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: S. MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: S.MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 80
+#
+name: SURROUND
+type: parsed
+protocol: rc6
+address: 4
+command: 82
+#
+name: SURR.
+type: parsed
+protocol: rc6
+address: 4
+command: 82
+#
+name: MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 84
+#
+name: UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: CURSOR UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: ARROW UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: ARROW DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: ARROW LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: ARROW RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: ENTER
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: TOP MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: TITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: RETURN
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: 10
+type: parsed
+protocol: rc6
+address: 4
+command: 120
+#
+name: +10
+type: parsed
+protocol: rc6
+address: 4
+command: 120
+#
+name: DISK SKIP
+type: parsed
+protocol: rc6
+address: 4
+command: 127
+#
+name: DISC SKIP
+type: parsed
+protocol: rc6
+address: 4
+command: 127
+#
+name: DISCSKIP
+type: parsed
+protocol: rc6
+address: 4
+command: 127
+#
+name: SETUP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: SET-UP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: SET UP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: RETURN
+type: parsed
+protocol: rc6
+address: 4
+command: 131
+#
+name: ANGLE
+type: parsed
+protocol: rc6
+address: 4
+command: 133
+#
+name: VIDEO ADJUST
+type: parsed
+protocol: rc6
+address: 4
+command: 150
+#
+name: DISK -1
+type: parsed
+protocol: rc6
+address: 4
+command: 179
+#
+name: DISK 1
+type: parsed
+protocol: rc6
+address: 4
+command: 179
+#
+name: DISK -2
+type: parsed
+protocol: rc6
+address: 4
+command: 180
+#
+name: DISK 2
+type: parsed
+protocol: rc6
+address: 4
+command: 180
+#
+name: DISK -3
+type: parsed
+protocol: rc6
+address: 4
+command: 181
+#
+name: DISK 3
+type: parsed
+protocol: rc6
+address: 4
+command: 181
+#
+name: DISK -4
+type: parsed
+protocol: rc6
+address: 4
+command: 182
+#
+name: DISK 4
+type: parsed
+protocol: rc6
+address: 4
+command: 182
+#
+name: DISK -5
+type: parsed
+protocol: rc6
+address: 4
+command: 183
+#
+name: DISK 5
+type: parsed
+protocol: rc6
+address: 4
+command: 183
+#
+name: NTSC/PAL
+type: parsed
+protocol: rc6
+address: 4
+command: 197
+#
+name: HDMI
+type: parsed
+protocol: rc6
+address: 4
+command: 198
+#
+name: SEARCH MODE1
+type: parsed
+protocol: rc6
+address: 4
+command: 200
+#
+name: T-C
+type: parsed
+protocol: rc6
+address: 4
+command: 200
+#
+name: SEARCH MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 200
+#
+name: SEARCH
+type: parsed
+protocol: rc6
+address: 4
+command: 200
+#
+name: PAGE
+type: parsed
+protocol: rc6
+address: 4
+command: 202
+#
+name: FUNCTION MEMO
+type: parsed
+protocol: rc6
+address: 4
+command: 203
+#
+name: CONDITION MEMO
+type: parsed
+protocol: rc6
+address: 4
+command: 204
+#
+name: CONDITION
+type: parsed
+protocol: rc6
+address: 4
+command: 204
+#
+name: MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 209
+#
+name: GROUP
+type: parsed
+protocol: rc6
+address: 4
+command: 210
+#
+name: PLAY MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 211
+#
+name: MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 211
+#
+name: DIGEST
+type: parsed
+protocol: rc6
+address: 4
+command: 213
+#
+name: SCAN
+type: parsed
+protocol: rc6
+address: 4
+command: 213
+#
+name: LAST MEMO
+type: parsed
+protocol: rc6
+address: 4
+command: 215
+#
+name: RESUME
+type: parsed
+protocol: rc6
+address: 4
+command: 215
+#
+name: VOCAL
+type: parsed
+protocol: rc6
+address: 4
+command: 231
+#
+name: MARKER 1
+type: parsed
+protocol: rc6
+address: 4
+command: 238
+#
+name: MARKER
+type: parsed
+protocol: rc6
+address: 4
+command: 238
+#
+name: MARKER 2
+type: parsed
+protocol: rc6
+address: 4
+command: 240
+#
+name: MARKER
+type: parsed
+protocol: rc6
+address: 4
+command: 240
+#
+name: SEARCH MODE2
+type: parsed
+protocol: rc6
+address: 4
+command: 241
+#
+name: SEARCH
+type: parsed
+protocol: rc6
+address: 4
+command: 241
+#
+name: FRAME <<
+type: parsed
+protocol: rc6
+address: 4
+command: 245
+#
+name: PAGE UP
+type: parsed
+protocol: rc6
+address: 4
+command: 245
+#
+name: PAGE +
+type: parsed
+protocol: rc6
+address: 4
+command: 245
+#
+name: FRAME >>
+type: parsed
+protocol: rc6
+address: 4
+command: 246
+#
+name: PAGE DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 246
+#
+name: PAGE -
+type: parsed
+protocol: rc6
+address: 4
+command: 246
+#
+name: PAGE DN
+type: parsed
+protocol: rc6
+address: 4
+command: 246
+#
+name: ZOOM
+type: parsed
+protocol: rc6
+address: 4
+command: 247
+#
+name: 
+type: parsed
+protocol: rc6
+address: 4
+command: 247
+#
+name: VIDEO ON/OFF
+type: parsed
+protocol: rc6
+address: 4
+command: 255
+#
+name: 
+type: parsed
+protocol: rc6
+address: 4
+command: 255
+#

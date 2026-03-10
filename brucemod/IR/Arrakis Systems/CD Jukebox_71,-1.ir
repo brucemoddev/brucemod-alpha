@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 4
+type: parsed
+protocol: nec1
+address: 71
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 71
+command: 1
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 71
+command: 2
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 71
+command: 3
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 71
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 71
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 71
+command: 6
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 71
+command: 7
+#
+name: CD#
+type: parsed
+protocol: nec1
+address: 71
+command: 8
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 71
+command: 9
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 71
+command: 10
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 71
+command: 11
+#
+name: DISC-
+type: parsed
+protocol: nec1
+address: 71
+command: 12
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 71
+command: 13
+#
+name: TR#
+type: parsed
+protocol: nec1
+address: 71
+command: 14
+#
+name: RESUME
+type: parsed
+protocol: nec1
+address: 71
+command: 15
+#
+name: 1CD
+type: parsed
+protocol: nec1
+address: 71
+command: 16
+#
+name: DISC+
+type: parsed
+protocol: nec1
+address: 71
+command: 17
+#
+name: TR-
+type: parsed
+protocol: nec1
+address: 71
+command: 18
+#
+name: TR+
+type: parsed
+protocol: nec1
+address: 71
+command: 19
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 71
+command: 20
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 71
+command: 21
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 71
+command: 22
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 71
+command: 23
+#
+name: ARTIST
+type: parsed
+protocol: nec1
+address: 71
+command: 24
+#
+name: ALLCD
+type: parsed
+protocol: nec1
+address: 71
+command: 25
+#
+name: SEQL
+type: parsed
+protocol: nec1
+address: 71
+command: 26
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 71
+command: 27
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 71
+command: 28
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 71
+command: 29
+#
+name: NUMBER
+type: parsed
+protocol: nec1
+address: 71
+command: 30
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 71
+command: 31
+#

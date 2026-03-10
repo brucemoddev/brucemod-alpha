@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT 1
+type: parsed
+protocol: rc5
+address: 16
+command: 1
+#
+name: INPUT 2
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: INPUT 3
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: INPUT 4
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: INPUT 5
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: POWER/DISPLAY
+type: parsed
+protocol: rc5
+address: 16
+command: 19
+#
+name: FADE
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: FUNCTION
+type: parsed
+protocol: rc5
+address: 16
+command: 21
+#
+name: MONO
+type: parsed
+protocol: rc5
+address: 16
+command: 50
+#
+name: POLARITY
+type: parsed
+protocol: rc5
+address: 16
+command: 51
+#

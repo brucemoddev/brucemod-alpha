@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 0
+command: 4
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 0
+command: 5
+#
+name: FRAME <
+type: parsed
+protocol: nec1
+address: 0
+command: 8
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 0
+command: 9
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 0
+command: 10
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 0
+command: 11
+#
+name: EQ
+type: parsed
+protocol: nec1
+address: 0
+command: 12
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 0
+command: 13
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 0
+command: 16
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 0
+command: 17
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 0
+command: 18
+#
+name: L/R
+type: parsed
+protocol: nec1
+address: 0
+command: 19
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0
+command: 20
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0
+command: 21
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 0
+command: 22
+#
+name: SUB TITLE
+type: parsed
+protocol: nec1
+address: 0
+command: 23
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 0
+command: 24
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0
+command: 25
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 0
+command: 26
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 0
+command: 27
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0
+command: 28
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 0
+command: 29
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 0
+command: 30
+#
+name: SUB TITLE ON/OFF
+type: parsed
+protocol: nec1
+address: 0
+command: 31
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 0
+command: 71
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 0
+command: 72
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 0
+command: 73
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 0
+command: 74
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 0
+command: 75
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 0
+command: 78
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 0
+command: 79
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 0
+command: 80
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 0
+command: 81
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 0
+command: 83
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 0
+command: 84
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 0
+command: 85
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 0
+command: 87
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 0
+command: 88
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 0
+command: 89
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0
+command: 91
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 0
+command: 92
+#
+name: GO TO
+type: parsed
+protocol: nec1
+address: 0
+command: 93
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 0
+command: 95
+#

@@ -1,0 +1,405 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NET TUNE CH UP
+type: parsed
+protocol: nec1
+address: 210.17
+command: 0
+#
+name: Z2 PRESET UP
+type: parsed
+protocol: nec1
+address: 210.17
+command: 0
+#
+name: Z2 CHAN +
+type: parsed
+protocol: nec2
+address: 210.17
+command: 0
+#
+name: PRESET UP
+type: parsed
+protocol: nec1
+address: 210.17
+command: 0
+#
+name: NET TUNE CH DOWN
+type: parsed
+protocol: nec1
+address: 210.17
+command: 1
+#
+name: Z2 PRESET DOWN
+type: parsed
+protocol: nec1
+address: 210.17
+command: 1
+#
+name: Z2 CHAN-
+type: parsed
+protocol: nec2
+address: 210.17
+command: 1
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 210.17
+command: 1
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 210.17
+command: 2
+#
+name: Z2 VOLUME +
+type: parsed
+protocol: nec1
+address: 210.17
+command: 2
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 210.17
+command: 2
+#
+name: Z2 VOLUME +
+type: parsed
+protocol: nec2
+address: 210.17
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 210.17
+command: 3
+#
+name: Z2 VOLUME -
+type: parsed
+protocol: nec1
+address: 210.17
+command: 3
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 210.17
+command: 3
+#
+name: Z2 VOLUME -
+type: parsed
+protocol: nec2
+address: 210.17
+command: 3
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 210.17
+command: 4
+#
+name: Z2 POWER ON
+type: parsed
+protocol: nec1
+address: 210.17
+command: 4
+#
+name: ZONE 2 ON
+type: parsed
+protocol: nec1
+address: 210.17
+command: 4
+#
+name: Z2 ON
+type: parsed
+protocol: nec1
+address: 210.17
+command: 4
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 210.17
+command: 5
+#
+name: Z2 MUTING (TOGGLE)
+type: parsed
+protocol: nec1
+address: 210.17
+command: 5
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 210.17
+command: 5
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 210.17
+command: 8
+#
+name: Z2 TAPE1(TAPE)
+type: parsed
+protocol: nec1
+address: 210.17
+command: 8
+#
+name: INPUT: TAPE
+type: parsed
+protocol: nec1
+address: 210.17
+command: 8
+#
+name: Z2 INPUT TAPE
+type: parsed
+protocol: nec1
+address: 210.17
+command: 8
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 210.17
+command: 9
+#
+name: Z2 CD
+type: parsed
+protocol: nec1
+address: 210.17
+command: 9
+#
+name: INPUT: CD
+type: parsed
+protocol: nec1
+address: 210.17
+command: 9
+#
+name: Z2 INPUT CD
+type: parsed
+protocol: nec1
+address: 210.17
+command: 9
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 210.17
+command: 10
+#
+name: Z2 PHONO
+type: parsed
+protocol: nec1
+address: 210.17
+command: 10
+#
+name: INPUT: PHONO
+type: parsed
+protocol: nec1
+address: 210.17
+command: 10
+#
+name: Z2 INPUT PHONO
+type: parsed
+protocol: nec1
+address: 210.17
+command: 10
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.17
+command: 11
+#
+name: Z2 TUNER
+type: parsed
+protocol: nec1
+address: 210.17
+command: 11
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 210.17
+command: 11
+#
+name: Z2 INPUT TUNER
+type: parsed
+protocol: nec1
+address: 210.17
+command: 11
+#
+name: VIDEO 3 GAME/TV
+type: parsed
+protocol: nec1
+address: 210.17
+command: 13
+#
+name: Z2 GAME/TV
+type: parsed
+protocol: nec1
+address: 210.17
+command: 13
+#
+name: INPUT: GAME/TV
+type: parsed
+protocol: nec1
+address: 210.17
+command: 13
+#
+name: Z2 INPUT GAME/TV
+type: parsed
+protocol: nec1
+address: 210.17
+command: 13
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 210.17
+command: 13
+#
+name: VIDEO 2 CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.17
+command: 14
+#
+name: Z2 CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.17
+command: 14
+#
+name: INPUT: CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.17
+command: 14
+#
+name: Z2 INPUT CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.17
+command: 14
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 210.17
+command: 14
+#
+name: VIDEO 1 VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.17
+command: 15
+#
+name: Z2 VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.17
+command: 15
+#
+name: INPUT: VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.17
+command: 15
+#
+name: Z2 INPUT VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.17
+command: 15
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 210.17
+command: 15
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 210.17
+command: 70
+#
+name: Z2 FM
+type: parsed
+protocol: nec1
+address: 210.17
+command: 70
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 210.17
+command: 71
+#
+name: Z2 AM
+type: parsed
+protocol: nec1
+address: 210.17
+command: 71
+#
+name: VIDEO 6 PC
+type: parsed
+protocol: nec1
+address: 210.17
+command: 156
+#
+name: Z2 AUX2
+type: parsed
+protocol: nec1
+address: 210.17
+command: 157
+#
+name: INPUT: AUX 2
+type: parsed
+protocol: nec1
+address: 210.17
+command: 157
+#
+name: Z2 INPUT AUX2
+type: parsed
+protocol: nec1
+address: 210.17
+command: 157
+#
+name: VIDEO 4 AUX1
+type: parsed
+protocol: nec1
+address: 210.17
+command: 159
+#
+name: Z2 AUX1(AUX)
+type: parsed
+protocol: nec1
+address: 210.17
+command: 159
+#
+name: INPUT: AUX 1
+type: parsed
+protocol: nec1
+address: 210.17
+command: 159
+#
+name: Z2 INPUT AUX 1
+type: parsed
+protocol: nec1
+address: 210.17
+command: 159
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 210.17
+command: 159
+#

@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FUNCTION
+type: parsed
+protocol: nec1
+address: 81.175
+command: 2
+#
+name: TEST TONE
+type: parsed
+protocol: nec1
+address: 81.175
+command: 3
+#
+name: SPEAKER SETUP
+type: parsed
+protocol: nec1
+address: 81.175
+command: 4
+#
+name: FRONT
+type: parsed
+protocol: nec1
+address: 81.175
+command: 5
+#
+name: CANCEL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 8
+#
+name: REAR
+type: parsed
+protocol: nec1
+address: 81.175
+command: 9
+#
+name: FL VOL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 10
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 81.175
+command: 12
+#
+name: CENTRE
+type: parsed
+protocol: nec1
+address: 81.175
+command: 13
+#
+name: RL VOL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 14
+#
+name: SW VOL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 15
+#
+name: FR VOL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 16
+#
+name: SUB
+type: parsed
+protocol: nec1
+address: 81.175
+command: 17
+#
+name: RR VOL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 18
+#
+name: C VOL
+type: parsed
+protocol: nec1
+address: 81.175
+command: 20
+#
+name: VOL+
+type: parsed
+protocol: nec1
+address: 81.175
+command: 21
+#
+name: SURROUND MODE
+type: parsed
+protocol: nec1
+address: 81.175
+command: 23
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 81.175
+command: 25
+#
+name: VOLUME SETUP
+type: parsed
+protocol: nec1
+address: 81.175
+command: 27
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 81.175
+command: 28
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 81.175
+command: 31
+#

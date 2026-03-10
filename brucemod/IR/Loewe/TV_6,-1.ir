@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: HDR: PAUSE
+type: parsed
+protocol: rc5
+address: 6
+command: 41
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 6
+command: 41
+#
+name: PAUSE REC
+type: parsed
+protocol: rc5
+address: 6
+command: 41
+#
+name: HDR: REWIND
+type: parsed
+protocol: rc5
+address: 6
+command: 50
+#
+name: REW
+type: parsed
+protocol: rc5
+address: 6
+command: 50
+#
+name: T
+type: parsed
+protocol: rc5
+address: 6
+command: 50
+#
+name: HDR: FAST FORW
+type: parsed
+protocol: rc5
+address: 6
+command: 52
+#
+name: FF
+type: parsed
+protocol: rc5
+address: 6
+command: 52
+#
+name: T
+type: parsed
+protocol: rc5
+address: 6
+command: 52
+#
+name: HDR: PLAY
+type: parsed
+protocol: rc5
+address: 6
+command: 53
+#
+name: GREEN
+type: parsed
+protocol: rc5
+address: 6
+command: 53
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 6
+command: 53
+#
+name: HDR STOP
+type: parsed
+protocol: rc5
+address: 6
+command: 54
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 6
+command: 54
+#
+name: STOPP
+type: parsed
+protocol: rc5
+address: 6
+command: 54
+#
+name: HDR RECORD
+type: parsed
+protocol: rc5
+address: 6
+command: 55
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 6
+command: 55
+#

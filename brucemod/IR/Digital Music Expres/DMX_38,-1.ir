@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL - PREVIOUS
+type: parsed
+protocol: scatl_6
+address: 38
+command: 14
+#
+name: PRESET
+type: parsed
+protocol: scatl_6
+address: 38
+command: 15
+#
+name: 1
+type: parsed
+protocol: scatl_6
+address: 38
+command: 16
+#
+name: 2
+type: parsed
+protocol: scatl_6
+address: 38
+command: 17
+#
+name: 3
+type: parsed
+protocol: scatl_6
+address: 38
+command: 18
+#
+name: 4
+type: parsed
+protocol: scatl_6
+address: 38
+command: 19
+#
+name: 5
+type: parsed
+protocol: scatl_6
+address: 38
+command: 20
+#
+name: 6
+type: parsed
+protocol: scatl_6
+address: 38
+command: 21
+#
+name: 7
+type: parsed
+protocol: scatl_6
+address: 38
+command: 22
+#
+name: 8
+type: parsed
+protocol: scatl_6
+address: 38
+command: 23
+#
+name: 9
+type: parsed
+protocol: scatl_6
+address: 38
+command: 24
+#
+name: 0
+type: parsed
+protocol: scatl_6
+address: 38
+command: 25
+#
+name: STORE
+type: parsed
+protocol: scatl_6
+address: 38
+command: 26
+#
+name: POWER
+type: parsed
+protocol: scatl_6
+address: 38
+command: 28
+#
+name: CHANNEL - UP
+type: parsed
+protocol: scatl_6
+address: 38
+command: 29
+#
+name: CHANNEL - DOWN
+type: parsed
+protocol: scatl_6
+address: 38
+command: 30
+#
+name: SCAN
+type: parsed
+protocol: scatl_6
+address: 38
+command: 31
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: scatl_6
+address: 38
+command: 32
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: scatl_6
+address: 38
+command: 33
+#
+name: VOLUME - UP
+type: parsed
+protocol: scatl_6
+address: 38
+command: 34
+#
+name: FORMAT
+type: parsed
+protocol: scatl_6
+address: 38
+command: 36
+#
+name: BUY
+type: parsed
+protocol: scatl_6
+address: 38
+command: 37
+#

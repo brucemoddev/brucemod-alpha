@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 131.85
+command: 132
+#
+name: PICTURE MODE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 133
+#
+name: PICTURE +
+type: parsed
+protocol: nec1
+address: 131.85
+command: 134
+#
+name: PICTURE -
+type: parsed
+protocol: nec1
+address: 131.85
+command: 135
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 131.85
+command: 136
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 131.85
+command: 137
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 138
+#
+name: INPUT SELECT
+type: parsed
+protocol: nec1
+address: 131.85
+command: 139
+#
+name: PICTURE RESET
+type: parsed
+protocol: nec1
+address: 131.85
+command: 140
+#
+name: FOCUS PATTERN
+type: parsed
+protocol: nec1
+address: 131.85
+command: 141
+#
+name: FOCUS V
+type: parsed
+protocol: nec1
+address: 131.85
+command: 142
+#
+name: FOCUS ^
+type: parsed
+protocol: nec1
+address: 131.85
+command: 143
+#
+name: AUTO FOCUS
+type: parsed
+protocol: nec1
+address: 131.85
+command: 144
+#
+name: ZOOM WIDE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 145
+#
+name: ZOOM NARROW
+type: parsed
+protocol: nec1
+address: 131.85
+command: 146
+#

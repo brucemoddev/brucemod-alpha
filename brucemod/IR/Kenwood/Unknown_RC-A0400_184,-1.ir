@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD_REW
+type: parsed
+protocol: nec
+address: 184
+command: 6
+#
+name: CD_FFWD
+type: parsed
+protocol: nec
+address: 184
+command: 7
+#
+name: CD_DISC
+type: parsed
+protocol: nec
+address: 184
+command: 8
+#
+name: SOURCEDIRECT
+type: parsed
+protocol: nec
+address: 184
+command: 84
+#
+name: TUNER_DOWN
+type: parsed
+protocol: nec
+address: 184
+command: 140
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 184
+command: 144
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 184
+command: 145
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 184
+command: 146
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 184
+command: 147
+#
+name: TAPE1
+type: parsed
+protocol: nec
+address: 184
+command: 148
+#
+name: TAPE2MONITOR
+type: parsed
+protocol: nec
+address: 184
+command: 149
+#
+name: TUNER_UP
+type: parsed
+protocol: nec
+address: 184
+command: 153
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 184
+command: 154
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 184
+command: 155
+#
+name: MUTING
+type: parsed
+protocol: nec
+address: 184
+command: 156
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 184
+command: 157
+#
+name: CD_STOP
+type: parsed
+protocol: nec
+address: 184
+command: 201
+#
+name: CD_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 184
+command: 203
+#
+name: CD_SKIPBACK
+type: parsed
+protocol: nec
+address: 184
+command: 206
+#
+name: CD_SKIPFORWARD
+type: parsed
+protocol: nec
+address: 184
+command: 207
+#
+name: TA_LEFT
+type: parsed
+protocol: nec
+address: 184
+command: 208
+#
+name: TA_RIGHT
+type: parsed
+protocol: nec
+address: 184
+command: 209
+#
+name: TA_REW
+type: parsed
+protocol: nec
+address: 184
+command: 210
+#
+name: TA_FFWD
+type: parsed
+protocol: nec
+address: 184
+command: 211
+#
+name: TA_STOP
+type: parsed
+protocol: nec
+address: 184
+command: 213
+#
+name: TB_LEFT
+type: parsed
+protocol: nec
+address: 184
+command: 216
+#
+name: TB_RIGHT
+type: parsed
+protocol: nec
+address: 184
+command: 217
+#
+name: TB_REW
+type: parsed
+protocol: nec
+address: 184
+command: 218
+#
+name: TB_FFWD
+type: parsed
+protocol: nec
+address: 184
+command: 219
+#
+name: TB_PAUSE
+type: parsed
+protocol: nec
+address: 184
+command: 220
+#
+name: TB_STOP
+type: parsed
+protocol: nec
+address: 184
+command: 221
+#
+name: TB_REC
+type: parsed
+protocol: nec
+address: 184
+command: 222
+#

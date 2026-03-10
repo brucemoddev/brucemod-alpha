@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: Proton
+address: 20
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: Proton
+address: 20
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: Proton
+address: 20
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: Proton
+address: 20
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: Proton
+address: 20
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: Proton
+address: 20
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: Proton
+address: 20
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: Proton
+address: 20
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: Proton
+address: 20
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: Proton
+address: 20
+command: 9
+#
+name: KEY_1-
+type: parsed
+protocol: Proton
+address: 20
+command: 10
+#
+name: KEY_2-
+type: parsed
+protocol: Proton
+address: 20
+command: 11
+#
+name: AFT/Band
+type: parsed
+protocol: Proton
+address: 20
+command: 12
+#
+name: Preset
+type: parsed
+protocol: Proton
+address: 20
+command: 13
+#
+name: Auto_Search+
+type: parsed
+protocol: Proton
+address: 20
+command: 14
+#
+name: Fine_Tuning+
+type: parsed
+protocol: Proton
+address: 20
+command: 15
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Proton
+address: 20
+command: 16
+#
+name: KEY_POWER
+type: parsed
+protocol: Proton
+address: 20
+command: 17
+#
+name: Auto_Search-
+type: parsed
+protocol: Proton
+address: 20
+command: 18
+#
+name: Fine_Tuning-
+type: parsed
+protocol: Proton
+address: 20
+command: 19
+#
+name: Hour
+type: parsed
+protocol: Proton
+address: 20
+command: 20
+#
+name: Minute
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: KEY_POWER
+type: parsed
+protocol: Proton
+address: 20
+command: 22
+#
+name: KEY_SLEEP
+type: parsed
+protocol: Proton
+address: 20
+command: 23
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Proton
+address: 20
+command: 24
+#
+name: KEY_UP
+type: parsed
+protocol: Proton
+address: 20
+command: 25
+#
+name: KEY_SELECT
+type: parsed
+protocol: Proton
+address: 20
+command: 26
+#
+name: KEY_MUTE
+type: parsed
+protocol: Proton
+address: 20
+command: 27
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Proton
+address: 20
+command: 28
+#
+name: KEY_DOWN
+type: parsed
+protocol: Proton
+address: 20
+command: 29
+#
+name: TV/VCR
+type: parsed
+protocol: Proton
+address: 20
+command: 30
+#
+name: KEY_SLEEP
+type: parsed
+protocol: Proton
+address: 20
+command: 31
+#
+name: KEY_3-
+type: parsed
+protocol: Proton
+address: 20
+command: 40
+#
+name: KEY_4-
+type: parsed
+protocol: Proton
+address: 20
+command: 41
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Proton
+address: 20
+command: 48
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Proton
+address: 20
+command: 52
+#
+name: KEY_NEXT
+type: parsed
+protocol: Proton
+address: 20
+command: 56
+#
+name: System
+type: parsed
+protocol: Proton
+address: 20
+command: 57
+#
+name: Q.V.
+type: parsed
+protocol: Proton
+address: 20
+command: 60
+#

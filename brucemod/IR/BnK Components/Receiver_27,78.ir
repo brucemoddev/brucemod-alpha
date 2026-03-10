@@ -1,0 +1,1767 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 1
+#
+name: BK001 POWER OFF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 1
+#
+name: POWER_OFF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 1
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 2
+#
+name: POWER ON
+type: parsed
+protocol: nec
+address: 27.78
+command: 2
+#
+name: BK001 POWER ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 2
+#
+name: POWER_ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 3
+#
+name: 00 MUTE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 3
+#
+name: BK001 MUTE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 3
+#
+name: V1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: V 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: VIDEO 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: BK001 V1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: INPUT V1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: SOURCE_IN_1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 5
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 27.78
+command: 6
+#
+name: BK001 TV
+type: parsed
+protocol: nec2
+address: 27.78
+command: 6
+#
+name: INPUT TV
+type: parsed
+protocol: nec2
+address: 27.78
+command: 6
+#
+name: SOURCE_IN_3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 6
+#
+name: SOURCE_IN_8
+type: parsed
+protocol: nec2
+address: 27.78
+command: 7
+#
+name: V2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: V 2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: VIDEO 2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: BK001 V2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: INPUT V2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: SOURCE_IN_2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 9
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: TAPE 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: BK001 TAPE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: INPUT TAPE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: SOURCE_IN_7
+type: parsed
+protocol: nec2
+address: 27.78
+command: 11
+#
+name: VIDEO_HUE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 12
+#
+name: DVD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 13
+#
+name: BK001 DVD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 13
+#
+name: INPUT DVD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 13
+#
+name: SOURCE_IN_4
+type: parsed
+protocol: nec2
+address: 27.78
+command: 13
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 14
+#
+name: INPUT TUNER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 14
+#
+name: SOURCE_TUNER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 14
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: BK001 CD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: INPUT CD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: SOURCE_IN_5
+type: parsed
+protocol: nec2
+address: 27.78
+command: 15
+#
+name: VIDEO_RECORD
+type: parsed
+protocol: nec2
+address: 27.78
+command: 16
+#
+name: VIDEO_ZOOM_ASPECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 17
+#
+name: TUNER_FREQ_DIRECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 18
+#
+name: BAND
+type: parsed
+protocol: nec2
+address: 27.78
+command: 19
+#
+name: TUNER_BAND_TOGGLE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 19
+#
+name: VIDEO_FORMAT_EDID
+type: parsed
+protocol: nec2
+address: 27.78
+command: 20
+#
+name: CENTER -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: CENTER --
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: CNTR -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: BK001 CENTER-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: CENTER DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: AUDIO_CENTER-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 21
+#
+name: CENTER +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: CNTR +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: BK001 CENTER+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: CENTER UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: AUDIO_CENTER+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 22
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 23
+#
+name: TUNER_STATION-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 23
+#
+name: PRESET UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 24
+#
+name: TUNER_STATION+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 24
+#
+name: REAR -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: BK001 REAR-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: REAR DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: AUDIO_REAR-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 25
+#
+name: REAR +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: BK001 REAR+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: REAR UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: AUDIO_REAR+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 26
+#
+name: TUNE -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 27
+#
+name: TUNER_TUNE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 27
+#
+name: TUNE +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 28
+#
+name: TUNER_TUNE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 28
+#
+name: SUB -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: BK001 SUB-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: SUB DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: AUDIO_SUB-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 29
+#
+name: SUB +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: BK001 SUB+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: SUB UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: AUDIO_SUB+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 30
+#
+name: MENU LEFT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: BK001 LEFT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: BALANCE L
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: LEFT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 31
+#
+name: MENU RIGHT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: BK001 RIGHT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: BALANCE R
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: RIGHT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 32
+#
+name: DELAY -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 33
+#
+name: DELAY DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 33
+#
+name: DELAY +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 34
+#
+name: DELAY UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 34
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: 00 VOLUME -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: BK001 VOLUME-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: MASTER_VOLUME-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 35
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: 00 VOLUME +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: BK001 VOLUME+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: MASTER_VOLUME+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 36
+#
+name: TEST
+type: parsed
+protocol: nec2
+address: 27.78
+command: 37
+#
+name: MODE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 38
+#
+name: A
+type: parsed
+protocol: nec2
+address: 27.78
+command: 41
+#
+name: BK001 NUMBER +10
+type: parsed
+protocol: nec2
+address: 27.78
+command: 41
+#
+name: NUMBER_+10
+type: parsed
+protocol: nec2
+address: 27.78
+command: 41
+#
+name: EQ
+type: parsed
+protocol: nec2
+address: 27.78
+command: 42
+#
+name: BK001 EQ
+type: parsed
+protocol: nec2
+address: 27.78
+command: 42
+#
+name: AUDIO_EQ(STEP)
+type: parsed
+protocol: nec2
+address: 27.78
+command: 42
+#
+name: DVD-A
+type: parsed
+protocol: nec2
+address: 27.78
+command: 43
+#
+name: BK001 DVD-AUDIO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 43
+#
+name: AUDIO_DVD_AUDIO_PCM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 43
+#
+name: MENU DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: BK001 DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: DOWN
+type: parsed
+protocol: nec2
+address: 27.78
+command: 45
+#
+name: MENU UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: BK001 UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: UP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 46
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 27.78
+command: 47
+#
+name: BK001 MENU
+type: parsed
+protocol: nec2
+address: 27.78
+command: 47
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 48
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 48
+#
+name: BK001 ENTER/SELECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 49
+#
+name: BK001 NUMBER 1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 49
+#
+name: NUMBER_1
+type: parsed
+protocol: nec2
+address: 27.78
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 50
+#
+name: BK001 NUMBER 2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 50
+#
+name: NUMBER_2
+type: parsed
+protocol: nec2
+address: 27.78
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 51
+#
+name: BK001 NUMBER 3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 51
+#
+name: NUMBER_3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 51
+#
+name: VIDEO_CONTRAST-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 52
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 27.78
+command: 53
+#
+name: BK001 NUMBER 4
+type: parsed
+protocol: nec2
+address: 27.78
+command: 53
+#
+name: NUMBER_4
+type: parsed
+protocol: nec2
+address: 27.78
+command: 53
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 27.78
+command: 54
+#
+name: BK001 NUMBER 5
+type: parsed
+protocol: nec2
+address: 27.78
+command: 54
+#
+name: NUMBER_5
+type: parsed
+protocol: nec2
+address: 27.78
+command: 54
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 55
+#
+name: BK001 NUMBER 6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 55
+#
+name: NUMBER_6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 55
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 27.78
+command: 57
+#
+name: BK001 NUMBER 7
+type: parsed
+protocol: nec2
+address: 27.78
+command: 57
+#
+name: NUMBER_7
+type: parsed
+protocol: nec2
+address: 27.78
+command: 57
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 27.78
+command: 58
+#
+name: BK001 NUMBER 8
+type: parsed
+protocol: nec2
+address: 27.78
+command: 58
+#
+name: NUMBER_8
+type: parsed
+protocol: nec2
+address: 27.78
+command: 58
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 27.78
+command: 59
+#
+name: 9
+type: parsed
+protocol: nec
+address: 27.78
+command: 59
+#
+name: BK001 NUMBER 9
+type: parsed
+protocol: nec2
+address: 27.78
+command: 59
+#
+name: NUMBER_9
+type: parsed
+protocol: nec2
+address: 27.78
+command: 59
+#
+name: *
+type: parsed
+protocol: nec2
+address: 27.78
+command: 61
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 27.78
+command: 62
+#
+name: BK001 NUMBER 0
+type: parsed
+protocol: nec2
+address: 27.78
+command: 62
+#
+name: NUMBER_0
+type: parsed
+protocol: nec2
+address: 27.78
+command: 62
+#
+name: Z
+type: parsed
+protocol: nec2
+address: 27.78
+command: 63
+#
+name: BK001 Z
+type: parsed
+protocol: nec2
+address: 27.78
+command: 63
+#
+name: SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: BK001 SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: AUDIO_SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: TUNER_SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: VIDEO_SAVE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 64
+#
+name: VIDEO_BLOCK_NR
+type: parsed
+protocol: nec2
+address: 27.78
+command: 65
+#
+name: VIDEO_STRETCH+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 69
+#
+name: SAT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: BK001 SAT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: INPUT SAT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: SOURCE_IN_6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 74
+#
+name: PRESET
+type: parsed
+protocol: nec2
+address: 27.78
+command: 75
+#
+name: BK001 PRESET+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 75
+#
+name: VIDEO_SHARP-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 76
+#
+name: PAN +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 78
+#
+name: BK001 PANORAMA+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 78
+#
+name: VIDEO_STRETCH_2.35
+type: parsed
+protocol: nec2
+address: 27.78
+command: 81
+#
+name: BK001 INFO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 83
+#
+name: INFORMATION
+type: parsed
+protocol: nec2
+address: 27.78
+command: 83
+#
+name: VIDEO_BRIGHT-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 84
+#
+name: VIDEO_CONTROL_OFF
+type: parsed
+protocol: nec2
+address: 27.78
+command: 86
+#
+name: SOURCE_IN_11
+type: parsed
+protocol: nec2
+address: 27.78
+command: 87
+#
+name: VIDEO_ZOOM+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 89
+#
+name: VIDEO_DETAIL-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 94
+#
+name: VIDEO_LUMA_TRANSIENT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 97
+#
+name: BASS --
+type: parsed
+protocol: nec2
+address: 27.78
+command: 101
+#
+name: BASS -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 101
+#
+name: BK001 BASS-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 101
+#
+name: AUDIO_BASS-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 101
+#
+name: DPL
+type: parsed
+protocol: nec2
+address: 27.78
+command: 106
+#
+name: BK001 GAME
+type: parsed
+protocol: nec2
+address: 27.78
+command: 106
+#
+name: AUDIO_DOLBY_GAME
+type: parsed
+protocol: nec2
+address: 27.78
+command: 106
+#
+name: SOURCE_IN_9
+type: parsed
+protocol: nec2
+address: 27.78
+command: 110
+#
+name: MOVIE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 114
+#
+name: MOVIE PG 3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 114
+#
+name: BK001 MOVIE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 114
+#
+name: AUDIO_MOVIE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 114
+#
+name: TUNER_PREVIOUS
+type: parsed
+protocol: nec2
+address: 27.78
+command: 115
+#
+name: VIDEO_COLOR-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 116
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: BK001 AM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: TUNER_AM_BAND
+type: parsed
+protocol: nec2
+address: 27.78
+command: 118
+#
+name: SOURCE_IN_14
+type: parsed
+protocol: nec2
+address: 27.78
+command: 119
+#
+name: TREBLE -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 121
+#
+name: TREB -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 121
+#
+name: BK001 TREBLE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 121
+#
+name: AUDIO_TREBLE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 121
+#
+name: VIDEO_SOURCE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 122
+#
+name: BK001 EXIT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 125
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 125
+#
+name: VIDEO_MOSQUITO_NR
+type: parsed
+protocol: nec2
+address: 27.78
+command: 126
+#
+name: DIM +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 129
+#
+name: BK001 DIMENSION+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 129
+#
+name: VIDEO_STRETCH-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 133
+#
+name: THX
+type: parsed
+protocol: nec2
+address: 27.78
+command: 138
+#
+name: BK001 CINEMA
+type: parsed
+protocol: nec2
+address: 27.78
+command: 138
+#
+name: AUDIO_CINEMA
+type: parsed
+protocol: nec2
+address: 27.78
+command: 138
+#
+name: VIDEO_SHARP+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 140
+#
+name: VIDEO_PREFERENCE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 141
+#
+name: FM
+type: parsed
+protocol: nec
+address: 27.78
+command: 142
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: BK001 FM
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: TUNER_FM_BAND
+type: parsed
+protocol: nec2
+address: 27.78
+command: 142
+#
+name: VIDEO_PILLAR_BOX_ASP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 145
+#
+name: VIDEO_BRIGHT+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 148
+#
+name: SOURCE_IN_10
+type: parsed
+protocol: nec2
+address: 27.78
+command: 151
+#
+name: VIDEO_ZOOM-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 153
+#
+name: MONO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 154
+#
+name: BK001 MONO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 154
+#
+name: AUDIO_MONO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 154
+#
+name: VIDEO_WIDE_ASPECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 156
+#
+name: IMG +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 158
+#
+name: BK001 IMAGE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 158
+#
+name: VIDEO_CHROMA_ENHANCE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 161
+#
+name: TUNER_SEEK+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 165
+#
+name: NEO:6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 170
+#
+name: NEO 6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 170
+#
+name: BK001 NEO:6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 170
+#
+name: AUDIO_DTS_NEO:6
+type: parsed
+protocol: nec2
+address: 27.78
+command: 170
+#
+name: VIDEO_LIP_SYNC+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 177
+#
+name: MUSIC
+type: parsed
+protocol: nec2
+address: 27.78
+command: 178
+#
+name: MUSIC PG 3
+type: parsed
+protocol: nec2
+address: 27.78
+command: 178
+#
+name: BK001 MUSIC
+type: parsed
+protocol: nec2
+address: 27.78
+command: 178
+#
+name: AUDIO_MUSIC
+type: parsed
+protocol: nec2
+address: 27.78
+command: 178
+#
+name: BK001 SLEEP
+type: parsed
+protocol: nec2
+address: 27.78
+command: 179
+#
+name: VIDEO_SLEEP_TIMER
+type: parsed
+protocol: nec2
+address: 27.78
+command: 179
+#
+name: VIDEO_COLOR+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 180
+#
+name: SOURCE_IN_13
+type: parsed
+protocol: nec2
+address: 27.78
+command: 183
+#
+name: AUDIO_SOURCE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 186
+#
+name: VIDEO_TEMPORAL_NR
+type: parsed
+protocol: nec2
+address: 27.78
+command: 190
+#
+name: TUNER_GUIDE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 195
+#
+name: TUNER_SEEK-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 197
+#
+name: BK001 PRESET-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 198
+#
+name: SURR
+type: parsed
+protocol: nec2
+address: 27.78
+command: 202
+#
+name: BK001 SURROUND
+type: parsed
+protocol: nec2
+address: 27.78
+command: 202
+#
+name: PAN -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 206
+#
+name: BK001 PANORAMA-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 206
+#
+name: VIDEO_LIP_SYNC-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 209
+#
+name: AUDIO_LAST_INPUT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 211
+#
+name: VIDEO_CONTRAST+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 212
+#
+name: VIDEO_CONTROL_ON
+type: parsed
+protocol: nec2
+address: 27.78
+command: 214
+#
+name: SOURCE_IN_12
+type: parsed
+protocol: nec2
+address: 27.78
+command: 215
+#
+name: AUDIO_SOURCE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 218
+#
+name: VIDEO_DETAIL+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 222
+#
+name: VIDEO_ASPECT(STEP)
+type: parsed
+protocol: nec2
+address: 27.78
+command: 225
+#
+name: STEREO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 226
+#
+name: BK001 STEREO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 226
+#
+name: AUDIO_STEREO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 226
+#
+name: BASS +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 229
+#
+name: BK001 BASS+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 229
+#
+name: AUDIO_BASS+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 229
+#
+name: DPLII
+type: parsed
+protocol: nec2
+address: 27.78
+command: 234
+#
+name: DPL II
+type: parsed
+protocol: nec2
+address: 27.78
+command: 234
+#
+name: BK001 PRO LOGIC IIX
+type: parsed
+protocol: nec2
+address: 27.78
+command: 234
+#
+name: AUDIO_DOLBY_PLIIX
+type: parsed
+protocol: nec2
+address: 27.78
+command: 234
+#
+name: TUNER_STEREO_MONO
+type: parsed
+protocol: nec2
+address: 27.78
+command: 235
+#
+name: VIDEO_NO_ASPECT
+type: parsed
+protocol: nec2
+address: 27.78
+command: 236
+#
+name: IMG --
+type: parsed
+protocol: nec2
+address: 27.78
+command: 238
+#
+name: IMG -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 238
+#
+name: BK001 IMAGE-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 238
+#
+name: VIDEO_HUE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 244
+#
+name: AUDIO_PREFERENCE
+type: parsed
+protocol: nec2
+address: 27.78
+command: 245
+#
+name: TREBLE +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 249
+#
+name: TREB +
+type: parsed
+protocol: nec2
+address: 27.78
+command: 249
+#
+name: BK001 TREBLE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 249
+#
+name: AUDIO_TREBLE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 249
+#
+name: VIDEO_SOURCE+
+type: parsed
+protocol: nec2
+address: 27.78
+command: 250
+#
+name: DIM --
+type: parsed
+protocol: nec2
+address: 27.78
+command: 254
+#
+name: DIM -
+type: parsed
+protocol: nec2
+address: 27.78
+command: 254
+#
+name: BK001 DIMENSION-
+type: parsed
+protocol: nec2
+address: 27.78
+command: 254
+#

@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 1
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 2
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 128.112
+command: 3
+#
+name: <<SEARCH
+type: parsed
+protocol: nec1
+address: 128.112
+command: 6
+#
+name: SEARCH>>
+type: parsed
+protocol: nec1
+address: 128.112
+command: 6
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 128.112
+command: 10
+#
+name: INTRO SCAN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 13
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 14
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 128.112
+command: 15
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128.112
+command: 25
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 128.112
+command: 28
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128.112
+command: 64
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 77
+#
+name: SKIP UP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 80
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 81
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 82
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 83
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 84
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 85
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 86
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 87
+#
+name: SKIP DN
+type: parsed
+protocol: nec1
+address: 128.112
+command: 91
+#

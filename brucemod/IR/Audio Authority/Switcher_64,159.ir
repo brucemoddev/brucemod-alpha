@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 64.159
+command: 5
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 64.159
+command: 6
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 64.159
+command: 7
+#
+name: E
+type: parsed
+protocol: nec1
+address: 64.159
+command: 8
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 64.159
+command: 9
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 64.159
+command: 10
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 64.159
+command: 11
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 64.159
+command: 12
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 64.159
+command: 16
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 64.159
+command: 17
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 64.159
+command: 19
+#
+name: ZONE
+type: parsed
+protocol: nec1
+address: 64.159
+command: 20
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 64.159
+command: 22
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 64.159
+command: 23
+#
+name: ALL
+type: parsed
+protocol: nec1
+address: 64.159
+command: 24
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 64.159
+command: 26
+#
+name: B
+type: parsed
+protocol: nec1
+address: 64.159
+command: 27
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 64.159
+command: 30
+#
+name: UNIT
+type: parsed
+protocol: nec1
+address: 64.159
+command: 31
+#
+name: A
+type: parsed
+protocol: nec1
+address: 64.159
+command: 65
+#
+name: D
+type: parsed
+protocol: nec1
+address: 64.159
+command: 66
+#
+name: C
+type: parsed
+protocol: nec1
+address: 64.159
+command: 74
+#
+name: F
+type: parsed
+protocol: nec1
+address: 64.159
+command: 75
+#

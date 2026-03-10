@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 0
+command: 64
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 0
+command: 65
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 0
+command: 69
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 0
+command: 72
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 142
+#
+name: Next
+type: parsed
+protocol: nec
+address: 0
+command: 139
+#
+name: Previous
+type: parsed
+protocol: nec
+address: 0
+command: 138
+#
+name: SRC_DIG_AUDIO
+type: parsed
+protocol: nec
+address: 0
+command: 201
+#
+name: SRC_OPTICAL
+type: parsed
+protocol: nec
+address: 0
+command: 200
+#
+name: SRC_HDMI_IN
+type: parsed
+protocol: nec
+address: 0
+command: 171
+#
+name: SRC_ARC
+type: parsed
+protocol: nec
+address: 0
+command: 154
+#
+name: SRC_BT
+type: parsed
+protocol: nec
+address: 0
+command: 34
+#
+name: SRC_USB
+type: parsed
+protocol: nec
+address: 0
+command: 161
+#
+name: SRC_AUX
+type: parsed
+protocol: nec
+address: 0
+command: 177
+#
+name: bass_up
+type: parsed
+protocol: nec
+address: 0
+command: 107
+#
+name: bass_down
+type: parsed
+protocol: nec
+address: 0
+command: 106
+#
+name: treble_up
+type: parsed
+protocol: nec
+address: 0
+command: 105
+#
+name: treble_down
+type: parsed
+protocol: nec
+address: 0
+command: 104
+#
+name: CENTER_UP
+type: parsed
+protocol: nec
+address: 0
+command: 112
+#
+name: CENTER_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 110
+#
+name: SURR_ON
+type: parsed
+protocol: nec
+address: 0
+command: 35
+#
+name: SURR_OFF
+type: parsed
+protocol: nec
+address: 0
+command: 36
+#
+name: SURR_VOL_UP
+type: parsed
+protocol: nec
+address: 0
+command: 109
+#
+name: SURR_VOL_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 108
+#
+name: SURR_BAL_UP
+type: parsed
+protocol: nec
+address: 0
+command: 179
+#
+name: SURR_BAL_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 180
+#
+name: SUBWF_UP
+type: parsed
+protocol: nec
+address: 0
+command: 77
+#
+name: SUBWF_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 81
+#
+name: EQ_MUSIC
+type: parsed
+protocol: nec
+address: 0
+command: 102
+#
+name: EQ_DIRECT
+type: parsed
+protocol: nec
+address: 0
+command: 140
+#
+name: EQ_MOVIE
+type: parsed
+protocol: nec
+address: 0
+command: 103
+#
+name: TRUEVOL_ON
+type: parsed
+protocol: nec
+address: 0
+command: 40
+#
+name: TRUEVOL_OFF
+type: parsed
+protocol: nec
+address: 0
+command: 66
+#
+name: NIGHT_ON
+type: parsed
+protocol: nec
+address: 0
+command: 97
+#
+name: NIGHT_OFF
+type: parsed
+protocol: nec
+address: 0
+command: 98
+#
+name: AVDELAY_UP
+type: parsed
+protocol: nec
+address: 0
+command: 214
+#
+name: AVDELAY_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 113
+#
+name: VZTVREM_ON
+type: parsed
+protocol: nec
+address: 0
+command: 30
+#
+name: VZTVREM_OFF
+type: parsed
+protocol: nec
+address: 0
+command: 31
+#
+name: ECO_ON
+type: parsed
+protocol: nec
+address: 0
+command: 38
+#
+name: ECO_OFF
+type: parsed
+protocol: nec
+address: 0
+command: 39
+#
+name: SPKR_TEST
+type: parsed
+protocol: nec
+address: 0
+command: 172
+#
+name: BT_PAIR
+type: parsed
+protocol: nec
+address: 0
+command: 111
+#
+name: LINK_ENABLE
+type: parsed
+protocol: nec
+address: 0
+command: 135
+#
+name: RESET
+type: parsed
+protocol: nec
+address: 0
+command: 99
+#

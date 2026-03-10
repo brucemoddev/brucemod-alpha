@@ -1,0 +1,393 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 131.68
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 131.68
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 131.68
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 131.68
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 131.68
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 131.68
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 131.68
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 131.68
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 131.68
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 131.68
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 131.68
+command: 10
+#
+name: CD_DISC
+type: parsed
+protocol: nec
+address: 131.68
+command: 11
+#
+name: CD_Stop
+type: parsed
+protocol: nec
+address: 131.68
+command: 12
+#
+name: CD_Pause
+type: parsed
+protocol: nec
+address: 131.68
+command: 13
+#
+name: CD_Play
+type: parsed
+protocol: nec
+address: 131.68
+command: 14
+#
+name: CD_Skip_Back
+type: parsed
+protocol: nec
+address: 131.68
+command: 15
+#
+name: CD_Skip_Forward
+type: parsed
+protocol: nec
+address: 131.68
+command: 16
+#
+name: CD_Track_Back
+type: parsed
+protocol: nec
+address: 131.68
+command: 17
+#
+name: CD_Track_Forward
+type: parsed
+protocol: nec
+address: 131.68
+command: 18
+#
+name: CD_Repeat
+type: parsed
+protocol: nec
+address: 131.68
+command: 19
+#
+name: CD_Intro_Scan
+type: parsed
+protocol: nec
+address: 131.68
+command: 20
+#
+name: P.Scan
+type: parsed
+protocol: nec
+address: 131.68
+command: 24
+#
+name: DECKA_Record
+type: parsed
+protocol: nec
+address: 131.68
+command: 29
+#
+name: DECKA_Pause
+type: parsed
+protocol: nec
+address: 131.68
+command: 30
+#
+name: DECKA_Play_Rev
+type: parsed
+protocol: nec
+address: 131.68
+command: 31
+#
+name: DECKA_Play_For
+type: parsed
+protocol: nec
+address: 131.68
+command: 32
+#
+name: DECKA_Stop
+type: parsed
+protocol: nec
+address: 131.68
+command: 33
+#
+name: DECKA_Fast_Rewind
+type: parsed
+protocol: nec
+address: 131.68
+command: 34
+#
+name: DECKA_Fast_Forward
+type: parsed
+protocol: nec
+address: 131.68
+command: 35
+#
+name: DECKB_Record
+type: parsed
+protocol: nec
+address: 131.68
+command: 37
+#
+name: DECKB_Pause
+type: parsed
+protocol: nec
+address: 131.68
+command: 38
+#
+name: DECKB_Play_Rev
+type: parsed
+protocol: nec
+address: 131.68
+command: 39
+#
+name: DECKB_Play_For
+type: parsed
+protocol: nec
+address: 131.68
+command: 40
+#
+name: DECKB_Stop
+type: parsed
+protocol: nec
+address: 131.68
+command: 41
+#
+name: DECKB_Fast_Rewind
+type: parsed
+protocol: nec
+address: 131.68
+command: 42
+#
+name: DECKB_Fast_Forward
+type: parsed
+protocol: nec
+address: 131.68
+command: 43
+#
+name: FUNC_Phono
+type: parsed
+protocol: nec
+address: 131.68
+command: 50
+#
+name: FUNC_Tape2
+type: parsed
+protocol: nec
+address: 131.68
+command: 51
+#
+name: FUNC_Tape1
+type: parsed
+protocol: nec
+address: 131.68
+command: 52
+#
+name: FUNC_Tuner
+type: parsed
+protocol: nec
+address: 131.68
+command: 53
+#
+name: FUNC_CD
+type: parsed
+protocol: nec
+address: 131.68
+command: 54
+#
+name: FUNC_Aux
+type: parsed
+protocol: nec
+address: 131.68
+command: 55
+#
+name: FUNC_LDP
+type: parsed
+protocol: nec
+address: 131.68
+command: 57
+#
+name: FUNC_VCR1
+type: parsed
+protocol: nec
+address: 131.68
+command: 58
+#
+name: FUNC_VCR2
+type: parsed
+protocol: nec
+address: 131.68
+command: 59
+#
+name: S.Mode
+type: parsed
+protocol: nec
+address: 131.68
+command: 66
+#
+name: Display
+type: parsed
+protocol: nec
+address: 131.68
+command: 70
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 131.68
+command: 71
+#
+name: C.Mode
+type: parsed
+protocol: nec
+address: 131.68
+command: 75
+#
+name: T.Tone
+type: parsed
+protocol: nec
+address: 131.68
+command: 76
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 131.68
+command: 77
+#
+name: D.Time
+type: parsed
+protocol: nec
+address: 131.68
+command: 78
+#
+name: Center_Level_Down
+type: parsed
+protocol: nec
+address: 131.68
+command: 79
+#
+name: Center_Level_Up
+type: parsed
+protocol: nec
+address: 131.68
+command: 80
+#
+name: Rear_Level_Down
+type: parsed
+protocol: nec
+address: 131.68
+command: 81
+#
+name: Rear_Level_Up
+type: parsed
+protocol: nec
+address: 131.68
+command: 82
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 131.68
+command: 83
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 131.68
+command: 84
+#
+name: Master_Volume_Up
+type: parsed
+protocol: nec
+address: 131.68
+command: 85
+#
+name: Master_Volume_Down
+type: parsed
+protocol: nec
+address: 131.68
+command: 86
+#
+name: EQ_Display
+type: parsed
+protocol: nec
+address: 131.68
+command: 91
+#
+name: EQ_T.Mon
+type: parsed
+protocol: nec
+address: 131.68
+command: 92
+#
+name: EQ_Preset
+type: parsed
+protocol: nec
+address: 131.68
+command: 93
+#
+name: EQ_User
+type: parsed
+protocol: nec
+address: 131.68
+command: 94
+#
+name: EQ_File
+type: parsed
+protocol: nec
+address: 131.68
+command: 95
+#

@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: sony20
+address: 26.122
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 26.122
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 26.122
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 26.122
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 26.122
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony20
+address: 26.122
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony20
+address: 26.122
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony20
+address: 26.122
+command: 8
+#
+name: ENTER
+type: parsed
+protocol: sony20
+address: 26.122
+command: 11
+#
+name: RETURN
+type: parsed
+protocol: sony20
+address: 26.122
+command: 14
+#
+name: CLEAR
+type: parsed
+protocol: sony20
+address: 26.122
+command: 15
+#
+name: OPEN CLOSE
+type: parsed
+protocol: sony20
+address: 26.122
+command: 22
+#
+name: DVD MENU
+type: parsed
+protocol: sony20
+address: 26.122
+command: 27
+#
+name: PWRON
+type: parsed
+protocol: sony20
+address: 26.122
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony20
+address: 26.122
+command: 47
+#
+name: PREV TRACK
+type: parsed
+protocol: sony20
+address: 26.122
+command: 48
+#
+name: NEXT TRACK
+type: parsed
+protocol: sony20
+address: 26.122
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony20
+address: 26.122
+command: 50
+#
+name: SKAN REW
+type: parsed
+protocol: sony20
+address: 26.122
+command: 51
+#
+name: SKAN FF
+type: parsed
+protocol: sony20
+address: 26.122
+command: 52
+#
+name: STOP
+type: parsed
+protocol: sony20
+address: 26.122
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony20
+address: 26.122
+command: 57
+#
+name: STEP REW
+type: parsed
+protocol: sony20
+address: 26.122
+command: 58
+#
+name: STEP FF
+type: parsed
+protocol: sony20
+address: 26.122
+command: 59
+#
+name: DISK1
+type: parsed
+protocol: sony20
+address: 26.122
+command: 64
+#
+name: DISK2
+type: parsed
+protocol: sony20
+address: 26.122
+command: 65
+#
+name: DISK3
+type: parsed
+protocol: sony20
+address: 26.122
+command: 66
+#
+name: DISK4
+type: parsed
+protocol: sony20
+address: 26.122
+command: 67
+#
+name: DISK5
+type: parsed
+protocol: sony20
+address: 26.122
+command: 68
+#
+name: MENU
+type: parsed
+protocol: sony20
+address: 26.122
+command: 83
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 26.122
+command: 84
+#
+name: SUBTITTLE ON OFF
+type: parsed
+protocol: sony20
+address: 26.122
+command: 98
+#
+name: SUBTITTLE CHANGE
+type: parsed
+protocol: sony20
+address: 26.122
+command: 99
+#
+name: AUDIO CHANGE
+type: parsed
+protocol: sony20
+address: 26.122
+command: 100
+#
+name: ANGLE CHANGE
+type: parsed
+protocol: sony20
+address: 26.122
+command: 101
+#
+name: CURSER UP
+type: parsed
+protocol: sony20
+address: 26.122
+command: 121
+#
+name: CURSER DOWN
+type: parsed
+protocol: sony20
+address: 26.122
+command: 122
+#
+name: CURSER LEFT
+type: parsed
+protocol: sony20
+address: 26.122
+command: 123
+#
+name: CURSER RIGHT
+type: parsed
+protocol: sony20
+address: 26.122
+command: 124
+#

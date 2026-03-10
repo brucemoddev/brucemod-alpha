@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: denon_1
+address: 8
+command: 65
+#
+name: KEY_1
+type: parsed
+protocol: denon_1
+address: 8
+command: 66
+#
+name: KEY_2
+type: parsed
+protocol: denon_1
+address: 8
+command: 67
+#
+name: KEY_3
+type: parsed
+protocol: denon_1
+address: 8
+command: 68
+#
+name: KEY_4
+type: parsed
+protocol: denon_1
+address: 8
+command: 69
+#
+name: KEY_5
+type: parsed
+protocol: denon_1
+address: 8
+command: 70
+#
+name: KEY_6
+type: parsed
+protocol: denon_1
+address: 8
+command: 71
+#
+name: KEY_7
+type: parsed
+protocol: denon_1
+address: 8
+command: 72
+#
+name: KEY_8
+type: parsed
+protocol: denon_1
+address: 8
+command: 73
+#
+name: KEY_9
+type: parsed
+protocol: denon_1
+address: 8
+command: 74
+#
+name: KEY_0
+type: parsed
+protocol: denon_1
+address: 8
+command: 75
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: denon_1
+address: 8
+command: 76
+#
+name: program
+type: parsed
+protocol: denon_1
+address: 8
+command: 77
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: denon_1
+address: 8
+command: 78
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: denon_1
+address: 8
+command: 79
+#
+name: KEY_OPEN
+type: parsed
+protocol: denon_1
+address: 8
+command: 80
+#
+name: KEY_CLEAR
+type: parsed
+protocol: denon_1
+address: 8
+command: 81
+#
+name: call
+type: parsed
+protocol: denon_1
+address: 8
+command: 82
+#
+name: KEY_TIME
+type: parsed
+protocol: denon_1
+address: 8
+command: 83
+#
+name: KEY_AGAIN
+type: parsed
+protocol: denon_1
+address: 8
+command: 84
+#
+name: A-B
+type: parsed
+protocol: denon_1
+address: 8
+command: 85
+#
+name: index
+type: parsed
+protocol: denon_1
+address: 8
+command: 86
+#
+name: direct
+type: parsed
+protocol: denon_1
+address: 8
+command: 87
+#
+name: nxt_track
+type: parsed
+protocol: denon_1
+address: 8
+command: 88
+#
+name: prv_track
+type: parsed
+protocol: denon_1
+address: 8
+command: 89
+#
+name: KEY_FORWARD
+type: parsed
+protocol: denon_1
+address: 8
+command: 90
+#
+name: KEY_BACK
+type: parsed
+protocol: denon_1
+address: 8
+command: 91
+#
+name: KEY_PLAY
+type: parsed
+protocol: denon_1
+address: 8
+command: 92
+#
+name: KEY_PAUSE
+type: parsed
+protocol: denon_1
+address: 8
+command: 93
+#
+name: KEY_STOP
+type: parsed
+protocol: denon_1
+address: 8
+command: 94
+#
+name: auto_space
+type: parsed
+protocol: denon_1
+address: 8
+command: 97
+#
+name: auto_edit
+type: parsed
+protocol: denon_1
+address: 8
+command: 99
+#
+name: random
+type: parsed
+protocol: denon_1
+address: 8
+command: 106
+#
+name: peak
+type: parsed
+protocol: denon_1
+address: 8
+command: 111
+#
+name: display
+type: parsed
+protocol: denon_1
+address: 8
+command: 117
+#
+name: fader
+type: parsed
+protocol: denon_1
+address: 8
+command: 118
+#
+name: pitch+
+type: parsed
+protocol: denon_1
+address: 8
+command: 119
+#
+name: pitch-
+type: parsed
+protocol: denon_1
+address: 8
+command: 120
+#

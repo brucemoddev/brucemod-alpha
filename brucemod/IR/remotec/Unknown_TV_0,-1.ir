@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: tv-0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: tv-1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: tv-2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: tv-3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: tv-4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: tv-5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: tv-6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: tv-7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: tv-8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: tv-9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: tv-double
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: tv-p2p
+type: parsed
+protocol: rc5
+address: 0
+command: 11
+#
+name: tv-off
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: tv-mute
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: tv-vol-up
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: tv-vol-down
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: tv-p-up
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: tv-p-down
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: tv-1-2
+type: parsed
+protocol: rc5
+address: 0
+command: 35
+#
+name: tv-pause
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: tv-prev
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: tv-next
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: tv-switch
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: tv-stop
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: tv-play
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#

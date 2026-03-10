@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.153
+command: 0
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 0.153
+command: 1
+#
+name: Resume
+type: parsed
+protocol: nec
+address: 0.153
+command: 2
+#
+name: A-B
+type: parsed
+protocol: nec
+address: 0.153
+command: 4
+#
+name: TimeSearch
+type: parsed
+protocol: nec
+address: 0.153
+command: 5
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.153
+command: 6
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 0.153
+command: 7
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.153
+command: 9
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.153
+command: 10
+#
+name: Digest
+type: parsed
+protocol: nec
+address: 0.153
+command: 11
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.153
+command: 12
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.153
+command: 13
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0.153
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.153
+command: 15
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.153
+command: 17
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.153
+command: 18
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0.153
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.153
+command: 20
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.153
+command: 21
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 0.153
+command: 22
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.153
+command: 23
+#
+name: AudioMode
+type: parsed
+protocol: nec
+address: 0.153
+command: 24
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.153
+command: 25
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 0.153
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.153
+command: 27
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.153
+command: 29
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.153
+command: 30
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.153
+command: 31
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 0.153
+command: 64
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 0.153
+command: 77
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.153
+command: 78
+#
+name: O))
+type: parsed
+protocol: nec
+address: 0.153
+command: 83
+#
+name: Camcorder
+type: parsed
+protocol: nec
+address: 0.153
+command: 84
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 0.153
+command: 85
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0.153
+command: 86
+#
+name: ||>
+type: parsed
+protocol: nec
+address: 0.153
+command: 87
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.153
+command: 91
+#
+name: UpArrow
+type: parsed
+protocol: nec
+address: 0.153
+command: 92
+#
+name: DownArrow
+type: parsed
+protocol: nec
+address: 0.153
+command: 93
+#
+name: LeftArrow
+type: parsed
+protocol: nec
+address: 0.153
+command: 94
+#
+name: RightArrow
+type: parsed
+protocol: nec
+address: 0.153
+command: 95
+#

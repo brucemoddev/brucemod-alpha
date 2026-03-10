@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: optical
+type: parsed
+protocol: nec
+address: 193.68
+command: 15
+#
+name: rear_center
+type: parsed
+protocol: nec
+address: 193.68
+command: 23
+#
+name: coaxial
+type: parsed
+protocol: nec
+address: 193.68
+command: 39
+#
+name: stereo
+type: parsed
+protocol: nec
+address: 193.68
+command: 47
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 193.68
+command: 71
+#
+name: dynamic_mode
+type: parsed
+protocol: nec
+address: 193.68
+command: 79
+#
+name: analog
+type: parsed
+protocol: nec
+address: 193.68
+command: 87
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 193.68
+command: 103
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 193.68
+command: 119
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 193.68
+command: 135
+#
+name: center
+type: parsed
+protocol: nec
+address: 193.68
+command: 151
+#
+name: dolby_pl_ii
+type: parsed
+protocol: nec
+address: 193.68
+command: 167
+#
+name: ned_6
+type: parsed
+protocol: nec
+address: 193.68
+command: 183
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 199
+#
+name: dolby_digital_ex
+type: parsed
+protocol: nec
+address: 193.68
+command: 207
+#
+name: rear
+type: parsed
+protocol: nec
+address: 193.68
+command: 231
+#
+name: test
+type: parsed
+protocol: nec
+address: 193.68
+command: 247
+#

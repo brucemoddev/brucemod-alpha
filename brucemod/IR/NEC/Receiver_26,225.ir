@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER 1
+type: parsed
+protocol: nec1
+address: 26.225
+command: 16
+#
+name: TUNER 2
+type: parsed
+protocol: nec1
+address: 26.225
+command: 17
+#
+name: TUNER 3
+type: parsed
+protocol: nec1
+address: 26.225
+command: 18
+#
+name: TUNER 4
+type: parsed
+protocol: nec1
+address: 26.225
+command: 19
+#
+name: TUNER 5
+type: parsed
+protocol: nec1
+address: 26.225
+command: 20
+#
+name: TUNER 6
+type: parsed
+protocol: nec1
+address: 26.225
+command: 21
+#
+name: TUNER 7
+type: parsed
+protocol: nec1
+address: 26.225
+command: 22
+#
+name: TUNER 8
+type: parsed
+protocol: nec1
+address: 26.225
+command: 23
+#
+name: TUNER 9
+type: parsed
+protocol: nec1
+address: 26.225
+command: 24
+#
+name: TUNER 0
+type: parsed
+protocol: nec1
+address: 26.225
+command: 26
+#

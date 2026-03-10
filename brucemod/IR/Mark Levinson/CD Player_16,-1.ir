@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 16
+command: 0
+#

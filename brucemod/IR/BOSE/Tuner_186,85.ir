@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186.85
+command: 1
+#
+name: VOLUME V
+type: parsed
+protocol: nec2
+address: 186.85
+command: 2
+#
+name: VOLUME ^
+type: parsed
+protocol: nec2
+address: 186.85
+command: 3
+#
+name: AM/FM
+type: parsed
+protocol: nec2
+address: 186.85
+command: 6
+#
+name: SURROUND -
+type: parsed
+protocol: nec2
+address: 186.85
+command: 10
+#
+name: SURROUND +
+type: parsed
+protocol: nec2
+address: 186.85
+command: 11
+#
+name: VIDEO 2
+type: parsed
+protocol: nec2
+address: 186.85
+command: 13
+#
+name: VIDEO 1
+type: parsed
+protocol: nec2
+address: 186.85
+command: 14
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 186.85
+command: 15
+#
+name: SKIP FWD >>
+type: parsed
+protocol: nec2
+address: 186.85
+command: 25
+#
+name: STOP []
+type: parsed
+protocol: nec2
+address: 186.85
+command: 26
+#
+name: SPEAKER STEREO
+type: parsed
+protocol: nec2
+address: 186.85
+command: 75
+#
+name: ON/OFF
+type: parsed
+protocol: nec2
+address: 186.85
+command: 76
+#
+name: MUTE ALL
+type: parsed
+protocol: nec2
+address: 186.85
+command: 77
+#
+name: SPEAKER SURROUND
+type: parsed
+protocol: nec2
+address: 186.85
+command: 78
+#
+name: SPEAKER STEREO/CNTR
+type: parsed
+protocol: nec2
+address: 186.85
+command: 79
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 186.85
+command: 82
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 186.85
+command: 83
+#
+name: PLAY >
+type: parsed
+protocol: nec2
+address: 186.85
+command: 85
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 186.85
+command: 86
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 186.85
+command: 92
+#
+name: NEXT DISC
+type: parsed
+protocol: nec2
+address: 186.85
+command: 93
+#

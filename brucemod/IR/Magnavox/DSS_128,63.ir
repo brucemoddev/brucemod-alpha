@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 3
+type: parsed
+protocol: nec2
+address: 128.63
+command: 12
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 128.63
+command: 13
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 128.63
+command: 14
+#
+name: THEME
+type: parsed
+protocol: nec2
+address: 128.63
+command: 17
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 128.63
+command: 18
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 128.63
+command: 20
+#
+name: CHANNEL -
+type: parsed
+protocol: nec2
+address: 128.63
+command: 21
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 128.63
+command: 21
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 128.63
+command: 22
+#
+name: PAGE
+type: parsed
+protocol: nec2
+address: 128.63
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: nec2
+address: 128.63
+command: 29
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 128.63
+command: 29
+#
+name: JUMP
+type: parsed
+protocol: nec2
+address: 128.63
+command: 30
+#
+name: TV/DSS
+type: parsed
+protocol: nec2
+address: 128.63
+command: 64
+#
+name: ALTERNATE AUDIO
+type: parsed
+protocol: nec2
+address: 128.63
+command: 65
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 128.63
+command: 66
+#
+name: FAVORITE
+type: parsed
+protocol: nec2
+address: 128.63
+command: 67
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 128.63
+command: 68
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 128.63
+command: 69
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 128.63
+command: 71
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 128.63
+command: 73
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 128.63
+command: 76
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 128.63
+command: 77
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 128.63
+command: 78
+#
+name: INFO
+type: parsed
+protocol: nec2
+address: 128.63
+command: 83
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 128.63
+command: 84
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 128.63
+command: 85
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 128.63
+command: 86
+#

@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 49
+command: 1
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 49
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 49
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 49
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 49
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 49
+command: 7
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 49
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 49
+command: 13
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 49
+command: 14
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 49
+command: 15
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 49
+command: 16
+#
+name: STILL
+type: parsed
+protocol: nec
+address: 49
+command: 17
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 49
+command: 18
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 49
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 49
+command: 20
+#
+name: RE
+type: parsed
+protocol: nec
+address: 49
+command: 21
+#
+name: INDEX
+type: parsed
+protocol: nec
+address: 49
+command: 25
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 49
+command: 28
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 49
+command: 29
+#
+name: INPUT
+type: parsed
+protocol: nec
+address: 49
+command: 30
+#
+name: MEM
+type: parsed
+protocol: nec
+address: 49
+command: 67
+#
+name: RESET
+type: parsed
+protocol: nec
+address: 49
+command: 68
+#
+name: TYPE
+type: parsed
+protocol: nec
+address: 49
+command: 70
+#
+name: CLR
+type: parsed
+protocol: nec
+address: 49
+command: 74
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 49
+command: 75
+#
+name: VPS
+type: parsed
+protocol: nec
+address: 49
+command: 79
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 49
+command: 91
+#
+name: SHOWVIEW
+type: parsed
+protocol: nec
+address: 49
+command: 140
+#
+name: PRESET
+type: parsed
+protocol: nec
+address: 49
+command: 158
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 49
+command: 202
+#

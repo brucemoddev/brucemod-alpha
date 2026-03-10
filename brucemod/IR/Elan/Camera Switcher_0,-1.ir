@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: QUAD
+type: parsed
+protocol: nec1
+address: 0
+command: 0
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 0
+command: 1
+#
+name: PIP
+type: parsed
+protocol: nec1
+address: 0
+command: 4
+#
+name: FREEZE/SEQUENCE
+type: parsed
+protocol: nec1
+address: 0
+command: 5
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 0
+command: 8
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 0
+command: 9
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 0
+command: 10
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 0
+command: 12
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 0
+command: 13
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 0
+command: 14
+#
+name: CURSOR ENTER/MENU
+type: parsed
+protocol: nec1
+address: 0
+command: 16
+#
+name: VIDEO 1
+type: parsed
+protocol: nec
+address: 0
+command: 17
+#
+name: 
+type: parsed
+protocol: nec1
+address: 0
+command: 17
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 0
+command: 18
+#

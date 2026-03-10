@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL / PAGE UP
+type: parsed
+protocol: nec1
+address: 247
+command: 0
+#
+name: CHANNEL / PAGE DOWN
+type: parsed
+protocol: nec1
+address: 247
+command: 1
+#
+name: CUR UP
+type: parsed
+protocol: nec1
+address: 247
+command: 4
+#
+name: CUR DOWN
+type: parsed
+protocol: nec1
+address: 247
+command: 5
+#
+name: CUR RIGHT
+type: parsed
+protocol: nec1
+address: 247
+command: 6
+#
+name: CUR LEFT
+type: parsed
+protocol: nec1
+address: 247
+command: 7
+#
+name: POWER (TOGGLE)
+type: parsed
+protocol: nec1
+address: 247
+command: 8
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 247
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 247
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 247
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 247
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 247
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 247
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 247
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 247
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 247
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 247
+command: 25
+#
+name: PREV-CHAN
+type: parsed
+protocol: nec1
+address: 247
+command: 26
+#
+name: SURF
+type: parsed
+protocol: nec1
+address: 247
+command: 30
+#
+name: CC/DATE
+type: parsed
+protocol: nec1
+address: 247
+command: 57
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 247
+command: 67
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 247
+command: 68
+#
+name: - (DASH)
+type: parsed
+protocol: nec1
+address: 247
+command: 76
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 247
+command: 91
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 247
+command: 101
+#
+name: RATIO
+type: parsed
+protocol: nec1
+address: 247
+command: 121
+#
+name: HELP
+type: parsed
+protocol: nec1
+address: 247
+command: 129
+#
+name: SIGNAL
+type: parsed
+protocol: nec1
+address: 247
+command: 150
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 247
+command: 169
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 247
+command: 170
+#

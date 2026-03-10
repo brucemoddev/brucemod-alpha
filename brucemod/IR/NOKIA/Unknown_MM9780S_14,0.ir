@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ZERO
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 0
+#
+name: ONE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 1
+#
+name: TWO
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 2
+#
+name: THREE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 3
+#
+name: FOUR
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 4
+#
+name: FIVE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 5
+#
+name: SIX
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 6
+#
+name: SEVEN
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 7
+#
+name: EIGHT
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 8
+#
+name: NINE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 9
+#
+name: PWR
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 13
+#
+name: INFO
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 15
+#
+name: VOL+
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 16
+#
+name: VOL-
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 17
+#
+name: EXIT
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 35
+#
+name: PROG+
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 50
+#
+name: PROG-
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 52
+#
+name: RED
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 60
+#
+name: GREEN
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 63
+#
+name: PGUP
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 77
+#
+name: PGDN
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 78
+#
+name: UP
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 80
+#
+name: DN
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 81
+#
+name: MENU
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 82
+#
+name: YELLOW
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 83
+#
+name: LEFT
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 85
+#
+name: RIGHT
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 86
+#
+name: GUIDE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 87
+#
+name: TEXT
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 90
+#
+name: OK
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 98
+#
+name: BLUE
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 100
+#
+name: BACK
+type: parsed
+protocol: Nokia32
+address: 14.0
+command: 103
+#

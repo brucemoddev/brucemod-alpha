@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SETUP HOME
+type: parsed
+protocol: nec1
+address: 210.25
+command: 192
+#
+name: AUDIO BALANCE
+type: parsed
+protocol: nec1
+address: 210.25
+command: 193
+#
+name: AUDIO COAX/OPT AUTO
+type: parsed
+protocol: nec1
+address: 210.25
+command: 194
+#
+name: RESOLUTION 1080P/24F
+type: parsed
+protocol: nec1
+address: 210.25
+command: 195
+#
+name: MODE THX MUSIC
+type: parsed
+protocol: nec1
+address: 210.25
+command: 196
+#
+name: MODE THX GAMES
+type: parsed
+protocol: nec1
+address: 210.25
+command: 197
+#
+name: MODE NEURAL CINEMA
+type: parsed
+protocol: nec1
+address: 210.25
+command: 198
+#
+name: MODE NEURAL MUSIC
+type: parsed
+protocol: nec1
+address: 210.25
+command: 199
+#
+name: RESOLUTION SOURCE
+type: parsed
+protocol: nec1
+address: 210.25
+command: 201
+#
+name: RESOLUTION THRU
+type: parsed
+protocol: nec1
+address: 210.25
+command: 202
+#
+name: RESOLUTION AUTO
+type: parsed
+protocol: nec1
+address: 210.25
+command: 203
+#
+name: RESOLUTION 480P
+type: parsed
+protocol: nec1
+address: 210.25
+command: 204
+#
+name: RESOLUTION 720P
+type: parsed
+protocol: nec1
+address: 210.25
+command: 205
+#
+name: RESOLUTION 1080I
+type: parsed
+protocol: nec1
+address: 210.25
+command: 206
+#
+name: RESOLUTION 1080P
+type: parsed
+protocol: nec1
+address: 210.25
+command: 207
+#
+name: AUDIO AUTO
+type: parsed
+protocol: nec1
+address: 210.25
+command: 208
+#
+name: AUDIO ANALOG
+type: parsed
+protocol: nec1
+address: 210.25
+command: 209
+#
+name: AUDIO MULTI CHANNEL
+type: parsed
+protocol: nec1
+address: 210.25
+command: 210
+#
+name: AUDIO HDMI
+type: parsed
+protocol: nec1
+address: 210.25
+command: 211
+#
+name: MODE PLLX THX MUSIC
+type: parsed
+protocol: nec1
+address: 210.25
+command: 212
+#
+name: MODE PLLX THX GAMES
+type: parsed
+protocol: nec1
+address: 210.25
+command: 214
+#
+name: MODE NEO THX GAMES
+type: parsed
+protocol: nec1
+address: 210.25
+command: 215
+#
+name: MODE NEURAL THX GAME
+type: parsed
+protocol: nec1
+address: 210.25
+command: 215
+#
+name: MODE PLLX THX CINEMA
+type: parsed
+protocol: nec1
+address: 210.25
+command: 216
+#
+name: MODE THX CINEMA
+type: parsed
+protocol: nec1
+address: 210.25
+command: 218
+#
+name: MODE THX SURR EX
+type: parsed
+protocol: nec1
+address: 210.25
+command: 219
+#
+name: MODE THX ULTRA2
+type: parsed
+protocol: nec1
+address: 210.25
+command: 220
+#
+name: MODE THX MUSIC MODE2
+type: parsed
+protocol: nec1
+address: 210.25
+command: 221
+#
+name: MODE THX GAMES MODE2
+type: parsed
+protocol: nec1
+address: 210.25
+command: 222
+#
+name: MODE NEURAL THX SURR
+type: parsed
+protocol: nec1
+address: 210.25
+command: 223
+#

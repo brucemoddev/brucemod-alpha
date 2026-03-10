@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MULTI CHANEL INPUT
+type: parsed
+protocol: nec1
+address: 210.108
+command: 4
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 210.108
+command: 140
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.108
+command: 140
+#

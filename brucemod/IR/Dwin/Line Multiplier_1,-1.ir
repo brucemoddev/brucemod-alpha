@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sharp
+address: 1
+command: 1
+#
+name: 2
+type: parsed
+protocol: sharp
+address: 1
+command: 2
+#
+name: 3
+type: parsed
+protocol: sharp
+address: 1
+command: 3
+#
+name: 4
+type: parsed
+protocol: sharp
+address: 1
+command: 4
+#
+name: 5
+type: parsed
+protocol: sharp
+address: 1
+command: 5
+#
+name: 6
+type: parsed
+protocol: sharp
+address: 1
+command: 6
+#
+name: 7
+type: parsed
+protocol: sharp
+address: 1
+command: 7
+#
+name: 8
+type: parsed
+protocol: sharp
+address: 1
+command: 8
+#
+name: 9
+type: parsed
+protocol: sharp
+address: 1
+command: 9
+#
+name: 0
+type: parsed
+protocol: sharp
+address: 1
+command: 10
+#
+name: ENTER
+type: parsed
+protocol: sharp
+address: 1
+command: 11
+#
+name: +10
+type: parsed
+protocol: sharp
+address: 1
+command: 12
+#
+name: FAV
+type: parsed
+protocol: sharp
+address: 1
+command: 13
+#
+name: INFO
+type: parsed
+protocol: sharp
+address: 1
+command: 14
+#
+name: ALT
+type: parsed
+protocol: sharp
+address: 1
+command: 15
+#
+name: CH +
+type: parsed
+protocol: sharp
+address: 1
+command: 17
+#
+name: CH -
+type: parsed
+protocol: sharp
+address: 1
+command: 18
+#
+name: T/V
+type: parsed
+protocol: sharp
+address: 1
+command: 19
+#
+name: VOL +
+type: parsed
+protocol: sharp
+address: 1
+command: 20
+#
+name: VOL -
+type: parsed
+protocol: sharp
+address: 1
+command: 21
+#
+name: POWER
+type: parsed
+protocol: sharp
+address: 1
+command: 22
+#
+name: MUTE
+type: parsed
+protocol: sharp
+address: 1
+command: 23
+#
+name: CD
+type: parsed
+protocol: sharp
+address: 1
+command: 24
+#
+name: GUIDE
+type: parsed
+protocol: sharp
+address: 1
+command: 24
+#
+name: NEXT
+type: parsed
+protocol: sharp
+address: 1
+command: 26
+#
+name: TUNER
+type: parsed
+protocol: sharp
+address: 1
+command: 26
+#
+name: MENU
+type: parsed
+protocol: sharp
+address: 1
+command: 27
+#
+name: PREV CH
+type: parsed
+protocol: sharp
+address: 1
+command: 28
+#
+name: SELECT
+type: parsed
+protocol: sharp
+address: 1
+command: 31
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sharp
+address: 1
+command: 32
+#
+name: EXIT
+type: parsed
+protocol: sharp
+address: 1
+command: 47
+#
+name: CURSOR UP
+type: parsed
+protocol: sharp
+address: 1
+command: 73
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sharp
+address: 1
+command: 79
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sharp
+address: 1
+command: 80
+#

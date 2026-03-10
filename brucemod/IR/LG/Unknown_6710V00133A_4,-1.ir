@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: nec
+address: 4
+command: 11
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 4
+command: 67
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: arc
+type: parsed
+protocol: nec
+address: 4
+command: 121
+#
+name: blank
+type: parsed
+protocol: nec
+address: 4
+command: 132
+#
+name: auto
+type: parsed
+protocol: nec
+address: 4
+command: 146
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 4
+command: 164
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 4
+command: 165
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 4
+command: 173
+#
+name: still
+type: parsed
+protocol: nec
+address: 4
+command: 188
+#

@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP []
+type: parsed
+protocol: panasonic
+address: 2
+command: 0
+#
+name: EJECT
+type: parsed
+protocol: panasonic
+address: 2
+command: 1
+#
+name: REW/SEARCH <<
+type: parsed
+protocol: panasonic
+address: 2
+command: 2
+#
+name: FF/SEARCH >>
+type: parsed
+protocol: panasonic
+address: 2
+command: 3
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: panasonic
+address: 2
+command: 6
+#
+name: REC
+type: parsed
+protocol: panasonic
+address: 2
+command: 8
+#
+name: RECORD
+type: parsed
+protocol: panasonic
+address: 2
+command: 8
+#
+name: PLAY >
+type: parsed
+protocol: panasonic
+address: 2
+command: 10
+#
+name: SLOW >
+type: parsed
+protocol: panasonic
+address: 2
+command: 15
+#
+name: 1 (AM)
+type: parsed
+protocol: panasonic
+address: 2
+command: 16
+#
+name: 1 AM
+type: parsed
+protocol: panasonic
+address: 2
+command: 16
+#
+name: 2 (PM)
+type: parsed
+protocol: panasonic
+address: 2
+command: 17
+#
+name: 2 PM
+type: parsed
+protocol: panasonic
+address: 2
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 2
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 2
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 2
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 2
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 2
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 2
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 2
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 2
+command: 25
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 2
+command: 32
+#
+name: CH SCAN ^
+type: parsed
+protocol: panasonic
+address: 2
+command: 34
+#
+name: CH SCAN V
+type: parsed
+protocol: panasonic
+address: 2
+command: 35
+#
+name: SPEED
+type: parsed
+protocol: panasonic
+address: 2
+command: 37
+#
+name: VCR/TV
+type: parsed
+protocol: panasonic
+address: 2
+command: 42
+#
+name: COUNTER MEMORY
+type: parsed
+protocol: panasonic
+address: 2
+command: 50
+#
+name: RESET
+type: parsed
+protocol: panasonic
+address: 2
+command: 51
+#
+name: CLEAR RESET
+type: parsed
+protocol: panasonic
+address: 2
+command: 51
+#
+name: TRACKING ^
+type: parsed
+protocol: panasonic
+address: 2
+command: 56
+#
+name: V-LOCK TRACKING ^
+type: parsed
+protocol: panasonic
+address: 2
+command: 56
+#
+name: TRACKING V
+type: parsed
+protocol: panasonic
+address: 2
+command: 57
+#
+name: V-LOCK TRACKING V
+type: parsed
+protocol: panasonic
+address: 2
+command: 57
+#
+name: STANDBY
+type: parsed
+protocol: panasonic
+address: 2
+command: 62
+#
+name: OTR
+type: parsed
+protocol: panasonic
+address: 2
+command: 63
+#

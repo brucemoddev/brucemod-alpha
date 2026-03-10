@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LEFT
+type: parsed
+protocol: nec1
+address: 48
+command: 0
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 48
+command: 2
+#
+name: PIP SOURCE
+type: parsed
+protocol: nec1
+address: 48
+command: 6
+#
+name: PIP SIZE
+type: parsed
+protocol: nec1
+address: 48
+command: 7
+#
+name: SOURCE
+type: parsed
+protocol: nec1
+address: 48
+command: 8
+#
+name: PIP POS.
+type: parsed
+protocol: nec1
+address: 48
+command: 9
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 48
+command: 10
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 48
+command: 12
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 48
+command: 13
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 48
+command: 14
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 48
+command: 16
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 48
+command: 18
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 48
+command: 24
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 48
+command: 26
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 48
+command: 32
+#
+name: VOLUME-
+type: parsed
+protocol: nec1
+address: 48
+command: 34
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 48
+command: 40
+#
+name: BLANK
+type: parsed
+protocol: nec1
+address: 48
+command: 42
+#
+name: D.ZOOM+
+type: parsed
+protocol: nec1
+address: 48
+command: 44
+#
+name: D.ZOOM-
+type: parsed
+protocol: nec1
+address: 48
+command: 45
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 48
+command: 66
+#

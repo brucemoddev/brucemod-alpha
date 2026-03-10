@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 7
+command: 2
+#
+name: 123 L SETTING
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: Up
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: Down
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: Left
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: Right
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: Ok
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: home
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: PLAY L PAUSE
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: BACK BUTTON
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: v_up
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: v_down
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: ch_up
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: ch_down
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: GUIDE CHANNEL
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: NETFLIX
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: SAMSUNG_TV
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: DISNEY
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: PRIME VIDEO
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#
+name: MIC
+type: parsed
+protocol: necx2
+address: 7
+command: 209
+#

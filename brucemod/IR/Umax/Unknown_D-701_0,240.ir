@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: pro-logic
+type: parsed
+protocol: nec
+address: 0.240
+command: 1
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.240
+command: 4
+#
+name: surround-spsetup
+type: parsed
+protocol: nec
+address: 0.240
+command: 6
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 0.240
+command: 7
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 0.240
+command: 9
+#
+name: KEY_MAX
+type: parsed
+protocol: nec
+address: 0.240
+command: 10
+#
+name: balance
+type: parsed
+protocol: nec
+address: 0.240
+command: 11
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0.240
+command: 12
+#
+name: coaxial2
+type: parsed
+protocol: nec
+address: 0.240
+command: 13
+#
+name: night
+type: parsed
+protocol: nec
+address: 0.240
+command: 14
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.240
+command: 15
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.240
+command: 16
+#
+name: center_deytime
+type: parsed
+protocol: nec
+address: 0.240
+command: 17
+#
+name: test
+type: parsed
+protocol: nec
+address: 0.240
+command: 18
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.240
+command: 19
+#
+name: KEY_2ch-out
+type: parsed
+protocol: nec
+address: 0.240
+command: 22
+#
+name: spk-status
+type: parsed
+protocol: nec
+address: 0.240
+command: 23
+#
+name: front_deytime
+type: parsed
+protocol: nec
+address: 0.240
+command: 25
+#
+name: woofer
+type: parsed
+protocol: nec
+address: 0.240
+command: 26
+#
+name: surround_deytime
+type: parsed
+protocol: nec
+address: 0.240
+command: 27
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 0.240
+command: 28
+#
+name: optical
+type: parsed
+protocol: nec
+address: 0.240
+command: 29
+#
+name: standard
+type: parsed
+protocol: nec
+address: 0.240
+command: 30
+#
+name: coaxial1
+type: parsed
+protocol: nec
+address: 0.240
+command: 31
+#
+name: front_spsetup
+type: parsed
+protocol: nec
+address: 0.240
+command: 84
+#
+name: center-spsetup
+type: parsed
+protocol: nec
+address: 0.240
+command: 92
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ENTER
+type: parsed
+protocol: akai
+address: 4
+command: 11
+#
+name: RECALL
+type: parsed
+protocol: akai
+address: 4
+command: 15
+#

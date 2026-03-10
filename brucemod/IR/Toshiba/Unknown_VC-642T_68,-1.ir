@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: pioneer
+address: 68
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: pioneer
+address: 68
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: pioneer
+address: 68
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: pioneer
+address: 68
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: pioneer
+address: 68
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: pioneer
+address: 68
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: pioneer
+address: 68
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: pioneer
+address: 68
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: pioneer
+address: 68
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: pioneer
+address: 68
+command: 10
+#
+name: KEY_0
+type: parsed
+protocol: pioneer
+address: 68
+command: 11
+#
+name: KEY_SLOW
+type: parsed
+protocol: pioneer
+address: 68
+command: 13
+#
+name: TRACKING+
+type: parsed
+protocol: pioneer
+address: 68
+command: 14
+#
+name: TRACKING-
+type: parsed
+protocol: pioneer
+address: 68
+command: 15
+#
+name: TV/VIDEO_REMOTE_2
+type: parsed
+protocol: pioneer
+address: 68
+command: 15
+#
+name: KEY_PAUSE
+type: parsed
+protocol: pioneer
+address: 68
+command: 16
+#
+name: TV/VCR_EXTRA
+type: parsed
+protocol: pioneer
+address: 68
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: pioneer
+address: 68
+command: 18
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: pioneer
+address: 68
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: pioneer
+address: 68
+command: 20
+#
+name: KEY_PLAY
+type: parsed
+protocol: pioneer
+address: 68
+command: 21
+#
+name: REMAIN/COUNTER
+type: parsed
+protocol: pioneer
+address: 68
+command: 22
+#
+name: TV/CATV
+type: parsed
+protocol: pioneer
+address: 68
+command: 23
+#
+name: KEY_RECORD
+type: parsed
+protocol: pioneer
+address: 68
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: pioneer
+address: 68
+command: 25
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: pioneer
+address: 68
+command: 27
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: pioneer
+address: 68
+command: 31
+#
+name: INDEX
+type: parsed
+protocol: pioneer
+address: 68
+command: 70
+#
+name: RIGHT_ARROW
+type: parsed
+protocol: pioneer
+address: 68
+command: 77
+#
+name: LEFT_ARROW
+type: parsed
+protocol: pioneer
+address: 68
+command: 81
+#
+name: AUDIO_SELECT
+type: parsed
+protocol: pioneer
+address: 68
+command: 83
+#
+name: OTR_OFF
+type: parsed
+protocol: pioneer
+address: 68
+command: 91
+#
+name: PROGRAM
+type: parsed
+protocol: pioneer
+address: 68
+command: 92
+#
+name: TAPE_SPEED
+type: parsed
+protocol: pioneer
+address: 68
+command: 93
+#
+name: TV/LINE
+type: parsed
+protocol: pioneer
+address: 68
+command: 95
+#
+name: DISPLAY
+type: parsed
+protocol: pioneer
+address: 68
+command: 131
+#
+name: ZERO_RETURN
+type: parsed
+protocol: pioneer
+address: 68
+command: 135
+#
+name: COUNTER_RESET
+type: parsed
+protocol: pioneer
+address: 68
+command: 150
+#
+name: OTR_ON
+type: parsed
+protocol: pioneer
+address: 68
+command: 172
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: pioneer
+address: 68
+command: 245
+#

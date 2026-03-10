@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 166
+command: 10
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 166
+command: 11
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 166
+command: 23
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 166
+command: 28
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 166
+command: 68
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 166
+command: 76
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 166
+command: 114
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 166
+command: 115
+#
+name: set
+type: parsed
+protocol: nec
+address: 166
+command: 116
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 166
+command: 144
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 166
+command: 145
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 166
+command: 146
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 166
+command: 147
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 166
+command: 148
+#
+name: disp
+type: parsed
+protocol: nec
+address: 166
+command: 157
+#
+name: KEY_RADIO
+type: parsed
+protocol: nec
+address: 166
+command: 160
+#
+name: am
+type: parsed
+protocol: nec
+address: 166
+command: 160
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 166
+command: 160
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 166
+command: 160
+#
+name: md
+type: parsed
+protocol: nec
+address: 166
+command: 162
+#
+name: timer
+type: parsed
+protocol: nec
+address: 166
+command: 206
+#
+name: sound
+type: parsed
+protocol: nec
+address: 166
+command: 218
+#

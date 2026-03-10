@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0Hz
+type: parsed
+protocol: rc5
+address: 1
+command: 1
+#
+name: KEY_0Hz
+type: parsed
+protocol: rc5
+address: 1
+command: 2
+#
+name: KEY_0Hz
+type: parsed
+protocol: rc5
+address: 1
+command: 3
+#
+name: ExtOff
+type: parsed
+protocol: rc5
+address: 1
+command: 5
+#
+name: KEY_0_degrees
+type: parsed
+protocol: rc5
+address: 1
+command: 6
+#
+name: ExtOn
+type: parsed
+protocol: rc5
+address: 1
+command: 7
+#
+name: KEY_0_degrees
+type: parsed
+protocol: rc5
+address: 1
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 1
+command: 15
+#
+name: KEY_0_degrees
+type: parsed
+protocol: rc5
+address: 1
+command: 16
+#
+name: PresetB
+type: parsed
+protocol: rc5
+address: 1
+command: 21
+#
+name: KEY_0_degrees
+type: parsed
+protocol: rc5
+address: 1
+command: 30
+#
+name: PresetD
+type: parsed
+protocol: rc5
+address: 1
+command: 35
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 1
+command: 42
+#
+name: PresetC
+type: parsed
+protocol: rc5
+address: 1
+command: 55
+#
+name: Flat
+type: parsed
+protocol: rc5
+address: 1
+command: 56
+#
+name: PresetA
+type: parsed
+protocol: rc5
+address: 1
+command: 61
+#

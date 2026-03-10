@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 1
+#
+name: PLAY
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 2
+#
+name: STOP
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 3
+#
+name: PAUSE
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 4
+#
+name: TRACK<
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 5
+#
+name: TRACK>
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 6
+#
+name: PREV DISC
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 7
+#
+name: NEXT DISC
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 8
+#
+name: FULL SCREEN
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 9
+#
+name: COVERS SCREEN
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 10
+#
+name: PLAY SCREEN
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 11
+#
+name: ENTER
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 60
+#
+name: POWER
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 84
+#
+name: UP
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 95
+#
+name: LEFT
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 97
+#
+name: DOWN'
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 98
+#
+name: RIGHT
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 99
+#
+name: MOUSE CLICK
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 127
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 129
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 130
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 131
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 132
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 133
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 134
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 135
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 136
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 137
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 138
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 188
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 212
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 223
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 225
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 226
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 227
+#
+name: 
+type: parsed
+protocol: Nokia32single
+address: 8
+command: 255
+#

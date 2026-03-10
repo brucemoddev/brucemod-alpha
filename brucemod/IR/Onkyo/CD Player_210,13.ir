@@ -1,0 +1,357 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE FAST FWD >>
+type: parsed
+protocol: nec2
+address: 210.13
+command: 128
+#
+name: TAPE FF >>
+type: parsed
+protocol: nec2
+address: 210.13
+command: 128
+#
+name: TAPE FFWD >>
+type: parsed
+protocol: nec2
+address: 210.13
+command: 128
+#
+name: TAPE FAST REW <<
+type: parsed
+protocol: nec2
+address: 210.13
+command: 129
+#
+name: TAPE REW <<
+type: parsed
+protocol: nec2
+address: 210.13
+command: 129
+#
+name: TAPE REV <<
+type: parsed
+protocol: nec2
+address: 210.13
+command: 129
+#
+name: TAPE VOL +
+type: parsed
+protocol: nec2
+address: 210.13
+command: 130
+#
+name: TAPE VOLUME ^
+type: parsed
+protocol: nec2
+address: 210.13
+command: 130
+#
+name: TAPE VOL -
+type: parsed
+protocol: nec2
+address: 210.13
+command: 131
+#
+name: TAPE VOLUME V
+type: parsed
+protocol: nec2
+address: 210.13
+command: 131
+#
+name: TAPE REPEAT
+type: parsed
+protocol: nec1
+address: 210.13
+command: 134
+#
+name: TAPE A-B
+type: parsed
+protocol: nec1
+address: 210.13
+command: 135
+#
+name: TAPE CLEAR
+type: parsed
+protocol: nec1
+address: 210.13
+command: 136
+#
+name: TAPE MEMORY
+type: parsed
+protocol: nec1
+address: 210.13
+command: 137
+#
+name: TAPE DISPLAY
+type: parsed
+protocol: nec1
+address: 210.13
+command: 138
+#
+name: TAPE LAP/REM
+type: parsed
+protocol: nec1
+address: 210.13
+command: 138
+#
+name: TAPE OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 210.13
+command: 139
+#
+name: TAPE EJECT
+type: parsed
+protocol: nec1
+address: 210.13
+command: 139
+#
+name: TAPE 8
+type: parsed
+protocol: nec1
+address: 210.13
+command: 140
+#
+name: TAPE 9
+type: parsed
+protocol: nec1
+address: 210.13
+command: 141
+#
+name: TAPE 0
+type: parsed
+protocol: nec1
+address: 210.13
+command: 142
+#
+name: TAPE +10
+type: parsed
+protocol: nec1
+address: 210.13
+command: 143
+#
+name: TAPE 10 +
+type: parsed
+protocol: nec1
+address: 210.13
+command: 143
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 210.13
+command: 144
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 210.13
+command: 145
+#
+name: TAPE 3
+type: parsed
+protocol: nec1
+address: 210.13
+command: 146
+#
+name: TAPE 4
+type: parsed
+protocol: nec1
+address: 210.13
+command: 147
+#
+name: TAPE 5
+type: parsed
+protocol: nec1
+address: 210.13
+command: 152
+#
+name: TAPE 6
+type: parsed
+protocol: nec1
+address: 210.13
+command: 153
+#
+name: TAPE 7
+type: parsed
+protocol: nec1
+address: 210.13
+command: 154
+#
+name: TAPE STOP []
+type: parsed
+protocol: nec1
+address: 210.13
+command: 156
+#
+name: TAPE PLAY >
+type: parsed
+protocol: nec1
+address: 210.13
+command: 157
+#
+name: TAPE REV PLAY <
+type: parsed
+protocol: nec1
+address: 210.13
+command: 158
+#
+name: TAPE PLAY R. <
+type: parsed
+protocol: nec1
+address: 210.13
+command: 158
+#
+name: TAPE PLAY REV. <
+type: parsed
+protocol: nec1
+address: 210.13
+command: 158
+#
+name: TAPE PLAY REV <
+type: parsed
+protocol: nec1
+address: 210.13
+command: 158
+#
+name: TAPE REC/PAUSE
+type: parsed
+protocol: nec1
+address: 210.13
+command: 159
+#
+name: TAPE REC/PAUSE O/
+type: parsed
+protocol: nec1
+address: 210.13
+command: 159
+#
+name: TAPE EDIT >
+type: parsed
+protocol: nec2
+address: 210.13
+command: 194
+#
+name: TAPE EDIT <
+type: parsed
+protocol: nec2
+address: 210.13
+command: 195
+#
+name: TAPE INDEX
+type: parsed
+protocol: nec1
+address: 210.13
+command: 196
+#
+name: TAPE INTRO
+type: parsed
+protocol: nec1
+address: 210.13
+command: 197
+#
+name: TAPE SHUFFLE
+type: parsed
+protocol: nec1
+address: 210.13
+command: 198
+#
+name: TAPE RANDOM
+type: parsed
+protocol: nec1
+address: 210.13
+command: 198
+#
+name: TAPE AUTO SPACE
+type: parsed
+protocol: nec1
+address: 210.13
+command: 204
+#
+name: TAPE TIME EDIT
+type: parsed
+protocol: nec1
+address: 210.13
+command: 205
+#
+name: TAPE MEMORY SHIFT
+type: parsed
+protocol: nec1
+address: 210.13
+command: 206
+#
+name: TAPE 10
+type: parsed
+protocol: nec1
+address: 210.13
+command: 207
+#
+name: TAPE 11
+type: parsed
+protocol: nec1
+address: 210.13
+command: 208
+#
+name: TAPE 12
+type: parsed
+protocol: nec1
+address: 210.13
+command: 209
+#
+name: TAPE 13
+type: parsed
+protocol: nec1
+address: 210.13
+command: 210
+#
+name: TAPE 14
+type: parsed
+protocol: nec1
+address: 210.13
+command: 211
+#
+name: TAPE 15
+type: parsed
+protocol: nec1
+address: 210.13
+command: 212
+#
+name: TAPE 16
+type: parsed
+protocol: nec1
+address: 210.13
+command: 213
+#
+name: TAPE 17
+type: parsed
+protocol: nec1
+address: 210.13
+command: 214
+#
+name: TAPE 18
+type: parsed
+protocol: nec1
+address: 210.13
+command: 215
+#
+name: TAPE 19
+type: parsed
+protocol: nec1
+address: 210.13
+command: 216
+#
+name: TAPE DISC
+type: parsed
+protocol: nec1
+address: 210.13
+command: 218
+#
+name: TAPE TRACK
+type: parsed
+protocol: nec1
+address: 210.13
+command: 219
+#

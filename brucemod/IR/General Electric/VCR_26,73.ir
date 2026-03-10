@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/VCR
+type: parsed
+protocol: sony20
+address: 26.73
+command: 26
+#

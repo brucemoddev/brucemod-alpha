@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VISUAL I/O
+type: parsed
+protocol: sony12
+address: 11
+command: 21
+#
+name: 
+type: parsed
+protocol: sony12
+address: 11
+command: 46
+#
+name: 
+type: parsed
+protocol: sony12
+address: 11
+command: 47
+#
+name: ARROW UP
+type: parsed
+protocol: sony12
+address: 11
+command: 66
+#
+name: ARROW DOWN
+type: parsed
+protocol: sony12
+address: 11
+command: 67
+#
+name: MENU
+type: parsed
+protocol: sony12
+address: 11
+command: 77
+#
+name: ENTER/OK
+type: parsed
+protocol: sony12
+address: 11
+command: 81
+#
+name: ARROW RIGHT
+type: parsed
+protocol: sony12
+address: 11
+command: 97
+#
+name: ARROW LEFT
+type: parsed
+protocol: sony12
+address: 11
+command: 98
+#

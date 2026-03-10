@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: nec
+address: 135.78
+command: 2
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: nec
+address: 135.78
+command: 3
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: nec
+address: 135.78
+command: 7
+#
+name: FREEZE
+type: parsed
+protocol: nec
+address: 135.78
+command: 14
+#
+name: SOURSE SELECT
+type: parsed
+protocol: nec
+address: 135.78
+command: 16
+#
+name: CURSOR UP
+type: parsed
+protocol: nec
+address: 135.78
+command: 19
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec
+address: 135.78
+command: 20
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 135.78
+command: 23
+#
+name: KEYSTONE +
+type: parsed
+protocol: nec
+address: 135.78
+command: 32
+#
+name: KEYSTONE -
+type: parsed
+protocol: nec
+address: 135.78
+command: 33
+#
+name: PRESETS
+type: parsed
+protocol: nec
+address: 135.78
+command: 44
+#
+name: SOURCE 1
+type: parsed
+protocol: nec
+address: 135.78
+command: 45
+#
+name: SOURCE 2
+type: parsed
+protocol: nec
+address: 135.78
+command: 46
+#
+name: SOURCE 3
+type: parsed
+protocol: nec
+address: 135.78
+command: 47
+#
+name: SOURCE 4
+type: parsed
+protocol: nec
+address: 135.78
+command: 48
+#
+name: BLANK
+type: parsed
+protocol: nec
+address: 135.78
+command: 49
+#
+name: SELECT
+type: parsed
+protocol: nec
+address: 135.78
+command: 50
+#
+name: AUTO IMAGE
+type: parsed
+protocol: nec
+address: 135.78
+command: 51
+#
+name: RESIZE
+type: parsed
+protocol: nec
+address: 135.78
+command: 52
+#
+name: OVERSCAN
+type: parsed
+protocol: nec
+address: 135.78
+command: 53
+#
+name: CONTRAST +
+type: parsed
+protocol: nec
+address: 135.78
+command: 54
+#
+name: CONTRAST -
+type: parsed
+protocol: nec
+address: 135.78
+command: 55
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 135.78
+command: 57
+#
+name: POWER OFF
+type: parsed
+protocol: nec
+address: 135.78
+command: 57
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 135.78
+command: 58
+#
+name: POWER ON
+type: parsed
+protocol: nec
+address: 135.78
+command: 58
+#
+name: NATIVE RESIZE
+type: parsed
+protocol: nec
+address: 135.78
+command: 59
+#
+name: 16:9
+type: parsed
+protocol: nec
+address: 135.78
+command: 60
+#
+name: 4:3
+type: parsed
+protocol: nec
+address: 135.78
+command: 61
+#
+name: LETTERBOX
+type: parsed
+protocol: nec
+address: 135.78
+command: 62
+#
+name: NATURAL WIDE
+type: parsed
+protocol: nec
+address: 135.78
+command: 63
+#
+name: USER PRESET 1
+type: parsed
+protocol: nec
+address: 135.78
+command: 64
+#
+name: USER PRESET 2
+type: parsed
+protocol: nec
+address: 135.78
+command: 65
+#
+name: USER PRESET 3
+type: parsed
+protocol: nec
+address: 135.78
+command: 66
+#

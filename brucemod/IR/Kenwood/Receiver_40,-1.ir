@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO2 VCR/TV (LVL
+type: parsed
+protocol: emerson
+address: 40
+command: 0
+#
+name: VCR2 FUNCTION
+type: parsed
+protocol: emerson
+address: 40
+command: 0
+#
+name: VIDEO2 >> (TUNING)
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: VCR2 FFWD >>
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: VIDEO2 CH V (ANY V)
+type: parsed
+protocol: emerson
+address: 40
+command: 8
+#
+name: VCR2 ANY V
+type: parsed
+protocol: emerson
+address: 40
+command: 8
+#
+name: VIDEO2 PLAY (P.CALL)
+type: parsed
+protocol: emerson
+address: 40
+command: 10
+#
+name: VCR2 PLAY >
+type: parsed
+protocol: emerson
+address: 40
+command: 10
+#
+name: VIDEO2 PAUSE (AUTO)
+type: parsed
+protocol: emerson
+address: 40
+command: 11
+#
+name: VCR2 PAUSE 
+type: parsed
+protocol: emerson
+address: 40
+command: 11
+#
+name: VIDEO2 << (TUNING)
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: VCR2 REW <<
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: VIDEO2 CH ^ (ANY ^)
+type: parsed
+protocol: emerson
+address: 40
+command: 16
+#
+name: VCR2 ANY ^
+type: parsed
+protocol: emerson
+address: 40
+command: 16
+#
+name: VIDEO2 REC
+type: parsed
+protocol: emerson
+address: 40
+command: 26
+#
+name: VCR2 REC
+type: parsed
+protocol: emerson
+address: 40
+command: 26
+#
+name: VIDEO2 STOP (BAND)
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: VCR2 STOP []
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: VIDEO2 1
+type: parsed
+protocol: emerson
+address: 40
+command: 31
+#
+name: VCR2 1
+type: parsed
+protocol: emerson
+address: 40
+command: 31
+#
+name: VIDEO2 POWER
+type: parsed
+protocol: emerson
+address: 40
+command: 32
+#
+name: VCR2 POWER
+type: parsed
+protocol: emerson
+address: 40
+command: 32
+#
+name: VIDEO2 2
+type: parsed
+protocol: emerson
+address: 40
+command: 33
+#
+name: VCR2 2
+type: parsed
+protocol: emerson
+address: 40
+command: 33
+#
+name: VIDEO2 3
+type: parsed
+protocol: emerson
+address: 40
+command: 34
+#
+name: VCR2 3
+type: parsed
+protocol: emerson
+address: 40
+command: 34
+#
+name: VIDEO2 4
+type: parsed
+protocol: emerson
+address: 40
+command: 35
+#
+name: VCR2 4
+type: parsed
+protocol: emerson
+address: 40
+command: 35
+#
+name: VIDEO2 5
+type: parsed
+protocol: emerson
+address: 40
+command: 36
+#
+name: VCR2 5
+type: parsed
+protocol: emerson
+address: 40
+command: 36
+#
+name: VIDEO2 6
+type: parsed
+protocol: emerson
+address: 40
+command: 37
+#
+name: VCR2 6
+type: parsed
+protocol: emerson
+address: 40
+command: 37
+#
+name: VIDEO2 7
+type: parsed
+protocol: emerson
+address: 40
+command: 38
+#
+name: VCR2 7
+type: parsed
+protocol: emerson
+address: 40
+command: 38
+#
+name: VIDEO2 8
+type: parsed
+protocol: emerson
+address: 40
+command: 39
+#
+name: VCR2 8
+type: parsed
+protocol: emerson
+address: 40
+command: 39
+#
+name: VIDEO2 9
+type: parsed
+protocol: emerson
+address: 40
+command: 40
+#
+name: VCR2 9
+type: parsed
+protocol: emerson
+address: 40
+command: 40
+#
+name: VIDEO2 0
+type: parsed
+protocol: emerson
+address: 40
+command: 41
+#
+name: VCR2 O
+type: parsed
+protocol: emerson
+address: 40
+command: 41
+#

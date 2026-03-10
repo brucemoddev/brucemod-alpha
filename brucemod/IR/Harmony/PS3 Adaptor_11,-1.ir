@@ -1,0 +1,309 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 4
+type: parsed
+protocol: logitech
+address: 11
+command: 2
+#
+name: AUDIO
+type: parsed
+protocol: logitech
+address: 11
+command: 18
+#
+name: LEFT
+type: parsed
+protocol: logitech
+address: 11
+command: 20
+#
+name: RED
+type: parsed
+protocol: logitech
+address: 11
+command: 23
+#
+name: L1
+type: parsed
+protocol: logitech
+address: 11
+command: 24
+#
+name: ENTER
+type: parsed
+protocol: logitech
+address: 11
+command: 26
+#
+name: YELLOW
+type: parsed
+protocol: logitech
+address: 11
+command: 27
+#
+name: TRIANGLE
+type: parsed
+protocol: logitech
+address: 11
+command: 28
+#
+name: PLAY
+type: parsed
+protocol: logitech
+address: 11
+command: 52
+#
+name: R2
+type: parsed
+protocol: logitech
+address: 11
+command: 56
+#
+name: 3
+type: parsed
+protocol: logitech
+address: 11
+command: 58
+#
+name: 1
+type: parsed
+protocol: logitech
+address: 11
+command: 82
+#
+name: DISPLAY
+type: parsed
+protocol: logitech
+address: 11
+command: 83
+#
+name: SCAN +
+type: parsed
+protocol: logitech
+address: 11
+command: 84
+#
+name: BLUE
+type: parsed
+protocol: logitech
+address: 11
+command: 87
+#
+name: 0
+type: parsed
+protocol: logitech
+address: 11
+command: 90
+#
+name: GREEN
+type: parsed
+protocol: logitech
+address: 11
+command: 91
+#
+name: R1
+type: parsed
+protocol: logitech
+address: 11
+command: 92
+#
+name: CIRCLE
+type: parsed
+protocol: logitech
+address: 11
+command: 108
+#
+name: R3
+type: parsed
+protocol: logitech
+address: 11
+command: 113
+#
+name: SUBTITLE
+type: parsed
+protocol: logitech
+address: 11
+command: 114
+#
+name: POP UP MENU
+type: parsed
+protocol: logitech
+address: 11
+command: 115
+#
+name: 7
+type: parsed
+protocol: logitech
+address: 11
+command: 116
+#
+name: SELECT
+type: parsed
+protocol: logitech
+address: 11
+command: 117
+#
+name: UP
+type: parsed
+protocol: logitech
+address: 11
+command: 118
+#
+name: STOP
+type: parsed
+protocol: logitech
+address: 11
+command: 119
+#
+name: L2
+type: parsed
+protocol: logitech
+address: 11
+command: 120
+#
+name: L3
+type: parsed
+protocol: logitech
+address: 11
+command: 121
+#
+name: SLOW +
+type: parsed
+protocol: logitech
+address: 11
+command: 122
+#
+name: PAUSE
+type: parsed
+protocol: logitech
+address: 11
+command: 123
+#
+name: 8
+type: parsed
+protocol: logitech
+address: 11
+command: 124
+#
+name: PS
+type: parsed
+protocol: logitech
+address: 11
+command: 125
+#
+name: START
+type: parsed
+protocol: logitech
+address: 11
+command: 126
+#
+name: RIGHT
+type: parsed
+protocol: logitech
+address: 11
+command: 127
+#
+name: DOWN
+type: parsed
+protocol: logitech
+address: 11
+command: 148
+#
+name: CLEAR
+type: parsed
+protocol: logitech
+address: 11
+command: 154
+#
+name: SQUARE
+type: parsed
+protocol: logitech
+address: 11
+command: 171
+#
+name: 2
+type: parsed
+protocol: logitech
+address: 11
+command: 178
+#
+name: TOP MENU
+type: parsed
+protocol: logitech
+address: 11
+command: 180
+#
+name: RETURN
+type: parsed
+protocol: logitech
+address: 11
+command: 186
+#
+name: 9
+type: parsed
+protocol: logitech
+address: 11
+command: 188
+#
+name: TIME
+type: parsed
+protocol: logitech
+address: 11
+command: 194
+#
+name: CROSS
+type: parsed
+protocol: logitech
+address: 11
+command: 199
+#
+name: CHAPTER -
+type: parsed
+protocol: logitech
+address: 11
+command: 210
+#
+name: SCAN -
+type: parsed
+protocol: logitech
+address: 11
+command: 212
+#
+name: SLOW -
+type: parsed
+protocol: logitech
+address: 11
+command: 218
+#
+name: ANGLE
+type: parsed
+protocol: logitech
+address: 11
+command: 220
+#
+name: 6
+type: parsed
+protocol: logitech
+address: 11
+command: 226
+#
+name: CHAPTER +
+type: parsed
+protocol: logitech
+address: 11
+command: 234
+#
+name: EJECT
+type: parsed
+protocol: logitech
+address: 11
+command: 244
+#
+name: 5
+type: parsed
+protocol: logitech
+address: 11
+command: 252
+#

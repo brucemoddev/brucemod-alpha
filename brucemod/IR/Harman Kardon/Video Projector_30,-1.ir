@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 1
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 3
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 6
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 9
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 10
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 11
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 16
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 17
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 18
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 36
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 37
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 40
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 41
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 42
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 43
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 44
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 45
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 46
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 47
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 48
+#
+name: 
+type: parsed
+protocol: barco
+address: 30
+command: 49
+#

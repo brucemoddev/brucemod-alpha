@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 33.172
+command: 32
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 33.172
+command: 64
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 33.172
+command: 80
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 33.172
+command: 112
+#
+name: FAST_REVERSE
+type: parsed
+protocol: nec
+address: 33.172
+command: 160
+#
+name: EAX
+type: parsed
+protocol: nec
+address: 33.172
+command: 176
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 33.172
+command: 224
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 33.172
+command: 240
+#

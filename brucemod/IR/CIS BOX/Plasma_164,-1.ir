@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ASPECT
+type: parsed
+protocol: sony15
+address: 164
+command: 61
+#
+name: ZOOM
+type: parsed
+protocol: sony15
+address: 164
+command: 125
+#
+name: DEGAUSS
+type: parsed
+protocol: sony15
+address: 164
+command: 126
+#

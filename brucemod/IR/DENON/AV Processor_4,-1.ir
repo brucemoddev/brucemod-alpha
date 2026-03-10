@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SURROUND CINEMA
+type: parsed
+protocol: denon
+address: 4
+command: 149
+#
+name: ROOM EQ
+type: parsed
+protocol: denon
+address: 4
+command: 157
+#

@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 124
+command: 129
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 124
+command: 130
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 124
+command: 131
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 124
+command: 133
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 124
+command: 134
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 124
+command: 135
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 124
+command: 147
+#
+name: AMP
+type: parsed
+protocol: nec1
+address: 124
+command: 147
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 124
+command: 148
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 124
+command: 149
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 124
+command: 149
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 124
+command: 150
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 124
+command: 150
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 124
+command: 151
+#
+name: MARKER
+type: parsed
+protocol: nec1
+address: 124
+command: 151
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 124
+command: 152
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 124
+command: 153
+#
+name: PLAY MODE
+type: parsed
+protocol: nec1
+address: 124
+command: 153
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 124
+command: 154
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 124
+command: 154
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 124
+command: 155
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 124
+command: 156
+#
+name: >10
+type: parsed
+protocol: nec1
+address: 124
+command: 157
+#
+name: GROUP
+type: parsed
+protocol: nec1
+address: 124
+command: 157
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 124
+command: 159
+#
+name: CANCEL
+type: parsed
+protocol: nec1
+address: 124
+command: 159
+#
+name: PAGE
+type: parsed
+protocol: nec1
+address: 124
+command: 159
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 124
+command: 166
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 124
+command: 170
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 124
+command: 173
+#
+name: TOP MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 177
+#
+name: ABCDE
+type: parsed
+protocol: nec1
+address: 124
+command: 178
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 124
+command: 178
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 124
+command: 179
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 124
+command: 180
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 124
+command: 181
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 124
+command: 182
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 124
+command: 182
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 124
+command: 183
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 124
+command: 184
+#

@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: necx1
+address: 14.14
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: necx1
+address: 14.14
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: necx1
+address: 14.14
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: necx1
+address: 14.14
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: necx1
+address: 14.14
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: necx1
+address: 14.14
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: necx1
+address: 14.14
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: necx1
+address: 14.14
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: necx1
+address: 14.14
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: necx1
+address: 14.14
+command: 9
+#
+name: KEY_102ND
+type: parsed
+protocol: necx1
+address: 14.14
+command: 10
+#
+name: KEY_MENU
+type: parsed
+protocol: necx1
+address: 14.14
+command: 11
+#
+name: KEY_UP
+type: parsed
+protocol: necx1
+address: 14.14
+command: 12
+#
+name: KEY_DOWN
+type: parsed
+protocol: necx1
+address: 14.14
+command: 13
+#
+name: KEY_LEFT
+type: parsed
+protocol: necx1
+address: 14.14
+command: 14
+#
+name: KEY_RIGHT
+type: parsed
+protocol: necx1
+address: 14.14
+command: 15
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: necx1
+address: 14.14
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: necx1
+address: 14.14
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx1
+address: 14.14
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx1
+address: 14.14
+command: 19
+#
+name: KEY_POWER
+type: parsed
+protocol: necx1
+address: 14.14
+command: 20
+#
+name: tv/av
+type: parsed
+protocol: necx1
+address: 14.14
+command: 22
+#
+name: KEY_TIME
+type: parsed
+protocol: necx1
+address: 14.14
+command: 24
+#
+name: KEY_INFO
+type: parsed
+protocol: necx1
+address: 14.14
+command: 25
+#
+name: Cal
+type: parsed
+protocol: necx1
+address: 14.14
+command: 27
+#
+name: Contrast_sheme
+type: parsed
+protocol: necx1
+address: 14.14
+command: 28
+#

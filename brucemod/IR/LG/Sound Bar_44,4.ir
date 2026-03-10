@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44
+command: 30
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 44
+command: 23
+#
+name: f
+type: parsed
+protocol: nec2
+address: 44
+command: 138
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 44
+command: 22
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44
+command: 31
+#
+name: SOUND EFFECT
+type: parsed
+protocol: nec2
+address: 44
+command: 47
+#
+name: home
+type: parsed
+protocol: nec2
+address: 44
+command: 85
+#
+name: MUTE MIC
+type: parsed
+protocol: nec2
+address: 44
+command: 86
+#
+name: Previous
+type: parsed
+protocol: nec2
+address: 44
+command: 6
+#
+name: PLAY / PAUSE
+type: parsed
+protocol: nec2
+address: 44
+command: 79
+#
+name: Next
+type: parsed
+protocol: nec2
+address: 44
+command: 7
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 44
+command: 152
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 44
+command: 12
+#
+name: Info
+type: parsed
+protocol: nec2
+address: 44
+command: 163
+#
+name: Sleep
+type: parsed
+protocol: nec2
+address: 44
+command: 153
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 44
+command: 13
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 44
+command: 78
+#

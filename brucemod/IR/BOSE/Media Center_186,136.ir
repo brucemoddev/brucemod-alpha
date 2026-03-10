@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2-3-5
+type: parsed
+protocol: nec2
+address: 186.136
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186.136
+command: 1
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 186.136
+command: 2
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 186.136
+command: 3
+#
+name: FM/AM
+type: parsed
+protocol: nec2
+address: 186.136
+command: 6
+#
+name: SURROUND -
+type: parsed
+protocol: nec2
+address: 186.136
+command: 10
+#
+name: SURROUND +
+type: parsed
+protocol: nec2
+address: 186.136
+command: 11
+#
+name: VCR
+type: parsed
+protocol: nec2
+address: 186.136
+command: 13
+#
+name: PREVIOUS
+type: parsed
+protocol: nec2
+address: 186.136
+command: 14
+#
+name: TV
+type: parsed
+protocol: nec2
+address: 186.136
+command: 14
+#
+name: AUX
+type: parsed
+protocol: nec2
+address: 186.136
+command: 15
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: nec2
+address: 186.136
+command: 24
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec2
+address: 186.136
+command: 24
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec2
+address: 186.136
+command: 25
+#
+name: TUNE UP
+type: parsed
+protocol: nec2
+address: 186.136
+command: 25
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 186.136
+command: 26
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec2
+address: 186.136
+command: 32
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 186.136
+command: 48
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 186.136
+command: 64
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.136
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.136
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.136
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.136
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.136
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.136
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 186.136
+command: 71
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 186.136
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 186.136
+command: 73
+#
+name: ON/OFF
+type: parsed
+protocol: nec2
+address: 186.136
+command: 76
+#
+name: MUTE ALL
+type: parsed
+protocol: nec2
+address: 186.136
+command: 77
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 186.136
+command: 82
+#
+name: CD/DVD
+type: parsed
+protocol: nec2
+address: 186.136
+command: 83
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 186.136
+command: 85
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 186.136
+command: 86
+#
+name: <<
+type: parsed
+protocol: nec2
+address: 186.136
+command: 87
+#
+name: SEEK LEFT
+type: parsed
+protocol: nec2
+address: 186.136
+command: 87
+#
+name: >>
+type: parsed
+protocol: nec2
+address: 186.136
+command: 88
+#
+name: SEEK RIGHT
+type: parsed
+protocol: nec2
+address: 186.136
+command: 88
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2
+address: 186.136
+command: 92
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec2
+address: 186.136
+command: 96
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 186.136
+command: 128
+#
+name: DVD MENU
+type: parsed
+protocol: nec2
+address: 186.136
+command: 144
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 186.136
+command: 157
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec2
+address: 186.136
+command: 160
+#
+name: ARROW UP
+type: parsed
+protocol: nec2
+address: 186.136
+command: 192
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 186.136
+command: 208
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 186.136
+command: 224
+#

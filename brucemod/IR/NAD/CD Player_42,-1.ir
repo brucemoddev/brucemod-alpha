@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 42
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 42
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 42
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 42
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 42
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 42
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 42
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 42
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 42
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 42
+command: 9
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 42
+command: 10
+#
+name: INTRO
+type: parsed
+protocol: nec1
+address: 42
+command: 12
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 42
+command: 13
+#
+name: PLAY PAUSE
+type: parsed
+protocol: nec1
+address: 42
+command: 16
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 42
+command: 18
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 42
+command: 19
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 42
+command: 20
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 42
+command: 21
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 42
+command: 22
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 42
+command: 23
+#
+name: SCAN FF >>
+type: parsed
+protocol: nec1
+address: 42
+command: 24
+#
+name: SCAN REW <<
+type: parsed
+protocol: nec1
+address: 42
+command: 25
+#
+name: SKIP FF >
+type: parsed
+protocol: nec1
+address: 42
+command: 26
+#
+name: SKIP REV <
+type: parsed
+protocol: nec1
+address: 42
+command: 27
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 42
+command: 28
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 42
+command: 29
+#
+name: P
+type: parsed
+protocol: nec1
+address: 42
+command: 64
+#
+name: -1
+type: parsed
+protocol: nec1
+address: 42
+command: 65
+#
+name: -2
+type: parsed
+protocol: nec1
+address: 42
+command: 66
+#
+name: -3
+type: parsed
+protocol: nec1
+address: 42
+command: 67
+#
+name: -4
+type: parsed
+protocol: nec1
+address: 42
+command: 68
+#
+name: -5
+type: parsed
+protocol: nec1
+address: 42
+command: 69
+#
+name: -6
+type: parsed
+protocol: nec1
+address: 42
+command: 70
+#

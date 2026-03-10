@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 2
+#
+name: DISPLAY
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 8
+#
+name: ASPECT WIDE (TOG)
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 16
+#
+name: ASPECT AUTO
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 17
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 18
+#
+name: ASPECT WIDE1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 19
+#
+name: ASPECT WIDE2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 20
+#
+name: ASPECT ZOOM1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 21
+#
+name: ASPECT ZOOM2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 22
+#
+name: ADJ LEFT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: ADJ RIGHT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 34
+#
+name: ADJ UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: ADJ DOWN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: ENTER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 38
+#
+name: PICTURE MODE
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 68
+#
+name: PICTURE MEMORY
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 72
+#

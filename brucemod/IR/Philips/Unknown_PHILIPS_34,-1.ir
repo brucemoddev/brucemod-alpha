@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: off
+type: parsed
+protocol: Proton
+address: 34
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 34
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 34
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 34
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 34
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 34
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 34
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 34
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 34
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 34
+command: 9
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 34
+command: 10
+#
+name: fav
+type: parsed
+protocol: Proton
+address: 34
+command: 13
+#
+name: bildinbild
+type: parsed
+protocol: Proton
+address: 34
+command: 14
+#
+name: store
+type: parsed
+protocol: Proton
+address: 34
+command: 15
+#
+name: video
+type: parsed
+protocol: Proton
+address: 34
+command: 16
+#
+name: audio
+type: parsed
+protocol: Proton
+address: 34
+command: 17
+#
+name: h/v
+type: parsed
+protocol: Proton
+address: 34
+command: 18
+#
+name: band
+type: parsed
+protocol: Proton
+address: 34
+command: 19
+#
+name: tune
+type: parsed
+protocol: Proton
+address: 34
+command: 20
+#
+name: mute
+type: parsed
+protocol: Proton
+address: 34
+command: 21
+#
+name: lnb
+type: parsed
+protocol: Proton
+address: 34
+command: 24
+#
+name: up
+type: parsed
+protocol: Proton
+address: 34
+command: 28
+#
+name: down
+type: parsed
+protocol: Proton
+address: 34
+command: 29
+#
+name: tv/sat
+type: parsed
+protocol: Proton
+address: 34
+command: 30
+#
+name: lock
+type: parsed
+protocol: Proton
+address: 34
+command: 31
+#

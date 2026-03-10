@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SELECT
+type: parsed
+protocol: jvc
+address: 15
+command: 17
+#
+name: MULTISCREEN SELECT
+type: parsed
+protocol: jvc
+address: 15
+command: 17
+#
+name: DIGITAL 2
+type: parsed
+protocol: jvc
+address: 15
+command: 23
+#
+name: VIDEO 5
+type: parsed
+protocol: jvc
+address: 15
+command: 27
+#
+name: GUIDE
+type: parsed
+protocol: jvc
+address: 15
+command: 125
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TELETEXT SELECT
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 0
+#
+name: TELETEXT MIX
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 1
+#
+name: TELETEXT TIME TEXT
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 3
+#
+name: TELETEXT CANCEL
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 4
+#
+name: SUBTITLE
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 5
+#
+name: TELETEXT INDEX / TIM
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 8
+#
+name: TELETEXT HOLD
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 9
+#
+name: TELETEXT STORE LIST
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 10
+#
+name: TELETEXT SIZE
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 12
+#
+name: TELETEXT REVEAL
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 28
+#
+name: TELETEXT LIST
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 29
+#
+name: TELETEXT RESET
+type: parsed
+protocol: panasonic
+address: 128.1
+command: 30
+#

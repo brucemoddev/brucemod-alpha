@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 133.118
+command: 0
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 133.118
+command: 1
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 133.118
+command: 2
+#
+name: START/STOP
+type: parsed
+protocol: nec
+address: 133.118
+command: 3
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 133.118
+command: 4
+#
+name: KEY_SLOW
+type: parsed
+protocol: nec
+address: 133.118
+command: 5
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 133.118
+command: 7
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 133.118
+command: 16
+#
+name: SELFTIMER
+type: parsed
+protocol: nec
+address: 133.118
+command: 18
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 133.118
+command: 23
+#
+name: TV-SCREEN
+type: parsed
+protocol: nec
+address: 133.118
+command: 27
+#
+name: KEY_ZOOMIN
+type: parsed
+protocol: nec
+address: 133.118
+command: 28
+#
+name: KEY_ZOOMOUT
+type: parsed
+protocol: nec
+address: 133.118
+command: 29
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 133.118
+command: 32
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 133.118
+command: 33
+#
+name: SET
+type: parsed
+protocol: nec
+address: 133.118
+command: 36
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 133.118
+command: 37
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 133.118
+command: 39
+#
+name: D.EFFECTS
+type: parsed
+protocol: nec
+address: 133.118
+command: 40
+#
+name: CARD+
+type: parsed
+protocol: nec
+address: 133.118
+command: 42
+#
+name: CARD-
+type: parsed
+protocol: nec
+address: 133.118
+command: 43
+#
+name: SLIDE-SHOW
+type: parsed
+protocol: nec
+address: 133.118
+command: 44
+#
+name: KEY_IMAGES
+type: parsed
+protocol: nec
+address: 133.118
+command: 48
+#
+name: DATA-CODE
+type: parsed
+protocol: nec
+address: 133.118
+command: 49
+#
+name: ZERO-SET/MEMORY
+type: parsed
+protocol: nec
+address: 133.118
+command: 50
+#
+name: AUDIO-DUB
+type: parsed
+protocol: nec
+address: 133.118
+command: 51
+#
+name: SEARCH/SELECT
+type: parsed
+protocol: nec
+address: 133.118
+command: 52
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 133.118
+command: 53
+#
+name: BWD
+type: parsed
+protocol: nec
+address: 133.118
+command: 54
+#
+name: AUDIO-MONITOR
+type: parsed
+protocol: nec
+address: 133.118
+command: 57
+#
+name: ST-2
+type: parsed
+protocol: nec
+address: 133.118
+command: 58
+#
+name: ST-1
+type: parsed
+protocol: nec
+address: 133.118
+command: 59
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 133.118
+command: 80
+#
+name: X2
+type: parsed
+protocol: nec
+address: 133.118
+command: 85
+#
+name: AV-INSERT
+type: parsed
+protocol: nec
+address: 133.118
+command: 91
+#

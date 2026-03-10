@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OK
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 1
+#
+name: POWER
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 2
+#
+name: TV-G
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 4
+#
+name: ? / <
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 5
+#
+name: Z / DISC MENU
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 7
+#
+name: VOL+ / RIGHT
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 8
+#
+name: VOLUME +
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 8
+#
+name: VOL- / LEFT
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 9
+#
+name: VOLUME -
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 9
+#
+name: 0
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 16
+#
+name: 1
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 17
+#
+name: 0
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 17
+#
+name: 2
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 18
+#
+name: 3
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 19
+#
+name: 4
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 20
+#
+name: 5
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 21
+#
+name: 6
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 22
+#
+name: 7
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 23
+#
+name: 8
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 24
+#
+name: 9
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 25
+#
+name: ASPECT / >
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 26
+#
+name: PIP / AUDIO
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 41
+#
+name: P+ / UP
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 42
+#
+name: CHANNEL +
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 42
+#
+name: P- / DOWN
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 43
+#
+name: CHANNEL -
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 43
+#
+name: I (MENU) / OSD
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 45
+#
+name: INFORMATION
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 45
+#
+name: BLUE / AUDIO
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 46
+#
+name: TEXT
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 48
+#
+name: RED / DISPLAY
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 58
+#
+name: YELLOW / PAUSE
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 59
+#
+name: GREEN / SLEEP
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 62
+#

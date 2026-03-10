@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AUDIO POWER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 2
+#
+name: VOLUME ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 34
+#
+name: VOLUME V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 42
+#
+name: FM/AM
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 76
+#
+name: TAPE 1/2 INPUT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 77
+#
+name: TAPE1 1
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 128
+#
+name: TAPE1 9
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 129
+#
+name: TAPE1 MENU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 130
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 132
+#
+name: TAPE2 PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 133
+#
+name: TAPE1 FS/+
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 134
+#
+name: TAPE2 FS/+
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 135
+#
+name: TAPE1 2
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 136
+#
+name: TAPE1 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 137
+#
+name: TAPE1 ENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 138
+#
+name: TAPE1 REC
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 140
+#
+name: TAPE1 RS/-
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 142
+#
+name: TAPE2 RS/-
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 143
+#
+name: TAPE1 3
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 144
+#
+name: TAPE1 CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 146
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 148
+#
+name: TAPE2 STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 149
+#
+name: TAPE1 REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 151
+#
+name: TAPE1 4
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 152
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 156
+#
+name: TAPE2 PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 157
+#
+name: TAPE1 5
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 160
+#
+name: TAPE1 AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 162
+#
+name: TAPE1 FF >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 164
+#
+name: TAPE2 FF >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 165
+#
+name: TAPE1 DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 167
+#
+name: TAPE1 6
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 168
+#
+name: TAPE1 AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 170
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 172
+#
+name: TAPE2 REW <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 173
+#
+name: TAPE1 INTRO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 174
+#
+name: TAPE2 INTRO
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 175
+#
+name: TAPE1 7
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 176
+#
+name: TAPE1 ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 178
+#
+name: TAPE1 PLAY R. <
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 180
+#
+name: TAPE2 PLAY R. <
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 181
+#
+name: TAPE1 8
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 184
+#
+name: TAPE1 ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 186
+#
+name: TAPE1 B
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 191
+#

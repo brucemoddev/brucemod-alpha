@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: grundig16
+address: 93
+command: 238
+#
+name: 
+type: parsed
+protocol: grundig16
+address: 93
+command: 239
+#

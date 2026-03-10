@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 32
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 32
+command: 2
+#
+name: FM/AM
+type: parsed
+protocol: nec
+address: 32
+command: 3
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 32
+command: 4
+#
+name: Balance_Right
+type: parsed
+protocol: nec
+address: 32
+command: 5
+#
+name: Coax2
+type: parsed
+protocol: nec
+address: 32
+command: 6
+#
+name: Mono
+type: parsed
+protocol: nec
+address: 32
+command: 7
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 32
+command: 8
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 32
+command: 9
+#
+name: Night
+type: parsed
+protocol: nec
+address: 32
+command: 10
+#
+name: Surround_Mode
+type: parsed
+protocol: nec
+address: 32
+command: 11
+#
+name: Balance_Left
+type: parsed
+protocol: nec
+address: 32
+command: 12
+#
+name: Test
+type: parsed
+protocol: nec
+address: 32
+command: 13
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 32
+command: 15
+#
+name: RDS_Display
+type: parsed
+protocol: nec
+address: 32
+command: 16
+#
+name: KEY_1CH
+type: parsed
+protocol: nec
+address: 32
+command: 17
+#
+name: KEY_0+
+type: parsed
+protocol: nec
+address: 32
+command: 18
+#
+name: RDS_Title
+type: parsed
+protocol: nec
+address: 32
+command: 19
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 32
+command: 21
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 32
+command: 22
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 32
+command: 23
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 32
+command: 24
+#
+name: Surr+
+type: parsed
+protocol: nec
+address: 32
+command: 26
+#
+name: KEY_VCR
+type: parsed
+protocol: nec
+address: 32
+command: 27
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 32
+command: 28
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 32
+command: 29
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 32
+command: 30
+#
+name: Optical
+type: parsed
+protocol: nec
+address: 32
+command: 64
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 32
+command: 66
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 32
+command: 67
+#
+name: Coax1
+type: parsed
+protocol: nec
+address: 32
+command: 68
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 32
+command: 69
+#
+name: Tuning+
+type: parsed
+protocol: nec
+address: 32
+command: 70
+#
+name: Preset
+type: parsed
+protocol: nec
+address: 32
+command: 71
+#
+name: Cen-
+type: parsed
+protocol: nec
+address: 32
+command: 72
+#
+name: SW-
+type: parsed
+protocol: nec
+address: 32
+command: 73
+#
+name: Memory
+type: parsed
+protocol: nec
+address: 32
+command: 74
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 32
+command: 75
+#
+name: Tone_Delay_Fine_Cont
+type: parsed
+protocol: nec
+address: 32
+command: 76
+#
+name: Function+
+type: parsed
+protocol: nec
+address: 32
+command: 77
+#
+name: Cen+
+type: parsed
+protocol: nec
+address: 32
+command: 79
+#
+name: Tuning-
+type: parsed
+protocol: nec
+address: 32
+command: 80
+#
+name: Surr-
+type: parsed
+protocol: nec
+address: 32
+command: 85
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 32
+command: 86
+#
+name: Function-
+type: parsed
+protocol: nec
+address: 32
+command: 87
+#
+name: DSP
+type: parsed
+protocol: nec
+address: 32
+command: 93
+#
+name: VCD/TV
+type: parsed
+protocol: nec
+address: 32
+command: 94
+#
+name: SW+
+type: parsed
+protocol: nec
+address: 32
+command: 95
+#

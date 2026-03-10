@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 193.68
+command: 17
+#
+name: x-fi_cmss+
+type: parsed
+protocol: nec
+address: 193.68
+command: 41
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 193.68
+command: 62
+#
+name: KEY_OPTION
+type: parsed
+protocol: nec
+address: 193.68
+command: 65
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 193.68
+command: 70
+#
+name: x-fi_crystal+
+type: parsed
+protocol: nec
+address: 193.68
+command: 73
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 193.68
+command: 78
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 193.68
+command: 94
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 193.68
+command: 113
+#
+name: vol_off
+type: parsed
+protocol: nec
+address: 193.68
+command: 118
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 193.68
+command: 129
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 193.68
+command: 134
+#
+name: x-fi_crystal_on
+type: parsed
+protocol: nec
+address: 193.68
+command: 137
+#
+name: x-fi_cmss_on
+type: parsed
+protocol: nec
+address: 193.68
+command: 142
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 193.68
+command: 158
+#
+name: stop_eject
+type: parsed
+protocol: nec
+address: 193.68
+command: 161
+#
+name: x-fi_cmss-
+type: parsed
+protocol: nec
+address: 193.68
+command: 169
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 177
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 193.68
+command: 198
+#
+name: x-fi_crystal-
+type: parsed
+protocol: nec
+address: 193.68
+command: 201
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 193.68
+command: 206
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 193.68
+command: 214
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 193.68
+command: 222
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 193.68
+command: 254
+#

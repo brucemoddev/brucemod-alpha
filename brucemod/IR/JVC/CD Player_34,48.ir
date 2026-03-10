@@ -1,0 +1,321 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 0
+#
+name: POWER TOGGLE
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 0
+#
+name: STOP
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 3
+#
+name: OPEN / CLOSE
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 4
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 4
+#
+name: INTRO
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 8
+#
+name: CALL
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 21
+#
+name: <<
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 24
+#
+name: TRACK -
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 24
+#
+name: >>
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 25
+#
+name: TRACK +
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 25
+#
+name: REPEAT
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 27
+#
+name: 0
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 32
+#
+name: 1
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 41
+#
+name: PLAY
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 43
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 43
+#
+name: CLEAR
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 44
+#
+name: <<
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 48
+#
+name: SCAN <<
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 48
+#
+name: SCAN -
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 48
+#
+name: PROGRAM
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 49
+#
+name: RANDOM
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 50
+#
+name: >>
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 54
+#
+name: SCAN >>
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 54
+#
+name: SCAN +
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 54
+#
+name: CONTINUE
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 55
+#
+name: MENU RIGHT
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 70
+#
+name: +1 DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 70
+#
+name: DISC +
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 70
+#
+name: MENU LEFT
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 71
+#
+name: -1 DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 71
+#
+name: DISC -
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 71
+#
+name: DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 128
+#
+name: TRACK
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 129
+#
+name: MENU UP
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 130
+#
+name: +10 DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 130
+#
+name: DISC 10+
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 130
+#
+name: MENU DOWN
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 131
+#
+name: -10 DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 131
+#
+name: DISC 10-
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 131
+#
+name: 1 DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 132
+#
+name: ONE DISC
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 132
+#
+name: USER FILE
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 137
+#
+name: DISPLAY
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 148
+#
+name: DISC SEARCH
+type: parsed
+protocol: jvc_48
+address: 34.48
+command: 149
+#

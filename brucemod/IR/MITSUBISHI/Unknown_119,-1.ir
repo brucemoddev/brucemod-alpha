@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 SU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 0
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 1
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 2
+#
+name: NEXT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 3
+#
+name: PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 4
+#
+name: AUDIO TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 5
+#
+name: 2 M
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 8
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 9
+#
+name: SCAN ^ (CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 10
+#
+name: REC
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 12
+#
+name: 3 TU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 16
+#
+name: SCAN V (CH V)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 18
+#
+name: STOP []
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 20
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 23
+#
+name: 4 W
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 24
+#
+name: INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 26
+#
+name: DISP (DISPLAY)
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 27
+#
+name: PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 28
+#
+name: 5 TH
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 32
+#
+name: VOLUME ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 34
+#
+name: FF/FS >>
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 36
+#
+name: 6 F
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 40
+#
+name: VOLUME V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 42
+#
+name: REW/RS <<
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 44
+#
+name: REVERSE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 45
+#
+name: 7 SA
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 48
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 50
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 53
+#
+name: 8 M-F
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 56
+#
+name: INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 58
+#
+name: ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 65
+#
+name: ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 73
+#
+name: AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 80
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 82
+#
+name: AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 119
+command: 88
+#

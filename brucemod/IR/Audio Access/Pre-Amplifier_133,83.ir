@@ -1,0 +1,423 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SOURCE 1
+type: parsed
+protocol: nec1
+address: 133.83
+command: 128
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 133.83
+command: 128
+#
+name: SOURCE 2
+type: parsed
+protocol: nec1
+address: 133.83
+command: 129
+#
+name: CD-1
+type: parsed
+protocol: nec1
+address: 133.83
+command: 129
+#
+name: SOURCE 3
+type: parsed
+protocol: nec1
+address: 133.83
+command: 130
+#
+name: CD-2
+type: parsed
+protocol: nec1
+address: 133.83
+command: 130
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 130
+#
+name: ALL/OFF
+type: parsed
+protocol: nec1
+address: 133.83
+command: 131
+#
+name: ON / OFF
+type: parsed
+protocol: nec1
+address: 133.83
+command: 131
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 133.83
+command: 131
+#
+name: SOURCE 6
+type: parsed
+protocol: nec1
+address: 133.83
+command: 132
+#
+name: F1
+type: parsed
+protocol: nec1
+address: 133.83
+command: 132
+#
+name: SOURCE 4
+type: parsed
+protocol: nec1
+address: 133.83
+command: 133
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 133.83
+command: 133
+#
+name: SOURCE 5
+type: parsed
+protocol: nec1
+address: 133.83
+command: 134
+#
+name: SOURCE 5A
+type: parsed
+protocol: nec1
+address: 133.83
+command: 134
+#
+name: VID
+type: parsed
+protocol: nec1
+address: 133.83
+command: 134
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 133.83
+command: 134
+#
+name: SOURCE 7
+type: parsed
+protocol: nec1
+address: 133.83
+command: 136
+#
+name: F2
+type: parsed
+protocol: nec1
+address: 133.83
+command: 136
+#
+name: SOURCE 8
+type: parsed
+protocol: nec1
+address: 133.83
+command: 140
+#
+name: F3
+type: parsed
+protocol: nec1
+address: 133.83
+command: 140
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 133.83
+command: 141
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 133.83
+command: 142
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 143
+#
+name: F4
+type: parsed
+protocol: nec1
+address: 133.83
+command: 144
+#
+name: T/V
+type: parsed
+protocol: nec1
+address: 133.83
+command: 148
+#
+name: TV/VCR
+type: parsed
+protocol: nec1
+address: 133.83
+command: 148
+#
+name: CHANNEL DN
+type: parsed
+protocol: nec1
+address: 133.83
+command: 149
+#
+name: CH DOWN
+type: parsed
+protocol: nec1
+address: 133.83
+command: 149
+#
+name: CHANNEL UP
+type: parsed
+protocol: nec1
+address: 133.83
+command: 150
+#
+name: CH UP
+type: parsed
+protocol: nec1
+address: 133.83
+command: 150
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 151
+#
+name: RR
+type: parsed
+protocol: nec1
+address: 133.83
+command: 156
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 157
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 133.83
+command: 157
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 133.83
+command: 158
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 133.83
+command: 159
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 133.83
+command: 160
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 133.83
+command: 161
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 133.83
+command: 162
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 133.83
+command: 163
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 133.83
+command: 164
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 133.83
+command: 165
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 133.83
+command: 166
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 133.83
+command: 167
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 133.83
+command: 168
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 133.83
+command: 169
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 133.83
+command: 170
+#
+name: DISC
+type: parsed
+protocol: nec1
+address: 133.83
+command: 171
+#
+name: TRACK
+type: parsed
+protocol: nec1
+address: 133.83
+command: 172
+#
+name: GRP
+type: parsed
+protocol: nec1
+address: 133.83
+command: 173
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 133.83
+command: 174
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 133.83
+command: 175
+#
+name: TRACK <
+type: parsed
+protocol: nec1
+address: 133.83
+command: 176
+#
+name: TRACK>
+type: parsed
+protocol: nec1
+address: 133.83
+command: 177
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 133.83
+command: 178
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 133.83
+command: 179
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 133.83
+command: 180
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 133.83
+command: 181
+#
+name: PREVIOUS
+type: parsed
+protocol: nec1
+address: 133.83
+command: 182
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 133.83
+command: 183
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 133.83
+command: 184
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 133.83
+command: 185
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 133.83
+command: 186
+#
+name: SEL
+type: parsed
+protocol: nec1
+address: 133.83
+command: 187
+#
+name: A
+type: parsed
+protocol: nec1
+address: 133.83
+command: 188
+#
+name: B
+type: parsed
+protocol: nec1
+address: 133.83
+command: 189
+#
+name: C
+type: parsed
+protocol: nec1
+address: 133.83
+command: 190
+#
+name: D
+type: parsed
+protocol: nec1
+address: 133.83
+command: 191
+#

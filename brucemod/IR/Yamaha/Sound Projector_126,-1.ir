@@ -1,0 +1,453 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DSP PLII MOVIE
+type: parsed
+protocol: nec1
+address: 126
+command: 103
+#
+name: PL II MOVIE
+type: parsed
+protocol: nec1
+address: 126
+command: 103
+#
+name: DSP: PLII MOVIE
+type: parsed
+protocol: nec1
+address: 126
+command: 103
+#
+name: DSP PLII MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 104
+#
+name: PL II MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 104
+#
+name: DSP: PLII MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 104
+#
+name: DSP NEO:6 CIN
+type: parsed
+protocol: nec1
+address: 126
+command: 105
+#
+name: NEO:6 MOVIE
+type: parsed
+protocol: nec1
+address: 126
+command: 105
+#
+name: DSP: NEO6 MOVIE
+type: parsed
+protocol: nec1
+address: 126
+command: 105
+#
+name: DSP NEO:6 MUS
+type: parsed
+protocol: nec1
+address: 126
+command: 106
+#
+name: NEO:6 MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 106
+#
+name: DSP: NEO6 MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 106
+#
+name: INPUT MODE TOG
+type: parsed
+protocol: nec2
+address: 126
+command: 141
+#
+name: NIGHT MODE ON
+type: parsed
+protocol: nec1
+address: 126
+command: 155
+#
+name: NIGHT MODE CINEMA
+type: parsed
+protocol: nec1
+address: 126
+command: 155
+#
+name: NIGHT MODE: CINEMA
+type: parsed
+protocol: nec1
+address: 126
+command: 155
+#
+name: DSP: NIGHT CINEMA
+type: parsed
+protocol: nec1
+address: 126
+command: 155
+#
+name: NIGHT/TV MODE: OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 156
+#
+name: DSP: NIGHT/TV M OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 156
+#
+name: MUTE ON
+type: parsed
+protocol: nec1
+address: 126
+command: 162
+#
+name: MUTE OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 163
+#
+name: INPUT MODE AUTO
+type: parsed
+protocol: nec1
+address: 126
+command: 166
+#
+name: INPUT MODE: AUTO
+type: parsed
+protocol: nec1
+address: 126
+command: 166
+#
+name: INPUT MODE DTS
+type: parsed
+protocol: nec1
+address: 126
+command: 168
+#
+name: INPUT MODE: DTS
+type: parsed
+protocol: nec1
+address: 126
+command: 168
+#
+name: INPUT MODE ANALOG
+type: parsed
+protocol: nec1
+address: 126
+command: 170
+#
+name: INPUT MODE: ANALOG
+type: parsed
+protocol: nec1
+address: 126
+command: 170
+#
+name: SLEEP OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 179
+#
+name: SLEEP: OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 179
+#
+name: SLEEP 120
+type: parsed
+protocol: nec1
+address: 126
+command: 180
+#
+name: SLEEP TIMER: 120 MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 180
+#
+name: SLEEP: 120MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 180
+#
+name: SLEEP 90
+type: parsed
+protocol: nec1
+address: 126
+command: 181
+#
+name: SLEEP TIMER: 90 MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 181
+#
+name: SLEEP: 90MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 181
+#
+name: SLEEP 60
+type: parsed
+protocol: nec1
+address: 126
+command: 182
+#
+name: SLEEP TIMER: 60 MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 182
+#
+name: SLEEP: 60MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 182
+#
+name: SLEEP 30
+type: parsed
+protocol: nec1
+address: 126
+command: 183
+#
+name: SLEEP TIMER: 30 MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 183
+#
+name: SLEEP: 30MIN
+type: parsed
+protocol: nec1
+address: 126
+command: 183
+#
+name: DSP PLII GAME
+type: parsed
+protocol: nec1
+address: 126
+command: 199
+#
+name: PL II GAME
+type: parsed
+protocol: nec1
+address: 126
+command: 199
+#
+name: DSP: PLII GAME
+type: parsed
+protocol: nec1
+address: 126
+command: 199
+#
+name: NEURAL SURROUND
+type: parsed
+protocol: nec1
+address: 126
+command: 204
+#
+name: DSP: NEURAL
+type: parsed
+protocol: nec1
+address: 126
+command: 204
+#
+name: NIGHT MODE MUS
+type: parsed
+protocol: nec2
+address: 126
+command: 207
+#
+name: NIGHT MODE: MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 207
+#
+name: DSP: NIGHT MUSIC
+type: parsed
+protocol: nec1
+address: 126
+command: 207
+#
+name: MUSIC ENHANCER: ON
+type: parsed
+protocol: nec1
+address: 126
+command: 216
+#
+name: DSP: M ENHAN ON
+type: parsed
+protocol: nec1
+address: 126
+command: 216
+#
+name: MUSIC ENHANCER: OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 217
+#
+name: DSP: M ENHAN OFF
+type: parsed
+protocol: nec1
+address: 126
+command: 217
+#
+name: INPUT MODE DTS
+type: parsed
+protocol: nec2
+address: 126
+command: 218
+#
+name: MUTE -20DB
+type: parsed
+protocol: nec2
+address: 126
+command: 223
+#
+name: MUTE -20DB
+type: parsed
+protocol: nec1
+address: 126
+command: 223
+#
+name: DSP CONC. HALL
+type: parsed
+protocol: nec2
+address: 126
+command: 225
+#
+name: DSP: CONCERT HALL
+type: parsed
+protocol: nec1
+address: 126
+command: 225
+#
+name: DSP JAZZ CLUB
+type: parsed
+protocol: nec2
+address: 126
+command: 236
+#
+name: DSP: JAZZ CLUB
+type: parsed
+protocol: nec1
+address: 126
+command: 236
+#
+name: DSP MUSIC VIDEO
+type: parsed
+protocol: nec2
+address: 126
+command: 243
+#
+name: DSP: MUSIC VIDEO
+type: parsed
+protocol: nec1
+address: 126
+command: 243
+#
+name: DSP SPORTS
+type: parsed
+protocol: nec2
+address: 126
+command: 248
+#
+name: DSP: SPORTS
+type: parsed
+protocol: nec1
+address: 126
+command: 248
+#
+name: DSP SPECTACLE
+type: parsed
+protocol: nec2
+address: 126
+command: 249
+#
+name: DSP: SPECTACLE
+type: parsed
+protocol: nec1
+address: 126
+command: 249
+#
+name: DSP SCI-FI
+type: parsed
+protocol: nec2
+address: 126
+command: 250
+#
+name: DSP: SCI-FI
+type: parsed
+protocol: nec1
+address: 126
+command: 250
+#
+name: DSP ADVENTURE
+type: parsed
+protocol: nec2
+address: 126
+command: 251
+#
+name: DSP: ADVENTURE
+type: parsed
+protocol: nec1
+address: 126
+command: 251
+#
+name: DSP PROLOGIC
+type: parsed
+protocol: nec1
+address: 126
+command: 253
+#
+name: PROLOGIC
+type: parsed
+protocol: nec1
+address: 126
+command: 253
+#
+name: DSP: PRO-LOGIC
+type: parsed
+protocol: nec1
+address: 126
+command: 253
+#
+name: 5 CH STEREO
+type: parsed
+protocol: nec1
+address: 126
+command: 255
+#
+name: DSP: BM 5CHSTEREO
+type: parsed
+protocol: nec1
+address: 126
+command: 255
+#

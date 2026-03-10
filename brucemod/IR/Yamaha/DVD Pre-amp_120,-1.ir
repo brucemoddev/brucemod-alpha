@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 120
+command: 27
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 120
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 120
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 120
+command: 31
+#
+name: AMP: LEVEL
+type: parsed
+protocol: nec1
+address: 120
+command: 72
+#
+name: INPUT: VCR
+type: parsed
+protocol: nec1
+address: 120
+command: 73
+#
+name: INPUT: DVD
+type: parsed
+protocol: nec1
+address: 120
+command: 74
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 120
+command: 75
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 120
+command: 79
+#
+name: AMP: STEREO
+type: parsed
+protocol: nec1
+address: 120
+command: 80
+#
+name: AMP: TEST
+type: parsed
+protocol: nec1
+address: 120
+command: 95
+#
+name: AMP: BASS BOOST
+type: parsed
+protocol: nec1
+address: 120
+command: 139
+#
+name: AMP: MATRIX 6.1
+type: parsed
+protocol: nec1
+address: 120
+command: 144
+#
+name: AMP: HALL
+type: parsed
+protocol: nec1
+address: 120
+command: 145
+#
+name: AMP: JAZZ
+type: parsed
+protocol: nec1
+address: 120
+command: 146
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 120
+command: 147
+#
+name: AMP: ENTERTAINMENT
+type: parsed
+protocol: nec1
+address: 120
+command: 148
+#
+name: AMP: SPORTS
+type: parsed
+protocol: nec1
+address: 120
+command: 149
+#
+name: AMP: MONO MOVIE
+type: parsed
+protocol: nec1
+address: 120
+command: 150
+#
+name: AMP: MOVIE 1
+type: parsed
+protocol: nec1
+address: 120
+command: 151
+#
+name: AMP: MOVIE 2
+type: parsed
+protocol: nec1
+address: 120
+command: 152
+#
+name: AMP: DOLBY/DTS
+type: parsed
+protocol: nec1
+address: 120
+command: 153
+#
+name: AMP: SELECT
+type: parsed
+protocol: nec1
+address: 120
+command: 154
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 120
+command: 156
+#
+name: AMP: SET MENU
+type: parsed
+protocol: nec1
+address: 120
+command: 157
+#
+name: INPUT: CD-R/MD
+type: parsed
+protocol: nec1
+address: 120
+command: 208
+#
+name: INPUT: VIDEO 2
+type: parsed
+protocol: nec1
+address: 120
+command: 222
+#
+name: INPUT: VIDEO 1
+type: parsed
+protocol: nec1
+address: 120
+command: 223
+#

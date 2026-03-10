@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 8
+#
+name: CHANNEL -
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 9
+#
+name: TV/EXIT
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 13
+#
+name: CURSOR OK
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 15
+#
+name: SKIP >>
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 24
+#
+name: VIDEO
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 25
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 26
+#
+name: 4
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 28
+#
+name: 0
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 29
+#
+name: COLOR 4 BLUE / SWAP
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 31
+#
+name: SKIP <<
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 40
+#
+name: SCAN <<
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 42
+#
+name: MENY
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 43
+#
+name: 5
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 44
+#
+name: E
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 47
+#
+name: REC
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 47
+#
+name: CURSOR UP
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 56
+#
+name: SCAN >>
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 58
+#
+name: 6
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 60
+#
+name: VOLUME -
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 61
+#
+name: COLOR 2 GREEN / INFO
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 63
+#
+name: CURSOR DOWN
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 72
+#
+name: INFO
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 73
+#
+name: STOP
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 74
+#
+name: COLOR 1 RED
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 75
+#
+name: 7
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 76
+#
+name: VOLUME +
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 77
+#
+name: CURSOR LEFT
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 88
+#
+name: 1
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 89
+#
+name: BACK
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 91
+#
+name: 8
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 92
+#
+name: ?
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 93
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 104
+#
+name: 2
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 105
+#
+name: VOLUME MUTE
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 107
+#
+name: 9
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 108
+#
+name: COLOR 3 YELLOW / GUI
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 120
+#
+name: 3
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 121
+#
+name: TEXT
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 124
+#
+name: CHANNEL +
+type: parsed
+protocol: zaptor_56
+address: 16.0
+command: 127
+#

@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PHONO
+type: parsed
+protocol: rc5
+address: 16
+command: 1
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: LINE 1
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: LINE 2
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: TAPE 1
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: TAPE 2
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: MONO
+type: parsed
+protocol: rc5
+address: 16
+command: 36
+#

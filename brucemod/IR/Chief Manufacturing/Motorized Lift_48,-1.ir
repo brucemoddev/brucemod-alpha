@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 48
+command: 0
+#
+name: PRESET 1
+type: parsed
+protocol: nec
+address: 48
+command: 3
+#
+name: 
+type: parsed
+protocol: nec1
+address: 48
+command: 3
+#
+name: PRESET 2
+type: parsed
+protocol: nec1
+address: 48
+command: 4
+#
+name: IN/OUT
+type: parsed
+protocol: nec1
+address: 48
+command: 5
+#
+name: ARROW LEFT
+type: parsed
+protocol: nec1
+address: 48
+command: 6
+#
+name: ARROW RIGHT
+type: parsed
+protocol: nec1
+address: 48
+command: 7
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 48
+command: 8
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 48
+command: 9
+#
+name: PRESET 3
+type: parsed
+protocol: nec1
+address: 48
+command: 16
+#
+name: PRESET 4
+type: parsed
+protocol: nec1
+address: 48
+command: 17
+#

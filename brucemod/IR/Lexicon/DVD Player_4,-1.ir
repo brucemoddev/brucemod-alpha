@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc6
+address: 4
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc6
+address: 4
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc6
+address: 4
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc6
+address: 4
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc6
+address: 4
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc6
+address: 4
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc6
+address: 4
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc6
+address: 4
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc6
+address: 4
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc6
+address: 4
+command: 9
+#
+name: POWER OFF
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 15
+#
+name: SKIP >>
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: SKIP <<
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: POWER ON
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: rc6
+address: 4
+command: 66
+#
+name: SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: AUDIO MODE
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 84
+#
+name: UP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: DOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: LEFT
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: RIGHT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: ENTER
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: TOP MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: SETUP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: ANGLE
+type: parsed
+protocol: rc6
+address: 4
+command: 133
+#

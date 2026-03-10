@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 60
+command: 1
+#
+name: SEARCH REV <<
+type: parsed
+protocol: nec1
+address: 60
+command: 2
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 60
+command: 2
+#
+name: SEARCH FFWD >>
+type: parsed
+protocol: nec1
+address: 60
+command: 3
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 60
+command: 3
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 60
+command: 4
+#
+name: MEMO
+type: parsed
+protocol: nec1
+address: 60
+command: 5
+#
+name: PLAY/PAUSE >/
+type: parsed
+protocol: nec1
+address: 60
+command: 6
+#
+name: SKIP +
+type: parsed
+protocol: nec1
+address: 60
+command: 7
+#
+name: SKIP -
+type: parsed
+protocol: nec1
+address: 60
+command: 8
+#
+name: INTRO
+type: parsed
+protocol: nec1
+address: 60
+command: 9
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 60
+command: 10
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 60
+command: 11
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 60
+command: 12
+#
+name: 1 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 17
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 60
+command: 17
+#
+name: 2 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 18
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 60
+command: 18
+#
+name: 3 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 19
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 60
+command: 19
+#
+name: 4 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 20
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 60
+command: 20
+#
+name: 5 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 21
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 60
+command: 21
+#
+name: 6 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 22
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 60
+command: 22
+#
+name: 7 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 23
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 60
+command: 23
+#
+name: 8 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 24
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 60
+command: 24
+#
+name: 9 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 25
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 60
+command: 25
+#
+name: 10 DISC SELECT
+type: parsed
+protocol: nec1
+address: 60
+command: 26
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 60
+command: 26
+#

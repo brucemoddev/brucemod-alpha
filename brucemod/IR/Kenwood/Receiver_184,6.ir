@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD-R INPUT
+type: parsed
+protocol: nec
+address: 184.6
+command: 16
+#
+name: CD-R
+type: parsed
+protocol: nec
+address: 184.6
+command: 16
+#
+name: ZONE B CDR
+type: parsed
+protocol: nec
+address: 184.6
+command: 17
+#
+name: ZONE B DVD
+type: parsed
+protocol: nec
+address: 184.6
+command: 18
+#
+name: 
+type: parsed
+protocol: nec
+address: 184.6
+command: 31
+#
+name: ENTER
+type: parsed
+protocol: nec
+address: 184.6
+command: 65
+#
+name: FULL AUTO
+type: parsed
+protocol: nec
+address: 184.6
+command: 80
+#
+name: FULL AUTO
+type: parsed
+protocol: nec1
+address: 184.6
+command: 80
+#
+name: DIGITAL MANUAL
+type: parsed
+protocol: nec1
+address: 184.6
+command: 82
+#
+name: ANALOG 6 CH.
+type: parsed
+protocol: nec
+address: 184.6
+command: 83
+#
+name: ZONE A POWER OFF
+type: parsed
+protocol: nec
+address: 184.6
+command: 128
+#
+name: ZONE A POWER ON
+type: parsed
+protocol: nec
+address: 184.6
+command: 129
+#
+name: ZONE B OFF
+type: parsed
+protocol: nec1
+address: 184.6
+command: 130
+#
+name: ZONE B ON
+type: parsed
+protocol: nec2
+address: 184.6
+command: 131
+#
+name: RELAY OFF
+type: parsed
+protocol: nec
+address: 184.6
+command: 136
+#
+name: RELAY ON
+type: parsed
+protocol: nec
+address: 184.6
+command: 137
+#
+name: RELAY ON
+type: parsed
+protocol: nec2
+address: 184.6
+command: 137
+#

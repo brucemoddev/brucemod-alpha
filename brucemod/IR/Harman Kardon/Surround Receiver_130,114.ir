@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AC-3
+type: parsed
+protocol: nec2
+address: 130.114
+command: 80
+#
+name: RF
+type: parsed
+protocol: nec2
+address: 130.114
+command: 85
+#
+name: OPTICAL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 86
+#
+name: COAX
+type: parsed
+protocol: nec2
+address: 130.114
+command: 87
+#
+name: OSD
+type: parsed
+protocol: nec2
+address: 130.114
+command: 92
+#
+name: CH. SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 93
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 130.114
+command: 128
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 130.114
+command: 129
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 130
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 131
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 132
+#
+name: DELAY
+type: parsed
+protocol: nec2
+address: 130.114
+command: 138
+#
+name: SPEAKER +
+type: parsed
+protocol: nec2
+address: 130.114
+command: 142
+#
+name: SPEAKER -
+type: parsed
+protocol: nec2
+address: 130.114
+command: 143
+#
+name: HALL
+type: parsed
+protocol: nec2
+address: 130.114
+command: 144
+#
+name: MATRIX
+type: parsed
+protocol: nec2
+address: 130.114
+command: 147
+#
+name: MOVIE
+type: parsed
+protocol: nec2
+address: 130.114
+command: 149
+#
+name: NIGHT
+type: parsed
+protocol: nec2
+address: 130.114
+command: 150
+#
+name: STEREO/BYPASS
+type: parsed
+protocol: nec2
+address: 130.114
+command: 155
+#
+name: 3 CHAN. STEREO
+type: parsed
+protocol: nec2
+address: 130.114
+command: 157
+#
+name: PRO-LOGIC
+type: parsed
+protocol: nec2
+address: 130.114
+command: 159
+#
+name: TUNER PRESET +
+type: parsed
+protocol: nec1
+address: 130.114
+command: 208
+#
+name: TUNER PRESET -
+type: parsed
+protocol: nec1
+address: 130.114
+command: 209
+#
+name: MULTI
+type: parsed
+protocol: nec1
+address: 130.114
+command: 223
+#

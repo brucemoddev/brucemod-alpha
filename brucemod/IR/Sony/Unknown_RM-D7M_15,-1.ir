@@ -1,0 +1,537 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 15
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 15
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 15
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 15
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 15
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 15
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 15
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 15
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 15
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 15
+command: 9
+#
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 15
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 15
+command: 9
+#
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 15
+command: 9
+#
+name: >25
+type: parsed
+protocol: sony12
+address: 15
+command: 10
+#
+name: KEY_OK
+type: parsed
+protocol: sony12
+address: 15
+command: 11
+#
+name: CHECK
+type: parsed
+protocol: sony12
+address: 15
+command: 13
+#
+name: UNK4
+type: parsed
+protocol: sony12
+address: 15
+command: 13
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony12
+address: 15
+command: 15
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony12
+address: 15
+command: 15
+#
+name: UNK6
+type: parsed
+protocol: sony12
+address: 15
+command: 15
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 15
+command: 18
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 15
+command: 19
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 15
+command: 21
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: sony12
+address: 15
+command: 22
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 15
+command: 24
+#
+name: SCROLL
+type: parsed
+protocol: sony12
+address: 15
+command: 25
+#
+name: NONAME2
+type: parsed
+protocol: sony12
+address: 15
+command: 26
+#
+name: NONAME1
+type: parsed
+protocol: sony12
+address: 15
+command: 27
+#
+name: CONTINUE
+type: parsed
+protocol: sony12
+address: 15
+command: 29
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 15
+command: 30
+#
+name: PROGRAM
+type: parsed
+protocol: sony12
+address: 15
+command: 31
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: sony12
+address: 15
+command: 32
+#
+name: KEY_NEXT
+type: parsed
+protocol: sony12
+address: 15
+command: 33
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony12
+address: 15
+command: 38
+#
+name: A-B
+type: parsed
+protocol: sony12
+address: 15
+command: 39
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 15
+command: 40
+#
+name: MEMO
+type: parsed
+protocol: sony12
+address: 15
+command: 40
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 15
+command: 41
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 15
+command: 42
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 15
+command: 43
+#
+name: KEY_FORWARD
+type: parsed
+protocol: sony12
+address: 15
+command: 44
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony12
+address: 15
+command: 44
+#
+name: KEY_RECORD
+type: parsed
+protocol: sony12
+address: 15
+command: 45
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 15
+command: 46
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 15
+command: 47
+#
+name: T.REC
+type: parsed
+protocol: sony12
+address: 15
+command: 48
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: sony12
+address: 15
+command: 48
+#
+name: KEY_NEXT
+type: parsed
+protocol: sony12
+address: 15
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 15
+command: 50
+#
+name: AUTO_SPACE
+type: parsed
+protocol: sony12
+address: 15
+command: 51
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 15
+command: 51
+#
+name: MUSIC_SCAN
+type: parsed
+protocol: sony12
+address: 15
+command: 52
+#
+name: KEY_FORWARD
+type: parsed
+protocol: sony12
+address: 15
+command: 52
+#
+name: WRITE_CHAR
+type: parsed
+protocol: sony12
+address: 15
+command: 54
+#
+name: WRITE_NUM
+type: parsed
+protocol: sony12
+address: 15
+command: 55
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 15
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 15
+command: 57
+#
+name: WRITE_NAME
+type: parsed
+protocol: sony12
+address: 15
+command: 60
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: sony12
+address: 15
+command: 61
+#
+name: KEY_SLEEP
+type: parsed
+protocol: sony12
+address: 15
+command: 62
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: sony12
+address: 15
+command: 62
+#
+name: MUSIC_SYNC
+type: parsed
+protocol: sony12
+address: 15
+command: 63
+#
+name: EXTRA
+type: parsed
+protocol: sony12
+address: 15
+command: 63
+#
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 15
+command: 64
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 15
+command: 65
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 15
+command: 66
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 15
+command: 67
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 15
+command: 68
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 15
+command: 69
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 15
+command: 70
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 15
+command: 71
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 15
+command: 72
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 15
+command: 73
+#
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 15
+command: 74
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 15
+command: 75
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 15
+command: 76
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 15
+command: 77
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 15
+command: 78
+#
+name: FADE
+type: parsed
+protocol: sony12
+address: 15
+command: 95
+#
+name: JOG+
+type: parsed
+protocol: sony12
+address: 15
+command: 96
+#
+name: JOG-
+type: parsed
+protocol: sony12
+address: 15
+command: 97
+#
+name: JOG++
+type: parsed
+protocol: sony12
+address: 15
+command: 98
+#
+name: UNK2
+type: parsed
+protocol: sony12
+address: 15
+command: 98
+#
+name: UNK5
+type: parsed
+protocol: sony12
+address: 15
+command: 99
+#
+name: JOG+++
+type: parsed
+protocol: sony12
+address: 15
+command: 100
+#
+name: UNK1
+type: parsed
+protocol: sony12
+address: 15
+command: 100
+#
+name: UNK3
+type: parsed
+protocol: sony12
+address: 15
+command: 101
+#
+name: MEMO_INPUT
+type: parsed
+protocol: sony12
+address: 15
+command: 105
+#
+name: MEMO_SCAN
+type: parsed
+protocol: sony12
+address: 15
+command: 107
+#

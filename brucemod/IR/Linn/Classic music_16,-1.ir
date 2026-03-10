@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOL+
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOL-
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: TUN
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 16
+command: 21
+#
+name: TP1
+type: parsed
+protocol: rc5
+address: 16
+command: 22
+#
+name: TP2
+type: parsed
+protocol: rc5
+address: 16
+command: 23
+#
+name: AUX
+type: parsed
+protocol: rc5
+address: 16
+command: 24
+#
+name: BAL R
+type: parsed
+protocol: rc5
+address: 16
+command: 26
+#
+name: BAL L
+type: parsed
+protocol: rc5
+address: 16
+command: 27
+#
+name: TIMER
+type: parsed
+protocol: rc5
+address: 16
+command: 38
+#
+name: ALARM
+type: parsed
+protocol: rc5
+address: 16
+command: 41
+#
+name: SLEEP
+type: parsed
+protocol: rc5
+address: 16
+command: 42
+#
+name: TIME UP
+type: parsed
+protocol: rc5
+address: 16
+command: 43
+#
+name: TIMEDN
+type: parsed
+protocol: rc5
+address: 16
+command: 44
+#
+name: LISTEN
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: BASS+
+type: parsed
+protocol: rc5
+address: 16
+command: 107
+#
+name: BASS-
+type: parsed
+protocol: rc5
+address: 16
+command: 108
+#
+name: TREB+
+type: parsed
+protocol: rc5
+address: 16
+command: 109
+#
+name: TREB-
+type: parsed
+protocol: rc5
+address: 16
+command: 110
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME -
+type: parsed
+protocol: denon
+address: 2
+command: 76
+#
+name: VOLUME +
+type: parsed
+protocol: denon
+address: 2
+command: 77
+#
+name: POWER
+type: parsed
+protocol: denon
+address: 2
+command: 80
+#
+name: TAPE MONITOR
+type: parsed
+protocol: denon
+address: 2
+command: 88
+#
+name: TAPE-1/1>2
+type: parsed
+protocol: denon
+address: 2
+command: 89
+#
+name: TAPE-2/2>1
+type: parsed
+protocol: denon
+address: 2
+command: 90
+#

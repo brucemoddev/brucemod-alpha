@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OFF
+type: parsed
+protocol: nec2
+address: 187
+command: 1
+#
+name: ON
+type: parsed
+protocol: nec2
+address: 187
+command: 2
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 187
+command: 3
+#
+name: IN 1
+type: parsed
+protocol: nec2
+address: 187
+command: 5
+#
+name: IN 3
+type: parsed
+protocol: nec2
+address: 187
+command: 6
+#
+name: IN 8
+type: parsed
+protocol: nec2
+address: 187
+command: 7
+#
+name: IN 2
+type: parsed
+protocol: nec2
+address: 187
+command: 9
+#
+name: IN 7
+type: parsed
+protocol: nec2
+address: 187
+command: 11
+#
+name: IN 4
+type: parsed
+protocol: nec2
+address: 187
+command: 13
+#
+name: IN 5
+type: parsed
+protocol: nec2
+address: 187
+command: 15
+#
+name: STA DN
+type: parsed
+protocol: nec2
+address: 187
+command: 23
+#
+name: STA UP
+type: parsed
+protocol: nec2
+address: 187
+command: 24
+#
+name: TUNE DN
+type: parsed
+protocol: nec2
+address: 187
+command: 27
+#
+name: TUNE UP
+type: parsed
+protocol: nec2
+address: 187
+command: 28
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 187
+command: 31
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 187
+command: 32
+#
+name: VOL DN
+type: parsed
+protocol: nec2
+address: 187
+command: 35
+#
+name: VOL UP
+type: parsed
+protocol: nec2
+address: 187
+command: 36
+#
+name: +10
+type: parsed
+protocol: nec2
+address: 187
+command: 41
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 187
+command: 45
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 187
+command: 46
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 187
+command: 47
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 187
+command: 48
+#
+name: SELECT_ENTER
+type: parsed
+protocol: nec2
+address: 187
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 187
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 187
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 187
+command: 51
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 187
+command: 53
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 187
+command: 54
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 187
+command: 55
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 187
+command: 57
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 187
+command: 58
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 187
+command: 59
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 187
+command: 62
+#
+name: ZONE
+type: parsed
+protocol: nec2
+address: 187
+command: 63
+#
+name: SAVE
+type: parsed
+protocol: nec2
+address: 187
+command: 64
+#
+name: IN 6
+type: parsed
+protocol: nec2
+address: 187
+command: 74
+#
+name: PSET UP
+type: parsed
+protocol: nec2
+address: 187
+command: 75
+#
+name: D IN
+type: parsed
+protocol: nec2
+address: 187
+command: 90
+#
+name: BASS DN
+type: parsed
+protocol: nec2
+address: 187
+command: 101
+#
+name: SOURCE UP
+type: parsed
+protocol: nec2
+address: 187
+command: 102
+#
+name: IN 9
+type: parsed
+protocol: nec2
+address: 187
+command: 110
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 187
+command: 118
+#
+name: TREB DN
+type: parsed
+protocol: nec2
+address: 187
+command: 121
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 187
+command: 125
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 187
+command: 142
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 187
+command: 162
+#
+name: SOURCE DN
+type: parsed
+protocol: nec2
+address: 187
+command: 166
+#
+name: PSET DN
+type: parsed
+protocol: nec2
+address: 187
+command: 198
+#
+name: LOUD
+type: parsed
+protocol: nec2
+address: 187
+command: 207
+#
+name: BASS UP
+type: parsed
+protocol: nec2
+address: 187
+command: 229
+#
+name: M [STM]
+type: parsed
+protocol: nec2
+address: 187
+command: 235
+#
+name: TREB UP
+type: parsed
+protocol: nec2
+address: 187
+command: 249
+#
+name: VIDEO +
+type: parsed
+protocol: nec2
+address: 187
+command: 250
+#

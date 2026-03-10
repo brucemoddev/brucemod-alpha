@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SELECT
+type: parsed
+protocol: nec1
+address: 0
+command: 6
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 0
+command: 12
+#
+name: CHAP>
+type: parsed
+protocol: nec1
+address: 0
+command: 16
+#
+name: CHAP<
+type: parsed
+protocol: nec1
+address: 0
+command: 20
+#
+name: FWW
+type: parsed
+protocol: nec1
+address: 0
+command: 24
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 0
+command: 28
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 0
+command: 64
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 0
+command: 68
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 0
+command: 72
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 0
+command: 73
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 0
+command: 76
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 0
+command: 77
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 0
+command: 87
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 0
+command: 91
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 0
+command: 95
+#

@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: PP
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: COLOUR +
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: COLOUR -
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: BASS +
+type: parsed
+protocol: rc5
+address: 0
+command: 22
+#
+name: BASS -
+type: parsed
+protocol: rc5
+address: 0
+command: 23
+#
+name: TREBLE +
+type: parsed
+protocol: rc5
+address: 0
+command: 24
+#
+name: TREBLE -
+type: parsed
+protocol: rc5
+address: 0
+command: 25
+#
+name: BALANCE +
+type: parsed
+protocol: rc5
+address: 0
+command: 26
+#
+name: BALANCE -
+type: parsed
+protocol: rc5
+address: 0
+command: 27
+#
+name: CONTRAST+
+type: parsed
+protocol: rc5
+address: 0
+command: 28
+#
+name: CONTRAST -
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: TINT -
+type: parsed
+protocol: rc5
+address: 0
+command: 31
+#
+name: TEST ON
+type: parsed
+protocol: rc5
+address: 0
+command: 37
+#
+name: SL/TIM
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: TINT +
+type: parsed
+protocol: rc5
+address: 0
+command: 39
+#
+name: ENHANCE +
+type: parsed
+protocol: rc5
+address: 0
+command: 48
+#
+name: ENHANCE -
+type: parsed
+protocol: rc5
+address: 0
+command: 49
+#
+name: INPUT SELECT
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: STATUS
+type: parsed
+protocol: rc5
+address: 0
+command: 57
+#
+name: STORE MEMORY
+type: parsed
+protocol: rc5
+address: 0
+command: 57
+#
+name: TEST OFF
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#

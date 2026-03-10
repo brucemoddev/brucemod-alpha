@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5odd
+address: 17
+command: 64
+#
+name: 1
+type: parsed
+protocol: rc5odd
+address: 17
+command: 65
+#
+name: 2/ABC
+type: parsed
+protocol: rc5odd
+address: 17
+command: 66
+#
+name: 3/DEF
+type: parsed
+protocol: rc5odd
+address: 17
+command: 67
+#
+name: 4/GHI
+type: parsed
+protocol: rc5odd
+address: 17
+command: 68
+#
+name: 5/JKL
+type: parsed
+protocol: rc5odd
+address: 17
+command: 69
+#
+name: 6/MNO
+type: parsed
+protocol: rc5odd
+address: 17
+command: 70
+#
+name: 7/PQRS
+type: parsed
+protocol: rc5odd
+address: 17
+command: 71
+#
+name: 8/TUV
+type: parsed
+protocol: rc5odd
+address: 17
+command: 72
+#
+name: 9/WXYZ
+type: parsed
+protocol: rc5odd
+address: 17
+command: 73
+#
+name: POWER
+type: parsed
+protocol: rc5odd
+address: 17
+command: 74
+#
+name: MUTE
+type: parsed
+protocol: rc5odd
+address: 17
+command: 75
+#
+name: PAGE +
+type: parsed
+protocol: rc5odd
+address: 17
+command: 76
+#
+name: VOLUME +
+type: parsed
+protocol: rc5odd
+address: 17
+command: 77
+#
+name: PAGE -
+type: parsed
+protocol: rc5odd
+address: 17
+command: 78
+#
+name: VOLUME -
+type: parsed
+protocol: rc5odd
+address: 17
+command: 79
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5odd
+address: 17
+command: 80
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5odd
+address: 17
+command: 81
+#
+name: CURSOR OK
+type: parsed
+protocol: rc5odd
+address: 17
+command: 82
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5odd
+address: 17
+command: 83
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc5odd
+address: 17
+command: 84
+#
+name: BACK/EXIT
+type: parsed
+protocol: rc5odd
+address: 17
+command: 85
+#
+name: OPTIONS
+type: parsed
+protocol: rc5odd
+address: 17
+command: 86
+#
+name: PLAY
+type: parsed
+protocol: rc5odd
+address: 17
+command: 87
+#
+name: PAUSE
+type: parsed
+protocol: rc5odd
+address: 17
+command: 88
+#
+name: STOP
+type: parsed
+protocol: rc5odd
+address: 17
+command: 89
+#
+name: PREVIOUS
+type: parsed
+protocol: rc5odd
+address: 17
+command: 90
+#
+name: NEXT
+type: parsed
+protocol: rc5odd
+address: 17
+command: 91
+#
+name: RECORD
+type: parsed
+protocol: rc5odd
+address: 17
+command: 92
+#
+name: REVERSE
+type: parsed
+protocol: rc5odd
+address: 17
+command: 93
+#
+name: FORWARD
+type: parsed
+protocol: rc5odd
+address: 17
+command: 94
+#
+name: HOME
+type: parsed
+protocol: rc5odd
+address: 17
+command: 96
+#
+name: MOVIES
+type: parsed
+protocol: rc5odd
+address: 17
+command: 97
+#
+name: MUSIC
+type: parsed
+protocol: rc5odd
+address: 17
+command: 98
+#
+name: PHOTOS
+type: parsed
+protocol: rc5odd
+address: 17
+command: 99
+#

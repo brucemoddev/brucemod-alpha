@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR ENTER/STOP
+type: parsed
+protocol: nec2
+address: 44.44
+command: 5
+#
+name: CURSOR LEFT/PREV
+type: parsed
+protocol: nec2
+address: 44.44
+command: 6
+#
+name: CURSOR RIGHT/NEXT
+type: parsed
+protocol: nec2
+address: 44.44
+command: 7
+#
+name: FOLDER +
+type: parsed
+protocol: nec2
+address: 44.44
+command: 12
+#
+name: FOLDER -
+type: parsed
+protocol: nec2
+address: 44.44
+command: 13
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 44.44
+command: 22
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 44.44
+command: 23
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 44.44
+command: 30
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 44.44
+command: 31
+#
+name: SOUND EFFECT
+type: parsed
+protocol: nec2
+address: 44.44
+command: 47
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 44.44
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 44.44
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 44.44
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 44.44
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 44.44
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 44.44
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 44.44
+command: 71
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 44.44
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 44.44
+command: 73
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 44.44
+command: 75
+#
+name: CURSOR UP/REPEAT
+type: parsed
+protocol: nec2
+address: 44.44
+command: 78
+#
+name: CURSOR DOWN/PLAY
+type: parsed
+protocol: nec2
+address: 44.44
+command: 79
+#
+name: DOBLY DRC
+type: parsed
+protocol: nec2
+address: 44.44
+command: 98
+#
+name: WOOFER LEVEL
+type: parsed
+protocol: nec2
+address: 44.44
+command: 102
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec2
+address: 44.44
+command: 132
+#
+name: INPUT
+type: parsed
+protocol: nec2
+address: 44.44
+command: 138
+#
+name: INFO
+type: parsed
+protocol: nec2
+address: 44.44
+command: 163
+#
+name: OPTICAL
+type: parsed
+protocol: nec2
+address: 44.44
+command: 182
+#
+name: SLEEP
+type: parsed
+protocol: nec2
+address: 44.44
+command: 194
+#
+name: AV SYNC
+type: parsed
+protocol: nec2
+address: 44.44
+command: 217
+#

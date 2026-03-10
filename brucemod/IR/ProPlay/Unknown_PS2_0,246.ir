@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 0.246
+command: 0
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.246
+command: 1
+#
+name: select_menu
+type: parsed
+protocol: nec
+address: 0.246
+command: 2
+#
+name: enter/ok
+type: parsed
+protocol: nec
+address: 0.246
+command: 3
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 0.246
+command: 4
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.246
+command: 5
+#
+name: fast_backward
+type: parsed
+protocol: nec
+address: 0.246
+command: 6
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.246
+command: 7
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 0.246
+command: 8
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.246
+command: 9
+#
+name: caption
+type: parsed
+protocol: nec
+address: 0.246
+command: 10
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 0.246
+command: 11
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.246
+command: 12
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.246
+command: 13
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.246
+command: 14
+#
+name: nicam
+type: parsed
+protocol: nec
+address: 0.246
+command: 15
+#
+name: game/remote
+type: parsed
+protocol: nec
+address: 0.246
+command: 16
+#

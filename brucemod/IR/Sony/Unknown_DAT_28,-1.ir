@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 28
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 28
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 28
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 28
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 28
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 28
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 28
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 28
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 28
+command: 8
+#
+name: KEY_OK
+type: parsed
+protocol: sony12
+address: 28
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 28
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 28
+command: 19
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 28
+command: 20
+#
+name: KEY_MUTE
+type: parsed
+protocol: sony12
+address: 28
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 28
+command: 21
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 28
+command: 46
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 28
+command: 47
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 28
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 28
+command: 57
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 28
+command: 59
+#
+name: KEY_FORWARD
+type: parsed
+protocol: sony12
+address: 28
+command: 60
+#
+name: KEY_RECORD
+type: parsed
+protocol: sony12
+address: 28
+command: 62
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: sony12
+address: 28
+command: 104
+#
+name: KEY_NEXT
+type: parsed
+protocol: sony12
+address: 28
+command: 105
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 28
+command: 122
+#

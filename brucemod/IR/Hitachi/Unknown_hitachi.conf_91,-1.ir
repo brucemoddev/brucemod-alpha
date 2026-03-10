@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: pow
+type: parsed
+protocol: nec
+address: 91
+command: 0
+#
+name: vl+
+type: parsed
+protocol: nec
+address: 91
+command: 1
+#
+name: vl-
+type: parsed
+protocol: nec
+address: 91
+command: 2
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 91
+command: 7
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 91
+command: 8
+#
+name: tape_select
+type: parsed
+protocol: nec
+address: 91
+command: 9
+#
+name: ply
+type: parsed
+protocol: nec
+address: 91
+command: 18
+#
+name: stp
+type: parsed
+protocol: nec
+address: 91
+command: 19
+#
+name: faf
+type: parsed
+protocol: nec
+address: 91
+command: 20
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 91
+command: 21
+#
+name: mnu
+type: parsed
+protocol: nec
+address: 91
+command: 22
+#
+name: rst
+type: parsed
+protocol: nec
+address: 91
+command: 23
+#
+name: ant
+type: parsed
+protocol: nec
+address: 91
+command: 24
+#
+name: srt
+type: parsed
+protocol: nec
+address: 91
+command: 25
+#
+name: slt
+type: parsed
+protocol: nec
+address: 91
+command: 26
+#
+name: rgt
+type: parsed
+protocol: nec
+address: 91
+command: 27
+#
+name: lft
+type: parsed
+protocol: nec
+address: 91
+command: 28
+#
+name: tape_stop
+type: parsed
+protocol: nec
+address: 91
+command: 29
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 91
+command: 31
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 91
+command: 77
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 91
+command: 78
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 91
+command: 79
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 91
+command: 80
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 91
+command: 81
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 91
+command: 82
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 91
+command: 83
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 91
+command: 84
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 91
+command: 85
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 91
+command: 86
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 91
+command: 87
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 91
+command: 91
+#

@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 1
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 1
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 1
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 1
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 1
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 1
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 1
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 1
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 1
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 1
+command: 9
+#
+name: KEY_DOT
+type: parsed
+protocol: sony12
+address: 1
+command: 10
+#
+name: EnterNumPad
+type: parsed
+protocol: sony12
+address: 1
+command: 11
+#
+name: CC
+type: parsed
+protocol: sony12
+address: 1
+command: 12
+#
+name: KEY_EPG
+type: parsed
+protocol: sony12
+address: 1
+command: 14
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sony12
+address: 1
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: Backlight
+type: parsed
+protocol: sony12
+address: 1
+command: 24
+#
+name: KEY_ZOOM
+type: parsed
+protocol: sony12
+address: 1
+command: 28
+#
+name: KEY_TV
+type: parsed
+protocol: sony12
+address: 1
+command: 36
+#
+name: Input
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: KEY_RIGHT
+type: parsed
+protocol: sony12
+address: 1
+command: 51
+#
+name: KEY_LEFT
+type: parsed
+protocol: sony12
+address: 1
+command: 52
+#
+name: KEY_SLEEP
+type: parsed
+protocol: sony12
+address: 1
+command: 54
+#
+name: KEY_INFO
+type: parsed
+protocol: sony12
+address: 1
+command: 58
+#
+name: Retry
+type: parsed
+protocol: sony12
+address: 1
+command: 59
+#
+name: KEY_VIDEO
+type: parsed
+protocol: sony12
+address: 1
+command: 64
+#
+name: HDMI
+type: parsed
+protocol: sony12
+address: 1
+command: 66
+#
+name: KEY_PC
+type: parsed
+protocol: sony12
+address: 1
+command: 67
+#
+name: DVI
+type: parsed
+protocol: sony12
+address: 1
+command: 68
+#
+name: YPbPr1
+type: parsed
+protocol: sony12
+address: 1
+command: 72
+#
+name: YPbPr2
+type: parsed
+protocol: sony12
+address: 1
+command: 73
+#
+name: SVideo
+type: parsed
+protocol: sony12
+address: 1
+command: 77
+#
+name: PIP
+type: parsed
+protocol: sony12
+address: 1
+command: 91
+#
+name: Swap
+type: parsed
+protocol: sony12
+address: 1
+command: 95
+#
+name: KEY_MENU
+type: parsed
+protocol: sony12
+address: 1
+command: 96
+#
+name: EnterNavigation
+type: parsed
+protocol: sony12
+address: 1
+command: 101
+#
+name: KEY_A
+type: parsed
+protocol: sony12
+address: 1
+command: 106
+#
+name: KEY_B
+type: parsed
+protocol: sony12
+address: 1
+command: 107
+#
+name: KEY_C
+type: parsed
+protocol: sony12
+address: 1
+command: 108
+#
+name: KEY_UP
+type: parsed
+protocol: sony12
+address: 1
+command: 116
+#
+name: KEY_DOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 117
+#

@@ -1,0 +1,765 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 115
+command: 1
+#
+name: ARROW UP
+type: parsed
+protocol: jvc
+address: 115
+command: 1
+#
+name: MENU UP
+type: parsed
+protocol: jvc
+address: 115
+command: 1
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 2
+#
+name: ARROW DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 2
+#
+name: MENU DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 2
+#
+name: PAGE BACK
+type: parsed
+protocol: jvc
+address: 115
+command: 3
+#
+name: EXIT
+type: parsed
+protocol: jvc
+address: 115
+command: 3
+#
+name: PAGE/ BACK
+type: parsed
+protocol: jvc
+address: 115
+command: 3
+#
+name: BACK
+type: parsed
+protocol: jvc
+address: 115
+command: 3
+#
+name: PRESET
+type: parsed
+protocol: jvc
+address: 115
+command: 4
+#
+name: POWER ON
+type: parsed
+protocol: jvc
+address: 115
+command: 5
+#
+name: ON
+type: parsed
+protocol: jvc
+address: 115
+command: 5
+#
+name: POWER OFF
+type: parsed
+protocol: jvc
+address: 115
+command: 6
+#
+name: POWER OFF - SEND 2X
+type: parsed
+protocol: jvc
+address: 115
+command: 6
+#
+name: STANDBY
+type: parsed
+protocol: jvc
+address: 115
+command: 6
+#
+name: LIGHT
+type: parsed
+protocol: jvc
+address: 115
+command: 7
+#
+name: INPUT
+type: parsed
+protocol: jvc
+address: 115
+command: 8
+#
+name: BRIGHT
+type: parsed
+protocol: jvc
+address: 115
+command: 9
+#
+name: CONT
+type: parsed
+protocol: jvc
+address: 115
+command: 10
+#
+name: FREEZE
+type: parsed
+protocol: jvc
+address: 115
+command: 15
+#
+name: COMPUTER
+type: parsed
+protocol: jvc
+address: 115
+command: 16
+#
+name: PC
+type: parsed
+protocol: jvc
+address: 115
+command: 16
+#
+name: VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 17
+#
+name: QUICK ALIGN.
+type: parsed
+protocol: jvc
+address: 115
+command: 19
+#
+name: QUICK ALIGN
+type: parsed
+protocol: jvc
+address: 115
+command: 19
+#
+name: QUICKALIGN
+type: parsed
+protocol: jvc
+address: 115
+command: 19
+#
+name: SHARP
+type: parsed
+protocol: jvc
+address: 115
+command: 20
+#
+name: COLOR
+type: parsed
+protocol: jvc
+address: 115
+command: 21
+#
+name: TINT
+type: parsed
+protocol: jvc
+address: 115
+command: 22
+#
+name: OPERATE
+type: parsed
+protocol: jvc
+address: 115
+command: 23
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 115
+command: 23
+#
+name: SCAN POWER
+type: parsed
+protocol: jvc_two_frames
+address: 115
+command: 23
+#
+name: N.R.
+type: parsed
+protocol: jvc
+address: 115
+command: 24
+#
+name: V-KEYSTONE UP
+type: parsed
+protocol: jvc
+address: 115
+command: 27
+#
+name: V-KEYSTONE DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 28
+#
+name: AV MUTING
+type: parsed
+protocol: jvc
+address: 115
+command: 29
+#
+name: HIDE
+type: parsed
+protocol: jvc
+address: 115
+command: 29
+#
+name: INFO
+type: parsed
+protocol: jvc
+address: 115
+command: 29
+#
+name: VOL +
+type: parsed
+protocol: jvc
+address: 115
+command: 30
+#
+name: VOL -
+type: parsed
+protocol: jvc
+address: 115
+command: 31
+#
+name: LENS.AP
+type: parsed
+protocol: jvc
+address: 115
+command: 32
+#
+name: ZOOM T
+type: parsed
+protocol: jvc
+address: 115
+command: 35
+#
+name: V STRETCH ON
+type: parsed
+protocol: jvc
+address: 115
+command: 35
+#
+name: ZOOM UP
+type: parsed
+protocol: jvc
+address: 115
+command: 35
+#
+name: ZOOOM T
+type: parsed
+protocol: jvc
+address: 115
+command: 35
+#
+name: ZOOM W
+type: parsed
+protocol: jvc
+address: 115
+command: 36
+#
+name: V STRETCH OFF
+type: parsed
+protocol: jvc
+address: 115
+command: 36
+#
+name: ZOOM DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 36
+#
+name: DIGITAL ZOOM +
+type: parsed
+protocol: jvc
+address: 115
+command: 42
+#
+name: DIGITAL ZOOM -
+type: parsed
+protocol: jvc_two_frames
+address: 115
+command: 43
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 115
+command: 46
+#
+name: ENTER
+type: parsed
+protocol: jvc
+address: 115
+command: 47
+#
+name: CURSOR ENTER
+type: parsed
+protocol: jvc
+address: 115
+command: 47
+#
+name: OK
+type: parsed
+protocol: jvc
+address: 115
+command: 47
+#
+name: MENU/ENTER
+type: parsed
+protocol: jvc
+address: 115
+command: 48
+#
+name: MENU/ ENTER
+type: parsed
+protocol: jvc
+address: 115
+command: 48
+#
+name: SELECT =
+type: parsed
+protocol: jvc
+address: 115
+command: 48
+#
+name: LENS
+type: parsed
+protocol: jvc
+address: 115
+command: 48
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 115
+command: 52
+#
+name: ARROW RIGHT
+type: parsed
+protocol: jvc
+address: 115
+command: 52
+#
+name: CURSOR >
+type: parsed
+protocol: jvc
+address: 115
+command: 52
+#
+name: MENU RIGHT
+type: parsed
+protocol: jvc
+address: 115
+command: 52
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 115
+command: 54
+#
+name: ARROW LEFT
+type: parsed
+protocol: jvc
+address: 115
+command: 54
+#
+name: CURSOR <
+type: parsed
+protocol: jvc
+address: 115
+command: 54
+#
+name: MENU LEFT
+type: parsed
+protocol: jvc
+address: 115
+command: 54
+#
+name: FOCUS +
+type: parsed
+protocol: jvc
+address: 115
+command: 60
+#
+name: FOCUS UP
+type: parsed
+protocol: jvc
+address: 115
+command: 60
+#
+name: FOCUS -
+type: parsed
+protocol: jvc
+address: 115
+command: 61
+#
+name: FOCUS DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 61
+#
+name: H-KEYSTONE UP
+type: parsed
+protocol: jvc
+address: 115
+command: 64
+#
+name: H-KEYSTONE DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 65
+#
+name: VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 75
+#
+name: INPUT VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 75
+#
+name: S-VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 76
+#
+name: INPUT S-VIDEO
+type: parsed
+protocol: jvc
+address: 115
+command: 76
+#
+name: COMPONENT
+type: parsed
+protocol: jvc
+address: 115
+command: 77
+#
+name: COMP.
+type: parsed
+protocol: jvc
+address: 115
+command: 77
+#
+name: INPUT COMPONENT
+type: parsed
+protocol: jvc
+address: 115
+command: 77
+#
+name: SCREEN W
+type: parsed
+protocol: jvc
+address: 115
+command: 86
+#
+name: SCREEN S
+type: parsed
+protocol: jvc
+address: 115
+command: 87
+#
+name: CHP
+type: parsed
+protocol: jvc
+address: 115
+command: 88
+#
+name: TEST
+type: parsed
+protocol: jvc
+address: 115
+command: 89
+#
+name: STAGE
+type: parsed
+protocol: jvc
+address: 115
+command: 103
+#
+name: CINEMA 2
+type: parsed
+protocol: jvc
+address: 115
+command: 104
+#
+name: CINEMA
+type: parsed
+protocol: jvc
+address: 115
+command: 105
+#
+name: CINEMA MODE
+type: parsed
+protocol: jvc
+address: 115
+command: 105
+#
+name: CINEMA 1
+type: parsed
+protocol: jvc
+address: 115
+command: 105
+#
+name: NATURAL
+type: parsed
+protocol: jvc
+address: 115
+command: 106
+#
+name: NATURAL MODE
+type: parsed
+protocol: jvc
+address: 115
+command: 106
+#
+name: DYNAMIC
+type: parsed
+protocol: jvc
+address: 115
+command: 107
+#
+name: USER 1
+type: parsed
+protocol: jvc
+address: 115
+command: 108
+#
+name: USER 2
+type: parsed
+protocol: jvc
+address: 115
+command: 109
+#
+name: USER 3
+type: parsed
+protocol: jvc
+address: 115
+command: 110
+#
+name: HDMI1
+type: parsed
+protocol: jvc
+address: 115
+command: 112
+#
+name: HDMI 1
+type: parsed
+protocol: jvc
+address: 115
+command: 112
+#
+name: INPUT HDMI 1
+type: parsed
+protocol: jvc
+address: 115
+command: 112
+#
+name: HDMI2
+type: parsed
+protocol: jvc
+address: 115
+command: 113
+#
+name: HDMI 2
+type: parsed
+protocol: jvc
+address: 115
+command: 113
+#
+name: INPUT HDMI 2
+type: parsed
+protocol: jvc
+address: 115
+command: 113
+#
+name: INFO
+type: parsed
+protocol: jvc
+address: 115
+command: 116
+#
+name: GAMMA
+type: parsed
+protocol: jvc
+address: 115
+command: 117
+#
+name: COLOUR TEMP
+type: parsed
+protocol: jvc
+address: 115
+command: 118
+#
+name: COLOR TEMP
+type: parsed
+protocol: jvc
+address: 115
+command: 118
+#
+name: C.TEMP
+type: parsed
+protocol: jvc
+address: 115
+command: 118
+#
+name: ASPECT
+type: parsed
+protocol: jvc
+address: 115
+command: 119
+#
+name: ASPECT RATIO
+type: parsed
+protocol: jvc
+address: 115
+command: 119
+#
+name: DYNAMIC MODE
+type: parsed
+protocol: jvc
+address: 115
+command: 119
+#
+name: CONTRAST +
+type: parsed
+protocol: jvc
+address: 115
+command: 120
+#
+name: CONTRAST UP
+type: parsed
+protocol: jvc
+address: 115
+command: 120
+#
+name: CONTRAST -
+type: parsed
+protocol: jvc
+address: 115
+command: 121
+#
+name: CONTRAST DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 121
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: jvc
+address: 115
+command: 122
+#
+name: BRIGHTNESS UP
+type: parsed
+protocol: jvc
+address: 115
+command: 122
+#
+name: BRIGHT +
+type: parsed
+protocol: jvc
+address: 115
+command: 122
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: jvc
+address: 115
+command: 123
+#
+name: BRIGHTNESS DOWN
+type: parsed
+protocol: jvc
+address: 115
+command: 123
+#
+name: BRIGHT -
+type: parsed
+protocol: jvc
+address: 115
+command: 123
+#
+name: COLOUR +
+type: parsed
+protocol: jvc
+address: 115
+command: 124
+#
+name: COLOR +
+type: parsed
+protocol: jvc
+address: 115
+command: 124
+#
+name: COLOUR -
+type: parsed
+protocol: jvc
+address: 115
+command: 125
+#
+name: COLOR -
+type: parsed
+protocol: jvc
+address: 115
+command: 125
+#
+name: SHARPNESS +
+type: parsed
+protocol: jvc
+address: 115
+command: 126
+#
+name: SHARP +
+type: parsed
+protocol: jvc
+address: 115
+command: 126
+#
+name: SHARPNESS -
+type: parsed
+protocol: jvc
+address: 115
+command: 127
+#
+name: SHARP -
+type: parsed
+protocol: jvc
+address: 115
+command: 127
+#

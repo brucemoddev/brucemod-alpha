@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128.112
+command: 1
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 128.112
+command: 2
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 128.112
+command: 3
+#
+name: skipnext
+type: parsed
+protocol: nec
+address: 128.112
+command: 4
+#
+name: skipprev
+type: parsed
+protocol: nec
+address: 128.112
+command: 5
+#
+name: searchnext
+type: parsed
+protocol: nec
+address: 128.112
+command: 6
+#
+name: searchprev
+type: parsed
+protocol: nec
+address: 128.112
+command: 7
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 128.112
+command: 10
+#
+name: ab
+type: parsed
+protocol: nec
+address: 128.112
+command: 11
+#
+name: intro
+type: parsed
+protocol: nec
+address: 128.112
+command: 13
+#
+name: program
+type: parsed
+protocol: nec
+address: 128.112
+command: 14
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 128.112
+command: 15
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128.112
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128.112
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128.112
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128.112
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128.112
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128.112
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128.112
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128.112
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128.112
+command: 25
+#
+name: check
+type: parsed
+protocol: nec
+address: 128.112
+command: 27
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 128.112
+command: 28
+#
+name: display
+type: parsed
+protocol: nec
+address: 128.112
+command: 29
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128.112
+command: 64
+#
+name: KEY_EDIT
+type: parsed
+protocol: nec
+address: 128.112
+command: 76
+#
+name: random
+type: parsed
+protocol: nec
+address: 128.112
+command: 77
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128.112
+command: 86
+#
+name: off
+type: parsed
+protocol: nec
+address: 128.112
+command: 87
+#
+name: tapesize
+type: parsed
+protocol: nec
+address: 128.112
+command: 92
+#

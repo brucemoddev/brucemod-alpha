@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR ENTER
+type: parsed
+protocol: rc5
+address: 1
+command: 2
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 1
+command: 3
+#
+name: CURSOR UP
+type: parsed
+protocol: rc5
+address: 1
+command: 4
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 1
+command: 5
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 1
+command: 7
+#
+name: VALUE -
+type: parsed
+protocol: rc5
+address: 1
+command: 7
+#
+name: 0
+type: parsed
+protocol: rc5
+address: 1
+command: 8
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 1
+command: 10
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 1
+command: 11
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 1
+command: 12
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 1
+command: 13
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 1
+command: 14
+#
+name: 
+type: parsed
+protocol: rc5
+address: 1
+command: 14
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 1
+command: 15
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 1
+command: 17
+#
+name: 
+type: parsed
+protocol: rc5
+address: 1
+command: 17
+#
+name: TINT
+type: parsed
+protocol: rc5
+address: 1
+command: 21
+#
+name: NOISE REDUCTION
+type: parsed
+protocol: rc5
+address: 1
+command: 23
+#
+name: ASPECT
+type: parsed
+protocol: rc5
+address: 1
+command: 24
+#
+name: S-VIDEO
+type: parsed
+protocol: rc5
+address: 1
+command: 28
+#
+name: RGB
+type: parsed
+protocol: rc5
+address: 1
+command: 29
+#
+name: YCRCB
+type: parsed
+protocol: rc5
+address: 1
+command: 30
+#
+name: 4:3
+type: parsed
+protocol: rc5
+address: 1
+command: 32
+#
+name: ANAMORPHIC
+type: parsed
+protocol: rc5
+address: 1
+command: 34
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 1
+command: 35
+#
+name: PST1
+type: parsed
+protocol: rc5
+address: 1
+command: 37
+#
+name: PST2
+type: parsed
+protocol: rc5
+address: 1
+command: 38
+#
+name: PST3
+type: parsed
+protocol: rc5
+address: 1
+command: 39
+#
+name: PST4
+type: parsed
+protocol: rc5
+address: 1
+command: 40
+#
+name: FACTORY
+type: parsed
+protocol: rc5
+address: 1
+command: 41
+#

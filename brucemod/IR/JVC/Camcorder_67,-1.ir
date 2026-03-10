@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SHIFT STOP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: SHIFT FFWD >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: SHIFT REW <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: SHIFT PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: SHIFT PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: EDIT - RECORD PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 205
+#

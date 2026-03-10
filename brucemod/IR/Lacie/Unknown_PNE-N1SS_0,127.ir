@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.127
+command: 38
+#
+name: KEY_HOME
+type: parsed
+protocol: nec
+address: 0.127
+command: 62
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0.127
+command: 76
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0.127
+command: 86
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0.127
+command: 92
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.127
+command: 100
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.127
+command: 102
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.127
+command: 124
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.127
+command: 126
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0.127
+command: 140
+#
+name: X_KEY_SETTINGS
+type: parsed
+protocol: nec
+address: 0.127
+command: 148
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0.127
+command: 164
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0.127
+command: 164
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.127
+command: 172
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.127
+command: 180
+#
+name: X_KEY_SHUTDOWN
+type: parsed
+protocol: nec
+address: 0.127
+command: 196
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 0.127
+command: 254
+#

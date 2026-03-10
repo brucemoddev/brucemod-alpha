@@ -1,0 +1,483 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV_0
+type: parsed
+protocol: rc5
+address: 0
+command: 0
+#
+name: VCR_0
+type: parsed
+protocol: rc5
+address: 5
+command: 0
+#
+name: TV_1
+type: parsed
+protocol: rc5
+address: 0
+command: 1
+#
+name: VCR_1
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: TV_2
+type: parsed
+protocol: rc5
+address: 0
+command: 2
+#
+name: VCR_2
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: TV_3
+type: parsed
+protocol: rc5
+address: 0
+command: 3
+#
+name: VCR_3
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: TV_4
+type: parsed
+protocol: rc5
+address: 0
+command: 4
+#
+name: VCR_4
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: TV_5
+type: parsed
+protocol: rc5
+address: 0
+command: 5
+#
+name: VCR_5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: TV_6
+type: parsed
+protocol: rc5
+address: 0
+command: 6
+#
+name: VCR_6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: TV_7
+type: parsed
+protocol: rc5
+address: 0
+command: 7
+#
+name: VCR_7
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: TV_8
+type: parsed
+protocol: rc5
+address: 0
+command: 8
+#
+name: VCR_8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: TV_9
+type: parsed
+protocol: rc5
+address: 0
+command: 9
+#
+name: VCR_9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: TV_-/--
+type: parsed
+protocol: rc5
+address: 0
+command: 10
+#
+name: VCR_-/--
+type: parsed
+protocol: rc5
+address: 5
+command: 10
+#
+name: TV_STANDBY
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: VCR_STANDBY
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: TV_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: VCR_EJECT
+type: parsed
+protocol: rc5
+address: 5
+command: 13
+#
+name: TV_PP
+type: parsed
+protocol: rc5
+address: 0
+command: 14
+#
+name: VCR_PP
+type: parsed
+protocol: rc5
+address: 5
+command: 14
+#
+name: TV_OSD
+type: parsed
+protocol: rc5
+address: 0
+command: 15
+#
+name: VCR_OSD
+type: parsed
+protocol: rc5
+address: 5
+command: 15
+#
+name: TV_VOL_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: VCR_VOL_UP
+type: parsed
+protocol: rc5
+address: 5
+command: 16
+#
+name: TV_VOL_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: VCR_VOL_DOWN
+type: parsed
+protocol: rc5
+address: 5
+command: 17
+#
+name: TV_BRIGHT_PLUS
+type: parsed
+protocol: rc5
+address: 0
+command: 18
+#
+name: VCR_BRIGHT_MINUS
+type: parsed
+protocol: rc5
+address: 5
+command: 18
+#
+name: TV_BRIGHT_MINUS
+type: parsed
+protocol: rc5
+address: 0
+command: 19
+#
+name: VCR_BRIGHT_PLUS
+type: parsed
+protocol: rc5
+address: 5
+command: 19
+#
+name: TV_COLOR_PLUS
+type: parsed
+protocol: rc5
+address: 0
+command: 20
+#
+name: VCR_COLOR_PLUS
+type: parsed
+protocol: rc5
+address: 5
+command: 20
+#
+name: TV_COLOR_MINUS
+type: parsed
+protocol: rc5
+address: 0
+command: 21
+#
+name: VCR_COLOR_MINUS
+type: parsed
+protocol: rc5
+address: 5
+command: 21
+#
+name: TV_TEXT_MEMO_OUT
+type: parsed
+protocol: rc5
+address: 0
+command: 29
+#
+name: TV_PRG_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: VCR_PRG_UP
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: TV_PRG_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#
+name: VCR_PRG_DOWN
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: VCR_MODE
+type: parsed
+protocol: rc5
+address: 5
+command: 35
+#
+name: TV_SLEEP
+type: parsed
+protocol: rc5
+address: 0
+command: 38
+#
+name: VCR_SLEEP
+type: parsed
+protocol: rc5
+address: 5
+command: 38
+#
+name: TV_TEXT_HOLD
+type: parsed
+protocol: rc5
+address: 0
+command: 41
+#
+name: VCR_TEXT_HOLD
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: TV_TEXT_TIME
+type: parsed
+protocol: rc5
+address: 0
+command: 42
+#
+name: VCR_SCAN
+type: parsed
+protocol: rc5
+address: 5
+command: 42
+#
+name: VCR_TEXT_TIME
+type: parsed
+protocol: rc5
+address: 5
+command: 42
+#
+name: TV_TEXT_ENLARGE
+type: parsed
+protocol: rc5
+address: 0
+command: 43
+#
+name: VCR_TEXT_ENLARGE
+type: parsed
+protocol: rc5
+address: 5
+command: 43
+#
+name: TV_TEXT_REVEAL
+type: parsed
+protocol: rc5
+address: 0
+command: 44
+#
+name: VCR_TEXT_REVEAL
+type: parsed
+protocol: rc5
+address: 5
+command: 44
+#
+name: TV_TEXT_CANCEL
+type: parsed
+protocol: rc5
+address: 0
+command: 45
+#
+name: VCR_TEXT_CANCEL
+type: parsed
+protocol: rc5
+address: 5
+command: 45
+#
+name: TV_TEXT_MODE
+type: parsed
+protocol: rc5
+address: 0
+command: 46
+#
+name: VCR_TEXT_MODE
+type: parsed
+protocol: rc5
+address: 5
+command: 46
+#
+name: VCR_PAUSE
+type: parsed
+protocol: rc5
+address: 5
+command: 48
+#
+name: TV_TEXT_YELLOW
+type: parsed
+protocol: rc5
+address: 0
+command: 50
+#
+name: VCR_REV
+type: parsed
+protocol: rc5
+address: 5
+command: 50
+#
+name: TV_TEXT_BLUE
+type: parsed
+protocol: rc5
+address: 0
+command: 52
+#
+name: VCR_FF
+type: parsed
+protocol: rc5
+address: 5
+command: 52
+#
+name: TV_TEXT_INDEX
+type: parsed
+protocol: rc5
+address: 0
+command: 53
+#
+name: VCR_PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 53
+#
+name: TV_TEXT_GREEN
+type: parsed
+protocol: rc5
+address: 0
+command: 54
+#
+name: VCR_STOP
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#
+name: TV_TEXT_RED
+type: parsed
+protocol: rc5
+address: 0
+command: 55
+#
+name: VCR_RECORD
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#
+name: TV_SOURCE
+type: parsed
+protocol: rc5
+address: 0
+command: 56
+#
+name: VCR_SOURCE
+type: parsed
+protocol: rc5
+address: 5
+command: 56
+#
+name: TV_TEXT_SELECT
+type: parsed
+protocol: rc5
+address: 0
+command: 60
+#
+name: VCR_TEXT_SELECT
+type: parsed
+protocol: rc5
+address: 5
+command: 60
+#
+name: TV_SELECT
+type: parsed
+protocol: rc5
+address: 0
+command: 63
+#
+name: VCR_SELECT
+type: parsed
+protocol: rc5
+address: 5
+command: 63
+#

@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 68
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 68
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 68
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 68
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 68
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 68
+command: 6
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 68
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 68
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 68
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 68
+command: 10
+#
+name: track_down
+type: parsed
+protocol: nec
+address: 68
+command: 14
+#
+name: track_up
+type: parsed
+protocol: nec
+address: 68
+command: 15
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 68
+command: 16
+#
+name: tv/vcr
+type: parsed
+protocol: nec
+address: 68
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 68
+command: 18
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 68
+command: 19
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 68
+command: 20
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 68
+command: 21
+#
+name: tv/catv
+type: parsed
+protocol: nec
+address: 68
+command: 23
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 68
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 68
+command: 25
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 68
+command: 27
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 68
+command: 31
+#
+name: index
+type: parsed
+protocol: nec
+address: 68
+command: 70
+#
+name: shift_right
+type: parsed
+protocol: nec
+address: 68
+command: 77
+#
+name: timer_record
+type: parsed
+protocol: nec
+address: 68
+command: 79
+#
+name: shift_left
+type: parsed
+protocol: nec
+address: 68
+command: 81
+#
+name: otr_right
+type: parsed
+protocol: nec
+address: 68
+command: 91
+#
+name: program
+type: parsed
+protocol: nec
+address: 68
+command: 92
+#
+name: tape_speed
+type: parsed
+protocol: nec
+address: 68
+command: 93
+#
+name: tv/line
+type: parsed
+protocol: nec
+address: 68
+command: 95
+#
+name: display
+type: parsed
+protocol: nec
+address: 68
+command: 131
+#
+name: zero_return
+type: parsed
+protocol: nec
+address: 68
+command: 135
+#
+name: counter_reset
+type: parsed
+protocol: nec
+address: 68
+command: 150
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 68
+command: 160
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 68
+command: 161
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 68
+command: 162
+#
+name: otr_left
+type: parsed
+protocol: nec
+address: 68
+command: 172
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 68
+command: 245
+#

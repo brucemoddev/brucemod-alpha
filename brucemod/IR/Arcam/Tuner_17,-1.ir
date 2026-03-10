@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET 1
+type: parsed
+protocol: rc5
+address: 17
+command: 1
+#
+name: PRESET 2
+type: parsed
+protocol: rc5
+address: 17
+command: 2
+#
+name: PRESET 3
+type: parsed
+protocol: rc5
+address: 17
+command: 3
+#
+name: PRESET 4
+type: parsed
+protocol: rc5
+address: 17
+command: 4
+#
+name: PRESET 5
+type: parsed
+protocol: rc5
+address: 17
+command: 5
+#
+name: PRESET 6
+type: parsed
+protocol: rc5
+address: 17
+command: 6
+#
+name: PRESET 7
+type: parsed
+protocol: rc5
+address: 17
+command: 7
+#
+name: PRESET 8
+type: parsed
+protocol: rc5
+address: 17
+command: 8
+#
+name: PRESET 9
+type: parsed
+protocol: rc5
+address: 17
+command: 9
+#
+name: PRESET/TUNE +
+type: parsed
+protocol: rc5
+address: 17
+command: 32
+#
+name: PRESET/TUNE -
+type: parsed
+protocol: rc5
+address: 17
+command: 33
+#
+name: PRESET/TUNE MODE
+type: parsed
+protocol: rc5
+address: 17
+command: 37
+#
+name: PRESET 10
+type: parsed
+protocol: rc5
+address: 17
+command: 110
+#
+name: PRESET 11
+type: parsed
+protocol: rc5
+address: 17
+command: 111
+#
+name: PRESET 12
+type: parsed
+protocol: rc5
+address: 17
+command: 112
+#
+name: PRESET 13
+type: parsed
+protocol: rc5
+address: 17
+command: 113
+#
+name: PRESET 14
+type: parsed
+protocol: rc5
+address: 17
+command: 114
+#
+name: PRESET 15
+type: parsed
+protocol: rc5
+address: 17
+command: 115
+#
+name: PRESET 16
+type: parsed
+protocol: rc5
+address: 17
+command: 116
+#

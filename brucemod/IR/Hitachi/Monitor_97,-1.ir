@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REC
+type: parsed
+protocol: nec1
+address: 97
+command: 20
+#
+name: VTR RECORD
+type: parsed
+protocol: nec1
+address: 97
+command: 20
+#
+name: PL
+type: parsed
+protocol: nec1
+address: 97
+command: 64
+#

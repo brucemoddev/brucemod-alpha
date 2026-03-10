@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: mce
+address: 4.22
+command: 1
+#
+name: 2
+type: parsed
+protocol: mce
+address: 4.22
+command: 2
+#
+name: 4
+type: parsed
+protocol: mce
+address: 4.22
+command: 4
+#
+name: 6
+type: parsed
+protocol: mce
+address: 4.22
+command: 6
+#
+name: 8
+type: parsed
+protocol: mce
+address: 4.22
+command: 8
+#
+name: VOLUME UP
+type: parsed
+protocol: mce
+address: 4.22
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: mce
+address: 4.22
+command: 12
+#
+name: CH/PAGE UP
+type: parsed
+protocol: mce
+address: 4.22
+command: 13
+#
+name: ENTER
+type: parsed
+protocol: mce
+address: 4.22
+command: 16
+#
+name: SETUP/SLEEP
+type: parsed
+protocol: mce
+address: 4.22
+command: 18
+#
+name: OPTION/INPUT
+type: parsed
+protocol: mce
+address: 4.22
+command: 19
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 4.22
+command: 20
+#
+name: ARROW LEFT
+type: parsed
+protocol: mce
+address: 4.22
+command: 24
+#
+name: ARROW SELECT
+type: parsed
+protocol: mce
+address: 4.22
+command: 26
+#
+name: MENU/VIEW
+type: parsed
+protocol: mce
+address: 4.22
+command: 28
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 4.22
+command: 33
+#
+name: MOVIES
+type: parsed
+protocol: mce
+address: 4.22
+command: 38
+#
+name: SUBTITLE
+type: parsed
+protocol: mce
+address: 4.22
+command: 39
+#
+name: IRADIO
+type: parsed
+protocol: mce
+address: 4.22
+command: 42
+#
+name: ADD
+type: parsed
+protocol: mce
+address: 4.22
+command: 45
+#
+name: RANDOM
+type: parsed
+protocol: mce
+address: 4.22
+command: 47
+#
+name: AUDIO
+type: parsed
+protocol: mce
+address: 4.22
+command: 48
+#
+name: PREV
+type: parsed
+protocol: mce
+address: 4.22
+command: 50
+#
+name: REPEAT
+type: parsed
+protocol: mce
+address: 4.22
+command: 51
+#

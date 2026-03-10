@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 129
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 12.251
+command: 132
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 12.251
+command: 133
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 12.251
+command: 134
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 12.251
+command: 135
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 12.251
+command: 136
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 12.251
+command: 137
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 12.251
+command: 138
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 12.251
+command: 139
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 12.251
+command: 140
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 12.251
+command: 141
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 143
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 12.251
+command: 144
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 12.251
+command: 146
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 12.251
+command: 147
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 148
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 12.251
+command: 149
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 12.251
+command: 151
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 12.251
+command: 153
+#
+name: SVCS
+type: parsed
+protocol: nec1
+address: 12.251
+command: 233
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 12.251
+command: 240
+#
+name: SCHED
+type: parsed
+protocol: nec1
+address: 12.251
+command: 246
+#

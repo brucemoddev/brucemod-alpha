@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: Proton
+address: 17
+command: 2
+#
+name: LEVEL+
+type: parsed
+protocol: Proton
+address: 17
+command: 3
+#
+name: VOLUME -
+type: parsed
+protocol: Proton
+address: 17
+command: 6
+#
+name: LEVEL-
+type: parsed
+protocol: Proton
+address: 17
+command: 7
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 17
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 17
+command: 9
+#
+name: TV/VIDEO
+type: parsed
+protocol: Proton
+address: 17
+command: 10
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 17
+command: 13
+#
+name: SELECT
+type: parsed
+protocol: Proton
+address: 17
+command: 158
+#

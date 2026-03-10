@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: PTY / PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: DVD
+type: parsed
+protocol: rc6
+address: 4
+command: 63
+#
+name: SUB-T/ATT
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: 
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: SET UP/T. TONE
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#

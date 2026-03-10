@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_DVD
+type: parsed
+protocol: nec2
+address: 44.44
+command: 3
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec2
+address: 44.44
+command: 4
+#
+name: KEY_STOP
+type: parsed
+protocol: nec2
+address: 44.44
+command: 5
+#
+name: skip_scan_down
+type: parsed
+protocol: nec2
+address: 44.44
+command: 6
+#
+name: skip_scan_up
+type: parsed
+protocol: nec2
+address: 44.44
+command: 7
+#
+name: pr_preset_down
+type: parsed
+protocol: nec2
+address: 44.44
+command: 18
+#
+name: pr_preset_up
+type: parsed
+protocol: nec2
+address: 44.44
+command: 19
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec2
+address: 44.44
+command: 22
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec2
+address: 44.44
+command: 23
+#
+name: KEY_POWER
+type: parsed
+protocol: nec2
+address: 44.44
+command: 30
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec2
+address: 44.44
+command: 31
+#
+name: KEY_1
+type: parsed
+protocol: nec2
+address: 44.44
+command: 65
+#
+name: KEY_2
+type: parsed
+protocol: nec2
+address: 44.44
+command: 66
+#
+name: KEY_3
+type: parsed
+protocol: nec2
+address: 44.44
+command: 67
+#
+name: KEY_4
+type: parsed
+protocol: nec2
+address: 44.44
+command: 68
+#
+name: KEY_5
+type: parsed
+protocol: nec2
+address: 44.44
+command: 69
+#
+name: KEY_6
+type: parsed
+protocol: nec2
+address: 44.44
+command: 70
+#
+name: KEY_7
+type: parsed
+protocol: nec2
+address: 44.44
+command: 71
+#
+name: KEY_8
+type: parsed
+protocol: nec2
+address: 44.44
+command: 72
+#
+name: KEY_9
+type: parsed
+protocol: nec2
+address: 44.44
+command: 73
+#
+name: KEY_0
+type: parsed
+protocol: nec2
+address: 44.44
+command: 75
+#
+name: program
+type: parsed
+protocol: nec2
+address: 44.44
+command: 77
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec2
+address: 44.44
+command: 78
+#
+name: pause_step
+type: parsed
+protocol: nec2
+address: 44.44
+command: 79
+#
+name: band
+type: parsed
+protocol: nec2
+address: 44.44
+command: 89
+#
+name: dimmer
+type: parsed
+protocol: nec2
+address: 44.44
+command: 94
+#
+name: exit_cancel
+type: parsed
+protocol: nec2
+address: 44.44
+command: 105
+#
+name: caption
+type: parsed
+protocol: nec2
+address: 44.44
+command: 106
+#
+name: KEY_INFO
+type: parsed
+protocol: nec2
+address: 44.44
+command: 107
+#
+name: i_ii
+type: parsed
+protocol: nec2
+address: 44.44
+command: 122
+#
+name: KEY_TEXT
+type: parsed
+protocol: nec2
+address: 44.44
+command: 123
+#
+name: tv_radio
+type: parsed
+protocol: nec2
+address: 44.44
+command: 130
+#
+name: KEY_AUX
+type: parsed
+protocol: nec2
+address: 44.44
+command: 138
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec2
+address: 44.44
+command: 154
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec2
+address: 44.44
+command: 160
+#
+name: sound
+type: parsed
+protocol: nec2
+address: 44.44
+command: 161
+#
+name: KEY_OK
+type: parsed
+protocol: nec2
+address: 44.44
+command: 162
+#
+name: display
+type: parsed
+protocol: nec2
+address: 44.44
+command: 163
+#
+name: KEY_MENU
+type: parsed
+protocol: nec2
+address: 44.44
+command: 164
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec2
+address: 44.44
+command: 165
+#
+name: s_title
+type: parsed
+protocol: nec2
+address: 44.44
+command: 171
+#
+name: repeat_a-b
+type: parsed
+protocol: nec2
+address: 44.44
+command: 173
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec2
+address: 44.44
+command: 174
+#
+name: KEY_DVD
+type: parsed
+protocol: nec2
+address: 44.44
+command: 175
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec2
+address: 44.44
+command: 176
+#
+name: slow_scan_down
+type: parsed
+protocol: nec2
+address: 44.44
+command: 177
+#
+name: slow_scan_up
+type: parsed
+protocol: nec2
+address: 44.44
+command: 178
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec2
+address: 44.44
+command: 179
+#
+name: marker
+type: parsed
+protocol: nec2
+address: 44.44
+command: 180
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec2
+address: 44.44
+command: 194
+#

@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 2
+#
+name: 3
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 4
+#
+name: 4
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 4
+#
+name: 5
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 4
+#
+name: 6
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 6
+#
+name: 8
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 8
+#
+name: CH/PAGE +
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 12
+#
+name: CH/PAGE -
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 14
+#
+name: POWER
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 15
+#
+name: ENTER
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 16
+#
+name: MODE
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 17
+#
+name: GUIDE
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 20
+#
+name: OPTION
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 20
+#
+name: 
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 22
+#
+name: INFO
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 27
+#
+name: MENU
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 27
+#
+name: SELECT
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 27
+#
+name: <<
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 32
+#
+name: >>
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 34
+#
+name: PLAY
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 34
+#
+name: PAUSE
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 36
+#
+name: RECORD
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 36
+#
+name: STOP
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 36
+#
+name: TITLE
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 39
+#
+name: ANGLE
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 40
+#
+name: IRADIO
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 42
+#
+name: NEXT
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 42
+#
+name: RESUME
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 42
+#
+name: 
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 43
+#
+name: MUSIC
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 44
+#
+name: PLAY FAVORITES
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 46
+#
+name: RANDOM
+type: parsed
+protocol: xmp_2
+address: 14.0
+command: 47
+#

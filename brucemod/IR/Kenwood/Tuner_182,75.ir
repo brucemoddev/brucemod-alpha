@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LD STOP []
+type: parsed
+protocol: nec1
+address: 182.75
+command: 17
+#
+name: LD PAUSE 
+type: parsed
+protocol: nec1
+address: 182.75
+command: 18
+#
+name: LD REW <<
+type: parsed
+protocol: nec1
+address: 182.75
+command: 20
+#
+name: LD FF >>
+type: parsed
+protocol: nec1
+address: 182.75
+command: 21
+#
+name: LD PLAY >
+type: parsed
+protocol: nec1
+address: 182.75
+command: 154
+#

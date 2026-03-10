@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Ok
+type: parsed
+protocol: nec2
+address: 238.135
+command: 4
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 238.135
+command: 11
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 238.135
+command: 13
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 238.135
+command: 8
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 238.135
+command: 7
+#
+name: Menu
+type: parsed
+protocol: nec2
+address: 238.135
+command: 2
+#
+name: UNPAIR
+type: parsed
+protocol: necx2
+address: 224.135
+command: 5
+#

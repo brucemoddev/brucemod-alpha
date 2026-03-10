@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: zenith
+address: 5.1
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: zenith
+address: 5.1
+command: 10
+#
+name: MUTE
+type: parsed
+protocol: zenith
+address: 5.1
+command: 11
+#

@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 211
+command: 3
+#
+name: slow_backward
+type: parsed
+protocol: jvc
+address: 211
+command: 5
+#
+name: forwartd
+type: parsed
+protocol: jvc
+address: 211
+command: 6
+#
+name: KEY_REWIND
+type: parsed
+protocol: jvc
+address: 211
+command: 7
+#
+name: slow_forward
+type: parsed
+protocol: jvc
+address: 211
+command: 8
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 211
+command: 12
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc
+address: 211
+command: 13
+#
+name: KEY_AUDIO
+type: parsed
+protocol: jvc
+address: 211
+command: 23
+#
+name: display
+type: parsed
+protocol: jvc
+address: 211
+command: 47
+#
+name: zoom_W
+type: parsed
+protocol: jvc
+address: 211
+command: 81
+#
+name: zoom_T
+type: parsed
+protocol: jvc
+address: 211
+command: 82
+#
+name: start/stop
+type: parsed
+protocol: jvc
+address: 211
+command: 89
+#
+name: snapshot
+type: parsed
+protocol: jvc
+address: 211
+command: 93
+#
+name: shift_up
+type: parsed
+protocol: jvc
+address: 211
+command: 151
+#
+name: shift_down
+type: parsed
+protocol: jvc
+address: 211
+command: 152
+#
+name: shift_right
+type: parsed
+protocol: jvc
+address: 211
+command: 153
+#
+name: shift_left
+type: parsed
+protocol: jvc
+address: 211
+command: 154
+#
+name: effect_on/off
+type: parsed
+protocol: jvc
+address: 211
+command: 184
+#
+name: effect
+type: parsed
+protocol: jvc
+address: 211
+command: 185
+#

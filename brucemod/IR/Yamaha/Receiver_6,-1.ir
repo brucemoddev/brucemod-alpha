@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: akai
+address: 6
+command: 108
+#
+name: CHANNEL -
+type: parsed
+protocol: akai
+address: 6
+command: 109
+#

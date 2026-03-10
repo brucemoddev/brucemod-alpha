@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MODE
+type: parsed
+protocol: Proton
+address: 2
+command: 9
+#
+name: 0
+type: parsed
+protocol: Proton
+address: 2
+command: 13
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 2
+command: 14
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 2
+command: 17
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 2
+command: 18
+#
+name: CHANNEL -
+type: parsed
+protocol: Proton
+address: 2
+command: 19
+#
+name: CHANNEL +
+type: parsed
+protocol: Proton
+address: 2
+command: 23
+#
+name: 
+type: parsed
+protocol: Proton
+address: 2
+command: 24
+#
+name: 
+type: parsed
+protocol: Proton
+address: 2
+command: 25
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 2
+command: 31
+#
+name: 
+type: parsed
+protocol: Proton
+address: 2
+command: 31
+#

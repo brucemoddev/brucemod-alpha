@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ASPECT
+type: parsed
+protocol: nec2
+address: 79.80
+command: 1
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 79.80
+command: 2
+#
+name: PWRTOGGLE
+type: parsed
+protocol: nec2
+address: 79.80
+command: 2
+#
+name: VIDEO MODE
+type: parsed
+protocol: nec2
+address: 79.80
+command: 3
+#
+name: INPUT DVI
+type: parsed
+protocol: nec2
+address: 79.80
+command: 4
+#
+name: INPUT NEXT
+type: parsed
+protocol: nec2
+address: 79.80
+command: 4
+#
+name: PGUP
+type: parsed
+protocol: nec2
+address: 79.80
+command: 5
+#
+name: PGDOWN
+type: parsed
+protocol: nec2
+address: 79.80
+command: 6
+#
+name: VOL +
+type: parsed
+protocol: nec2
+address: 79.80
+command: 8
+#
+name: KEYSTONE UP
+type: parsed
+protocol: nec2
+address: 79.80
+command: 9
+#
+name: PICTURE
+type: parsed
+protocol: nec2
+address: 79.80
+command: 10
+#
+name: VOL -
+type: parsed
+protocol: nec2
+address: 79.80
+command: 11
+#
+name: HIDE
+type: parsed
+protocol: nec2
+address: 79.80
+command: 12
+#
+name: KEYSTONE DOWN
+type: parsed
+protocol: nec2
+address: 79.80
+command: 13
+#
+name: GAMMA
+type: parsed
+protocol: nec2
+address: 79.80
+command: 16
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 79.80
+command: 17
+#
+name: R-SYNC
+type: parsed
+protocol: nec2
+address: 79.80
+command: 24
+#
+name: INPUT S-VIDEO 2
+type: parsed
+protocol: nec2
+address: 79.80
+command: 25
+#
+name: INPUT COMPOSITE
+type: parsed
+protocol: nec2
+address: 79.80
+command: 27
+#
+name: INPUTBNC
+type: parsed
+protocol: nec2
+address: 79.80
+command: 28
+#
+name: INPUT DVI/SAT
+type: parsed
+protocol: nec2
+address: 79.80
+command: 29
+#
+name: INPUT RCA
+type: parsed
+protocol: nec2
+address: 79.80
+command: 30
+#
+name: INPUT VGA
+type: parsed
+protocol: nec2
+address: 79.80
+command: 32
+#
+name: INPUT S-VIDEO
+type: parsed
+protocol: nec2
+address: 79.80
+command: 35
+#
+name: INPUT VIDEO
+type: parsed
+protocol: nec2
+address: 79.80
+command: 36
+#
+name: FORMAT
+type: parsed
+protocol: nec2
+address: 79.80
+command: 37
+#
+name: BRIGHTNESS
+type: parsed
+protocol: nec2
+address: 79.80
+command: 38
+#
+name: CONTRAST
+type: parsed
+protocol: nec2
+address: 79.80
+command: 39
+#
+name: COLOR
+type: parsed
+protocol: nec2
+address: 79.80
+command: 40
+#

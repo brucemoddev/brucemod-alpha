@@ -1,0 +1,3873 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 0
+#
+name: REC
+type: parsed
+protocol: jvc
+address: 67
+command: 2
+#
+name: VCR REC
+type: parsed
+protocol: jvc
+address: 67
+command: 2
+#
+name: STOP []
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: STOP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: VCR STOP []
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: A STOP []
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 3
+#
+name: VCRA STOP []
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: EJECT
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: STOP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 3
+#
+name: VIDEO A STOP []
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 3
+#
+name: VCR A STOP[]
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: EP/SP
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: VCR STOP[]
+type: parsed
+protocol: jvc
+address: 67
+command: 3
+#
+name: EJECT
+type: parsed
+protocol: jvc
+address: 67
+command: 4
+#
+name: A VIDEO REJECT
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 4
+#
+name: FF/SHUTTLE SRCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: SCAN >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCR FF>>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCR FF >> / >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FF/SRCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FF >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: A FFWD >>
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 6
+#
+name: VCR FF >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FF/SHUT.SRCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FF >>/>>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCRA FFWD >>/>>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCRA FF >> / >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: SLOW MOTION +
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FFWD/SFWD
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 6
+#
+name: VIDEO A >>/>>
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 6
+#
+name: FAST FORWARD
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCR A FFWD >>/>>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: PROGRAM-CHECK
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: SHTL FWD/TV VOL+
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCR FWD >>/>>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: VCR >>
+type: parsed
+protocol: jvc
+address: 67
+command: 6
+#
+name: REW/SHUTTLE SRCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: REWIND <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: SCAN <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCR REW <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCR REW << / <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: REW/SRCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: REW <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: A REW <<
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 7
+#
+name: REW/SHUT.SRCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: REW <</<<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCRA REW <</<<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCRA REW << / <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: SLOW MOTION -
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: REW/SREV
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: REWIND <<
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 7
+#
+name: VIDEO A <</<<
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 7
+#
+name: REWIND
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCR A REW <</<<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: SHTL REW / TV VOL-
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCR REW <</<<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: VCR <<
+type: parsed
+protocol: jvc
+address: 67
+command: 7
+#
+name: OPERATE
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: POWER OFF
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: POWER ON
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: VCR POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: (VCR) POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: VIDEO POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: POWER (VCR)
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: A POWER VIDEO
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 11
+#
+name: VCR OPERATE
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: VCRA POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: EJECT
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: POWER
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 11
+#
+name: VIDEO A OPERATE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 11
+#
+name: VCR A POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 11
+#
+name: PLAY >
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: VCR PLAY >
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PLAY/X2
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: REC PLAY/X2
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: A PLAY/X2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 12
+#
+name: VCR PLAY/X2
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: VCRA PLAY >
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PLAY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 12
+#
+name: VIDEO A PLAY >
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 12
+#
+name: VCR A PLAY>
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PROGRAM
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: VCR PLAY>
+type: parsed
+protocol: jvc
+address: 67
+command: 12
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: VCR PAUSE 
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: A PAUSE/STILL 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 13
+#
+name: VCR PAUSE/STILL 
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: PAUSE >
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: PAUSE >
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: VCRA PAUSE 
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: PAUSE 
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: PAUSE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 13
+#
+name: VIDEO A PAUSE 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 13
+#
+name: VCR A PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: SKIP-SEARCH
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: VCR PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 13
+#
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 16
+#
+name: TV
+type: parsed
+protocol: jvc
+address: 67
+command: 16
+#
+name: 
+type: parsed
+protocol: jvc
+address: 67
+command: 16
+#
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 17
+#
+name: TV
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: VCR
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: TV/VCR
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: VCR TV/VCR
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: VCR TV/VIDEO
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: TV/VIDEO
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: A TV/VIDEO
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 19
+#
+name: VCRA TV/VIDEO
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: TV/VCR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 19
+#
+name: VIDEO A TV/VIDEO
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 19
+#
+name: VCR A TV/VIDEO
+type: parsed
+protocol: jvc
+address: 67
+command: 19
+#
+name: SLOW +
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: FRAME >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SCAN >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VCR SEARCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VCR SEARCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VARIABLE SRCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: A VAR SRCH >>
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 20
+#
+name: VCR VAR.SRCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VAR.SRCH FWD >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VAR. SEARCH>>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VCRA SHUTTLE >> (+)
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VCRA SHUT PLUS >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SEARCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SLOW MOTION +
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: >> /PUSH JOG +
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SHUTTLE >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SEARCH FWD
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SCAN >>
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 20
+#
+name: FORWARD >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VID A VAR SEARCH >>
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 20
+#
+name: SHUTTLE RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SEARCH +
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VCRA SRCH>>(VARIABLE
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: TIME SCAN RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SCAN>>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VAR SEARCH >>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: ARROW RIGHT
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: VCR SEARCH>>
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: TV VOLUME +
+type: parsed
+protocol: jvc
+address: 67
+command: 20
+#
+name: SLOW -
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: FRAME <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SCAN <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VCR SEARCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VCR SEARCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VARIABLE SRCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: A VAR SRCH <<
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 21
+#
+name: VCR VAR.SRCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VAR.SRCH REV <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VAR. SEARCH<<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VCRA SHUTTLE << (-)
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VCRA SHUT PLUS <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SEARCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: << REVIEW
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SLOW MOTION -
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: << /PUSH JOG -
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SHUTTLE <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SEARCH REV
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SCAN <<
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 21
+#
+name: SLOW REWIND <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VID A VAR SEARCH <<
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 21
+#
+name: SHUTTLE LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SEARCH -
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VCRA SRCH<<(VARIABLE
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: TIME SCAN LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: SCAN<<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VAR SEARCH <<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: ARROW LEFT
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: VCR SEARCH<<
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: TV VOLUME --
+type: parsed
+protocol: jvc
+address: 67
+command: 21
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: jvc
+address: 67
+command: 23
+#
+name: MUTE
+type: parsed
+protocol: jvc
+address: 67
+command: 23
+#
+name: A.MONITOR
+type: parsed
+protocol: jvc
+address: 67
+command: 23
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 23
+#
+name: VID A AUDIO MONITOR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 23
+#
+name: A. MONITOR
+type: parsed
+protocol: jvc
+address: 67
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR CH -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR CH V
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR CH/SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: (VCR) CHANNEL V
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VIDEO CH - NEXT
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR CH V /SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: A -
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 24
+#
+name: A VIDEO CH -
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 24
+#
+name: CHANNEL V/SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH V /SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH V
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH/SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR CH - (TV PROG)
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCRA CH/SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCRA CH V
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CHANNEL --
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: TV PROG/2SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH DN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CHANNEL-
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH DWN
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 24
+#
+name: SET -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VID A TV PROG -
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 24
+#
+name: SHUTTLE DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: SET-
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR A CH-
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: TIME SCAN DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CURSOR NEXT
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: ARROW DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: STOP
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: STOP +
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: VCR CHANNEL -
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: TV CHANNEL --
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CH-
+type: parsed
+protocol: jvc
+address: 67
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CURSOR - UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR CH +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR CH ^
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR CH/SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: (VCR) CHANNEL ^
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VIDEO CH + BACK
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR CH ^ /SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: A +
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 25
+#
+name: A VIDEO CH +
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 25
+#
+name: CHANNEL ^/SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH ^ /SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH ^
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH/SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR CH + (2 SET )
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCRA CH/SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCRA CH ^
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: TV PROG/2SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CHANNEL+
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH UP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 25
+#
+name: SET +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VID A TV PROG +
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 25
+#
+name: SHUTTLE UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: SET+
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR A CH+
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: TIME SCAN UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CURSOR BACK
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: ARROW UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: START -
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: VCR CHANNEL +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: TV CHANNEL +
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CHANNEL UP
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: CH+
+type: parsed
+protocol: jvc
+address: 67
+command: 25
+#
+name: POWER OFF (ALT.)
+type: parsed
+protocol: jvc
+address: 67
+command: 26
+#
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 26
+#
+name: POWER ON (ALT.)
+type: parsed
+protocol: jvc
+address: 67
+command: 29
+#
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 29
+#
+name: ON SCREEN
+type: parsed
+protocol: jvc
+address: 67
+command: 30
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: VCR 1
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 1 (SUN)
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: A 1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 33
+#
+name: VCRA 1
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 1/START +
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 1 / START +
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 33
+#
+name: 1 (ABC)
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: VIDEO A 1
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 33
+#
+name: SUN
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: VCR A 1 (ABC)
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 67
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: VCR 2
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 2 (MON)
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: A 2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 34
+#
+name: VCRA 2
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 2/STOP +
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 2 / STOP +
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 2 (DEF)
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 34
+#
+name: VIDEO A 2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 34
+#
+name: MON
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: VCR A 2 (DEF)
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: REVIEW
+type: parsed
+protocol: jvc
+address: 67
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: VCR 3
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 3 (TUE)
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: A 3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 35
+#
+name: VCRA 3
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 3/DATE +
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 3 / DATE +
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 3 (GHI)
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 35
+#
+name: VIDEO A 3
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 35
+#
+name: TUES
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: VCR A 3 (GHI)
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: TV/VCR
+type: parsed
+protocol: jvc
+address: 67
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: VCR 4
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 4 (WED)
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: A 4
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 36
+#
+name: VCRA 4
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 4/START -
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 4 / START -
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 4 (JKL)
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 4
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 36
+#
+name: VIDEO A 4
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 36
+#
+name: WED
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: VCR A 4 (JKL)
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: ENTER/OSD
+type: parsed
+protocol: jvc
+address: 67
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: VCR 5
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 5 (THU)
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: A 5
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 37
+#
+name: VCRA 5
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 5/STOP -
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 5 / STOP -
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 5 (MNO)
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 5
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 37
+#
+name: VIDEO A 5
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 37
+#
+name: THUR
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: VCR A 5 (MNO)
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: VCR 6
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 6 (FRI)
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: A 6
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 38
+#
+name: VCRA 6
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 6/DATE -
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 6 / DATE -
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 6 (PQR)
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 6
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 38
+#
+name: VIDEO A 6
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 38
+#
+name: FRI
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: VCR A 6 (PQR)
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 67
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: VCR 7
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 7 (SAT)
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: A 7
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 39
+#
+name: VCRA 7
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 7 (STU)
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 7
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 39
+#
+name: VIDEO A 7
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 39
+#
+name: 7 / DBS
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: SAT
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: VCR A 7 (STU)
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 67
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: VCR 8 (DAILY)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8 (2ND)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: A 8
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 40
+#
+name: VCRA 8 (DAILY M-F)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8/DAILY
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8 DAILY (M-F)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8 DAILY(M-F)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: VCR PLUS: DAILY
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8 (VWX) (DAILY)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8 (VWX/DAILY(M-F)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 8
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 40
+#
+name: VIDEO A 8 (DAILY)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 40
+#
+name: 8/DAILY(M-F)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 2ND
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: VCR A 8 (VWX)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: VCR 8/DAILY(M-F)
+type: parsed
+protocol: jvc
+address: 67
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: VCR 9 (WEEKLY)
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 9 (DAILY)
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: A 9
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 41
+#
+name: 9 WEEKLY
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: VCRA 9 (WEEKLY)
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 9/WEEKLY
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: VCR PLUS: WEEKLY
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 9 (YZ.:) (WEEKLY)
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 9 (YZ.:/WEEKLY)
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 9
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 41
+#
+name: VIDEO A 9 (WEEKLY)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 41
+#
+name: 9 / WEEKLY
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: DAILY
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: VCR A 9 (WEEKLY)
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: VCR 9/WEEKLY
+type: parsed
+protocol: jvc
+address: 67
+command: 41
+#
+name: HS/STD & SP/EP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: RECORD SPEED
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: VCR SP/EP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: SPEED
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: SP/EP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: A SP/EP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 49
+#
+name: VCRA SP/EP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: /// (SP/EP)
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: SP/EP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 49
+#
+name: TAPE SPEED
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: VID A(SP/EP)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 49
+#
+name: VCR A SP/EP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: SP / EP
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: DATE -
+type: parsed
+protocol: jvc
+address: 67
+command: 49
+#
+name: AM/PM
+type: parsed
+protocol: jvc
+address: 67
+command: 50
+#
+name: A AM/PM
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 50
+#
+name: 0/AUX
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: VCR 0 (AUX)
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0 REPEAT/AUX
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0 (REPEAT)
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0 (REPEAT/AUX)
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: A 0
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 51
+#
+name: VCRA 0 (AUX)
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0 / AUX
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0 (AUX)
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: TV/VIDEO
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: AUX INPUT
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 0
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 51
+#
+name: VIDEO A 0 (AUX)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 51
+#
+name: REPEAT
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: VCR A 0 (AUX)
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: VCR 0/AUX
+type: parsed
+protocol: jvc
+address: 67
+command: 51
+#
+name: TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: VCR TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: A TIMER
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 53
+#
+name: [4] TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: VCRA TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: (4) TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: TIMR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 53
+#
+name: VID A 5 TIMER (CH)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 53
+#
+name: VCR A TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 67
+command: 53
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: VCR CANCEL (CRST/CS)
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: VCR CANCEL/CH.SKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL(CRESET/CHSKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL/C.RESET SKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: A SKIP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 54
+#
+name: CANCEL/C.RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL SKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL/SKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL (CRESET/SKIP)
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: VCRA CANCEL(C.RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: VCRA CANCEL/CHSKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL / C.RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 54
+#
+name: CANCEL (C.RESET)
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL/RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL (SKIP)
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CNCL
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 54
+#
+name: VID A CANCEL
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 54
+#
+name: CANCEL/COUNTER RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: VCR A CANCEL
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: VCR CANCEL
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: CANCEL/C.RESET/SKIP
+type: parsed
+protocol: jvc
+address: 67
+command: 54
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: VCR MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: PROG.
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: A MENU
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 55
+#
+name: [1] PROG (CLOCK)
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: VCRA MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: PROG (CLOCK/CH SET)
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: (1) PROG CLOCK
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: VCR RA EDIT (MENU)
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: MENU
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 55
+#
+name: VID A REVIEW
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 55
+#
+name: PROGRAM
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: VCR A MENU
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: VCR PROG
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: REWIND <<
+type: parsed
+protocol: jvc
+address: 67
+command: 55
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 56
+#
+name: VCR DISPLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 56
+#
+name: A DISPLAY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 56
+#
+name: VCRA DISPLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 56
+#
+name: DSPL
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 56
+#
+name: VID A DISPLAY
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 56
+#
+name: VCR A DISPLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 56
+#
+name: COUNTER RESET
+type: parsed
+protocol: jvc
+address: 67
+command: 57
+#
+name: GO-TO
+type: parsed
+protocol: jvc
+address: 67
+command: 59
+#
+name: A GOTO
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 59
+#
+name: GO TO
+type: parsed
+protocol: jvc
+address: 67
+command: 59
+#
+name: ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: CURSOR - ENTER/OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VCR OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VCR SELECT
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: SELECT
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: A SELECT
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 60
+#
+name: [3] SELECT (CMEMORY)
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VCRA SELECT
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VCRA OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: SELECT (CMEMORY)
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: ENTER/OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: OK ENTER/OSD
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: (3) SELECT C.MEMORY
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: OK
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: SELECT (IN/OUT)
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VCR SELECT (IN/OUT)
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VID A 3 SELECT(CMEM)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 60
+#
+name: OK / ENTER / OSD
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: VCR A SELECT
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 60
+#
+name: PROGRAM CHECK
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: PROG. CHECK
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: PROG CHECK
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: PROG CHK
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: PROGCHECK
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: DATE +
+type: parsed
+protocol: jvc
+address: 67
+command: 61
+#
+name: ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: OSD/ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: VCR ENTER (OSD)
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: VCR ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: ENTER/ADD
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: A ENTER
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 62
+#
+name: ENTER SELECT
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: SELECT/ENTER
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: VCRA ENTER (OSD)
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: ENTER (OSD)
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: ENTER
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 62
+#
+name: VCR A ENTER/OSD
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: ENTER/OSD
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: ENTER OSD
+type: parsed
+protocol: jvc
+address: 67
+command: 62
+#
+name: +
+type: parsed
+protocol: jvc
+address: 67
+command: 65
+#
+name: TRACKING +
+type: parsed
+protocol: jvc
+address: 67
+command: 65
+#
+name: A TRACKING +
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 65
+#
+name: -
+type: parsed
+protocol: jvc
+address: 67
+command: 66
+#
+name: TRACKING -
+type: parsed
+protocol: jvc
+address: 67
+command: 66
+#
+name: A TRACKING -
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 66
+#
+name: DIGITAL OFF
+type: parsed
+protocol: jvc
+address: 67
+command: 67
+#
+name: DIGITAL MEMORY
+type: parsed
+protocol: jvc
+address: 67
+command: 68
+#
+name: ART
+type: parsed
+protocol: jvc
+address: 67
+command: 69
+#
+name: ZOOM UP
+type: parsed
+protocol: jvc
+address: 67
+command: 70
+#
+name: STROBE SPEED
+type: parsed
+protocol: jvc
+address: 67
+command: 71
+#
+name: TWIN PICTURE
+type: parsed
+protocol: jvc
+address: 67
+command: 72
+#
+name: SWAP
+type: parsed
+protocol: jvc
+address: 67
+command: 73
+#
+name: MULTI SCREEN
+type: parsed
+protocol: jvc
+address: 67
+command: 74
+#
+name: TV MONITOR
+type: parsed
+protocol: jvc
+address: 67
+command: 75
+#
+name: A TV MONITOR
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 75
+#
+name: VID A 4 TRANS(CHSRCH
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 102
+#
+name: LINE 1
+type: parsed
+protocol: jvc
+address: 67
+command: 110
+#
+name: VCRA SHUT PLUS ^
+type: parsed
+protocol: jvc
+address: 67
+command: 130
+#
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 67
+command: 130
+#
+name: VCRA SHUT PLUS V
+type: parsed
+protocol: jvc
+address: 67
+command: 134
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 67
+command: 134
+#
+name: VCR ADD
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: C.MEMORY/ADD
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: ADD
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: REPEAT
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: REPEAT (CMEMORY/ADD)
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: VCRA C.MEMORY (ADD)
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: VCRA C.MEMORY
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: C.MEMORY/ADD (START)
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: START (C.MEMORY/ADD)
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: COUNTER MEMORY
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: VCR A IN/OUT/START/C
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: C MEMORY/ADD
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: C. MEMORY
+type: parsed
+protocol: jvc
+address: 67
+command: 144
+#
+name: INDEX
+type: parsed
+protocol: jvc
+address: 67
+command: 145
+#
+name: A INDEX
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 145
+#
+name: MARK
+type: parsed
+protocol: jvc
+address: 67
+command: 147
+#
+name: ERASE
+type: parsed
+protocol: jvc
+address: 67
+command: 148
+#
+name: A ERASE
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 148
+#
+name: SKIP SEARCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: VCR SKIP SEARCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: A SKIP SEARCH
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 150
+#
+name: VCRA SKIP SEARCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: SKIP SRCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: SKIP
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 150
+#
+name: VCR A SKIP SRCH
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 67
+command: 150
+#
+name: INTRO
+type: parsed
+protocol: jvc
+address: 67
+command: 151
+#
+name: A INTRO
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 151
+#
+name: ZERO RTN
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 152
+#
+name: VCR VOL +
+type: parsed
+protocol: jvc
+address: 67
+command: 158
+#
+name: VCR VOL -
+type: parsed
+protocol: jvc
+address: 67
+command: 159
+#
+name: PICTURE
+type: parsed
+protocol: jvc
+address: 67
+command: 173
+#
+name: VCR A JOG <
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 175
+#
+name: JOG REV
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 175
+#
+name: <
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 177
+#
+name: SHUTTLE REV (F.S.)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 177
+#
+name: SLOW MOTION -
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 183
+#
+name: SLOW MOTION +
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 184
+#
+name: >
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 190
+#
+name: SHUTTLE FWD (F.S.)
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 190
+#
+name: PROGRAM
+type: parsed
+protocol: jvc
+address: 67
+command: 193
+#
+name: PROG.
+type: parsed
+protocol: jvc
+address: 67
+command: 193
+#
+name: PROG
+type: parsed
+protocol: jvc
+address: 67
+command: 193
+#
+name: STOP -
+type: parsed
+protocol: jvc
+address: 67
+command: 193
+#
+name: REVIEW
+type: parsed
+protocol: jvc
+address: 67
+command: 195
+#
+name: VCR REVIEW
+type: parsed
+protocol: jvc
+address: 67
+command: 195
+#
+name: VCRA REVIEW
+type: parsed
+protocol: jvc
+address: 67
+command: 195
+#
+name: RE-VIEW
+type: parsed
+protocol: jvc
+address: 67
+command: 195
+#
+name: DATE +
+type: parsed
+protocol: jvc
+address: 67
+command: 198
+#
+name: DAY +
+type: parsed
+protocol: jvc
+address: 67
+command: 198
+#
+name: TIMER
+type: parsed
+protocol: jvc
+address: 67
+command: 198
+#
+name: DATE -
+type: parsed
+protocol: jvc
+address: 67
+command: 199
+#
+name: DATE-
+type: parsed
+protocol: jvc
+address: 67
+command: 199
+#
+name: DAY -
+type: parsed
+protocol: jvc
+address: 67
+command: 199
+#
+name: START +
+type: parsed
+protocol: jvc
+address: 67
+command: 199
+#
+name: DATE --
+type: parsed
+protocol: jvc
+address: 67
+command: 199
+#
+name: START +
+type: parsed
+protocol: jvc
+address: 67
+command: 200
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 67
+command: 200
+#
+name: START -
+type: parsed
+protocol: jvc
+address: 67
+command: 201
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 67
+command: 201
+#
+name: START--
+type: parsed
+protocol: jvc
+address: 67
+command: 201
+#
+name: STOP +
+type: parsed
+protocol: jvc
+address: 67
+command: 202
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 67
+command: 202
+#
+name: STOP -
+type: parsed
+protocol: jvc
+address: 67
+command: 203
+#
+name: CANCEL
+type: parsed
+protocol: jvc
+address: 67
+command: 203
+#
+name: STOP --
+type: parsed
+protocol: jvc
+address: 67
+command: 203
+#
+name: REC/PLAY
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: VCR REC
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: 
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 204
+#
+name: REC/PLAY/X2
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: A REC/PLAY/X2
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 204
+#
+name: VCR REC PLAY/X2
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: REC
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: VCRA REC
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: RECORD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 204
+#
+name: 
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: VIDEO A REC
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 204
+#
+name: VCR A RECORD
+type: parsed
+protocol: jvc
+address: 67
+command: 204
+#
+name: REC/PAUSE/STILL
+type: parsed
+protocol: jvc
+address: 67
+command: 205
+#
+name: REC/PAUSE
+type: parsed
+protocol: jvc
+address: 67
+command: 205
+#
+name: NAVIGATION
+type: parsed
+protocol: jvc
+address: 67
+command: 224
+#
+name: LINE 2
+type: parsed
+protocol: jvc
+address: 67
+command: 234
+#
+name: VCR A JOG >
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 237
+#
+name: JOG FWD
+type: parsed
+protocol: jvc_two_frames
+address: 67
+command: 237
+#

@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: input
+type: parsed
+protocol: nec
+address: 12.251
+command: 1
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 12.251
+command: 2
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 12.251
+command: 3
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 12.251
+command: 4
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 12.251
+command: 5
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 12.251
+command: 6
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 12.251
+command: 7
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 12.251
+command: 8
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 12.251
+command: 9
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 12.251
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 12.251
+command: 11
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 12.251
+command: 12
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 12.251
+command: 13
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 12.251
+command: 15
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 12.251
+command: 16
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 12.251
+command: 17
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 12.251
+command: 18
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 12.251
+command: 19
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 12.251
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 12.251
+command: 21
+#
+name: KEY_LAST
+type: parsed
+protocol: nec
+address: 12.251
+command: 22
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 12.251
+command: 23
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 12.251
+command: 24
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 12.251
+command: 25
+#
+name: dash
+type: parsed
+protocol: nec
+address: 12.251
+command: 54
+#
+name: turbo
+type: parsed
+protocol: nec
+address: 12.251
+command: 95
+#
+name: interactive
+type: parsed
+protocol: nec
+address: 12.251
+command: 96
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 12.251
+command: 97
+#
+name: prog
+type: parsed
+protocol: nec
+address: 12.251
+command: 98
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 12.251
+command: 100
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 12.251
+command: 101
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 12.251
+command: 112
+#

@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ANTENNA INPUT
+type: parsed
+protocol: necx2
+address: 7.7
+command: 27
+#
+name: COMPONENT VIDEO 1
+type: parsed
+protocol: necx2
+address: 7.7
+command: 67
+#
+name: PC INPUT
+type: parsed
+protocol: necx2
+address: 7.7
+command: 105
+#
+name: S VIDEO 1
+type: parsed
+protocol: necx2
+address: 7.7
+command: 133
+#
+name: POWER OFF
+type: parsed
+protocol: necx2
+address: 7.7
+command: 152
+#
+name: POWER ON
+type: parsed
+protocol: necx2
+address: 7.7
+command: 153
+#
+name: VIDEO 1
+type: parsed
+protocol: necx2
+address: 7.7
+command: 193
+#
+name: S VIDEO 3
+type: parsed
+protocol: necx2
+address: 7.7
+command: 194
+#
+name: COMPONENT VIDEO 3
+type: parsed
+protocol: necx2
+address: 7.7
+command: 195
+#
+name: VIDEO 2
+type: parsed
+protocol: necx2
+address: 7.7
+command: 248
+#
+name: VIDEO 3
+type: parsed
+protocol: necx2
+address: 7.7
+command: 249
+#
+name: S VIDEO 2
+type: parsed
+protocol: necx2
+address: 7.7
+command: 251
+#
+name: COMPONENT VIDEO 2
+type: parsed
+protocol: necx2
+address: 7.7
+command: 253
+#
+name: DVI INPUT
+type: parsed
+protocol: necx2
+address: 7.7
+command: 255
+#

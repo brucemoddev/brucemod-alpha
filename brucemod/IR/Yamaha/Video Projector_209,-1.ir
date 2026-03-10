@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 209
+command: 194
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 195
+#
+name: HIDE
+type: parsed
+protocol: nec1
+address: 209
+command: 198
+#
+name: PATTERN
+type: parsed
+protocol: nec1
+address: 209
+command: 201
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 209
+command: 204
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 205
+#
+name: -
+type: parsed
+protocol: nec1
+address: 209
+command: 206
+#
+name: +
+type: parsed
+protocol: nec1
+address: 209
+command: 207
+#
+name: RETURN <--
+type: parsed
+protocol: nec1
+address: 209
+command: 208
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 209
+command: 211
+#
+name: ESCAPE
+type: parsed
+protocol: nec1
+address: 209
+command: 213
+#
+name: PICTURE
+type: parsed
+protocol: nec1
+address: 209
+command: 215
+#
+name: INPUT: S-VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 216
+#
+name: INPUT: VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 217
+#
+name: INPUT: A (COMPNENT)
+type: parsed
+protocol: nec1
+address: 209
+command: 218
+#
+name: INPUT: B (DB-15)
+type: parsed
+protocol: nec1
+address: 209
+command: 219
+#
+name: INPUT: DVI
+type: parsed
+protocol: nec1
+address: 209
+command: 220
+#
+name: INPUT: D4
+type: parsed
+protocol: nec1
+address: 209
+command: 221
+#
+name: STILL
+type: parsed
+protocol: nec1
+address: 209
+command: 223
+#
+name: MEMORY 1
+type: parsed
+protocol: nec1
+address: 209
+command: 225
+#
+name: MEMORY 2
+type: parsed
+protocol: nec1
+address: 209
+command: 226
+#
+name: MEMORY 3
+type: parsed
+protocol: nec1
+address: 209
+command: 227
+#
+name: MEMORY 4
+type: parsed
+protocol: nec1
+address: 209
+command: 228
+#
+name: MEMORY 5
+type: parsed
+protocol: nec1
+address: 209
+command: 229
+#
+name: MEMORY 6
+type: parsed
+protocol: nec1
+address: 209
+command: 230
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 209
+command: 234
+#

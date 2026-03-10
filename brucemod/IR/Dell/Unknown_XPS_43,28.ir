@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: vol_off
+type: parsed
+protocol: mce
+address: 43.28
+command: 13
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: mce
+address: 43.28
+command: 16
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: mce
+address: 43.28
+command: 17
+#
+name: KEY_NEXT
+type: parsed
+protocol: mce
+address: 43.28
+command: 32
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: mce
+address: 43.28
+command: 33
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: mce
+address: 43.28
+command: 44
+#
+name: KEY_FORWARD
+type: parsed
+protocol: mce
+address: 43.28
+command: 46
+#
+name: KEY_REWIND
+type: parsed
+protocol: mce
+address: 43.28
+command: 47
+#
+name: KEY_STOP
+type: parsed
+protocol: mce
+address: 43.28
+command: 49
+#
+name: cross_up
+type: parsed
+protocol: mce
+address: 43.28
+command: 88
+#
+name: cross_down
+type: parsed
+protocol: mce
+address: 43.28
+command: 89
+#
+name: cross_left
+type: parsed
+protocol: mce
+address: 43.28
+command: 90
+#
+name: cross_right
+type: parsed
+protocol: mce
+address: 43.28
+command: 91
+#
+name: cross_enter
+type: parsed
+protocol: mce
+address: 43.28
+command: 92
+#
+name: KEY_BACK
+type: parsed
+protocol: mce
+address: 43.28
+command: 164
+#
+name: KEY_UP
+type: parsed
+protocol: mce
+address: 43.28
+command: 206
+#
+name: KEY_DOWN
+type: parsed
+protocol: mce
+address: 43.28
+command: 207
+#

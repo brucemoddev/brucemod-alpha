@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CAPTURE
+type: parsed
+protocol: nec
+address: 134.59
+command: 1
+#

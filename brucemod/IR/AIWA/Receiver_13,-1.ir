@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER PRESET +
+type: parsed
+protocol: sony12
+address: 13
+command: 16
+#
+name: TUNER PRESET -
+type: parsed
+protocol: sony12
+address: 13
+command: 17
+#
+name: TUNER INDEX +
+type: parsed
+protocol: sony12
+address: 13
+command: 80
+#
+name: TUNER INDEX -
+type: parsed
+protocol: sony12
+address: 13
+command: 81
+#
+name: TUNER SELECT
+type: parsed
+protocol: sony12
+address: 13
+command: 82
+#
+name: GEQ LINK
+type: parsed
+protocol: sony12
+address: 13
+command: 87
+#

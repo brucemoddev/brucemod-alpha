@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: jvc
+address: 3
+command: 4
+#
+name: OK
+type: parsed
+protocol: jvc
+address: 3
+command: 10
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: MUTE
+type: parsed
+protocol: jvc
+address: 3
+command: 28
+#
+name: VOLUME -
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: VOLUME +
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 3
+command: 32
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 3
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 3
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 3
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 3
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 3
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 3
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 3
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 3
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 3
+command: 41
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: jvc
+address: 3
+command: 90
+#
+name: CURSOR LEFT
+type: parsed
+protocol: jvc
+address: 3
+command: 91
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 3
+command: 122
+#
+name: CURSOR DOWN
+type: parsed
+protocol: jvc
+address: 3
+command: 123
+#
+name: CURSOR UP
+type: parsed
+protocol: jvc
+address: 3
+command: 124
+#
+name: BACK
+type: parsed
+protocol: jvc
+address: 3
+command: 230
+#

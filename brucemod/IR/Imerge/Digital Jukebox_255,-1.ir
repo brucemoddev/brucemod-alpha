@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1B
+type: parsed
+protocol: nec2
+address: 255
+command: 205
+#
+name: 2B
+type: parsed
+protocol: nec2
+address: 255
+command: 206
+#
+name: 3B
+type: parsed
+protocol: nec2
+address: 255
+command: 207
+#
+name: 4B
+type: parsed
+protocol: nec2
+address: 255
+command: 208
+#
+name: 5B
+type: parsed
+protocol: nec2
+address: 255
+command: 209
+#
+name: 6B
+type: parsed
+protocol: nec2
+address: 255
+command: 210
+#
+name: 7B
+type: parsed
+protocol: nec2
+address: 255
+command: 211
+#
+name: 8B
+type: parsed
+protocol: nec2
+address: 255
+command: 212
+#
+name: 9B
+type: parsed
+protocol: nec2
+address: 255
+command: 213
+#
+name: 0B
+type: parsed
+protocol: nec2
+address: 255
+command: 214
+#

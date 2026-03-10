@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 134.107
+command: 0
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 134.107
+command: 4
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 134.107
+command: 5
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 134.107
+command: 6
+#
+name: KEY_IMAGES
+type: parsed
+protocol: nec
+address: 134.107
+command: 7
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 134.107
+command: 8
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 134.107
+command: 9
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 134.107
+command: 10
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 134.107
+command: 11
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 134.107
+command: 12
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 134.107
+command: 13
+#
+name: KEY_OPTION
+type: parsed
+protocol: nec
+address: 134.107
+command: 14
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 134.107
+command: 15
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 134.107
+command: 16
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 134.107
+command: 17
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 134.107
+command: 18
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: nec
+address: 134.107
+command: 19
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 134.107
+command: 20
+#
+name: ZOOMUP
+type: parsed
+protocol: nec
+address: 134.107
+command: 21
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: nec
+address: 134.107
+command: 25
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 134.107
+command: 26
+#
+name: ZOOMDOWN
+type: parsed
+protocol: nec
+address: 134.107
+command: 27
+#

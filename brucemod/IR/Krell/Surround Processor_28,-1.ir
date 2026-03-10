@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SUB
+type: parsed
+protocol: rc5
+address: 28
+command: 1
+#
+name: REAR
+type: parsed
+protocol: rc5
+address: 28
+command: 2
+#
+name: CNTR
+type: parsed
+protocol: rc5
+address: 28
+command: 6
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 28
+command: 7
+#
+name: CURSER DOWN
+type: parsed
+protocol: rc5
+address: 28
+command: 11
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 28
+command: 11
+#
+name: DOWN
+type: parsed
+protocol: rc5
+address: 28
+command: 11
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 28
+command: 12
+#
+name: CURSER RIGHT
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: RIGHT
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: OK
+type: parsed
+protocol: rc5
+address: 28
+command: 14
+#
+name: CURSER LEFT
+type: parsed
+protocol: rc5
+address: 28
+command: 15
+#
+name: LEFT
+type: parsed
+protocol: rc5
+address: 28
+command: 15
+#
+name: TAPE
+type: parsed
+protocol: rc5
+address: 28
+command: 16
+#
+name: CURSER UP
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: UP
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: PREV
+type: parsed
+protocol: rc5
+address: 28
+command: 18
+#
+name: MAIN POWER
+type: parsed
+protocol: rc5
+address: 28
+command: 19
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 28
+command: 19
+#
+name: HTS POWER
+type: parsed
+protocol: rc5
+address: 28
+command: 19
+#
+name: PRE
+type: parsed
+protocol: rc5
+address: 28
+command: 19
+#
+name: S2
+type: parsed
+protocol: rc5
+address: 28
+command: 29
+#
+name: S3
+type: parsed
+protocol: rc5
+address: 28
+command: 30
+#
+name: S4
+type: parsed
+protocol: rc5
+address: 28
+command: 31
+#
+name: S5
+type: parsed
+protocol: rc5
+address: 28
+command: 32
+#
+name: C2
+type: parsed
+protocol: rc5
+address: 28
+command: 34
+#
+name: T1
+type: parsed
+protocol: rc5
+address: 28
+command: 35
+#
+name: T2
+type: parsed
+protocol: rc5
+address: 28
+command: 36
+#
+name: XLR
+type: parsed
+protocol: rc5
+address: 28
+command: 37
+#
+name: RF
+type: parsed
+protocol: rc5
+address: 28
+command: 38
+#
+name: SV2
+type: parsed
+protocol: rc5
+address: 28
+command: 42
+#
+name: M1
+type: parsed
+protocol: rc5
+address: 28
+command: 51
+#
+name: STEREO
+type: parsed
+protocol: rc5
+address: 28
+command: 53
+#
+name: ST
+type: parsed
+protocol: rc5
+address: 28
+command: 53
+#
+name: PROLOGIC
+type: parsed
+protocol: rc5
+address: 28
+command: 62
+#
+name: PL
+type: parsed
+protocol: rc5
+address: 28
+command: 62
+#

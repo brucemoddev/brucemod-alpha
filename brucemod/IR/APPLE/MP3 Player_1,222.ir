@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: >> NEXT TRACK
+type: parsed
+protocol: nec1
+address: 1.222
+command: 3
+#
+name: NEXT TRACK
+type: parsed
+protocol: nec1
+address: 1.222
+command: 3
+#
+name: VOL+ VOLUME DOWN
+type: parsed
+protocol: nec
+address: 1.222
+command: 7
+#
+name: 
+type: parsed
+protocol: nec1
+address: 1.222
+command: 7
+#
+name: << PREV TRACK
+type: parsed
+protocol: nec1
+address: 1.222
+command: 11
+#
+name: PREVIOUS TRACK
+type: parsed
+protocol: nec1
+address: 1.222
+command: 11
+#
+name: NEXT CHAPTER
+type: parsed
+protocol: nec2
+address: 1.222
+command: 12
+#
+name: PREV CHAPTER
+type: parsed
+protocol: nec2
+address: 1.222
+command: 13
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 1.222
+command: 14
+#
+name: PLAY/RESUME
+type: parsed
+protocol: nec2
+address: 1.222
+command: 15
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 1.222
+command: 16
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec2
+address: 1.222
+command: 17
+#
+name: NEXT PLAYLIST
+type: parsed
+protocol: nec2
+address: 1.222
+command: 20
+#
+name: PREVIOUS PLAYLIST
+type: parsed
+protocol: nec2
+address: 1.222
+command: 21
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2
+address: 1.222
+command: 22
+#
+name: VOL- VOLUME UP
+type: parsed
+protocol: nec1
+address: 1.222
+command: 23
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 1.222
+command: 24
+#
+name: POWER OFF
+type: parsed
+protocol: nec2
+address: 1.222
+command: 26
+#
+name: POWER ON
+type: parsed
+protocol: nec2
+address: 1.222
+command: 27
+#
+name: >II PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#
+name: 
+type: parsed
+protocol: nec1
+address: 1.222
+command: 31
+#

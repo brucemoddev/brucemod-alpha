@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DISC
+type: parsed
+protocol: nec
+address: 184
+command: 8
+#
+name: BAND___TUNER
+type: parsed
+protocol: nec
+address: 184
+command: 143
+#
+name: PHONO
+type: parsed
+protocol: nec
+address: 184
+command: 144
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 184
+command: 145
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 184
+command: 146
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 184
+command: 147
+#
+name: TAPE_1
+type: parsed
+protocol: nec
+address: 184
+command: 148
+#
+name: TAPE_2_(_MONITOR_)
+type: parsed
+protocol: nec
+address: 184
+command: 149
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 184
+command: 150
+#
+name: P.CALL
+type: parsed
+protocol: nec
+address: 184
+command: 153
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 184
+command: 154
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 184
+command: 155
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 184
+command: 157
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 184
+command: 201
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 203
+#
+name: SKIP_REV
+type: parsed
+protocol: nec
+address: 184
+command: 206
+#
+name: SKIP_FWD
+type: parsed
+protocol: nec
+address: 184
+command: 207
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 208
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 209
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 184
+command: 210
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 184
+command: 211
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 184
+command: 213
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 216
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 217
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 184
+command: 218
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 184
+command: 219
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 184
+command: 221
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 184
+command: 222
+#

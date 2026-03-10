@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SAVE
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 0
+#
+name: CTRL
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 1
+#
+name: Z1
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 2
+#
+name: Z2
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 3
+#
+name: A/V PRESET 1
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 4
+#
+name: A/V PRESET 2
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 5
+#
+name: A/V PRESET 3
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 6
+#
+name: A/V PRESET 4
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 7
+#
+name: A/V PRESET 5
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 8
+#
+name: A/V PRESET 6
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 9
+#
+name: BALANCE >
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 10
+#
+name: BALANCE <
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 11
+#
+name: V (MENU)
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 12
+#
+name: ^ (MENU)
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 13
+#
+name: VOLUME ^
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 14
+#
+name: VOLUME V
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 15
+#
+name: MENU
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 16
+#
+name: ENTER
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 17
+#
+name: A/V PRESET 8
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 19
+#
+name: V2
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 22
+#
+name: MUTE
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 23
+#
+name: FX
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 24
+#
+name: POWER
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 25
+#
+name: TUNER
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 26
+#
+name: CD
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 27
+#
+name: VLD
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 28
+#
+name: V1
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 29
+#
+name: TV
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 30
+#
+name: TAPE
+type: parsed
+protocol: aiwa
+address: 6.1
+command: 31
+#

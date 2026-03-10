@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SUB
+type: parsed
+protocol: rc5
+address: 28
+command: 1
+#
+name: REAR
+type: parsed
+protocol: rc5
+address: 28
+command: 2
+#
+name: CNTR
+type: parsed
+protocol: rc5
+address: 28
+command: 6
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 28
+command: 7
+#
+name: DOWN ARROW
+type: parsed
+protocol: rc5
+address: 28
+command: 11
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 28
+command: 12
+#
+name: RIGHT ARROW
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 28
+command: 14
+#
+name: LEFT ARROW
+type: parsed
+protocol: rc5
+address: 28
+command: 15
+#
+name: TAPE
+type: parsed
+protocol: rc5
+address: 28
+command: 16
+#
+name: UP ARROW
+type: parsed
+protocol: rc5
+address: 28
+command: 17
+#
+name: PREV
+type: parsed
+protocol: rc5
+address: 28
+command: 18
+#
+name: PRE-AMP POWER
+type: parsed
+protocol: rc5
+address: 28
+command: 19
+#
+name: BAL
+type: parsed
+protocol: rc5
+address: 28
+command: 26
+#
+name: M1
+type: parsed
+protocol: rc5
+address: 28
+command: 51
+#
+name: ST
+type: parsed
+protocol: rc5
+address: 28
+command: 53
+#
+name: PL
+type: parsed
+protocol: rc5
+address: 28
+command: 62
+#

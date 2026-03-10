@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV_STANDBY
+type: parsed
+protocol: rc5
+address: 0
+command: 12
+#
+name: TV_MUTE
+type: parsed
+protocol: rc5
+address: 0
+command: 13
+#
+name: TV_VOL_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 16
+#
+name: TV_VOL_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 17
+#
+name: TV_PRG_UP
+type: parsed
+protocol: rc5
+address: 0
+command: 32
+#
+name: TV_PRG_DOWN
+type: parsed
+protocol: rc5
+address: 0
+command: 33
+#

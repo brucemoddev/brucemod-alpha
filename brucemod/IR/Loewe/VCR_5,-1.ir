@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 0
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 11
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 29
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 49
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 50
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 52
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 53
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 58
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 69
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 80
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 81
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 82
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 83
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 85
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 86
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 87
+#
+name: 
+type: parsed
+protocol: rc5
+address: 5
+command: 126
+#

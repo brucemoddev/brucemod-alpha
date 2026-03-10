@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 19
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 19
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 19
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 19
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 19
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 19
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 19
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 19
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 19
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 19
+command: 9
+#
+name: OFF
+type: parsed
+protocol: rc5
+address: 19
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 19
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 19
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 19
+command: 17
+#
+name: NEXT
+type: parsed
+protocol: rc5
+address: 19
+command: 32
+#
+name: BACK
+type: parsed
+protocol: rc5
+address: 19
+command: 33
+#
+name: STORE
+type: parsed
+protocol: rc5
+address: 19
+command: 46
+#
+name: CLEAR
+type: parsed
+protocol: rc5
+address: 19
+command: 49
+#
+name: <<SRCH
+type: parsed
+protocol: rc5
+address: 19
+command: 50
+#
+name: >>SRCH
+type: parsed
+protocol: rc5
+address: 19
+command: 52
+#
+name: CURSOR DN
+type: parsed
+protocol: rc5
+address: 19
+command: 54
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 19
+command: 55
+#
+name: LD
+type: parsed
+protocol: rc5
+address: 19
+command: 76
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 19
+command: 107
+#
+name: RADIO
+type: parsed
+protocol: rc5
+address: 19
+command: 108
+#
+name: TAPE 1
+type: parsed
+protocol: rc5
+address: 19
+command: 109
+#
+name: TAPE 2
+type: parsed
+protocol: rc5
+address: 19
+command: 110
+#
+name: CABLE
+type: parsed
+protocol: rc5
+address: 19
+command: 111
+#
+name: VCR 1
+type: parsed
+protocol: rc5
+address: 19
+command: 112
+#
+name: VCR 2
+type: parsed
+protocol: rc5
+address: 19
+command: 113
+#
+name: LP
+type: parsed
+protocol: rc5
+address: 19
+command: 114
+#
+name: TV
+type: parsed
+protocol: rc5
+address: 19
+command: 115
+#
+name: TEXT
+type: parsed
+protocol: rc5
+address: 19
+command: 116
+#
+name: CDR
+type: parsed
+protocol: rc5
+address: 19
+command: 117
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 19
+command: 122
+#

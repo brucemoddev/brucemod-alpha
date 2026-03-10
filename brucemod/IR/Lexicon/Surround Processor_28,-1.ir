@@ -1,0 +1,459 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BALANCE FRONT
+type: parsed
+protocol: denon
+address: 28
+command: 65
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: denon
+address: 28
+command: 66
+#
+name: REAR DELAY +
+type: parsed
+protocol: denon
+address: 28
+command: 67
+#
+name: PARAM +
+type: parsed
+protocol: denon
+address: 28
+command: 68
+#
+name: BALANCE REAR
+type: parsed
+protocol: denon
+address: 28
+command: 69
+#
+name: BALANCE LEFT
+type: parsed
+protocol: denon
+address: 28
+command: 70
+#
+name: REAR DELAY -
+type: parsed
+protocol: denon
+address: 28
+command: 71
+#
+name: PARAM -
+type: parsed
+protocol: denon
+address: 28
+command: 72
+#
+name: MONO LOGIC
+type: parsed
+protocol: denon
+address: 28
+command: 76
+#
+name: MUSIC LOGIC
+type: parsed
+protocol: denon
+address: 28
+command: 80
+#
+name: DOLBY PRO-LOGIC
+type: parsed
+protocol: denon
+address: 28
+command: 84
+#
+name: MUTE MAIN
+type: parsed
+protocol: denon
+address: 28
+command: 85
+#
+name: MUTE SURROUND
+type: parsed
+protocol: denon
+address: 28
+command: 86
+#
+name: VOLUME -
+type: parsed
+protocol: denon
+address: 28
+command: 87
+#
+name: VOLUME +
+type: parsed
+protocol: denon
+address: 28
+command: 88
+#
+name: SETUP
+type: parsed
+protocol: denon
+address: 28
+command: 131
+#
+name: ON/OFF
+type: parsed
+protocol: denon
+address: 28
+command: 132
+#
+name: STORE
+type: parsed
+protocol: denon
+address: 28
+command: 135
+#
+name: ON/OFF-SIMPLE REMOTE
+type: parsed
+protocol: denon
+address: 28
+command: 136
+#
+name: PANORAMA NORMAL 1
+type: parsed
+protocol: denon
+address: 28
+command: 137
+#
+name: PANORAMA WIDE 2
+type: parsed
+protocol: denon
+address: 28
+command: 138
+#
+name: PANORAMA BINAURAL 3
+type: parsed
+protocol: denon
+address: 28
+command: 139
+#
+name: BANK
+type: parsed
+protocol: denon
+address: 28
+command: 140
+#
+name: AMBIENCE SMALL 4
+type: parsed
+protocol: denon
+address: 28
+command: 141
+#
+name: AMBIENCE MEDIUM 5
+type: parsed
+protocol: denon
+address: 28
+command: 142
+#
+name: AMBIENCE LARGE 6
+type: parsed
+protocol: denon
+address: 28
+command: 143
+#
+name: PARAM
+type: parsed
+protocol: denon
+address: 28
+command: 144
+#
+name: REVERB SMALL 7
+type: parsed
+protocol: denon
+address: 28
+command: 145
+#
+name: REVERB MEDIUM 8
+type: parsed
+protocol: denon
+address: 28
+command: 146
+#
+name: REVERB LARGE 9
+type: parsed
+protocol: denon
+address: 28
+command: 147
+#
+name: PARAM +
+type: parsed
+protocol: denon
+address: 28
+command: 148
+#
+name: SURROUND TV 10
+type: parsed
+protocol: denon
+address: 28
+command: 149
+#
+name: SURROUND MUSIC 11
+type: parsed
+protocol: denon
+address: 28
+command: 150
+#
+name: SURROUND FULL 12
+type: parsed
+protocol: denon
+address: 28
+command: 151
+#
+name: PARAM -
+type: parsed
+protocol: denon
+address: 28
+command: 152
+#
+name: SURROUND MONO 13
+type: parsed
+protocol: denon
+address: 28
+command: 153
+#
+name: SURROUND DOLBY 14
+type: parsed
+protocol: denon
+address: 28
+command: 154
+#
+name: SURROUND THX 15
+type: parsed
+protocol: denon
+address: 28
+command: 155
+#
+name: BALANCE FRONT
+type: parsed
+protocol: denon
+address: 28
+command: 158
+#
+name: BALANCE LEFT
+type: parsed
+protocol: denon
+address: 28
+command: 161
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: denon
+address: 28
+command: 163
+#
+name: BALANCE REAR
+type: parsed
+protocol: denon
+address: 28
+command: 166
+#
+name: EFFECT -
+type: parsed
+protocol: denon
+address: 28
+command: 169
+#
+name: EFFECT +
+type: parsed
+protocol: denon
+address: 28
+command: 170
+#
+name: MUTE EFFECT
+type: parsed
+protocol: denon
+address: 28
+command: 171
+#
+name: MUTE MAIN
+type: parsed
+protocol: denon
+address: 28
+command: 172
+#
+name: INPUT 1
+type: parsed
+protocol: denon
+address: 28
+command: 173
+#
+name: INPUT 2
+type: parsed
+protocol: denon
+address: 28
+command: 174
+#
+name: INPUT 3
+type: parsed
+protocol: denon
+address: 28
+command: 175
+#
+name: INPUT 4
+type: parsed
+protocol: denon
+address: 28
+command: 176
+#
+name: PANORAMA NORMAL 1
+type: parsed
+protocol: denon
+address: 28
+command: 194
+#
+name: PANORAMA WIDE 2
+type: parsed
+protocol: denon
+address: 28
+command: 195
+#
+name: PANORAMA BINAURAL 3
+type: parsed
+protocol: denon
+address: 28
+command: 196
+#
+name: BANK
+type: parsed
+protocol: denon
+address: 28
+command: 197
+#
+name: AMBIENCE SMALL 4
+type: parsed
+protocol: denon
+address: 28
+command: 198
+#
+name: AMBIENCE MEDIUM 5
+type: parsed
+protocol: denon
+address: 28
+command: 199
+#
+name: AMBIENCE LARGE 6
+type: parsed
+protocol: denon
+address: 28
+command: 200
+#
+name: PARAM
+type: parsed
+protocol: denon
+address: 28
+command: 201
+#
+name: REVERB SMALL 7
+type: parsed
+protocol: denon
+address: 28
+command: 202
+#
+name: REVERB MEDIUM 8
+type: parsed
+protocol: denon
+address: 28
+command: 203
+#
+name: REVERB LARGE 9
+type: parsed
+protocol: denon
+address: 28
+command: 204
+#
+name: PARAM +
+type: parsed
+protocol: denon
+address: 28
+command: 205
+#
+name: MUTE EFFECT
+type: parsed
+protocol: denon
+address: 28
+command: 208
+#
+name: VOLUME -
+type: parsed
+protocol: denon
+address: 28
+command: 210
+#
+name: EFFECT -
+type: parsed
+protocol: denon
+address: 28
+command: 211
+#
+name: BALANCE REAR
+type: parsed
+protocol: denon
+address: 28
+command: 212
+#
+name: BALANCE LEFT
+type: parsed
+protocol: denon
+address: 28
+command: 213
+#
+name: PARAM -
+type: parsed
+protocol: denon
+address: 28
+command: 215
+#
+name: VOLUME +
+type: parsed
+protocol: denon
+address: 28
+command: 216
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: denon
+address: 28
+command: 217
+#
+name: BALANCE FRONT
+type: parsed
+protocol: denon
+address: 28
+command: 218
+#
+name: EFFECT +
+type: parsed
+protocol: denon
+address: 28
+command: 219
+#
+name: SURROUND MONO 10
+type: parsed
+protocol: denon
+address: 28
+command: 220
+#
+name: SURROUND STEREO 11
+type: parsed
+protocol: denon
+address: 28
+command: 221
+#
+name: SURROUND DOLBY 12
+type: parsed
+protocol: denon
+address: 28
+command: 222
+#
+name: MUTE SYTEM
+type: parsed
+protocol: denon
+address: 28
+command: 225
+#

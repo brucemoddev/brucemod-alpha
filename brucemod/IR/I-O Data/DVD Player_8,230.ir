@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 8.230
+command: 16
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 8.230
+command: 17
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 8.230
+command: 18
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 8.230
+command: 19
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 8.230
+command: 20
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 8.230
+command: 21
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 8.230
+command: 22
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 8.230
+command: 23
+#
+name: PLAY / PAUSE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 24
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 25
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 8.230
+command: 26
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 8.230
+command: 27
+#
+name: SERVER
+type: parsed
+protocol: nec1
+address: 8.230
+command: 28
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 8.230
+command: 29
+#
+name: BACK
+type: parsed
+protocol: nec1
+address: 8.230
+command: 30
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 8.230
+command: 31
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 8.230
+command: 64
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 8.230
+command: 65
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 8.230
+command: 66
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 8.230
+command: 67
+#
+name: 6
+type: parsed
+protocol: nec
+address: 8.230
+command: 68
+#
+name: 
+type: parsed
+protocol: nec1
+address: 8.230
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 8.230
+command: 69
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 8.230
+command: 70
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 8.230
+command: 71
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 8.230
+command: 72
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 8.230
+command: 73
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 8.230
+command: 74
+#
+name: TV MODE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 75
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 8.230
+command: 77
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 8.230
+command: 78
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 8.230
+command: 80
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 8.230
+command: 81
+#
+name: RELOAD
+type: parsed
+protocol: nec1
+address: 8.230
+command: 82
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 8.230
+command: 83
+#
+name: SLOW MOTION +
+type: parsed
+protocol: nec1
+address: 8.230
+command: 84
+#
+name: AUDIO MODE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 85
+#
+name: SEARCH
+type: parsed
+protocol: nec1
+address: 8.230
+command: 86
+#
+name: A - B
+type: parsed
+protocol: nec1
+address: 8.230
+command: 87
+#
+name: SLOW MOTION -
+type: parsed
+protocol: nec1
+address: 8.230
+command: 88
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 8.230
+command: 89
+#
+name: URL/CODE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 90
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 91
+#
+name: HOME
+type: parsed
+protocol: nec1
+address: 8.230
+command: 92
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 93
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 8.230
+command: 94
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 8.230
+command: 95
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 16
+command: 15
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: OUTPUT
+type: parsed
+protocol: rc5
+address: 16
+command: 35
+#
+name: MODE
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#

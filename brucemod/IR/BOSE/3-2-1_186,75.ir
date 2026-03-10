@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 1
+#
+name: VOLYM -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 2
+#
+name: VOLYM +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 3
+#
+name: INPUT FM-AM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 6
+#
+name: INPUT TV
+type: parsed
+protocol: nec2
+address: 186.75
+command: 14
+#
+name: INPUT AUX
+type: parsed
+protocol: nec2
+address: 186.75
+command: 15
+#
+name: INPUT CBL-SAT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 21
+#
+name: CH/PRESET -
+type: parsed
+protocol: nec2
+address: 186.75
+command: 24
+#
+name: CH/PRESET +
+type: parsed
+protocol: nec2
+address: 186.75
+command: 25
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 26
+#
+name: CURSOR NER/TUNE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 32
+#
+name: EXIT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 48
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 186.75
+command: 64
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.75
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.75
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.75
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.75
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.75
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.75
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 186.75
+command: 71
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 186.75
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 186.75
+command: 73
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec2
+address: 186.75
+command: 76
+#
+name: INPUT CD-DVD
+type: parsed
+protocol: nec2
+address: 186.75
+command: 83
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 186.75
+command: 85
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 86
+#
+name: SEEK <<
+type: parsed
+protocol: nec2
+address: 186.75
+command: 87
+#
+name: SEEK >>
+type: parsed
+protocol: nec2
+address: 186.75
+command: 88
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 92
+#
+name: GER/SEARCH
+type: parsed
+protocol: nec2
+address: 186.75
+command: 96
+#
+name: INFO
+type: parsed
+protocol: nec2
+address: 186.75
+command: 100
+#
+name: SYSTEM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 112
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 186.75
+command: 128
+#
+name: DVD MENU
+type: parsed
+protocol: nec2
+address: 186.75
+command: 144
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 157
+#
+name: NSTER/SEARC
+type: parsed
+protocol: nec2
+address: 186.75
+command: 160
+#
+name: CURSOR UPP/TUNE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 192
+#
+name: GUIDE
+type: parsed
+protocol: nec2
+address: 186.75
+command: 208
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec2
+address: 186.75
+command: 224
+#

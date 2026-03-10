@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT: DVD
+type: parsed
+protocol: nec1
+address: 24.24
+command: 28
+#
+name: HD 3
+type: parsed
+protocol: nec1
+address: 24.24
+command: 64
+#
+name: PIC MEMORY
+type: parsed
+protocol: nec1
+address: 24.24
+command: 65
+#
+name: CONTRAST
+type: parsed
+protocol: nec1
+address: 24.24
+command: 66
+#
+name: BRIGHT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 67
+#
+name: PIC MODE
+type: parsed
+protocol: nec1
+address: 24.24
+command: 68
+#
+name: COLOR TEMP
+type: parsed
+protocol: nec1
+address: 24.24
+command: 69
+#
+name: MODE: WIDE
+type: parsed
+protocol: nec1
+address: 24.24
+command: 173
+#
+name: WIDE
+type: parsed
+protocol: nec1
+address: 24.24
+command: 173
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 24.24
+command: 176
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 24.24
+command: 177
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 178
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 179
+#
+name: CURSON RIGHT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 179
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 24.24
+command: 180
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 24.24
+command: 181
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 24.24
+command: 192
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 24.24
+command: 196
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 24.24
+command: 202
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 24.24
+command: 203
+#
+name: HD 2
+type: parsed
+protocol: nec1
+address: 24.24
+command: 220
+#
+name: HD 1
+type: parsed
+protocol: nec1
+address: 24.24
+command: 235
+#

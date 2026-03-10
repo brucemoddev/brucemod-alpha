@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 7
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 7
+command: 1
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 7
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 7
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 7
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 7
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 7
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 7
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 7
+command: 9
+#
+name: PLAY > (ENHANCE)
+type: parsed
+protocol: rc5
+address: 7
+command: 32
+#
+name: STOP [] (PROCESSOR)
+type: parsed
+protocol: rc5
+address: 7
+command: 33
+#
+name: ON/OFF
+type: parsed
+protocol: rc5
+address: 7
+command: 44
+#

@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 186.75
+command: 76
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 186.75
+command: 1
+#
+name: CD_DVD
+type: parsed
+protocol: nec2
+address: 186.75
+command: 83
+#
+name: aux
+type: parsed
+protocol: nec2
+address: 186.75
+command: 15
+#
+name: VIDEO1
+type: parsed
+protocol: nec2
+address: 186.75
+command: 14
+#
+name: VIDEO2
+type: parsed
+protocol: nec2
+address: 186.75
+command: 13
+#
+name: am
+type: parsed
+protocol: nec2
+address: 186.75
+command: 5
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 186.75
+command: 89
+#
+name: enter
+type: parsed
+protocol: nec2
+address: 186.75
+command: 224
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 186.75
+command: 192
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 186.75
+command: 160
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 186.75
+command: 96
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 186.75
+command: 32
+#
+name: DVD_MENU
+type: parsed
+protocol: nec2
+address: 186.75
+command: 144
+#
+name: SETTINGS
+type: parsed
+protocol: nec2
+address: 186.75
+command: 128
+#
+name: TRACK_UP
+type: parsed
+protocol: nec2
+address: 186.75
+command: 25
+#
+name: TRACK_DN
+type: parsed
+protocol: nec2
+address: 186.75
+command: 24
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 186.75
+command: 3
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 186.75
+command: 2
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 186.75
+command: 65
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 186.75
+command: 66
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 186.75
+command: 67
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 186.75
+command: 68
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 186.75
+command: 69
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 186.75
+command: 70
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 186.75
+command: 71
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 186.75
+command: 72
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 186.75
+command: 73
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 186.75
+command: 64
+#
+name: Stop
+type: parsed
+protocol: nec2
+address: 186.75
+command: 26
+#
+name: Pause
+type: parsed
+protocol: nec2
+address: 186.75
+command: 54
+#
+name: Play
+type: parsed
+protocol: nec2
+address: 186.75
+command: 85
+#
+name: SCAN_BACK
+type: parsed
+protocol: nec2
+address: 186.75
+command: 87
+#
+name: scan_fwd
+type: parsed
+protocol: nec2
+address: 186.75
+command: 88
+#
+name: shuffle
+type: parsed
+protocol: nec2
+address: 186.75
+command: 92
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 186.75
+command: 157
+#

@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR1
+type: parsed
+protocol: nec1
+address: 125
+command: 129
+#
+name: VCR2
+type: parsed
+protocol: nec1
+address: 125
+command: 130
+#
+name: LD
+type: parsed
+protocol: nec1
+address: 125
+command: 131
+#
+name: TV/DBS
+type: parsed
+protocol: nec1
+address: 125
+command: 132
+#
+name: DVD/VCR3
+type: parsed
+protocol: nec1
+address: 125
+command: 133
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 125
+command: 135
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 125
+command: 136
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 125
+command: 137
+#
+name: V-AUX
+type: parsed
+protocol: nec1
+address: 125
+command: 138
+#
+name: MD/TAPE1
+type: parsed
+protocol: nec1
+address: 125
+command: 139
+#
+name: TAPE 2 MONITOR
+type: parsed
+protocol: nec1
+address: 125
+command: 140
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 125
+command: 141
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 125
+command: 142
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 125
+command: 144
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 145
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 125
+command: 148
+#
+name: EFFET ON/OFF
+type: parsed
+protocol: nec1
+address: 125
+command: 193
+#
+name: ON SCREEN
+type: parsed
+protocol: nec1
+address: 125
+command: 194
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 125
+command: 208
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 125
+command: 209
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 125
+command: 210
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 125
+command: 211
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 125
+command: 212
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 125
+command: 213
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 125
+command: 214
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 125
+command: 215
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 125
+command: 216
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 125
+command: 217
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 125
+command: 218
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 125
+command: 219
+#

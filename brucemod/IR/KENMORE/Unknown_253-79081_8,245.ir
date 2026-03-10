@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 8.245
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 8.245
+command: 1
+#
+name: KEY_SAVE
+type: parsed
+protocol: nec
+address: 8.245
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 8.245
+command: 4
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 8.245
+command: 6
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 8.245
+command: 7
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 8.245
+command: 9
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 8.245
+command: 13
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 8.245
+command: 14
+#
+name: KEY_SHUFFLE
+type: parsed
+protocol: nec
+address: 8.245
+command: 15
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 8.245
+command: 17
+#

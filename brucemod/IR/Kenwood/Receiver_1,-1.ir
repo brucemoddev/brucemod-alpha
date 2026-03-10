@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV 1
+type: parsed
+protocol: sony12
+address: 1
+command: 0
+#
+name: TV 2
+type: parsed
+protocol: sony12
+address: 1
+command: 1
+#
+name: TV 3
+type: parsed
+protocol: sony12
+address: 1
+command: 2
+#
+name: TV 4
+type: parsed
+protocol: sony12
+address: 1
+command: 3
+#
+name: VCR1 STOP []
+type: parsed
+protocol: akai
+address: 1
+command: 3
+#
+name: TV 5
+type: parsed
+protocol: sony12
+address: 1
+command: 4
+#
+name: TV 6
+type: parsed
+protocol: sony12
+address: 1
+command: 5
+#
+name: VCR1 POWER
+type: parsed
+protocol: akai
+address: 1
+command: 5
+#
+name: TV 7
+type: parsed
+protocol: sony12
+address: 1
+command: 6
+#
+name: VCR1 FFWD >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: TV 8
+type: parsed
+protocol: sony12
+address: 1
+command: 7
+#
+name: VCR1 REW <<
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: TV 9
+type: parsed
+protocol: sony12
+address: 1
+command: 8
+#
+name: TV 0
+type: parsed
+protocol: sony12
+address: 1
+command: 9
+#
+name: TV +10
+type: parsed
+protocol: sony12
+address: 1
+command: 10
+#
+name: TV ENTER
+type: parsed
+protocol: sony12
+address: 1
+command: 11
+#
+name: VCR1 PLAY >
+type: parsed
+protocol: akai
+address: 1
+command: 12
+#
+name: VCR1 PAUSE 
+type: parsed
+protocol: akai
+address: 1
+command: 13
+#
+name: TV CH ^ (ANY ^)
+type: parsed
+protocol: sony12
+address: 1
+command: 16
+#
+name: TV CH V (ANY V)
+type: parsed
+protocol: sony12
+address: 1
+command: 17
+#
+name: TV VOL ^ (P.CALL >)
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: TV VOL V (P.CALL <)
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: VCR1 FUNCTION
+type: parsed
+protocol: akai
+address: 1
+command: 19
+#
+name: TV MUTE (BAND)
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: TV POWER
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: VCR1 ANY V
+type: parsed
+protocol: akai
+address: 1
+command: 24
+#
+name: VCR1 ANY ^
+type: parsed
+protocol: akai
+address: 1
+command: 25
+#
+name: TV VCR/TV (LVL AUD)
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: VCR1 0
+type: parsed
+protocol: akai
+address: 1
+command: 79
+#
+name: VCR1 1
+type: parsed
+protocol: akai
+address: 1
+command: 80
+#
+name: VCR1 2
+type: parsed
+protocol: akai
+address: 1
+command: 81
+#
+name: VCR1 3
+type: parsed
+protocol: akai
+address: 1
+command: 82
+#
+name: VCR1 4
+type: parsed
+protocol: akai
+address: 1
+command: 83
+#
+name: VCR1 5
+type: parsed
+protocol: akai
+address: 1
+command: 84
+#
+name: VCR1 6
+type: parsed
+protocol: akai
+address: 1
+command: 85
+#
+name: VCR1 7
+type: parsed
+protocol: akai
+address: 1
+command: 86
+#
+name: VCR1 8
+type: parsed
+protocol: akai
+address: 1
+command: 87
+#
+name: VCR1 9
+type: parsed
+protocol: akai
+address: 1
+command: 88
+#
+name: VCR1 REC
+type: parsed
+protocol: akai
+address: 1
+command: 108
+#

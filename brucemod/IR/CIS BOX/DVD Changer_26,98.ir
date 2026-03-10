@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DISK SKIP DOWN
+type: parsed
+protocol: sony20
+address: 26.98
+command: 61
+#
+name: DISK SKIP UP
+type: parsed
+protocol: sony20
+address: 26.98
+command: 62
+#

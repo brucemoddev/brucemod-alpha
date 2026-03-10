@@ -1,0 +1,291 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0
+command: 128
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0
+command: 129
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0
+command: 130
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0
+command: 131
+#
+name: TitleMenu
+type: parsed
+protocol: nec
+address: 0
+command: 132
+#
+name: KeyLock
+type: parsed
+protocol: nec
+address: 0
+command: 133
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0
+command: 134
+#
+name: PBC
+type: parsed
+protocol: nec
+address: 0
+command: 135
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0
+command: 136
+#
+name: Slow/R
+type: parsed
+protocol: nec
+address: 0
+command: 137
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0
+command: 138
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0
+command: 139
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0
+command: 140
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0
+command: 141
+#
+name: Digest
+type: parsed
+protocol: nec
+address: 0
+command: 142
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0
+command: 143
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0
+command: 144
+#
+name: Display
+type: parsed
+protocol: nec
+address: 0
+command: 145
+#
+name: KEY_SEARCH
+type: parsed
+protocol: nec
+address: 0
+command: 146
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 0
+command: 147
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 0
+command: 148
+#
+name: SkipBackwards
+type: parsed
+protocol: nec
+address: 0
+command: 149
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0
+command: 150
+#
+name: Program
+type: parsed
+protocol: nec
+address: 0
+command: 151
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0
+command: 192
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0
+command: 193
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 0
+command: 194
+#
+name: X_KEY_3D
+type: parsed
+protocol: nec
+address: 0
+command: 195
+#
+name: AudioMenu
+type: parsed
+protocol: nec
+address: 0
+command: 196
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 0
+command: 197
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0
+command: 198
+#
+name: KEY_OPEN
+type: parsed
+protocol: nec
+address: 0
+command: 199
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 0
+command: 200
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0
+command: 201
+#
+name: SkipForwards
+type: parsed
+protocol: nec
+address: 0
+command: 202
+#
+name: Slow/F
+type: parsed
+protocol: nec
+address: 0
+command: 203
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 0
+command: 204
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0
+command: 205
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 0
+command: 206
+#
+name: AudioMode
+type: parsed
+protocol: nec
+address: 0
+command: 207
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 208
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0
+command: 209
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0
+command: 210
+#
+name: KEY_SETUP
+type: parsed
+protocol: nec
+address: 0
+command: 211
+#
+name: Repeat/A-B
+type: parsed
+protocol: nec
+address: 0
+command: 212
+#
+name: Random
+type: parsed
+protocol: nec
+address: 0
+command: 213
+#
+name: Bookmark
+type: parsed
+protocol: nec
+address: 0
+command: 214
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 215
+#

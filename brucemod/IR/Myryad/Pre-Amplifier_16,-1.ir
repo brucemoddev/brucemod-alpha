@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STANDBY
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#

@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR STOP []
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 0
+#
+name: VCR <<
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 2
+#
+name: VCR >>
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: VCR PAUSE
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 6
+#
+name: VCR REC
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 8
+#
+name: VCR PLAY >
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 10
+#
+name: VCR 1
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 16
+#
+name: VCR 2
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 17
+#
+name: VCR 3
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 18
+#
+name: VCR 4
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 19
+#
+name: VCR 5
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 20
+#
+name: VCR 6
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 21
+#
+name: VCR 7
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 22
+#
+name: VCR 8
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 23
+#
+name: VCR 9
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 24
+#
+name: VCR 0
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 25
+#
+name: VCR CH ^
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 52
+#
+name: VCR CH V
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 53
+#
+name: TV/VCR
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 54
+#
+name: VCR POWER
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 61
+#

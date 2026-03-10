@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: HIDE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 143
+#
+name: OPERATE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 144
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 146
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 147
+#
+name: VOL +
+type: parsed
+protocol: nec1
+address: 131.85
+command: 152
+#
+name: VOL -
+type: parsed
+protocol: nec1
+address: 131.85
+command: 153
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 131.85
+command: 154
+#
+name: SPECIAL
+type: parsed
+protocol: nec1
+address: 131.85
+command: 155
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 131.85
+command: 156
+#
+name: COMPUTER
+type: parsed
+protocol: nec1
+address: 131.85
+command: 157
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 131.85
+command: 158
+#
+name: RESIZE
+type: parsed
+protocol: nec1
+address: 131.85
+command: 159
+#

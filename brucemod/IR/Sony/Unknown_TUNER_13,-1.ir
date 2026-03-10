@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: BAND
+type: parsed
+protocol: sony12
+address: 13
+command: 15
+#
+name: PRESET+
+type: parsed
+protocol: sony12
+address: 13
+command: 16
+#
+name: PRESET-
+type: parsed
+protocol: sony12
+address: 13
+command: 17
+#

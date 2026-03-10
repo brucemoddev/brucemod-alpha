@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON 9 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 49
+#
+name: ON 9 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 49
+#
+name: OFF 9 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 50
+#
+name: OFF 9 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 50
+#
+name: M1
+type: parsed
+protocol: rc5
+address: 30
+command: 51
+#
+name: M1 B
+type: parsed
+protocol: rc5
+address: 30
+command: 51
+#
+name: M2
+type: parsed
+protocol: rc5
+address: 30
+command: 52
+#
+name: M2 B
+type: parsed
+protocol: rc5
+address: 30
+command: 52
+#
+name: ON 10 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 53
+#
+name: ON 10 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 53
+#
+name: OFF 10 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 54
+#
+name: OFF 10 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 54
+#
+name: ON 6 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 57
+#
+name: ON 6 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 57
+#
+name: OFF 6 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 58
+#
+name: OFF 6 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 58
+#
+name: ON 8 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 59
+#
+name: ON 8 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 59
+#
+name: OFF 8 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 60
+#
+name: OFF 8 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 60
+#
+name: ON 7 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 61
+#
+name: ON 7 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 61
+#
+name: OFF 7 BL
+type: parsed
+protocol: rc5
+address: 30
+command: 62
+#
+name: OFF 7 BL B
+type: parsed
+protocol: rc5
+address: 30
+command: 62
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 30
+command: 63
+#
+name: POWER B
+type: parsed
+protocol: rc5
+address: 30
+command: 63
+#

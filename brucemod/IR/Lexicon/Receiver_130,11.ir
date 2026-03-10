@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP
+type: parsed
+protocol: nec1
+address: 130.11
+command: 1
+#
+name: M OFF
+type: parsed
+protocol: nec1
+address: 130.11
+command: 6
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 8
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 9
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 10
+#
+name: THX
+type: parsed
+protocol: nec1
+address: 130.11
+command: 11
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 130.11
+command: 12
+#
+name: L7 FILM
+type: parsed
+protocol: nec1
+address: 130.11
+command: 13
+#
+name: L7 TV
+type: parsed
+protocol: nec1
+address: 130.11
+command: 14
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 130.11
+command: 15
+#
+name: L7 MUSIC
+type: parsed
+protocol: nec1
+address: 130.11
+command: 16
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 130.11
+command: 21
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 130.11
+command: 22
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 130.11
+command: 23
+#
+name: STAT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 28
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 130.11
+command: 29
+#
+name: 2 CHANNEL
+type: parsed
+protocol: nec1
+address: 130.11
+command: 31
+#
+name: DVD 1
+type: parsed
+protocol: nec1
+address: 130.11
+command: 32
+#
+name: DVD 2
+type: parsed
+protocol: nec1
+address: 130.11
+command: 33
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 130.11
+command: 35
+#
+name: SAT
+type: parsed
+protocol: nec1
+address: 130.11
+command: 36
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 130.11
+command: 37
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 130.11
+command: 43
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 130.11
+command: 48
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 130.11
+command: 49
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 130.11
+command: 50
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 130.11
+command: 51
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 130.11
+command: 52
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 130.11
+command: 53
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 130.11
+command: 54
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 130.11
+command: 55
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 130.11
+command: 56
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 130.11
+command: 57
+#
+name: ENT.
+type: parsed
+protocol: nec1
+address: 130.11
+command: 58
+#
+name: L7 MS
+type: parsed
+protocol: nec1
+address: 130.11
+command: 144
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 130.11
+command: 154
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 130.11
+command: 155
+#
+name: A/D
+type: parsed
+protocol: nec1
+address: 130.11
+command: 158
+#
+name: A BYP
+type: parsed
+protocol: nec1
+address: 130.11
+command: 159
+#

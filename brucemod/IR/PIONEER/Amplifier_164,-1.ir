@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UP CURSOR
+type: parsed
+protocol: pioneer
+address: 164
+command: 86
+#

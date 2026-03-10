@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 131.95
+command: 81
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 131.95
+command: 92
+#

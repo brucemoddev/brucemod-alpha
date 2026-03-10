@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MENU
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 7
+#
+name: LIVE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 17
+#
+name: INFO
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 19
+#
+name: CURSOR UP
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 20
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 21
+#
+name: CURSOR DOWN
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 22
+#
+name: CURSOR LEFT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 23
+#
+name: THUMBS DOWN
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 24
+#
+name: SELECT
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 25
+#
+name: THUMBS UP
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 26
+#
+name: CHANNEL +
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 30
+#
+name: CHANNEL -
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 31
+#
+name: RECORD
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 32
+#
+name: PLAY
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 33
+#
+name: REWIND
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 34
+#
+name: PAUSE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 35
+#
+name: FAST FORWARD
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 36
+#
+name: SLOWMO
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 37
+#
+name: REPLAY
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 38
+#
+name: ADVANCE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 39
+#
+name: 1
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 40
+#
+name: 2
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 41
+#
+name: 3
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 42
+#
+name: 4
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 43
+#
+name: 5
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 44
+#
+name: 6
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 45
+#
+name: 7
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 46
+#
+name: 8
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 47
+#
+name: 9
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 48
+#
+name: 0
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 49
+#
+name: CLEAR
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 50
+#
+name: ENTER/LAST
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 51
+#
+name: GUIDE
+type: parsed
+protocol: tivo_unit
+address: 133.48
+command: 54
+#

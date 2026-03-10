@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD 1 (5)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 1
+#
+name: BAL/AUX (9)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 2
+#
+name: L.D. (3)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 3
+#
+name: INPUT
+type: parsed
+protocol: recs80_45
+address: 5
+command: 4
+#
+name: MASTER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 5
+#
+name: REAR
+type: parsed
+protocol: recs80_45
+address: 5
+command: 6
+#
+name: STDBY
+type: parsed
+protocol: recs80_45
+address: 5
+command: 7
+#
+name: VOLUME +
+type: parsed
+protocol: recs80_45
+address: 5
+command: 8
+#
+name: CD 2 (6)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 9
+#
+name: TUNER (0)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 10
+#
+name: TV/AUX (4)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 11
+#
+name: DELAY
+type: parsed
+protocol: recs80_45
+address: 5
+command: 12
+#
+name: BAL
+type: parsed
+protocol: recs80_45
+address: 5
+command: 13
+#
+name: SUB
+type: parsed
+protocol: recs80_45
+address: 5
+command: 14
+#
+name: MODE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 15
+#
+name: VOLUME -
+type: parsed
+protocol: recs80_45
+address: 5
+command: 16
+#
+name: TAPE 1 (7)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 17
+#
+name: VCR 1 (1)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 18
+#
+name: PATH
+type: parsed
+protocol: recs80_45
+address: 5
+command: 19
+#
+name: RECALL
+type: parsed
+protocol: recs80_45
+address: 5
+command: 20
+#
+name: CNTR
+type: parsed
+protocol: recs80_45
+address: 5
+command: 21
+#
+name: TAPE 2 (8)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 25
+#
+name: VCR 2 (2)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 26
+#
+name: MUTE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 27
+#
+name: MENU
+type: parsed
+protocol: recs80_45
+address: 5
+command: 30
+#
+name: ENTER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 31
+#
+name: DISPLAY
+type: parsed
+protocol: recs80_45
+address: 5
+command: 32
+#
+name: ON SCREEN
+type: parsed
+protocol: recs80_45
+address: 5
+command: 33
+#
+name: THX (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 34
+#
+name: PRO (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 35
+#
+name: STEREO (FORM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 36
+#
+name: MONO S (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 37
+#
+name: S OFF (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 38
+#
+name: MONO (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 39
+#
+name: MAIN (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 40
+#
+name: REMOTE (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 41
+#
+name: BOTH (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 42
+#
+name: RECORD (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 43
+#
+name: OPERATE (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 46
+#
+name: STANDBY (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 47
+#
+name: MUTE ON (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 48
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 48
+#
+name: MUTE OFF (FROM PAV)
+type: parsed
+protocol: recs80_45
+address: 5
+command: 49
+#

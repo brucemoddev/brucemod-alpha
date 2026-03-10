@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEARCH MODE
+type: parsed
+protocol: denon
+address: 4
+command: 158
+#
+name: 
+type: parsed
+protocol: denon
+address: 4
+command: 158
+#
+name: ZOOM
+type: parsed
+protocol: denon
+address: 4
+command: 159
+#
+name: PICTURE ADJUST
+type: parsed
+protocol: denon
+address: 4
+command: 160
+#
+name: PICT. ADJUST
+type: parsed
+protocol: denon
+address: 4
+command: 160
+#
+name: PICADJ
+type: parsed
+protocol: denon
+address: 4
+command: 160
+#
+name: PIC ADJ
+type: parsed
+protocol: denon
+address: 4
+command: 160
+#
+name: DIMMER
+type: parsed
+protocol: denon
+address: 4
+command: 161
+#
+name: PURE DIRECT MEMORY
+type: parsed
+protocol: denon
+address: 4
+command: 162
+#
+name: P.D. MEMORY
+type: parsed
+protocol: denon
+address: 4
+command: 162
+#

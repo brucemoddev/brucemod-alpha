@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: *  0
+type: parsed
+protocol: velleman
+address: 5
+command: 0
+#
+name: *  1
+type: parsed
+protocol: velleman
+address: 5
+command: 1
+#
+name: *  2
+type: parsed
+protocol: velleman
+address: 5
+command: 2
+#
+name: *  3
+type: parsed
+protocol: velleman
+address: 5
+command: 3
+#
+name: *  4
+type: parsed
+protocol: velleman
+address: 5
+command: 4
+#
+name: *  5
+type: parsed
+protocol: velleman
+address: 5
+command: 5
+#
+name: *  6
+type: parsed
+protocol: velleman
+address: 5
+command: 6
+#
+name: *  7
+type: parsed
+protocol: velleman
+address: 5
+command: 7
+#
+name: *  8
+type: parsed
+protocol: velleman
+address: 5
+command: 8
+#
+name: *  9
+type: parsed
+protocol: velleman
+address: 5
+command: 9
+#
+name: TUNER- INPUT1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 32
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 32
+#
+name: SRC 1 (TUNER)
+type: parsed
+protocol: velleman
+address: 5
+command: 32
+#
+name: CD INPUT2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 33
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 33
+#
+name: SRC 2 (CD)
+type: parsed
+protocol: velleman
+address: 5
+command: 33
+#
+name: TAPE- INPUT3
+type: parsed
+protocol: recs80_45
+address: 5
+command: 34
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 34
+#
+name: SRC 3 (TAPE 1)
+type: parsed
+protocol: velleman
+address: 5
+command: 34
+#
+name: VCR- INPUT4
+type: parsed
+protocol: recs80_45
+address: 5
+command: 35
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 35
+#
+name: SRC 4 (VCR 1)
+type: parsed
+protocol: velleman
+address: 5
+command: 35
+#
+name: LASER - INPUT5
+type: parsed
+protocol: recs80_45
+address: 5
+command: 36
+#
+name: SRC 5 (LASER DISC)
+type: parsed
+protocol: velleman
+address: 5
+command: 36
+#
+name: CABLE
+type: parsed
+protocol: velleman
+address: 5
+command: 38
+#
+name: TV
+type: parsed
+protocol: velleman
+address: 5
+command: 39
+#
+name: AUX 1- INPUT6
+type: parsed
+protocol: recs80_45
+address: 5
+command: 40
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 40
+#
+name: SRC 6 (AUX 1)
+type: parsed
+protocol: velleman
+address: 5
+command: 40
+#
+name: AUX 2-INPUT7
+type: parsed
+protocol: recs80_45
+address: 5
+command: 41
+#
+name: SRC 7 (AUX 2)
+type: parsed
+protocol: velleman
+address: 5
+command: 41
+#
+name: AUX 3-INPUT8
+type: parsed
+protocol: recs80_45
+address: 5
+command: 42
+#
+name: SRC 8 (AUX 3)
+type: parsed
+protocol: velleman
+address: 5
+command: 42
+#
+name: AUX4-INPUT9
+type: parsed
+protocol: recs80_45
+address: 5
+command: 43
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 5
+command: 43
+#
+name: SRC 9 (AUX 4)
+type: parsed
+protocol: velleman
+address: 5
+command: 43
+#
+name: AUX5-INPUT10
+type: parsed
+protocol: recs80_45
+address: 5
+command: 44
+#
+name: SRC 10 (AUX 5)
+type: parsed
+protocol: velleman
+address: 5
+command: 44
+#
+name: DBS
+type: parsed
+protocol: velleman
+address: 5
+command: 46
+#

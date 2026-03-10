@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHARACTER
+type: parsed
+protocol: jvc_48
+address: 34.33
+command: 3
+#
+name: ENTER
+type: parsed
+protocol: jvc_48
+address: 34.33
+command: 12
+#
+name: TITLE
+type: parsed
+protocol: jvc_48
+address: 34.33
+command: 19
+#
+name: TITLE INPUT
+type: parsed
+protocol: jvc_48
+address: 34.33
+command: 19
+#
+name: CANCEL
+type: parsed
+protocol: jvc_48
+address: 34.33
+command: 24
+#

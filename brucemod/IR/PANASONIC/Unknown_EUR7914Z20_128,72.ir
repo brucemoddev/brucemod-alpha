@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT_VIDEO
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 3
+#
+name: INPUT_HDMI/PC
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 6
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 61
+#
+name: KEY_UP
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 90
+#
+name: KEY_DOWN
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 91
+#
+name: KEY_LEFT
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 92
+#
+name: KEY_RIGHT
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 93
+#
+name: NORMAL
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 97
+#
+name: PICADJ_CCM
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 110
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 114
+#
+name: KEY_MENU
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 122
+#
+name: PICADJ_MAIN
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 126
+#
+name: PICADJ_ADVANCED
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 127
+#
+name: INPUT_CMPNT
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 128
+#
+name: INPUT_MEMLOAD
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 129
+#
+name: INPUT_PICMODE
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 130
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 144
+#
+name: SHUTTER
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 145
+#
+name: INPUT_ASPECT
+type: parsed
+protocol: panasonic2
+address: 128.72
+command: 222
+#

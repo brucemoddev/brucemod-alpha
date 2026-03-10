@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 0
+#
+name: 10
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 1
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 2
+#
+name: PLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 4
+#
+name: VIDEO/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: SLOW PLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 6
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 8
+#
+name: 11
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 9
+#
+name: RECORD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 12
+#
+name: SLOW MOTION +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 16
+#
+name: 12
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 17
+#
+name: STOP
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 20
+#
+name: SLOW MOTION -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 24
+#
+name: 13
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 25
+#
+name: PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 28
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 32
+#
+name: U1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 33
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 36
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 40
+#
+name: U2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 41
+#
+name: REWIND <<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 44
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 48
+#
+name: U3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 49
+#
+name: FF ADVANCE
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 52
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 56
+#
+name: U4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 57
+#

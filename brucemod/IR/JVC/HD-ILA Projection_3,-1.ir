@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SLEEP TIMER
+type: parsed
+protocol: jvc
+address: 3
+command: 3
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 3
+command: 4
+#
+name: OK
+type: parsed
+protocol: jvc
+address: 3
+command: 10
+#
+name: VIDEO STATUS
+type: parsed
+protocol: jvc
+address: 3
+command: 13
+#
+name: CLOSE CAPTION
+type: parsed
+protocol: jvc
+address: 3
+command: 14
+#
+name: INPUT 1
+type: parsed
+protocol: jvc
+address: 3
+command: 17
+#
+name: INPUT 2
+type: parsed
+protocol: jvc
+address: 3
+command: 18
+#
+name: INPUT 3
+type: parsed
+protocol: jvc
+address: 3
+command: 20
+#
+name: INPUT3
+type: parsed
+protocol: jvc
+address: 3
+command: 20
+#
+name: DIGITAL IN
+type: parsed
+protocol: jvc
+address: 3
+command: 21
+#
+name: POWER
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: POWER (TOGGLE)
+type: parsed
+protocol: jvc
+address: 3
+command: 23
+#
+name: DOWN
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: CHANNEL -
+type: parsed
+protocol: jvc
+address: 3
+command: 24
+#
+name: UP
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: CHANNEL +
+type: parsed
+protocol: jvc
+address: 3
+command: 25
+#
+name: POWER OFF
+type: parsed
+protocol: jvc
+address: 3
+command: 26
+#
+name: INPUT 4
+type: parsed
+protocol: jvc
+address: 3
+command: 27
+#
+name: INPUT4
+type: parsed
+protocol: jvc
+address: 3
+command: 27
+#
+name: MUTE
+type: parsed
+protocol: jvc
+address: 3
+command: 28
+#
+name: POWER ON
+type: parsed
+protocol: jvc
+address: 3
+command: 29
+#
+name: RIGHT
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: VOL UP
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: VOLUME +
+type: parsed
+protocol: jvc
+address: 3
+command: 30
+#
+name: LEFT
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: VOL DN
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: VOLUME -
+type: parsed
+protocol: jvc
+address: 3
+command: 31
+#
+name: 0
+type: parsed
+protocol: jvc
+address: 3
+command: 32
+#
+name: 1
+type: parsed
+protocol: jvc
+address: 3
+command: 33
+#
+name: 2
+type: parsed
+protocol: jvc
+address: 3
+command: 34
+#
+name: 3
+type: parsed
+protocol: jvc
+address: 3
+command: 35
+#
+name: 4
+type: parsed
+protocol: jvc
+address: 3
+command: 36
+#
+name: 5
+type: parsed
+protocol: jvc
+address: 3
+command: 37
+#
+name: 6
+type: parsed
+protocol: jvc
+address: 3
+command: 38
+#
+name: 7
+type: parsed
+protocol: jvc
+address: 3
+command: 39
+#
+name: 8
+type: parsed
+protocol: jvc
+address: 3
+command: 40
+#
+name: 9
+type: parsed
+protocol: jvc
+address: 3
+command: 41
+#
+name: SOUND
+type: parsed
+protocol: jvc
+address: 3
+command: 66
+#
+name: MENU
+type: parsed
+protocol: jvc
+address: 3
+command: 122
+#
+name: MULTISCREEN FREEZE
+type: parsed
+protocol: jvc
+address: 3
+command: 128
+#
+name: MULTISCREEN INDEX
+type: parsed
+protocol: jvc
+address: 3
+command: 130
+#
+name: MULTISCREEN SWAP
+type: parsed
+protocol: jvc
+address: 3
+command: 137
+#
+name: MULTILSCREEN TWIN
+type: parsed
+protocol: jvc
+address: 3
+command: 139
+#
+name: ASPECT
+type: parsed
+protocol: jvc
+address: 3
+command: 147
+#
+name: ASPECT RATIO
+type: parsed
+protocol: jvc
+address: 3
+command: 147
+#
+name: THEATRE PRO
+type: parsed
+protocol: jvc
+address: 3
+command: 213
+#
+name: BACK
+type: parsed
+protocol: jvc
+address: 3
+command: 230
+#

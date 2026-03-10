@@ -1,0 +1,501 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DELAY TIME L&R +
+type: parsed
+protocol: nec1
+address: 13
+command: 1
+#
+name: DELAY TIME L&R -
+type: parsed
+protocol: nec1
+address: 13
+command: 2
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 13
+command: 3
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 13
+command: 4
+#
+name: SS
+type: parsed
+protocol: nec1
+address: 13
+command: 5
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 13
+command: 6
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 13
+command: 7
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 13
+command: 8
+#
+name: FULL MUTE
+type: parsed
+protocol: nec1
+address: 13
+command: 12
+#
+name: ECHO
+type: parsed
+protocol: nec1
+address: 13
+command: 16
+#
+name: DELAY TIME L +
+type: parsed
+protocol: nec1
+address: 13
+command: 24
+#
+name: DELAY TIME L -
+type: parsed
+protocol: nec1
+address: 13
+command: 25
+#
+name: DELAY TIME R +
+type: parsed
+protocol: nec1
+address: 13
+command: 26
+#
+name: DELAY TIME R -
+type: parsed
+protocol: nec1
+address: 13
+command: 27
+#
+name: OUT1
+type: parsed
+protocol: nec1
+address: 13
+command: 28
+#
+name: OUT 1 V
+type: parsed
+protocol: nec1
+address: 13
+command: 29
+#
+name: OUT2
+type: parsed
+protocol: nec1
+address: 13
+command: 30
+#
+name: OUT 2 V
+type: parsed
+protocol: nec1
+address: 13
+command: 31
+#
+name: LEFT ^
+type: parsed
+protocol: nec1
+address: 13
+command: 64
+#
+name: RIGHT ^
+type: parsed
+protocol: nec1
+address: 13
+command: 65
+#
+name: OUT1 L
+type: parsed
+protocol: nec1
+address: 13
+command: 66
+#
+name: OUT1 R
+type: parsed
+protocol: nec1
+address: 13
+command: 67
+#
+name: OUT2 L
+type: parsed
+protocol: nec1
+address: 13
+command: 68
+#
+name: OUT2 R
+type: parsed
+protocol: nec1
+address: 13
+command: 69
+#
+name: MEMO
+type: parsed
+protocol: nec1
+address: 13
+command: 70
+#
+name: BY-PASS
+type: parsed
+protocol: nec1
+address: 13
+command: 71
+#
+name: HALL SURROUND
+type: parsed
+protocol: nec1
+address: 13
+command: 72
+#
+name: MATRIX SURROUND
+type: parsed
+protocol: nec1
+address: 13
+command: 73
+#
+name: DOLBY
+type: parsed
+protocol: nec1
+address: 13
+command: 74
+#
+name: CREATION
+type: parsed
+protocol: nec1
+address: 13
+command: 75
+#
+name: 1 PRESET
+type: parsed
+protocol: nec1
+address: 13
+command: 76
+#
+name: 2 PRESET
+type: parsed
+protocol: nec1
+address: 13
+command: 77
+#
+name: 3 PRESET
+type: parsed
+protocol: nec1
+address: 13
+command: 78
+#
+name: VIDEO1
+type: parsed
+protocol: nec1
+address: 13
+command: 79
+#
+name: VIDEO2
+type: parsed
+protocol: nec1
+address: 13
+command: 80
+#
+name: VIDEO3
+type: parsed
+protocol: nec1
+address: 13
+command: 81
+#
+name: VIDEO4
+type: parsed
+protocol: nec1
+address: 13
+command: 82
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 13
+command: 83
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 13
+command: 84
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 13
+command: 85
+#
+name: AUX1
+type: parsed
+protocol: nec1
+address: 13
+command: 86
+#
+name: AUX2
+type: parsed
+protocol: nec1
+address: 13
+command: 87
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 13
+command: 128
+#
+name: L/R + (DELAY TIME)
+type: parsed
+protocol: nec1
+address: 13
+command: 129
+#
+name: L/R - (DELAY TIME)
+type: parsed
+protocol: nec1
+address: 13
+command: 130
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 13
+command: 131
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 13
+command: 132
+#
+name: CENTER
+type: parsed
+protocol: nec1
+address: 13
+command: 133
+#
+name: METER
+type: parsed
+protocol: nec1
+address: 13
+command: 134
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 13
+command: 135
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 13
+command: 136
+#
+name: TEST TONE
+type: parsed
+protocol: nec1
+address: 13
+command: 138
+#
+name: CENTER MODE
+type: parsed
+protocol: nec1
+address: 13
+command: 139
+#
+name: FULL MUTE
+type: parsed
+protocol: nec1
+address: 13
+command: 140
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 13
+command: 142
+#
+name: ECHO
+type: parsed
+protocol: nec1
+address: 13
+command: 144
+#
+name: L + (DELAY TIME)
+type: parsed
+protocol: nec1
+address: 13
+command: 152
+#
+name: L - (DELAY TIME)
+type: parsed
+protocol: nec1
+address: 13
+command: 153
+#
+name: R + (DELAY TIME)
+type: parsed
+protocol: nec1
+address: 13
+command: 154
+#
+name: R - (DELAY TIME)
+type: parsed
+protocol: nec1
+address: 13
+command: 155
+#
+name: OUT 1 ^
+type: parsed
+protocol: nec1
+address: 13
+command: 156
+#
+name: OUT 1 V
+type: parsed
+protocol: nec1
+address: 13
+command: 157
+#
+name: OUT 2 ^
+type: parsed
+protocol: nec1
+address: 13
+command: 158
+#
+name: OUT 2 V
+type: parsed
+protocol: nec1
+address: 13
+command: 159
+#
+name: OUT 1 L ^
+type: parsed
+protocol: nec1
+address: 13
+command: 194
+#
+name: OUT 1 R ^
+type: parsed
+protocol: nec1
+address: 13
+command: 195
+#
+name: OUT 2 L ^
+type: parsed
+protocol: nec1
+address: 13
+command: 196
+#
+name: OUT 2 R ^
+type: parsed
+protocol: nec1
+address: 13
+command: 197
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 13
+command: 198
+#
+name: STEREO (SURR SLCT)
+type: parsed
+protocol: nec1
+address: 13
+command: 199
+#
+name: DOLBY (SURR SLCT)
+type: parsed
+protocol: nec1
+address: 13
+command: 200
+#
+name: CREATION (SURR SLCT)
+type: parsed
+protocol: nec1
+address: 13
+command: 201
+#
+name: PRESET 1
+type: parsed
+protocol: nec1
+address: 13
+command: 204
+#
+name: PRESET 2
+type: parsed
+protocol: nec1
+address: 13
+command: 205
+#
+name: PRESET 3
+type: parsed
+protocol: nec1
+address: 13
+command: 206
+#
+name: PRESET 4
+type: parsed
+protocol: nec1
+address: 13
+command: 207
+#
+name: PRESET 5
+type: parsed
+protocol: nec1
+address: 13
+command: 208
+#
+name: OUT 1 L V
+type: parsed
+protocol: nec1
+address: 13
+command: 209
+#
+name: OUT 1 R V
+type: parsed
+protocol: nec1
+address: 13
+command: 210
+#
+name: OUT 2 L V
+type: parsed
+protocol: nec1
+address: 13
+command: 211
+#
+name: OUT 2 R V
+type: parsed
+protocol: nec1
+address: 13
+command: 212
+#
+name: CENTER ^
+type: parsed
+protocol: nec1
+address: 13
+command: 213
+#
+name: CENTER V
+type: parsed
+protocol: nec1
+address: 13
+command: 214
+#

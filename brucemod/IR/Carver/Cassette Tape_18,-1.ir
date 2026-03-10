@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: >L
+type: parsed
+protocol: rc5
+address: 18
+command: 32
+#
+name: L<
+type: parsed
+protocol: rc5
+address: 18
+command: 33
+#
+name: S/T
+type: parsed
+protocol: rc5
+address: 18
+command: 38
+#
+name: MEMO
+type: parsed
+protocol: rc5
+address: 18
+command: 41
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 18
+command: 42
+#
+name: <>
+type: parsed
+protocol: rc5
+address: 18
+command: 47
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 18
+command: 48
+#
+name: <<
+type: parsed
+protocol: rc5
+address: 18
+command: 50
+#
+name: >>
+type: parsed
+protocol: rc5
+address: 18
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 18
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 18
+command: 54
+#

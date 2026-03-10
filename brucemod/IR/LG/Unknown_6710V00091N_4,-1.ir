@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 4
+command: 0
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 4
+command: 1
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 4
+command: 2
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 4
+command: 3
+#
+name: JON-WEON
+type: parsed
+protocol: nec
+address: 4
+command: 8
+#
+name: JO-YONG-HI
+type: parsed
+protocol: nec
+address: 4
+command: 9
+#
+name: EUM-SEONG-DA-JUNG
+type: parsed
+protocol: nec
+address: 4
+command: 10
+#
+name: TV/OI-BU-IB-LYEOK
+type: parsed
+protocol: nec
+address: 4
+command: 11
+#
+name: CHWI-CHIM-YE-YAK
+type: parsed
+protocol: nec
+address: 4
+command: 14
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 4
+command: 16
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 4
+command: 17
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 4
+command: 18
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 4
+command: 19
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 4
+command: 20
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 4
+command: 21
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 4
+command: 22
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 4
+command: 23
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 4
+command: 24
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 4
+command: 25
+#
+name: I-JEON-CHAE-NEOL
+type: parsed
+protocol: nec
+address: 4
+command: 26
+#
+name: SEON-HO-CHAE-NEOL
+type: parsed
+protocol: nec
+address: 4
+command: 30
+#
+name: JA-MAG-BANG-SONG
+type: parsed
+protocol: nec
+address: 4
+command: 57
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 4
+command: 67
+#
+name: HAG-IN
+type: parsed
+protocol: nec
+address: 4
+command: 68
+#
+name: JA-DONG-YEONG-SANG
+type: parsed
+protocol: nec
+address: 4
+command: 77
+#
+name: IB-CHE-EUM-HYANG
+type: parsed
+protocol: nec
+address: 4
+command: 82
+#
+name: CHWI-SO
+type: parsed
+protocol: nec
+address: 4
+command: 91
+#
+name: MULTIMEDIA
+type: parsed
+protocol: nec
+address: 4
+command: 152
+#

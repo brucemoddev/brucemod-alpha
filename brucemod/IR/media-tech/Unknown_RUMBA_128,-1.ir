@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 128
+command: 1
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 128
+command: 2
+#
+name: bass+
+type: parsed
+protocol: nec
+address: 128
+command: 3
+#
+name: bass-
+type: parsed
+protocol: nec
+address: 128
+command: 5
+#
+name: surround
+type: parsed
+protocol: nec
+address: 128
+command: 9
+#
+name: KEY_L
+type: parsed
+protocol: nec
+address: 128
+command: 13
+#
+name: sr-
+type: parsed
+protocol: nec
+address: 128
+command: 16
+#
+name: sl+
+type: parsed
+protocol: nec
+address: 128
+command: 17
+#
+name: sl-
+type: parsed
+protocol: nec
+address: 128
+command: 18
+#
+name: c+
+type: parsed
+protocol: nec
+address: 128
+command: 21
+#
+name: c-
+type: parsed
+protocol: nec
+address: 128
+command: 22
+#
+name: sr+
+type: parsed
+protocol: nec
+address: 128
+command: 23
+#
+name: KEY_R
+type: parsed
+protocol: nec
+address: 128
+command: 25
+#
+name: treble+
+type: parsed
+protocol: nec
+address: 128
+command: 26
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 128
+command: 28
+#
+name: input
+type: parsed
+protocol: nec
+address: 128
+command: 29
+#
+name: treble-
+type: parsed
+protocol: nec
+address: 128
+command: 30
+#
+name: preset
+type: parsed
+protocol: nec
+address: 128
+command: 31
+#

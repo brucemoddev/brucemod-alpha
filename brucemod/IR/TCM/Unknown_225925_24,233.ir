@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 24.233
+command: 3
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 24.233
+command: 4
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 24.233
+command: 5
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24.233
+command: 8
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 24.233
+command: 13
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 24.233
+command: 16
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 24.233
+command: 20
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 24.233
+command: 23
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 24.233
+command: 23
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 24.233
+command: 32
+#
+name: KEY_EXIT
+type: parsed
+protocol: nec
+address: 24.233
+command: 37
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 24.233
+command: 39
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 24.233
+command: 70
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 24.233
+command: 71
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 24.233
+command: 72
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 24.233
+command: 73
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 24.233
+command: 74
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 24.233
+command: 75
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 24.233
+command: 92
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 24.233
+command: 93
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 24.233
+command: 94
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 24.233
+command: 95
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 24.233
+command: 137
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 24.233
+command: 139
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 24.233
+command: 140
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 24.233
+command: 198
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 24.233
+command: 241
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 24.233
+command: 250
+#

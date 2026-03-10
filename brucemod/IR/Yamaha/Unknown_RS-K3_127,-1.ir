@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 127
+command: 0
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 127
+command: 1
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 127
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 127
+command: 3
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 127
+command: 4
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 127
+command: 5
+#
+name: SEARCH_FORWARD
+type: parsed
+protocol: nec
+address: 127
+command: 10
+#
+name: SEARCH_REVERSE
+type: parsed
+protocol: nec
+address: 127
+command: 11
+#
+name: INTRO_SCAN_FORWARD
+type: parsed
+protocol: nec
+address: 127
+command: 30
+#
+name: INTRO_SCAN_REVERSE
+type: parsed
+protocol: nec
+address: 127
+command: 31
+#

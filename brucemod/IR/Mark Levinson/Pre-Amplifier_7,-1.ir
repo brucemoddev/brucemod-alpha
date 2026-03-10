@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 9
+#
+name: MONO
+type: parsed
+protocol: recs80_45
+address: 7
+command: 10
+#
+name: 1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: MODE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 12
+#
+name: 4
+type: parsed
+protocol: recs80_45
+address: 7
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: recs80_45
+address: 7
+command: 14
+#
+name: POLARITY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: 6
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: DISPLAY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: DISPLAY INTENSITY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: 3
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: 2
+type: parsed
+protocol: recs80_45
+address: 7
+command: 28
+#
+name: 5
+type: parsed
+protocol: recs80_45
+address: 7
+command: 29
+#
+name: VOLUME -
+type: parsed
+protocol: recs80_45
+address: 7
+command: 30
+#

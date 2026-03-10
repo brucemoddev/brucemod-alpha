@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 135.34
+command: 53
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 135.34
+command: 63
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.34
+command: 69
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.34
+command: 72
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.34
+command: 73
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.34
+command: 74
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.34
+command: 75
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 135.34
+command: 76
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 135.34
+command: 77
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 135.34
+command: 78
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 135.34
+command: 82
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 135.34
+command: 83
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 135.34
+command: 91
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 135.34
+command: 93
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 135.34
+command: 94
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 135.34
+command: 95
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 96
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 135.34
+command: 113
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 135.34
+command: 114
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 135.34
+command: 115
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 116
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 135.34
+command: 117
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 135.34
+command: 118
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 135.34
+command: 119
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 135.34
+command: 120
+#

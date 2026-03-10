@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 210.109
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 210.109
+command: 3
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 210.109
+command: 4
+#
+name: MUTING
+type: parsed
+protocol: nec1
+address: 210.109
+command: 5
+#
+name: TAPE/DAT
+type: parsed
+protocol: nec1
+address: 210.109
+command: 8
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 210.109
+command: 9
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 210.109
+command: 10
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.109
+command: 11
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 13
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 14
+#
+name: VDP
+type: parsed
+protocol: nec1
+address: 210.109
+command: 15
+#
+name: DBS
+type: parsed
+protocol: nec1
+address: 210.109
+command: 17
+#
+name: REAR LEVEL +
+type: parsed
+protocol: nec2
+address: 210.109
+command: 66
+#
+name: REAR LEVEL -
+type: parsed
+protocol: nec2
+address: 210.109
+command: 67
+#
+name: SURROUND MODE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 76
+#
+name: DELAY TIME
+type: parsed
+protocol: nec1
+address: 210.109
+command: 83
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: nec2
+address: 210.109
+command: 128
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: nec2
+address: 210.109
+command: 129
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 210.109
+command: 130
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 210.109
+command: 131
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 210.109
+command: 132
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 210.109
+command: 133
+#
+name: ENTER/ESCAPE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 151
+#
+name: TEST TONE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 154
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 210.109
+command: 156
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 210.109
+command: 157
+#
+name: PRESET 1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 208
+#
+name: PRESET 2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 209
+#
+name: PRESET 3
+type: parsed
+protocol: nec1
+address: 210.109
+command: 210
+#
+name: PRESET 4
+type: parsed
+protocol: nec1
+address: 210.109
+command: 211
+#
+name: PRESET 5
+type: parsed
+protocol: nec1
+address: 210.109
+command: 212
+#

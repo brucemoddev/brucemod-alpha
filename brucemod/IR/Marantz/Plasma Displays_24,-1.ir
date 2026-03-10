@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 24
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 24
+command: 3
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 24
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 24
+command: 9
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 24
+command: 10
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 24
+command: 15
+#
+name: AUTO ADJUST
+type: parsed
+protocol: nec1
+address: 24
+command: 31
+#
+name: CONTRAST +
+type: parsed
+protocol: nec1
+address: 24
+command: 70
+#
+name: CONTRAST -
+type: parsed
+protocol: nec1
+address: 24
+command: 71
+#
+name: COLOR +
+type: parsed
+protocol: nec1
+address: 24
+command: 72
+#
+name: COLOR -
+type: parsed
+protocol: nec1
+address: 24
+command: 73
+#
+name: BRIGHTNESS+
+type: parsed
+protocol: nec2
+address: 24
+command: 74
+#
+name: TINT +
+type: parsed
+protocol: nec2
+address: 24
+command: 76
+#
+name: TINT -
+type: parsed
+protocol: nec1
+address: 24
+command: 77
+#
+name: SHARPNESS +
+type: parsed
+protocol: nec2
+address: 24
+command: 78
+#
+name: SHARPNESS -
+type: parsed
+protocol: nec2
+address: 24
+command: 79
+#
+name: VIDEO 1
+type: parsed
+protocol: nec2
+address: 24
+command: 85
+#
+name: VIDEO 2
+type: parsed
+protocol: nec2
+address: 24
+command: 86
+#
+name: VIDEO 3
+type: parsed
+protocol: nec2
+address: 24
+command: 87
+#
+name: RGB/PC
+type: parsed
+protocol: nec1
+address: 24
+command: 88
+#

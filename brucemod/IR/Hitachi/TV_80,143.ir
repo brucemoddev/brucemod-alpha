@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SCREEN 16:9
+type: parsed
+protocol: nec1
+address: 80.143
+command: 111
+#

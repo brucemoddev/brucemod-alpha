@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SET +
+type: parsed
+protocol: emerson
+address: 41
+command: 6
+#
+name: SET -
+type: parsed
+protocol: emerson
+address: 41
+command: 7
+#
+name: CHANNEL -
+type: parsed
+protocol: emerson
+address: 41
+command: 8
+#
+name: SLEEP
+type: parsed
+protocol: emerson
+address: 41
+command: 11
+#
+name: DISPLAY
+type: parsed
+protocol: emerson
+address: 41
+command: 15
+#
+name: CHANNEL +
+type: parsed
+protocol: emerson
+address: 41
+command: 16
+#
+name: 1
+type: parsed
+protocol: emerson
+address: 41
+command: 31
+#
+name: POWER
+type: parsed
+protocol: emerson
+address: 41
+command: 32
+#
+name: 2
+type: parsed
+protocol: emerson
+address: 41
+command: 33
+#
+name: 3
+type: parsed
+protocol: emerson
+address: 41
+command: 34
+#
+name: 4
+type: parsed
+protocol: emerson
+address: 41
+command: 35
+#
+name: 5
+type: parsed
+protocol: emerson
+address: 41
+command: 36
+#
+name: 6
+type: parsed
+protocol: emerson
+address: 41
+command: 37
+#
+name: 7
+type: parsed
+protocol: emerson
+address: 41
+command: 38
+#
+name: 8
+type: parsed
+protocol: emerson
+address: 41
+command: 39
+#
+name: 9
+type: parsed
+protocol: emerson
+address: 41
+command: 40
+#
+name: 0
+type: parsed
+protocol: emerson
+address: 41
+command: 41
+#
+name: SELECT
+type: parsed
+protocol: emerson
+address: 41
+command: 46
+#
+name: MENU
+type: parsed
+protocol: emerson
+address: 41
+command: 47
+#
+name: VOLUME +
+type: parsed
+protocol: emerson
+address: 41
+command: 48
+#
+name: VOLUME -
+type: parsed
+protocol: emerson
+address: 41
+command: 49
+#
+name: MUTE
+type: parsed
+protocol: emerson
+address: 41
+command: 51
+#

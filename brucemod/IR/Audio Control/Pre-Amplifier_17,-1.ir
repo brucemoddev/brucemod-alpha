@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NUMBER 0
+type: parsed
+protocol: rc5
+address: 17
+command: 0
+#
+name: NUMBER 1
+type: parsed
+protocol: rc5
+address: 17
+command: 1
+#
+name: NUMBER 2
+type: parsed
+protocol: rc5
+address: 17
+command: 2
+#
+name: NUMBER 3
+type: parsed
+protocol: rc5
+address: 17
+command: 3
+#
+name: NUMBER 4
+type: parsed
+protocol: rc5
+address: 17
+command: 4
+#
+name: NUMBER 5
+type: parsed
+protocol: rc5
+address: 17
+command: 5
+#
+name: NUMBER 6
+type: parsed
+protocol: rc5
+address: 17
+command: 6
+#
+name: NUMBER 7
+type: parsed
+protocol: rc5
+address: 17
+command: 7
+#
+name: NUMBER 8
+type: parsed
+protocol: rc5
+address: 17
+command: 8
+#
+name: NUMBER 9
+type: parsed
+protocol: rc5
+address: 17
+command: 9
+#
+name: PAGE DOWN
+type: parsed
+protocol: rc5
+address: 17
+command: 37
+#
+name: PAGE UP
+type: parsed
+protocol: rc5
+address: 17
+command: 38
+#
+name: DELETE PRESET
+type: parsed
+protocol: rc5
+address: 17
+command: 41
+#
+name: PRESET DOWN (TUNER)
+type: parsed
+protocol: rc5
+address: 17
+command: 85
+#
+name: PRESET UP (TUNE)
+type: parsed
+protocol: rc5
+address: 17
+command: 86
+#

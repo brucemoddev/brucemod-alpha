@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 184.3
+command: 25
+#
+name: VCR 1
+type: parsed
+protocol: nec2
+address: 184.3
+command: 29
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: V/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VCRA TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: TV PIP VCR CH ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: TV PIP VCR CH V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCRA INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 26
+#
+name: QUICK PROGRAM
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 51
+#
+name: VCRA INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: INPUT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: VCRB TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 133
+#
+name: VCRB INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 154
+#
+name: VCRB INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 186
+#

@@ -1,0 +1,471 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER PRESET >
+type: parsed
+protocol: nec2
+address: 210.109
+command: 0
+#
+name: TUNER PRESET <
+type: parsed
+protocol: nec2
+address: 210.109
+command: 1
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 210.109
+command: 2
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 210.109
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 210.109
+command: 3
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 210.109
+command: 3
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 210.109
+command: 4
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 5
+#
+name: AUDIO MUTING
+type: parsed
+protocol: nec1
+address: 210.109
+command: 5
+#
+name: MUTING
+type: parsed
+protocol: nec1
+address: 210.109
+command: 5
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 210.109
+command: 6
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 7
+#
+name: TAPE-2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 7
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 8
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 8
+#
+name: TAPE-1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 8
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 210.109
+command: 9
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 9
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 210.109
+command: 10
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 11
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.109
+command: 11
+#
+name: VIDEO-2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 13
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 14
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 14
+#
+name: VIDEO-1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 14
+#
+name: VIDEO-2
+type: parsed
+protocol: nec1
+address: 210.109
+command: 14
+#
+name: 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 15
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 15
+#
+name: VIDEO-1
+type: parsed
+protocol: nec1
+address: 210.109
+command: 15
+#
+name: DECK-B STOP []
+type: parsed
+protocol: nec1
+address: 210.109
+command: 19
+#
+name: DECK-B PLAY >
+type: parsed
+protocol: nec1
+address: 210.109
+command: 21
+#
+name: DECK-B R.PLAY <
+type: parsed
+protocol: nec1
+address: 210.109
+command: 22
+#
+name: DECK-B REC/PAUSE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 24
+#
+name: DECK-B FFWD >>
+type: parsed
+protocol: nec1
+address: 210.109
+command: 25
+#
+name: DECK-B REW <<
+type: parsed
+protocol: nec1
+address: 210.109
+command: 26
+#
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 210.109
+command: 27
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 210.109
+command: 28
+#
+name: CD SKIP >>
+type: parsed
+protocol: nec1
+address: 210.109
+command: 29
+#
+name: CD SKIP <<
+type: parsed
+protocol: nec1
+address: 210.109
+command: 30
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec1
+address: 210.109
+command: 31
+#
+name: REAR LEVEL UP
+type: parsed
+protocol: nec2
+address: 210.109
+command: 66
+#
+name: REAR LEVEL DOWN
+type: parsed
+protocol: nec2
+address: 210.109
+command: 67
+#
+name: SOURCE DIRECT
+type: parsed
+protocol: nec1
+address: 210.109
+command: 68
+#
+name: DIRECT
+type: parsed
+protocol: nec1
+address: 210.109
+command: 68
+#
+name: TUNER CLASS
+type: parsed
+protocol: nec1
+address: 210.109
+command: 74
+#
+name: SUR MODE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 76
+#
+name: SURROUND MODE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 76
+#
+name: DECK-A STOP []
+type: parsed
+protocol: nec1
+address: 210.109
+command: 77
+#
+name: DECK-A PLAY >
+type: parsed
+protocol: nec1
+address: 210.109
+command: 78
+#
+name: DECK-A R.PLAY <
+type: parsed
+protocol: nec1
+address: 210.109
+command: 79
+#
+name: DECK-A REC/PAUSE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 80
+#
+name: DECK-A FFWD >>
+type: parsed
+protocol: nec1
+address: 210.109
+command: 81
+#
+name: DECK-A REW <<
+type: parsed
+protocol: nec1
+address: 210.109
+command: 82
+#
+name: DELAY TIME
+type: parsed
+protocol: nec1
+address: 210.109
+command: 83
+#
+name: A SPEAKERS
+type: parsed
+protocol: nec1
+address: 210.109
+command: 89
+#
+name: MAIN SPEAKERS
+type: parsed
+protocol: nec1
+address: 210.109
+command: 89
+#
+name: MULTIROOM ON/OFF
+type: parsed
+protocol: nec1
+address: 210.109
+command: 90
+#
+name: B SPEAKERS
+type: parsed
+protocol: nec1
+address: 210.109
+command: 90
+#
+name: REMOTE SPEAKERS
+type: parsed
+protocol: nec1
+address: 210.109
+command: 90
+#
+name: DISC
+type: parsed
+protocol: nec1
+address: 210.109
+command: 92
+#
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 210.109
+command: 92
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 210.109
+command: 93
+#
+name: PHONO PLAY/REJECT
+type: parsed
+protocol: nec1
+address: 210.109
+command: 95
+#
+name: CENTER UP
+type: parsed
+protocol: nec2
+address: 210.109
+command: 128
+#
+name: CENTER DOWN
+type: parsed
+protocol: nec2
+address: 210.109
+command: 129
+#
+name: CENTER OFF/ON
+type: parsed
+protocol: nec1
+address: 210.109
+command: 152
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 210.109
+command: 154
+#
+name: MULTIROOM VOL+
+type: parsed
+protocol: nec2
+address: 210.109
+command: 194
+#
+name: SIMUL SOURCE UP
+type: parsed
+protocol: nec2
+address: 210.109
+command: 194
+#
+name: MULTIROOM VOL-
+type: parsed
+protocol: nec2
+address: 210.109
+command: 195
+#
+name: SIMUL SOURCE DOWN
+type: parsed
+protocol: nec2
+address: 210.109
+command: 195
+#
+name: MULTIROOM CD
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#
+name: MULTIROOM DVD
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#
+name: MULTIROOM TAPE 1
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#
+name: MULTIROOM TUNER
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#
+name: MULTIROOM VIDEO 1
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#
+name: MULTIROOM VIDEO 2
+type: parsed
+protocol: nec
+address: 210.109
+command: 204
+#
+name: SIMUL SOURCE
+type: parsed
+protocol: nec1
+address: 210.109
+command: 204
+#

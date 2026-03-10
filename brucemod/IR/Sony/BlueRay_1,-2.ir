@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: sony20
+address: 90.28
+command: 21
+#
+name: OPEN_CLOSE
+type: parsed
+protocol: sony20
+address: 90.28
+command: 22
+#
+name: TV_INPUT
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: TV_POWER
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: red
+type: parsed
+protocol: sony20
+address: 90.28
+command: 103
+#
+name: green
+type: parsed
+protocol: sony20
+address: 90.28
+command: 104
+#
+name: Yellow
+type: parsed
+protocol: sony20
+address: 90.28
+command: 105
+#
+name: blue
+type: parsed
+protocol: sony20
+address: 90.28
+command: 102
+#
+name: Up
+type: parsed
+protocol: sony20
+address: 90.28
+command: 57
+#
+name: Down
+type: parsed
+protocol: sony20
+address: 90.28
+command: 58
+#
+name: Left
+type: parsed
+protocol: sony20
+address: 90.28
+command: 59
+#
+name: Right
+type: parsed
+protocol: sony20
+address: 90.28
+command: 60
+#
+name: enter
+type: parsed
+protocol: sony20
+address: 90.28
+command: 61
+#
+name: top_menu
+type: parsed
+protocol: sony20
+address: 90.28
+command: 44
+#
+name: POP_UP_MENU
+type: parsed
+protocol: sony20
+address: 90.28
+command: 41
+#
+name: return
+type: parsed
+protocol: sony20
+address: 90.28
+command: 67
+#
+name: OPTIONS
+type: parsed
+protocol: sony20
+address: 90.28
+command: 63
+#
+name: home
+type: parsed
+protocol: sony20
+address: 90.28
+command: 66
+#
+name: FAVORITE
+type: parsed
+protocol: sony20
+address: 90.28
+command: 94
+#
+name: NETFLIX
+type: parsed
+protocol: sony20
+address: 90.28
+command: 75
+#
+name: Play
+type: parsed
+protocol: sony20
+address: 90.28
+command: 26
+#
+name: Pause
+type: parsed
+protocol: sony20
+address: 90.28
+command: 25
+#
+name: Stop
+type: parsed
+protocol: sony20
+address: 90.28
+command: 24
+#
+name: FAST_FORWARD
+type: parsed
+protocol: sony20
+address: 90.28
+command: 28
+#
+name: rewind
+type: parsed
+protocol: sony20
+address: 90.28
+command: 27
+#
+name: Prev
+type: parsed
+protocol: sony20
+address: 90.28
+command: 87
+#
+name: Next
+type: parsed
+protocol: sony20
+address: 90.28
+command: 86
+#
+name: Vol_Up
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: VOL_DN
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: Mute
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: SUBSTILE
+type: parsed
+protocol: sony20
+address: 90.28
+command: 99
+#
+name: Audio
+type: parsed
+protocol: sony20
+address: 90.28
+command: 100
+#
+name: display
+type: parsed
+protocol: sony20
+address: 90.28
+command: 65
+#

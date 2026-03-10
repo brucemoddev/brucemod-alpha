@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER - ON
+type: parsed
+protocol: fujitsu
+address: 132
+command: 1
+#
+name: POWER - OFF
+type: parsed
+protocol: fujitsu
+address: 132
+command: 2
+#
+name: INPUT - VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 5
+#
+name: INPUT - RGB
+type: parsed
+protocol: fujitsu
+address: 132
+command: 8
+#
+name: VOLUME - UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 132
+command: 64
+#
+name: CURSOR - UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: WIDE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 128
+#

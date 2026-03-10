@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 0
+#
+name: POWER ON
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 1
+#
+name: 
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 1
+#
+name: POWER
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 2
+#
+name: 1
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 4
+#
+name: 2
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 5
+#
+name: 3
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 6
+#
+name: 4
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 8
+#
+name: 5
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 9
+#
+name: 6
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 10
+#
+name: MENU
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 11
+#
+name: 7
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 12
+#
+name: 8
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 13
+#
+name: 9
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 14
+#
+name: CURSOR ENTER
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 16
+#
+name: ENTER
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 16
+#
+name: SELECT/OK
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 16
+#
+name: 0
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 17
+#
+name: >
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 17
+#
+name: CANCEL
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 18
+#
+name: GUIDE
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 20
+#
+name: VIEW
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 22
+#
+name: VIEW TV
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 22
+#
+name: TV/VIDEO
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 23
+#
+name: SD/HD/INPUT
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 23
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 24
+#
+name: BROWSE
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 26
+#
+name: CURSOR UP
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 26
+#
+name: PAGE UP
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 26
+#
+name: RECALL
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 27
+#
+name: CURSOR LEFT
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 28
+#
+name: THEMES
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 28
+#
+name: CHANNEL -
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 30
+#
+name: CURSOR DOWN
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 30
+#
+name: PAGE DOWN
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 30
+#
+name: RECORD
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 31
+#
+name: PAUSE
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 32
+#
+name: STOP
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 33
+#
+name: * FORMAT
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 37
+#
+name: </FORMAT
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 37
+#
+name: # SEARCH
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 38
+#
+name: SEARCH
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 38
+#
+name: POWER OFF
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 39
+#
+name: R
+type: parsed
+protocol: dish_netwo
+address: 0.5
+command: 47
+#

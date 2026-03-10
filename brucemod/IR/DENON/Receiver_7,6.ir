@@ -1,0 +1,381 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 2
+#
+name: ON
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 2
+#
+name: POWER OFF
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 3
+#
+name: OFF
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 3
+#
+name: MAIN ON
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 6
+#
+name: MAIN OFF
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 7
+#
+name: 1
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 16
+#
+name: 2
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 17
+#
+name: 3
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 18
+#
+name: 4
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 19
+#
+name: 5
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 20
+#
+name: 6
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 21
+#
+name: 7
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 22
+#
+name: 8
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 23
+#
+name: 9
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 24
+#
+name: 0
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 25
+#
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 27
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 28
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 29
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 30
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 31
+#
+name: INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 48
+#
+name: PHONO
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 48
+#
+name: INPUT TUNER
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 49
+#
+name: INPUT CD
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 50
+#
+name: CD
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 50
+#
+name: INPUT CD-R
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 51
+#
+name: INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 59
+#
+name: IPOD
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 59
+#
+name: INPUT DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 64
+#
+name: DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 64
+#
+name: INPUT VCR
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 69
+#
+name: INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 73
+#
+name: TUNE +
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 80
+#
+name: TUNING +
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 80
+#
+name: TUNE -
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 81
+#
+name: TUNING -
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 81
+#
+name: CHAN +
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 82
+#
+name: CHANNEL +
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 82
+#
+name: CHAN -
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 83
+#
+name: CHANNEL -
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 83
+#
+name: TUNER SHIFT
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 84
+#
+name: SHIFT
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 84
+#
+name: TUNER FM/AM
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 87
+#
+name: FM/AM
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 87
+#
+name: BAND
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 88
+#
+name: TUNER XM RADIO
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 91
+#
+name: XM RADIO
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 91
+#
+name: TUNER BAND
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 92
+#
+name: TUNER MODE
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 92
+#
+name: TUNE MEMORY
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 96
+#
+name: TUNER MEMORY
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 96
+#
+name: MENU
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 118
+#
+name: +10 SEARCH
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 120
+#
+name: +10
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 120
+#
+name: PURE DIRECT
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 259
+#
+name: VOLUME +
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 272
+#
+name: VOLUME -
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 273
+#
+name: VOLUME MUTE
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 274
+#
+name: MUTE
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 274
+#
+name: VIDEO SELECT
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 368
+#
+name: STATUS
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 400
+#
+name: DIMMER
+type: parsed
+protocol: Denon-K
+address: 7.6
+command: 416
+#

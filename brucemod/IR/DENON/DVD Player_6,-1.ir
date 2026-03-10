@@ -1,0 +1,117 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: denon
+address: 6
+command: 192
+#
+name: OFF
+type: parsed
+protocol: denon
+address: 6
+command: 192
+#
+name: DVD OFF
+type: parsed
+protocol: denon
+address: 6
+command: 192
+#
+name: SUPER AUDIO CD SETUP
+type: parsed
+protocol: denon
+address: 6
+command: 205
+#
+name: CD/STEREO/MULTI
+type: parsed
+protocol: denon
+address: 6
+command: 205
+#
+name: SUPER AUDIO CD SET
+type: parsed
+protocol: denon
+address: 6
+command: 205
+#
+name: HDMI/DVI FORMAT
+type: parsed
+protocol: denon
+address: 6
+command: 208
+#
+name: HDMI FORMAT
+type: parsed
+protocol: denon
+address: 6
+command: 208
+#
+name: PURE DIRECT SELECT
+type: parsed
+protocol: denon
+address: 6
+command: 212
+#
+name: HDMI/DVI SELECT
+type: parsed
+protocol: denon
+address: 6
+command: 213
+#
+name: HDMI/ DVI SELECT
+type: parsed
+protocol: denon
+address: 6
+command: 213
+#
+name: HDMI SELECT
+type: parsed
+protocol: denon
+address: 6
+command: 213
+#
+name: DISC EXCHANGE
+type: parsed
+protocol: denon
+address: 6
+command: 250
+#
+name: PAGE -
+type: parsed
+protocol: denon
+address: 6
+command: 253
+#
+name: PAGE-
+type: parsed
+protocol: denon
+address: 6
+command: 253
+#
+name: PAGE --
+type: parsed
+protocol: denon
+address: 6
+command: 253
+#
+name: PAGE +
+type: parsed
+protocol: denon
+address: 6
+command: 254
+#
+name: PAGE+
+type: parsed
+protocol: denon
+address: 6
+command: 254
+#
+name: GROUP
+type: parsed
+protocol: denon
+address: 6
+command: 255
+#

@@ -1,0 +1,999 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: V.POS
+type: parsed
+protocol: nec1
+address: 209
+command: 32
+#
+name: V.POS UP
+type: parsed
+protocol: nec1
+address: 209
+command: 33
+#
+name: V.POS DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 34
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 35
+#
+name: ZOOM UP
+type: parsed
+protocol: nec1
+address: 209
+command: 36
+#
+name: ZOOM DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 37
+#
+name: FOCUS
+type: parsed
+protocol: nec1
+address: 209
+command: 38
+#
+name: FOCUS UP
+type: parsed
+protocol: nec1
+address: 209
+command: 39
+#
+name: FOCUS DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 40
+#
+name: IRIS
+type: parsed
+protocol: nec1
+address: 209
+command: 41
+#
+name: IRIS UP
+type: parsed
+protocol: nec1
+address: 209
+command: 42
+#
+name: IRIS DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 43
+#
+name: ASPECT CINEMA ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 48
+#
+name: ASPECT CIN SQUEEZE
+type: parsed
+protocol: nec1
+address: 209
+command: 49
+#
+name: ASPECT CIN 16:9 ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 50
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 96
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 209
+command: 97
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 209
+command: 98
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 99
+#
+name: HIDE OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 100
+#
+name: HIDE ON
+type: parsed
+protocol: nec1
+address: 209
+command: 101
+#
+name: HIDE TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 102
+#
+name: PATTERN OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 103
+#
+name: PATTERN ON
+type: parsed
+protocol: nec1
+address: 209
+command: 104
+#
+name: PATTERN TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 105
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 209
+command: 106
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 209
+command: 108
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 109
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 209
+command: 110
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 209
+command: 111
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 209
+command: 112
+#
+name: MENU OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 113
+#
+name: MENU ON
+type: parsed
+protocol: nec1
+address: 209
+command: 114
+#
+name: MENU TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 115
+#
+name: ESCAPE
+type: parsed
+protocol: nec1
+address: 209
+command: 117
+#
+name: INPUT TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 118
+#
+name: S VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 120
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 121
+#
+name: INPUT A
+type: parsed
+protocol: nec1
+address: 209
+command: 122
+#
+name: INPUT B
+type: parsed
+protocol: nec1
+address: 209
+command: 123
+#
+name: HDMI
+type: parsed
+protocol: nec1
+address: 209
+command: 124
+#
+name: D4
+type: parsed
+protocol: nec1
+address: 209
+command: 125
+#
+name: STILL OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 126
+#
+name: STILL ON
+type: parsed
+protocol: nec1
+address: 209
+command: 127
+#
+name: STILL TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 128
+#
+name: MEMORY 1
+type: parsed
+protocol: nec1
+address: 209
+command: 129
+#
+name: MEMORY 2
+type: parsed
+protocol: nec1
+address: 209
+command: 130
+#
+name: MEMORY 3
+type: parsed
+protocol: nec1
+address: 209
+command: 131
+#
+name: MEMORY 4
+type: parsed
+protocol: nec1
+address: 209
+command: 132
+#
+name: MEMORY 5
+type: parsed
+protocol: nec1
+address: 209
+command: 133
+#
+name: MEMORY 6
+type: parsed
+protocol: nec1
+address: 209
+command: 134
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 209
+command: 138
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: nec1
+address: 209
+command: 139
+#
+name: ASPECT ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 140
+#
+name: ASPECT ZOOM TITLE
+type: parsed
+protocol: nec1
+address: 209
+command: 141
+#
+name: ASPECT SQUEEZE
+type: parsed
+protocol: nec1
+address: 209
+command: 142
+#
+name: ASPECT THROUGH
+type: parsed
+protocol: nec1
+address: 209
+command: 143
+#
+name: ASPECT AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 144
+#
+name: ASPECT THRU SQUEEZE
+type: parsed
+protocol: nec1
+address: 209
+command: 145
+#
+name: ASPECT SMART ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 146
+#
+name: INPUT A COMPONENT
+type: parsed
+protocol: nec1
+address: 209
+command: 147
+#
+name: INPUT A RGB PC
+type: parsed
+protocol: nec1
+address: 209
+command: 148
+#
+name: INPUT A RGB TV
+type: parsed
+protocol: nec1
+address: 209
+command: 149
+#
+name: INPUT B COMPONENT
+type: parsed
+protocol: nec1
+address: 209
+command: 150
+#
+name: INPUT B RGB PC
+type: parsed
+protocol: nec1
+address: 209
+command: 151
+#
+name: INPUT B RGB TV
+type: parsed
+protocol: nec1
+address: 209
+command: 152
+#
+name: HDMI COMPONENT
+type: parsed
+protocol: nec1
+address: 209
+command: 153
+#
+name: HDMI RGB TV
+type: parsed
+protocol: nec1
+address: 209
+command: 155
+#
+name: HDMI AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 156
+#
+name: V.POS
+type: parsed
+protocol: nec1
+address: 209
+command: 160
+#
+name: V.POS UP
+type: parsed
+protocol: nec1
+address: 209
+command: 161
+#
+name: V.POS DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 162
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 163
+#
+name: ZOOM UP
+type: parsed
+protocol: nec1
+address: 209
+command: 164
+#
+name: ZOOM DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 165
+#
+name: FOCUS
+type: parsed
+protocol: nec1
+address: 209
+command: 166
+#
+name: FOCUS UP
+type: parsed
+protocol: nec1
+address: 209
+command: 167
+#
+name: FOCUS DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 168
+#
+name: IRIS
+type: parsed
+protocol: nec1
+address: 209
+command: 169
+#
+name: IRIS UP
+type: parsed
+protocol: nec1
+address: 209
+command: 170
+#
+name: IRIS DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 171
+#
+name: ASPECT CINEMA ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 176
+#
+name: ASPECT CIN SQUEEZE
+type: parsed
+protocol: nec1
+address: 209
+command: 177
+#
+name: ASPECT CIN 16:9 ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 178
+#
+name: DVI RGB-PC
+type: parsed
+protocol: nec2
+address: 209
+command: 185
+#
+name: DVI RGB-TV
+type: parsed
+protocol: nec2
+address: 209
+command: 186
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 192
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 209
+command: 193
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 209
+command: 194
+#
+name: POWER TOGGLE
+type: parsed
+protocol: nec1
+address: 209
+command: 194
+#
+name: AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 195
+#
+name: HIDE OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 196
+#
+name: HIDE ON
+type: parsed
+protocol: nec1
+address: 209
+command: 197
+#
+name: HIDE
+type: parsed
+protocol: nec1
+address: 209
+command: 198
+#
+name: HIDE TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 198
+#
+name: PATTERN OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 199
+#
+name: PATTERN ON
+type: parsed
+protocol: nec1
+address: 209
+command: 200
+#
+name: PATT
+type: parsed
+protocol: nec1
+address: 209
+command: 201
+#
+name: PATTERN TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 201
+#
+name: PATTERN
+type: parsed
+protocol: nec1
+address: 209
+command: 201
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 209
+command: 202
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 209
+command: 204
+#
+name: ARROW UP
+type: parsed
+protocol: nec1
+address: 209
+command: 204
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 205
+#
+name: ARROW DOWN
+type: parsed
+protocol: nec1
+address: 209
+command: 205
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 209
+command: 206
+#
+name: -
+type: parsed
+protocol: nec1
+address: 209
+command: 206
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 209
+command: 207
+#
+name: +
+type: parsed
+protocol: nec1
+address: 209
+command: 207
+#
+name: CURSOR SELECT
+type: parsed
+protocol: nec1
+address: 209
+command: 208
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 209
+command: 208
+#
+name: RETURN <--
+type: parsed
+protocol: nec1
+address: 209
+command: 208
+#
+name: MENU OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 209
+#
+name: MENU ON
+type: parsed
+protocol: nec1
+address: 209
+command: 210
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 209
+command: 211
+#
+name: MENU TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 211
+#
+name: DVI
+type: parsed
+protocol: nec2
+address: 209
+command: 212
+#
+name: ESCAPE
+type: parsed
+protocol: nec1
+address: 209
+command: 213
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 209
+command: 214
+#
+name: INPUT TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 214
+#
+name: PICTURE
+type: parsed
+protocol: nec1
+address: 209
+command: 215
+#
+name: S-VID
+type: parsed
+protocol: nec1
+address: 209
+command: 216
+#
+name: S VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 216
+#
+name: INPUT: S-VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 216
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 217
+#
+name: INPUT: VIDEO
+type: parsed
+protocol: nec1
+address: 209
+command: 217
+#
+name: INPUT A
+type: parsed
+protocol: nec1
+address: 209
+command: 218
+#
+name: INPUT: A (COMPNENT)
+type: parsed
+protocol: nec1
+address: 209
+command: 218
+#
+name: INPUT B
+type: parsed
+protocol: nec1
+address: 209
+command: 219
+#
+name: INPUT: B (DB-15)
+type: parsed
+protocol: nec1
+address: 209
+command: 219
+#
+name: HDMI
+type: parsed
+protocol: nec1
+address: 209
+command: 220
+#
+name: INPUT: DVI
+type: parsed
+protocol: nec1
+address: 209
+command: 220
+#
+name: D4
+type: parsed
+protocol: nec1
+address: 209
+command: 221
+#
+name: INPUT: D4
+type: parsed
+protocol: nec1
+address: 209
+command: 221
+#
+name: STILL OFF
+type: parsed
+protocol: nec1
+address: 209
+command: 222
+#
+name: STILL
+type: parsed
+protocol: nec1
+address: 209
+command: 223
+#
+name: STILL ON
+type: parsed
+protocol: nec1
+address: 209
+command: 223
+#
+name: STILL TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 223
+#
+name: STILL TOG
+type: parsed
+protocol: nec1
+address: 209
+command: 224
+#
+name: STILL ON
+type: parsed
+protocol: nec1
+address: 209
+command: 224
+#
+name: MEMORY 1
+type: parsed
+protocol: nec1
+address: 209
+command: 225
+#
+name: MEMORY 2
+type: parsed
+protocol: nec1
+address: 209
+command: 226
+#
+name: MEMORY 3
+type: parsed
+protocol: nec1
+address: 209
+command: 227
+#
+name: MEMORY 4
+type: parsed
+protocol: nec1
+address: 209
+command: 228
+#
+name: MEMORY 5
+type: parsed
+protocol: nec1
+address: 209
+command: 229
+#
+name: MEMORY 6
+type: parsed
+protocol: nec1
+address: 209
+command: 230
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 209
+command: 234
+#
+name: ASPECT TOGGLE
+type: parsed
+protocol: nec1
+address: 209
+command: 234
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: nec1
+address: 209
+command: 235
+#
+name: ASPECT ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 236
+#
+name: ASPECT ZOOM TITLE
+type: parsed
+protocol: nec1
+address: 209
+command: 237
+#
+name: ASPECT SQUEEZE
+type: parsed
+protocol: nec1
+address: 209
+command: 238
+#
+name: ASPECT THROUGH
+type: parsed
+protocol: nec1
+address: 209
+command: 239
+#
+name: ASPECT AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 240
+#
+name: ASPECT THRU SQUEEZE
+type: parsed
+protocol: nec1
+address: 209
+command: 241
+#
+name: ASPECT SMART ZOOM
+type: parsed
+protocol: nec1
+address: 209
+command: 242
+#
+name: INPUT A COMPONENT
+type: parsed
+protocol: nec1
+address: 209
+command: 243
+#
+name: INPUT 1A
+type: parsed
+protocol: nec1
+address: 209
+command: 243
+#
+name: INPUT A RGB PC
+type: parsed
+protocol: nec1
+address: 209
+command: 244
+#
+name: INPUT A RGB TV
+type: parsed
+protocol: nec1
+address: 209
+command: 245
+#
+name: INPUT B COMPONENT
+type: parsed
+protocol: nec1
+address: 209
+command: 246
+#
+name: INPUT B RGB PC
+type: parsed
+protocol: nec1
+address: 209
+command: 247
+#
+name: INPUT B RGB TV
+type: parsed
+protocol: nec1
+address: 209
+command: 248
+#
+name: HDMI COMPONENT
+type: parsed
+protocol: nec1
+address: 209
+command: 249
+#
+name: HDMI RGB TV
+type: parsed
+protocol: nec1
+address: 209
+command: 251
+#
+name: HDMI AUTO
+type: parsed
+protocol: nec1
+address: 209
+command: 252
+#

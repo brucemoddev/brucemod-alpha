@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 64
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 65
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 66
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 67
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 68
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 69
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 70
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 71
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 72
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 73
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 74
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 75
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 76
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 77
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 78
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 79
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 80
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 84
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 85
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 86
+#
+name: 
+type: parsed
+protocol: sony15
+address: 20
+command: 87
+#

@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FMMode
+type: parsed
+protocol: nec
+address: 0.191
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0.191
+command: 2
+#
+name: Reset
+type: parsed
+protocol: nec
+address: 0.191
+command: 3
+#
+name: Test
+type: parsed
+protocol: nec
+address: 0.191
+command: 5
+#
+name: DolbyDigital
+type: parsed
+protocol: nec
+address: 0.191
+command: 6
+#
+name: Bypass
+type: parsed
+protocol: nec
+address: 0.191
+command: 7
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 0.191
+command: 8
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 0.191
+command: 9
+#
+name: Delay
+type: parsed
+protocol: nec
+address: 0.191
+command: 10
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.191
+command: 13
+#
+name: Config
+type: parsed
+protocol: nec
+address: 0.191
+command: 15
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.191
+command: 16
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.191
+command: 17
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.191
+command: 18
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 0.191
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.191
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.191
+command: 23
+#
+name: DSPDown
+type: parsed
+protocol: nec
+address: 0.191
+command: 24
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.191
+command: 25
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.191
+command: 27
+#
+name: Opt
+type: parsed
+protocol: nec
+address: 0.191
+command: 29
+#
+name: ChLevel
+type: parsed
+protocol: nec
+address: 0.191
+command: 30
+#
+name: Coax
+type: parsed
+protocol: nec
+address: 0.191
+command: 31
+#
+name: X_KEY_3Stereo
+type: parsed
+protocol: nec
+address: 0.191
+command: 64
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.191
+command: 65
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0.191
+command: 66
+#
+name: Dimmer
+type: parsed
+protocol: nec
+address: 0.191
+command: 67
+#
+name: DTS
+type: parsed
+protocol: nec
+address: 0.191
+command: 68
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.191
+command: 69
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.191
+command: 70
+#
+name: ProLogic
+type: parsed
+protocol: nec
+address: 0.191
+command: 71
+#
+name: KEY_VCR
+type: parsed
+protocol: nec
+address: 0.191
+command: 72
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 0.191
+command: 73
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 0.191
+command: 74
+#
+name: Direct
+type: parsed
+protocol: nec
+address: 0.191
+command: 80
+#
+name: PreTun
+type: parsed
+protocol: nec
+address: 0.191
+command: 83
+#
+name: Memo
+type: parsed
+protocol: nec
+address: 0.191
+command: 85
+#
+name: Auto
+type: parsed
+protocol: nec
+address: 0.191
+command: 86
+#
+name: FMAM
+type: parsed
+protocol: nec
+address: 0.191
+command: 87
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.191
+command: 89
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.191
+command: 94
+#
+name: DSPUp
+type: parsed
+protocol: nec
+address: 0.191
+command: 95
+#

@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: rc5
+address: 20
+command: 13
+#
+name: SEARCH +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: SEACH -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 20
+command: 48
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#
+name: TRACK -
+type: parsed
+protocol: rc5
+address: 20
+command: 60
+#
+name: TRACK +
+type: parsed
+protocol: rc5
+address: 20
+command: 63
+#

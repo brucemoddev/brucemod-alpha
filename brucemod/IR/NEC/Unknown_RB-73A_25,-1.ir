@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 25
+command: 0
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 25
+command: 1
+#
+name: StillAdv
+type: parsed
+protocol: nec
+address: 25
+command: 3
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 25
+command: 4
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 25
+command: 5
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 25
+command: 6
+#
+name: Operate
+type: parsed
+protocol: nec
+address: 25
+command: 8
+#
+name: TV/VCR
+type: parsed
+protocol: nec
+address: 25
+command: 10
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 25
+command: 12
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 25
+command: 13
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 25
+command: 14
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 25
+command: 15
+#

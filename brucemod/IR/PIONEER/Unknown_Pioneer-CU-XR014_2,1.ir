@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 14
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 15
+#
+name: MEM_SCAN
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 17
+#
+name: MONO
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 18
+#
+name: KEY_MUTE
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 23
+#
+name: TUNER_BAND
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 25
+#
+name: KEY_TUNER
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 27
+#
+name: KEY_CD
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 28
+#
+name: KEY_TAPE
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 30
+#
+name: AUX_VIDEO
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 31
+#
+name: KEY_TIME
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 32
+#
+name: KEY_AGAIN
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 33
+#
+name: PROGRAM
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 34
+#
+name: RANDOM
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 35
+#
+name: DISC
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 39
+#
+name: CD_PLAY_PAUSE
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 43
+#
+name: KEY_CLEAR
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 44
+#
+name: SCAN
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 45
+#
+name: CD_STOP
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 47
+#
+name: CD_PREV
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 52
+#
+name: CD_NEXT
+type: parsed
+protocol: aiwa
+address: 2.1
+command: 54
+#

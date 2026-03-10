@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 132
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 132
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 132
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 132
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 132
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 132
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 132
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 132
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 132
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 132
+command: 9
+#
+name: BRIGHTNESS
+type: parsed
+protocol: nec1
+address: 132
+command: 10
+#
+name: IN2
+type: parsed
+protocol: nec1
+address: 132
+command: 13
+#
+name: CONTRAST
+type: parsed
+protocol: nec1
+address: 132
+command: 14
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 132
+command: 15
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 132
+command: 16
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 132
+command: 16
+#
+name: IN3
+type: parsed
+protocol: nec1
+address: 132
+command: 17
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 132
+command: 18
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 132
+command: 19
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 132
+command: 20
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 132
+command: 21
+#
+name: ASPECT
+type: parsed
+protocol: nec1
+address: 132
+command: 22
+#
+name: RESOLUTION
+type: parsed
+protocol: nec1
+address: 132
+command: 23
+#
+name: PASS
+type: parsed
+protocol: nec1
+address: 132
+command: 24
+#
+name: R1
+type: parsed
+protocol: nec1
+address: 132
+command: 24
+#
+name: IN4
+type: parsed
+protocol: nec1
+address: 132
+command: 25
+#
+name: IN1
+type: parsed
+protocol: nec1
+address: 132
+command: 26
+#
+name: RSRV
+type: parsed
+protocol: nec1
+address: 132
+command: 27
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 132
+command: 29
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 132
+command: 30
+#
+name: INPUT SELECT
+type: parsed
+protocol: nec1
+address: 132
+command: 31
+#

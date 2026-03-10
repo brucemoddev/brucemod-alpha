@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 48
+#
+name: PLAY
+type: parsed
+protocol: necx1
+address: 45.45
+command: 49
+#
+name: T
+type: parsed
+protocol: necx1
+address: 45.45
+command: 50
+#
+name: T
+type: parsed
+protocol: necx1
+address: 45.45
+command: 51
+#
+name: PROGRAM +
+type: parsed
+protocol: necx1
+address: 45.45
+command: 52
+#
+name: PROGRAM -
+type: parsed
+protocol: necx1
+address: 45.45
+command: 53
+#
+name: RECORD
+type: parsed
+protocol: necx1
+address: 45.45
+command: 54
+#
+name: PAUSE REC
+type: parsed
+protocol: necx1
+address: 45.45
+command: 56
+#
+name: STOPP
+type: parsed
+protocol: necx1
+address: 45.45
+command: 57
+#
+name: INFO
+type: parsed
+protocol: necx1
+address: 45.45
+command: 58
+#
+name: 1
+type: parsed
+protocol: necx1
+address: 45.45
+command: 59
+#
+name: 2
+type: parsed
+protocol: necx1
+address: 45.45
+command: 60
+#
+name: 3
+type: parsed
+protocol: necx1
+address: 45.45
+command: 61
+#
+name: 4
+type: parsed
+protocol: necx1
+address: 45.45
+command: 62
+#
+name: 5
+type: parsed
+protocol: necx1
+address: 45.45
+command: 63
+#
+name: 6
+type: parsed
+protocol: necx1
+address: 45.45
+command: 64
+#
+name: 7
+type: parsed
+protocol: necx1
+address: 45.45
+command: 65
+#
+name: 8
+type: parsed
+protocol: necx1
+address: 45.45
+command: 66
+#
+name: 9
+type: parsed
+protocol: necx1
+address: 45.45
+command: 67
+#
+name: 0
+type: parsed
+protocol: necx1
+address: 45.45
+command: 68
+#
+name: END
+type: parsed
+protocol: necx1
+address: 45.45
+command: 69
+#
+name: CURSOR UPP
+type: parsed
+protocol: necx1
+address: 45.45
+command: 71
+#
+name: CURSOR NER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 72
+#
+name: TITLE / CHAPTER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 74
+#
+name: DISC MENU
+type: parsed
+protocol: necx1
+address: 45.45
+command: 75
+#
+name: CAMERA
+type: parsed
+protocol: necx1
+address: 45.45
+command: 76
+#
+name: REPEAT
+type: parsed
+protocol: necx1
+address: 45.45
+command: 83
+#
+name: REPEAT A-B
+type: parsed
+protocol: necx1
+address: 45.45
+command: 85
+#
+name: MENU
+type: parsed
+protocol: necx1
+address: 45.45
+command: 86
+#
+name: CURSOR OK
+type: parsed
+protocol: necx1
+address: 45.45
+command: 88
+#
+name: NSTER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 89
+#
+name: GER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 90
+#
+name: SET MARKER
+type: parsed
+protocol: necx1
+address: 45.45
+command: 97
+#
+name: ZOOM
+type: parsed
+protocol: necx1
+address: 45.45
+command: 100
+#
+name: KNAPP/CARD
+type: parsed
+protocol: necx1
+address: 45.45
+command: 105
+#
+name: NGAR
+type: parsed
+protocol: necx1
+address: 45.45
+command: 176
+#
+name: REC MENU
+type: parsed
+protocol: necx1
+address: 45.45
+command: 183
+#
+name: GUL KNAPP/TITLE
+type: parsed
+protocol: necx1
+address: 45.45
+command: 186
+#
+name: D KNAPP/C-SET
+type: parsed
+protocol: necx1
+address: 45.45
+command: 187
+#
+name: N KNAPP/SHOWVIEW
+type: parsed
+protocol: necx1
+address: 45.45
+command: 188
+#

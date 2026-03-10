@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 0
+#
+name: KEY_REWIND
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 2
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 3
+#
+name: PAUSE/STILL
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 6
+#
+name: KEY_RECORD
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 8
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 10
+#
+name: STILL_ADV
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 12
+#
+name: OPERATE
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 61
+#
+name: TRACKING_AUTO
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 176
+#
+name: TRACKING+
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 177
+#
+name: TRACKING-
+type: parsed
+protocol: panasonic
+address: 144.0
+command: 178
+#

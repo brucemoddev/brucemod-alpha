@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 122
+command: 15
+#
+name: VCR 2/DVR
+type: parsed
+protocol: nec1
+address: 122
+command: 19
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 122
+command: 20
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 122
+command: 21
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 122
+command: 22
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 26
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 27
+#
+name: MUTE ON/OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 28
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 29
+#
+name: STANDBY
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: 
+type: parsed
+protocol: nec1
+address: 122
+command: 30
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 122
+command: 82
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 122
+command: 83
+#
+name: D-TV/CBL
+type: parsed
+protocol: nec1
+address: 122
+command: 84
+#
+name: V-AUX
+type: parsed
+protocol: nec1
+address: 122
+command: 85
+#
+name: EFFECT OFF
+type: parsed
+protocol: nec1
+address: 122
+command: 86
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 122
+command: 87
+#
+name: TEST
+type: parsed
+protocol: nec1
+address: 122
+command: 133
+#
+name: LEVEL
+type: parsed
+protocol: nec1
+address: 122
+command: 134
+#
+name: 6 CH INPUT
+type: parsed
+protocol: nec1
+address: 122
+command: 135
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 122
+command: 136
+#
+name: JAZZ
+type: parsed
+protocol: nec1
+address: 122
+command: 137
+#
+name: ROCK
+type: parsed
+protocol: nec1
+address: 122
+command: 138
+#
+name: ENTERTAIMENT
+type: parsed
+protocol: nec1
+address: 122
+command: 139
+#
+name: TV SPORTS
+type: parsed
+protocol: nec1
+address: 122
+command: 140
+#
+name: MONO MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 141
+#
+name: 1-MOVIE
+type: parsed
+protocol: nec1
+address: 122
+command: 142
+#
+name: THTR-2
+type: parsed
+protocol: nec1
+address: 122
+command: 143
+#
+name: DOLBY/DTS SUR.
+type: parsed
+protocol: nec1
+address: 122
+command: 144
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 122
+command: 152
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 122
+command: 153
+#
+name: SET MENU
+type: parsed
+protocol: nec1
+address: 122
+command: 156
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 122
+command: 193
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 122
+command: 194
+#
+name: MD/CD-R
+type: parsed
+protocol: nec1
+address: 122
+command: 201
+#

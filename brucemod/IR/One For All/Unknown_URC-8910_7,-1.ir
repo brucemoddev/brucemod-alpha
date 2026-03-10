@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_EXIT
+type: parsed
+protocol: rca_38
+address: 7
+command: 6
+#
+name: KEY_MENU
+type: parsed
+protocol: rca_38
+address: 7
+command: 8
+#
+name: KEY_PLAY
+type: parsed
+protocol: rca_38
+address: 7
+command: 21
+#
+name: KEY_RECORD
+type: parsed
+protocol: rca_38
+address: 7
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rca_38
+address: 7
+command: 25
+#
+name: KEY_INFO
+type: parsed
+protocol: rca_38
+address: 7
+command: 26
+#
+name: Pip
+type: parsed
+protocol: rca_38
+address: 7
+command: 27
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rca_38
+address: 7
+command: 28
+#
+name: KEY_REWIND
+type: parsed
+protocol: rca_38
+address: 7
+command: 29
+#
+name: KEY_STOP
+type: parsed
+protocol: rca_38
+address: 7
+command: 31
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: rca_38
+address: 7
+command: 39
+#
+name: KEY_POWER
+type: parsed
+protocol: rca_38
+address: 7
+command: 42
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rca_38
+address: 7
+command: 44
+#
+name: KEY_REWIND
+type: parsed
+protocol: rca_38
+address: 7
+command: 44
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rca_38
+address: 7
+command: 45
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: rca_38
+address: 7
+command: 45
+#
+name: SkipAhead
+type: parsed
+protocol: rca_38
+address: 7
+command: 45
+#
+name: KEY_0
+type: parsed
+protocol: rca_38
+address: 7
+command: 48
+#
+name: KEY_1
+type: parsed
+protocol: rca_38
+address: 7
+command: 49
+#
+name: KEY_2
+type: parsed
+protocol: rca_38
+address: 7
+command: 50
+#
+name: KEY_3
+type: parsed
+protocol: rca_38
+address: 7
+command: 51
+#
+name: KEY_4
+type: parsed
+protocol: rca_38
+address: 7
+command: 52
+#
+name: KEY_5
+type: parsed
+protocol: rca_38
+address: 7
+command: 53
+#
+name: KEY_6
+type: parsed
+protocol: rca_38
+address: 7
+command: 54
+#
+name: KEY_7
+type: parsed
+protocol: rca_38
+address: 7
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: rca_38
+address: 7
+command: 56
+#
+name: KEY_9
+type: parsed
+protocol: rca_38
+address: 7
+command: 57
+#
+name: KEY_INFO
+type: parsed
+protocol: rca_38
+address: 7
+command: 60
+#
+name: KEY_LEFT
+type: parsed
+protocol: rca_38
+address: 7
+command: 86
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rca_38
+address: 7
+command: 87
+#
+name: KEY_DOWN
+type: parsed
+protocol: rca_38
+address: 7
+command: 88
+#
+name: KEY_UP
+type: parsed
+protocol: rca_38
+address: 7
+command: 89
+#
+name: TvVid
+type: parsed
+protocol: rca_38
+address: 7
+command: 163
+#
+name: Swap
+type: parsed
+protocol: rca_38
+address: 7
+command: 195
+#
+name: KEY_SELECT
+type: parsed
+protocol: rca_38
+address: 7
+command: 244
+#
+name: KEY_OK
+type: parsed
+protocol: rca_38
+address: 7
+command: 244
+#

@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 0
+command: 0
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0
+command: 1
+#
+name: display
+type: parsed
+protocol: nec
+address: 0
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0
+command: 5
+#
+name: KEY_SELECT
+type: parsed
+protocol: nec
+address: 0
+command: 6
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0
+command: 8
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0
+command: 9
+#
+name: KEY_ZOOM
+type: parsed
+protocol: nec
+address: 0
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0
+command: 12
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: nec
+address: 0
+command: 13
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 0
+command: 16
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 0
+command: 20
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 0
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 0
+command: 28
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0
+command: 64
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0
+command: 66
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0
+command: 67
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0
+command: 68
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0
+command: 69
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0
+command: 70
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0
+command: 71
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 72
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0
+command: 73
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0
+command: 74
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0
+command: 75
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0
+command: 76
+#
+name: KEY_TITLE
+type: parsed
+protocol: nec
+address: 0
+command: 77
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 0
+command: 78
+#
+name: KEY_ANGLE
+type: parsed
+protocol: nec
+address: 0
+command: 79
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 0
+command: 80
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 0
+command: 81
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 0
+command: 87
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 0
+command: 91
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 95
+#

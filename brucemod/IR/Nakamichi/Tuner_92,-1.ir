@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 92
+command: 0
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 92
+command: 1
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 92
+command: 2
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 92
+command: 3
+#
+name: TUNER SEEK UP
+type: parsed
+protocol: nec1
+address: 92
+command: 4
+#
+name: TUNER SEEK DOWN
+type: parsed
+protocol: nec1
+address: 92
+command: 5
+#
+name: TUNER AM
+type: parsed
+protocol: nec1
+address: 92
+command: 6
+#
+name: TUNER FM
+type: parsed
+protocol: nec1
+address: 92
+command: 7
+#
+name: TUNER PRESET UP
+type: parsed
+protocol: nec1
+address: 92
+command: 18
+#
+name: TUNER PRESET DOWN
+type: parsed
+protocol: nec1
+address: 92
+command: 19
+#
+name: TAPE REC
+type: parsed
+protocol: nec1
+address: 92
+command: 20
+#
+name: TAPE PLAY >
+type: parsed
+protocol: nec1
+address: 92
+command: 21
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: nec1
+address: 92
+command: 22
+#
+name: TAPE STOP []
+type: parsed
+protocol: nec1
+address: 92
+command: 23
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 92
+command: 68
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 92
+command: 69
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 92
+command: 70
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 92
+command: 71
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 92
+command: 73
+#
+name: TAPE FFWD >>
+type: parsed
+protocol: nec1
+address: 92
+command: 84
+#
+name: TAPE REW <<
+type: parsed
+protocol: nec1
+address: 92
+command: 85
+#
+name: TAPE CUE
+type: parsed
+protocol: nec1
+address: 92
+command: 86
+#
+name: TAPE PLAY REV <
+type: parsed
+protocol: nec1
+address: 92
+command: 88
+#

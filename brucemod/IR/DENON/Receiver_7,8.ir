@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Z3 ON
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 6
+#
+name: ZONE 3 ON
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 6
+#
+name: Z3 OFF
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 7
+#
+name: ZONE 3 OFF
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 7
+#
+name: Z3 1
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 16
+#
+name: Z3 2
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 17
+#
+name: Z3 3
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 18
+#
+name: Z3 4
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 19
+#
+name: Z3 5
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 20
+#
+name: Z3 6
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 21
+#
+name: Z3 7
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 22
+#
+name: Z3 8
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 23
+#
+name: Z3 9
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 24
+#
+name: Z3 0
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 25
+#
+name: Z3 INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 48
+#
+name: Z3 PHONO
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 48
+#
+name: Z3 INPUT TUNER
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 49
+#
+name: Z3 TUNER
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 49
+#
+name: Z3 INPUT CD
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 50
+#
+name: Z3 CD
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 50
+#
+name: Z3 INPUT CD-R TAP
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 51
+#
+name: Z3 CD-R/TAPE
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 51
+#
+name: Z3 INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 59
+#
+name: Z3 INPUT DVD
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 64
+#
+name: Z3 DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 64
+#
+name: Z3 INPUT VCR
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 69
+#
+name: Z3 VCR
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 69
+#
+name: Z3 INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 73
+#
+name: Z3 V.AUX
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 73
+#
+name: Z3 BAND
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 88
+#
+name: Z3 SEARCH
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 120
+#
+name: Z3 A MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 128
+#
+name: Z3 B MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 129
+#
+name: Z3 C MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 130
+#
+name: Z3 D MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 131
+#
+name: Z3 E MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 132
+#
+name: Z3 F MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 133
+#
+name: Z3 G MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 134
+#
+name: Z3 VOLUME +
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 272
+#
+name: Z3 VOLUME -
+type: parsed
+protocol: Denon-K
+address: 7.8
+command: 273
+#

@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CDV 1
+type: parsed
+protocol: rc5
+address: 12
+command: 1
+#
+name: CDV PLAY >
+type: parsed
+protocol: rc5
+address: 12
+command: 53
+#

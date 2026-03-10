@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET +
+type: parsed
+protocol: nec2
+address: 210.3
+command: 0
+#
+name: PRESET -
+type: parsed
+protocol: nec2
+address: 210.3
+command: 1
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 210.3
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 210.3
+command: 3
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 210.3
+command: 5
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 210.3
+command: 6
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.3
+command: 11
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 210.3
+command: 93
+#

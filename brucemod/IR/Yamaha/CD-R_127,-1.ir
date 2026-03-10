@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 127
+command: 129
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 127
+command: 130
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 127
+command: 131
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 127
+command: 132
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 127
+command: 134
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 127
+command: 135
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 127
+command: 136
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 127
+command: 137
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 127
+command: 140
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 127
+command: 141
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 127
+command: 142
+#
+name: INTRO
+type: parsed
+protocol: nec1
+address: 127
+command: 143
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 127
+command: 144
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 127
+command: 145
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 127
+command: 146
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 127
+command: 147
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 127
+command: 148
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 127
+command: 149
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 127
+command: 150
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 127
+command: 151
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 127
+command: 152
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 127
+command: 153
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 127
+command: 154
+#
+name: TEXT/TIME
+type: parsed
+protocol: nec1
+address: 127
+command: 158
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 127
+command: 160
+#
+name: COPY
+type: parsed
+protocol: nec1
+address: 127
+command: 163
+#
+name: FINALIZE
+type: parsed
+protocol: nec1
+address: 127
+command: 165
+#
+name: ERASE
+type: parsed
+protocol: nec1
+address: 127
+command: 166
+#
+name: TRACK NO. WRITE
+type: parsed
+protocol: nec1
+address: 127
+command: 167
+#
+name: AMQR
+type: parsed
+protocol: nec1
+address: 127
+command: 168
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 127
+command: 171
+#
+name: TIMER REC
+type: parsed
+protocol: nec1
+address: 127
+command: 182
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 127
+command: 183
+#
+name: COMPLETE
+type: parsed
+protocol: nec1
+address: 127
+command: 184
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 127
+command: 185
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 127
+command: 186
+#
+name: VALUE +
+type: parsed
+protocol: nec1
+address: 127
+command: 187
+#
+name: VALUE -
+type: parsed
+protocol: nec1
+address: 127
+command: 188
+#
+name: CDR
+type: parsed
+protocol: nec1
+address: 127
+command: 189
+#
+name: HDD
+type: parsed
+protocol: nec1
+address: 127
+command: 190
+#
+name: BOOKMARK
+type: parsed
+protocol: nec1
+address: 127
+command: 221
+#
+name: GROUP SKIP -
+type: parsed
+protocol: nec1
+address: 127
+command: 222
+#
+name: GROUP SKIP +
+type: parsed
+protocol: nec1
+address: 127
+command: 223
+#

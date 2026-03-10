@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE DECK SELECT A/B
+type: parsed
+protocol: denon
+address: 4
+command: 83
+#
+name: TAPE DECK PLAY REVER
+type: parsed
+protocol: denon
+address: 4
+command: 87
+#
+name: TAPE DECK FAST FORWA
+type: parsed
+protocol: denon
+address: 4
+command: 90
+#
+name: TAPE DECK REWIND
+type: parsed
+protocol: denon
+address: 4
+command: 91
+#
+name: TAPE DECK PLAY
+type: parsed
+protocol: denon
+address: 4
+command: 92
+#
+name: TAPE DECK PAUSE
+type: parsed
+protocol: denon
+address: 4
+command: 93
+#
+name: TAPE DECK STOP
+type: parsed
+protocol: denon
+address: 4
+command: 94
+#
+name: TAPE DECK RECORD
+type: parsed
+protocol: denon
+address: 4
+command: 95
+#
+name: SURROUND MODE DSP WI
+type: parsed
+protocol: denon
+address: 4
+command: 129
+#
+name: SURROUND MODE DSP SU
+type: parsed
+protocol: denon
+address: 4
+command: 130
+#
+name: SURROUND MODE DSP RO
+type: parsed
+protocol: denon
+address: 4
+command: 131
+#
+name: SURROUND MODE DSP JA
+type: parsed
+protocol: denon
+address: 4
+command: 132
+#
+name: SURROUND MODE DSP CL
+type: parsed
+protocol: denon
+address: 4
+command: 133
+#
+name: SURROUND MODE DSP MO
+type: parsed
+protocol: denon
+address: 4
+command: 134
+#
+name: SURROUND MODE DSP MA
+type: parsed
+protocol: denon
+address: 4
+command: 135
+#
+name: SURROUND MODE DSP VI
+type: parsed
+protocol: denon
+address: 4
+command: 136
+#
+name: SURROUND MODE DSP VI
+type: parsed
+protocol: denon
+address: 4
+command: 137
+#
+name: SURROUND MODE THX UL
+type: parsed
+protocol: denon
+address: 4
+command: 138
+#
+name: SURROUND MODE THX MU
+type: parsed
+protocol: denon
+address: 4
+command: 139
+#
+name: SURROUND MODE THX EX
+type: parsed
+protocol: denon
+address: 4
+command: 140
+#
+name: SURROUND MODE DTS NE
+type: parsed
+protocol: denon
+address: 4
+command: 141
+#
+name: SURROUND MODE DTS NE
+type: parsed
+protocol: denon
+address: 4
+command: 142
+#
+name: SURROUND MODE DOLBY 
+type: parsed
+protocol: denon
+address: 4
+command: 143
+#
+name: SURROUND MODE DOLBY 
+type: parsed
+protocol: denon
+address: 4
+command: 144
+#
+name: SURROUND MODE DOLBY 
+type: parsed
+protocol: denon
+address: 4
+command: 145
+#
+name: SURROUND MODE DTS ES
+type: parsed
+protocol: denon
+address: 4
+command: 147
+#
+name: SURROUND MODE DOLBY 
+type: parsed
+protocol: denon
+address: 4
+command: 148
+#
+name: SURROUND MODE CINEMA
+type: parsed
+protocol: denon
+address: 4
+command: 149
+#
+name: SURROUND MODE MUSIC
+type: parsed
+protocol: denon
+address: 4
+command: 150
+#
+name: SURROUND MODE GAME
+type: parsed
+protocol: denon
+address: 4
+command: 151
+#
+name: MODE NIGHT
+type: parsed
+protocol: denon
+address: 4
+command: 152
+#
+name: ROOM EQ / MULTEQ TOG
+type: parsed
+protocol: denon
+address: 4
+command: 157
+#
+name: INPUT MODE / HDMI MO
+type: parsed
+protocol: denon
+address: 4
+command: 179
+#
+name: INPUT MODE PCM
+type: parsed
+protocol: denon
+address: 4
+command: 180
+#
+name: INPUT MODE DTS
+type: parsed
+protocol: denon
+address: 4
+command: 181
+#
+name: INPUT MODE RF
+type: parsed
+protocol: denon
+address: 4
+command: 182
+#
+name: INPUT MODE EXT. IN
+type: parsed
+protocol: denon
+address: 4
+command: 183
+#
+name: INPUT MODE EXT. IN 2
+type: parsed
+protocol: denon
+address: 4
+command: 184
+#
+name: MAIN ZONE ON
+type: parsed
+protocol: denon
+address: 4
+command: 185
+#
+name: MAIN ZONE OFF
+type: parsed
+protocol: denon
+address: 4
+command: 186
+#
+name: MULTI ZONE 2 ON
+type: parsed
+protocol: denon
+address: 4
+command: 187
+#
+name: MULTI ZONE 2 OFF
+type: parsed
+protocol: denon
+address: 4
+command: 188
+#
+name: DAT DECK SEARCH FORW
+type: parsed
+protocol: denon
+address: 4
+command: 216
+#
+name: DAT DECK SEARCH BACK
+type: parsed
+protocol: denon
+address: 4
+command: 217
+#
+name: DAT DECK FAST FORWAR
+type: parsed
+protocol: denon
+address: 4
+command: 218
+#
+name: DAT DECK REWIND
+type: parsed
+protocol: denon
+address: 4
+command: 219
+#
+name: DAT DECK PLAY
+type: parsed
+protocol: denon
+address: 4
+command: 220
+#
+name: DAT DECK PAUSE
+type: parsed
+protocol: denon
+address: 4
+command: 221
+#
+name: DAT DECK STOP
+type: parsed
+protocol: denon
+address: 4
+command: 222
+#
+name: DAT DECK RECORD
+type: parsed
+protocol: denon
+address: 4
+command: 223
+#

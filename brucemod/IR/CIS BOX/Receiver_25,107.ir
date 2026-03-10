@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME UP
+type: parsed
+protocol: sony20
+address: 25.107
+command: 18
+#
+name: VOLUME DOWN
+type: parsed
+protocol: sony20
+address: 25.107
+command: 19
+#
+name: VID 2
+type: parsed
+protocol: sony20
+address: 25.107
+command: 30
+#
+name: TUNER
+type: parsed
+protocol: sony20
+address: 25.107
+command: 33
+#
+name: VID 1
+type: parsed
+protocol: sony20
+address: 25.107
+command: 34
+#
+name: TAPE
+type: parsed
+protocol: sony20
+address: 25.107
+command: 35
+#
+name: CD
+type: parsed
+protocol: sony20
+address: 25.107
+command: 37
+#
+name: ON
+type: parsed
+protocol: sony20
+address: 25.107
+command: 46
+#
+name: OFF
+type: parsed
+protocol: sony20
+address: 25.107
+command: 47
+#
+name: VID 3
+type: parsed
+protocol: sony20
+address: 25.107
+command: 66
+#
+name: MD
+type: parsed
+protocol: sony20
+address: 25.107
+command: 105
+#
+name: TV SAT
+type: parsed
+protocol: sony20
+address: 25.107
+command: 106
+#
+name: DVD
+type: parsed
+protocol: sony20
+address: 25.107
+command: 125
+#

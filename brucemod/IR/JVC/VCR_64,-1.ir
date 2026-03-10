@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV TV/VIDEO
+type: parsed
+protocol: nec1
+address: 64
+command: 15
+#
+name: TV SELECT (IN/OUT)
+type: parsed
+protocol: nec1
+address: 64
+command: 18
+#
+name: TV POWER
+type: parsed
+protocol: nec1
+address: 64
+command: 18
+#
+name: VCR VOLUME +
+type: parsed
+protocol: nec1
+address: 64
+command: 26
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 64
+command: 26
+#
+name: TV CH/SET +
+type: parsed
+protocol: nec1
+address: 64
+command: 27
+#
+name: VCR VOLUME -
+type: parsed
+protocol: nec1
+address: 64
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 64
+command: 30
+#
+name: TV CH/SET -
+type: parsed
+protocol: nec1
+address: 64
+command: 31
+#

@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 1
+#
+name: 2
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 2
+#
+name: 6
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 6
+#
+name: 7
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 7
+#
+name: 9
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 9
+#
+name: CH/PAGE DN
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 14
+#
+name: PAGE DN
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 14
+#
+name: POWER
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 15
+#
+name: ENTER
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 16
+#
+name: MODE
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 17
+#
+name: 
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 18
+#
+name: GUIDE
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 20
+#
+name: OPEN GLOBE
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 20
+#
+name: OPTIONS
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 20
+#
+name: CURSOR UP
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 22
+#
+name: CURSOR RT
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 25
+#
+name: INFO
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 27
+#
+name: SELECT
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 27
+#
+name: << /BACKSPACE
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 32
+#
+name: PAUSE
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 36
+#
+name: STOP
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 36
+#
+name: I RADIO
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 42
+#
+name: NEXT
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 42
+#
+name: RESUME
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 42
+#
+name: FAVS PLAY
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 46
+#
+name: RANDOM
+type: parsed
+protocol: xmp_2
+address: 15.0
+command: 47
+#
+name: 
+type: parsed
+protocol: xmp
+address: 15.0
+command: 174
+#
+name: 
+type: parsed
+protocol: xmp
+address: 15.0
+command: 191
+#

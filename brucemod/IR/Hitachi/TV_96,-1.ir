@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: nec1
+address: 96
+command: 11
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 96
+command: 64
+#

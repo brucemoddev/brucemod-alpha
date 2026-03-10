@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AV1
+type: parsed
+protocol: rc5
+address: 5
+command: 114
+#
+name: AV2
+type: parsed
+protocol: rc5
+address: 5
+command: 115
+#
+name: AV3
+type: parsed
+protocol: rc5
+address: 5
+command: 116
+#
+name: AVS
+type: parsed
+protocol: rc5
+address: 5
+command: 117
+#
+name: VGA
+type: parsed
+protocol: rc5
+address: 5
+command: 118
+#
+name: HDMI
+type: parsed
+protocol: rc5
+address: 5
+command: 119
+#
+name: COMP
+type: parsed
+protocol: rc5
+address: 5
+command: 120
+#

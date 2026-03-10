@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CAM PROGRAM
+type: parsed
+protocol: nec1
+address: 97.159
+command: 0
+#
+name: VCR2 S.Q.P.
+type: parsed
+protocol: nec1
+address: 97.159
+command: 0
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#
+name: VCR2 RECORD
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#
+name: VCR2 REC
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#
+name: CAM REC
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#
+name: VCR2 REC-PLAY
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#
+name: VTR2 REC
+type: parsed
+protocol: nec1
+address: 97.159
+command: 20
+#

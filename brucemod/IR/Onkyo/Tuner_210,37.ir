@@ -1,0 +1,345 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET +
+type: parsed
+protocol: nec2
+address: 210.37
+command: 0
+#
+name: PRESET >
+type: parsed
+protocol: nec2
+address: 210.37
+command: 0
+#
+name: PRESET -
+type: parsed
+protocol: nec2
+address: 210.37
+command: 1
+#
+name: PRESET <
+type: parsed
+protocol: nec2
+address: 210.37
+command: 1
+#
+name: OUTPUT LEVEL ^
+type: parsed
+protocol: nec2
+address: 210.37
+command: 2
+#
+name: OUTPUT LEVEL V
+type: parsed
+protocol: nec2
+address: 210.37
+command: 3
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 210.37
+command: 4
+#
+name: FM MUTE
+type: parsed
+protocol: nec1
+address: 210.37
+command: 5
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 210.37
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.37
+command: 13
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.37
+command: 14
+#
+name: 10
+type: parsed
+protocol: nec1
+address: 210.37
+command: 15
+#
+name: SCAN
+type: parsed
+protocol: nec1
+address: 210.37
+command: 16
+#
+name: PRESET SCAN
+type: parsed
+protocol: nec1
+address: 210.37
+command: 16
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.37
+command: 17
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.37
+command: 18
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.37
+command: 19
+#
+name: 0/10
+type: parsed
+protocol: nec1
+address: 210.37
+command: 20
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.37
+command: 21
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.37
+command: 22
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.37
+command: 23
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.37
+command: 24
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.37
+command: 25
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.37
+command: 26
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.37
+command: 28
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 210.37
+command: 30
+#
+name: TIMER
+type: parsed
+protocol: nec2
+address: 210.37
+command: 64
+#
+name: TIMER PRESET +
+type: parsed
+protocol: nec2
+address: 210.37
+command: 64
+#
+name: TIMER PRESET -
+type: parsed
+protocol: nec2
+address: 210.37
+command: 65
+#
+name: TUNING +
+type: parsed
+protocol: nec2
+address: 210.37
+command: 66
+#
+name: TUNING -
+type: parsed
+protocol: nec2
+address: 210.37
+command: 67
+#
+name: ANTENNA
+type: parsed
+protocol: nec1
+address: 210.37
+command: 69
+#
+name: RF MODE
+type: parsed
+protocol: nec1
+address: 210.37
+command: 70
+#
+name: IF BAND
+type: parsed
+protocol: nec1
+address: 210.37
+command: 71
+#
+name: HI-BLEND
+type: parsed
+protocol: nec1
+address: 210.37
+command: 72
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 210.37
+command: 73
+#
+name: GROUP
+type: parsed
+protocol: nec1
+address: 210.37
+command: 76
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 210.37
+command: 77
+#
+name: MODE
+type: parsed
+protocol: nec1
+address: 210.37
+command: 78
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 210.37
+command: 79
+#
+name: 11
+type: parsed
+protocol: nec1
+address: 210.37
+command: 80
+#
+name: 12
+type: parsed
+protocol: nec1
+address: 210.37
+command: 81
+#
+name: 13
+type: parsed
+protocol: nec1
+address: 210.37
+command: 82
+#
+name: 14
+type: parsed
+protocol: nec1
+address: 210.37
+command: 83
+#
+name: 15
+type: parsed
+protocol: nec1
+address: 210.37
+command: 84
+#
+name: 16
+type: parsed
+protocol: nec1
+address: 210.37
+command: 85
+#
+name: 17
+type: parsed
+protocol: nec1
+address: 210.37
+command: 86
+#
+name: 18
+type: parsed
+protocol: nec1
+address: 210.37
+command: 87
+#
+name: 19
+type: parsed
+protocol: nec1
+address: 210.37
+command: 88
+#
+name: 20
+type: parsed
+protocol: nec1
+address: 210.37
+command: 89
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.37
+command: 90
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.37
+command: 91
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.37
+command: 92
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.37
+command: 93
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.37
+command: 94
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.37
+command: 95
+#
+name: ADJUST
+type: parsed
+protocol: nec1
+address: 210.37
+command: 222
+#

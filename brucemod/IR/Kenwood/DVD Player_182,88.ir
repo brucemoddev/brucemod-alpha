@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 182.88
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 182.88
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 182.88
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 182.88
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 182.88
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 182.88
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 182.88
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 182.88
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 182.88
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 182.88
+command: 9
+#
+name: PAGE/CHANNEL -
+type: parsed
+protocol: nec1
+address: 182.88
+command: 64
+#
+name: PAGE/CHANNEL +
+type: parsed
+protocol: nec1
+address: 182.88
+command: 65
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 182.88
+command: 66
+#
+name: OPTIONS/MENU
+type: parsed
+protocol: nec1
+address: 182.88
+command: 67
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 182.88
+command: 68
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 182.88
+command: 69
+#
+name: < >
+type: parsed
+protocol: nec1
+address: 182.88
+command: 72
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 182.88
+command: 73
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 182.88
+command: 74
+#
+name: OPENGLOBE
+type: parsed
+protocol: nec1
+address: 182.88
+command: 79
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 182.88
+command: 80
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 182.88
+command: 81
+#
+name: LEFT
+type: parsed
+protocol: nec1
+address: 182.88
+command: 82
+#
+name: RIGHT
+type: parsed
+protocol: nec1
+address: 182.88
+command: 83
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 182.88
+command: 84
+#
+name: DAY +/PLAY
+type: parsed
+protocol: nec1
+address: 182.88
+command: 88
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 182.88
+command: 89
+#
+name: DAY -/STOP
+type: parsed
+protocol: nec1
+address: 182.88
+command: 90
+#
+name: BACKSPACE/PG DN <<<
+type: parsed
+protocol: nec1
+address: 182.88
+command: 91
+#
+name: SPACE/PAGE UP >>>
+type: parsed
+protocol: nec1
+address: 182.88
+command: 92
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 182.88
+command: 95
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 182.88
+command: 128
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 182.88
+command: 129
+#
+name: MUSIC
+type: parsed
+protocol: nec1
+address: 182.88
+command: 192
+#
+name: RADIO
+type: parsed
+protocol: nec1
+address: 182.88
+command: 193
+#
+name: MOVIES
+type: parsed
+protocol: nec1
+address: 182.88
+command: 194
+#
+name: PASS THOUGH / FAV
+type: parsed
+protocol: nec1
+address: 182.88
+command: 195
+#
+name: E-MAIL
+type: parsed
+protocol: nec1
+address: 182.88
+command: 197
+#
+name: WEB/LAST CH.
+type: parsed
+protocol: nec1
+address: 182.88
+command: 198
+#

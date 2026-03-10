@@ -1,0 +1,213 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: cd_1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: cd_2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: cd_3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: cd_4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: cd_5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: cd_6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: cd_7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: cd_8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: cd_9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: cd_0
+type: parsed
+protocol: sony12
+address: 17
+command: 9
+#
+name: cd_clear
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: cd_17
+type: parsed
+protocol: sony12
+address: 17
+command: 16
+#
+name: cd_18
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: cd_19
+type: parsed
+protocol: sony12
+address: 17
+command: 23
+#
+name: cd_10
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: cd_11
+type: parsed
+protocol: sony12
+address: 17
+command: 33
+#
+name: cd_12
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: cd_13
+type: parsed
+protocol: sony12
+address: 17
+command: 35
+#
+name: cd_14
+type: parsed
+protocol: sony12
+address: 17
+command: 36
+#
+name: cd_15
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: cd_16
+type: parsed
+protocol: sony12
+address: 17
+command: 38
+#
+name: cd_+10
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: cd_time
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: cd_20
+type: parsed
+protocol: sony12
+address: 17
+command: 41
+#
+name: cd_ab
+type: parsed
+protocol: sony12
+address: 17
+command: 42
+#
+name: cd_all
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: cd_last
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: cd_next
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: cd_play
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: cd_ind_dec
+type: parsed
+protocol: sony12
+address: 17
+command: 54
+#
+name: cd_ind_inc
+type: parsed
+protocol: sony12
+address: 17
+command: 55
+#
+name: cd_stop
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: cd_pause
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: cd_rwnd
+type: parsed
+protocol: sony12
+address: 17
+command: 58
+#
+name: cd_ffwd
+type: parsed
+protocol: sony12
+address: 17
+command: 59
+#

@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 4.0
+command: 8
+#
+name: Back
+type: parsed
+protocol: nec
+address: 4.0
+command: 4
+#
+name: home
+type: parsed
+protocol: nec
+address: 4.0
+command: 67
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 2
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 4.0
+command: 3
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 4.0
+command: 9
+#
+name: Up
+type: parsed
+protocol: nec
+address: 4.0
+command: 86
+#
+name: Down
+type: parsed
+protocol: nec
+address: 4.0
+command: 87
+#
+name: Left
+type: parsed
+protocol: nec
+address: 4.0
+command: 88
+#
+name: Right
+type: parsed
+protocol: nec
+address: 4.0
+command: 89
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 4.0
+command: 90
+#
+name: AGAIN
+type: parsed
+protocol: nec
+address: 4.0
+command: 65
+#
+name: Sleep
+type: parsed
+protocol: nec
+address: 4.0
+command: 26
+#
+name: STAR
+type: parsed
+protocol: nec
+address: 4.0
+command: 12
+#
+name: rewind
+type: parsed
+protocol: nec
+address: 4.0
+command: 79
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec
+address: 4.0
+command: 66
+#
+name: FAST_FORWARD
+type: parsed
+protocol: nec
+address: 4.0
+command: 91
+#
+name: NETFLIX
+type: parsed
+protocol: nec
+address: 4.0
+command: 76
+#
+name: HULU
+type: parsed
+protocol: nec
+address: 4.0
+command: 92
+#
+name: SLING
+type: parsed
+protocol: nec
+address: 4.0
+command: 69
+#
+name: NOW
+type: parsed
+protocol: nec
+address: 4.0
+command: 103
+#

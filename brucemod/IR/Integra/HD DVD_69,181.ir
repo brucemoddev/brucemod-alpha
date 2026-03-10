@@ -1,0 +1,309 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 69.181
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 69.181
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 69.181
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 69.181
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 69.181
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 69.181
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 69.181
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 69.181
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 69.181
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 69.181
+command: 9
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 69.181
+command: 10
+#
+name: SLOW
+type: parsed
+protocol: nec1
+address: 69.181
+command: 13
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 69.181
+command: 18
+#
+name: FAST FORWARD
+type: parsed
+protocol: nec1
+address: 69.181
+command: 19
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 69.181
+command: 20
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 69.181
+command: 21
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 69.181
+command: 22
+#
+name: FAST REWIND
+type: parsed
+protocol: nec1
+address: 69.181
+command: 25
+#
+name: SETUP
+type: parsed
+protocol: nec1
+address: 69.181
+command: 32
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 69.181
+command: 33
+#
+name: RETURN
+type: parsed
+protocol: nec1
+address: 69.181
+command: 34
+#
+name: DOWN
+type: parsed
+protocol: nec1
+address: 69.181
+command: 35
+#
+name: UP
+type: parsed
+protocol: nec1
+address: 69.181
+command: 36
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 69.181
+command: 37
+#
+name: TRACK SEARCH
+type: parsed
+protocol: nec1
+address: 69.181
+command: 38
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 69.181
+command: 39
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 69.181
+command: 40
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 69.181
+command: 41
+#
+name: REPEAT
+type: parsed
+protocol: nec
+address: 69.181
+command: 43
+#
+name: CURSOR
+type: parsed
+protocol: nec1
+address: 69.181
+command: 51
+#
+name: A
+type: parsed
+protocol: nec1
+address: 69.181
+command: 52
+#
+name: B
+type: parsed
+protocol: nec1
+address: 69.181
+command: 53
+#
+name: C
+type: parsed
+protocol: nec
+address: 69.181
+command: 54
+#
+name: D
+type: parsed
+protocol: nec1
+address: 69.181
+command: 55
+#
+name: RESUME PLAY
+type: parsed
+protocol: nec1
+address: 69.181
+command: 56
+#
+name: MAIN/SUB
+type: parsed
+protocol: nec1
+address: 69.181
+command: 57
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 69.181
+command: 65
+#
+name: PICTURE CONTROL
+type: parsed
+protocol: nec1
+address: 69.181
+command: 76
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 69.181
+command: 77
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 69.181
+command: 81
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 69.181
+command: 128
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 69.181
+command: 129
+#
+name: CURSOR UPPER RIGHT
+type: parsed
+protocol: nec1
+address: 69.181
+command: 130
+#
+name: CURSOR LOWER RIGHT
+type: parsed
+protocol: nec1
+address: 69.181
+command: 131
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 69.181
+command: 132
+#
+name: CURSOR LOWER LEFT
+type: parsed
+protocol: nec1
+address: 69.181
+command: 133
+#
+name: CURSOR UPPER LEFT
+type: parsed
+protocol: nec1
+address: 69.181
+command: 134
+#
+name: STEP
+type: parsed
+protocol: nec1
+address: 69.181
+command: 174
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 69.181
+command: 222
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 69.181
+command: 239
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 69.181
+command: 245
+#

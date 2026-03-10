@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_QUIT
+type: parsed
+protocol: nec
+address: 81.175
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 81.175
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 81.175
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 81.175
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 81.175
+command: 8
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 81.175
+command: 9
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 81.175
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 81.175
+command: 12
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 81.175
+command: 13
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 81.175
+command: 14
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 81.175
+command: 17
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 81.175
+command: 21
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 81.175
+command: 23
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 81.175
+command: 24
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 81.175
+command: 26
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 81.175
+command: 29
+#
+name: KEY_F11
+type: parsed
+protocol: nec
+address: 81.175
+command: 31
+#

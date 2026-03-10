@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP []
+type: parsed
+protocol: nec1
+address: 210.13
+command: 19
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 210.13
+command: 21
+#
+name: PLAY REV <
+type: parsed
+protocol: nec1
+address: 210.13
+command: 22
+#
+name: REC/PAUSE O/
+type: parsed
+protocol: nec1
+address: 210.13
+command: 24
+#
+name: FFWD >>
+type: parsed
+protocol: nec1
+address: 210.13
+command: 25
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 210.13
+command: 26
+#
+name: REC MUTE
+type: parsed
+protocol: nec1
+address: 210.13
+command: 27
+#
+name: MUSIC SEARCH >>
+type: parsed
+protocol: nec1
+address: 210.13
+command: 29
+#
+name: RESET
+type: parsed
+protocol: nec1
+address: 210.13
+command: 93
+#

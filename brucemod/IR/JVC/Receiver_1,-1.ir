@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VTR STOP []
+type: parsed
+protocol: akai
+address: 1
+command: 3
+#
+name: VTR FF >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: VTR REW <<
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: VTR PLAY >
+type: parsed
+protocol: akai
+address: 1
+command: 12
+#
+name: VTR PAUSE/STILL 
+type: parsed
+protocol: akai
+address: 1
+command: 13
+#
+name: VTR CHANNEL -
+type: parsed
+protocol: akai
+address: 1
+command: 24
+#
+name: VTR CHANNEL +
+type: parsed
+protocol: akai
+address: 1
+command: 25
+#

@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 182
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 182
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 182
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 182
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 182
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 182
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 182
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 182
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 182
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 182
+command: 9
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 182
+command: 17
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 182
+command: 19
+#
+name: DISC SKIP DOWN
+type: parsed
+protocol: nec1
+address: 182
+command: 22
+#
+name: PREVIOUS
+type: parsed
+protocol: nec1
+address: 182
+command: 22
+#
+name: DISC SKIP UP
+type: parsed
+protocol: nec1
+address: 182
+command: 23
+#
+name: NEXT
+type: parsed
+protocol: nec1
+address: 182
+command: 23
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 182
+command: 25
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 182
+command: 26
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 182
+command: 79
+#
+name: POWER ON/OFF
+type: parsed
+protocol: nec1
+address: 182
+command: 145
+#
+name: DISC SELECTOR
+type: parsed
+protocol: nec1
+address: 182
+command: 156
+#
+name: BEST SELECTION
+type: parsed
+protocol: nec1
+address: 182
+command: 210
+#

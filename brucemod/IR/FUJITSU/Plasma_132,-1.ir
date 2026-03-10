@@ -1,0 +1,633 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: fujitsu
+address: 132
+command: 0
+#
+name: POWER ON
+type: parsed
+protocol: fujitsu
+address: 132
+command: 1
+#
+name: ON
+type: parsed
+protocol: fujitsu
+address: 132
+command: 1
+#
+name: POWER - ON
+type: parsed
+protocol: fujitsu
+address: 132
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: fujitsu
+address: 132
+command: 2
+#
+name: OFF
+type: parsed
+protocol: fujitsu
+address: 132
+command: 2
+#
+name: POWER - OFF
+type: parsed
+protocol: fujitsu
+address: 132
+command: 2
+#
+name: MODE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 3
+#
+name: VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 5
+#
+name: VIDEO 1 2 3
+type: parsed
+protocol: fujitsu
+address: 132
+command: 5
+#
+name: INPUT - VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 5
+#
+name: VIDEO 1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 5
+#
+name: INPUT 1 - COMPOSITE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 6
+#
+name: COMPOSITE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 6
+#
+name: VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 6
+#
+name: RGB
+type: parsed
+protocol: fujitsu
+address: 132
+command: 8
+#
+name: RGB 1 2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 8
+#
+name: INPUT - RGB
+type: parsed
+protocol: fujitsu
+address: 132
+command: 8
+#
+name: INPUT RGB2 - (D-SUB)
+type: parsed
+protocol: fujitsu
+address: 132
+command: 9
+#
+name: RGB DSUB
+type: parsed
+protocol: fujitsu
+address: 132
+command: 9
+#
+name: RGB2: D-SUB15
+type: parsed
+protocol: fujitsu
+address: 132
+command: 9
+#
+name: RGB-BNC
+type: parsed
+protocol: fujitsu
+address: 132
+command: 10
+#
+name: RGB3: 5 BNC
+type: parsed
+protocol: fujitsu
+address: 132
+command: 10
+#
+name: INPUT 2 - S-VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 11
+#
+name: S-VIDEO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 11
+#
+name: COMPONET
+type: parsed
+protocol: fujitsu
+address: 132
+command: 12
+#
+name: COMPONENT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 12
+#
+name: HIDDEN 1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 13
+#
+name: INPUT RGB1 - DVI
+type: parsed
+protocol: fujitsu
+address: 132
+command: 14
+#
+name: RGB DVI
+type: parsed
+protocol: fujitsu
+address: 132
+command: 14
+#
+name: RGB1: DVI-D
+type: parsed
+protocol: fujitsu
+address: 132
+command: 14
+#
+name: SHIFT 1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 16
+#
+name: VOL +
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOLUME - UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOLUME +
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOLUME UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: SHIFT 2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOL UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 32
+#
+name: VOL -
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: VOLUME -
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: VOLUME DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: VOL DN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 33
+#
+name: SHIFT 3
+type: parsed
+protocol: fujitsu
+address: 132
+command: 48
+#
+name: CUR LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: CURSOR LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: ARROW LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: ADJ LEFT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: CURSOR LF
+type: parsed
+protocol: fujitsu
+address: 132
+command: 62
+#
+name: CUR RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: ARROW RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: ADJ RIGHT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: CURSOR RT
+type: parsed
+protocol: fujitsu
+address: 132
+command: 63
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 132
+command: 64
+#
+name: SHIFT 4
+type: parsed
+protocol: fujitsu
+address: 132
+command: 64
+#
+name: CUR UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: CURSOR - UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: CURSOR UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: ADJUST >
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: ARROW UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: ADJ UP
+type: parsed
+protocol: fujitsu
+address: 132
+command: 65
+#
+name: CUR DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: ADJUST <
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: ARROW DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: ADJ DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: CURSOR DN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 66
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: CURSOR DOWN
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: ENTER
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: SET
+type: parsed
+protocol: fujitsu
+address: 132
+command: 91
+#
+name: HIDDEN 4
+type: parsed
+protocol: fujitsu
+address: 132
+command: 103
+#
+name: HIDDEN 6
+type: parsed
+protocol: fujitsu
+address: 132
+command: 104
+#
+name: HIDDEN 5
+type: parsed
+protocol: fujitsu
+address: 132
+command: 105
+#
+name: WIDE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 128
+#
+name: SCRN.MODE-WIDE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 128
+#
+name: ASPECT TOGGLE
+type: parsed
+protocol: fujitsu
+address: 132
+command: 128
+#
+name: ASPECT AUTO
+type: parsed
+protocol: fujitsu
+address: 132
+command: 129
+#
+name: SCRN.MODE-NORMAL
+type: parsed
+protocol: fujitsu
+address: 132
+command: 130
+#
+name: NORMAL
+type: parsed
+protocol: fujitsu
+address: 132
+command: 130
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: fujitsu
+address: 132
+command: 130
+#
+name: SCRN.MODE-WIDE1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 131
+#
+name: SCRN.MODE-WIDE2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 131
+#
+name: WIDE 1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 131
+#
+name: WIDE 2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 131
+#
+name: ASPECT WIDE1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 131
+#
+name: ASPECT WIDE2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 132
+#
+name: SCRN.MODE-ZOOM1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 133
+#
+name: ZOOM1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 133
+#
+name: ASPECT ZOOM1
+type: parsed
+protocol: fujitsu
+address: 132
+command: 133
+#
+name: SCRN.MODE-ZOOM2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 134
+#
+name: ZOOM 2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 134
+#
+name: ASPECT ZOOM2
+type: parsed
+protocol: fujitsu
+address: 132
+command: 134
+#
+name: HIDDEN 8
+type: parsed
+protocol: fujitsu
+address: 132
+command: 138
+#
+name: LOCK (HIDDEN)
+type: parsed
+protocol: fujitsu
+address: 132
+command: 224
+#
+name: HIDDEN 7
+type: parsed
+protocol: fujitsu
+address: 132
+command: 224
+#
+name: MODE (HIDDEN)
+type: parsed
+protocol: fujitsu
+address: 132
+command: 250
+#
+name: HIDDEN 3
+type: parsed
+protocol: fujitsu
+address: 132
+command: 250
+#

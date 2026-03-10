@@ -1,0 +1,411 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 0
+#
+name: C DOWN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 0
+#
+name: POWER ON
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 1
+#
+name: DISCRETE ON
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 1
+#
+name: POWER OFF
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 2
+#
+name: DISCRETE OFF
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 2
+#
+name: DISPLAY
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 8
+#
+name: WIDE
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 16
+#
+name: WIDE (TOGGLE)
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 16
+#
+name: ASPECT WIDE (TOG)
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 16
+#
+name: ASPECT AUTO
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 17
+#
+name: AUTO
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 17
+#
+name: ASPECT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 18
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 18
+#
+name: NORMAL
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 18
+#
+name: ASPECT WIDE 1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 19
+#
+name: WIDE 1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 19
+#
+name: ASPECT WIDE1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 19
+#
+name: ASPECT WIDE 2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 20
+#
+name: WIDE 2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 20
+#
+name: ASPECT WIDE2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 20
+#
+name: ASPECT ZOOM 1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 21
+#
+name: ZOOM 1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 21
+#
+name: ASPECT ZOOM1
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 21
+#
+name: ASPECT ZOOM 2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 22
+#
+name: ZOOM 2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 22
+#
+name: ASPECT ZOOM2
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 22
+#
+name: CURSOR LEFT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: LEFT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: ADJ. <
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: ADJ LEFT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: ARROW LEFT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: CURSOR LF
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: C LEFT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 32
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: RIGHT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: ADJ. >
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: ADJ RIGHT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: ARROW RIGHT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: CURSOR RT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: C RIGHT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 33
+#
+name: MENU
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 34
+#
+name: MENU/EXIT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 34
+#
+name: CURSOR UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: ADJ. UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: ADJ UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: ARROW UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: C UP
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 35
+#
+name: CURSOR DOWN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: DOWN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: ADJ. DN.
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: ADJ DOWN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: ARROW DOWN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: CURSOR DN
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 36
+#
+name: ENTER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 38
+#
+name: CURSOR SELECT /ENTER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 38
+#
+name: SELECT
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 38
+#
+name: CURSOR ENTER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 38
+#
+name: OFF-TIMER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 65
+#
+name: TIMER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 65
+#
+name: OFF TIMER
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 65
+#
+name: MODE
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 68
+#
+name: PICTURE MODE
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 68
+#
+name: PIC MODE
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 68
+#
+name: MEMORY
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 72
+#
+name: PICTURE MEMORY
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 72
+#
+name: PIC MEMORY
+type: parsed
+protocol: fujitsu
+address: 132.138
+command: 72
+#

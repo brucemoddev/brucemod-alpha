@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ok
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 0
+#
+name: u
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 0
+#
+name: mute
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 1
+#
+name: w
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 1
+#
+name: power
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 2
+#
+name: y
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 2
+#
+name: vol+
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 8
+#
+name: v
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 8
+#
+name: vol-
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 9
+#
+name: t
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 9
+#
+name: bright
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 10
+#
+name: o
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 10
+#
+name: tint
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 11
+#
+name: n
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 11
+#
+name: color
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 12
+#
+name: j
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 12
+#
+name: white
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 13
+#
+name: i
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 13
+#
+name: .av
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 16
+#
+name: p
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 16
+#
+name: 1
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 17
+#
+name: a
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 17
+#
+name: 2
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 18
+#
+name: b
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 18
+#
+name: 3
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 19
+#
+name: c
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 19
+#
+name: 4
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 20
+#
+name: f
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 20
+#
+name: 5
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 21
+#
+name: g
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 21
+#
+name: 6
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 22
+#
+name: h
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 22
+#
+name: 7
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 23
+#
+name: k
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 23
+#
+name: 8
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 24
+#
+name: l
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 24
+#
+name: 9
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 25
+#
+name: m
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 25
+#
+name: p/c
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 26
+#
+name: s
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 26
+#
+name: p+
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 42
+#
+name: q
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 42
+#
+name: p-
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 43
+#
+name: x
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 43
+#
+name: timer
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 45
+#
+name: r
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 45
+#
+name: text
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 48
+#
+name: e
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 48
+#
+name: stop
+type: parsed
+protocol: blaupunkt
+address: 0
+command: 59
+#
+name: d
+type: parsed
+protocol: blaupunkt
+address: 1
+command: 59
+#

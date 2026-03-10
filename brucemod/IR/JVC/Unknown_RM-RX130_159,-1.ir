@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 159
+command: 0
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: jvc
+address: 159
+command: 1
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: jvc
+address: 159
+command: 2
+#
+name: ACTIVE_HYPER_BASS
+type: parsed
+protocol: jvc
+address: 159
+command: 4
+#
+name: TUNER_BAND
+type: parsed
+protocol: jvc
+address: 159
+command: 11
+#
+name: KEY_OK
+type: parsed
+protocol: jvc
+address: 159
+command: 17
+#
+name: PRESET_SCAN
+type: parsed
+protocol: jvc
+address: 159
+command: 18
+#
+name: KEY_TIME
+type: parsed
+protocol: jvc
+address: 159
+command: 28
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 159
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 159
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 159
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 159
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 159
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 159
+command: 38
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 159
+command: 39
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 159
+command: 40
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 159
+command: 41
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 159
+command: 42
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: jvc
+address: 159
+command: 46
+#
+name: TIMER_SET
+type: parsed
+protocol: jvc
+address: 159
+command: 48
+#
+name: KEY_SLEEP
+type: parsed
+protocol: jvc
+address: 159
+command: 50
+#
+name: SET
+type: parsed
+protocol: jvc
+address: 159
+command: 51
+#
+name: TIMER_ON_OFF
+type: parsed
+protocol: jvc
+address: 159
+command: 54
+#
+name: SEARCH_UP
+type: parsed
+protocol: jvc
+address: 159
+command: 61
+#
+name: SEARCH_DOWN
+type: parsed
+protocol: jvc
+address: 159
+command: 62
+#
+name: CD_PLAY_PAUSE
+type: parsed
+protocol: jvc
+address: 159
+command: 112
+#
+name: CD_STOP
+type: parsed
+protocol: jvc
+address: 159
+command: 113
+#
+name: MEMORY_CALL
+type: parsed
+protocol: jvc
+address: 159
+command: 116
+#
+name: INTRO
+type: parsed
+protocol: jvc
+address: 159
+command: 118
+#
+name: RANDOM
+type: parsed
+protocol: jvc
+address: 159
+command: 119
+#
+name: KEY_AGAIN
+type: parsed
+protocol: jvc
+address: 159
+command: 120
+#
+name: FREQUENCY
+type: parsed
+protocol: jvc
+address: 159
+command: 128
+#

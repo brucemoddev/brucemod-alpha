@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CHANNELUP
+type: parsed
+protocol: sony12
+address: 2
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sony12
+address: 2
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 2
+command: 21
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 2
+command: 24
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 2
+command: 25
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 2
+command: 26
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 2
+command: 27
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony12
+address: 2
+command: 28
+#
+name: KEY_RECORD
+type: parsed
+protocol: sony12
+address: 2
+command: 29
+#
+name: TV/VTR
+type: parsed
+protocol: sony12
+address: 2
+command: 42
+#

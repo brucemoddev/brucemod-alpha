@@ -1,0 +1,375 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: A
+type: parsed
+protocol: denon
+address: 24
+command: 1
+#
+name: B
+type: parsed
+protocol: denon
+address: 24
+command: 2
+#
+name: C
+type: parsed
+protocol: denon
+address: 24
+command: 3
+#
+name: D
+type: parsed
+protocol: denon
+address: 24
+command: 4
+#
+name: E
+type: parsed
+protocol: denon
+address: 24
+command: 5
+#
+name: ESC
+type: parsed
+protocol: denon
+address: 24
+command: 5
+#
+name: F
+type: parsed
+protocol: denon
+address: 24
+command: 6
+#
+name: 1
+type: parsed
+protocol: denon
+address: 24
+command: 6
+#
+name: G
+type: parsed
+protocol: denon
+address: 24
+command: 7
+#
+name: 2
+type: parsed
+protocol: denon
+address: 24
+command: 7
+#
+name: H
+type: parsed
+protocol: denon
+address: 24
+command: 8
+#
+name: 3
+type: parsed
+protocol: denon
+address: 24
+command: 8
+#
+name: I
+type: parsed
+protocol: denon
+address: 24
+command: 9
+#
+name: J
+type: parsed
+protocol: denon
+address: 24
+command: 10
+#
+name: 4
+type: parsed
+protocol: denon
+address: 24
+command: 10
+#
+name: K
+type: parsed
+protocol: denon
+address: 24
+command: 11
+#
+name: 5
+type: parsed
+protocol: denon
+address: 24
+command: 11
+#
+name: L
+type: parsed
+protocol: denon
+address: 24
+command: 12
+#
+name: 6
+type: parsed
+protocol: denon
+address: 24
+command: 12
+#
+name: M
+type: parsed
+protocol: denon
+address: 24
+command: 13
+#
+name: N
+type: parsed
+protocol: denon
+address: 24
+command: 14
+#
+name: 7
+type: parsed
+protocol: denon
+address: 24
+command: 14
+#
+name: O
+type: parsed
+protocol: denon
+address: 24
+command: 15
+#
+name: 8
+type: parsed
+protocol: denon
+address: 24
+command: 15
+#
+name: P
+type: parsed
+protocol: denon
+address: 24
+command: 16
+#
+name: 9
+type: parsed
+protocol: denon
+address: 24
+command: 16
+#
+name: Q
+type: parsed
+protocol: denon
+address: 24
+command: 17
+#
+name: ENTER
+type: parsed
+protocol: denon
+address: 24
+command: 17
+#
+name: R
+type: parsed
+protocol: denon
+address: 24
+command: 18
+#
+name: S
+type: parsed
+protocol: denon
+address: 24
+command: 19
+#
+name: 0
+type: parsed
+protocol: denon
+address: 24
+command: 19
+#
+name: T
+type: parsed
+protocol: denon
+address: 24
+command: 20
+#
+name: U
+type: parsed
+protocol: denon
+address: 24
+command: 25
+#
+name: V
+type: parsed
+protocol: denon
+address: 24
+command: 26
+#
+name: PLAY >
+type: parsed
+protocol: denon
+address: 24
+command: 26
+#
+name: W
+type: parsed
+protocol: denon
+address: 24
+command: 27
+#
+name: X
+type: parsed
+protocol: denon
+address: 24
+command: 28
+#
+name: STOP []
+type: parsed
+protocol: denon
+address: 24
+command: 28
+#
+name: Y
+type: parsed
+protocol: denon
+address: 24
+command: 29
+#
+name: 1
+type: parsed
+protocol: denon
+address: 24
+command: 30
+#
+name: PAUSE
+type: parsed
+protocol: denon
+address: 24
+command: 30
+#
+name: 2
+type: parsed
+protocol: denon
+address: 24
+command: 31
+#
+name: 3
+type: parsed
+protocol: denon
+address: 24
+command: 32
+#
+name: NEXT
+type: parsed
+protocol: denon
+address: 24
+command: 32
+#
+name: Z
+type: parsed
+protocol: denon
+address: 24
+command: 33
+#
+name: HOME
+type: parsed
+protocol: denon
+address: 24
+command: 33
+#
+name: 4
+type: parsed
+protocol: denon
+address: 24
+command: 34
+#
+name: 5
+type: parsed
+protocol: denon
+address: 24
+command: 35
+#
+name: ^ (UP)
+type: parsed
+protocol: denon
+address: 24
+command: 35
+#
+name: 6
+type: parsed
+protocol: denon
+address: 24
+command: 36
+#
+name: F1
+type: parsed
+protocol: denon
+address: 24
+command: 37
+#
+name: 7
+type: parsed
+protocol: denon
+address: 24
+command: 38
+#
+name: < (LEFT)
+type: parsed
+protocol: denon
+address: 24
+command: 38
+#
+name: 8
+type: parsed
+protocol: denon
+address: 24
+command: 39
+#
+name: 9
+type: parsed
+protocol: denon
+address: 24
+command: 40
+#
+name: > (RIGHT)
+type: parsed
+protocol: denon
+address: 24
+command: 40
+#
+name: F2
+type: parsed
+protocol: denon
+address: 24
+command: 41
+#
+name: END
+type: parsed
+protocol: denon
+address: 24
+command: 41
+#
+name: F3
+type: parsed
+protocol: denon
+address: 24
+command: 42
+#
+name: 0
+type: parsed
+protocol: denon
+address: 24
+command: 43
+#
+name: V (DOWN)
+type: parsed
+protocol: denon
+address: 24
+command: 43
+#
+name: F4
+type: parsed
+protocol: denon
+address: 24
+command: 44
+#

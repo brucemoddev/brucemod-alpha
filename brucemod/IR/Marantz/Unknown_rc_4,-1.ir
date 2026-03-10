@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc6
+address: 4
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: rc6
+address: 4
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: rc6
+address: 4
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: rc6
+address: 4
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: rc6
+address: 4
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: rc6
+address: 4
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: rc6
+address: 4
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: rc6
+address: 4
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: rc6
+address: 4
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: rc6
+address: 4
+command: 9
+#
+name: KEY_POWER
+type: parsed
+protocol: rc6
+address: 4
+command: 12
+#
+name: KEY_MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 15
+#
+name: RANDOM
+type: parsed
+protocol: rc6
+address: 4
+command: 28
+#
+name: KEY_AGAIN
+type: parsed
+protocol: rc6
+address: 4
+command: 29
+#
+name: SKIP_NEXT
+type: parsed
+protocol: rc6
+address: 4
+command: 32
+#
+name: SKIP_PREV
+type: parsed
+protocol: rc6
+address: 4
+command: 33
+#
+name: SLOW_NEXT
+type: parsed
+protocol: rc6
+address: 4
+command: 34
+#
+name: SLOW_PREV
+type: parsed
+protocol: rc6
+address: 4
+command: 35
+#
+name: SCAN_NEXT
+type: parsed
+protocol: rc6
+address: 4
+command: 40
+#
+name: SCAN_PREV
+type: parsed
+protocol: rc6
+address: 4
+command: 41
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc6
+address: 4
+command: 44
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc6
+address: 4
+command: 48
+#
+name: KEY_STOP
+type: parsed
+protocol: rc6
+address: 4
+command: 49
+#
+name: KEY_CLEAR
+type: parsed
+protocol: rc6
+address: 4
+command: 58
+#
+name: A/B
+type: parsed
+protocol: rc6
+address: 4
+command: 59
+#
+name: KEY_OPEN
+type: parsed
+protocol: rc6
+address: 4
+command: 66
+#
+name: PROGRAMM
+type: parsed
+protocol: rc6
+address: 4
+command: 69
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: rc6
+address: 4
+command: 75
+#
+name: KEY_AUDIO
+type: parsed
+protocol: rc6
+address: 4
+command: 78
+#
+name: SURR
+type: parsed
+protocol: rc6
+address: 4
+command: 82
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc6
+address: 4
+command: 88
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc6
+address: 4
+command: 89
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: rc6
+address: 4
+command: 90
+#
+name: KEY_NEXT
+type: parsed
+protocol: rc6
+address: 4
+command: 91
+#
+name: SELECT/ENTER
+type: parsed
+protocol: rc6
+address: 4
+command: 92
+#
+name: TOP_MENU
+type: parsed
+protocol: rc6
+address: 4
+command: 113
+#
+name: KEY_SETUP
+type: parsed
+protocol: rc6
+address: 4
+command: 130
+#
+name: KEY_OK
+type: parsed
+protocol: rc6
+address: 4
+command: 131
+#
+name: KEY_ANGLE
+type: parsed
+protocol: rc6
+address: 4
+command: 133
+#
+name: MARKER
+type: parsed
+protocol: rc6
+address: 4
+command: 240
+#
+name: KEY_SEARCH
+type: parsed
+protocol: rc6
+address: 4
+command: 241
+#
+name: KEY_ZOOM
+type: parsed
+protocol: rc6
+address: 4
+command: 247
+#

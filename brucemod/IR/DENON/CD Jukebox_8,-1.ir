@@ -1,0 +1,345 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DOWN
+type: parsed
+protocol: denon
+address: 8
+command: 64
+#
+name: 0
+type: parsed
+protocol: denon
+address: 8
+command: 65
+#
+name: 1
+type: parsed
+protocol: denon
+address: 8
+command: 66
+#
+name: 2
+type: parsed
+protocol: denon
+address: 8
+command: 67
+#
+name: 3
+type: parsed
+protocol: denon
+address: 8
+command: 68
+#
+name: 4
+type: parsed
+protocol: denon
+address: 8
+command: 69
+#
+name: 5
+type: parsed
+protocol: denon
+address: 8
+command: 70
+#
+name: 6
+type: parsed
+protocol: denon
+address: 8
+command: 71
+#
+name: 7
+type: parsed
+protocol: denon
+address: 8
+command: 72
+#
+name: 8
+type: parsed
+protocol: denon
+address: 8
+command: 73
+#
+name: 9
+type: parsed
+protocol: denon
+address: 8
+command: 74
+#
+name: 10
+type: parsed
+protocol: denon
+address: 8
+command: 75
+#
+name: +10
+type: parsed
+protocol: denon
+address: 8
+command: 76
+#
+name: PROG/DIRECT
+type: parsed
+protocol: denon
+address: 8
+command: 77
+#
+name: PROGRAM
+type: parsed
+protocol: denon
+address: 8
+command: 77
+#
+name: VOLUME+
+type: parsed
+protocol: denon
+address: 8
+command: 78
+#
+name: VOLUME-
+type: parsed
+protocol: denon
+address: 8
+command: 79
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: denon
+address: 8
+command: 80
+#
+name: CLEAR
+type: parsed
+protocol: denon
+address: 8
+command: 81
+#
+name: CALL
+type: parsed
+protocol: denon
+address: 8
+command: 82
+#
+name: CHECK
+type: parsed
+protocol: denon
+address: 8
+command: 82
+#
+name: TIME
+type: parsed
+protocol: denon
+address: 8
+command: 83
+#
+name: TIME/TEXT
+type: parsed
+protocol: denon
+address: 8
+command: 83
+#
+name: REPEAT
+type: parsed
+protocol: denon
+address: 8
+command: 84
+#
+name: REPEAT ALL
+type: parsed
+protocol: denon
+address: 8
+command: 84
+#
+name: CONTINUE
+type: parsed
+protocol: denon
+address: 8
+command: 87
+#
+name: >>I
+type: parsed
+protocol: denon
+address: 8
+command: 88
+#
+name: SKIP >>
+type: parsed
+protocol: denon
+address: 8
+command: 88
+#
+name: I<<
+type: parsed
+protocol: denon
+address: 8
+command: 89
+#
+name: SKIP <<
+type: parsed
+protocol: denon
+address: 8
+command: 89
+#
+name: >>
+type: parsed
+protocol: denon
+address: 8
+command: 90
+#
+name: SEARCH >>
+type: parsed
+protocol: denon
+address: 8
+command: 90
+#
+name: <<
+type: parsed
+protocol: denon
+address: 8
+command: 91
+#
+name: SEARCH <<
+type: parsed
+protocol: denon
+address: 8
+command: 91
+#
+name: PLAY
+type: parsed
+protocol: denon
+address: 8
+command: 92
+#
+name: PAUSE
+type: parsed
+protocol: denon
+address: 8
+command: 93
+#
+name: STOP
+type: parsed
+protocol: denon
+address: 8
+command: 94
+#
+name: DISC SELECT
+type: parsed
+protocol: denon
+address: 8
+command: 98
+#
+name: RANDOM
+type: parsed
+protocol: denon
+address: 8
+command: 106
+#
+name: DISC SKIP+
+type: parsed
+protocol: denon
+address: 8
+command: 107
+#
+name: DISC SKIP UP
+type: parsed
+protocol: denon
+address: 8
+command: 107
+#
+name: DISC +
+type: parsed
+protocol: denon
+address: 8
+command: 107
+#
+name: DISC SKIP-
+type: parsed
+protocol: denon
+address: 8
+command: 110
+#
+name: DISC SKIP DN
+type: parsed
+protocol: denon
+address: 8
+command: 110
+#
+name: DISC -
+type: parsed
+protocol: denon
+address: 8
+command: 110
+#
+name: POWER ON
+type: parsed
+protocol: denon
+address: 8
+command: 115
+#
+name: ENTER
+type: parsed
+protocol: denon
+address: 8
+command: 122
+#
+name: GROUP
+type: parsed
+protocol: denon
+address: 8
+command: 126
+#
+name: UP
+type: parsed
+protocol: denon
+address: 8
+command: 127
+#
+name: POWER OFF
+type: parsed
+protocol: denon
+address: 8
+command: 248
+#
+name: SINGLE
+type: parsed
+protocol: denon
+address: 8
+command: 249
+#
+name: MULTI
+type: parsed
+protocol: denon
+address: 8
+command: 250
+#
+name: ZONE 1
+type: parsed
+protocol: denon
+address: 8
+command: 251
+#
+name: ZONE 2
+type: parsed
+protocol: denon
+address: 8
+command: 252
+#
+name: LEFT
+type: parsed
+protocol: denon
+address: 8
+command: 253
+#
+name: RIGHT
+type: parsed
+protocol: denon
+address: 8
+command: 254
+#
+name: TRACK/CAPS
+type: parsed
+protocol: denon
+address: 8
+command: 255
+#

@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER/STANDBY
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOL UP
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: VOL DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: LASER
+type: parsed
+protocol: rc5
+address: 16
+command: 18
+#
+name: AUX2
+type: parsed
+protocol: rc5
+address: 16
+command: 19
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 19
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 20
+#
+name: VCR
+type: parsed
+protocol: rc5
+address: 16
+command: 23
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 23
+#
+name: AUX1
+type: parsed
+protocol: rc5
+address: 16
+command: 24
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 24
+#
+name: DAT
+type: parsed
+protocol: rc5
+address: 16
+command: 25
+#
+name: SAT
+type: parsed
+protocol: rc5
+address: 16
+command: 31
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 31
+#
+name: SURROUND
+type: parsed
+protocol: rc5
+address: 16
+command: 37
+#
+name: NORM
+type: parsed
+protocol: rc5
+address: 16
+command: 49
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 49
+#
+name: SOURCE-V
+type: parsed
+protocol: rc5
+address: 16
+command: 50
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 50
+#
+name: SOURCE-A
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: SELECT
+type: parsed
+protocol: rc5
+address: 16
+command: 80
+#
+name: OSG
+type: parsed
+protocol: rc5
+address: 16
+command: 82
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 82
+#
+name: SOURCE-A/V
+type: parsed
+protocol: rc5
+address: 16
+command: 118
+#
+name: 
+type: parsed
+protocol: rc5
+address: 16
+command: 118
+#
+name: MODE
+type: parsed
+protocol: rc5
+address: 16
+command: 119
+#

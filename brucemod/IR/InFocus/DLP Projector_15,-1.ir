@@ -1,0 +1,207 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ANT
+type: parsed
+protocol: rca
+address: 15
+command: 5
+#
+name: CC
+type: parsed
+protocol: rca
+address: 15
+command: 5
+#
+name: CLEAR
+type: parsed
+protocol: rca
+address: 15
+command: 6
+#
+name: MENU
+type: parsed
+protocol: rca
+address: 15
+command: 8
+#
+name: FREEZE
+type: parsed
+protocol: rca
+address: 15
+command: 12
+#
+name: PIP
+type: parsed
+protocol: rca
+address: 15
+command: 27
+#
+name: GO BACK
+type: parsed
+protocol: rca
+address: 15
+command: 39
+#
+name: POWER
+type: parsed
+protocol: rca
+address: 15
+command: 42
+#
+name: CHANNEL -
+type: parsed
+protocol: rca
+address: 15
+command: 44
+#
+name: CHANNEL +
+type: parsed
+protocol: rca
+address: 15
+command: 45
+#
+name: VOLUME -
+type: parsed
+protocol: rca
+address: 15
+command: 46
+#
+name: VOLUME +
+type: parsed
+protocol: rca
+address: 15
+command: 47
+#
+name: 0
+type: parsed
+protocol: rca
+address: 15
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca
+address: 15
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 15
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca
+address: 15
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 15
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 15
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca
+address: 15
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca
+address: 15
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca
+address: 15
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca
+address: 15
+command: 57
+#
+name: INFO
+type: parsed
+protocol: rca
+address: 15
+command: 60
+#
+name: MUTE
+type: parsed
+protocol: rca
+address: 15
+command: 63
+#
+name: SKIP
+type: parsed
+protocol: rca
+address: 15
+command: 83
+#
+name: LEFT
+type: parsed
+protocol: rca
+address: 15
+command: 86
+#
+name: RIGHT
+type: parsed
+protocol: rca
+address: 15
+command: 87
+#
+name: DOWN
+type: parsed
+protocol: rca
+address: 15
+command: 88
+#
+name: UP
+type: parsed
+protocol: rca
+address: 15
+command: 89
+#
+name: FORMAT
+type: parsed
+protocol: rca
+address: 15
+command: 144
+#
+name: INPUT
+type: parsed
+protocol: rca
+address: 15
+command: 163
+#
+name: SWAP
+type: parsed
+protocol: rca
+address: 15
+command: 195
+#
+name: CH CONTROL
+type: parsed
+protocol: rca
+address: 15
+command: 229
+#
+name: OK
+type: parsed
+protocol: rca
+address: 15
+command: 244
+#

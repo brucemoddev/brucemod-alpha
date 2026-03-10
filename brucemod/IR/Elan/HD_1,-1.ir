@@ -1,0 +1,309 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ON 0
+type: parsed
+protocol: velleman
+address: 1
+command: 0
+#
+name: ON 1
+type: parsed
+protocol: velleman
+address: 1
+command: 1
+#
+name: ON 2
+type: parsed
+protocol: velleman
+address: 1
+command: 2
+#
+name: ON 3
+type: parsed
+protocol: velleman
+address: 1
+command: 3
+#
+name: ON 4
+type: parsed
+protocol: velleman
+address: 1
+command: 4
+#
+name: ON 5
+type: parsed
+protocol: velleman
+address: 1
+command: 5
+#
+name: ON 6
+type: parsed
+protocol: velleman
+address: 1
+command: 6
+#
+name: ON 7
+type: parsed
+protocol: velleman
+address: 1
+command: 7
+#
+name: ON 8
+type: parsed
+protocol: velleman
+address: 1
+command: 8
+#
+name: ON 9
+type: parsed
+protocol: velleman
+address: 1
+command: 9
+#
+name: ON A
+type: parsed
+protocol: velleman
+address: 1
+command: 10
+#
+name: ON B
+type: parsed
+protocol: velleman
+address: 1
+command: 11
+#
+name: ON C
+type: parsed
+protocol: velleman
+address: 1
+command: 12
+#
+name: ON D
+type: parsed
+protocol: velleman
+address: 1
+command: 13
+#
+name: ON E
+type: parsed
+protocol: velleman
+address: 1
+command: 14
+#
+name: ON F
+type: parsed
+protocol: velleman
+address: 1
+command: 15
+#
+name: ON G
+type: parsed
+protocol: velleman
+address: 1
+command: 16
+#
+name: WH ON
+type: parsed
+protocol: recs80_45
+address: 1
+command: 17
+#
+name: ON H
+type: parsed
+protocol: velleman
+address: 1
+command: 17
+#
+name: ON I
+type: parsed
+protocol: velleman
+address: 1
+command: 18
+#
+name: ON J
+type: parsed
+protocol: velleman
+address: 1
+command: 19
+#
+name: ON ELAN
+type: parsed
+protocol: velleman
+address: 1
+command: 24
+#
+name: ON POWER
+type: parsed
+protocol: velleman
+address: 1
+command: 25
+#
+name: ON MUTE
+type: parsed
+protocol: velleman
+address: 1
+command: 26
+#
+name: ON DND
+type: parsed
+protocol: velleman
+address: 1
+command: 27
+#
+name: OFF 0
+type: parsed
+protocol: velleman
+address: 1
+command: 32
+#
+name: OFF 1
+type: parsed
+protocol: velleman
+address: 1
+command: 33
+#
+name: OFF 2
+type: parsed
+protocol: velleman
+address: 1
+command: 34
+#
+name: OFF 3
+type: parsed
+protocol: velleman
+address: 1
+command: 35
+#
+name: OFF 4
+type: parsed
+protocol: velleman
+address: 1
+command: 36
+#
+name: OFF 5
+type: parsed
+protocol: velleman
+address: 1
+command: 37
+#
+name: OFF 6
+type: parsed
+protocol: velleman
+address: 1
+command: 38
+#
+name: OFF 7
+type: parsed
+protocol: velleman
+address: 1
+command: 39
+#
+name: OFF 8
+type: parsed
+protocol: velleman
+address: 1
+command: 40
+#
+name: OFF 9
+type: parsed
+protocol: velleman
+address: 1
+command: 41
+#
+name: OFF A
+type: parsed
+protocol: velleman
+address: 1
+command: 42
+#
+name: OFF B
+type: parsed
+protocol: velleman
+address: 1
+command: 43
+#
+name: OFF C
+type: parsed
+protocol: velleman
+address: 1
+command: 44
+#
+name: OFF D
+type: parsed
+protocol: velleman
+address: 1
+command: 45
+#
+name: OFF E
+type: parsed
+protocol: velleman
+address: 1
+command: 46
+#
+name: OFF F
+type: parsed
+protocol: velleman
+address: 1
+command: 47
+#
+name: OFF G
+type: parsed
+protocol: velleman
+address: 1
+command: 48
+#
+name: WH OFF
+type: parsed
+protocol: recs80_45
+address: 1
+command: 49
+#
+name: 
+type: parsed
+protocol: recs80_45
+address: 1
+command: 49
+#
+name: OFF H
+type: parsed
+protocol: velleman
+address: 1
+command: 49
+#
+name: OFF I
+type: parsed
+protocol: velleman
+address: 1
+command: 50
+#
+name: OFF J
+type: parsed
+protocol: velleman
+address: 1
+command: 51
+#
+name: OFF ELAN
+type: parsed
+protocol: velleman
+address: 1
+command: 56
+#
+name: OFF PWR
+type: parsed
+protocol: velleman
+address: 1
+command: 57
+#
+name: OFF MUTE
+type: parsed
+protocol: velleman
+address: 1
+command: 58
+#
+name: OFF DND
+type: parsed
+protocol: velleman
+address: 1
+command: 59
+#

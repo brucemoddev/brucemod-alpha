@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 2
+type: parsed
+protocol: akai
+address: 7
+command: 10
+#
+name: 4
+type: parsed
+protocol: akai
+address: 7
+command: 10
+#
+name: 
+type: parsed
+protocol: akai
+address: 7
+command: 10
+#
+name: 7
+type: parsed
+protocol: akai
+address: 7
+command: 10
+#
+name: COUNTER ZERO STOP
+type: parsed
+protocol: akai
+address: 7
+command: 42
+#
+name: VIDEO / TV
+type: parsed
+protocol: akai
+address: 7
+command: 42
+#
+name: -
+type: parsed
+protocol: akai
+address: 7
+command: 74
+#
+name: +
+type: parsed
+protocol: akai
+address: 7
+command: 74
+#
+name: 
+type: parsed
+protocol: akai
+address: 7
+command: 74
+#
+name: CANCEL
+type: parsed
+protocol: akai
+address: 7
+command: 106
+#
+name: CURSOR UP
+type: parsed
+protocol: akai
+address: 7
+command: 106
+#

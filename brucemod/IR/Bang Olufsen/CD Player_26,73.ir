@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TRACK -
+type: parsed
+protocol: sony20
+address: 26.73
+command: 48
+#
+name: TRACK +
+type: parsed
+protocol: sony20
+address: 26.73
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony20
+address: 26.73
+command: 50
+#
+name: SCAN -
+type: parsed
+protocol: sony20
+address: 26.73
+command: 51
+#
+name: SCAN +
+type: parsed
+protocol: sony20
+address: 26.73
+command: 52
+#
+name: STOP
+type: parsed
+protocol: sony20
+address: 26.73
+command: 56
+#

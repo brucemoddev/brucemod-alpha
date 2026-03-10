@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REAR/CTR RESET
+type: parsed
+protocol: nec1
+address: 26
+command: 79
+#
+name: BAL CHECK(LEVEL ADJ)
+type: parsed
+protocol: nec1
+address: 26
+command: 80
+#
+name: SUBWOOFER - (LVL ADJ
+type: parsed
+protocol: nec1
+address: 26
+command: 81
+#
+name: CENTER - (LEVEL ADJ)
+type: parsed
+protocol: nec1
+address: 26
+command: 82
+#
+name: REAR - (LEVEL ADJ)
+type: parsed
+protocol: nec1
+address: 26
+command: 83
+#
+name: BASS EQ
+type: parsed
+protocol: nec1
+address: 26
+command: 84
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 26
+command: 85
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 26
+command: 86
+#
+name: SURROUND
+type: parsed
+protocol: nec1
+address: 26
+command: 87
+#
+name: TAPE MON
+type: parsed
+protocol: nec1
+address: 26
+command: 88
+#
+name: SUBWOOFER + (LVL ADJ
+type: parsed
+protocol: nec1
+address: 26
+command: 89
+#
+name: CENTER + (LEVEL ADJ)
+type: parsed
+protocol: nec1
+address: 26
+command: 90
+#
+name: REAR + (LEVEL ADJ)
+type: parsed
+protocol: nec1
+address: 26
+command: 91
+#
+name: DELAY
+type: parsed
+protocol: nec1
+address: 26
+command: 92
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 26
+command: 94
+#
+name: MUTING
+type: parsed
+protocol: nec1
+address: 26
+command: 95
+#

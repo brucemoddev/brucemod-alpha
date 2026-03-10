@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ALL PORTS ON
+type: parsed
+protocol: velleman
+address: 1
+command: 31
+#
+name: ALL PORTS OFF
+type: parsed
+protocol: velleman
+address: 1
+command: 63
+#

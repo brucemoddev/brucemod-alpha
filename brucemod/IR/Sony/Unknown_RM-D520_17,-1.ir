@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: continue
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: program
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: >10
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: KEY_TIME
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: KEY_FORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: rw
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: shuffle
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: m.scan
+type: parsed
+protocol: sony12
+address: 17
+command: 60
+#
+name: dsp.select
+type: parsed
+protocol: sony12
+address: 17
+command: 93
+#
+name: direct
+type: parsed
+protocol: sony12
+address: 17
+command: 94
+#
+name: fader
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#

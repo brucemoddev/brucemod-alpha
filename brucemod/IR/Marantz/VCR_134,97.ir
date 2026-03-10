@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MEM
+type: parsed
+protocol: nec1
+address: 134.97
+command: 10
+#
+name: PLAY/PAUSE > 
+type: parsed
+protocol: nec1
+address: 134.97
+command: 13
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 134.97
+command: 14
+#
+name: SEARCH FWD >>
+type: parsed
+protocol: nec1
+address: 134.97
+command: 15
+#
+name: SEARCH REV <<
+type: parsed
+protocol: nec1
+address: 134.97
+command: 16
+#
+name: FFWD >>
+type: parsed
+protocol: nec1
+address: 134.97
+command: 17
+#
+name: REW <<
+type: parsed
+protocol: nec1
+address: 134.97
+command: 18
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 134.97
+command: 19
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 134.97
+command: 24
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 134.97
+command: 25
+#

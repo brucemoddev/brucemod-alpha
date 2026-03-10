@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 14
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 127.1
+command: 15
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 127.1
+command: 17
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 127.1
+command: 20
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 21
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 127.1
+command: 23
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 127.1
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 127.1
+command: 26
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 127.1
+command: 27
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 127.1
+command: 28
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 127.1
+command: 29
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 127.1
+command: 30
+#

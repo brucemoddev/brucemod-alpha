@@ -1,0 +1,465 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 0
+#
+name: 1
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 1
+#
+name: 2
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 2
+#
+name: 3
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 3
+#
+name: 4
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 4
+#
+name: 5
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 5
+#
+name: 6
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 6
+#
+name: 7
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 7
+#
+name: 8
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 8
+#
+name: 9
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 9
+#
+name: Q
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 34
+#
+name: W
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 35
+#
+name: E
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 36
+#
+name: R
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 37
+#
+name: T
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 38
+#
+name: Y
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 39
+#
+name: U
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 40
+#
+name: I
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 41
+#
+name: O
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 42
+#
+name: P
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 43
+#
+name: CAPS LOCK ON
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 49
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 49
+#
+name: A
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 50
+#
+name: S
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 51
+#
+name: D
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 52
+#
+name: F
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 53
+#
+name: G
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 54
+#
+name: H
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 55
+#
+name: J
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 56
+#
+name: K
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 57
+#
+name: L
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 58
+#
+name: CAPS LOCK OFF
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 65
+#
+name: Z
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 66
+#
+name: X
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 67
+#
+name: C
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 68
+#
+name: V
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 69
+#
+name: B
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 70
+#
+name: N
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 71
+#
+name: M
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 72
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 128
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 129
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 130
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 131
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 132
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 133
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 134
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 135
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 136
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 137
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 162
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 163
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 164
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 165
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 166
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 167
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 168
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 169
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 170
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 171
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 177
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 178
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 179
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 180
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 181
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 182
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 183
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 184
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 185
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 186
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 193
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 194
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 195
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 196
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 197
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 198
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 199
+#
+name: 
+type: parsed
+protocol: Nokia32
+address: 33.184
+command: 200
+#

@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44
+command: 30
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 44
+command: 23
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 44
+command: 22
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44
+command: 31
+#
+name: INPUT SOURCE
+type: parsed
+protocol: nec2
+address: 44
+command: 138
+#
+name: standard
+type: parsed
+protocol: nec2
+address: 44
+command: 54
+#
+name: CINEMA
+type: parsed
+protocol: nec2
+address: 44
+command: 144
+#
+name: rewind
+type: parsed
+protocol: nec2
+address: 44
+command: 6
+#
+name: PLAY / PAUSE
+type: parsed
+protocol: nec2
+address: 44
+command: 79
+#
+name: forward
+type: parsed
+protocol: nec2
+address: 44
+command: 7
+#
+name: NIGHT ON
+type: parsed
+protocol: nec2
+address: 44
+command: 156
+#
+name: NIGHT OFF
+type: parsed
+protocol: nec2
+address: 44
+command: 155
+#

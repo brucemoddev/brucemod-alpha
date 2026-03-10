@@ -1,0 +1,165 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: On
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 208
+#
+name: AUDIO_SETUP
+type: parsed
+protocol: panasonic
+address: 132.2
+command: 240
+#
+name: Position
+type: parsed
+protocol: panasonic
+address: 132.2
+command: 80
+#
+name: PICURE
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 96
+#
+name: IMPUT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#
+name: setup
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: sound
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 112
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 160
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 176
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 224
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 240
+#
+name: enter
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: Default
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 192
+#
+name: ZOOM
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 112
+#
+name: recall
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 144
+#
+name: return
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: Aspect
+type: parsed
+protocol: panasonic
+address: 132.2
+command: 224
+#
+name: off_timer
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 240
+#
+name: Function
+type: parsed
+protocol: panasonic
+address: 138.2
+command: 0
+#
+name: Vol_Up
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: Vol_Down
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 0
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 16
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 32
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 48
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 64
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 80
+#

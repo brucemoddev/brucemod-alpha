@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 3
+#
+name: RGB
+type: parsed
+protocol: nec1
+address: 24.233
+command: 4
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 24.233
+command: 8
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 24.233
+command: 20
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 24.233
+command: 23
+#
+name: R-CLICK
+type: parsed
+protocol: nec1
+address: 24.233
+command: 37
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 24.233
+command: 70
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 71
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 72
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 73
+#
+name: FREEZE
+type: parsed
+protocol: nec1
+address: 24.233
+command: 76
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 24.233
+command: 92
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 24.233
+command: 93
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 24.233
+command: 94
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 24.233
+command: 95
+#
+name: MAGNIFY +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 137
+#
+name: MAGNIFY -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 138
+#
+name: KEYSTONE +
+type: parsed
+protocol: nec1
+address: 24.233
+command: 139
+#
+name: KEYSTONE -
+type: parsed
+protocol: nec1
+address: 24.233
+command: 140
+#
+name: S VIDEO
+type: parsed
+protocol: nec1
+address: 24.233
+command: 198
+#

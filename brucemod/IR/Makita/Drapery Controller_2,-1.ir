@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 <-->
+type: parsed
+protocol: akai
+address: 2
+command: 33
+#
+name: OPEN
+type: parsed
+protocol: akai
+address: 2
+command: 33
+#
+name: OPEN 1
+type: parsed
+protocol: akai
+address: 2
+command: 33
+#
+name: <- -> (OPEN)
+type: parsed
+protocol: akai
+address: 2
+command: 33
+#
+name: 1 -><-
+type: parsed
+protocol: akai
+address: 2
+command: 34
+#
+name: CLOSE
+type: parsed
+protocol: akai
+address: 2
+command: 34
+#
+name: CLOSE 1
+type: parsed
+protocol: akai
+address: 2
+command: 34
+#
+name: -><- (CLOSE)
+type: parsed
+protocol: akai
+address: 2
+command: 34
+#
+name: 2 <-->
+type: parsed
+protocol: akai
+address: 2
+command: 35
+#
+name: OPEN 2
+type: parsed
+protocol: akai
+address: 2
+command: 35
+#
+name: 2 -><-
+type: parsed
+protocol: akai
+address: 2
+command: 36
+#
+name: CLOSE 2
+type: parsed
+protocol: akai
+address: 2
+command: 36
+#
+name: STOP
+type: parsed
+protocol: akai
+address: 2
+command: 37
+#
+name: STOP CLOSE
+type: parsed
+protocol: akai
+address: 2
+command: 37
+#
+name: STOP OPEN
+type: parsed
+protocol: akai
+address: 2
+command: 37
+#
+name: 3 <-->
+type: parsed
+protocol: akai
+address: 2
+command: 38
+#
+name: OPEN 3
+type: parsed
+protocol: akai
+address: 2
+command: 38
+#
+name: 3 -><-
+type: parsed
+protocol: akai
+address: 2
+command: 40
+#
+name: CLOSE 3
+type: parsed
+protocol: akai
+address: 2
+command: 40
+#
+name: 4 <-->
+type: parsed
+protocol: akai
+address: 2
+command: 41
+#
+name: 4 -><-
+type: parsed
+protocol: akai
+address: 2
+command: 42
+#
+name: 5 <-->
+type: parsed
+protocol: akai
+address: 2
+command: 44
+#
+name: 5 -><-
+type: parsed
+protocol: akai
+address: 2
+command: 48
+#
+name: 6 <-->
+type: parsed
+protocol: akai
+address: 2
+command: 49
+#
+name: 6 -><-
+type: parsed
+protocol: akai
+address: 2
+command: 50
+#

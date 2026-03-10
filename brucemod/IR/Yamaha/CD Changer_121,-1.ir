@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MODE
+type: parsed
+protocol: nec1
+address: 121
+command: 0
+#
+name: MODE
+type: parsed
+protocol: nec
+address: 121
+command: 0
+#
+name: 
+type: parsed
+protocol: nec1
+address: 121
+command: 0
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 121
+command: 1
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 121
+command: 2
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 121
+command: 4
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 121
+command: 5
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 121
+command: 6
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 121
+command: 7
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 121
+command: 8
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 121
+command: 10
+#
+name: INDEX
+type: parsed
+protocol: nec1
+address: 121
+command: 11
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 121
+command: 12
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 121
+command: 13
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 121
+command: 16
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 121
+command: 17
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 121
+command: 18
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 121
+command: 19
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 121
+command: 20
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 121
+command: 21
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 121
+command: 22
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 121
+command: 23
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 121
+command: 24
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 121
+command: 25
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 121
+command: 26
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 121
+command: 27
+#
+name: SHUFFLE
+type: parsed
+protocol: nec1
+address: 121
+command: 27
+#
+name: OUTPUT -
+type: parsed
+protocol: nec1
+address: 121
+command: 28
+#
+name: OUTPUT +
+type: parsed
+protocol: nec1
+address: 121
+command: 29
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 121
+command: 30
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 121
+command: 33
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 121
+command: 34
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 121
+command: 35
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 121
+command: 36
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 121
+command: 37
+#
+name: DISC +
+type: parsed
+protocol: nec1
+address: 121
+command: 79
+#
+name: DISC -
+type: parsed
+protocol: nec1
+address: 121
+command: 80
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 121
+command: 85
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 121
+command: 86
+#
+name: TAPE
+type: parsed
+protocol: nec1
+address: 121
+command: 87
+#
+name: RANDOM NORMAL
+type: parsed
+protocol: nec1
+address: 121
+command: 121
+#
+name: RANDOM ON
+type: parsed
+protocol: nec1
+address: 121
+command: 122
+#
+name: REPEAT OFF
+type: parsed
+protocol: nec1
+address: 121
+command: 124
+#
+name: REPEAT ALL
+type: parsed
+protocol: nec1
+address: 121
+command: 125
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 121
+command: 126
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 121
+command: 127
+#

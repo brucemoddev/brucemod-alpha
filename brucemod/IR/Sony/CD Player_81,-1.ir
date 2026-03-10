@@ -1,0 +1,417 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1/&!?
+type: parsed
+protocol: sony15
+address: 81
+command: 0
+#
+name: 1
+type: parsed
+protocol: sony15
+address: 81
+command: 0
+#
+name: 2/ABC
+type: parsed
+protocol: sony15
+address: 81
+command: 1
+#
+name: 2
+type: parsed
+protocol: sony15
+address: 81
+command: 1
+#
+name: 3/DEF
+type: parsed
+protocol: sony15
+address: 81
+command: 2
+#
+name: 3
+type: parsed
+protocol: sony15
+address: 81
+command: 2
+#
+name: 4/GHI
+type: parsed
+protocol: sony15
+address: 81
+command: 3
+#
+name: 4
+type: parsed
+protocol: sony15
+address: 81
+command: 3
+#
+name: 5/JKL
+type: parsed
+protocol: sony15
+address: 81
+command: 4
+#
+name: 5
+type: parsed
+protocol: sony15
+address: 81
+command: 4
+#
+name: 6/MNO
+type: parsed
+protocol: sony15
+address: 81
+command: 5
+#
+name: 6
+type: parsed
+protocol: sony15
+address: 81
+command: 5
+#
+name: 7/PRS
+type: parsed
+protocol: sony15
+address: 81
+command: 6
+#
+name: 7
+type: parsed
+protocol: sony15
+address: 81
+command: 6
+#
+name: 8/TUV
+type: parsed
+protocol: sony15
+address: 81
+command: 7
+#
+name: 8
+type: parsed
+protocol: sony15
+address: 81
+command: 7
+#
+name: 9/WXY
+type: parsed
+protocol: sony15
+address: 81
+command: 8
+#
+name: 9
+type: parsed
+protocol: sony15
+address: 81
+command: 8
+#
+name: ENTER
+type: parsed
+protocol: sony15
+address: 81
+command: 11
+#
+name: CHECK
+type: parsed
+protocol: sony15
+address: 81
+command: 13
+#
+name: CLEAR
+type: parsed
+protocol: sony15
+address: 81
+command: 15
+#
+name: LINE LEVEL OUT +
+type: parsed
+protocol: sony15
+address: 81
+command: 18
+#
+name: LINE LEVEL OUT -
+type: parsed
+protocol: sony15
+address: 81
+command: 19
+#
+name: POWER
+type: parsed
+protocol: sony15
+address: 81
+command: 21
+#
+name: CONTINUE PLAY
+type: parsed
+protocol: sony15
+address: 81
+command: 29
+#
+name: CONTINUE
+type: parsed
+protocol: sony15
+address: 81
+command: 29
+#
+name: PROGRAM PLAY
+type: parsed
+protocol: sony15
+address: 81
+command: 31
+#
+name: PROGRAM
+type: parsed
+protocol: sony15
+address: 81
+command: 31
+#
+name: 10/0/QZ
+type: parsed
+protocol: sony15
+address: 81
+command: 32
+#
+name: 0
+type: parsed
+protocol: sony15
+address: 81
+command: 32
+#
+name: >10
+type: parsed
+protocol: sony15
+address: 81
+command: 39
+#
+name: TIME/TEXT/SPACE
+type: parsed
+protocol: sony15
+address: 81
+command: 40
+#
+name: TIME/TEXT
+type: parsed
+protocol: sony15
+address: 81
+command: 40
+#
+name: REPEAT
+type: parsed
+protocol: sony15
+address: 81
+command: 44
+#
+name: SKIP <<
+type: parsed
+protocol: sony15
+address: 81
+command: 48
+#
+name: << TRACK
+type: parsed
+protocol: sony15
+address: 81
+command: 48
+#
+name: SKIP >>
+type: parsed
+protocol: sony15
+address: 81
+command: 49
+#
+name: >> TRACK
+type: parsed
+protocol: sony15
+address: 81
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony15
+address: 81
+command: 50
+#
+name: SEARCH <<
+type: parsed
+protocol: sony15
+address: 81
+command: 51
+#
+name: << SCAN
+type: parsed
+protocol: sony15
+address: 81
+command: 51
+#
+name: SEARCH >>
+type: parsed
+protocol: sony15
+address: 81
+command: 52
+#
+name: >> SCAN
+type: parsed
+protocol: sony15
+address: 81
+command: 52
+#
+name: SHUFFLE PLAY
+type: parsed
+protocol: sony15
+address: 81
+command: 53
+#
+name: SHUFFLE
+type: parsed
+protocol: sony15
+address: 81
+command: 53
+#
+name: STOP
+type: parsed
+protocol: sony15
+address: 81
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony15
+address: 81
+command: 57
+#
+name: MUSIC SCAN
+type: parsed
+protocol: sony15
+address: 81
+command: 60
+#
+name: DISK SKIP -
+type: parsed
+protocol: sony15
+address: 81
+command: 61
+#
+name: DISC -
+type: parsed
+protocol: sony15
+address: 81
+command: 61
+#
+name: DISK SKIP +
+type: parsed
+protocol: sony15
+address: 81
+command: 62
+#
+name: DISC +
+type: parsed
+protocol: sony15
+address: 81
+command: 62
+#
+name: HIGH-LIGHT
+type: parsed
+protocol: sony15
+address: 81
+command: 63
+#
+name: EXTRA
+type: parsed
+protocol: sony15
+address: 81
+command: 63
+#
+name: DISC/CAPS
+type: parsed
+protocol: sony15
+address: 81
+command: 74
+#
+name: DISC
+type: parsed
+protocol: sony15
+address: 81
+command: 74
+#
+name: TRACK
+type: parsed
+protocol: sony15
+address: 81
+command: 75
+#
+name: GROUP
+type: parsed
+protocol: sony15
+address: 81
+command: 76
+#
+name: FADER/DEL
+type: parsed
+protocol: sony15
+address: 81
+command: 95
+#
+name: MEMO INPUT
+type: parsed
+protocol: sony15
+address: 81
+command: 105
+#
+name: MEMO SCAN
+type: parsed
+protocol: sony15
+address: 81
+command: 107
+#
+name: MEGA NO DELAY
+type: parsed
+protocol: sony15
+address: 81
+command: 110
+#
+name: MEGA CONTROL
+type: parsed
+protocol: sony15
+address: 81
+command: 111
+#
+name: MEGA X-FADE
+type: parsed
+protocol: sony15
+address: 81
+command: 113
+#
+name: CURSOR UP
+type: parsed
+protocol: sony15
+address: 81
+command: 121
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony15
+address: 81
+command: 122
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony15
+address: 81
+command: 123
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony15
+address: 81
+command: 124
+#
+name: CURSOR ENTER
+type: parsed
+protocol: sony15
+address: 81
+command: 125
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DTV ANT
+type: parsed
+protocol: sony15
+address: 151
+command: 42
+#
+name: MEM STICK
+type: parsed
+protocol: sony15
+address: 151
+command: 49
+#
+name: VIDEO6
+type: parsed
+protocol: sony15
+address: 151
+command: 66
+#
+name: VIDEO7
+type: parsed
+protocol: sony15
+address: 151
+command: 66
+#
+name: ZOOM -
+type: parsed
+protocol: sony15
+address: 151
+command: 77
+#
+name: ZOOM +
+type: parsed
+protocol: sony15
+address: 151
+command: 78
+#

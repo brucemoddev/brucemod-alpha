@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 132.244
+command: 11
+#
+name: Input
+type: parsed
+protocol: nec2
+address: 132.244
+command: 10
+#
+name: Menu
+type: parsed
+protocol: nec2
+address: 132.244
+command: 12
+#
+name: ZOOM_UP
+type: parsed
+protocol: nec2
+address: 132.244
+command: 27
+#
+name: ZOOM_DWN
+type: parsed
+protocol: nec2
+address: 132.244
+command: 26
+#
+name: Freeze
+type: parsed
+protocol: nec2
+address: 132.244
+command: 59
+#
+name: FOCUS_UP
+type: parsed
+protocol: nec2
+address: 132.244
+command: 29
+#
+name: FOCUS_DWN
+type: parsed
+protocol: nec2
+address: 132.244
+command: 28
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 132.244
+command: 74
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 132.244
+command: 75
+#
+name: Left
+type: parsed
+protocol: nec2
+address: 132.244
+command: 77
+#
+name: Right
+type: parsed
+protocol: nec2
+address: 132.244
+command: 78
+#
+name: enter
+type: parsed
+protocol: nec2
+address: 132.244
+command: 76
+#
+name: KEYST_UP
+type: parsed
+protocol: nec2
+address: 132.244
+command: 42
+#
+name: KEYST_D
+type: parsed
+protocol: nec2
+address: 132.244
+command: 45
+#
+name: Auto
+type: parsed
+protocol: nec2
+address: 132.244
+command: 91
+#
+name: Aspect
+type: parsed
+protocol: nec2
+address: 132.244
+command: 92
+#
+name: eco
+type: parsed
+protocol: nec2
+address: 132.244
+command: 60
+#

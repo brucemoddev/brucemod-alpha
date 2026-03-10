@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 64.175
+command: 1
+#
+name: spiral
+type: parsed
+protocol: nec
+address: 64.175
+command: 2
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 64.175
+command: 3
+#
+name: KEY_BACK
+type: parsed
+protocol: nec
+address: 64.175
+command: 5
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 64.175
+command: 6
+#
+name: auto
+type: parsed
+protocol: nec
+address: 64.175
+command: 14
+#
+name: vac
+type: parsed
+protocol: nec
+address: 64.175
+command: 18
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 64.175
+command: 25
+#

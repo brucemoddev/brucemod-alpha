@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 0
+#
+name: POWER ON
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 1
+#
+name: POWER
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 2
+#
+name: 1
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 4
+#
+name: 2
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 5
+#
+name: 2 - ABC
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 5
+#
+name: 3
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 6
+#
+name: 3 - DEF
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 6
+#
+name: 4
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 8
+#
+name: 4 - GHI
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 8
+#
+name: 5
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 9
+#
+name: 5 - JKL
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 9
+#
+name: 6
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 10
+#
+name: 6 - MNO
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 10
+#
+name: MENU
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 11
+#
+name: 7
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 12
+#
+name: 7 - PQRS
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 12
+#
+name: 8
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 13
+#
+name: 8 - TUV
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 13
+#
+name: 9
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 14
+#
+name: 9 - WXYZ
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 14
+#
+name: CURSOR ENTER
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 16
+#
+name: ENTER
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 16
+#
+name: SELECT
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 16
+#
+name: 0
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 17
+#
+name: CANCEL
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 18
+#
+name: GUIDE
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 20
+#
+name: VIEW
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 22
+#
+name: TV/VIDEO
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 23
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 24
+#
+name: CURSOR RIGHT(BROWSE)
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 24
+#
+name: CHANNEL -
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 26
+#
+name: CURSOR UP
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 26
+#
+name: RECALL
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 27
+#
+name: CURSOR LEFT
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 28
+#
+name: CURSOR LEFT (THEME)
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 28
+#
+name: CHANNEL +
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 30
+#
+name: CURSOR DOWN
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 30
+#
+name: RECORD
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 31
+#
+name: PAUSE
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 32
+#
+name: PAUSE 
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 32
+#
+name: STOP
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 33
+#
+name: * FORMAT
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 37
+#
+name: *
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 37
+#
+name: # SEARCH
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 38
+#
+name: # - SEARCH
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 38
+#
+name: POWER OFF
+type: parsed
+protocol: dish_netwo
+address: 0.4
+command: 39
+#

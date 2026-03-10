@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 182.4
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 182.4
+command: 1
+#
+name: display_mode
+type: parsed
+protocol: nec
+address: 182.4
+command: 2
+#
+name: ^2
+type: parsed
+protocol: nec
+address: 182.4
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 182.4
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 182.4
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 182.4
+command: 6
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 182.4
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 182.4
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 182.4
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 182.4
+command: 9
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: nec
+address: 182.4
+command: 10
+#
+name: +100
+type: parsed
+protocol: nec
+address: 182.4
+command: 11
+#
+name: md_stop
+type: parsed
+protocol: nec
+address: 182.4
+command: 17
+#
+name: q.m.clear
+type: parsed
+protocol: nec
+address: 182.4
+command: 18
+#
+name: md_move_backward
+type: parsed
+protocol: nec
+address: 182.4
+command: 20
+#
+name: md_move_forward
+type: parsed
+protocol: nec
+address: 182.4
+command: 21
+#
+name: md_backward
+type: parsed
+protocol: nec
+address: 182.4
+command: 22
+#
+name: md_forward
+type: parsed
+protocol: nec
+address: 182.4
+command: 23
+#
+name: time_display
+type: parsed
+protocol: nec
+address: 182.4
+command: 24
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 182.4
+command: 25
+#
+name: Clear_Delete
+type: parsed
+protocol: nec
+address: 182.4
+command: 26
+#
+name: check_space
+type: parsed
+protocol: nec
+address: 182.4
+command: 27
+#
+name: p.mode_priority
+type: parsed
+protocol: nec
+address: 182.4
+command: 31
+#
+name: q.m.check_record
+type: parsed
+protocol: nec
+address: 182.4
+command: 80
+#
+name: auto/manual
+type: parsed
+protocol: nec
+address: 182.4
+command: 82
+#
+name: o.t.e.
+type: parsed
+protocol: nec
+address: 182.4
+command: 83
+#
+name: md_play
+type: parsed
+protocol: nec
+address: 182.4
+command: 154
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 182.4
+command: 157
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 182.4
+command: 197
+#
+name: titlesearch
+type: parsed
+protocol: nec
+address: 182.4
+command: 198
+#
+name: sez
+type: parsed
+protocol: nec
+address: 182.4
+command: 199
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 182.4
+command: 200
+#
+name: quickmove
+type: parsed
+protocol: nec
+address: 182.4
+command: 201
+#
+name: trackedit
+type: parsed
+protocol: nec
+address: 182.4
+command: 202
+#
+name: title_input
+type: parsed
+protocol: nec
+address: 182.4
+command: 220
+#

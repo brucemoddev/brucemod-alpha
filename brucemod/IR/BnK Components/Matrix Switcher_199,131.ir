@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 021 OFF
+type: parsed
+protocol: nec2
+address: 199.131
+command: 1
+#
+name: 021 ON
+type: parsed
+protocol: nec2
+address: 199.131
+command: 2
+#
+name: 021 MUTE
+type: parsed
+protocol: nec2
+address: 199.131
+command: 3
+#
+name: 021 VOLUME -
+type: parsed
+protocol: nec2
+address: 199.131
+command: 35
+#
+name: 021 VOLUME +
+type: parsed
+protocol: nec2
+address: 199.131
+command: 36
+#
+name: 021 IN 6
+type: parsed
+protocol: nec2
+address: 199.131
+command: 74
+#

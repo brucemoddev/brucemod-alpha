@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: nec2
+address: 128.80
+command: 1
+#
+name: >>I NEXT
+type: parsed
+protocol: nec2
+address: 128.80
+command: 2
+#
+name: I<< BACK
+type: parsed
+protocol: nec2
+address: 128.80
+command: 3
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 128.80
+command: 4
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 7
+#
+name: SETUP
+type: parsed
+protocol: nec2
+address: 128.80
+command: 8
+#
+name: MARKER
+type: parsed
+protocol: nec2
+address: 128.80
+command: 9
+#
+name: SUBTITLE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 10
+#
+name: AUDIO
+type: parsed
+protocol: nec2
+address: 128.80
+command: 11
+#
+name: ANGLE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 12
+#
+name: RETURN
+type: parsed
+protocol: nec2
+address: 128.80
+command: 13
+#
+name: TITLE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 14
+#
+name: DISPLAY
+type: parsed
+protocol: nec2
+address: 128.80
+command: 15
+#
+name: MENU
+type: parsed
+protocol: nec2
+address: 128.80
+command: 16
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 128.80
+command: 17
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 128.80
+command: 18
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 128.80
+command: 19
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 128.80
+command: 20
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 128.80
+command: 21
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 128.80
+command: 21
+#
+name: REPEAT MODE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 76
+#
+name: A-B REPEAT
+type: parsed
+protocol: nec2
+address: 128.80
+command: 77
+#
+name: PLAY MODE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 78
+#
+name: CLEAR
+type: parsed
+protocol: nec2
+address: 128.80
+command: 79
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 128.80
+command: 80
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 128.80
+command: 81
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 128.80
+command: 82
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 128.80
+command: 83
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 128.80
+command: 84
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 128.80
+command: 85
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 128.80
+command: 86
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 128.80
+command: 87
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 128.80
+command: 88
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 128.80
+command: 89
+#
+name: << REVERSE
+type: parsed
+protocol: nec2
+address: 128.80
+command: 90
+#
+name: >> FAST FORWARD
+type: parsed
+protocol: nec2
+address: 128.80
+command: 91
+#
+name: 10+
+type: parsed
+protocol: nec2
+address: 128.80
+command: 92
+#

@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_MUTE
+type: parsed
+protocol: recs80_45
+address: 1
+command: 6
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: recs80_45
+address: 1
+command: 7
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: recs80_45
+address: 1
+command: 8
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 1
+command: 46
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 1
+command: 47
+#

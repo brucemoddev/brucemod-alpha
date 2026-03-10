@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 7
+command: 24
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 7
+command: 25
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 7
+command: 26
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 7
+command: 27
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony12
+address: 7
+command: 28
+#
+name: KEY_SLOW
+type: parsed
+protocol: sony12
+address: 7
+command: 35
+#
+name: Data_Screen
+type: parsed
+protocol: sony12
+address: 7
+command: 90
+#

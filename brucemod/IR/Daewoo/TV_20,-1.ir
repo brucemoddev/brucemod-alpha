@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CODE1 VID 4
+type: parsed
+protocol: Proton
+address: 20
+command: 12
+#
+name: CODE1 VID 3
+type: parsed
+protocol: Proton
+address: 20
+command: 14
+#
+name: CODE1 POWER OFF
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: CODE1 POWER ON
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: CODE4 POWER OFF
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: CODE4 POWER ON
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: CODE1 VIDE 2
+type: parsed
+protocol: Proton
+address: 20
+command: 35
+#
+name: CODE1 VID 5
+type: parsed
+protocol: Proton
+address: 20
+command: 44
+#
+name: CODE1 VID 1
+type: parsed
+protocol: Proton
+address: 20
+command: 45
+#

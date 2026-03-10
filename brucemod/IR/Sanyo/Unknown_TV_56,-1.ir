@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 56
+command: 0
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 56
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 56
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 56
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 56
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 56
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 56
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 56
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 56
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 56
+command: 9
+#
+name: display
+type: parsed
+protocol: nec
+address: 56
+command: 12
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 56
+command: 13
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 56
+command: 14
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 56
+command: 15
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 56
+command: 18
+#
+name: tv/vid
+type: parsed
+protocol: nec
+address: 56
+command: 19
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 56
+command: 23
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 56
+command: 25
+#
+name: pip
+type: parsed
+protocol: nec
+address: 56
+command: 91
+#
+name: swap
+type: parsed
+protocol: nec
+address: 56
+command: 93
+#

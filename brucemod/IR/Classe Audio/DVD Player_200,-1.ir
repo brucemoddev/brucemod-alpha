@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: rc6
+address: 200
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc6
+address: 200
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc6
+address: 200
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc6
+address: 200
+command: 17
+#
+name: F1
+type: parsed
+protocol: rc6
+address: 200
+command: 56
+#
+name: F2
+type: parsed
+protocol: rc6
+address: 200
+command: 57
+#
+name: F3
+type: parsed
+protocol: rc6
+address: 200
+command: 134
+#
+name: F4
+type: parsed
+protocol: rc6
+address: 200
+command: 135
+#

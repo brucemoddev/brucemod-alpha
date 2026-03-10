@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAYSTATION
+type: parsed
+protocol: sony20
+address: 26.218
+command: 21
+#
+name: EJECT
+type: parsed
+protocol: sony20
+address: 26.218
+command: 22
+#
+name: SELECT
+type: parsed
+protocol: sony20
+address: 26.218
+command: 80
+#
+name: L3
+type: parsed
+protocol: sony20
+address: 26.218
+command: 81
+#
+name: R3
+type: parsed
+protocol: sony20
+address: 26.218
+command: 82
+#
+name: START
+type: parsed
+protocol: sony20
+address: 26.218
+command: 83
+#
+name: L2
+type: parsed
+protocol: sony20
+address: 26.218
+command: 88
+#
+name: R2
+type: parsed
+protocol: sony20
+address: 26.218
+command: 89
+#
+name: L1
+type: parsed
+protocol: sony20
+address: 26.218
+command: 90
+#
+name: R1
+type: parsed
+protocol: sony20
+address: 26.218
+command: 91
+#
+name: TRIANGLE
+type: parsed
+protocol: sony20
+address: 26.218
+command: 92
+#
+name: CIRCLE
+type: parsed
+protocol: sony20
+address: 26.218
+command: 93
+#
+name: X
+type: parsed
+protocol: sony20
+address: 26.218
+command: 94
+#
+name: SQUARE
+type: parsed
+protocol: sony20
+address: 26.218
+command: 95
+#
+name: POWER OFF
+type: parsed
+protocol: sony20
+address: 26.218
+command: 107
+#
+name: MACRO 1
+type: parsed
+protocol: sony20
+address: 26.218
+command: 108
+#
+name: MACRO 2
+type: parsed
+protocol: sony20
+address: 26.218
+command: 109
+#
+name: MACRO 3
+type: parsed
+protocol: sony20
+address: 26.218
+command: 110
+#
+name: MACRO 4
+type: parsed
+protocol: sony20
+address: 26.218
+command: 111
+#
+name: MACRO 5
+type: parsed
+protocol: sony20
+address: 26.218
+command: 112
+#
+name: MACRO 6
+type: parsed
+protocol: sony20
+address: 26.218
+command: 113
+#
+name: MACRO 7
+type: parsed
+protocol: sony20
+address: 26.218
+command: 114
+#
+name: MACRO 8
+type: parsed
+protocol: sony20
+address: 26.218
+command: 115
+#
+name: MACRO 9
+type: parsed
+protocol: sony20
+address: 26.218
+command: 116
+#

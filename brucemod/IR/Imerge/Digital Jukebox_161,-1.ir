@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: OUTPUT 1
+type: parsed
+protocol: nec2
+address: 161
+command: 215
+#

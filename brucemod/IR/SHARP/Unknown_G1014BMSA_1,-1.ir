@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: num1
+type: parsed
+protocol: sharp_1
+address: 1
+command: 1
+#
+name: num2
+type: parsed
+protocol: sharp_1
+address: 1
+command: 2
+#
+name: num3
+type: parsed
+protocol: sharp_1
+address: 1
+command: 3
+#
+name: num4
+type: parsed
+protocol: sharp_1
+address: 1
+command: 4
+#
+name: num5
+type: parsed
+protocol: sharp_1
+address: 1
+command: 5
+#
+name: num6
+type: parsed
+protocol: sharp_1
+address: 1
+command: 6
+#
+name: num7
+type: parsed
+protocol: sharp_1
+address: 1
+command: 7
+#
+name: num8
+type: parsed
+protocol: sharp_1
+address: 1
+command: 8
+#
+name: num9
+type: parsed
+protocol: sharp_1
+address: 1
+command: 9
+#
+name: num0
+type: parsed
+protocol: sharp_1
+address: 1
+command: 10
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sharp_1
+address: 1
+command: 17
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sharp_1
+address: 1
+command: 18
+#
+name: tv_video
+type: parsed
+protocol: sharp_1
+address: 1
+command: 19
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sharp_1
+address: 1
+command: 20
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sharp_1
+address: 1
+command: 21
+#
+name: KEY_POWER
+type: parsed
+protocol: sharp_1
+address: 1
+command: 22
+#
+name: vol_mute
+type: parsed
+protocol: sharp_1
+address: 1
+command: 23
+#
+name: KEY_POWER
+type: parsed
+protocol: sharp_1
+address: 1
+command: 27
+#
+name: screen_time
+type: parsed
+protocol: sharp_1
+address: 1
+command: 28
+#
+name: screen_blank
+type: parsed
+protocol: sharp_1
+address: 1
+command: 50
+#
+name: screen_smaller
+type: parsed
+protocol: sharp_1
+address: 1
+command: 51
+#
+name: screen_switch
+type: parsed
+protocol: sharp_1
+address: 1
+command: 52
+#
+name: screen_close
+type: parsed
+protocol: sharp_1
+address: 1
+command: 53
+#
+name: screen_s
+type: parsed
+protocol: sharp_1
+address: 1
+command: 54
+#
+name: screen_bigger
+type: parsed
+protocol: sharp_1
+address: 1
+command: 55
+#
+name: screen_question
+type: parsed
+protocol: sharp_1
+address: 1
+command: 56
+#
+name: num_switch
+type: parsed
+protocol: sharp_1
+address: 1
+command: 60
+#
+name: p_c
+type: parsed
+protocol: sharp_1
+address: 1
+command: 61
+#
+name: pr
+type: parsed
+protocol: sharp_1
+address: 1
+command: 65
+#
+name: KEY_RED
+type: parsed
+protocol: sharp_1
+address: 1
+command: 72
+#
+name: KEY_GREEN
+type: parsed
+protocol: sharp_1
+address: 1
+command: 73
+#
+name: KEY_YELLOW
+type: parsed
+protocol: sharp_1
+address: 1
+command: 74
+#
+name: KEY_BLUE
+type: parsed
+protocol: sharp_1
+address: 1
+command: 75
+#
+name: screen_info
+type: parsed
+protocol: sharp_1
+address: 1
+command: 76
+#
+name: KEY_F
+type: parsed
+protocol: sharp_1
+address: 1
+command: 95
+#
+name: KEY_P
+type: parsed
+protocol: sharp_1
+address: 1
+command: 96
+#
+name: KEY_S
+type: parsed
+protocol: sharp_1
+address: 1
+command: 97
+#

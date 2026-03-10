@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 61
+#
+name: Vol_Up
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 32
+#
+name: VOL_DN
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 33
+#
+name: Mute
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 50
+#
+name: Menu
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 82
+#
+name: OPTION
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 167
+#
+name: channel_up
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 52
+#
+name: channel_down
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 53
+#
+name: t
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 48
+#
+name: Av
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 5
+#
+name: Up
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 74
+#
+name: Down
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 75
+#
+name: Left
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 78
+#
+name: Right
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 79
+#
+name: Ok
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 73
+#
+name: Back
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 74
+#
+name: Exit
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 211
+#
+name: LAST_VIEW
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 55
+#
+name: internet
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 147
+#
+name: VIERA
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 239
+#
+name: Guide
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 135
+#
+name: n
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 12
+#
+name: Surround
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 49
+#
+name: Aspect
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 222
+#
+name: Info
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 57
+#
+name: KEY_3d
+type: parsed
+protocol: panasonic
+address: 8.0
+command: 183
+#

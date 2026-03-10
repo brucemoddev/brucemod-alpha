@@ -1,0 +1,285 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 54
+command: 0
+#
+name: KEY_RADIO
+type: parsed
+protocol: nec
+address: 54
+command: 1
+#
+name: am
+type: parsed
+protocol: nec
+address: 54
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 54
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 54
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 54
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 54
+command: 7
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 54
+command: 8
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 54
+command: 9
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 54
+command: 10
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 54
+command: 11
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 54
+command: 12
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 54
+command: 13
+#
+name: tuning_up
+type: parsed
+protocol: nec
+address: 54
+command: 14
+#
+name: tuning_down
+type: parsed
+protocol: nec
+address: 54
+command: 15
+#
+name: deck_stop
+type: parsed
+protocol: nec
+address: 54
+command: 16
+#
+name: deck_f.fwd
+type: parsed
+protocol: nec
+address: 54
+command: 17
+#
+name: deck_rew
+type: parsed
+protocol: nec
+address: 54
+command: 18
+#
+name: deck_pause
+type: parsed
+protocol: nec
+address: 54
+command: 19
+#
+name: deck_fwd_play
+type: parsed
+protocol: nec
+address: 54
+command: 21
+#
+name: deck_rev_play
+type: parsed
+protocol: nec
+address: 54
+command: 22
+#
+name: deck_1/2
+type: parsed
+protocol: nec
+address: 54
+command: 23
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 54
+command: 25
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 54
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 54
+command: 27
+#
+name: muting
+type: parsed
+protocol: nec
+address: 54
+command: 28
+#
+name: KEY_AUX
+type: parsed
+protocol: nec
+address: 54
+command: 29
+#
+name: timer
+type: parsed
+protocol: nec
+address: 54
+command: 31
+#
+name: cd_stop
+type: parsed
+protocol: nec
+address: 54
+command: 64
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 54
+command: 65
+#
+name: cd_play
+type: parsed
+protocol: nec
+address: 54
+command: 65
+#
+name: cd_pause
+type: parsed
+protocol: nec
+address: 54
+command: 66
+#
+name: cd_1_open/close
+type: parsed
+protocol: nec
+address: 54
+command: 67
+#
+name: cd_2_auto_space
+type: parsed
+protocol: nec
+address: 54
+command: 68
+#
+name: cd_3_edit
+type: parsed
+protocol: nec
+address: 54
+command: 69
+#
+name: cd_4_side_ab
+type: parsed
+protocol: nec
+address: 54
+command: 70
+#
+name: cd_5_a-b
+type: parsed
+protocol: nec
+address: 54
+command: 71
+#
+name: cd_f.fwd
+type: parsed
+protocol: nec
+address: 54
+command: 78
+#
+name: cd_f.back
+type: parsed
+protocol: nec
+address: 54
+command: 79
+#
+name: phono
+type: parsed
+protocol: nec
+address: 54
+command: 81
+#
+name: tuning_mode
+type: parsed
+protocol: nec
+address: 54
+command: 88
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 54
+command: 89
+#
+name: digital_dat/tape-2
+type: parsed
+protocol: nec
+address: 54
+command: 91
+#
+name: digital_aux
+type: parsed
+protocol: nec
+address: 54
+command: 92
+#
+name: digital_cd
+type: parsed
+protocol: nec
+address: 54
+command: 93
+#
+name: tape-1
+type: parsed
+protocol: nec
+address: 54
+command: 94
+#
+name: dat/tape-2
+type: parsed
+protocol: nec
+address: 54
+command: 95
+#

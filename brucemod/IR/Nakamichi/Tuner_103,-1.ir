@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD DISC
+type: parsed
+protocol: nec1
+address: 103
+command: 143
+#
+name: CD DISC SCAN
+type: parsed
+protocol: nec1
+address: 103
+command: 147
+#
+name: CD <<
+type: parsed
+protocol: nec1
+address: 103
+command: 193
+#
+name: CD <
+type: parsed
+protocol: nec1
+address: 103
+command: 194
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 103
+command: 197
+#
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 103
+command: 198
+#
+name: CD >>
+type: parsed
+protocol: nec1
+address: 103
+command: 199
+#
+name: CD >
+type: parsed
+protocol: nec1
+address: 103
+command: 200
+#
+name: CD PAUSE 
+type: parsed
+protocol: nec1
+address: 103
+command: 203
+#
+name: CD RANDOM
+type: parsed
+protocol: nec1
+address: 103
+command: 219
+#

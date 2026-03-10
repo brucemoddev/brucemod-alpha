@@ -1,0 +1,351 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP []
+type: parsed
+protocol: akai
+address: 1
+command: 3
+#
+name: STOP
+type: parsed
+protocol: akai
+address: 1
+command: 3
+#
+name: EJECT
+type: parsed
+protocol: akai
+address: 1
+command: 4
+#
+name: ON
+type: parsed
+protocol: akai
+address: 1
+command: 5
+#
+name: FFWD/SHUT.SRCH >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: FF/SHUT.SRCH >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: FF >>/SHUTTLE >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: FFWD >>
+type: parsed
+protocol: akai
+address: 1
+command: 6
+#
+name: REW/SHUT.SRCH <<
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: REW <</SHUTTLE <<
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: REW <<
+type: parsed
+protocol: akai
+address: 1
+command: 7
+#
+name: SLOW >
+type: parsed
+protocol: akai
+address: 1
+command: 8
+#
+name: OFF
+type: parsed
+protocol: akai
+address: 1
+command: 10
+#
+name: POWER
+type: parsed
+protocol: akai
+address: 1
+command: 11
+#
+name: PLAY >
+type: parsed
+protocol: akai
+address: 1
+command: 12
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: akai
+address: 1
+command: 13
+#
+name: TV CH/SET +
+type: parsed
+protocol: sony12
+address: 1
+command: 16
+#
+name: TV CH/SET -
+type: parsed
+protocol: sony12
+address: 1
+command: 17
+#
+name: VOLUME +
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: TV/VIDEO
+type: parsed
+protocol: akai
+address: 1
+command: 19
+#
+name: VOLUME -
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: VIDEO/TV
+type: parsed
+protocol: akai
+address: 1
+command: 19
+#
+name: SEARCH FWD >>
+type: parsed
+protocol: akai
+address: 1
+command: 20
+#
+name: TV POWER
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: TV MENU (RA EDIT)
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: TV MENU
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: SEARCH REV <<
+type: parsed
+protocol: akai
+address: 1
+command: 21
+#
+name: FR ADV
+type: parsed
+protocol: akai
+address: 1
+command: 22
+#
+name: CHANNEL -
+type: parsed
+protocol: akai
+address: 1
+command: 24
+#
+name: CHANNEL +
+type: parsed
+protocol: akai
+address: 1
+command: 25
+#
+name: CHANNEL
+type: parsed
+protocol: akai
+address: 1
+command: 25
+#
+name: TV TV/VIDEO
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: AUDIO DUB/PLAY
+type: parsed
+protocol: akai
+address: 1
+command: 44
+#
+name: SP/EP
+type: parsed
+protocol: akai
+address: 1
+command: 65
+#
+name: AM/PM
+type: parsed
+protocol: akai
+address: 1
+command: 66
+#
+name: CANCEL
+type: parsed
+protocol: akai
+address: 1
+command: 70
+#
+name: PROG
+type: parsed
+protocol: akai
+address: 1
+command: 71
+#
+name: ENTER
+type: parsed
+protocol: akai
+address: 1
+command: 78
+#
+name: 0
+type: parsed
+protocol: akai
+address: 1
+command: 79
+#
+name: 0/REPEAT
+type: parsed
+protocol: akai
+address: 1
+command: 79
+#
+name: 1
+type: parsed
+protocol: akai
+address: 1
+command: 80
+#
+name: 2
+type: parsed
+protocol: akai
+address: 1
+command: 81
+#
+name: 3
+type: parsed
+protocol: akai
+address: 1
+command: 82
+#
+name: 3/TUE
+type: parsed
+protocol: akai
+address: 1
+command: 82
+#
+name: 4
+type: parsed
+protocol: akai
+address: 1
+command: 83
+#
+name: 4/WED
+type: parsed
+protocol: akai
+address: 1
+command: 83
+#
+name: 5
+type: parsed
+protocol: akai
+address: 1
+command: 84
+#
+name: 5/THU
+type: parsed
+protocol: akai
+address: 1
+command: 84
+#
+name: 6
+type: parsed
+protocol: akai
+address: 1
+command: 85
+#
+name: 6/FRI
+type: parsed
+protocol: akai
+address: 1
+command: 85
+#
+name: 7
+type: parsed
+protocol: akai
+address: 1
+command: 86
+#
+name: 7/SAT
+type: parsed
+protocol: akai
+address: 1
+command: 86
+#
+name: 8
+type: parsed
+protocol: akai
+address: 1
+command: 87
+#
+name: 8/1 ST/2 ND
+type: parsed
+protocol: akai
+address: 1
+command: 87
+#
+name: 9
+type: parsed
+protocol: akai
+address: 1
+command: 88
+#
+name: 9/DAILY
+type: parsed
+protocol: akai
+address: 1
+command: 88
+#
+name: REC
+type: parsed
+protocol: akai
+address: 1
+command: 108
+#
+name: REC/PLAY
+type: parsed
+protocol: akai
+address: 1
+command: 108
+#

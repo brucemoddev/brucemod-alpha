@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony20
+address: 26.35
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony20
+address: 26.35
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 26.35
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 26.35
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 26.35
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 26.35
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony20
+address: 26.35
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony20
+address: 26.35
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony20
+address: 26.35
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony20
+address: 26.35
+command: 9
+#
+name: ENTER
+type: parsed
+protocol: sony20
+address: 26.35
+command: 11
+#
+name: RETURN
+type: parsed
+protocol: sony20
+address: 26.35
+command: 14
+#
+name: CLEAR
+type: parsed
+protocol: sony20
+address: 26.35
+command: 15
+#
+name: POWER TOGGLE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 21
+#
+name: EJECT
+type: parsed
+protocol: sony20
+address: 26.35
+command: 22
+#
+name: TOP MENU
+type: parsed
+protocol: sony20
+address: 26.35
+command: 26
+#
+name: POP UP MENU
+type: parsed
+protocol: sony20
+address: 26.35
+command: 27
+#
+name: TIME
+type: parsed
+protocol: sony20
+address: 26.35
+command: 40
+#
+name: POWER ON
+type: parsed
+protocol: sony20
+address: 26.35
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony20
+address: 26.35
+command: 47
+#
+name: PREV
+type: parsed
+protocol: sony20
+address: 26.35
+command: 48
+#
+name: NEXT
+type: parsed
+protocol: sony20
+address: 26.35
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: sony20
+address: 26.35
+command: 50
+#
+name: SCAN <<
+type: parsed
+protocol: sony20
+address: 26.35
+command: 51
+#
+name: SCAN >>
+type: parsed
+protocol: sony20
+address: 26.35
+command: 52
+#
+name: STOP
+type: parsed
+protocol: sony20
+address: 26.35
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 57
+#
+name: RED
+type: parsed
+protocol: sony20
+address: 26.35
+command: 64
+#
+name: GREEN
+type: parsed
+protocol: sony20
+address: 26.35
+command: 65
+#
+name: BLUE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 66
+#
+name: YELLOW
+type: parsed
+protocol: sony20
+address: 26.35
+command: 67
+#
+name: SETUP
+type: parsed
+protocol: sony20
+address: 26.35
+command: 83
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 26.35
+command: 84
+#
+name: SLOW REV
+type: parsed
+protocol: sony20
+address: 26.35
+command: 96
+#
+name: SLOW FWD
+type: parsed
+protocol: sony20
+address: 26.35
+command: 97
+#
+name: SUBTITLE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 99
+#
+name: AUDIO
+type: parsed
+protocol: sony20
+address: 26.35
+command: 100
+#
+name: ANGLE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 101
+#
+name: SELECT
+type: parsed
+protocol: sony20
+address: 26.35
+command: 102
+#
+name: L3
+type: parsed
+protocol: sony20
+address: 26.35
+command: 103
+#
+name: R3
+type: parsed
+protocol: sony20
+address: 26.35
+command: 104
+#
+name: START
+type: parsed
+protocol: sony20
+address: 26.35
+command: 105
+#
+name: L2
+type: parsed
+protocol: sony20
+address: 26.35
+command: 110
+#
+name: R2
+type: parsed
+protocol: sony20
+address: 26.35
+command: 111
+#
+name: L1
+type: parsed
+protocol: sony20
+address: 26.35
+command: 112
+#
+name: R1
+type: parsed
+protocol: sony20
+address: 26.35
+command: 113
+#
+name: OPTIONS/TRIANGLE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 114
+#
+name: BACK/CIRCLE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 115
+#
+name: X/CROSS
+type: parsed
+protocol: sony20
+address: 26.35
+command: 116
+#
+name: VIEW/SQUARE
+type: parsed
+protocol: sony20
+address: 26.35
+command: 117
+#
+name: UP
+type: parsed
+protocol: sony20
+address: 26.35
+command: 121
+#
+name: DOWN
+type: parsed
+protocol: sony20
+address: 26.35
+command: 122
+#
+name: LEFT
+type: parsed
+protocol: sony20
+address: 26.35
+command: 123
+#
+name: RIGHT
+type: parsed
+protocol: sony20
+address: 26.35
+command: 124
+#

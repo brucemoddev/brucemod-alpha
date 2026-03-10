@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: TV 9
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 1
+#
+name: TV POWER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 2
+#
+name: TV CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 7
+#
+name: TV 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: TV 0
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 9
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 10
+#
+name: TV 3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: TV CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 18
+#
+name: TV 4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: TV DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: TV 5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: VOLUME ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 34
+#
+name: TV 6
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: VOLUME V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 42
+#
+name: TV 7
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 50
+#
+name: TV ENTER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 53
+#
+name: TV 8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: TV INPUT
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 58
+#
+name: TV AUDIO VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 64
+#
+name: TV JOG/ADJ+(IN SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 65
+#
+name: TV JOG/ADJ-(IN SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 73
+#
+name: TV MENU
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#

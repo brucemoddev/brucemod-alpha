@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 4
+command: 2
+#
+name: SET
+type: parsed
+protocol: nec1
+address: 4
+command: 4
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 4
+command: 6
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 4
+command: 12
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 4
+command: 13
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 4
+command: 14
+#

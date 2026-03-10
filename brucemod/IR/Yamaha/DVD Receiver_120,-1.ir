@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 120
+command: 15
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 120
+command: 27
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 120
+command: 28
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 120
+command: 30
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 120
+command: 31
+#
+name: INPUT: VCR
+type: parsed
+protocol: nec1
+address: 120
+command: 73
+#
+name: INPUT: DVD/CD
+type: parsed
+protocol: nec1
+address: 120
+command: 74
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 120
+command: 75
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 120
+command: 76
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 120
+command: 77
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 120
+command: 80
+#
+name: YPAO - TEST
+type: parsed
+protocol: nec1
+address: 120
+command: 95
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 120
+command: 134
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 120
+command: 135
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 120
+command: 136
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 120
+command: 136
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 120
+command: 138
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 120
+command: 144
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 120
+command: 144
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 120
+command: 153
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 120
+command: 154
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 120
+command: 154
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 120
+command: 156
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 120
+command: 157
+#
+name: YPAO - START
+type: parsed
+protocol: nec1
+address: 120
+command: 163
+#
+name: YPAO - ON/OFF
+type: parsed
+protocol: nec1
+address: 120
+command: 164
+#
+name: DSP - MOVIE
+type: parsed
+protocol: nec1
+address: 120
+command: 217
+#
+name: DSP - MUSIC
+type: parsed
+protocol: nec1
+address: 120
+command: 218
+#
+name: DSP - SPORTS
+type: parsed
+protocol: nec1
+address: 120
+command: 219
+#
+name: DSP - GAME
+type: parsed
+protocol: nec1
+address: 120
+command: 220
+#
+name: INPUT: VIDEO
+type: parsed
+protocol: nec1
+address: 120
+command: 223
+#

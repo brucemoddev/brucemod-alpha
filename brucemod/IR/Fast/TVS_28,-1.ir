@@ -1,0 +1,63 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: MUTE
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: T_MUTE
+type: parsed
+protocol: rc5
+address: 28
+command: 13
+#
+name: T_PROG+
+type: parsed
+protocol: rc5
+address: 28
+command: 32
+#
+name: PROG+
+type: parsed
+protocol: rc5
+address: 28
+command: 32
+#
+name: PROG-
+type: parsed
+protocol: rc5
+address: 28
+command: 33
+#
+name: T_PROG-
+type: parsed
+protocol: rc5
+address: 28
+command: 33
+#
+name: T_VOL-
+type: parsed
+protocol: rc5
+address: 28
+command: 65
+#
+name: VOL-
+type: parsed
+protocol: rc5
+address: 28
+command: 65
+#
+name: T_VOL+
+type: parsed
+protocol: rc5
+address: 28
+command: 66
+#
+name: VOL+
+type: parsed
+protocol: rc5
+address: 28
+command: 66
+#

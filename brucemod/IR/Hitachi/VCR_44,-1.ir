@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR PLUS
+type: parsed
+protocol: emerson
+address: 44
+command: 17
+#
+name: TAPE SPEED
+type: parsed
+protocol: emerson
+address: 44
+command: 59
+#
+name: 100/ENT
+type: parsed
+protocol: emerson
+address: 44
+command: 61
+#
+name: VCR 100/ENT
+type: parsed
+protocol: emerson
+address: 44
+command: 61
+#

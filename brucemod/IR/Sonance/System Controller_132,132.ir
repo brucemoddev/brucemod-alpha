@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TV/SAT
+type: parsed
+protocol: necx1
+address: 132.132
+command: 1
+#
+name: TAPE
+type: parsed
+protocol: necx1
+address: 132.132
+command: 2
+#
+name: VCR
+type: parsed
+protocol: necx1
+address: 132.132
+command: 3
+#
+name: CD
+type: parsed
+protocol: necx1
+address: 132.132
+command: 9
+#
+name: DVD
+type: parsed
+protocol: necx1
+address: 132.132
+command: 10
+#
+name: TUNER
+type: parsed
+protocol: necx1
+address: 132.132
+command: 11
+#
+name: VOLUME -
+type: parsed
+protocol: necx1
+address: 132.132
+command: 17
+#
+name: VOLUME +
+type: parsed
+protocol: necx1
+address: 132.132
+command: 18
+#
+name: MUTE
+type: parsed
+protocol: necx1
+address: 132.132
+command: 19
+#
+name: POWER ON
+type: parsed
+protocol: necx1
+address: 132.132
+command: 25
+#
+name: ALL OFF
+type: parsed
+protocol: necx1
+address: 132.132
+command: 26
+#
+name: POWER OFF
+type: parsed
+protocol: necx1
+address: 132.132
+command: 27
+#

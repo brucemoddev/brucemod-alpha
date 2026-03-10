@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: off
+type: parsed
+protocol: sony15
+address: 132
+command: 13
+#
+name: sound
+type: parsed
+protocol: sony15
+address: 132
+command: 17
+#
+name: sound+
+type: parsed
+protocol: sony15
+address: 132
+command: 18
+#
+name: sound-
+type: parsed
+protocol: sony15
+address: 132
+command: 19
+#
+name: att
+type: parsed
+protocol: sony15
+address: 132
+command: 20
+#
+name: seek-
+type: parsed
+protocol: sony15
+address: 132
+command: 27
+#
+name: seek+
+type: parsed
+protocol: sony15
+address: 132
+command: 28
+#
+name: dspl
+type: parsed
+protocol: sony15
+address: 132
+command: 40
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony15
+address: 132
+command: 48
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony15
+address: 132
+command: 49
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: sony15
+address: 132
+command: 70
+#
+name: KEY_MODE
+type: parsed
+protocol: sony15
+address: 132
+command: 71
+#

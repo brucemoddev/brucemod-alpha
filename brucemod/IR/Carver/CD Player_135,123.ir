@@ -1,0 +1,363 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP FWD >>
+type: parsed
+protocol: nec1
+address: 135.123
+command: 128
+#
+name: SKIP REV <<
+type: parsed
+protocol: nec1
+address: 135.123
+command: 129
+#
+name: PAUSE/STOP
+type: parsed
+protocol: nec1
+address: 135.123
+command: 129
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 135.123
+command: 131
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 135.123
+command: 132
+#
+name: SCAN <<
+type: parsed
+protocol: nec1
+address: 135.123
+command: 132
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 135.123
+command: 133
+#
+name: SKIP -
+type: parsed
+protocol: nec1
+address: 135.123
+command: 133
+#
+name: SKIP +
+type: parsed
+protocol: nec1
+address: 135.123
+command: 134
+#
+name: DISC SKIP +
+type: parsed
+protocol: nec1
+address: 135.123
+command: 135
+#
+name: SCAN >>
+type: parsed
+protocol: nec1
+address: 135.123
+command: 135
+#
+name: DISC SKIP -
+type: parsed
+protocol: nec1
+address: 135.123
+command: 136
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 135.123
+command: 136
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 135.123
+command: 137
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 135.123
+command: 137
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 135.123
+command: 138
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 135.123
+command: 138
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 135.123
+command: 139
+#
+name: SCAN FWD >>
+type: parsed
+protocol: nec1
+address: 135.123
+command: 140
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.123
+command: 140
+#
+name: SCAN REV <<
+type: parsed
+protocol: nec1
+address: 135.123
+command: 141
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 135.123
+command: 141
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 135.123
+command: 142
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 135.123
+command: 142
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 135.123
+command: 143
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.123
+command: 143
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 135.123
+command: 144
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.123
+command: 144
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 135.123
+command: 145
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.123
+command: 145
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 135.123
+command: 146
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.123
+command: 146
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 135.123
+command: 147
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 135.123
+command: 147
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 135.123
+command: 148
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 135.123
+command: 149
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 135.123
+command: 149
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 135.123
+command: 150
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 135.123
+command: 150
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 135.123
+command: 151
+#
+name: CONTINUE
+type: parsed
+protocol: nec1
+address: 135.123
+command: 151
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 135.123
+command: 152
+#
+name: +10
+type: parsed
+protocol: nec1
+address: 135.123
+command: 153
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 135.123
+command: 154
+#
+name: SOFT EQ
+type: parsed
+protocol: nec1
+address: 135.123
+command: 154
+#
+name: DISC 1
+type: parsed
+protocol: nec1
+address: 135.123
+command: 155
+#
+name: DISC 2
+type: parsed
+protocol: nec1
+address: 135.123
+command: 156
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 135.123
+command: 156
+#
+name: DISC 3
+type: parsed
+protocol: nec1
+address: 135.123
+command: 157
+#
+name: DISC 4
+type: parsed
+protocol: nec1
+address: 135.123
+command: 158
+#
+name: DISC 5
+type: parsed
+protocol: nec1
+address: 135.123
+command: 159
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 135.123
+command: 159
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 135.123
+command: 201
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 135.123
+command: 202
+#
+name: CALL
+type: parsed
+protocol: nec1
+address: 135.123
+command: 203
+#
+name: LEVEL FILE
+type: parsed
+protocol: nec1
+address: 135.123
+command: 204
+#
+name: TIME
+type: parsed
+protocol: nec1
+address: 135.123
+command: 205
+#
+name: RANDOM
+type: parsed
+protocol: nec1
+address: 135.123
+command: 206
+#
+name: FADER
+type: parsed
+protocol: nec1
+address: 135.123
+command: 219
+#
+name: EQ
+type: parsed
+protocol: nec1
+address: 135.123
+command: 221
+#

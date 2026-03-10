@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: denon
+address: 2
+command: 241
+#
+name: CHANNEL -
+type: parsed
+protocol: denon
+address: 2
+command: 242
+#

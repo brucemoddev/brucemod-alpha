@@ -1,0 +1,381 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SKIP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 0
+#
+name: TV/VCR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 1
+#
+name: POWER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 2
+#
+name: 1
+type: parsed
+protocol: necx2
+address: 5.5
+command: 4
+#
+name: 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 5
+#
+name: 3
+type: parsed
+protocol: necx2
+address: 5.5
+command: 6
+#
+name: VOLUME ^
+type: parsed
+protocol: necx2
+address: 5.5
+command: 7
+#
+name: 4
+type: parsed
+protocol: necx2
+address: 5.5
+command: 8
+#
+name: 5
+type: parsed
+protocol: necx2
+address: 5.5
+command: 9
+#
+name: 6
+type: parsed
+protocol: necx2
+address: 5.5
+command: 10
+#
+name: VOLUME V
+type: parsed
+protocol: necx2
+address: 5.5
+command: 11
+#
+name: 7
+type: parsed
+protocol: necx2
+address: 5.5
+command: 12
+#
+name: 8
+type: parsed
+protocol: necx2
+address: 5.5
+command: 13
+#
+name: 9
+type: parsed
+protocol: necx2
+address: 5.5
+command: 14
+#
+name: MUTE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 15
+#
+name: CHANNEL V
+type: parsed
+protocol: necx2
+address: 5.5
+command: 16
+#
+name: 0
+type: parsed
+protocol: necx2
+address: 5.5
+command: 17
+#
+name: CHANNEL ^
+type: parsed
+protocol: necx2
+address: 5.5
+command: 18
+#
+name: SLOW + ^
+type: parsed
+protocol: necx2
+address: 5.5
+command: 19
+#
+name: SLOW +
+type: parsed
+protocol: necx2
+address: 5.5
+command: 19
+#
+name: RECORD
+type: parsed
+protocol: necx2
+address: 5.5
+command: 20
+#
+name: STOP []
+type: parsed
+protocol: necx2
+address: 5.5
+command: 21
+#
+name: STOP/EJECT []
+type: parsed
+protocol: necx2
+address: 5.5
+command: 21
+#
+name: PAUSE/STILL
+type: parsed
+protocol: necx2
+address: 5.5
+command: 22
+#
+name: PAUSE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 22
+#
+name: SLOW - V
+type: parsed
+protocol: necx2
+address: 5.5
+command: 23
+#
+name: SLOW -
+type: parsed
+protocol: necx2
+address: 5.5
+command: 23
+#
+name: REW <<
+type: parsed
+protocol: necx2
+address: 5.5
+command: 24
+#
+name: PLAY >
+type: parsed
+protocol: necx2
+address: 5.5
+command: 25
+#
+name: PLAY/LOAD >
+type: parsed
+protocol: necx2
+address: 5.5
+command: 25
+#
+name: FWD >>
+type: parsed
+protocol: necx2
+address: 5.5
+command: 26
+#
+name: MEMORY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 28
+#
+name: CLEAR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 29
+#
+name: RESET
+type: parsed
+protocol: necx2
+address: 5.5
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: necx2
+address: 5.5
+command: 30
+#
+name: MENU
+type: parsed
+protocol: necx2
+address: 5.5
+command: 31
+#
+name: SELECT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 34
+#
+name: VHS
+type: parsed
+protocol: necx2
+address: 5.5
+command: 36
+#
+name: 100+
+type: parsed
+protocol: necx2
+address: 5.5
+command: 38
+#
+name: INDEX
+type: parsed
+protocol: necx2
+address: 5.5
+command: 43
+#
+name: TRACKING/MENU ^
+type: parsed
+protocol: necx2
+address: 5.5
+command: 44
+#
+name: TRACKING/MENU V
+type: parsed
+protocol: necx2
+address: 5.5
+command: 45
+#
+name: CLK/CTR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 49
+#
+name: SP/SLP
+type: parsed
+protocol: necx2
+address: 5.5
+command: 58
+#
+name: ATR
+type: parsed
+protocol: necx2
+address: 5.5
+command: 60
+#
+name: SHUTTLE BEGIN <
+type: parsed
+protocol: necx2
+address: 5.5
+command: 66
+#
+name: TRK/MENU ^
+type: parsed
+protocol: necx2
+address: 5.5
+command: 66
+#
+name: SHUTTLE END >
+type: parsed
+protocol: necx2
+address: 5.5
+command: 67
+#
+name: TRK/MENU V
+type: parsed
+protocol: necx2
+address: 5.5
+command: 67
+#
+name: SCENE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 76
+#
+name: BEGIN
+type: parsed
+protocol: necx2
+address: 5.5
+command: 77
+#
+name: END
+type: parsed
+protocol: necx2
+address: 5.5
+command: 78
+#
+name: LCV
+type: parsed
+protocol: necx2
+address: 5.5
+command: 84
+#
+name: LAST CHANNEL
+type: parsed
+protocol: necx2
+address: 5.5
+command: 84
+#
+name: QUIT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 88
+#
+name: TUNER
+type: parsed
+protocol: necx2
+address: 5.5
+command: 89
+#
+name: LINE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 90
+#
+name: 8MM
+type: parsed
+protocol: necx2
+address: 5.5
+command: 91
+#
+name: DECK 2
+type: parsed
+protocol: necx2
+address: 5.5
+command: 92
+#
+name: SYNC EDIT
+type: parsed
+protocol: necx2
+address: 5.5
+command: 92
+#
+name: DECK 1
+type: parsed
+protocol: necx2
+address: 5.5
+command: 93
+#
+name: 8MM/VHS
+type: parsed
+protocol: necx2
+address: 5.5
+command: 93
+#
+name: COPY TAPE
+type: parsed
+protocol: necx2
+address: 5.5
+command: 94
+#

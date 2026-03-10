@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 17
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 17
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 17
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 17
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 17
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 17
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 17
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 17
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 17
+command: 8
+#
+name: CHECK
+type: parsed
+protocol: sony12
+address: 17
+command: 13
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sony12
+address: 17
+command: 15
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 17
+command: 16
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 17
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 17
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 17
+command: 19
+#
+name: KEY_OPEN
+type: parsed
+protocol: sony12
+address: 17
+command: 22
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 17
+command: 23
+#
+name: C.INDEX
+type: parsed
+protocol: sony12
+address: 17
+command: 24
+#
+name: FILE
+type: parsed
+protocol: sony12
+address: 17
+command: 25
+#
+name: FILE_RECALL
+type: parsed
+protocol: sony12
+address: 17
+command: 26
+#
+name: ERASE
+type: parsed
+protocol: sony12
+address: 17
+command: 27
+#
+name: CONTINUE
+type: parsed
+protocol: sony12
+address: 17
+command: 29
+#
+name: PROGRAM
+type: parsed
+protocol: sony12
+address: 17
+command: 31
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 17
+command: 32
+#
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 17
+command: 33
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 17
+command: 34
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 17
+command: 35
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 17
+command: 36
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 17
+command: 37
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 17
+command: 38
+#
+name: >20
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: >10
+type: parsed
+protocol: sony12
+address: 17
+command: 39
+#
+name: KEY_TIME
+type: parsed
+protocol: sony12
+address: 17
+command: 40
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 17
+command: 41
+#
+name: A-B
+type: parsed
+protocol: sony12
+address: 17
+command: 42
+#
+name: KEY_AGAIN
+type: parsed
+protocol: sony12
+address: 17
+command: 44
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: sony12
+address: 17
+command: 48
+#
+name: KEY_NEXT
+type: parsed
+protocol: sony12
+address: 17
+command: 49
+#
+name: KEY_PLAY
+type: parsed
+protocol: sony12
+address: 17
+command: 50
+#
+name: KEY_REWIND
+type: parsed
+protocol: sony12
+address: 17
+command: 51
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: sony12
+address: 17
+command: 52
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 17
+command: 53
+#
+name: INDEX-
+type: parsed
+protocol: sony12
+address: 17
+command: 54
+#
+name: INDEX+
+type: parsed
+protocol: sony12
+address: 17
+command: 55
+#
+name: KEY_STOP
+type: parsed
+protocol: sony12
+address: 17
+command: 56
+#
+name: KEY_PAUSE
+type: parsed
+protocol: sony12
+address: 17
+command: 57
+#
+name: SLOWREW
+type: parsed
+protocol: sony12
+address: 17
+command: 58
+#
+name: SLOWFF
+type: parsed
+protocol: sony12
+address: 17
+command: 59
+#
+name: MUSIC_SCAN
+type: parsed
+protocol: sony12
+address: 17
+command: 60
+#
+name: A.SPACE
+type: parsed
+protocol: sony12
+address: 17
+command: 78
+#
+name: PEAK_SEARCH
+type: parsed
+protocol: sony12
+address: 17
+command: 79
+#
+name: DISPLAY_MODE
+type: parsed
+protocol: sony12
+address: 17
+command: 86
+#
+name: FADER
+type: parsed
+protocol: sony12
+address: 17
+command: 95
+#
+name: LEVEL_FILE
+type: parsed
+protocol: sony12
+address: 17
+command: 104
+#
+name: MEMO_INPUT
+type: parsed
+protocol: sony12
+address: 17
+command: 105
+#

@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: prog_+
+type: parsed
+protocol: nec
+address: 24
+command: 0
+#
+name: prog_-
+type: parsed
+protocol: nec
+address: 24
+command: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 24
+command: 2
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 24
+command: 3
+#
+name: -A-
+type: parsed
+protocol: nec
+address: 24
+command: 4
+#
+name: -B-
+type: parsed
+protocol: nec
+address: 24
+command: 5
+#
+name: -C-
+type: parsed
+protocol: nec
+address: 24
+command: 6
+#
+name: -D-
+type: parsed
+protocol: nec
+address: 24
+command: 7
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 24
+command: 8
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 24
+command: 9
+#
+name: AV
+type: parsed
+protocol: nec
+address: 24
+command: 10
+#
+name: KEY_MODE
+type: parsed
+protocol: nec
+address: 24
+command: 11
+#
+name: Hue_+
+type: parsed
+protocol: nec
+address: 24
+command: 12
+#
+name: Hue_-
+type: parsed
+protocol: nec
+address: 24
+command: 13
+#
+name: Norm
+type: parsed
+protocol: nec
+address: 24
+command: 14
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 24
+command: 15
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 24
+command: 16
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 24
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 24
+command: 18
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 24
+command: 19
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 24
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 24
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 24
+command: 22
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 24
+command: 23
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 24
+command: 24
+#
+name: KEY_102ND
+type: parsed
+protocol: nec
+address: 24
+command: 25
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 24
+command: 26
+#
+name: KEY_2-
+type: parsed
+protocol: nec
+address: 24
+command: 27
+#
+name: shift_-A-
+type: parsed
+protocol: nec
+address: 24
+command: 28
+#
+name: timer_off
+type: parsed
+protocol: nec
+address: 24
+command: 30
+#
+name: timer_on
+type: parsed
+protocol: nec
+address: 24
+command: 31
+#
+name: Bass_+
+type: parsed
+protocol: nec
+address: 24
+command: 66
+#
+name: Bass_-
+type: parsed
+protocol: nec
+address: 24
+command: 67
+#
+name: Treble_+
+type: parsed
+protocol: nec
+address: 24
+command: 68
+#
+name: Treble_-
+type: parsed
+protocol: nec
+address: 24
+command: 69
+#
+name: contr_+
+type: parsed
+protocol: nec
+address: 24
+command: 70
+#
+name: contr_-
+type: parsed
+protocol: nec
+address: 24
+command: 71
+#
+name: Mode_+
+type: parsed
+protocol: nec
+address: 24
+command: 72
+#
+name: Mode_-
+type: parsed
+protocol: nec
+address: 24
+command: 73
+#
+name: Bright_+
+type: parsed
+protocol: nec
+address: 24
+command: 74
+#
+name: Bright_-
+type: parsed
+protocol: nec
+address: 24
+command: 75
+#
+name: Erase
+type: parsed
+protocol: nec
+address: 24
+command: 83
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 24
+command: 84
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 24
+command: 85
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 24
+command: 86
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 24
+command: 87
+#
+name: F_FWD
+type: parsed
+protocol: nec
+address: 24
+command: 88
+#
+name: shift_-/--
+type: parsed
+protocol: nec
+address: 24
+command: 89
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 24
+command: 90
+#
+name: shift_Menu
+type: parsed
+protocol: nec
+address: 24
+command: 91
+#
+name: shift_2-
+type: parsed
+protocol: nec
+address: 24
+command: 92
+#
+name: shift_|>
+type: parsed
+protocol: nec
+address: 24
+command: 93
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 24
+command: 94
+#
+name: |>
+type: parsed
+protocol: nec
+address: 24
+command: 95
+#
+name: shift_Mode
+type: parsed
+protocol: nec
+address: 24
+command: 195
+#

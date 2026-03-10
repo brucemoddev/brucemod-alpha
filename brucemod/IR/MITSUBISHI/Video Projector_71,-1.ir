@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 0
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 1
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 8
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 9
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 16
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 24
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 27
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 32
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 40
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 48
+#
+name: MENU 1
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 51
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 56
+#
+name: POWER ON
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 66
+#
+name: POWER OFF
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 74
+#
+name: ESC
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 82
+#
+name: TEST
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 94
+#
+name: >
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 100
+#
+name: <
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 108
+#
+name: MENU 2
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 115
+#
+name: ^
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 116
+#
+name: V
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 124
+#
+name: PIC MUTE
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 146
+#
+name: MEM LIST
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 157
+#
+name: NORMAL
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 159
+#
+name: CRT R
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 161
+#
+name: INPUT A
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 164
+#
+name: CRT G
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 169
+#
+name: INPUT B
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 172
+#
+name: CRT B
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 177
+#
+name: FUNC
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 179
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 187
+#
+name: INPUT VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 245
+#
+name: INPUT Y/C
+type: parsed
+protocol: Mitsubishi
+address: 71
+command: 253
+#

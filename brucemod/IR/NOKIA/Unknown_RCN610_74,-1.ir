@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nrc17
+address: 74
+command: 0
+#
+name: 1
+type: parsed
+protocol: nrc17
+address: 74
+command: 1
+#
+name: 2
+type: parsed
+protocol: nrc17
+address: 74
+command: 2
+#
+name: 3
+type: parsed
+protocol: nrc17
+address: 74
+command: 3
+#
+name: 4
+type: parsed
+protocol: nrc17
+address: 74
+command: 4
+#
+name: 5
+type: parsed
+protocol: nrc17
+address: 74
+command: 5
+#
+name: 6
+type: parsed
+protocol: nrc17
+address: 74
+command: 6
+#
+name: 7
+type: parsed
+protocol: nrc17
+address: 74
+command: 7
+#
+name: 8
+type: parsed
+protocol: nrc17
+address: 74
+command: 8
+#
+name: 9
+type: parsed
+protocol: nrc17
+address: 74
+command: 9
+#
+name: Power
+type: parsed
+protocol: nrc17
+address: 74
+command: 12
+#
+name: Up
+type: parsed
+protocol: nrc17
+address: 74
+command: 14
+#
+name: Down
+type: parsed
+protocol: nrc17
+address: 74
+command: 15
+#
+name: Volume+
+type: parsed
+protocol: nrc17
+address: 74
+command: 22
+#
+name: Volume-
+type: parsed
+protocol: nrc17
+address: 74
+command: 23
+#
+name: Timer
+type: parsed
+protocol: nrc17
+address: 74
+command: 34
+#
+name: REC
+type: parsed
+protocol: nrc17
+address: 74
+command: 35
+#
+name: Mute
+type: parsed
+protocol: nrc17
+address: 74
+command: 40
+#
+name: Info
+type: parsed
+protocol: nrc17
+address: 74
+command: 45
+#
+name: Right
+type: parsed
+protocol: nrc17
+address: 74
+command: 46
+#
+name: Left
+type: parsed
+protocol: nrc17
+address: 74
+command: 47
+#
+name: OK
+type: parsed
+protocol: nrc17
+address: 74
+command: 48
+#
+name: Text
+type: parsed
+protocol: nrc17
+address: 74
+command: 51
+#
+name: Stop
+type: parsed
+protocol: nrc17
+address: 74
+command: 53
+#
+name: Size
+type: parsed
+protocol: nrc17
+address: 74
+command: 56
+#
+name: Menu
+type: parsed
+protocol: nrc17
+address: 74
+command: 59
+#
+name: Red
+type: parsed
+protocol: nrc17
+address: 74
+command: 60
+#
+name: Green
+type: parsed
+protocol: nrc17
+address: 74
+command: 61
+#
+name: Yellow
+type: parsed
+protocol: nrc17
+address: 74
+command: 62
+#
+name: Blue
+type: parsed
+protocol: nrc17
+address: 74
+command: 63
+#
+name: TV
+type: parsed
+protocol: nrc17
+address: 74
+command: 112
+#
+name: SAT
+type: parsed
+protocol: nrc17
+address: 74
+command: 114
+#
+name: VCR
+type: parsed
+protocol: nrc17
+address: 74
+command: 116
+#

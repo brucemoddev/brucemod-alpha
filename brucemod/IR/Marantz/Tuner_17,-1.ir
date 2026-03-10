@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 17
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 17
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 17
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 17
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 17
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 17
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 17
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 17
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 17
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 17
+command: 9
+#
+name: 10
+type: parsed
+protocol: rc5
+address: 17
+command: 10
+#
+name: 0 OR 10
+type: parsed
+protocol: rc5
+address: 17
+command: 10
+#
+name: FREQ. DIRECT
+type: parsed
+protocol: rc5
+address: 17
+command: 11
+#
+name: FREQ DIRECT
+type: parsed
+protocol: rc5
+address: 17
+command: 11
+#
+name: F.DIRECT
+type: parsed
+protocol: rc5
+address: 17
+command: 11
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 17
+command: 12
+#
+name: POWER TOGGLE
+type: parsed
+protocol: rc5
+address: 17
+command: 12
+#
+name: DISPLAY
+type: parsed
+protocol: rc5
+address: 17
+command: 15
+#
+name: DISPLAY MODE
+type: parsed
+protocol: rc5
+address: 17
+command: 15
+#
+name: MEM. GROUP NEXT
+type: parsed
+protocol: rc5
+address: 17
+command: 28
+#
+name: TUNING UP
+type: parsed
+protocol: rc5
+address: 17
+command: 30
+#
+name: TUNING +
+type: parsed
+protocol: rc5
+address: 17
+command: 30
+#
+name: FREQUENCY +
+type: parsed
+protocol: rc5
+address: 17
+command: 30
+#
+name: TUNING DOWN
+type: parsed
+protocol: rc5
+address: 17
+command: 31
+#
+name: TUNING -
+type: parsed
+protocol: rc5
+address: 17
+command: 31
+#
+name: FREQUENCY -
+type: parsed
+protocol: rc5
+address: 17
+command: 31
+#
+name: PRESET ++
+type: parsed
+protocol: rc5
+address: 17
+command: 32
+#
+name: PRESET +
+type: parsed
+protocol: rc5
+address: 17
+command: 32
+#
+name: PRESET UP
+type: parsed
+protocol: rc5
+address: 17
+command: 32
+#
+name: PRESET --
+type: parsed
+protocol: rc5
+address: 17
+command: 33
+#
+name: PRESET -
+type: parsed
+protocol: rc5
+address: 17
+command: 33
+#
+name: PRESET DOWN
+type: parsed
+protocol: rc5
+address: 17
+command: 33
+#
+name: STEREO/MONO
+type: parsed
+protocol: rc5
+address: 17
+command: 37
+#
+name: FM MODE
+type: parsed
+protocol: rc5
+address: 17
+command: 37
+#
+name: TUNE MODE
+type: parsed
+protocol: rc5
+address: 17
+command: 37
+#
+name: IF BAND
+type: parsed
+protocol: rc5
+address: 17
+command: 40
+#
+name: MEMO
+type: parsed
+protocol: rc5
+address: 17
+command: 41
+#
+name: MEMORY
+type: parsed
+protocol: rc5
+address: 17
+command: 41
+#
+name: PRESET SCAN
+type: parsed
+protocol: rc5
+address: 17
+command: 43
+#
+name: FM
+type: parsed
+protocol: rc5
+address: 17
+command: 45
+#
+name: AM
+type: parsed
+protocol: rc5
+address: 17
+command: 46
+#
+name: LW
+type: parsed
+protocol: rc5
+address: 17
+command: 47
+#
+name: CLEAR
+type: parsed
+protocol: rc5
+address: 17
+command: 58
+#
+name: AM/FM
+type: parsed
+protocol: rc5
+address: 17
+command: 63
+#
+name: BAND
+type: parsed
+protocol: rc5
+address: 17
+command: 63
+#
+name: DIMMER
+type: parsed
+protocol: rc5
+address: 17
+command: 71
+#
+name: PRESET INFO
+type: parsed
+protocol: rc5
+address: 17
+command: 82
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 17
+command: 82
+#
+name: OK
+type: parsed
+protocol: rc5
+address: 17
+command: 87
+#
+name: PTY
+type: parsed
+protocol: rc5
+address: 17
+command: 120
+#

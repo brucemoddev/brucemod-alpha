@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: sony12
+address: 1.0
+command: 21
+#
+name: Vol_Up
+type: parsed
+protocol: sony12
+address: 1.0
+command: 18
+#
+name: VOL_DN
+type: parsed
+protocol: sony12
+address: 1.0
+command: 19
+#
+name: Mute
+type: parsed
+protocol: sony12
+address: 1.0
+command: 20
+#

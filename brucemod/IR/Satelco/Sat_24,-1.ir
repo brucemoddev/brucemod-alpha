@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: rc5
+address: 24
+command: 11
+#
+name: KEY_9
+type: parsed
+protocol: rc5
+address: 24
+command: 12
+#
+name: KEY_8
+type: parsed
+protocol: rc5
+address: 24
+command: 13
+#
+name: KEY_7
+type: parsed
+protocol: rc5
+address: 24
+command: 14
+#
+name: KEY_6
+type: parsed
+protocol: rc5
+address: 24
+command: 15
+#
+name: KEY_5
+type: parsed
+protocol: rc5
+address: 24
+command: 16
+#
+name: KEY_4
+type: parsed
+protocol: rc5
+address: 24
+command: 17
+#
+name: KEY_3
+type: parsed
+protocol: rc5
+address: 24
+command: 18
+#
+name: KEY_2
+type: parsed
+protocol: rc5
+address: 24
+command: 19
+#
+name: KEY_1
+type: parsed
+protocol: rc5
+address: 24
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: rc5
+address: 24
+command: 21
+#
+name: KEY_MUTE
+type: parsed
+protocol: rc5
+address: 24
+command: 22
+#
+name: vidarchive
+type: parsed
+protocol: rc5
+address: 24
+command: 23
+#
+name: center
+type: parsed
+protocol: rc5
+address: 24
+command: 24
+#
+name: lastprog
+type: parsed
+protocol: rc5
+address: 24
+command: 25
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: rc5
+address: 24
+command: 26
+#
+name: pip
+type: parsed
+protocol: rc5
+address: 24
+command: 27
+#
+name: KEY_SLEEP
+type: parsed
+protocol: rc5
+address: 24
+command: 28
+#
+name: timer
+type: parsed
+protocol: rc5
+address: 24
+command: 29
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: rc5
+address: 24
+command: 30
+#
+name: tvmenu
+type: parsed
+protocol: rc5
+address: 24
+command: 31
+#
+name: KEY_EPG
+type: parsed
+protocol: rc5
+address: 24
+command: 32
+#
+name: KEY_TEXT
+type: parsed
+protocol: rc5
+address: 24
+command: 33
+#
+name: KEY_UP
+type: parsed
+protocol: rc5
+address: 24
+command: 34
+#
+name: KEY_DOWN
+type: parsed
+protocol: rc5
+address: 24
+command: 35
+#
+name: KEY_LEFT
+type: parsed
+protocol: rc5
+address: 24
+command: 36
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rc5
+address: 24
+command: 37
+#
+name: KEY_OK
+type: parsed
+protocol: rc5
+address: 24
+command: 38
+#
+name: KEY_TV
+type: parsed
+protocol: rc5
+address: 24
+command: 39
+#
+name: KEY_RADIO
+type: parsed
+protocol: rc5
+address: 24
+command: 40
+#
+name: KEY_DVD
+type: parsed
+protocol: rc5
+address: 24
+command: 41
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rc5
+address: 24
+command: 42
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rc5
+address: 24
+command: 43
+#
+name: KEY_MENU
+type: parsed
+protocol: rc5
+address: 24
+command: 44
+#
+name: KEY_BACK
+type: parsed
+protocol: rc5
+address: 24
+command: 45
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: rc5
+address: 24
+command: 46
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: rc5
+address: 24
+command: 47
+#
+name: KEY_PLAY
+type: parsed
+protocol: rc5
+address: 24
+command: 48
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rc5
+address: 24
+command: 49
+#
+name: KEY_STOP
+type: parsed
+protocol: rc5
+address: 24
+command: 50
+#
+name: KEY_RECORD
+type: parsed
+protocol: rc5
+address: 24
+command: 51
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 24
+command: 52
+#
+name: KEY_REWIND
+type: parsed
+protocol: rc5
+address: 24
+command: 53
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 24
+command: 54
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: rc5
+address: 24
+command: 55
+#
+name: KEY_RED
+type: parsed
+protocol: rc5
+address: 24
+command: 56
+#
+name: KEY_GREEN
+type: parsed
+protocol: rc5
+address: 24
+command: 57
+#
+name: KEY_YELLOW
+type: parsed
+protocol: rc5
+address: 24
+command: 58
+#
+name: KEY_BLUE
+type: parsed
+protocol: rc5
+address: 24
+command: 59
+#

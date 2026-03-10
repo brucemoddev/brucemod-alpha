@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DAY UP
+type: parsed
+protocol: sony15
+address: 186
+command: 6
+#
+name: DAY DOWN
+type: parsed
+protocol: sony15
+address: 186
+command: 7
+#
+name: EXIT
+type: parsed
+protocol: sony15
+address: 186
+command: 8
+#
+name: GUIDE
+type: parsed
+protocol: sony15
+address: 186
+command: 9
+#
+name: PAGE DOWN
+type: parsed
+protocol: sony15
+address: 186
+command: 10
+#
+name: PAGE UP
+type: parsed
+protocol: sony15
+address: 186
+command: 11
+#
+name: THEME
+type: parsed
+protocol: sony15
+address: 186
+command: 12
+#
+name: LIST
+type: parsed
+protocol: sony15
+address: 186
+command: 13
+#
+name: CURSOR UP
+type: parsed
+protocol: sony15
+address: 186
+command: 14
+#
+name: PAUSE
+type: parsed
+protocol: sony15
+address: 186
+command: 14
+#
+name: MENU UP
+type: parsed
+protocol: sony15
+address: 186
+command: 14
+#
+name: UP
+type: parsed
+protocol: sony15
+address: 186
+command: 14
+#
+name: CURSOR DOWN
+type: parsed
+protocol: sony15
+address: 186
+command: 15
+#
+name: STOP
+type: parsed
+protocol: sony15
+address: 186
+command: 15
+#
+name: MENU DOWN
+type: parsed
+protocol: sony15
+address: 186
+command: 15
+#
+name: DN
+type: parsed
+protocol: sony15
+address: 186
+command: 15
+#
+name: CURSOR LEFT
+type: parsed
+protocol: sony15
+address: 186
+command: 16
+#
+name: REWIND <<
+type: parsed
+protocol: sony15
+address: 186
+command: 16
+#
+name: MENU LEFT
+type: parsed
+protocol: sony15
+address: 186
+command: 16
+#
+name: SCAN <<
+type: parsed
+protocol: sony15
+address: 186
+command: 16
+#
+name: RR
+type: parsed
+protocol: sony15
+address: 186
+command: 16
+#
+name: LT
+type: parsed
+protocol: sony15
+address: 186
+command: 16
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: sony15
+address: 186
+command: 17
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: sony15
+address: 186
+command: 17
+#
+name: MENU RIGHT
+type: parsed
+protocol: sony15
+address: 186
+command: 17
+#
+name: SCAN >>
+type: parsed
+protocol: sony15
+address: 186
+command: 17
+#
+name: FF
+type: parsed
+protocol: sony15
+address: 186
+command: 17
+#
+name: RT
+type: parsed
+protocol: sony15
+address: 186
+command: 17
+#
+name: CURSOR \"OK\"
+type: parsed
+protocol: sony15
+address: 186
+command: 24
+#
+name: PLAY
+type: parsed
+protocol: sony15
+address: 186
+command: 24
+#
+name: EXECUTE
+type: parsed
+protocol: sony15
+address: 186
+command: 24
+#
+name: OK
+type: parsed
+protocol: sony15
+address: 186
+command: 24
+#
+name: CURSOR SELECT
+type: parsed
+protocol: sony15
+address: 186
+command: 24
+#
+name: SMART FILE
+type: parsed
+protocol: sony15
+address: 186
+command: 28
+#
+name: TAPE GUIDE
+type: parsed
+protocol: sony15
+address: 186
+command: 28
+#
+name: VIDEO 1
+type: parsed
+protocol: sony15
+address: 186
+command: 53
+#
+name: INPUT 1 VTR 3
+type: parsed
+protocol: sony15
+address: 186
+command: 53
+#
+name: INPUT 1
+type: parsed
+protocol: sony15
+address: 186
+command: 53
+#
+name: VIDEO 2
+type: parsed
+protocol: sony15
+address: 186
+command: 54
+#
+name: VIDEO 3
+type: parsed
+protocol: sony15
+address: 186
+command: 55
+#
+name: VIDEO 4
+type: parsed
+protocol: sony15
+address: 186
+command: 56
+#
+name: VIDEO 5
+type: parsed
+protocol: sony15
+address: 186
+command: 60
+#
+name: TUNER
+type: parsed
+protocol: sony15
+address: 186
+command: 67
+#
+name: VCR PLUS
+type: parsed
+protocol: sony15
+address: 186
+command: 96
+#
+name: VCR PLUS+
+type: parsed
+protocol: sony15
+address: 186
+command: 96
+#
+name: VCR PLUS +
+type: parsed
+protocol: sony15
+address: 186
+command: 96
+#
+name: VCR+
+type: parsed
+protocol: sony15
+address: 186
+command: 96
+#
+name: VCR PLUS: ONCE
+type: parsed
+protocol: sony15
+address: 186
+command: 97
+#
+name: SET
+type: parsed
+protocol: sony15
+address: 186
+command: 97
+#
+name: ONCE
+type: parsed
+protocol: sony15
+address: 186
+command: 97
+#
+name: VCR PLUS: DAILY
+type: parsed
+protocol: sony15
+address: 186
+command: 98
+#
+name: DAILY
+type: parsed
+protocol: sony15
+address: 186
+command: 98
+#
+name: VCR PLUS: WEEKLY
+type: parsed
+protocol: sony15
+address: 186
+command: 99
+#
+name: WEEKLY
+type: parsed
+protocol: sony15
+address: 186
+command: 99
+#

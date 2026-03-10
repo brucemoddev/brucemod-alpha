@@ -1,0 +1,315 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: sony12
+address: 6
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony12
+address: 6
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony12
+address: 6
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony12
+address: 6
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony12
+address: 6
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony12
+address: 6
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony12
+address: 6
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony12
+address: 6
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony12
+address: 6
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony12
+address: 6
+command: 9
+#
+name: SEARCH/NEXT
+type: parsed
+protocol: sony12
+address: 6
+command: 11
+#
+name: FRAME/TIME
+type: parsed
+protocol: sony12
+address: 6
+command: 12
+#
+name: CLEAR
+type: parsed
+protocol: sony12
+address: 6
+command: 15
+#
+name: POWER
+type: parsed
+protocol: sony12
+address: 6
+command: 21
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: sony12
+address: 6
+command: 23
+#
+name: STOP
+type: parsed
+protocol: sony12
+address: 6
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: sony12
+address: 6
+command: 25
+#
+name: PLAY
+type: parsed
+protocol: sony12
+address: 6
+command: 26
+#
+name: REVERSE
+type: parsed
+protocol: sony12
+address: 6
+command: 30
+#
+name: FORWARD
+type: parsed
+protocol: sony12
+address: 6
+command: 31
+#
+name: SPEED SET+
+type: parsed
+protocol: sony12
+address: 6
+command: 33
+#
+name: SPEED SET +
+type: parsed
+protocol: sony12
+address: 6
+command: 33
+#
+name: SPEED SET-
+type: parsed
+protocol: sony12
+address: 6
+command: 34
+#
+name: SPEED SET -
+type: parsed
+protocol: sony12
+address: 6
+command: 34
+#
+name: MULTI-SPEED>
+type: parsed
+protocol: sony12
+address: 6
+command: 35
+#
+name: MULTISPEED >
+type: parsed
+protocol: sony12
+address: 6
+command: 35
+#
+name: MULTI-SPEED<
+type: parsed
+protocol: sony12
+address: 6
+command: 36
+#
+name: MULTISPEED <
+type: parsed
+protocol: sony12
+address: 6
+command: 36
+#
+name: MEMORY PLAY
+type: parsed
+protocol: sony12
+address: 6
+command: 37
+#
+name: AV TIME
+type: parsed
+protocol: sony12
+address: 6
+command: 40
+#
+name: REPEAT
+type: parsed
+protocol: sony12
+address: 6
+command: 41
+#
+name: STILL/STEP>
+type: parsed
+protocol: sony12
+address: 6
+command: 43
+#
+name: STILL/STEP >
+type: parsed
+protocol: sony12
+address: 6
+command: 43
+#
+name: STILL/STEP<
+type: parsed
+protocol: sony12
+address: 6
+command: 44
+#
+name: STILL/STEP <
+type: parsed
+protocol: sony12
+address: 6
+command: 44
+#
+name: POWER ON
+type: parsed
+protocol: sony12
+address: 6
+command: 46
+#
+name: POWER OFF
+type: parsed
+protocol: sony12
+address: 6
+command: 47
+#
+name: PGM
+type: parsed
+protocol: sony12
+address: 6
+command: 48
+#
+name: CX
+type: parsed
+protocol: sony12
+address: 6
+command: 50
+#
+name: SKIP >>
+type: parsed
+protocol: sony12
+address: 6
+command: 52
+#
+name: ACS/AMS >>
+type: parsed
+protocol: sony12
+address: 6
+command: 52
+#
+name: SKIP <<
+type: parsed
+protocol: sony12
+address: 6
+command: 53
+#
+name: ACS/AMS <<
+type: parsed
+protocol: sony12
+address: 6
+command: 53
+#
+name: REPEAT A-B
+type: parsed
+protocol: sony12
+address: 6
+command: 56
+#
+name: +10
+type: parsed
+protocol: sony12
+address: 6
+command: 57
+#
+name: DISPLAY
+type: parsed
+protocol: sony12
+address: 6
+command: 58
+#
+name: AUDIO MODE
+type: parsed
+protocol: sony12
+address: 6
+command: 64
+#
+name: SHUFFLE
+type: parsed
+protocol: sony12
+address: 6
+command: 65
+#
+name: BACK
+type: parsed
+protocol: sony12
+address: 6
+command: 68
+#
+name: AUTO PAUSE
+type: parsed
+protocol: sony12
+address: 6
+command: 70
+#
+name: 1/ALL
+type: parsed
+protocol: sony12
+address: 6
+command: 71
+#
+name: INTRO
+type: parsed
+protocol: sony12
+address: 6
+command: 104
+#

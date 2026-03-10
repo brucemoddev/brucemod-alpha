@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 0.189
+command: 1
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 0.189
+command: 4
+#
+name: TVVIDEO
+type: parsed
+protocol: nec
+address: 0.189
+command: 5
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 0.189
+command: 10
+#
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 0.189
+command: 12
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 0.189
+command: 16
+#
+name: PIP
+type: parsed
+protocol: nec
+address: 0.189
+command: 18
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 0.189
+command: 19
+#
+name: WIDE
+type: parsed
+protocol: nec
+address: 0.189
+command: 20
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 0.189
+command: 21
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 0.189
+command: 22
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 0.189
+command: 23
+#
+name: KEY_UP
+type: parsed
+protocol: nec
+address: 0.189
+command: 24
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 0.189
+command: 25
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 0.189
+command: 26
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 0.189
+command: 27
+#
+name: KEY_DOWN
+type: parsed
+protocol: nec
+address: 0.189
+command: 28
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 0.189
+command: 29
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 0.189
+command: 30
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 0.189
+command: 31
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 0.189
+command: 64
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 0.189
+command: 65
+#
+name: PRECH
+type: parsed
+protocol: nec
+address: 0.189
+command: 68
+#
+name: KEY_PC
+type: parsed
+protocol: nec
+address: 0.189
+command: 69
+#
+name: PLUSMINUS
+type: parsed
+protocol: nec
+address: 0.189
+command: 75
+#

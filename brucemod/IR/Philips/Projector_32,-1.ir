@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: pwr
+type: parsed
+protocol: nec
+address: 32
+command: 65
+#
+name: VOL +
+type: parsed
+protocol: nec
+address: 32
+command: 81
+#
+name: VOL -
+type: parsed
+protocol: nec
+address: 32
+command: 86
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 32
+command: 90
+#
+name: Up
+type: parsed
+protocol: nec
+address: 32
+command: 66
+#
+name: Down
+type: parsed
+protocol: nec
+address: 32
+command: 67
+#
+name: Left
+type: parsed
+protocol: nec
+address: 32
+command: 26
+#
+name: Right
+type: parsed
+protocol: nec
+address: 32
+command: 79
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 32
+command: 27
+#
+name: home
+type: parsed
+protocol: nec
+address: 32
+command: 20
+#
+name: Back
+type: parsed
+protocol: nec
+address: 32
+command: 77
+#
+name: Input
+type: parsed
+protocol: nec
+address: 32
+command: 80
+#

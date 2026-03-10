@@ -1,0 +1,423 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CURSOR RIGHT (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 0
+#
+name: CURSOR LEFT (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 1
+#
+name: RDS
+type: parsed
+protocol: nec2
+address: 26
+command: 2
+#
+name: SELECT
+type: parsed
+protocol: nec2
+address: 26
+command: 3
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 26
+command: 4
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 26
+command: 5
+#
+name: PAUSE
+type: parsed
+protocol: nec2
+address: 26
+command: 14
+#
+name: 1 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 16
+#
+name: 2 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 17
+#
+name: 3 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 18
+#
+name: 4 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 19
+#
+name: 5 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 20
+#
+name: 6 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 21
+#
+name: 7 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 22
+#
+name: 8 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 23
+#
+name: 9 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 24
+#
+name: +10 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 25
+#
+name: 0 (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 26
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 26
+command: 64
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 26
+command: 65
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 26
+command: 66
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 26
+command: 67
+#
+name: REPEAT (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 73
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 26
+command: 78
+#
+name: TEST
+type: parsed
+protocol: nec2
+address: 26
+command: 80
+#
+name: MODE
+type: parsed
+protocol: nec2
+address: 26
+command: 87
+#
+name: MODE (CD)
+type: parsed
+protocol: nec2
+address: 26
+command: 87
+#
+name: D120
+type: parsed
+protocol: nec2
+address: 26
+command: 120
+#
+name: D2
+type: parsed
+protocol: nec2
+address: 26
+command: 121
+#
+name: D3
+type: parsed
+protocol: nec2
+address: 26
+command: 122
+#
+name: D4
+type: parsed
+protocol: nec2
+address: 26
+command: 123
+#
+name: D5
+type: parsed
+protocol: nec2
+address: 26
+command: 124
+#
+name: D6
+type: parsed
+protocol: nec2
+address: 26
+command: 125
+#
+name: D7
+type: parsed
+protocol: nec2
+address: 26
+command: 126
+#
+name: D8
+type: parsed
+protocol: nec2
+address: 26
+command: 127
+#
+name: POWER
+type: parsed
+protocol: nec2
+address: 26
+command: 128
+#
+name: D9
+type: parsed
+protocol: nec2
+address: 26
+command: 129
+#
+name: MUTE
+type: parsed
+protocol: nec2
+address: 26
+command: 130
+#
+name: VIDEO1
+type: parsed
+protocol: nec2
+address: 26
+command: 131
+#
+name: VIDEO2
+type: parsed
+protocol: nec2
+address: 26
+command: 132
+#
+name: VIDEO3
+type: parsed
+protocol: nec2
+address: 26
+command: 133
+#
+name: VIDEO4
+type: parsed
+protocol: nec2
+address: 26
+command: 134
+#
+name: VIDEO5
+type: parsed
+protocol: nec2
+address: 26
+command: 135
+#
+name: CD
+type: parsed
+protocol: nec2
+address: 26
+command: 136
+#
+name: FM
+type: parsed
+protocol: nec2
+address: 26
+command: 137
+#
+name: TUNER
+type: parsed
+protocol: nec2
+address: 26
+command: 137
+#
+name: TAPE
+type: parsed
+protocol: nec2
+address: 26
+command: 138
+#
+name: TUNE UP
+type: parsed
+protocol: nec2
+address: 26
+command: 140
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec2
+address: 26
+command: 141
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 26
+command: 142
+#
+name: AM
+type: parsed
+protocol: nec2
+address: 26
+command: 143
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 26
+command: 144
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 26
+command: 145
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 26
+command: 146
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 26
+command: 147
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 26
+command: 148
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 26
+command: 149
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 26
+command: 150
+#
+name: DYNAMIC RANGE
+type: parsed
+protocol: nec2
+address: 26
+command: 193
+#
+name: EXTERNAL 5.1
+type: parsed
+protocol: nec2
+address: 26
+command: 193
+#
+name: BACKS
+type: parsed
+protocol: nec2
+address: 26
+command: 197
+#
+name: SLEEP
+type: parsed
+protocol: nec2
+address: 26
+command: 198
+#
+name: BALANCE
+type: parsed
+protocol: nec2
+address: 26
+command: 199
+#
+name: DIM
+type: parsed
+protocol: nec2
+address: 26
+command: 202
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec2
+address: 26
+command: 209
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 26
+command: 209
+#
+name: PRESET/TUNE
+type: parsed
+protocol: nec2
+address: 26
+command: 211
+#
+name: VOLUME UP
+type: parsed
+protocol: nec2
+address: 26
+command: 213
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 26
+command: 213
+#
+name: DYNAMIC RANGE
+type: parsed
+protocol: nec2
+address: 26
+command: 223
+#

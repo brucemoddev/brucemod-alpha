@@ -1,0 +1,333 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: HD DIRECT
+type: parsed
+protocol: rca
+address: 7
+command: 3
+#
+name: HD TOGGLE
+type: parsed
+protocol: rca
+address: 7
+command: 3
+#
+name: ANTENNA
+type: parsed
+protocol: rca
+address: 7
+command: 5
+#
+name: CLEAR
+type: parsed
+protocol: rca
+address: 7
+command: 6
+#
+name: MENU/SELECT
+type: parsed
+protocol: rca
+address: 7
+command: 8
+#
+name: MENU
+type: parsed
+protocol: rca
+address: 7
+command: 8
+#
+name: SERVICE MENU
+type: parsed
+protocol: rca
+address: 7
+command: 9
+#
+name: RESET
+type: parsed
+protocol: rca
+address: 7
+command: 11
+#
+name: RECORD PROGRAM
+type: parsed
+protocol: rca
+address: 7
+command: 23
+#
+name: GUIDE
+type: parsed
+protocol: rca
+address: 7
+command: 26
+#
+name: GO BACK
+type: parsed
+protocol: rca
+address: 7
+command: 39
+#
+name: ON/OFF
+type: parsed
+protocol: rca
+address: 7
+command: 42
+#
+name: POWER
+type: parsed
+protocol: rca
+address: 7
+command: 42
+#
+name: CHANNEL -
+type: parsed
+protocol: rca
+address: 7
+command: 44
+#
+name: CHANNEL +
+type: parsed
+protocol: rca
+address: 7
+command: 45
+#
+name: 0
+type: parsed
+protocol: rca
+address: 7
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca
+address: 7
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 7
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca
+address: 7
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 7
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 7
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca
+address: 7
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca
+address: 7
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca
+address: 7
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca
+address: 7
+command: 57
+#
+name: POWER ON
+type: parsed
+protocol: rca
+address: 7
+command: 58
+#
+name: SAT
+type: parsed
+protocol: rca
+address: 7
+command: 58
+#
+name: POWER OFF
+type: parsed
+protocol: rca
+address: 7
+command: 59
+#
+name: INFO
+type: parsed
+protocol: rca
+address: 7
+command: 60
+#
+name: TOGGLE MUTE
+type: parsed
+protocol: rca
+address: 7
+command: 63
+#
+name: SKIP
+type: parsed
+protocol: rca
+address: 7
+command: 83
+#
+name: TIMER/INCREMENT TIME
+type: parsed
+protocol: rca
+address: 7
+command: 83
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rca
+address: 7
+command: 86
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rca
+address: 7
+command: 87
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rca
+address: 7
+command: 88
+#
+name: CURSOR UP
+type: parsed
+protocol: rca
+address: 7
+command: 89
+#
+name: INPUT
+type: parsed
+protocol: rca
+address: 7
+command: 97
+#
+name: WHO
+type: parsed
+protocol: rca
+address: 7
+command: 97
+#
+name: WHO / INPUT
+type: parsed
+protocol: rca
+address: 7
+command: 97
+#
+name: HD OFF
+type: parsed
+protocol: rca
+address: 7
+command: 136
+#
+name: HD ON
+type: parsed
+protocol: rca
+address: 7
+command: 138
+#
+name: FETCH
+type: parsed
+protocol: rca
+address: 7
+command: 147
+#
+name: S-OUTPUT 4:3 FULL
+type: parsed
+protocol: rca
+address: 7
+command: 150
+#
+name: INPUT
+type: parsed
+protocol: rca
+address: 7
+command: 163
+#
+name: ALTERNATE AUDIO
+type: parsed
+protocol: rca
+address: 7
+command: 176
+#
+name: DISPLAY: 4:3 FILL
+type: parsed
+protocol: rca
+address: 7
+command: 200
+#
+name: S-OUT 4:3/16:9 TOGLE
+type: parsed
+protocol: rca
+address: 7
+command: 200
+#
+name: DISPLAY: 4:3 FULL
+type: parsed
+protocol: rca
+address: 7
+command: 201
+#
+name: DISPLAY: 4:3 NORMAL
+type: parsed
+protocol: rca
+address: 7
+command: 202
+#
+name: ANTENNA B
+type: parsed
+protocol: rca
+address: 7
+command: 203
+#
+name: ANTENNA A
+type: parsed
+protocol: rca
+address: 7
+command: 204
+#
+name: SATILITE
+type: parsed
+protocol: rca
+address: 7
+command: 205
+#
+name: LAST SELECTED ANT.
+type: parsed
+protocol: rca
+address: 7
+command: 206
+#
+name: OK / I
+type: parsed
+protocol: rca
+address: 7
+command: 244
+#
+name: OK
+type: parsed
+protocol: rca
+address: 7
+command: 244
+#

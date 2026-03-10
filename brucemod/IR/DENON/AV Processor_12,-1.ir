@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LEFT ARROW
+type: parsed
+protocol: denon
+address: 12
+command: 127
+#
+name: ZN2 VOL UP
+type: parsed
+protocol: denon
+address: 12
+command: 141
+#
+name: ZONE 2 VOL DOWN
+type: parsed
+protocol: denon
+address: 12
+command: 142
+#
+name: SOURCE TOGGLE
+type: parsed
+protocol: denon
+address: 12
+command: 144
+#
+name: ZONE 2 CD
+type: parsed
+protocol: denon
+address: 12
+command: 144
+#
+name: ZONE 2 IPOD
+type: parsed
+protocol: denon
+address: 12
+command: 144
+#
+name: ZONE2 MUSICSERVER
+type: parsed
+protocol: denon
+address: 12
+command: 147
+#
+name: SURR STEREO
+type: parsed
+protocol: denon
+address: 12
+command: 157
+#
+name: SURR DIRECT
+type: parsed
+protocol: denon
+address: 12
+command: 158
+#
+name: SYSTEM SETUP
+type: parsed
+protocol: denon
+address: 12
+command: 160
+#
+name: SURR PARAMETER
+type: parsed
+protocol: denon
+address: 12
+command: 161
+#
+name: UP ARROW
+type: parsed
+protocol: denon
+address: 12
+command: 163
+#
+name: DOWN ARROW
+type: parsed
+protocol: denon
+address: 12
+command: 164
+#
+name: SURR 5CH/7CH STEREO
+type: parsed
+protocol: denon
+address: 12
+command: 168
+#
+name: VIDEO OFF
+type: parsed
+protocol: denon
+address: 12
+command: 178
+#
+name: ZONE 2 DVD
+type: parsed
+protocol: denon
+address: 12
+command: 190
+#
+name: MODE
+type: parsed
+protocol: denon
+address: 12
+command: 216
+#

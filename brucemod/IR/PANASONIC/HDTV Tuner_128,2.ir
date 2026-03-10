@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 160
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 161
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 162
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 163
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 164
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 165
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 166
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 167
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 168
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 169
+#
+name: PAGE DOWN
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 182
+#
+name: PAGE UP
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 183
+#
+name: INFO
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 185
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 189
+#
+name: ENTER
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 195
+#
+name: GUIDE
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 197
+#
+name: EXIT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 198
+#
+name: CHANNEL +
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 202
+#
+name: CURSOR UP
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 202
+#
+name: CHANNEL -
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 203
+#
+name: CURSOR DOWN
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 203
+#
+name: CURSOR LEFT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 205
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 206
+#
+name: LAST
+type: parsed
+protocol: panasonic
+address: 128.2
+command: 209
+#

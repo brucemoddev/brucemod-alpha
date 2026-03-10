@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_PAUSE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 0
+#
+name: AB-Taste
+type: parsed
+protocol: recs80_45
+address: 7
+command: 2
+#
+name: Stumm
+type: parsed
+protocol: recs80_45
+address: 7
+command: 3
+#
+name: TurnOffOn
+type: parsed
+protocol: recs80_45
+address: 7
+command: 4
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 7
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 8
+#
+name: MixText
+type: parsed
+protocol: recs80_45
+address: 7
+command: 15
+#
+name: KEY_RECORD
+type: parsed
+protocol: recs80_45
+address: 7
+command: 15
+#
+name: PauseVideoText
+type: parsed
+protocol: recs80_45
+address: 7
+command: 18
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 24
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 25
+#
+name: Taste1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: Taste2
+type: parsed
+protocol: recs80_45
+address: 7
+command: 27
+#
+name: Taste3
+type: parsed
+protocol: recs80_45
+address: 7
+command: 28
+#
+name: Taste4
+type: parsed
+protocol: recs80_45
+address: 7
+command: 29
+#
+name: Taste5
+type: parsed
+protocol: recs80_45
+address: 7
+command: 30
+#
+name: Taste6
+type: parsed
+protocol: recs80_45
+address: 7
+command: 31
+#
+name: Taste7
+type: parsed
+protocol: recs80_45
+address: 7
+command: 32
+#
+name: Taste8
+type: parsed
+protocol: recs80_45
+address: 7
+command: 33
+#
+name: Taste9
+type: parsed
+protocol: recs80_45
+address: 7
+command: 34
+#
+name: Taste0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 35
+#
+name: AdvNum
+type: parsed
+protocol: recs80_45
+address: 7
+command: 37
+#
+name: OffText
+type: parsed
+protocol: recs80_45
+address: 7
+command: 38
+#
+name: KEY_POWER
+type: parsed
+protocol: recs80_45
+address: 7
+command: 39
+#
+name: ShowClock
+type: parsed
+protocol: recs80_45
+address: 7
+command: 39
+#
+name: KEY_BACK
+type: parsed
+protocol: recs80_45
+address: 7
+command: 50
+#
+name: KEY_PLAY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 51
+#
+name: Vor
+type: parsed
+protocol: recs80_45
+address: 7
+command: 52
+#
+name: KEY_STOP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 54
+#

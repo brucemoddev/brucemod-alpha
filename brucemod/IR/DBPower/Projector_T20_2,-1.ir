@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: down
+type: parsed
+protocol: nec1
+address: 2
+command: 1
+#
+name: mute
+type: parsed
+protocol: nec1
+address: 2
+command: 2
+#
+name: right
+type: parsed
+protocol: nec1
+address: 2
+command: 8
+#
+name: up
+type: parsed
+protocol: nec1
+address: 2
+command: 9
+#
+name: left
+type: parsed
+protocol: nec1
+address: 2
+command: 10
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 2
+command: 11
+#
+name: back
+type: parsed
+protocol: nec1
+address: 2
+command: 13
+#
+name: vol up
+type: parsed
+protocol: nec1
+address: 2
+command: 17
+#
+name: vol down
+type: parsed
+protocol: nec1
+address: 2
+command: 21
+#
+name: power on off toggle
+type: parsed
+protocol: nec1
+address: 2
+command: 29
+#
+name: Menu
+type: parsed
+protocol: nec1
+address: 2
+command: 30
+#
+name: source
+type: parsed
+protocol: nec1
+address: 2
+command: 31
+#

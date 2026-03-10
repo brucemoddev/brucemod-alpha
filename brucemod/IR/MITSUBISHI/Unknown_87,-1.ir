@@ -1,0 +1,1401 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCRA 1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 0
+#
+name: VCR 1 (SUN)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 0
+#
+name: VCR 1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 0
+#
+name: VCRA 9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 1
+#
+name: VCR 9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 1
+#
+name: VCRA POWER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 2
+#
+name: VCR POWER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 2
+#
+name: VCRA PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 4
+#
+name: VCR PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 4
+#
+name: VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VIDEO/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VCR VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VCRA TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VCRA VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: VCRA 2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 8
+#
+name: VCR 2 (MON)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 8
+#
+name: VCR 2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 8
+#
+name: VCRA 0
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 9
+#
+name: VCR 0
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 9
+#
+name: VCRA CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: VCR CH ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: VCR SCAN ^(CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: VCR SCAN ^ (CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: VCRA SCAN ^ (CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: VCRA CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 11
+#
+name: VCR CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 11
+#
+name: VCRA REC
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 12
+#
+name: VCR REC
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 12
+#
+name: VCRA/TV/CBL INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: VCR JOG/INDEX S.+
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: VCRA INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: VCRA 3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 16
+#
+name: VCR 3 (TUE)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 16
+#
+name: VCR 3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 16
+#
+name: VCRA CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCR CH V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCR SCAN V(CH V)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCR SCAN V (CH V)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCRA SCAN V (CH V)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: VCRA STOP []
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 20
+#
+name: VCR STOP []
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 20
+#
+name: VCRA/TV/CBL INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: VCR JOG/INDEX S.-
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: VCRA INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: VCRA 4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 24
+#
+name: VCR 4 (WED)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 24
+#
+name: VCR 4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 24
+#
+name: VCRA INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 26
+#
+name: VCRA PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 28
+#
+name: VCR PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 28
+#
+name: VCRA 5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 32
+#
+name: VCR 5 (THU)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 32
+#
+name: VCR 5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 32
+#
+name: VCRA FF >>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 36
+#
+name: VCR FF/SRCH >>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 36
+#
+name: VCR FF >>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 36
+#
+name: VCRA QV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 37
+#
+name: VCR Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 37
+#
+name: VCRA DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 39
+#
+name: VCR DISP
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 39
+#
+name: VCR DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 39
+#
+name: VCRA 6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 40
+#
+name: VCR 6 (FRI)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 40
+#
+name: VCR 6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 40
+#
+name: VCRA REW <<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 44
+#
+name: VCR REW/SRCH <<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 44
+#
+name: VCR REW <<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 44
+#
+name: VCRA OFF-T
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 47
+#
+name: VCR OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 47
+#
+name: VCRA OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 47
+#
+name: VCRA 7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 48
+#
+name: VCR 7 (SAT)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 48
+#
+name: VCR 7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 48
+#
+name: VCRA/TV/CBL QUIKPROG
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 51
+#
+name: VCR Q.PROG/VCR PLUS+
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 51
+#
+name: VCRA QUICK PROGRAM
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 51
+#
+name: VCRA ENTER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 53
+#
+name: VCR ENTER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 53
+#
+name: VCRA 8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 56
+#
+name: VCR 8 (M-F)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 56
+#
+name: VCR 8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 56
+#
+name: VCRA INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: VCR INPUT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: INPUT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: VCRA INPUT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: VCRA VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 64
+#
+name: VCR VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 64
+#
+name: VCR FUNCTION VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 64
+#
+name: VCRA FUNC VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 64
+#
+name: VCRA ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 65
+#
+name: VCR ADJ >
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 65
+#
+name: VCR ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 65
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 67
+#
+name: VCRA S.(QUICK VIEW)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 69
+#
+name: VCRA V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 73
+#
+name: VCR ADJ <
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 73
+#
+name: VCR ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 73
+#
+name: VCR SCAN REV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 75
+#
+name: VCR SCAN REV 1/10
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 75
+#
+name: VCR SCAN REV 1/30
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 75
+#
+name: VCR SCAN REV 1/5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 75
+#
+name: VCR SCAN FWD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 76
+#
+name: VCR SCAN FWD 1/10
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 76
+#
+name: VCR SCAN FWD 1/30
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 76
+#
+name: VCR SCAN FWD 1/5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 76
+#
+name: VCRA S.(RE.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 77
+#
+name: VCRA AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 80
+#
+name: VCR AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 80
+#
+name: VCR FUNCTION AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 80
+#
+name: VCRA FUNC AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 80
+#
+name: VCRA MENU
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 82
+#
+name: VCR MODE
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 82
+#
+name: VCR MENU
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 82
+#
+name: VCRA S.(F.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 85
+#
+name: ADJUST ON
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 86
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 91
+#
+name: VCRA S(RE.PLAY BACK)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 91
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 92
+#
+name: VCRA SHU.FWD(NORMAL)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 92
+#
+name: ADJUST OFF
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 94
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 107
+#
+name: VCRA S.(R.FAST P.B.)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 107
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 108
+#
+name: VCR ADJUST -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 115
+#
+name: 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 115
+#
+name: VCRA JOG REV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 115
+#
+name: VCR ADJUST +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 116
+#
+name: VCRA JOG FWD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 116
+#
+name: VCRA S.(F.H.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 117
+#
+name: VCRA S.(R.H.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 125
+#
+name: VCRB 1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 128
+#
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 128
+#
+name: VCRB 9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 129
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 129
+#
+name: VCRB POWER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 130
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 130
+#
+name: VCRB PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 132
+#
+name: PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 132
+#
+name: VCRB VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 133
+#
+name: TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 133
+#
+name: VCRB 2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 136
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 136
+#
+name: VCRB 0
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 137
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 137
+#
+name: VCRB CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 138
+#
+name: SCAN ^(CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 138
+#
+name: VCRB SCAN ^ (CH ^)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 138
+#
+name: VCRB CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 139
+#
+name: CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 139
+#
+name: VCRB REC
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 140
+#
+name: REC
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 140
+#
+name: VCRB INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 142
+#
+name: INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 142
+#
+name: VCRB 3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 144
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 144
+#
+name: VCRB CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 146
+#
+name: SCAN V(CH V)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 146
+#
+name: VCRB SCAN V (CH V)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 146
+#
+name: VCRB STOP []
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 148
+#
+name: STOP []
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 148
+#
+name: VCRB INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 150
+#
+name: INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 150
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 151
+#
+name: VCRB 4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 152
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 152
+#
+name: VCRB INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 154
+#
+name: INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 154
+#
+name: VCRB PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 156
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 156
+#
+name: VCRB 5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 160
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 160
+#
+name: VCRB VOL ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 162
+#
+name: VCRB FF >>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 164
+#
+name: FF/SRCH >>
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 164
+#
+name: VCRB QV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 165
+#
+name: Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 165
+#
+name: VCRB Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 165
+#
+name: VCRB DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 167
+#
+name: DISP
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 167
+#
+name: VCRB 6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 168
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 168
+#
+name: VCRB VOL V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 170
+#
+name: VCRB REW <<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 172
+#
+name: REW/SRCH <<
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 172
+#
+name: R.PLAY <
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 173
+#
+name: VCRB OFF-T
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 175
+#
+name: OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 175
+#
+name: VCRB OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 175
+#
+name: VCRB 7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 176
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 176
+#
+name: VCRB MUTE
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 178
+#
+name: VCRB QUICK PROGRAM
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 179
+#
+name: SLOW
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 180
+#
+name: VCRB ENTER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 181
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 181
+#
+name: VCRB 8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 184
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 184
+#
+name: ANT A/B
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 185
+#
+name: VCRB INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 186
+#
+name: INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 186
+#
+name: VCRB INPUT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 186
+#
+name: NEXT
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 189
+#
+name: VCRB VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 192
+#
+name: VIDEO ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 192
+#
+name: VCRB FUNC VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 192
+#
+name: VCRB ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 193
+#
+name: ADJ ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 193
+#
+name: VCRB S.(QUICH VIEW)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 197
+#
+name: VIDEO V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 200
+#
+name: VCRB V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 201
+#
+name: ADJ V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 201
+#
+name: VCRB S.(RE.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 205
+#
+name: VCRB AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 208
+#
+name: AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 208
+#
+name: VCRB FUNC AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 208
+#
+name: VCRB MENU
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 210
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 210
+#
+name: VCRB S.(F.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 213
+#
+name: AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 216
+#
+name: VCRB S(RE.PLAY BACK)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 219
+#
+name: VCRB SHU.FWD(NORMAL)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 220
+#
+name: -2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 223
+#
+name: -5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 230
+#
+name: VCRB S.(R.FAST P.B.)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 235
+#
+name: -4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 238
+#
+name: VCRB JOG REV
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 243
+#
+name: VCRB JOG FWD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 244
+#
+name: VCRB S.(F.H.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 245
+#
+name: -1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 247
+#
+name: VCRB S.(R.H.SP.SRCH)
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 253
+#
+name: -3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 255
+#

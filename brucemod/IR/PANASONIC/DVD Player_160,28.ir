@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 10
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 25
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 61
+#
+name: SKIP <<
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 73
+#
+name: SKIP <<
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 73
+#
+name: SKIP >>
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 74
+#
+name: SKIP >>
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 74
+#
+name: >10/-/--
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 132
+#
+name: TIMER
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 150
+#
+name: FL DISPLAY
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 151
+#
+name: A/V EFFECT
+type: parsed
+protocol: panasonic
+address: 160.28
+command: 224
+#

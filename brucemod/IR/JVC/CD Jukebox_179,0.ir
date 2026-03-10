@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: - - -
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: +++
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 0
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 2
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 3
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 4
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 5
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 6
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 7
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 8
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: 9
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: CONTINUE
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: DISC
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: INTRO SCAN
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: PAUSE
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: PLAY
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: POWER
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: REPEAT
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: SEARCH <<
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: SEARCH >>
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: SHUFFLE
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: SKIP <<
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: SKIP >>
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: STOP
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#
+name: TRACK
+type: parsed
+protocol: nec2_f16
+address: 179.0
+command: 0
+#

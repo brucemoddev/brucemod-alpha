@@ -1,0 +1,201 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 0
+#
+name: KEY_9
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 1
+#
+name: vcr_power
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 2
+#
+name: KEY_PLAY
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 4
+#
+name: vcr/tv
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 5
+#
+name: KEY_2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 10
+#
+name: KEY_CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 11
+#
+name: KEY_RECORD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 12
+#
+name: index+
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 14
+#
+name: KEY_3
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 16
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 18
+#
+name: KEY_STOP
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 20
+#
+name: index-
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 22
+#
+name: KEY_4
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 24
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 28
+#
+name: KEY_5
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 32
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 36
+#
+name: display
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 39
+#
+name: KEY_6
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 40
+#
+name: KEY_REWIND
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 44
+#
+name: KEY_7
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 48
+#
+name: quick_program
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 51
+#
+name: KEY_OK
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 53
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 54
+#
+name: KEY_8
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 56
+#
+name: x2
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 58
+#
+name: sp/ep
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 62
+#
+name: audio/video
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 64
+#
+name: adjust+
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 65
+#
+name: adjust-
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 73
+#
+name: KEY_MENU
+type: parsed
+protocol: Mitsubishi
+address: 87
+command: 82
+#

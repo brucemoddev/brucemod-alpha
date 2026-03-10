@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR/TV
+type: parsed
+protocol: panasonic
+address: 2
+command: 42
+#

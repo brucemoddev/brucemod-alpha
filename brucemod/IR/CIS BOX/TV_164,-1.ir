@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: JUMP
+type: parsed
+protocol: sony15
+address: 164
+command: 59
+#
+name: WIDE MODE
+type: parsed
+protocol: sony15
+address: 164
+command: 61
+#
+name: WIDE ZOOM
+type: parsed
+protocol: sony15
+address: 164
+command: 66
+#

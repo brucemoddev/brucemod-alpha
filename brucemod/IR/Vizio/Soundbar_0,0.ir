@@ -1,0 +1,267 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LIGHT UP
+type: parsed
+protocol: nec
+address: 0
+command: 92
+#
+name: LIGHT DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 93
+#
+name: PLAY / PAUSE
+type: parsed
+protocol: nec
+address: 0
+command: 65
+#
+name: Power
+type: parsed
+protocol: nec
+address: 0
+command: 64
+#
+name: red
+type: parsed
+protocol: nec
+address: 0
+command: 88
+#
+name: blue
+type: parsed
+protocol: nec
+address: 0
+command: 89
+#
+name: green
+type: parsed
+protocol: nec
+address: 0
+command: 69
+#
+name: White
+type: parsed
+protocol: nec
+address: 0
+command: 68
+#
+name: orange
+type: parsed
+protocol: nec
+address: 0
+command: 84
+#
+name: LIME
+type: parsed
+protocol: nec
+address: 0
+command: 85
+#
+name: violet
+type: parsed
+protocol: nec
+address: 0
+command: 73
+#
+name: CARNATION
+type: parsed
+protocol: nec
+address: 0
+command: 72
+#
+name: TANGERINE
+type: parsed
+protocol: nec
+address: 0
+command: 80
+#
+name: AQUAMARINE
+type: parsed
+protocol: nec
+address: 0
+command: 81
+#
+name: Purple
+type: parsed
+protocol: nec
+address: 0
+command: 77
+#
+name: CARNATION
+type: parsed
+protocol: nec
+address: 0
+command: 76
+#
+name: APRICOT
+type: parsed
+protocol: nec
+address: 0
+command: 28
+#
+name: OLYMPIC
+type: parsed
+protocol: nec
+address: 0
+command: 29
+#
+name: LAVENDER
+type: parsed
+protocol: nec
+address: 0
+command: 30
+#
+name: SEA GREEN
+type: parsed
+protocol: nec
+address: 0
+command: 31
+#
+name: Yellow
+type: parsed
+protocol: nec
+address: 0
+command: 24
+#
+name: TEAL
+type: parsed
+protocol: nec
+address: 0
+command: 25
+#
+name: Pink
+type: parsed
+protocol: nec
+address: 0
+command: 26
+#
+name: BABY BLUE
+type: parsed
+protocol: nec
+address: 0
+command: 27
+#
+name: RED UP
+type: parsed
+protocol: nec
+address: 0
+command: 20
+#
+name: GREEN UP
+type: parsed
+protocol: nec
+address: 0
+command: 21
+#
+name: BLUE UP
+type: parsed
+protocol: nec
+address: 0
+command: 22
+#
+name: quick
+type: parsed
+protocol: nec
+address: 0
+command: 23
+#
+name: RED DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 16
+#
+name: GREEN DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 17
+#
+name: BLUE DOWN
+type: parsed
+protocol: nec
+address: 0
+command: 18
+#
+name: slow
+type: parsed
+protocol: nec
+address: 0
+command: 19
+#
+name: DIY 1
+type: parsed
+protocol: nec
+address: 0
+command: 12
+#
+name: DIY 2
+type: parsed
+protocol: nec
+address: 0
+command: 13
+#
+name: DIY 3
+type: parsed
+protocol: nec
+address: 0
+command: 14
+#
+name: Auto
+type: parsed
+protocol: nec
+address: 0
+command: 15
+#
+name: DIY 4
+type: parsed
+protocol: nec
+address: 0
+command: 8
+#
+name: DIY 5
+type: parsed
+protocol: nec
+address: 0
+command: 9
+#
+name: DIY 6
+type: parsed
+protocol: nec
+address: 0
+command: 10
+#
+name: flash
+type: parsed
+protocol: nec
+address: 0
+command: 11
+#
+name: JUMP 3
+type: parsed
+protocol: nec
+address: 0
+command: 4
+#
+name: JUMP 7
+type: parsed
+protocol: nec
+address: 0
+command: 5
+#
+name: FADE 3
+type: parsed
+protocol: nec
+address: 0
+command: 6
+#
+name: FADE 7
+type: parsed
+protocol: nec
+address: 0
+command: 7
+#

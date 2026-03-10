@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 239
+command: 64
+#
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 239
+command: 67
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 76
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc
+address: 239
+command: 77
+#
+name: KEY_1
+type: parsed
+protocol: jvc
+address: 239
+command: 97
+#
+name: KEY_2
+type: parsed
+protocol: jvc
+address: 239
+command: 98
+#
+name: KEY_3
+type: parsed
+protocol: jvc
+address: 239
+command: 99
+#
+name: KEY_4
+type: parsed
+protocol: jvc
+address: 239
+command: 100
+#
+name: KEY_5
+type: parsed
+protocol: jvc
+address: 239
+command: 101
+#
+name: KEY_6
+type: parsed
+protocol: jvc
+address: 239
+command: 102
+#
+name: KEY_7
+type: parsed
+protocol: jvc
+address: 239
+command: 103
+#
+name: KEY_8
+type: parsed
+protocol: jvc
+address: 239
+command: 104
+#
+name: KEY_9
+type: parsed
+protocol: jvc
+address: 239
+command: 105
+#
+name: KEY_0
+type: parsed
+protocol: jvc
+address: 239
+command: 110
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: jvc
+address: 239
+command: 111
+#
+name: KEY_FORWARD
+type: parsed
+protocol: jvc
+address: 239
+command: 176
+#
+name: KEY_BACK
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 192
+#
+name: KEY_MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 193
+#
+name: KEY_TITLE
+type: parsed
+protocol: jvc
+address: 239
+command: 194
+#
+name: KEY_UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: KEY_DOWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: KEY_LEFT
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: KEY_RIGHT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: KEY_SELECT
+type: parsed
+protocol: jvc
+address: 239
+command: 212
+#
+name: KEY_OK
+type: parsed
+protocol: jvc
+address: 239
+command: 213
+#

@@ -1,0 +1,105 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 133.123
+command: 132
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 133.123
+command: 133
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 133.123
+command: 134
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 133.123
+command: 135
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 133.123
+command: 136
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 133.123
+command: 137
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 133.123
+command: 138
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 133.123
+command: 139
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 133.123
+command: 141
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 133.123
+command: 142
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 133.123
+command: 143
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 133.123
+command: 145
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 133.123
+command: 146
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 133.123
+command: 147
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 133.123
+command: 149
+#
+name: KEY_LAST
+type: parsed
+protocol: nec
+address: 133.123
+command: 150
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: nec
+address: 133.123
+command: 151
+#

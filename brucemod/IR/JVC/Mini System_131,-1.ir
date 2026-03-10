@@ -1,0 +1,69 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DECK B STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: DECK B FFWD
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: DECK B REW
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: DECK B<
+type: parsed
+protocol: jvc
+address: 131
+command: 14
+#
+name: DECK B>
+type: parsed
+protocol: jvc
+address: 131
+command: 15
+#
+name: DECK A STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 83
+#
+name: DECK A FFWD
+type: parsed
+protocol: jvc
+address: 131
+command: 86
+#
+name: DECK A REW
+type: parsed
+protocol: jvc
+address: 131
+command: 87
+#
+name: TAPE DECK A<
+type: parsed
+protocol: jvc
+address: 131
+command: 94
+#
+name: TAPE DECK A>
+type: parsed
+protocol: jvc
+address: 131
+command: 95
+#
+name: DECK B RECORD
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#

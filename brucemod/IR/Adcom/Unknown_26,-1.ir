@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TRACK >>
+type: parsed
+protocol: nec1
+address: 26
+command: 0
+#
+name: TRACK <<
+type: parsed
+protocol: nec1
+address: 26
+command: 1
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 26
+command: 4
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 26
+command: 5
+#
+name: MEMORY
+type: parsed
+protocol: nec1
+address: 26
+command: 11
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 26
+command: 12
+#
+name: FR <<
+type: parsed
+protocol: nec1
+address: 26
+command: 13
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 26
+command: 14
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 26
+command: 15
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 26
+command: 16
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 26
+command: 17
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 26
+command: 18
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 26
+command: 19
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 26
+command: 20
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 26
+command: 21
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 26
+command: 22
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 26
+command: 23
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 26
+command: 24
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 26
+command: 26
+#
+name: MEMORY CLEAR
+type: parsed
+protocol: nec1
+address: 26
+command: 31
+#
+name: REPEAT CLEAR
+type: parsed
+protocol: nec1
+address: 26
+command: 70
+#
+name: A-B
+type: parsed
+protocol: nec1
+address: 26
+command: 72
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 26
+command: 73
+#
+name: POLARITY
+type: parsed
+protocol: nec1
+address: 26
+command: 93
+#

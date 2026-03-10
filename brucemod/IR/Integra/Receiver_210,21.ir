@@ -1,0 +1,315 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Z3 PRESET UP
+type: parsed
+protocol: nec1
+address: 210.21
+command: 0
+#
+name: PRESET UP
+type: parsed
+protocol: nec1
+address: 210.21
+command: 0
+#
+name: Z3 PRESET DOWN
+type: parsed
+protocol: nec1
+address: 210.21
+command: 1
+#
+name: PRESET DOWN
+type: parsed
+protocol: nec1
+address: 210.21
+command: 1
+#
+name: VOLUME +
+type: parsed
+protocol: nec2
+address: 210.21
+command: 2
+#
+name: Z3 VOLUME +
+type: parsed
+protocol: nec1
+address: 210.21
+command: 2
+#
+name: VOLUME UP
+type: parsed
+protocol: nec1
+address: 210.21
+command: 2
+#
+name: VOLUME -
+type: parsed
+protocol: nec2
+address: 210.21
+command: 3
+#
+name: Z3 VOLUME -
+type: parsed
+protocol: nec1
+address: 210.21
+command: 3
+#
+name: VOLUME DOWN
+type: parsed
+protocol: nec1
+address: 210.21
+command: 3
+#
+name: POWER ON
+type: parsed
+protocol: nec1
+address: 210.21
+command: 4
+#
+name: Z3 POWER ON
+type: parsed
+protocol: nec1
+address: 210.21
+command: 4
+#
+name: ZONE 2 ON
+type: parsed
+protocol: nec1
+address: 210.21
+command: 4
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 210.21
+command: 5
+#
+name: Z3 MUTING (TOGGLE)
+type: parsed
+protocol: nec1
+address: 210.21
+command: 5
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: nec1
+address: 210.21
+command: 5
+#
+name: Z3 TAPE1(TAPE)
+type: parsed
+protocol: nec1
+address: 210.21
+command: 8
+#
+name: INPUT: TAPE
+type: parsed
+protocol: nec1
+address: 210.21
+command: 8
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 210.21
+command: 8
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 210.21
+command: 9
+#
+name: Z3 CD
+type: parsed
+protocol: nec1
+address: 210.21
+command: 9
+#
+name: INPUT: CD
+type: parsed
+protocol: nec1
+address: 210.21
+command: 9
+#
+name: PHONO
+type: parsed
+protocol: nec1
+address: 210.21
+command: 10
+#
+name: Z3 PHONO
+type: parsed
+protocol: nec1
+address: 210.21
+command: 10
+#
+name: INPUT: PHONO
+type: parsed
+protocol: nec1
+address: 210.21
+command: 10
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 210.21
+command: 11
+#
+name: Z3 TUNER
+type: parsed
+protocol: nec1
+address: 210.21
+command: 11
+#
+name: INPUT: TUNER
+type: parsed
+protocol: nec1
+address: 210.21
+command: 11
+#
+name: VIDEO 3 GAME/TV
+type: parsed
+protocol: nec1
+address: 210.21
+command: 13
+#
+name: Z3 GAME/TV
+type: parsed
+protocol: nec1
+address: 210.21
+command: 13
+#
+name: INPUT: GAME/TV
+type: parsed
+protocol: nec1
+address: 210.21
+command: 13
+#
+name: VIDEO 3
+type: parsed
+protocol: nec1
+address: 210.21
+command: 13
+#
+name: VIDEO 2 CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.21
+command: 14
+#
+name: Z3 CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.21
+command: 14
+#
+name: INPUT: CBL/SAT
+type: parsed
+protocol: nec1
+address: 210.21
+command: 14
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 210.21
+command: 14
+#
+name: VIDEO 1 VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.21
+command: 15
+#
+name: Z3 VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.21
+command: 15
+#
+name: INPUT: VCR/DVR
+type: parsed
+protocol: nec1
+address: 210.21
+command: 15
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 210.21
+command: 15
+#
+name: Z3 FM
+type: parsed
+protocol: nec1
+address: 210.21
+command: 70
+#
+name: FM
+type: parsed
+protocol: nec1
+address: 210.21
+command: 70
+#
+name: Z3 AM
+type: parsed
+protocol: nec1
+address: 210.21
+command: 71
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 210.21
+command: 71
+#
+name: VIDEO 6 PC
+type: parsed
+protocol: nec1
+address: 210.21
+command: 157
+#
+name: Z3 AUX2
+type: parsed
+protocol: nec1
+address: 210.21
+command: 157
+#
+name: INPUT: AUX 2
+type: parsed
+protocol: nec1
+address: 210.21
+command: 157
+#
+name: VIDEO 5
+type: parsed
+protocol: nec1
+address: 210.21
+command: 157
+#
+name: VIDEO 4 AUX1
+type: parsed
+protocol: nec1
+address: 210.21
+command: 159
+#
+name: Z3 AUX1(AUX)
+type: parsed
+protocol: nec1
+address: 210.21
+command: 159
+#
+name: INPUT: AUX 1
+type: parsed
+protocol: nec1
+address: 210.21
+command: 159
+#
+name: VIDEO 4
+type: parsed
+protocol: nec1
+address: 210.21
+command: 159
+#

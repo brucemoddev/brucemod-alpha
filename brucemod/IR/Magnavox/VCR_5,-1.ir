@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 5
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 5
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 5
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 5
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 5
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 5
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 5
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 5
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 5
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 5
+command: 9
+#
+name: 100
+type: parsed
+protocol: rc5
+address: 5
+command: 10
+#
+name: PWR
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 5
+command: 12
+#
+name: STATUS
+type: parsed
+protocol: rc5
+address: 5
+command: 15
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 5
+command: 29
+#
+name: CHANNEL UP
+type: parsed
+protocol: rc5
+address: 5
+command: 32
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: rc5
+address: 5
+command: 33
+#
+name: VAR. SLOW -
+type: parsed
+protocol: rc5
+address: 5
+command: 37
+#
+name: VAR. SLOW +
+type: parsed
+protocol: rc5
+address: 5
+command: 38
+#
+name: SLOW
+type: parsed
+protocol: rc5
+address: 5
+command: 40
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 5
+command: 41
+#
+name: X2 PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 42
+#
+name: CLEAR
+type: parsed
+protocol: rc5
+address: 5
+command: 49
+#
+name: REWIND <<
+type: parsed
+protocol: rc5
+address: 5
+command: 50
+#
+name: REWIND
+type: parsed
+protocol: rc5
+address: 5
+command: 50
+#
+name: GO-TO
+type: parsed
+protocol: rc5
+address: 5
+command: 51
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: rc5
+address: 5
+command: 52
+#
+name: FAST FORWARD
+type: parsed
+protocol: rc5
+address: 5
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 5
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 5
+command: 54
+#
+name: RECORD
+type: parsed
+protocol: rc5
+address: 5
+command: 55
+#
+name: SPEED
+type: parsed
+protocol: rc5
+address: 5
+command: 58
+#
+name: MEMO
+type: parsed
+protocol: rc5
+address: 5
+command: 59
+#
+name: VCR/TV
+type: parsed
+protocol: rc5
+address: 5
+command: 62
+#
+name: TRACKING +
+type: parsed
+protocol: rc5
+address: 5
+command: 77
+#
+name: TRACKING -
+type: parsed
+protocol: rc5
+address: 5
+command: 78
+#
+name: SKIP/SEARCH
+type: parsed
+protocol: rc5
+address: 5
+command: 106
+#
+name: FRAME ADVANCE
+type: parsed
+protocol: rc5
+address: 5
+command: 107
+#

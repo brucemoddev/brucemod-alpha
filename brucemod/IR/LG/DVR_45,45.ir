@@ -1,0 +1,315 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec2
+address: 45.45
+command: 48
+#
+name: PLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 49
+#
+name: SCAN <<
+type: parsed
+protocol: nec2
+address: 45.45
+command: 50
+#
+name: SCAN >>
+type: parsed
+protocol: nec2
+address: 45.45
+command: 51
+#
+name: SKIP >>
+type: parsed
+protocol: nec2
+address: 45.45
+command: 52
+#
+name: SKIP <<
+type: parsed
+protocol: nec2
+address: 45.45
+command: 53
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 54
+#
+name: PAUSE/STEP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 56
+#
+name: STOP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 57
+#
+name: DISPLAY
+type: parsed
+protocol: nec2
+address: 45.45
+command: 58
+#
+name: 1
+type: parsed
+protocol: nec2
+address: 45.45
+command: 59
+#
+name: 2
+type: parsed
+protocol: nec2
+address: 45.45
+command: 60
+#
+name: 3
+type: parsed
+protocol: nec2
+address: 45.45
+command: 61
+#
+name: 4
+type: parsed
+protocol: nec2
+address: 45.45
+command: 62
+#
+name: 5
+type: parsed
+protocol: nec2
+address: 45.45
+command: 63
+#
+name: 6
+type: parsed
+protocol: nec2
+address: 45.45
+command: 64
+#
+name: 7
+type: parsed
+protocol: nec2
+address: 45.45
+command: 65
+#
+name: 8
+type: parsed
+protocol: nec2
+address: 45.45
+command: 66
+#
+name: 9
+type: parsed
+protocol: nec2
+address: 45.45
+command: 67
+#
+name: 0
+type: parsed
+protocol: nec2
+address: 45.45
+command: 68
+#
+name: RETURN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 69
+#
+name: CLEAR
+type: parsed
+protocol: nec2
+address: 45.45
+command: 70
+#
+name: CURSOR UP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 71
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec2
+address: 45.45
+command: 72
+#
+name: TITLE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 74
+#
+name: MENU/LIST
+type: parsed
+protocol: nec2
+address: 45.45
+command: 75
+#
+name: ANGLE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 76
+#
+name: AUDIO
+type: parsed
+protocol: nec2
+address: 45.45
+command: 79
+#
+name: SUBTITLE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 80
+#
+name: RANDOM
+type: parsed
+protocol: nec2
+address: 45.45
+command: 81
+#
+name: REPEAT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 83
+#
+name: A-B
+type: parsed
+protocol: nec2
+address: 45.45
+command: 85
+#
+name: SETUP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 86
+#
+name: ENTER
+type: parsed
+protocol: nec2
+address: 45.45
+command: 88
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 89
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 90
+#
+name: PIP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 95
+#
+name: MARKER
+type: parsed
+protocol: nec2
+address: 45.45
+command: 97
+#
+name: SEARCH
+type: parsed
+protocol: nec2
+address: 45.45
+command: 98
+#
+name: 3D SURR.
+type: parsed
+protocol: nec2
+address: 45.45
+command: 99
+#
+name: ZOOM
+type: parsed
+protocol: nec2
+address: 45.45
+command: 100
+#
+name: HOME
+type: parsed
+protocol: nec2
+address: 45.45
+command: 103
+#
+name: DUBBING
+type: parsed
+protocol: nec2
+address: 45.45
+command: 104
+#
+name: AV
+type: parsed
+protocol: nec2
+address: 45.45
+command: 176
+#
+name: I.SKIP
+type: parsed
+protocol: nec2
+address: 45.45
+command: 181
+#
+name: REC
+type: parsed
+protocol: nec2
+address: 45.45
+command: 182
+#
+name: TIMER REC
+type: parsed
+protocol: nec2
+address: 45.45
+command: 183
+#
+name: REC MODE
+type: parsed
+protocol: nec2
+address: 45.45
+command: 184
+#
+name: TIMESHIFT
+type: parsed
+protocol: nec2
+address: 45.45
+command: 185
+#
+name: THUMBNAIL
+type: parsed
+protocol: nec2
+address: 45.45
+command: 186
+#
+name: CHP ADD
+type: parsed
+protocol: nec2
+address: 45.45
+command: 187
+#
+name: *
+type: parsed
+protocol: nec2
+address: 45.45
+command: 190
+#

@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: vcr1
+type: parsed
+protocol: nec
+address: 122
+command: 15
+#
+name: tuner+
+type: parsed
+protocol: nec
+address: 122
+command: 16
+#
+name: tuner-
+type: parsed
+protocol: nec
+address: 122
+command: 17
+#
+name: ^
+type: parsed
+protocol: nec
+address: 122
+command: 18
+#
+name: vcr2
+type: parsed
+protocol: nec
+address: 122
+command: 19
+#
+name: phono
+type: parsed
+protocol: nec
+address: 122
+command: 20
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 122
+command: 21
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 122
+command: 22
+#
+name: KEY_DVD
+type: parsed
+protocol: nec
+address: 122
+command: 23
+#
+name: tape/md
+type: parsed
+protocol: nec
+address: 122
+command: 24
+#
+name: volume^
+type: parsed
+protocol: nec
+address: 122
+command: 26
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 122
+command: 27
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 122
+command: 28
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 29
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 30
+#
+name: tv/dbs
+type: parsed
+protocol: nec
+address: 122
+command: 84
+#
+name: v-aux
+type: parsed
+protocol: nec
+address: 122
+command: 85
+#
+name: effect
+type: parsed
+protocol: nec
+address: 122
+command: 86
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 122
+command: 87
+#
+name: test
+type: parsed
+protocol: nec
+address: 122
+command: 133
+#
+name: level
+type: parsed
+protocol: nec
+address: 122
+command: 134
+#
+name: decoder
+type: parsed
+protocol: nec
+address: 122
+command: 135
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 122
+command: 136
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 122
+command: 137
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 122
+command: 138
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 122
+command: 139
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 122
+command: 140
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 122
+command: 141
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 122
+command: 142
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 122
+command: 143
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 122
+command: 144
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 122
+command: 145
+#
+name: setV
+type: parsed
+protocol: nec
+address: 122
+command: 156
+#
+name: set^
+type: parsed
+protocol: nec
+address: 122
+command: 157
+#
+name: set+
+type: parsed
+protocol: nec
+address: 122
+command: 158
+#
+name: set-
+type: parsed
+protocol: nec
+address: 122
+command: 159
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 122
+command: 194
+#
+name: parameterV
+type: parsed
+protocol: nec
+address: 122
+command: 196
+#
+name: parameter^
+type: parsed
+protocol: nec
+address: 122
+command: 197
+#
+name: parameter+
+type: parsed
+protocol: nec
+address: 122
+command: 198
+#
+name: parameter-
+type: parsed
+protocol: nec
+address: 122
+command: 199
+#

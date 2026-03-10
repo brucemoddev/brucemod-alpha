@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SAT
+type: parsed
+protocol: dish_netwo
+address: 4.0
+command: 41
+#

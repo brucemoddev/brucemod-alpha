@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: nec1
+address: 128
+command: 0
+#
+name: PROGRAM
+type: parsed
+protocol: nec1
+address: 128
+command: 1
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 128
+command: 2
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 128
+command: 3
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 128
+command: 4
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 128
+command: 5
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 128
+command: 6
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 128
+command: 7
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 128
+command: 8
+#
+name: OSD
+type: parsed
+protocol: nec1
+address: 128
+command: 9
+#
+name: LANGUAGE
+type: parsed
+protocol: nec1
+address: 128
+command: 10
+#
+name: ANGLE
+type: parsed
+protocol: nec1
+address: 128
+command: 11
+#
+name: SUB-TITLE
+type: parsed
+protocol: nec1
+address: 128
+command: 12
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 128
+command: 13
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 128
+command: 14
+#
+name: FRAME >
+type: parsed
+protocol: nec1
+address: 128
+command: 15
+#
+name: EJECT
+type: parsed
+protocol: nec1
+address: 128
+command: 16
+#
+name: SEARCH <<
+type: parsed
+protocol: nec1
+address: 128
+command: 17
+#
+name: SEARCH >>
+type: parsed
+protocol: nec1
+address: 128
+command: 18
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 128
+command: 19
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 128
+command: 20
+#
+name: VOL +
+type: parsed
+protocol: nec1
+address: 128
+command: 21
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 128
+command: 22
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 128
+command: 23
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 128
+command: 24
+#
+name: VOL -
+type: parsed
+protocol: nec1
+address: 128
+command: 25
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 128
+command: 26
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 128
+command: 27
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 128
+command: 28
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 128
+command: 30
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 128
+command: 31
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 128
+command: 64
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 128
+command: 68
+#
+name: VGA/TV
+type: parsed
+protocol: nec1
+address: 128
+command: 72
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 128
+command: 76
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 128
+command: 84
+#
+name: L-R
+type: parsed
+protocol: nec1
+address: 128
+command: 88
+#

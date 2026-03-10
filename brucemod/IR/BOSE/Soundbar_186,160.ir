@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 186.160
+command: 76
+#
+name: Up
+type: parsed
+protocol: nec2
+address: 186.160
+command: 3
+#
+name: Down
+type: parsed
+protocol: nec2
+address: 186.160
+command: 2
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 186.160
+command: 1
+#

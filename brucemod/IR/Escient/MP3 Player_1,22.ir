@@ -1,0 +1,255 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: mce
+address: 1.22
+command: 0
+#
+name: 2
+type: parsed
+protocol: mce
+address: 1.22
+command: 2
+#
+name: 3
+type: parsed
+protocol: mce
+address: 1.22
+command: 3
+#
+name: 4
+type: parsed
+protocol: mce
+address: 1.22
+command: 4
+#
+name: 5
+type: parsed
+protocol: mce
+address: 1.22
+command: 5
+#
+name: 6
+type: parsed
+protocol: mce
+address: 1.22
+command: 6
+#
+name: 7
+type: parsed
+protocol: mce
+address: 1.22
+command: 7
+#
+name: 8
+type: parsed
+protocol: mce
+address: 1.22
+command: 8
+#
+name: 9
+type: parsed
+protocol: mce
+address: 1.22
+command: 9
+#
+name: PAGE DOWN
+type: parsed
+protocol: mce
+address: 1.22
+command: 14
+#
+name: POWER
+type: parsed
+protocol: mce
+address: 1.22
+command: 15
+#
+name: JUKEBOX MODE
+type: parsed
+protocol: mce
+address: 1.22
+command: 17
+#
+name: MODE
+type: parsed
+protocol: mce
+address: 1.22
+command: 17
+#
+name: SETUP
+type: parsed
+protocol: mce
+address: 1.22
+command: 18
+#
+name: LAST
+type: parsed
+protocol: mce
+address: 1.22
+command: 19
+#
+name: OPTS
+type: parsed
+protocol: mce
+address: 1.22
+command: 19
+#
+name: OPTIONS/LAST
+type: parsed
+protocol: mce
+address: 1.22
+command: 19
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 1.22
+command: 20
+#
+name: EXIT
+type: parsed
+protocol: mce
+address: 1.22
+command: 21
+#
+name: CURSOR UP
+type: parsed
+protocol: mce
+address: 1.22
+command: 22
+#
+name: CURSOR DOWN
+type: parsed
+protocol: mce
+address: 1.22
+command: 23
+#
+name: CURSOR OK
+type: parsed
+protocol: mce
+address: 1.22
+command: 26
+#
+name: INFO
+type: parsed
+protocol: mce
+address: 1.22
+command: 27
+#
+name: VIEW
+type: parsed
+protocol: mce
+address: 1.22
+command: 28
+#
+name: VIEW/MENU
+type: parsed
+protocol: mce
+address: 1.22
+command: 28
+#
+name: BACKSPACE
+type: parsed
+protocol: mce
+address: 1.22
+command: 32
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 1.22
+command: 33
+#
+name: >> SCAN
+type: parsed
+protocol: mce
+address: 1.22
+command: 34
+#
+name: SPACE
+type: parsed
+protocol: mce
+address: 1.22
+command: 34
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 1.22
+command: 35
+#
+name: MOVIES
+type: parsed
+protocol: mce
+address: 1.22
+command: 38
+#
+name: SKIP >>
+type: parsed
+protocol: mce
+address: 1.22
+command: 40
+#
+name: MUSIC
+type: parsed
+protocol: mce
+address: 1.22
+command: 44
+#
+name: JUKEBOX ADD
+type: parsed
+protocol: mce
+address: 1.22
+command: 45
+#
+name: ADD
+type: parsed
+protocol: mce
+address: 1.22
+command: 45
+#
+name: JUKEBOX PLAY
+type: parsed
+protocol: mce
+address: 1.22
+command: 46
+#
+name: FAVORITES PLAY
+type: parsed
+protocol: mce
+address: 1.22
+command: 46
+#
+name: JUKEBOX RAND
+type: parsed
+protocol: mce
+address: 1.22
+command: 47
+#
+name: RANDOM
+type: parsed
+protocol: mce
+address: 1.22
+command: 47
+#
+name: PREV
+type: parsed
+protocol: mce
+address: 1.22
+command: 50
+#
+name: REPEAT
+type: parsed
+protocol: mce
+address: 1.22
+command: 51
+#
+name: PHOTOS
+type: parsed
+protocol: mce
+address: 1.22
+command: 52
+#

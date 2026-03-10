@@ -1,0 +1,327 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: remain
+type: parsed
+protocol: necx2
+address: 67.83
+command: 0
+#
+name: KEY_PLAY
+type: parsed
+protocol: necx2
+address: 67.83
+command: 3
+#
+name: PLII-MODE
+type: parsed
+protocol: necx2
+address: 67.83
+command: 4
+#
+name: KEY_OK
+type: parsed
+protocol: necx2
+address: 67.83
+command: 5
+#
+name: KEY_AUDIO
+type: parsed
+protocol: necx2
+address: 67.83
+command: 6
+#
+name: EZ-VIEW
+type: parsed
+protocol: necx2
+address: 67.83
+command: 7
+#
+name: KEY_TUNER
+type: parsed
+protocol: necx2
+address: 67.83
+command: 9
+#
+name: KEY_STOP
+type: parsed
+protocol: necx2
+address: 67.83
+command: 11
+#
+name: PLII-EFFECT
+type: parsed
+protocol: necx2
+address: 67.83
+command: 12
+#
+name: KEY_UP
+type: parsed
+protocol: necx2
+address: 67.83
+command: 13
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: necx2
+address: 67.83
+command: 14
+#
+name: KEY_ZOOM
+type: parsed
+protocol: necx2
+address: 67.83
+command: 15
+#
+name: KEY_AUX
+type: parsed
+protocol: necx2
+address: 67.83
+command: 17
+#
+name: KEY_NEXT
+type: parsed
+protocol: necx2
+address: 67.83
+command: 19
+#
+name: SOUND-EDIT
+type: parsed
+protocol: necx2
+address: 67.83
+command: 20
+#
+name: KEY_DOWN
+type: parsed
+protocol: necx2
+address: 67.83
+command: 21
+#
+name: KEY_CANCEL
+type: parsed
+protocol: necx2
+address: 67.83
+command: 23
+#
+name: KEY_MODE
+type: parsed
+protocol: necx2
+address: 67.83
+command: 24
+#
+name: TV-VIDEO
+type: parsed
+protocol: necx2
+address: 67.83
+command: 24
+#
+name: KEY_DVD
+type: parsed
+protocol: necx2
+address: 67.83
+command: 25
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: necx2
+address: 67.83
+command: 27
+#
+name: KEY_OK
+type: parsed
+protocol: necx2
+address: 67.83
+command: 28
+#
+name: KEY_RIGHT
+type: parsed
+protocol: necx2
+address: 67.83
+command: 29
+#
+name: KEY_SLEEP
+type: parsed
+protocol: necx2
+address: 67.83
+command: 33
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: necx2
+address: 67.83
+command: 35
+#
+name: KEY_AUDIO
+type: parsed
+protocol: necx2
+address: 67.83
+command: 36
+#
+name: KEY_LEFT
+type: parsed
+protocol: necx2
+address: 67.83
+command: 37
+#
+name: KEY_INFO
+type: parsed
+protocol: necx2
+address: 67.83
+command: 38
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: necx2
+address: 67.83
+command: 43
+#
+name: TUNER-MEMORY
+type: parsed
+protocol: necx2
+address: 67.83
+command: 45
+#
+name: KEY_0
+type: parsed
+protocol: necx2
+address: 67.83
+command: 47
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: necx2
+address: 67.83
+command: 51
+#
+name: TEST-TONE
+type: parsed
+protocol: necx2
+address: 67.83
+command: 52
+#
+name: KEY_SLOW
+type: parsed
+protocol: necx2
+address: 67.83
+command: 53
+#
+name: KEY_MENU
+type: parsed
+protocol: necx2
+address: 67.83
+command: 54
+#
+name: KEY_9
+type: parsed
+protocol: necx2
+address: 67.83
+command: 55
+#
+name: LOGO
+type: parsed
+protocol: necx2
+address: 67.83
+command: 56
+#
+name: KEY_MUTE
+type: parsed
+protocol: necx2
+address: 67.83
+command: 57
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: necx2
+address: 67.83
+command: 59
+#
+name: STEP
+type: parsed
+protocol: necx2
+address: 67.83
+command: 61
+#
+name: KEY_8
+type: parsed
+protocol: necx2
+address: 67.83
+command: 63
+#
+name: KEY_1
+type: parsed
+protocol: necx2
+address: 67.83
+command: 65
+#
+name: KEY_2
+type: parsed
+protocol: necx2
+address: 67.83
+command: 66
+#
+name: KEY_3
+type: parsed
+protocol: necx2
+address: 67.83
+command: 67
+#
+name: KEY_4
+type: parsed
+protocol: necx2
+address: 67.83
+command: 68
+#
+name: KEY_5
+type: parsed
+protocol: necx2
+address: 67.83
+command: 69
+#
+name: KEY_6
+type: parsed
+protocol: necx2
+address: 67.83
+command: 70
+#
+name: KEY_7
+type: parsed
+protocol: necx2
+address: 67.83
+command: 71
+#
+name: SD-HD
+type: parsed
+protocol: necx2
+address: 67.83
+command: 89
+#
+name: KEY_AGAIN
+type: parsed
+protocol: necx2
+address: 67.83
+command: 102
+#
+name: super5.1
+type: parsed
+protocol: necx2
+address: 67.83
+command: 103
+#
+name: MOVIE
+type: parsed
+protocol: necx2
+address: 67.83
+command: 104
+#
+name: ASC
+type: parsed
+protocol: necx2
+address: 67.83
+command: 105
+#
+name: HDMI-AUDIO
+type: parsed
+protocol: necx2
+address: 67.83
+command: 112
+#

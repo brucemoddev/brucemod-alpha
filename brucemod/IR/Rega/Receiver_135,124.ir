@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: FM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 129
+#
+name: AM
+type: parsed
+protocol: nec1
+address: 135.124
+command: 130
+#
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 135.124
+command: 209
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 135.124
+command: 210
+#

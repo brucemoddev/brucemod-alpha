@@ -1,0 +1,315 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 49
+command: 1
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 49
+command: 2
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 49
+command: 3
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 49
+command: 4
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 49
+command: 5
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 49
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 49
+command: 7
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 49
+command: 12
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 49
+command: 13
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 49
+command: 14
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 49
+command: 15
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 49
+command: 16
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 49
+command: 17
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 49
+command: 18
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 49
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 49
+command: 20
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 49
+command: 21
+#
+name: AUTOREWIND
+type: parsed
+protocol: nec
+address: 49
+command: 22
+#
+name: SLOW_MOTION
+type: parsed
+protocol: nec
+address: 49
+command: 26
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 49
+command: 28
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 49
+command: 29
+#
+name: STEREO
+type: parsed
+protocol: nec
+address: 49
+command: 30
+#
+name: TRACK
+type: parsed
+protocol: nec
+address: 49
+command: 31
+#
+name: COUNTER_MEM
+type: parsed
+protocol: nec
+address: 49
+command: 67
+#
+name: RESET
+type: parsed
+protocol: nec
+address: 49
+command: 68
+#
+name: TAPEREMAIN
+type: parsed
+protocol: nec
+address: 49
+command: 69
+#
+name: PROGRAM_CHECK
+type: parsed
+protocol: nec
+address: 49
+command: 70
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 49
+command: 71
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 49
+command: 72
+#
+name: AUDIO_DUBBING
+type: parsed
+protocol: nec
+address: 49
+command: 73
+#
+name: KEY_CANCEL
+type: parsed
+protocol: nec
+address: 49
+command: 74
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 49
+command: 75
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 49
+command: 76
+#
+name: VPS
+type: parsed
+protocol: nec
+address: 49
+command: 79
+#
+name: MARK_INDEX
+type: parsed
+protocol: nec
+address: 49
+command: 84
+#
+name: SP/LP
+type: parsed
+protocol: nec
+address: 49
+command: 94
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 49
+command: 128
+#
+name: TX_STOP
+type: parsed
+protocol: nec
+address: 49
+command: 144
+#
+name: EXP
+type: parsed
+protocol: nec
+address: 49
+command: 145
+#
+name: REVEAL
+type: parsed
+protocol: nec
+address: 49
+command: 146
+#
+name: KEY_TIME
+type: parsed
+protocol: nec
+address: 49
+command: 147
+#
+name: CUR_R
+type: parsed
+protocol: nec
+address: 49
+command: 148
+#
+name: CUR_L
+type: parsed
+protocol: nec
+address: 49
+command: 149
+#
+name: CUR_DN
+type: parsed
+protocol: nec
+address: 49
+command: 150
+#
+name: CUR_UP
+type: parsed
+protocol: nec
+address: 49
+command: 151
+#
+name: VPT
+type: parsed
+protocol: nec
+address: 49
+command: 154
+#
+name: KEY_TEXT
+type: parsed
+protocol: nec
+address: 49
+command: 155
+#
+name: KEY_TV
+type: parsed
+protocol: nec
+address: 49
+command: 156
+#
+name: CODE_LIST
+type: parsed
+protocol: nec
+address: 49
+command: 157
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 49
+command: 202
+#
+name: TITLE_REC
+type: parsed
+protocol: nec
+address: 49
+command: 220
+#
+name: SETCLK?
+type: parsed
+protocol: nec
+address: 49
+command: 252
+#

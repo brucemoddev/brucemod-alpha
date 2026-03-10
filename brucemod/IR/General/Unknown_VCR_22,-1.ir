@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: pause/still
+type: parsed
+protocol: nec
+address: 22
+command: 17
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 22
+command: 18
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 22
+command: 20
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 22
+command: 22
+#
+name: ch_dwn
+type: parsed
+protocol: nec
+address: 22
+command: 23
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 22
+command: 24
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 22
+command: 25
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 22
+command: 26
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 22
+command: 27
+#

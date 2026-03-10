@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REM: INPUT ADJUST
+type: parsed
+protocol: nec1
+address: 132.32
+command: 0
+#
+name: NAV: UP
+type: parsed
+protocol: nec1
+address: 132.32
+command: 1
+#
+name: NAV: DOWN
+type: parsed
+protocol: nec1
+address: 132.32
+command: 2
+#
+name: INPUT: S-VIDEO 2
+type: parsed
+protocol: nec1
+address: 132.32
+command: 4
+#
+name: NAV: LEFT
+type: parsed
+protocol: nec1
+address: 132.32
+command: 5
+#
+name: REM: PAN
+type: parsed
+protocol: nec1
+address: 132.32
+command: 7
+#
+name: REM: CURTAIN
+type: parsed
+protocol: nec1
+address: 132.32
+command: 8
+#
+name: INPUT: VIDEO 2
+type: parsed
+protocol: nec1
+address: 132.32
+command: 10
+#
+name: NAV: ENTER
+type: parsed
+protocol: nec1
+address: 132.32
+command: 11
+#
+name: REM: ZOOM
+type: parsed
+protocol: nec1
+address: 132.32
+command: 12
+#
+name: REM: OUTPUT SETUP
+type: parsed
+protocol: nec1
+address: 132.32
+command: 14
+#
+name: INPUT: SDI
+type: parsed
+protocol: nec1
+address: 132.32
+command: 16
+#
+name: TEST: NEXT
+type: parsed
+protocol: nec1
+address: 132.32
+command: 17
+#
+name: REM: CONFIGURATION
+type: parsed
+protocol: nec1
+address: 132.32
+command: 18
+#
+name: NAV: RIGHT
+type: parsed
+protocol: nec1
+address: 132.32
+command: 19
+#
+name: INPUT: COMPONENT 2
+type: parsed
+protocol: nec
+address: 132.32
+command: 20
+#
+name: REM: PIC CONTROL
+type: parsed
+protocol: nec1
+address: 132.32
+command: 26
+#
+name: TEST: PREVIOUS
+type: parsed
+protocol: nec1
+address: 132.32
+command: 27
+#
+name: REM: INFORMATION
+type: parsed
+protocol: nec1
+address: 132.32
+command: 64
+#
+name: NAV: MENU
+type: parsed
+protocol: nec1
+address: 132.32
+command: 67
+#
+name: NAV: EXIT
+type: parsed
+protocol: nec1
+address: 132.32
+command: 68
+#
+name: REM: 4:3
+type: parsed
+protocol: nec1
+address: 132.32
+command: 69
+#
+name: REM: 16:9
+type: parsed
+protocol: nec1
+address: 132.32
+command: 71
+#
+name: INPUT: VIDEO 1
+type: parsed
+protocol: nec1
+address: 132.32
+command: 74
+#
+name: INPUT: AUTO
+type: parsed
+protocol: nec1
+address: 132.32
+command: 75
+#
+name: INPUT: S-VIDEO 1
+type: parsed
+protocol: nec1
+address: 132.32
+command: 78
+#
+name: INPUT: COMPONENT 1
+type: parsed
+protocol: nec1
+address: 132.32
+command: 79
+#
+name: REM: DISP PROFILES
+type: parsed
+protocol: nec1
+address: 132.32
+command: 80
+#
+name: REM: VIEW MODES
+type: parsed
+protocol: nec1
+address: 132.32
+command: 81
+#
+name: REM: INPUT AR
+type: parsed
+protocol: nec1
+address: 132.32
+command: 82
+#
+name: TEST: ON/OFF
+type: parsed
+protocol: nec1
+address: 132.32
+command: 82
+#
+name: REM: BORDER
+type: parsed
+protocol: nec1
+address: 132.32
+command: 83
+#
+name: REM: CROP
+type: parsed
+protocol: nec1
+address: 132.32
+command: 84
+#
+name: REM: ASPECT
+type: parsed
+protocol: nec1
+address: 132.32
+command: 85
+#
+name: INPUT: HDMI 1
+type: parsed
+protocol: nec1
+address: 132.32
+command: 86
+#
+name: INPUT: HDMI 2
+type: parsed
+protocol: nec1
+address: 132.32
+command: 87
+#
+name: INPUT: HDMI 3
+type: parsed
+protocol: nec1
+address: 132.32
+command: 88
+#
+name: INPUT: HDMI 4
+type: parsed
+protocol: nec1
+address: 132.32
+command: 89
+#
+name: INPUT: RGBHV
+type: parsed
+protocol: nec1
+address: 132.32
+command: 90
+#

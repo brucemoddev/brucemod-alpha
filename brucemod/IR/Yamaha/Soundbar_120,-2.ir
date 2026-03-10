@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 120
+command: 204
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 120
+command: 30
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 120
+command: 31
+#
+name: SUB +
+type: parsed
+protocol: nec
+address: 120
+command: 76
+#
+name: SUB -
+type: parsed
+protocol: nec
+address: 120
+command: 77
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 120
+command: 156
+#
+name: 3D_SURROUND
+type: parsed
+protocol: nec
+address: 120
+command: 201
+#
+name: Info
+type: parsed
+protocol: nec
+address: 120
+command: 78
+#
+name: CLEAR_VOICE
+type: parsed
+protocol: nec
+address: 120
+command: 92
+#
+name: Surround
+type: parsed
+protocol: nec
+address: 120
+command: 180
+#
+name: Stereo
+type: parsed
+protocol: nec
+address: 120
+command: 80
+#
+name: hdmi
+type: parsed
+protocol: nec
+address: 120
+command: 74
+#
+name: tv
+type: parsed
+protocol: nec
+address: 120
+command: 223
+#
+name: analog
+type: parsed
+protocol: nec
+address: 120
+command: 209
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec
+address: 120
+command: 41
+#
+name: BLUETOOTH_STANDBY
+type: parsed
+protocol: nec
+address: 120
+command: 52
+#
+name: Dimmer
+type: parsed
+protocol: nec
+address: 120
+command: 186
+#
+name: BASE_EXTENSION
+type: parsed
+protocol: nec
+address: 120
+command: 139
+#

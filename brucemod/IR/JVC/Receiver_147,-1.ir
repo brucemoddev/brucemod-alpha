@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DAT STOP []
+type: parsed
+protocol: jvc
+address: 147
+command: 83
+#
+name: DAT FF >>
+type: parsed
+protocol: jvc
+address: 147
+command: 86
+#
+name: DAT FFWD >>
+type: parsed
+protocol: jvc
+address: 147
+command: 86
+#
+name: DAT REW <<
+type: parsed
+protocol: jvc
+address: 147
+command: 87
+#
+name: DAT PLAY >
+type: parsed
+protocol: jvc
+address: 147
+command: 92
+#
+name: DAT PAUSE/STILL 
+type: parsed
+protocol: jvc
+address: 147
+command: 93
+#
+name: DAT PAUSE 
+type: parsed
+protocol: jvc
+address: 147
+command: 93
+#
+name: DAT AUTO SEARCH <<
+type: parsed
+protocol: jvc
+address: 147
+command: 104
+#
+name: DAT SEARCH <<
+type: parsed
+protocol: jvc
+address: 147
+command: 104
+#
+name: DAT AUTO SEARCH >>
+type: parsed
+protocol: jvc
+address: 147
+command: 105
+#
+name: DAT SEARCH >>
+type: parsed
+protocol: jvc
+address: 147
+command: 105
+#
+name: DAT 10KEY 0
+type: parsed
+protocol: jvc
+address: 147
+command: 112
+#
+name: DAT 0
+type: parsed
+protocol: jvc
+address: 147
+command: 112
+#
+name: DAT 10KEY 1
+type: parsed
+protocol: jvc
+address: 147
+command: 113
+#
+name: DAT 1
+type: parsed
+protocol: jvc
+address: 147
+command: 113
+#
+name: DAT 10KEY 2
+type: parsed
+protocol: jvc
+address: 147
+command: 114
+#
+name: DAT 2
+type: parsed
+protocol: jvc
+address: 147
+command: 114
+#
+name: DAT 10KEY 3
+type: parsed
+protocol: jvc
+address: 147
+command: 115
+#
+name: DAT 3
+type: parsed
+protocol: jvc
+address: 147
+command: 115
+#
+name: DAT 10KEY 4
+type: parsed
+protocol: jvc
+address: 147
+command: 116
+#
+name: DAT 4
+type: parsed
+protocol: jvc
+address: 147
+command: 116
+#
+name: DAT 10KEY 5
+type: parsed
+protocol: jvc
+address: 147
+command: 117
+#
+name: DAT 5
+type: parsed
+protocol: jvc
+address: 147
+command: 117
+#
+name: DAT 10KEY 6
+type: parsed
+protocol: jvc
+address: 147
+command: 118
+#
+name: DAT 6
+type: parsed
+protocol: jvc
+address: 147
+command: 118
+#
+name: DAT 10KEY 7/P
+type: parsed
+protocol: jvc
+address: 147
+command: 119
+#
+name: DAT 7/P
+type: parsed
+protocol: jvc
+address: 147
+command: 119
+#
+name: DAT 7
+type: parsed
+protocol: jvc
+address: 147
+command: 119
+#
+name: DAT 10KEY 8
+type: parsed
+protocol: jvc
+address: 147
+command: 120
+#
+name: DAT 8
+type: parsed
+protocol: jvc
+address: 147
+command: 120
+#
+name: DAT 10KEY 9
+type: parsed
+protocol: jvc
+address: 147
+command: 121
+#
+name: DAT 9
+type: parsed
+protocol: jvc
+address: 147
+command: 121
+#
+name: DAT 10KEY 10
+type: parsed
+protocol: jvc
+address: 147
+command: 126
+#
+name: DAT 10 CONTINUE
+type: parsed
+protocol: jvc
+address: 147
+command: 126
+#
+name: DAT 10
+type: parsed
+protocol: jvc
+address: 147
+command: 126
+#
+name: DAT 10KEY +10
+type: parsed
+protocol: jvc
+address: 147
+command: 127
+#
+name: DAT +10
+type: parsed
+protocol: jvc
+address: 147
+command: 127
+#
+name: DAT REC/PLAY
+type: parsed
+protocol: jvc
+address: 147
+command: 140
+#
+name: DAT REC/PAUSE/STILL
+type: parsed
+protocol: jvc
+address: 147
+command: 141
+#

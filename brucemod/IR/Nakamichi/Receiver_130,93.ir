@@ -1,0 +1,573 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD
+type: parsed
+protocol: nec1
+address: 130.93
+command: 0
+#
+name: INPUT - DVD
+type: parsed
+protocol: nec1
+address: 130.93
+command: 0
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 130.93
+command: 1
+#
+name: INPUT - VIDEO
+type: parsed
+protocol: nec1
+address: 130.93
+command: 1
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 130.93
+command: 3
+#
+name: INPUT - CD
+type: parsed
+protocol: nec1
+address: 130.93
+command: 3
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 130.93
+command: 4
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 130.93
+command: 5
+#
+name: VOLUME ^
+type: parsed
+protocol: nec1
+address: 130.93
+command: 5
+#
+name: VOLUME - UP
+type: parsed
+protocol: nec1
+address: 130.93
+command: 5
+#
+name: VCR 2
+type: parsed
+protocol: nec1
+address: 130.93
+command: 7
+#
+name: INPUT - VCR 2
+type: parsed
+protocol: nec1
+address: 130.93
+command: 7
+#
+name: TUNER
+type: parsed
+protocol: nec1
+address: 130.93
+command: 8
+#
+name: INPUT - TUNER
+type: parsed
+protocol: nec1
+address: 130.93
+command: 8
+#
+name: AUX
+type: parsed
+protocol: nec1
+address: 130.93
+command: 10
+#
+name: INPUT - AUX
+type: parsed
+protocol: nec1
+address: 130.93
+command: 10
+#
+name: VCR 1
+type: parsed
+protocol: nec1
+address: 130.93
+command: 11
+#
+name: VCR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 11
+#
+name: INPUT - VCR 1
+type: parsed
+protocol: nec1
+address: 130.93
+command: 11
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 12
+#
+name: VOLUME - MUTE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 12
+#
+name: DTS
+type: parsed
+protocol: nec1
+address: 130.93
+command: 15
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 130.93
+command: 16
+#
+name: VOLUME V
+type: parsed
+protocol: nec1
+address: 130.93
+command: 16
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: nec1
+address: 130.93
+command: 16
+#
+name: INPUT ATT.
+type: parsed
+protocol: nec1
+address: 130.93
+command: 17
+#
+name: SURND - INPUT ATT.
+type: parsed
+protocol: nec1
+address: 130.93
+command: 17
+#
+name: TAPE MONITOR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 18
+#
+name: TAPE/MONITOR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 18
+#
+name: INPUT - TAPE MONITOR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 18
+#
+name: DIGITAL INPUT
+type: parsed
+protocol: nec1
+address: 130.93
+command: 28
+#
+name: INPUT - DIGITAL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 28
+#
+name: DISPLY
+type: parsed
+protocol: nec1
+address: 130.93
+command: 30
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 130.93
+command: 30
+#
+name: DOLBY DIGITAL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 64
+#
+name: SURR - DIGITAL DOLBY
+type: parsed
+protocol: nec1
+address: 130.93
+command: 64
+#
+name: DOLBY PRO
+type: parsed
+protocol: nec1
+address: 130.93
+command: 65
+#
+name: SURROUND PRO LOGIC
+type: parsed
+protocol: nec1
+address: 130.93
+command: 65
+#
+name: SURR - PRO LOGIC
+type: parsed
+protocol: nec1
+address: 130.93
+command: 65
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 130.93
+command: 66
+#
+name: SURROUND OFF
+type: parsed
+protocol: nec1
+address: 130.93
+command: 66
+#
+name: SURR - OFF
+type: parsed
+protocol: nec1
+address: 130.93
+command: 66
+#
+name: SURROUND CENTER MODE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 67
+#
+name: DYN RANGE COMP.
+type: parsed
+protocol: nec1
+address: 130.93
+command: 68
+#
+name: SURND - D.RANG COMP
+type: parsed
+protocol: nec1
+address: 130.93
+command: 68
+#
+name: LFE ATT.
+type: parsed
+protocol: nec1
+address: 130.93
+command: 69
+#
+name: SURND - LFE ATT.
+type: parsed
+protocol: nec1
+address: 130.93
+command: 69
+#
+name: SURND - SPKR SELECT
+type: parsed
+protocol: nec1
+address: 130.93
+command: 70
+#
+name: SURND - SPKR MODE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 71
+#
+name: TEST TONE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 72
+#
+name: SURROUND TEST TONE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 72
+#
+name: SURND - TEST TONE
+type: parsed
+protocol: nec1
+address: 130.93
+command: 72
+#
+name: CALIBRATION LEVEL +
+type: parsed
+protocol: nec1
+address: 130.93
+command: 74
+#
+name: SURROUND CAL. +
+type: parsed
+protocol: nec1
+address: 130.93
+command: 74
+#
+name: SURND - CAL ( + )
+type: parsed
+protocol: nec1
+address: 130.93
+command: 74
+#
+name: CALIBRATION LEVEL -
+type: parsed
+protocol: nec1
+address: 130.93
+command: 75
+#
+name: SURROUND CAL. -
+type: parsed
+protocol: nec1
+address: 130.93
+command: 75
+#
+name: SURND - CAL ( - )
+type: parsed
+protocol: nec1
+address: 130.93
+command: 75
+#
+name: SUB
+type: parsed
+protocol: nec1
+address: 130.93
+command: 77
+#
+name: SURND - SW
+type: parsed
+protocol: nec1
+address: 130.93
+command: 77
+#
+name: RIGHT REAR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 78
+#
+name: SURND - REAR ( R )
+type: parsed
+protocol: nec1
+address: 130.93
+command: 78
+#
+name: REAR DELAY
+type: parsed
+protocol: nec1
+address: 130.93
+command: 79
+#
+name: SURROUND DELAY
+type: parsed
+protocol: nec1
+address: 130.93
+command: 79
+#
+name: SURND - DELAY (REAR)
+type: parsed
+protocol: nec1
+address: 130.93
+command: 79
+#
+name: CENTER
+type: parsed
+protocol: nec1
+address: 130.93
+command: 81
+#
+name: SURROUND CENTER
+type: parsed
+protocol: nec1
+address: 130.93
+command: 81
+#
+name: SURND - CENTER
+type: parsed
+protocol: nec1
+address: 130.93
+command: 81
+#
+name: LEFT REAR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 82
+#
+name: SURROUND REAR
+type: parsed
+protocol: nec1
+address: 130.93
+command: 82
+#
+name: SURND - REAR ( L )
+type: parsed
+protocol: nec1
+address: 130.93
+command: 82
+#
+name: CENTER DELAY
+type: parsed
+protocol: nec1
+address: 130.93
+command: 83
+#
+name: SURND - DELAY (CNTR)
+type: parsed
+protocol: nec1
+address: 130.93
+command: 83
+#
+name: NATURAL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 84
+#
+name: SURROUND NATURAL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 84
+#
+name: SURR - NATURAL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 84
+#
+name: HALL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 85
+#
+name: SURROUND HALL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 85
+#
+name: SURR - HALL
+type: parsed
+protocol: nec1
+address: 130.93
+command: 85
+#
+name: SURROUND STADIUM
+type: parsed
+protocol: nec1
+address: 130.93
+command: 86
+#
+name: SURR - STADIUM
+type: parsed
+protocol: nec1
+address: 130.93
+command: 86
+#
+name: TUNER FM
+type: parsed
+protocol: nec1
+address: 130.93
+command: 88
+#
+name: TUNER - FM
+type: parsed
+protocol: nec1
+address: 130.93
+command: 88
+#
+name: TUNER AM
+type: parsed
+protocol: nec1
+address: 130.93
+command: 89
+#
+name: TUNER - AM
+type: parsed
+protocol: nec1
+address: 130.93
+command: 89
+#
+name: TUNER SHIFT
+type: parsed
+protocol: nec1
+address: 130.93
+command: 90
+#
+name: TUNER - SHIFT
+type: parsed
+protocol: nec1
+address: 130.93
+command: 90
+#
+name: TUNER PRESET ^
+type: parsed
+protocol: nec1
+address: 130.93
+command: 92
+#
+name: TUNER - PRESET UP
+type: parsed
+protocol: nec1
+address: 130.93
+command: 92
+#
+name: TUNER PRESET V
+type: parsed
+protocol: nec1
+address: 130.93
+command: 93
+#
+name: TUNER - PRESET DOWN
+type: parsed
+protocol: nec1
+address: 130.93
+command: 93
+#
+name: TUNER SEEK ^
+type: parsed
+protocol: nec1
+address: 130.93
+command: 94
+#
+name: TUNER - SEEK UP
+type: parsed
+protocol: nec1
+address: 130.93
+command: 94
+#
+name: TUNER SEEK V
+type: parsed
+protocol: nec1
+address: 130.93
+command: 95
+#
+name: TUNER - SEEK DOWN
+type: parsed
+protocol: nec1
+address: 130.93
+command: 95
+#

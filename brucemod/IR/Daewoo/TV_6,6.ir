@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CODE3 POWER OFF
+type: parsed
+protocol: necx1
+address: 6.6
+command: 15
+#
+name: CODE3 POWER ON
+type: parsed
+protocol: necx1
+address: 6.6
+command: 15
+#

@@ -1,0 +1,189 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: nec
+address: 128.99
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 128.99
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 128.99
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 128.99
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 128.99
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 128.99
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 128.99
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 128.99
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 128.99
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 128.99
+command: 9
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 128.99
+command: 10
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 128.99
+command: 11
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 128.99
+command: 12
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 128.99
+command: 13
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 128.99
+command: 14
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128.99
+command: 15
+#
+name: KEY_INFO
+type: parsed
+protocol: nec
+address: 128.99
+command: 16
+#
+name: quick_view
+type: parsed
+protocol: nec
+address: 128.99
+command: 17
+#
+name: KEY_SLEEP
+type: parsed
+protocol: nec
+address: 128.99
+command: 19
+#
+name: reset
+type: parsed
+protocol: nec
+address: 128.99
+command: 21
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 128.99
+command: 26
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 128.99
+command: 30
+#
+name: status
+type: parsed
+protocol: nec
+address: 128.99
+command: 64
+#
+name: display_cancel
+type: parsed
+protocol: nec
+address: 128.99
+command: 66
+#
+name: text_mix_tv
+type: parsed
+protocol: nec
+address: 128.99
+command: 69
+#
+name: KEY_RED
+type: parsed
+protocol: nec
+address: 128.99
+command: 74
+#
+name: KEY_GREEN
+type: parsed
+protocol: nec
+address: 128.99
+command: 75
+#
+name: KEY_YELLOW
+type: parsed
+protocol: nec
+address: 128.99
+command: 76
+#
+name: KEY_BLUE
+type: parsed
+protocol: nec
+address: 128.99
+command: 77
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 128.99
+command: 85
+#
+name: normal
+type: parsed
+protocol: nec
+address: 128.99
+command: 86
+#

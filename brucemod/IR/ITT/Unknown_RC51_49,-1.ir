@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RIGHT
+type: parsed
+protocol: nec
+address: 49
+command: 1
+#
+name: KEY_LEFT
+type: parsed
+protocol: nec
+address: 49
+command: 2
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 49
+command: 16
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 49
+command: 17
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 49
+command: 18
+#
+name: KEY_FORWARD
+type: parsed
+protocol: nec
+address: 49
+command: 19
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 49
+command: 20
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 49
+command: 21
+#
+name: index
+type: parsed
+protocol: nec
+address: 49
+command: 22
+#
+name: cycle
+type: parsed
+protocol: nec
+address: 49
+command: 67
+#
+name: reset
+type: parsed
+protocol: nec
+address: 49
+command: 68
+#
+name: program
+type: parsed
+protocol: nec
+address: 49
+command: 70
+#
+name: KEY_M
+type: parsed
+protocol: nec
+address: 49
+command: 75
+#
+name: vps
+type: parsed
+protocol: nec
+address: 49
+command: 79
+#

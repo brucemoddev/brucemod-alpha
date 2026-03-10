@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: rc5
+address: 11
+command: 64
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 11
+command: 65
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 11
+command: 66
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 11
+command: 67
+#

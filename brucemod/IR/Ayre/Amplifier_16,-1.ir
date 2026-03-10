@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 16
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 16
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 16
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 16
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 16
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 16
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 16
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 16
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 16
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 16
+command: 9
+#
+name: 10+
+type: parsed
+protocol: rc5
+address: 16
+command: 10
+#
+name: POWER TOGGLE
+type: parsed
+protocol: rc5
+address: 16
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: rc5
+address: 16
+command: 13
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 16
+command: 16
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 16
+command: 17
+#
+name: DISPLAY DIMMER
+type: parsed
+protocol: rc5
+address: 16
+command: 18
+#
+name: INPUT SCROLL UP
+type: parsed
+protocol: rc5
+address: 16
+command: 32
+#
+name: INPUT SCROLL DOWN
+type: parsed
+protocol: rc5
+address: 16
+command: 33
+#
+name: POWER ON
+type: parsed
+protocol: rc5
+address: 16
+command: 56
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 16
+command: 57
+#

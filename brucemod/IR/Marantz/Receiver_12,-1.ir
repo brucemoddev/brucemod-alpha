@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: LD
+type: parsed
+protocol: rc5
+address: 12
+command: 63
+#
+name: LASER DISC
+type: parsed
+protocol: rc5
+address: 12
+command: 63
+#
+name: INPUT: LD
+type: parsed
+protocol: rc5
+address: 12
+command: 63
+#
+name: LD DISC B/-
+type: parsed
+protocol: rc5
+address: 12
+command: 114
+#
+name: LD DISC +/A
+type: parsed
+protocol: rc5
+address: 12
+command: 115
+#

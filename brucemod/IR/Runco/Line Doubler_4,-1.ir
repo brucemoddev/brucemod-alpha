@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: NORMALIZE
+type: parsed
+protocol: nec1
+address: 4
+command: 5
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 4
+command: 8
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 4
+command: 9
+#
+name: FUNCTION +
+type: parsed
+protocol: nec1
+address: 4
+command: 12
+#
+name: FUNCTION -
+type: parsed
+protocol: nec1
+address: 4
+command: 13
+#
+name: FUNCTION SET
+type: parsed
+protocol: nec2
+address: 4
+command: 14
+#
+name: FREEZE
+type: parsed
+protocol: nec2
+address: 4
+command: 90
+#
+name: DVNR
+type: parsed
+protocol: nec1
+address: 4
+command: 92
+#
+name: INCREMENTAL FREEZE
+type: parsed
+protocol: nec2
+address: 4
+command: 94
+#

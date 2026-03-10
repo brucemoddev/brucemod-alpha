@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: A-RPlay
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 0
+#
+name: A-Play
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 1
+#
+name: A-FFwd
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 2
+#
+name: A-Rew
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 3
+#
+name: A-Stop
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 4
+#
+name: B-RPlay
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 5
+#
+name: B-Play
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 6
+#
+name: B-FFwd
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 7
+#
+name: TuneUp
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 8
+#
+name: TuneDown
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 9
+#
+name: CD-Stop
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 10
+#
+name: B-Rew
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 11
+#
+name: CD-FFwd
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 12
+#
+name: CD-Rew
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 13
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 14
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 15
+#
+name: CD-Play
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 16
+#
+name: B-Stop
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 17
+#
+name: B-RRec
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 18
+#
+name: B-FRec
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 19
+#
+name: B-RecMute
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 20
+#
+name: KEY_SLEEP
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 21
+#
+name: PresetUp
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 22
+#
+name: KEY_MUTE
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 23
+#
+name: Band
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 25
+#
+name: PresetDown
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 26
+#
+name: KEY_TUNER
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 27
+#
+name: KEY_CD
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 28
+#
+name: Phono
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 29
+#
+name: KEY_TAPE
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 30
+#
+name: KEY_AUX
+type: parsed
+protocol: aiwa
+address: 0.1
+command: 31
+#

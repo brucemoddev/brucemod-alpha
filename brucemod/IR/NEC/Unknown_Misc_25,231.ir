@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: [2] CHANNEL ^
+type: parsed
+protocol: nec1
+address: 25.231
+command: 0
+#
+name: [2] CHANNEL V
+type: parsed
+protocol: nec1
+address: 25.231
+command: 1
+#
+name: [2] SLOW +
+type: parsed
+protocol: nec1
+address: 25.231
+command: 2
+#
+name: [2] SLOW -
+type: parsed
+protocol: nec1
+address: 25.231
+command: 3
+#
+name: [2] CANCEL/STOP []
+type: parsed
+protocol: nec1
+address: 25.231
+command: 4
+#
+name: [2] ENTER/PLAY >
+type: parsed
+protocol: nec1
+address: 25.231
+command: 5
+#
+name: [2] REC
+type: parsed
+protocol: nec1
+address: 25.231
+command: 6
+#
+name: [2] POWER
+type: parsed
+protocol: nec1
+address: 25.231
+command: 8
+#
+name: [2] RESET
+type: parsed
+protocol: nec1
+address: 25.231
+command: 9
+#
+name: [2] VCR/TV
+type: parsed
+protocol: nec1
+address: 25.231
+command: 10
+#
+name: [2] FF/SRCH >>
+type: parsed
+protocol: nec1
+address: 25.231
+command: 12
+#
+name: [2] REW/SRCH <<
+type: parsed
+protocol: nec1
+address: 25.231
+command: 13
+#
+name: [2] PAUSE/STILL 
+type: parsed
+protocol: nec1
+address: 25.231
+command: 14
+#
+name: [2] 1
+type: parsed
+protocol: nec1
+address: 25.231
+command: 16
+#
+name: [2] 2
+type: parsed
+protocol: nec1
+address: 25.231
+command: 17
+#
+name: [2] 3
+type: parsed
+protocol: nec1
+address: 25.231
+command: 18
+#
+name: [2] 4
+type: parsed
+protocol: nec1
+address: 25.231
+command: 19
+#
+name: [2] 5
+type: parsed
+protocol: nec1
+address: 25.231
+command: 20
+#
+name: [2] 6
+type: parsed
+protocol: nec1
+address: 25.231
+command: 21
+#
+name: [2] 7
+type: parsed
+protocol: nec1
+address: 25.231
+command: 22
+#
+name: [2] 8
+type: parsed
+protocol: nec1
+address: 25.231
+command: 23
+#
+name: [2] 9
+type: parsed
+protocol: nec1
+address: 25.231
+command: 24
+#
+name: [2] 0
+type: parsed
+protocol: nec1
+address: 25.231
+command: 26
+#
+name: [2] SP/EP
+type: parsed
+protocol: nec1
+address: 25.231
+command: 27
+#
+name: [2] SEARCH INDEX
+type: parsed
+protocol: nec1
+address: 25.231
+command: 98
+#
+name: [2] TAPE RETURN
+type: parsed
+protocol: nec1
+address: 25.231
+command: 114
+#
+name: [2] INDEX WRITE
+type: parsed
+protocol: nec1
+address: 25.231
+command: 117
+#
+name: [2] INDEX ERASE
+type: parsed
+protocol: nec1
+address: 25.231
+command: 118
+#
+name: [2] ADDRESS
+type: parsed
+protocol: nec1
+address: 25.231
+command: 132
+#
+name: [2] TAPE REMAIN
+type: parsed
+protocol: nec1
+address: 25.231
+command: 133
+#
+name: [2] SEARCH TIME
+type: parsed
+protocol: nec1
+address: 25.231
+command: 157
+#
+name: [2] CVC
+type: parsed
+protocol: nec1
+address: 25.231
+command: 239
+#

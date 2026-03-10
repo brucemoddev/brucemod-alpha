@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 239
+command: 64
+#
+name: KEY_STOP
+type: parsed
+protocol: jvc
+address: 239
+command: 67
+#
+name: KEY_OPEN
+type: parsed
+protocol: jvc
+address: 239
+command: 68
+#
+name: SWOOP
+type: parsed
+protocol: jvc
+address: 239
+command: 73
+#
+name: KEY_PLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 76
+#
+name: KEY_PAUSE
+type: parsed
+protocol: jvc
+address: 239
+command: 77
+#
+name: DIMMER
+type: parsed
+protocol: jvc
+address: 239
+command: 81
+#
+name: DISPLAY
+type: parsed
+protocol: jvc
+address: 239
+command: 84
+#
+name: KEY_AGAIN
+type: parsed
+protocol: jvc
+address: 239
+command: 91
+#
+name: K0
+type: parsed
+protocol: jvc
+address: 239
+command: 96
+#
+name: K1
+type: parsed
+protocol: jvc
+address: 239
+command: 97
+#
+name: K2
+type: parsed
+protocol: jvc
+address: 239
+command: 98
+#
+name: K3
+type: parsed
+protocol: jvc
+address: 239
+command: 99
+#
+name: K4
+type: parsed
+protocol: jvc
+address: 239
+command: 100
+#
+name: K5
+type: parsed
+protocol: jvc
+address: 239
+command: 101
+#
+name: K6
+type: parsed
+protocol: jvc
+address: 239
+command: 102
+#
+name: K7
+type: parsed
+protocol: jvc
+address: 239
+command: 103
+#
+name: K8
+type: parsed
+protocol: jvc
+address: 239
+command: 104
+#
+name: K9
+type: parsed
+protocol: jvc
+address: 239
+command: 105
+#
+name: KEY_CANCEL
+type: parsed
+protocol: jvc
+address: 239
+command: 109
+#
+name: KMINUS10
+type: parsed
+protocol: jvc
+address: 239
+command: 110
+#
+name: KPLUS10
+type: parsed
+protocol: jvc
+address: 239
+command: 111
+#
+name: SLOW_MINUS
+type: parsed
+protocol: jvc
+address: 239
+command: 112
+#
+name: SLOW_PLUS
+type: parsed
+protocol: jvc
+address: 239
+command: 118
+#
+name: CHOICE
+type: parsed
+protocol: jvc
+address: 239
+command: 127
+#
+name: KEY_NEXT
+type: parsed
+protocol: jvc
+address: 239
+command: 176
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: jvc
+address: 239
+command: 177
+#
+name: KEY_ZOOM
+type: parsed
+protocol: jvc
+address: 239
+command: 188
+#
+name: X_KEY_3D_PHONIC
+type: parsed
+protocol: jvc
+address: 239
+command: 189
+#
+name: VFP
+type: parsed
+protocol: jvc
+address: 239
+command: 190
+#
+name: KEY_POWER
+type: parsed
+protocol: jvc
+address: 239
+command: 192
+#
+name: KEY_MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 193
+#
+name: TOP_MENU
+type: parsed
+protocol: jvc
+address: 239
+command: 194
+#
+name: KEY_AUDIO
+type: parsed
+protocol: jvc
+address: 239
+command: 200
+#
+name: KEY_ANGLE
+type: parsed
+protocol: jvc
+address: 239
+command: 203
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: jvc
+address: 239
+command: 205
+#
+name: KEY_UP
+type: parsed
+protocol: jvc
+address: 239
+command: 208
+#
+name: KEY_DOWN
+type: parsed
+protocol: jvc
+address: 239
+command: 209
+#
+name: KEY_LEFT
+type: parsed
+protocol: jvc
+address: 239
+command: 210
+#
+name: KEY_RIGHT
+type: parsed
+protocol: jvc
+address: 239
+command: 211
+#
+name: KEY_OK
+type: parsed
+protocol: jvc
+address: 239
+command: 212
+#
+name: KEY_OK
+type: parsed
+protocol: jvc
+address: 239
+command: 213
+#
+name: KEY_TITLE
+type: parsed
+protocol: jvc
+address: 239
+command: 238
+#

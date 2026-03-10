@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_0
+type: parsed
+protocol: nec
+address: 134.84
+command: 1
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 134.84
+command: 4
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 134.84
+command: 5
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 134.84
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 134.84
+command: 8
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 134.84
+command: 9
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 134.84
+command: 10
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 134.84
+command: 12
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 134.84
+command: 13
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 134.84
+command: 14
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 134.84
+command: 18
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 134.84
+command: 19
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 134.84
+command: 20
+#
+name: KEY_TUNER
+type: parsed
+protocol: nec
+address: 134.84
+command: 21
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 134.84
+command: 23
+#
+name: KEY_CD
+type: parsed
+protocol: nec
+address: 134.84
+command: 24
+#
+name: KEY_TAPE
+type: parsed
+protocol: nec
+address: 134.84
+command: 25
+#
+name: KEY_RECORD
+type: parsed
+protocol: nec
+address: 134.84
+command: 27
+#
+name: TUNING_DOWN+REW+SKIP
+type: parsed
+protocol: nec
+address: 134.84
+command: 64
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: nec
+address: 134.84
+command: 65
+#
+name: TUNING_UP+FDW+SKIP_N
+type: parsed
+protocol: nec
+address: 134.84
+command: 68
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 134.84
+command: 69
+#
+name: A/B
+type: parsed
+protocol: nec
+address: 134.84
+command: 87
+#

@@ -1,0 +1,435 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAUSE_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 0
+#
+name: DIGIT_1
+type: parsed
+protocol: nec1
+address: 69
+command: 1
+#
+name: DIGIT_2
+type: parsed
+protocol: nec1
+address: 69
+command: 2
+#
+name: DIGIT_3
+type: parsed
+protocol: nec1
+address: 69
+command: 3
+#
+name: DIGIT_4
+type: parsed
+protocol: nec1
+address: 69
+command: 4
+#
+name: DIGIT_5
+type: parsed
+protocol: nec1
+address: 69
+command: 5
+#
+name: DIGIT_6
+type: parsed
+protocol: nec1
+address: 69
+command: 6
+#
+name: DIGIT_7
+type: parsed
+protocol: nec1
+address: 69
+command: 7
+#
+name: DIGIT_8
+type: parsed
+protocol: nec1
+address: 69
+command: 8
+#
+name: DIGIT_9
+type: parsed
+protocol: nec1
+address: 69
+command: 9
+#
+name: DIGIT_0
+type: parsed
+protocol: nec1
+address: 69
+command: 10
+#
+name: POWER_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 18
+#
+name: SCAN_FORWARD
+type: parsed
+protocol: nec1
+address: 69
+command: 19
+#
+name: STOP_OR_CANCEL
+type: parsed
+protocol: nec1
+address: 69
+command: 20
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 21
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 22
+#
+name: SCAN_REVERSE
+type: parsed
+protocol: nec1
+address: 69
+command: 25
+#
+name: DVD_TOP_MENU
+type: parsed
+protocol: nec1
+address: 69
+command: 32
+#
+name: SELECT
+type: parsed
+protocol: nec1
+address: 69
+command: 33
+#
+name: DVD_RESUME
+type: parsed
+protocol: nec1
+address: 69
+command: 34
+#
+name: PAGE_UP_OR_PREVIOUS
+type: parsed
+protocol: nec1
+address: 69
+command: 35
+#
+name: PAGE_DOWN_OR_NEXT
+type: parsed
+protocol: nec1
+address: 69
+command: 36
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 69
+command: 39
+#
+name: NEXT_ANGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 41
+#
+name: SUBTITLE
+type: parsed
+protocol: nec1
+address: 69
+command: 47
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: nec1
+address: 69
+command: 77
+#
+name: ARROW_LEFT
+type: parsed
+protocol: nec1
+address: 69
+command: 81
+#
+name: MUSIC_REPEAT_ON
+type: parsed
+protocol: nec1
+address: 69
+command: 96
+#
+name: MUSIC_REPEAT_OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 97
+#
+name: MUSIC_REPEAT_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 98
+#
+name: GO_MUSIC_LIST
+type: parsed
+protocol: nec1
+address: 69
+command: 99
+#
+name: GO_ALBUM_COVERS
+type: parsed
+protocol: nec1
+address: 69
+command: 100
+#
+name: GO_MUSIC_COLLECTIONS
+type: parsed
+protocol: nec1
+address: 69
+command: 101
+#
+name: GO_NOW_PLAYING
+type: parsed
+protocol: nec1
+address: 69
+command: 102
+#
+name: ARROW_UP
+type: parsed
+protocol: nec1
+address: 69
+command: 128
+#
+name: ARROW_DOWN
+type: parsed
+protocol: nec1
+address: 69
+command: 129
+#
+name: DVD_OR_KALEIDESCAPE
+type: parsed
+protocol: nec1
+address: 69
+command: 132
+#
+name: REPLAY
+type: parsed
+protocol: nec1
+address: 69
+command: 160
+#
+name: SHUFFLE_COVER_ART
+type: parsed
+protocol: nec1
+address: 69
+command: 161
+#
+name: SHOW_DETAILS
+type: parsed
+protocol: nec1
+address: 69
+command: 162
+#
+name: PARENTAL_SAFE_LVL
+type: parsed
+protocol: nec1
+address: 69
+command: 164
+#
+name: PARENTAL_DEFAULT_LVL
+type: parsed
+protocol: nec1
+address: 69
+command: 165
+#
+name: SET_FAV_SCENE_START
+type: parsed
+protocol: nec1
+address: 69
+command: 166
+#
+name: SET_FAV_SCENE_END
+type: parsed
+protocol: nec1
+address: 69
+command: 167
+#
+name: GO_MOVIE_COVER_ART
+type: parsed
+protocol: nec1
+address: 69
+command: 168
+#
+name: GO_MOVIE_LIST
+type: parsed
+protocol: nec1
+address: 69
+command: 169
+#
+name: GO_MOVIE_COLLECTIONS
+type: parsed
+protocol: nec1
+address: 69
+command: 170
+#
+name: GO_SYSTEM_STATUS
+type: parsed
+protocol: nec1
+address: 69
+command: 171
+#
+name: GO_PARENTAL_CONTROL
+type: parsed
+protocol: nec1
+address: 69
+command: 172
+#
+name: INTERMISSION_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 173
+#
+name: INTERMISSION_ON
+type: parsed
+protocol: nec1
+address: 69
+command: 174
+#
+name: INTERMISSION_OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 175
+#
+name: GO_SCREEN_SAVER
+type: parsed
+protocol: nec1
+address: 69
+command: 177
+#
+name: STOP_SCREEN_SAVER
+type: parsed
+protocol: nec1
+address: 69
+command: 178
+#
+name: SHOW_DEMO
+type: parsed
+protocol: nec1
+address: 69
+command: 179
+#
+name: SHOW_DEMO_LOOP
+type: parsed
+protocol: nec1
+address: 69
+command: 180
+#
+name: PAUSE_ON
+type: parsed
+protocol: nec1
+address: 69
+command: 181
+#
+name: PAUSE_OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 182
+#
+name: DISPLAY_OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 183
+#
+name: K_MENU_ON
+type: parsed
+protocol: nec1
+address: 69
+command: 184
+#
+name: K_MENU_OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 185
+#
+name: PAGE_UP
+type: parsed
+protocol: nec1
+address: 69
+command: 186
+#
+name: PAGE_DOWN
+type: parsed
+protocol: nec1
+address: 69
+command: 187
+#
+name: DISPLAY_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 188
+#
+name: MUSIC_RANDOM_ON
+type: parsed
+protocol: nec1
+address: 69
+command: 189
+#
+name: MUSIC_RANDOM_OFF
+type: parsed
+protocol: nec1
+address: 69
+command: 190
+#
+name: MUSIC_RANDOM_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 191
+#
+name: DVD_MENU
+type: parsed
+protocol: nec1
+address: 69
+command: 203
+#
+name: TITLE
+type: parsed
+protocol: nec1
+address: 69
+command: 222
+#
+name: POWER_ON
+type: parsed
+protocol: nec1
+address: 69
+command: 243
+#
+name: POWER_STANDBY
+type: parsed
+protocol: nec1
+address: 69
+command: 244
+#
+name: K_MENU_TOGGLE
+type: parsed
+protocol: nec1
+address: 69
+command: 245
+#

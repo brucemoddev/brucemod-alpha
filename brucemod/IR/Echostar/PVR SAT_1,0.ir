@@ -1,0 +1,57 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PLAY
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 3
+#
+name: PAGE -
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 7
+#
+name: PAGE +
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 15
+#
+name: BACK
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 49
+#
+name: FORWARD
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 50
+#
+name: DISH
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 52
+#
+name: REPLAY
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 54
+#
+name: SKIP FORWARD
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 55
+#
+name: RECORDED EVENTS
+type: parsed
+protocol: dish_netwo
+address: 1.0
+command: 57
+#

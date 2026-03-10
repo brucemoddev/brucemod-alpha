@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AM/FM
+type: parsed
+protocol: nec1
+address: 128.112
+command: 129
+#
+name: TUNER SCAN +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 132
+#
+name: TUNER SCAN -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 133
+#
+name: TUNER PRESET 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 135
+#
+name: TUNER PRESET 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 136
+#
+name: TUNER PRESET 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 137
+#
+name: TUNER PRESET 4
+type: parsed
+protocol: nec1
+address: 128.112
+command: 138
+#
+name: TUNER PRESET 5
+type: parsed
+protocol: nec1
+address: 128.112
+command: 139
+#
+name: TUNER PRESET 6
+type: parsed
+protocol: nec1
+address: 128.112
+command: 140
+#
+name: TUNER PRESET 7
+type: parsed
+protocol: nec1
+address: 128.112
+command: 141
+#
+name: TUNER PRESET 8
+type: parsed
+protocol: nec1
+address: 128.112
+command: 142
+#
+name: ON
+type: parsed
+protocol: nec1
+address: 128.112
+command: 156
+#
+name: TUNER PRESET 9
+type: parsed
+protocol: nec1
+address: 128.112
+command: 157
+#
+name: OFF
+type: parsed
+protocol: nec1
+address: 128.112
+command: 159
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 196
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 128.112
+command: 199
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 128.112
+command: 200
+#
+name: VID 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 202
+#
+name: VID 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 203
+#
+name: TAPE 1
+type: parsed
+protocol: nec1
+address: 128.112
+command: 204
+#
+name: TAPE 2
+type: parsed
+protocol: nec1
+address: 128.112
+command: 205
+#
+name: VID 3
+type: parsed
+protocol: nec1
+address: 128.112
+command: 206
+#
+name: DVD
+type: parsed
+protocol: nec1
+address: 128.112
+command: 208
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 128.112
+command: 211
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 128.112
+command: 219
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 128.112
+command: 220
+#

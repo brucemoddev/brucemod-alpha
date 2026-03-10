@@ -1,0 +1,195 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 0
+#
+name: 2 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 1
+#
+name: 3 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 2
+#
+name: 4 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 3
+#
+name: 5 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 4
+#
+name: 6 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 5
+#
+name: 7 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 6
+#
+name: 8 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 7
+#
+name: 9 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 8
+#
+name: 10 0N
+type: parsed
+protocol: velleman
+address: 2
+command: 9
+#
+name: 11 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 10
+#
+name: 12 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 11
+#
+name: 13 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 12
+#
+name: 14 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 13
+#
+name: 15 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 14
+#
+name: 16 ON
+type: parsed
+protocol: velleman
+address: 2
+command: 15
+#
+name: 1 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 16
+#
+name: 2 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 17
+#
+name: 3 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 18
+#
+name: 4 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 19
+#
+name: 5 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 20
+#
+name: 6 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 21
+#
+name: 7 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 22
+#
+name: 8 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 23
+#
+name: 9 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 24
+#
+name: 10 0FF
+type: parsed
+protocol: velleman
+address: 2
+command: 25
+#
+name: 11 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 26
+#
+name: 12 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 27
+#
+name: 13 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 28
+#
+name: 14 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 29
+#
+name: 15 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 30
+#
+name: 16 OFF
+type: parsed
+protocol: velleman
+address: 2
+command: 31
+#

@@ -1,0 +1,123 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc6
+address: 39
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc6
+address: 39
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc6
+address: 39
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc6
+address: 39
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc6
+address: 39
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc6
+address: 39
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc6
+address: 39
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc6
+address: 39
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc6
+address: 39
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc6
+address: 39
+command: 9
+#
+name: CHANNEL +
+type: parsed
+protocol: rc6
+address: 39
+command: 32
+#
+name: CHANNEL -
+type: parsed
+protocol: rc6
+address: 39
+command: 33
+#
+name: EXIT
+type: parsed
+protocol: rc6
+address: 39
+command: 85
+#
+name: CURSOR UP
+type: parsed
+protocol: rc6
+address: 39
+command: 88
+#
+name: CURSOR DOWN
+type: parsed
+protocol: rc6
+address: 39
+command: 89
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc6
+address: 39
+command: 90
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc6
+address: 39
+command: 91
+#
+name: ENTER
+type: parsed
+protocol: rc6
+address: 39
+command: 92
+#
+name: JUMP
+type: parsed
+protocol: rc6
+address: 39
+command: 131
+#
+name: GUIDE
+type: parsed
+protocol: rc6
+address: 39
+command: 204
+#

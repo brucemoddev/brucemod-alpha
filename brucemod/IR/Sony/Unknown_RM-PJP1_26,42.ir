@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_RIGHT
+type: parsed
+protocol: sony20
+address: 26.42
+command: 123
+#
+name: KEY_LEFT
+type: parsed
+protocol: sony20
+address: 26.42
+command: 124
+#
+name: KEY_B
+type: parsed
+protocol: sony20
+address: 26.42
+command: 125
+#

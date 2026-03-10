@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: dacx
+type: parsed
+protocol: nec
+address: 168
+command: 12
+#
+name: scan-
+type: parsed
+protocol: nec
+address: 168
+command: 17
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: nec
+address: 168
+command: 22
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 168
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: nec
+address: 168
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 168
+command: 28
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 168
+command: 30
+#
+name: ctrl
+type: parsed
+protocol: nec
+address: 168
+command: 55
+#
+name: display
+type: parsed
+protocol: nec
+address: 168
+command: 67
+#
+name: repeatb
+type: parsed
+protocol: nec
+address: 168
+command: 68
+#
+name: KEY_CLEAR
+type: parsed
+protocol: nec
+address: 168
+command: 69
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: nec
+address: 168
+command: 70
+#
+name: scan+
+type: parsed
+protocol: nec
+address: 168
+command: 71
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: nec
+address: 168
+command: 71
+#
+name: repeata
+type: parsed
+protocol: nec
+address: 168
+command: 72
+#
+name: step-
+type: parsed
+protocol: nec
+address: 168
+command: 80
+#
+name: KEY_NEXT
+type: parsed
+protocol: nec
+address: 168
+command: 82
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: nec
+address: 168
+command: 83
+#
+name: step+
+type: parsed
+protocol: nec
+address: 168
+command: 84
+#
+name: speed-
+type: parsed
+protocol: nec
+address: 168
+command: 85
+#
+name: speed+
+type: parsed
+protocol: nec
+address: 168
+command: 88
+#
+name: intro
+type: parsed
+protocol: nec
+address: 168
+command: 90
+#
+name: random
+type: parsed
+protocol: nec
+address: 168
+command: 94
+#

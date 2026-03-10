@@ -1,0 +1,21 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER OFF
+type: parsed
+protocol: jvc
+address: 31
+command: 218
+#
+name: POWER ON
+type: parsed
+protocol: jvc
+address: 31
+command: 221
+#
+name: COMPONENT
+type: parsed
+protocol: jvc
+address: 31
+command: 225
+#

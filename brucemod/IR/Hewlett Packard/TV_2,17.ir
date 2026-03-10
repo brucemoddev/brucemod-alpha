@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER ON
+type: parsed
+protocol: mce
+address: 2.17
+command: 0
+#
+name: POWER OFF
+type: parsed
+protocol: mce
+address: 2.17
+command: 1
+#
+name: TUNER 1
+type: parsed
+protocol: mce
+address: 2.17
+command: 10
+#
+name: INPUT TV
+type: parsed
+protocol: mce
+address: 2.17
+command: 10
+#
+name: TUNER 2
+type: parsed
+protocol: mce
+address: 2.17
+command: 11
+#
+name: TUNER 3
+type: parsed
+protocol: mce
+address: 2.17
+command: 12
+#
+name: AV 1
+type: parsed
+protocol: mce
+address: 2.17
+command: 13
+#
+name: INPUT AV1
+type: parsed
+protocol: mce
+address: 2.17
+command: 13
+#
+name: AV 2
+type: parsed
+protocol: mce
+address: 2.17
+command: 14
+#
+name: INPUT AV2
+type: parsed
+protocol: mce
+address: 2.17
+command: 14
+#
+name: AV 3
+type: parsed
+protocol: mce
+address: 2.17
+command: 15
+#
+name: INPUT AV3
+type: parsed
+protocol: mce
+address: 2.17
+command: 15
+#
+name: SV 1
+type: parsed
+protocol: mce
+address: 2.17
+command: 16
+#
+name: SV 2
+type: parsed
+protocol: mce
+address: 2.17
+command: 17
+#
+name: SV 3
+type: parsed
+protocol: mce
+address: 2.17
+command: 18
+#
+name: INPUT S-VIDEO
+type: parsed
+protocol: mce
+address: 2.17
+command: 18
+#
+name: YPRPB 1
+type: parsed
+protocol: mce
+address: 2.17
+command: 19
+#
+name: INPUT YPBRPR1
+type: parsed
+protocol: mce
+address: 2.17
+command: 19
+#
+name: YPRPB 2
+type: parsed
+protocol: mce
+address: 2.17
+command: 20
+#
+name: INPUT YPBRPR2
+type: parsed
+protocol: mce
+address: 2.17
+command: 20
+#
+name: HDMI 1
+type: parsed
+protocol: mce
+address: 2.17
+command: 21
+#
+name: INPUT HDMI
+type: parsed
+protocol: mce
+address: 2.17
+command: 21
+#
+name: HDMI 2
+type: parsed
+protocol: mce
+address: 2.17
+command: 22
+#
+name: RGB 1
+type: parsed
+protocol: mce
+address: 2.17
+command: 23
+#
+name: INPUT DVI
+type: parsed
+protocol: mce
+address: 2.17
+command: 23
+#
+name: RGB 2
+type: parsed
+protocol: mce
+address: 2.17
+command: 24
+#
+name: INPUT RGB
+type: parsed
+protocol: mce
+address: 2.17
+command: 24
+#
+name: MUTE ON
+type: parsed
+protocol: mce
+address: 2.17
+command: 25
+#
+name: MUTE OFF
+type: parsed
+protocol: mce
+address: 2.17
+command: 26
+#

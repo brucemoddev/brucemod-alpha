@@ -1,0 +1,177 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PRESET -
+type: parsed
+protocol: nec1
+address: 184.2
+command: 0
+#
+name: BAND
+type: parsed
+protocol: nec1
+address: 184.2
+command: 1
+#
+name: PRESET +
+type: parsed
+protocol: nec1
+address: 184.2
+command: 1
+#
+name: TUNER DOWN
+type: parsed
+protocol: nec1
+address: 184.2
+command: 2
+#
+name: TUNER UP
+type: parsed
+protocol: nec1
+address: 184.2
+command: 3
+#
+name: DIMMER
+type: parsed
+protocol: nec1
+address: 184.2
+command: 29
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 184.2
+command: 30
+#
+name: DISPLAY MODE
+type: parsed
+protocol: nec1
+address: 184.2
+command: 30
+#
+name: GUI
+type: parsed
+protocol: nec1
+address: 184.2
+command: 134
+#
+name: MACRO 1
+type: parsed
+protocol: nec1
+address: 184.2
+command: 135
+#
+name: MACRO 2
+type: parsed
+protocol: nec1
+address: 184.2
+command: 136
+#
+name: PAUSE  (^)
+type: parsed
+protocol: nec1
+address: 184.2
+command: 137
+#
+name: >>(>)
+type: parsed
+protocol: nec1
+address: 184.2
+command: 139
+#
+name: STOP [] (V)
+type: parsed
+protocol: nec1
+address: 184.2
+command: 141
+#
+name: << (<)
+type: parsed
+protocol: nec1
+address: 184.2
+command: 143
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 184.2
+command: 145
+#
+name: REC
+type: parsed
+protocol: nec1
+address: 184.2
+command: 146
+#
+name: RECEIVER
+type: parsed
+protocol: nec1
+address: 184.2
+command: 147
+#
+name: TAPE A
+type: parsed
+protocol: nec1
+address: 184.2
+command: 148
+#
+name: TAPE B/MD
+type: parsed
+protocol: nec1
+address: 184.2
+command: 149
+#
+name: CD
+type: parsed
+protocol: nec1
+address: 184.2
+command: 150
+#
+name: LD
+type: parsed
+protocol: nec1
+address: 184.2
+command: 151
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 184.2
+command: 152
+#
+name: VIDEO 1
+type: parsed
+protocol: nec1
+address: 184.2
+command: 153
+#
+name: VIDEO 2
+type: parsed
+protocol: nec1
+address: 184.2
+command: 154
+#
+name: CABLE/SAT
+type: parsed
+protocol: nec1
+address: 184.2
+command: 155
+#
+name: LEVEL MODE AUDIO
+type: parsed
+protocol: nec1
+address: 184.2
+command: 156
+#
+name: LEVEL MODE SURROUND
+type: parsed
+protocol: nec1
+address: 184.2
+command: 157
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 184.2
+command: 158
+#

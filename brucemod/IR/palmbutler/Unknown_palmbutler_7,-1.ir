@@ -1,0 +1,249 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 7
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 7
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 7
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 7
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 7
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 7
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 7
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 7
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 7
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 7
+command: 9
+#
+name: pc-off
+type: parsed
+protocol: rc5
+address: 7
+command: 12
+#
+name: mute
+type: parsed
+protocol: rc5
+address: 7
+command: 13
+#
+name: vol+
+type: parsed
+protocol: rc5
+address: 7
+command: 16
+#
+name: vol-
+type: parsed
+protocol: rc5
+address: 7
+command: 17
+#
+name: fn
+type: parsed
+protocol: rc5
+address: 7
+command: 20
+#
+name: tv/pc
+type: parsed
+protocol: rc5
+address: 7
+command: 21
+#
+name: *
+type: parsed
+protocol: rc5
+address: 7
+command: 22
+#
+name: #
+type: parsed
+protocol: rc5
+address: 7
+command: 23
+#
+name: back
+type: parsed
+protocol: rc5
+address: 7
+command: 24
+#
+name: channel+
+type: parsed
+protocol: rc5
+address: 7
+command: 32
+#
+name: channel-
+type: parsed
+protocol: rc5
+address: 7
+command: 33
+#
+name: pause
+type: parsed
+protocol: rc5
+address: 7
+command: 48
+#
+name: rew
+type: parsed
+protocol: rc5
+address: 7
+command: 50
+#
+name: play
+type: parsed
+protocol: rc5
+address: 7
+command: 51
+#
+name: forw
+type: parsed
+protocol: rc5
+address: 7
+command: 52
+#
+name: stop
+type: parsed
+protocol: rc5
+address: 7
+command: 54
+#
+name: rec
+type: parsed
+protocol: rc5
+address: 7
+command: 55
+#
+name: epg
+type: parsed
+protocol: rc5
+address: 7
+command: 65
+#
+name: help
+type: parsed
+protocol: rc5
+address: 7
+command: 74
+#
+name: up
+type: parsed
+protocol: rc5
+address: 7
+command: 80
+#
+name: down
+type: parsed
+protocol: rc5
+address: 7
+command: 81
+#
+name: menu
+type: parsed
+protocol: rc5
+address: 7
+command: 82
+#
+name: left
+type: parsed
+protocol: rc5
+address: 7
+command: 85
+#
+name: right
+type: parsed
+protocol: rc5
+address: 7
+command: 86
+#
+name: ok
+type: parsed
+protocol: rc5
+address: 7
+command: 87
+#
+name: my-tv
+type: parsed
+protocol: rc5
+address: 7
+command: 107
+#
+name: my-music
+type: parsed
+protocol: rc5
+address: 7
+command: 108
+#
+name: my-pictures
+type: parsed
+protocol: rc5
+address: 7
+command: 109
+#
+name: my-videos
+type: parsed
+protocol: rc5
+address: 7
+command: 110
+#
+name: next
+type: parsed
+protocol: rc5
+address: 7
+command: 112
+#
+name: prev
+type: parsed
+protocol: rc5
+address: 7
+command: 113
+#

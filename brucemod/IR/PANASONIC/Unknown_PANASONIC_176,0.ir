@@ -1,0 +1,297 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_STOP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 0
+#
+name: KEY_OPEN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 1
+#
+name: SEARCH_BACK
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 4
+#
+name: SEARCH_FORWARD
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 5
+#
+name: KEY_PAUSE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 6
+#
+name: KEY_PLAY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 10
+#
+name: DISC_1
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 16
+#
+name: DISC_2
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 17
+#
+name: DISC_3
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 18
+#
+name: DISC_4
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 19
+#
+name: DISC_5
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 20
+#
+name: KEY_6
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 21
+#
+name: KEY_7
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 22
+#
+name: KEY_8
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 23
+#
+name: KEY_9
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 24
+#
+name: KEY_0
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 25
+#
+name: KEY_AUDIO
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 51
+#
+name: KEY_POWER
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 61
+#
+name: POSITION_MEMORY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 70
+#
+name: A-B_REPEAT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 72
+#
+name: SKIP_BACK
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 73
+#
+name: SKIP_FORWARD
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 74
+#
+name: RANDOM
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 77
+#
+name: KEY_MENU
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 128
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 129
+#
+name: KEY_OK
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 130
+#
+name: KEY_CANCEL
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 131
+#
+name: ARROW_UP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 133
+#
+name: ARROW_DOWN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 134
+#
+name: ARROW_LEFT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 135
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 136
+#
+name: X_KEY_0+
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 137
+#
+name: PROGRAM
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 138
+#
+name: QUICK_REPLAY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 139
+#
+name: KEY_AGAIN
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 140
+#
+name: KEY_ANGLE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 144
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 145
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 146
+#
+name: KEY_SETUP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 148
+#
+name: TOP_MENU
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 155
+#
+name: A_SRD
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 158
+#
+name: FL_SELECT
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 182
+#
+name: DISC
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 183
+#
+name: SEQUENTIAL
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 191
+#
+name: CINEMA
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 192
+#
+name: BASS
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 212
+#
+name: D_ENH
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 213
+#
+name: KEY_SLEEP
+type: parsed
+protocol: panasonic
+address: 176.0
+command: 235
+#

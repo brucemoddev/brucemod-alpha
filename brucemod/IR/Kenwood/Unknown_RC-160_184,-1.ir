@@ -1,0 +1,303 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: ...REW
+type: parsed
+protocol: nec
+address: 184
+command: 6
+#
+name: ...FWD
+type: parsed
+protocol: nec
+address: 184
+command: 7
+#
+name: ...DISC
+type: parsed
+protocol: nec
+address: 184
+command: 8
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 184
+command: 10
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 184
+command: 11
+#
+name: .........10
+type: parsed
+protocol: nec
+address: 184
+command: 13
+#
+name: .........0
+type: parsed
+protocol: nec
+address: 184
+command: 128
+#
+name: TUNER/CD_1
+type: parsed
+protocol: nec
+address: 184
+command: 129
+#
+name: .........2
+type: parsed
+protocol: nec
+address: 184
+command: 130
+#
+name: .........3
+type: parsed
+protocol: nec
+address: 184
+command: 131
+#
+name: .........4
+type: parsed
+protocol: nec
+address: 184
+command: 132
+#
+name: .........5
+type: parsed
+protocol: nec
+address: 184
+command: 133
+#
+name: .........6
+type: parsed
+protocol: nec
+address: 184
+command: 134
+#
+name: .........7
+type: parsed
+protocol: nec
+address: 184
+command: 135
+#
+name: .........8
+type: parsed
+protocol: nec
+address: 184
+command: 136
+#
+name: .........9
+type: parsed
+protocol: nec
+address: 184
+command: 137
+#
+name: ......DOWN
+type: parsed
+protocol: nec
+address: 184
+command: 140
+#
+name: TUNER_BAND
+type: parsed
+protocol: nec
+address: 184
+command: 143
+#
+name: .......TUNER
+type: parsed
+protocol: nec
+address: 184
+command: 145
+#
+name: SELECT_CD
+type: parsed
+protocol: nec
+address: 184
+command: 146
+#
+name: .......VIDEO_2
+type: parsed
+protocol: nec
+address: 184
+command: 147
+#
+name: .......TAPE_A
+type: parsed
+protocol: nec
+address: 184
+command: 148
+#
+name: .......TAPE_B
+type: parsed
+protocol: nec
+address: 184
+command: 149
+#
+name: .......VIDEO_1
+type: parsed
+protocol: nec
+address: 184
+command: 150
+#
+name: ......UP
+type: parsed
+protocol: nec
+address: 184
+command: 153
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 184
+command: 154
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 184
+command: 155
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 184
+command: 156
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 184
+command: 157
+#
+name: ......DIRECT
+type: parsed
+protocol: nec
+address: 184
+command: 158
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 184
+command: 198
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 184
+command: 199
+#
+name: ...STOP
+type: parsed
+protocol: nec
+address: 184
+command: 201
+#
+name: CD_PLAY/PAUSE
+type: parsed
+protocol: nec
+address: 184
+command: 203
+#
+name: ...SEARCH_REW
+type: parsed
+protocol: nec
+address: 184
+command: 206
+#
+name: ...SEARCH_FWD
+type: parsed
+protocol: nec
+address: 184
+command: 207
+#
+name: -------REV_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 208
+#
+name: TAPE_A_FWD_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 209
+#
+name: -------REWIND
+type: parsed
+protocol: nec
+address: 184
+command: 210
+#
+name: -------FFWD
+type: parsed
+protocol: nec
+address: 184
+command: 211
+#
+name: -------PAUSE
+type: parsed
+protocol: nec
+address: 184
+command: 212
+#
+name: -------STOP
+type: parsed
+protocol: nec
+address: 184
+command: 213
+#
+name: -------RECORD
+type: parsed
+protocol: nec
+address: 184
+command: 214
+#
+name: .......REV_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 216
+#
+name: TAPE_B_FWD_PLAY
+type: parsed
+protocol: nec
+address: 184
+command: 217
+#
+name: .......REWIND
+type: parsed
+protocol: nec
+address: 184
+command: 218
+#
+name: .......FFWD
+type: parsed
+protocol: nec
+address: 184
+command: 219
+#
+name: .......PAUSE
+type: parsed
+protocol: nec
+address: 184
+command: 220
+#
+name: .......STOP
+type: parsed
+protocol: nec
+address: 184
+command: 221
+#
+name: .......RECORD
+type: parsed
+protocol: nec
+address: 184
+command: 222
+#

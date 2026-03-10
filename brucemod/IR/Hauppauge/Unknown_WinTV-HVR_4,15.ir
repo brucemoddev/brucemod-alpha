@@ -1,0 +1,273 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: mce
+address: 4.15
+command: 0
+#
+name: 1
+type: parsed
+protocol: mce
+address: 4.15
+command: 1
+#
+name: 2
+type: parsed
+protocol: mce
+address: 4.15
+command: 2
+#
+name: 3
+type: parsed
+protocol: mce
+address: 4.15
+command: 3
+#
+name: 4
+type: parsed
+protocol: mce
+address: 4.15
+command: 4
+#
+name: 5
+type: parsed
+protocol: mce
+address: 4.15
+command: 5
+#
+name: 6
+type: parsed
+protocol: mce
+address: 4.15
+command: 6
+#
+name: 7
+type: parsed
+protocol: mce
+address: 4.15
+command: 7
+#
+name: 8
+type: parsed
+protocol: mce
+address: 4.15
+command: 8
+#
+name: 9
+type: parsed
+protocol: mce
+address: 4.15
+command: 9
+#
+name: CLEAR
+type: parsed
+protocol: mce
+address: 4.15
+command: 10
+#
+name: ENTER
+type: parsed
+protocol: mce
+address: 4.15
+command: 11
+#
+name: STANDBY
+type: parsed
+protocol: mce
+address: 4.15
+command: 12
+#
+name: WINButton
+type: parsed
+protocol: mce
+address: 4.15
+command: 13
+#
+name: VolumeMute
+type: parsed
+protocol: mce
+address: 4.15
+command: 14
+#
+name: INFO
+type: parsed
+protocol: mce
+address: 4.15
+command: 15
+#
+name: VolumeUP
+type: parsed
+protocol: mce
+address: 4.15
+command: 16
+#
+name: VolumeDOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 17
+#
+name: ChannelUP
+type: parsed
+protocol: mce
+address: 4.15
+command: 18
+#
+name: ChannelDOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 19
+#
+name: FWD
+type: parsed
+protocol: mce
+address: 4.15
+command: 20
+#
+name: REW
+type: parsed
+protocol: mce
+address: 4.15
+command: 21
+#
+name: PLAY
+type: parsed
+protocol: mce
+address: 4.15
+command: 22
+#
+name: RECORD
+type: parsed
+protocol: mce
+address: 4.15
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: mce
+address: 4.15
+command: 24
+#
+name: STOP
+type: parsed
+protocol: mce
+address: 4.15
+command: 25
+#
+name: ChapterNEXT
+type: parsed
+protocol: mce
+address: 4.15
+command: 26
+#
+name: ChapterPREV
+type: parsed
+protocol: mce
+address: 4.15
+command: 27
+#
+name: #
+type: parsed
+protocol: mce
+address: 4.15
+command: 28
+#
+name: *
+type: parsed
+protocol: mce
+address: 4.15
+command: 29
+#
+name: ArrowsUP
+type: parsed
+protocol: mce
+address: 4.15
+command: 30
+#
+name: ArrowsDOWN
+type: parsed
+protocol: mce
+address: 4.15
+command: 31
+#
+name: ArrowsLEFT
+type: parsed
+protocol: mce
+address: 4.15
+command: 32
+#
+name: ArrowsRIGHT
+type: parsed
+protocol: mce
+address: 4.15
+command: 33
+#
+name: ArrowsOK
+type: parsed
+protocol: mce
+address: 4.15
+command: 34
+#
+name: INFO-Back
+type: parsed
+protocol: mce
+address: 4.15
+command: 35
+#
+name: MusicButton
+type: parsed
+protocol: mce
+address: 4.15
+command: 36
+#
+name: RadioButton
+type: parsed
+protocol: mce
+address: 4.15
+command: 37
+#
+name: PicturesButton
+type: parsed
+protocol: mce
+address: 4.15
+command: 38
+#
+name: TVButton
+type: parsed
+protocol: mce
+address: 4.15
+command: 72
+#
+name: TextButton
+type: parsed
+protocol: mce
+address: 4.15
+command: 90
+#
+name: ORANGE
+type: parsed
+protocol: mce
+address: 4.15
+command: 91
+#
+name: GREEN
+type: parsed
+protocol: mce
+address: 4.15
+command: 92
+#
+name: YELLOW
+type: parsed
+protocol: mce
+address: 4.15
+command: 93
+#
+name: BLUE
+type: parsed
+protocol: mce
+address: 4.15
+command: 94
+#

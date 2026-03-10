@@ -1,0 +1,597 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TAPE1 STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE 1 STOP [] (4)
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE1 CON. STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE1 CONTROL STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE1/2 STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE CONT STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE 1 STOP[]
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE1/2 STOP (- [])
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 3
+#
+name: TAPE1 OPEN/CLOSE
+type: parsed
+protocol: jvc
+address: 131
+command: 4
+#
+name: TAPE1 FFWD >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE1 FF >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE 1 >> (P)
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE FF >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE1 CON. FFWD >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE1 CONTROL FFWD
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE1/2 FFWD >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE CONT >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE 1 >>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE1/2 FFWD (> >>)
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE FF/>>
+type: parsed
+protocol: jvc
+address: 131
+command: 6
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE 1 << (6)
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE REW <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE1 CON. REW <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE1 CONTROL REW
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE1/2 REW <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE CONT <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE 1 <<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE1/2 REW (< <<)
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE REW/<<
+type: parsed
+protocol: jvc
+address: 131
+command: 7
+#
+name: TAPE1 <>
+type: parsed
+protocol: jvc
+address: 131
+command: 11
+#
+name: DIRECTION <>
+type: parsed
+protocol: jvc
+address: 131
+command: 11
+#
+name: TAPE1 OPEN/CLOSE <>
+type: parsed
+protocol: jvc
+address: 131
+command: 11
+#
+name: TAPE1/2 <>
+type: parsed
+protocol: jvc
+address: 131
+command: 11
+#
+name: TAPE <>
+type: parsed
+protocol: jvc
+address: 131
+command: 11
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE 1 PLAY > (1)
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE1 CON. PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE1 CONTROL PLAY>
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE1/2 PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE CONT PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE 1 PLAY>
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE1/2 PLAY (+ >)
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 12
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE 1 PAUSE (5)
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE PAUSE/STILL 
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1 CON. PAUSE 
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1 CONTROL PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1/2 PAUSE 
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE CONT PAUSE/STIL
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1/2 PAUSE ()
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1 CON. PAUSE/S.
+type: parsed
+protocol: jvc
+address: 131
+command: 13
+#
+name: TAPE1 SKIP <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1 SRCH <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE 1 << (2)
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1 MUSIC SCAN <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: MUSIC SCAN <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1 SEARCH REV <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1 SRCH REV <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1/2 AMS <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1 SKIP <
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE SEARCH <<
+type: parsed
+protocol: jvc
+address: 131
+command: 24
+#
+name: TAPE1 SKIP >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1 SRCH >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE 1 >>(3)
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1 MUSIC SCAN >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: MUSIC SCAN >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1 SEARCH FWD >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1 SRCH FWD >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1/2 AMS >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1 SKIP >
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE SEARCH >>
+type: parsed
+protocol: jvc
+address: 131
+command: 25
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: jvc
+address: 131
+command: 67
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: jvc
+address: 131
+command: 76
+#
+name: TAPE1 REC/PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE 1 REC/PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE1 REC-PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE1 CON. REC/PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE CONT REC
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE1/2 REC
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE REC (REC+PLAY)
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE1/2 PLAY/REC
+type: parsed
+protocol: jvc
+address: 131
+command: 204
+#
+name: TAPE1 REC/PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE 1 REC/STOP
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE1 REC-PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE1 REC/STANDBY
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE1 CON. REC/PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE1 CON.REC/PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE1/2 REC/STBY
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE CONT REC/PAUSE
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#
+name: TAPE REC/PLAY
+type: parsed
+protocol: jvc
+address: 131
+command: 205
+#

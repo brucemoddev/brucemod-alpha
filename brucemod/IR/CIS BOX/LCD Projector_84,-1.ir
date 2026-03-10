@@ -1,0 +1,93 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT VIDEO 1
+type: parsed
+protocol: sony15
+address: 84
+command: 42
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: sony15
+address: 84
+command: 43
+#
+name: INPUT RGB
+type: parsed
+protocol: sony15
+address: 84
+command: 44
+#
+name: PWR ON
+type: parsed
+protocol: sony15
+address: 84
+command: 46
+#
+name: PWR OFF
+type: parsed
+protocol: sony15
+address: 84
+command: 47
+#
+name: SELECT+
+type: parsed
+protocol: sony15
+address: 84
+command: 49
+#
+name: SELECT -
+type: parsed
+protocol: sony15
+address: 84
+command: 50
+#
+name: FOCUS IN
+type: parsed
+protocol: sony15
+address: 84
+command: 65
+#
+name: FOCUS OUT
+type: parsed
+protocol: sony15
+address: 84
+command: 66
+#
+name: ZOOM IN
+type: parsed
+protocol: sony15
+address: 84
+command: 84
+#
+name: ZOOM OUT
+type: parsed
+protocol: sony15
+address: 84
+command: 85
+#
+name: AUTO
+type: parsed
+protocol: sony15
+address: 84
+command: 86
+#
+name: SELECT
+type: parsed
+protocol: sony15
+address: 84
+command: 89
+#
+name: INPUT S VIDEO
+type: parsed
+protocol: sony15
+address: 84
+command: 95
+#
+name: RESET
+type: parsed
+protocol: sony15
+address: 84
+command: 123
+#

@@ -1,0 +1,87 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec
+address: 128
+command: 26
+#
+name: Mute
+type: parsed
+protocol: nec
+address: 128
+command: 1
+#
+name: Vol_Up
+type: parsed
+protocol: nec
+address: 128
+command: 3
+#
+name: VOL_DN
+type: parsed
+protocol: nec
+address: 128
+command: 6
+#
+name: opt
+type: parsed
+protocol: nec
+address: 128
+command: 12
+#
+name: usb
+type: parsed
+protocol: nec
+address: 128
+command: 18
+#
+name: aux
+type: parsed
+protocol: nec
+address: 128
+command: 14
+#
+name: Phono
+type: parsed
+protocol: nec
+address: 128
+command: 15
+#
+name: LED
+type: parsed
+protocol: nec
+address: 128
+command: 31
+#
+name: SUB -
+type: parsed
+protocol: nec
+address: 128
+command: 61
+#
+name: SUB +
+type: parsed
+protocol: nec
+address: 128
+command: 3
+#
+name: SUB_RESET
+type: parsed
+protocol: nec
+address: 128
+command: 62
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: nec
+address: 128
+command: 33
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec
+address: 128
+command: 13
+#

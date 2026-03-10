@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: REPEAT OFF
+type: parsed
+protocol: denon
+address: 4
+command: 192
+#
+name: MODE OFF
+type: parsed
+protocol: denon
+address: 4
+command: 250
+#
+name: CROSS FADE
+type: parsed
+protocol: denon
+address: 4
+command: 251
+#
+name: ALL DISCS
+type: parsed
+protocol: denon
+address: 4
+command: 252
+#
+name: 1 DISC
+type: parsed
+protocol: denon
+address: 4
+command: 253
+#
+name: REPEAT 1
+type: parsed
+protocol: denon
+address: 4
+command: 254
+#
+name: BEST HIT
+type: parsed
+protocol: denon
+address: 4
+command: 255
+#

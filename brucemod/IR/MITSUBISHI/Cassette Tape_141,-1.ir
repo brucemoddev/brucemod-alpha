@@ -1,0 +1,159 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 141
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 141
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 141
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 141
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 141
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 141
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 141
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 141
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 141
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 141
+command: 9
+#
+name: PAUSE 
+type: parsed
+protocol: nec1
+address: 141
+command: 10
+#
+name: 10+
+type: parsed
+protocol: nec1
+address: 141
+command: 13
+#
+name: AUTO SPACE
+type: parsed
+protocol: nec1
+address: 141
+command: 14
+#
+name: PROG/EDIT
+type: parsed
+protocol: nec1
+address: 141
+command: 16
+#
+name: CALL
+type: parsed
+protocol: nec1
+address: 141
+command: 17
+#
+name: CLEAR
+type: parsed
+protocol: nec1
+address: 141
+command: 19
+#
+name: A<->B
+type: parsed
+protocol: nec1
+address: 141
+command: 20
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: nec1
+address: 141
+command: 21
+#
+name: FF >>
+type: parsed
+protocol: nec1
+address: 141
+command: 22
+#
+name: FR <<
+type: parsed
+protocol: nec1
+address: 141
+command: 23
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 141
+command: 26
+#
+name: REPEAT
+type: parsed
+protocol: nec1
+address: 141
+command: 27
+#
+name: PLAY >
+type: parsed
+protocol: nec1
+address: 141
+command: 28
+#
+name: FS >>
+type: parsed
+protocol: nec1
+address: 141
+command: 29
+#
+name: RS <<
+type: parsed
+protocol: nec1
+address: 141
+command: 30
+#
+name: STOP []
+type: parsed
+protocol: nec1
+address: 141
+command: 31
+#

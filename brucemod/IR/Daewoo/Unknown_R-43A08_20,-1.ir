@@ -1,0 +1,135 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Proton
+address: 20
+command: 0
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 20
+command: 1
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 20
+command: 2
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 20
+command: 3
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 20
+command: 4
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 20
+command: 5
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 20
+command: 6
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 20
+command: 7
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 20
+command: 8
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 20
+command: 9
+#
+name: SLEEP
+type: parsed
+protocol: Proton
+address: 20
+command: 13
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 20
+command: 17
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 20
+command: 18
+#
+name: VOL+
+type: parsed
+protocol: Proton
+address: 20
+command: 19
+#
+name: VOL-
+type: parsed
+protocol: Proton
+address: 20
+command: 20
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 20
+command: 21
+#
+name: INPUT
+type: parsed
+protocol: Proton
+address: 20
+command: 22
+#
+name: CH+
+type: parsed
+protocol: Proton
+address: 20
+command: 23
+#
+name: CH-
+type: parsed
+protocol: Proton
+address: 20
+command: 24
+#
+name: VIDEO
+type: parsed
+protocol: Proton
+address: 20
+command: 26
+#
+name: PREVIOUS
+type: parsed
+protocol: Proton
+address: 20
+command: 32
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 20
+command: 34
+#

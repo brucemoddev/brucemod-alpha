@@ -1,0 +1,261 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: nec1
+address: 134.5
+command: 0
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 134.5
+command: 1
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 134.5
+command: 2
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 134.5
+command: 3
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 134.5
+command: 4
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 134.5
+command: 5
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 134.5
+command: 6
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 134.5
+command: 7
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 134.5
+command: 8
+#
+name: 0
+type: parsed
+protocol: nec1
+address: 134.5
+command: 9
+#
+name: CHANNEL+
+type: parsed
+protocol: nec1
+address: 134.5
+command: 10
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 134.5
+command: 11
+#
+name: VOLUME+
+type: parsed
+protocol: nec1
+address: 134.5
+command: 12
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 134.5
+command: 13
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 134.5
+command: 14
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 134.5
+command: 15
+#
+name: MTS/SAP
+type: parsed
+protocol: nec1
+address: 134.5
+command: 17
+#
+name: SLEEP
+type: parsed
+protocol: nec1
+address: 134.5
+command: 19
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 134.5
+command: 20
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 134.5
+command: 21
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 134.5
+command: 22
+#
+name: DISPLAY
+type: parsed
+protocol: nec
+address: 134.5
+command: 23
+#
+name: 
+type: parsed
+protocol: nec1
+address: 134.5
+command: 23
+#
+name: DISPLAY
+type: parsed
+protocol: nec1
+address: 134.5
+command: 23
+#
+name: ENTER
+type: parsed
+protocol: nec1
+address: 134.5
+command: 24
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 134.5
+command: 24
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 134.5
+command: 27
+#
+name: CCD
+type: parsed
+protocol: nec1
+address: 134.5
+command: 28
+#
+name: INPUT
+type: parsed
+protocol: nec1
+address: 134.5
+command: 29
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 134.5
+command: 66
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 134.5
+command: 67
+#
+name: ZOOM
+type: parsed
+protocol: nec1
+address: 134.5
+command: 68
+#
+name: GUIDE
+type: parsed
+protocol: nec1
+address: 134.5
+command: 69
+#
+name: AUDIO
+type: parsed
+protocol: nec1
+address: 134.5
+command: 72
+#
+name: PICTURE
+type: parsed
+protocol: nec1
+address: 134.5
+command: 73
+#
+name: FAVORITE
+type: parsed
+protocol: nec1
+address: 134.5
+command: 75
+#
+name: VIDEO
+type: parsed
+protocol: nec1
+address: 134.5
+command: 76
+#
+name: DVD/VIDEO
+type: parsed
+protocol: nec1
+address: 134.5
+command: 76
+#
+name: COMP
+type: parsed
+protocol: nec1
+address: 134.5
+command: 77
+#
+name: VGA
+type: parsed
+protocol: nec1
+address: 134.5
+command: 78
+#
+name: TV
+type: parsed
+protocol: nec1
+address: 134.5
+command: 79
+#
+name: HDMI
+type: parsed
+protocol: nec1
+address: 134.5
+command: 80
+#
+name: CH-LIST
+type: parsed
+protocol: nec1
+address: 134.5
+command: 134
+#

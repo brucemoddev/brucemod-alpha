@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT
+type: parsed
+protocol: panasonic
+address: 25
+command: 5
+#
+name: RECALL
+type: parsed
+protocol: panasonic
+address: 25
+command: 51
+#

@@ -1,0 +1,219 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: POWER
+type: parsed
+protocol: mce
+address: 0.28
+command: 1
+#
+name: CHAN UP
+type: parsed
+protocol: mce
+address: 0.28
+command: 2
+#
+name: CHAN DN
+type: parsed
+protocol: mce
+address: 0.28
+command: 3
+#
+name: VOL DN
+type: parsed
+protocol: mce
+address: 0.28
+command: 4
+#
+name: VOL UP
+type: parsed
+protocol: mce
+address: 0.28
+command: 5
+#
+name: ENTER
+type: parsed
+protocol: mce
+address: 0.28
+command: 6
+#
+name: OK
+type: parsed
+protocol: mce
+address: 0.28
+command: 6
+#
+name: INPUT SOURCE
+type: parsed
+protocol: mce
+address: 0.28
+command: 7
+#
+name: MENU
+type: parsed
+protocol: mce
+address: 0.28
+command: 8
+#
+name: MUTE
+type: parsed
+protocol: mce
+address: 0.28
+command: 9
+#
+name: SLEEP
+type: parsed
+protocol: mce
+address: 0.28
+command: 11
+#
+name: PIP
+type: parsed
+protocol: mce
+address: 0.28
+command: 12
+#
+name: POP/PBP
+type: parsed
+protocol: mce
+address: 0.28
+command: 13
+#
+name: SWAP
+type: parsed
+protocol: mce
+address: 0.28
+command: 14
+#
+name: AUDIO
+type: parsed
+protocol: mce
+address: 0.28
+command: 15
+#
+name: PICT
+type: parsed
+protocol: mce
+address: 0.28
+command: 16
+#
+name: WIDE
+type: parsed
+protocol: mce
+address: 0.28
+command: 17
+#
+name: PREV CHAN
+type: parsed
+protocol: mce
+address: 0.28
+command: 18
+#
+name: POS
+type: parsed
+protocol: mce
+address: 0.28
+command: 21
+#
+name: PIP SEL
+type: parsed
+protocol: mce
+address: 0.28
+command: 29
+#
+name: GUIDE
+type: parsed
+protocol: mce
+address: 0.28
+command: 33
+#
+name: INFO
+type: parsed
+protocol: mce
+address: 0.28
+command: 34
+#
+name: 0
+type: parsed
+protocol: mce
+address: 0.28
+command: 48
+#
+name: 1
+type: parsed
+protocol: mce
+address: 0.28
+command: 49
+#
+name: 2
+type: parsed
+protocol: mce
+address: 0.28
+command: 50
+#
+name: 3
+type: parsed
+protocol: mce
+address: 0.28
+command: 51
+#
+name: 4
+type: parsed
+protocol: mce
+address: 0.28
+command: 52
+#
+name: 5
+type: parsed
+protocol: mce
+address: 0.28
+command: 53
+#
+name: 6
+type: parsed
+protocol: mce
+address: 0.28
+command: 54
+#
+name: 7
+type: parsed
+protocol: mce
+address: 0.28
+command: 55
+#
+name: 8
+type: parsed
+protocol: mce
+address: 0.28
+command: 56
+#
+name: 9
+type: parsed
+protocol: mce
+address: 0.28
+command: 57
+#
+name: UP
+type: parsed
+protocol: mce
+address: 0.28
+command: 96
+#
+name: DN
+type: parsed
+protocol: mce
+address: 0.28
+command: 97
+#
+name: LEFT
+type: parsed
+protocol: mce
+address: 0.28
+command: 98
+#
+name: RIGHT
+type: parsed
+protocol: mce
+address: 0.28
+command: 99
+#

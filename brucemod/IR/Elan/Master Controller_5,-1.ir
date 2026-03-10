@@ -1,0 +1,81 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 32
+#
+name: CD
+type: parsed
+protocol: recs80_45
+address: 5
+command: 33
+#
+name: TAPE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 34
+#
+name: VCR
+type: parsed
+protocol: recs80_45
+address: 5
+command: 35
+#
+name: LASER
+type: parsed
+protocol: recs80_45
+address: 5
+command: 36
+#
+name: CABLE
+type: parsed
+protocol: recs80_45
+address: 5
+command: 38
+#
+name: TV
+type: parsed
+protocol: recs80_45
+address: 5
+command: 39
+#
+name: AUX 1
+type: parsed
+protocol: recs80_45
+address: 5
+command: 40
+#
+name: AUX 2
+type: parsed
+protocol: recs80_45
+address: 5
+command: 41
+#
+name: AUX 3
+type: parsed
+protocol: recs80_45
+address: 5
+command: 42
+#
+name: AUX 4
+type: parsed
+protocol: recs80_45
+address: 5
+command: 43
+#
+name: AUX 5
+type: parsed
+protocol: recs80_45
+address: 5
+command: 44
+#
+name: DBS
+type: parsed
+protocol: recs80_45
+address: 5
+command: 46
+#

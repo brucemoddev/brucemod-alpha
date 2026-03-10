@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VCR FF >>
+type: parsed
+protocol: emerson
+address: 40
+command: 4
+#
+name: VCR PLAY >
+type: parsed
+protocol: emerson
+address: 40
+command: 10
+#
+name: VCR PAUSE
+type: parsed
+protocol: emerson
+address: 40
+command: 11
+#
+name: VCR REW <<
+type: parsed
+protocol: emerson
+address: 40
+command: 12
+#
+name: VCR STOP []
+type: parsed
+protocol: emerson
+address: 40
+command: 28
+#
+name: VCR POWER
+type: parsed
+protocol: emerson
+address: 40
+command: 32
+#

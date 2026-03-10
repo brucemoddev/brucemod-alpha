@@ -1,0 +1,447 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 0
+#
+name: 0 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 0
+#
+name: 1
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 1
+#
+name: 1 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 1
+#
+name: 2
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 2
+#
+name: 2 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 2
+#
+name: 3
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 3
+#
+name: 3 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 3
+#
+name: 4
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 4
+#
+name: 4 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 4
+#
+name: 6
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 5
+#
+name: 5
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 5
+#
+name: 5 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 5
+#
+name: 6
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 6
+#
+name: 6 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 6
+#
+name: 7
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 7
+#
+name: 7 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 7
+#
+name: 8
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 8
+#
+name: 8 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 8
+#
+name: 9
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 9
+#
+name: 9 B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 9
+#
+name: POWER
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 12
+#
+name: POWER B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 12
+#
+name: MUTE
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 13
+#
+name: MUTE B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 13
+#
+name: I
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 15
+#
+name: I B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 15
+#
+name: VOLUME UP
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 16
+#
+name: VOLUME UP B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 16
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 17
+#
+name: VOLUME DOWN B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 17
+#
+name: CHANNEL UP
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 30
+#
+name: CHANNEL UP B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 30
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 31
+#
+name: CHANNEL DOWN B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 31
+#
+name: FFW >>
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 32
+#
+name: FFW >> B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 32
+#
+name: REW <<
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 33
+#
+name: REW << B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 33
+#
+name: STOP
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 49
+#
+name: STOP B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 49
+#
+name: RECORD
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 55
+#
+name: RECORD B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 55
+#
+name: PLAY
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 56
+#
+name: PLAY B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 56
+#
+name: PAUSE
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 57
+#
+name: PAUSE B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 57
+#
+name: TEXT
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 60
+#
+name: TEXT B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 60
+#
+name: MENU
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 84
+#
+name: MENU B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 84
+#
+name: EXIT
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 85
+#
+name: EXIT B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 85
+#
+name: CURSOR UP
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 88
+#
+name: CURSOR UP B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 88
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 89
+#
+name: CURSOR DOWN B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 89
+#
+name: LEFT
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 90
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 90
+#
+name: CURSOR LEFT B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 90
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 91
+#
+name: CURSOR RIGHT B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 91
+#
+name: CURSOR CENTER/OK
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 92
+#
+name: CURSOR CENTER/OK B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 92
+#
+name: FAV/RED/ROT
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 109
+#
+name: FAV/RED/ROT B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 109
+#
+name: N
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 110
+#
+name: N B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 110
+#
+name: OPT/YELLOW/GELB
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 111
+#
+name: OPT/YELLOW/GELB B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 111
+#
+name: TV/R/BLUE/BLAU
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 112
+#
+name: TV/R/BLUE/BLAU B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 112
+#
+name: EPG
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 204
+#
+name: EPG B
+type: parsed
+protocol: Nokia32
+address: 34.144
+command: 204
+#

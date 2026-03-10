@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CHANNEL +
+type: parsed
+protocol: GI_cable
+address: 0
+command: 11
+#
+name: CHANNEL -
+type: parsed
+protocol: GI_cable
+address: 0
+command: 12
+#
+name: CURSER UP
+type: parsed
+protocol: GI_cable
+address: 0
+command: 52
+#
+name: CURSER DOWN
+type: parsed
+protocol: GI_cable
+address: 0
+command: 53
+#
+name: CURSER LEFT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 54
+#
+name: CURSER RIGHT
+type: parsed
+protocol: GI_cable
+address: 0
+command: 55
+#

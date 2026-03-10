@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT RIGHT
+type: parsed
+protocol: sony20
+address: 26.233
+command: 10
+#
+name: INPUT LEFT
+type: parsed
+protocol: sony20
+address: 26.233
+command: 11
+#
+name: SELECT
+type: parsed
+protocol: sony20
+address: 26.233
+command: 12
+#
+name: MASTER VOL +
+type: parsed
+protocol: sony20
+address: 26.233
+command: 18
+#
+name: MASTER VOL -
+type: parsed
+protocol: sony20
+address: 26.233
+command: 19
+#
+name: MUTE
+type: parsed
+protocol: sony20
+address: 26.233
+command: 20
+#
+name: REAR BAL L
+type: parsed
+protocol: sony20
+address: 26.233
+command: 38
+#
+name: REAR BAL R
+type: parsed
+protocol: sony20
+address: 26.233
+command: 39
+#
+name: BYPASS
+type: parsed
+protocol: sony20
+address: 26.233
+command: 50
+#
+name: OFF
+type: parsed
+protocol: sony20
+address: 26.233
+command: 56
+#
+name: DOLBY SURR
+type: parsed
+protocol: sony20
+address: 26.233
+command: 61
+#
+name: MODE
+type: parsed
+protocol: sony20
+address: 26.233
+command: 62
+#
+name: EFFECT +
+type: parsed
+protocol: sony20
+address: 26.233
+command: 66
+#
+name: EFFECT -
+type: parsed
+protocol: sony20
+address: 26.233
+command: 67
+#
+name: TEST
+type: parsed
+protocol: sony20
+address: 26.233
+command: 74
+#
+name: DISPLAY
+type: parsed
+protocol: sony20
+address: 26.233
+command: 75
+#
+name: FRONT BAL L
+type: parsed
+protocol: sony20
+address: 26.233
+command: 76
+#
+name: FRONT BAL R
+type: parsed
+protocol: sony20
+address: 26.233
+command: 77
+#
+name: REAR +
+type: parsed
+protocol: sony20
+address: 26.233
+command: 78
+#
+name: REAR -
+type: parsed
+protocol: sony20
+address: 26.233
+command: 79
+#
+name: CENTER +
+type: parsed
+protocol: sony20
+address: 26.233
+command: 84
+#
+name: CENTER -
+type: parsed
+protocol: sony20
+address: 26.233
+command: 85
+#
+name: SUB +
+type: parsed
+protocol: sony20
+address: 26.233
+command: 86
+#
+name: SUB -
+type: parsed
+protocol: sony20
+address: 26.233
+command: 87
+#
+name: MENU SELECT +
+type: parsed
+protocol: sony20
+address: 26.233
+command: 120
+#
+name: MENU SELECT -
+type: parsed
+protocol: sony20
+address: 26.233
+command: 121
+#
+name: MENU SELECT UP
+type: parsed
+protocol: sony20
+address: 26.233
+command: 122
+#
+name: MENU SELECT DWN
+type: parsed
+protocol: sony20
+address: 26.233
+command: 123
+#

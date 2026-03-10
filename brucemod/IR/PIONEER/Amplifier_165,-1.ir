@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 4
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 7
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 8
+#
+name: VOLUME +
+type: parsed
+protocol: pioneer
+address: 165
+command: 10
+#
+name: VOLUME -
+type: parsed
+protocol: pioneer
+address: 165
+command: 11
+#
+name: SAT
+type: parsed
+protocol: pioneer
+address: 165
+command: 13
+#
+name: VCR2
+type: parsed
+protocol: pioneer
+address: 165
+command: 14
+#
+name: VCR1
+type: parsed
+protocol: pioneer
+address: 165
+command: 15
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 165
+command: 28
+#
+name: DSP
+type: parsed
+protocol: pioneer
+address: 165
+command: 64
+#
+name: CH. LEVEL -
+type: parsed
+protocol: pioneer
+address: 165
+command: 65
+#
+name: CH. LEVEL +
+type: parsed
+protocol: pioneer
+address: 165
+command: 66
+#
+name: TUNER
+type: parsed
+protocol: pioneer
+address: 165
+command: 71
+#
+name: CD
+type: parsed
+protocol: pioneer
+address: 165
+command: 76
+#
+name: TAPE 1
+type: parsed
+protocol: pioneer
+address: 165
+command: 78
+#
+name: CH SELECT
+type: parsed
+protocol: pioneer
+address: 165
+command: 86
+#
+name: ATT
+type: parsed
+protocol: pioneer
+address: 165
+command: 94
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 94
+#
+name: DOLBY
+type: parsed
+protocol: pioneer
+address: 165
+command: 94
+#
+name: MUTE
+type: parsed
+protocol: pioneer
+address: 165
+command: 94
+#
+name: RIGHT CURSOR
+type: parsed
+protocol: pioneer
+address: 165
+command: 130
+#
+name: LEFT CURSOR
+type: parsed
+protocol: pioneer
+address: 165
+command: 131
+#
+name: ENTER
+type: parsed
+protocol: pioneer
+address: 165
+command: 132
+#
+name: DVD
+type: parsed
+protocol: pioneer
+address: 165
+command: 133
+#
+name: SETUP
+type: parsed
+protocol: pioneer
+address: 165
+command: 155
+#
+name: STEREO
+type: parsed
+protocol: pioneer
+address: 165
+command: 159
+#
+name: THX
+type: parsed
+protocol: pioneer
+address: 165
+command: 159
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 192
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 209
+#
+name: 
+type: parsed
+protocol: pioneer
+address: 165
+command: 214
+#

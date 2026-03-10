@@ -1,0 +1,279 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: nec1
+address: 64.64
+command: 0
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 64.64
+command: 1
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 64.64
+command: 2
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 64.64
+command: 3
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 64.64
+command: 4
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 64.64
+command: 5
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 64.64
+command: 6
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 64.64
+command: 7
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 64.64
+command: 8
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 64.64
+command: 9
+#
+name: POWER
+type: parsed
+protocol: nec1
+address: 64.64
+command: 10
+#
+name: CURSOR UP
+type: parsed
+protocol: nec1
+address: 64.64
+command: 11
+#
+name: MUTE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 12
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 64.64
+command: 13
+#
+name: OK
+type: parsed
+protocol: nec1
+address: 64.64
+command: 13
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 64.64
+command: 14
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 16
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 17
+#
+name: FUNC
+type: parsed
+protocol: nec1
+address: 64.64
+command: 19
+#
+name: FAV
+type: parsed
+protocol: nec1
+address: 64.64
+command: 20
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 64.64
+command: 21
+#
+name: RED
+type: parsed
+protocol: nec1
+address: 64.64
+command: 22
+#
+name: GREEN
+type: parsed
+protocol: nec1
+address: 64.64
+command: 23
+#
+name: YELLOW
+type: parsed
+protocol: nec1
+address: 64.64
+command: 24
+#
+name: BLUE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 25
+#
+name: EPG
+type: parsed
+protocol: nec1
+address: 64.64
+command: 26
+#
+name: A/V
+type: parsed
+protocol: nec1
+address: 64.64
+command: 27
+#
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 64.64
+command: 28
+#
+name: CHANNEL -
+type: parsed
+protocol: nec1
+address: 64.64
+command: 30
+#
+name: CHANNEL +
+type: parsed
+protocol: nec1
+address: 64.64
+command: 31
+#
+name: STOP
+type: parsed
+protocol: nec1
+address: 64.64
+command: 48
+#
+name: PAUSE
+type: parsed
+protocol: nec1
+address: 64.64
+command: 49
+#
+name: PLAY
+type: parsed
+protocol: nec1
+address: 64.64
+command: 50
+#
+name: RECORD
+type: parsed
+protocol: nec1
+address: 64.64
+command: 51
+#
+name: REW
+type: parsed
+protocol: nec1
+address: 64.64
+command: 53
+#
+name: FF
+type: parsed
+protocol: nec1
+address: 64.64
+command: 54
+#
+name: MARK
+type: parsed
+protocol: nec1
+address: 64.64
+command: 57
+#
+name: JUMP
+type: parsed
+protocol: nec1
+address: 64.64
+command: 58
+#
+name: *
+type: parsed
+protocol: nec1
+address: 64.64
+command: 59
+#
+name: MENU
+type: parsed
+protocol: nec1
+address: 64.64
+command: 64
+#
+name: EXIT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 65
+#
+name: INFO
+type: parsed
+protocol: nec1
+address: 64.64
+command: 66
+#
+name: A-Z
+type: parsed
+protocol: nec1
+address: 64.64
+command: 68
+#
+name: OPT
+type: parsed
+protocol: nec1
+address: 64.64
+command: 71
+#
+name: PAGE DWN
+type: parsed
+protocol: nec1
+address: 64.64
+command: 75
+#
+name: PAGE UO
+type: parsed
+protocol: nec1
+address: 64.64
+command: 78
+#

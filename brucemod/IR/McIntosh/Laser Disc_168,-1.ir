@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: pioneer
+address: 168
+command: 0
+#
+name: 1
+type: parsed
+protocol: pioneer
+address: 168
+command: 1
+#
+name: 2
+type: parsed
+protocol: pioneer
+address: 168
+command: 2
+#
+name: 3
+type: parsed
+protocol: pioneer
+address: 168
+command: 3
+#
+name: 4
+type: parsed
+protocol: pioneer
+address: 168
+command: 4
+#
+name: 5
+type: parsed
+protocol: pioneer
+address: 168
+command: 5
+#
+name: 6
+type: parsed
+protocol: pioneer
+address: 168
+command: 6
+#
+name: 7
+type: parsed
+protocol: pioneer
+address: 168
+command: 7
+#
+name: 8
+type: parsed
+protocol: pioneer
+address: 168
+command: 8
+#
+name: 9
+type: parsed
+protocol: pioneer
+address: 168
+command: 9
+#
+name: SCAN >>
+type: parsed
+protocol: pioneer
+address: 168
+command: 16
+#
+name: SCAN <<
+type: parsed
+protocol: pioneer
+address: 168
+command: 17
+#
+name: CHAPTER
+type: parsed
+protocol: pioneer
+address: 168
+command: 19
+#
+name: STOP/EJECT
+type: parsed
+protocol: pioneer
+address: 168
+command: 22
+#
+name: PLAY
+type: parsed
+protocol: pioneer
+address: 168
+command: 23
+#
+name: PAUSE
+type: parsed
+protocol: pioneer
+address: 168
+command: 24
+#
+name: POWER
+type: parsed
+protocol: pioneer
+address: 168
+command: 28
+#
+name: AUDIO MODE
+type: parsed
+protocol: pioneer
+address: 168
+command: 30
+#
+name: 10 +
+type: parsed
+protocol: pioneer
+address: 168
+command: 31
+#
+name: DISC SIDE A
+type: parsed
+protocol: pioneer
+address: 168
+command: 77
+#
+name: DISC SIDE B
+type: parsed
+protocol: pioneer
+address: 168
+command: 78
+#
+name: STEP -
+type: parsed
+protocol: pioneer
+address: 168
+command: 80
+#
+name: NEXT
+type: parsed
+protocol: pioneer
+address: 168
+command: 82
+#
+name: BACK
+type: parsed
+protocol: pioneer
+address: 168
+command: 83
+#
+name: STEP +
+type: parsed
+protocol: pioneer
+address: 168
+command: 84
+#

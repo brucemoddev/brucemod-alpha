@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_2
+type: parsed
+protocol: recs80_45
+address: 7
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: recs80_45
+address: 7
+command: 3
+#
+name: KEY_1
+type: parsed
+protocol: recs80_45
+address: 7
+command: 4
+#
+name: KEY_4
+type: parsed
+protocol: recs80_45
+address: 7
+command: 5
+#
+name: KEY_5
+type: parsed
+protocol: recs80_45
+address: 7
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: recs80_45
+address: 7
+command: 10
+#
+name: KEY_8
+type: parsed
+protocol: recs80_45
+address: 7
+command: 11
+#
+name: KEY_6
+type: parsed
+protocol: recs80_45
+address: 7
+command: 12
+#
+name: KEY_9
+type: parsed
+protocol: recs80_45
+address: 7
+command: 13
+#
+name: KEY_0
+type: parsed
+protocol: recs80_45
+address: 7
+command: 14
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 18
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 20
+#
+name: Lum+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 21
+#
+name: Col+
+type: parsed
+protocol: recs80_45
+address: 7
+command: 22
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 26
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: recs80_45
+address: 7
+command: 28
+#
+name: Lum-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 29
+#
+name: Col-
+type: parsed
+protocol: recs80_45
+address: 7
+command: 30
+#
+name: V-M
+type: parsed
+protocol: recs80_45
+address: 7
+command: 34
+#
+name: P/C
+type: parsed
+protocol: recs80_45
+address: 7
+command: 36
+#
+name: Muto
+type: parsed
+protocol: recs80_45
+address: 7
+command: 37
+#
+name: L1-L2
+type: parsed
+protocol: recs80_45
+address: 7
+command: 38
+#
+name: Canc
+type: parsed
+protocol: recs80_45
+address: 7
+command: 42
+#
+name: TV-TVD
+type: parsed
+protocol: recs80_45
+address: 7
+command: 43
+#
+name: KEY_STOP
+type: parsed
+protocol: recs80_45
+address: 7
+command: 44
+#
+name: All
+type: parsed
+protocol: recs80_45
+address: 7
+command: 45
+#
+name: Riv
+type: parsed
+protocol: recs80_45
+address: 7
+command: 46
+#
+name: spento
+type: parsed
+protocol: recs80_45
+address: 7
+command: 51
+#
+name: Ora
+type: parsed
+protocol: recs80_45
+address: 7
+command: 52
+#
+name: AV
+type: parsed
+protocol: recs80_45
+address: 7
+command: 54
+#

@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CD PLAY >
+type: parsed
+protocol: nec1
+address: 121
+command: 2
+#
+name: CD CHAPTER <<
+type: parsed
+protocol: nec1
+address: 121
+command: 4
+#
+name: CD SEARCH <<
+type: parsed
+protocol: nec1
+address: 121
+command: 5
+#
+name: CD SEARCH >>
+type: parsed
+protocol: nec1
+address: 121
+command: 6
+#
+name: CD CHAPTER >>
+type: parsed
+protocol: nec1
+address: 121
+command: 7
+#
+name: CD STOP []
+type: parsed
+protocol: nec1
+address: 121
+command: 86
+#

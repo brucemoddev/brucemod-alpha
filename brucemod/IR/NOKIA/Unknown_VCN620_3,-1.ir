@@ -1,0 +1,171 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sharp_1
+address: 3
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: sharp_1
+address: 3
+command: 2
+#
+name: KEY_3
+type: parsed
+protocol: sharp_1
+address: 3
+command: 3
+#
+name: KEY_4
+type: parsed
+protocol: sharp_1
+address: 3
+command: 4
+#
+name: KEY_5
+type: parsed
+protocol: sharp_1
+address: 3
+command: 5
+#
+name: KEY_6
+type: parsed
+protocol: sharp_1
+address: 3
+command: 6
+#
+name: KEY_7
+type: parsed
+protocol: sharp_1
+address: 3
+command: 7
+#
+name: KEY_8
+type: parsed
+protocol: sharp_1
+address: 3
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: sharp_1
+address: 3
+command: 9
+#
+name: KEY_0
+type: parsed
+protocol: sharp_1
+address: 3
+command: 10
+#
+name: KEY_TIME
+type: parsed
+protocol: sharp_1
+address: 3
+command: 14
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sharp_1
+address: 3
+command: 17
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: sharp_1
+address: 3
+command: 18
+#
+name: KEY_POWER
+type: parsed
+protocol: sharp_1
+address: 3
+command: 22
+#
+name: TIMER
+type: parsed
+protocol: sharp_1
+address: 3
+command: 25
+#
+name: KEY_CLEAR
+type: parsed
+protocol: sharp_1
+address: 3
+command: 32
+#
+name: KEY_RIGHT
+type: parsed
+protocol: sharp_1
+address: 3
+command: 33
+#
+name: KEY_UP
+type: parsed
+protocol: sharp_1
+address: 3
+command: 34
+#
+name: KEY_LEFT
+type: parsed
+protocol: sharp_1
+address: 3
+command: 35
+#
+name: KEY_GREEN
+type: parsed
+protocol: sharp_1
+address: 3
+command: 37
+#
+name: KEY_DOWN
+type: parsed
+protocol: sharp_1
+address: 3
+command: 39
+#
+name: KEY_RECORD
+type: parsed
+protocol: sharp_1
+address: 3
+command: 40
+#
+name: KEY_RED
+type: parsed
+protocol: sharp_1
+address: 3
+command: 41
+#
+name: KEY_BLUE
+type: parsed
+protocol: sharp_1
+address: 3
+command: 47
+#
+name: KEY_YELLOW
+type: parsed
+protocol: sharp_1
+address: 3
+command: 48
+#
+name: PIP
+type: parsed
+protocol: sharp_1
+address: 3
+command: 140
+#
+name: PROG
+type: parsed
+protocol: sharp_1
+address: 3
+command: 152
+#
+name: KEY_OK
+type: parsed
+protocol: sharp_1
+address: 3
+command: 154
+#

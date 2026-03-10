@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: DVD/HD
+type: parsed
+protocol: nec1
+address: 24.24
+command: 28
+#
+name: CHANGE SCRN SIZE
+type: parsed
+protocol: nec1
+address: 24.24
+command: 173
+#
+name: CURSOR DOWN
+type: parsed
+protocol: nec1
+address: 24.24
+command: 177
+#
+name: CURSOR LEFT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 178
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: nec1
+address: 24.24
+command: 179
+#
+name: POWER OFF
+type: parsed
+protocol: nec1
+address: 24.24
+command: 192
+#
+name: RGB/PC1
+type: parsed
+protocol: nec2
+address: 24.24
+command: 193
+#
+name: RGB/PC2
+type: parsed
+protocol: nec2
+address: 24.24
+command: 194
+#
+name: RGB/PC3
+type: parsed
+protocol: nec2
+address: 24.24
+command: 195
+#
+name: CURSOR ENTER
+type: parsed
+protocol: nec1
+address: 24.24
+command: 196
+#
+name: POINTER
+type: parsed
+protocol: nec1
+address: 24.24
+command: 201
+#
+name: ZOOM +
+type: parsed
+protocol: nec1
+address: 24.24
+command: 202
+#
+name: ZOOM -
+type: parsed
+protocol: nec1
+address: 24.24
+command: 203
+#
+name: MULTISCREEN
+type: parsed
+protocol: nec1
+address: 24.24
+command: 204
+#
+name: DVD/HD2
+type: parsed
+protocol: nec1
+address: 24.24
+command: 220
+#
+name: DVD/HD1
+type: parsed
+protocol: nec1
+address: 24.24
+command: 235
+#

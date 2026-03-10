@@ -1,0 +1,75 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: AMPLIFIER ON
+type: parsed
+protocol: recs80_45
+address: 7
+command: 51
+#
+name: RECORD OFF
+type: parsed
+protocol: recs80_45
+address: 7
+command: 52
+#
+name: RECORD ON
+type: parsed
+protocol: recs80_45
+address: 7
+command: 53
+#
+name: REGULAR POLARITY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 54
+#
+name: INVERT POLARITY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 55
+#
+name: HALF INTENSITY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 56
+#
+name: FULL INTENSITY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 57
+#
+name: RECORD MODE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 58
+#
+name: MONITOR MODE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 59
+#
+name: OPERATE
+type: parsed
+protocol: recs80_45
+address: 7
+command: 60
+#
+name: STANDBY
+type: parsed
+protocol: recs80_45
+address: 7
+command: 61
+#
+name: MUTE (DISCREET)
+type: parsed
+protocol: recs80_45
+address: 7
+command: 62
+#

@@ -1,0 +1,129 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 66.253
+command: 0
+#
+name: KEY_3
+type: parsed
+protocol: nec
+address: 66.253
+command: 1
+#
+name: KEY_2
+type: parsed
+protocol: nec
+address: 66.253
+command: 2
+#
+name: KEY_1
+type: parsed
+protocol: nec
+address: 66.253
+command: 3
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 66.253
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: nec
+address: 66.253
+command: 5
+#
+name: KEY_5
+type: parsed
+protocol: nec
+address: 66.253
+command: 6
+#
+name: KEY_4
+type: parsed
+protocol: nec
+address: 66.253
+command: 7
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 66.253
+command: 8
+#
+name: KEY_9
+type: parsed
+protocol: nec
+address: 66.253
+command: 9
+#
+name: KEY_8
+type: parsed
+protocol: nec
+address: 66.253
+command: 10
+#
+name: KEY_7
+type: parsed
+protocol: nec
+address: 66.253
+command: 11
+#
+name: TUNE_UP
+type: parsed
+protocol: nec
+address: 66.253
+command: 13
+#
+name: KEY_0
+type: parsed
+protocol: nec
+address: 66.253
+command: 15
+#
+name: DECODER
+type: parsed
+protocol: nec
+address: 66.253
+command: 20
+#
+name: KEY_AUDIO
+type: parsed
+protocol: nec
+address: 66.253
+command: 22
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 66.253
+command: 24
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 66.253
+command: 25
+#
+name: TUNE_DOWN
+type: parsed
+protocol: nec
+address: 66.253
+command: 29
+#
+name: KEY_VIDEO
+type: parsed
+protocol: nec
+address: 66.253
+command: 30
+#
+name: H/V
+type: parsed
+protocol: nec
+address: 66.253
+command: 31
+#

@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: but_8
+type: parsed
+protocol: nec
+address: 80
+command: 4
+#
+name: but_9
+type: parsed
+protocol: nec
+address: 80
+command: 5
+#
+name: tv/video
+type: parsed
+protocol: nec
+address: 80
+command: 9
+#
+name: KEY_MUTE
+type: parsed
+protocol: nec
+address: 80
+command: 11
+#
+name: but_10
+type: parsed
+protocol: nec
+address: 80
+command: 12
+#
+name: but_1
+type: parsed
+protocol: nec
+address: 80
+command: 13
+#
+name: but_2
+type: parsed
+protocol: nec
+address: 80
+command: 14
+#
+name: but_3
+type: parsed
+protocol: nec
+address: 80
+command: 15
+#
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 80
+command: 16
+#
+name: timer
+type: parsed
+protocol: nec
+address: 80
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: nec
+address: 80
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: nec
+address: 80
+command: 21
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 80
+command: 23
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: nec
+address: 80
+command: 24
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: nec
+address: 80
+command: 25
+#
+name: but_4
+type: parsed
+protocol: nec
+address: 80
+command: 28
+#
+name: but_5
+type: parsed
+protocol: nec
+address: 80
+command: 29
+#
+name: but_6
+type: parsed
+protocol: nec
+address: 80
+command: 30
+#
+name: but_7
+type: parsed
+protocol: nec
+address: 80
+command: 31
+#
+name: KEY_OK
+type: parsed
+protocol: nec
+address: 80
+command: 68
+#
+name: KEY_MENU
+type: parsed
+protocol: nec
+address: 80
+command: 83
+#
+name: krasn
+type: parsed
+protocol: nec
+address: 80
+command: 91
+#
+name: zelen
+type: parsed
+protocol: nec
+address: 80
+command: 92
+#
+name: jolt
+type: parsed
+protocol: nec
+address: 80
+command: 93
+#
+name: zelen
+type: parsed
+protocol: nec
+address: 80
+command: 94
+#

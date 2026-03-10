@@ -1,0 +1,183 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_1
+type: parsed
+protocol: sony12
+address: 1
+command: 0
+#
+name: KEY_2
+type: parsed
+protocol: sony12
+address: 1
+command: 1
+#
+name: KEY_3
+type: parsed
+protocol: sony12
+address: 1
+command: 2
+#
+name: KEY_4
+type: parsed
+protocol: sony12
+address: 1
+command: 3
+#
+name: KEY_5
+type: parsed
+protocol: sony12
+address: 1
+command: 4
+#
+name: KEY_6
+type: parsed
+protocol: sony12
+address: 1
+command: 5
+#
+name: KEY_7
+type: parsed
+protocol: sony12
+address: 1
+command: 6
+#
+name: KEY_8
+type: parsed
+protocol: sony12
+address: 1
+command: 7
+#
+name: KEY_9
+type: parsed
+protocol: sony12
+address: 1
+command: 8
+#
+name: KEY_0
+type: parsed
+protocol: sony12
+address: 1
+command: 9
+#
+name: KEY_OK
+type: parsed
+protocol: sony12
+address: 1
+command: 11
+#
+name: ch_guide
+type: parsed
+protocol: sony12
+address: 1
+command: 14
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: sony12
+address: 1
+command: 16
+#
+name: chDN
+type: parsed
+protocol: sony12
+address: 1
+command: 17
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: sony12
+address: 1
+command: 18
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: sony12
+address: 1
+command: 19
+#
+name: muting
+type: parsed
+protocol: sony12
+address: 1
+command: 20
+#
+name: KEY_POWER
+type: parsed
+protocol: sony12
+address: 1
+command: 21
+#
+name: reset
+type: parsed
+protocol: sony12
+address: 1
+command: 22
+#
+name: mts
+type: parsed
+protocol: sony12
+address: 1
+command: 23
+#
+name: tv/video
+type: parsed
+protocol: sony12
+address: 1
+command: 37
+#
+name: surround
+type: parsed
+protocol: sony12
+address: 1
+command: 41
+#
+name: KEY_SLEEP
+type: parsed
+protocol: sony12
+address: 1
+command: 54
+#
+name: display
+type: parsed
+protocol: sony12
+address: 1
+command: 58
+#
+name: jump
+type: parsed
+protocol: sony12
+address: 1
+command: 59
+#
+name: KEY_MENU
+type: parsed
+protocol: sony12
+address: 1
+command: 96
+#
+name: KEY_OK
+type: parsed
+protocol: sony12
+address: 1
+command: 101
+#
+name: auto_pgm
+type: parsed
+protocol: sony12
+address: 1
+command: 107
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: sony12
+address: 1
+command: 116
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: sony12
+address: 1
+command: 117
+#

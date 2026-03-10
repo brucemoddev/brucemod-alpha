@@ -1,0 +1,33 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: VOLUME -
+type: parsed
+protocol: nec1
+address: 51.170
+command: 0
+#
+name: SKIP >>
+type: parsed
+protocol: nec1
+address: 51.170
+command: 4
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: nec1
+address: 51.170
+command: 8
+#
+name: SKIP <<
+type: parsed
+protocol: nec1
+address: 51.170
+command: 12
+#
+name: VOLUME +
+type: parsed
+protocol: nec1
+address: 51.170
+command: 23
+#

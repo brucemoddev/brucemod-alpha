@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx1
+address: 1.114
+command: 30
+#
+name: Mute
+type: parsed
+protocol: necx1
+address: 1.114
+command: 92
+#
+name: Vol_Up
+type: parsed
+protocol: necx1
+address: 1.114
+command: 10
+#
+name: VOL_DN
+type: parsed
+protocol: necx1
+address: 1.114
+command: 6
+#
+name: CH_NEXT
+type: parsed
+protocol: necx1
+address: 1.114
+command: 72
+#
+name: CH_PREV
+type: parsed
+protocol: necx1
+address: 1.114
+command: 68
+#
+name: source
+type: parsed
+protocol: necx1
+address: 1.114
+command: 7
+#
+name: 1
+type: parsed
+protocol: necx1
+address: 1.114
+command: 26
+#
+name: 2
+type: parsed
+protocol: necx1
+address: 1.114
+command: 31
+#
+name: 3
+type: parsed
+protocol: necx1
+address: 1.114
+command: 88
+#
+name: 4
+type: parsed
+protocol: necx1
+address: 1.114
+command: 22
+#
+name: 5
+type: parsed
+protocol: necx1
+address: 1.114
+command: 27
+#
+name: 6
+type: parsed
+protocol: necx1
+address: 1.114
+command: 84
+#
+name: 7
+type: parsed
+protocol: necx1
+address: 1.114
+command: 18
+#
+name: 8
+type: parsed
+protocol: necx1
+address: 1.114
+command: 23
+#
+name: 9
+type: parsed
+protocol: necx1
+address: 1.114
+command: 80
+#
+name: 0
+type: parsed
+protocol: necx1
+address: 1.114
+command: 19
+#
+name: Ok
+type: parsed
+protocol: necx1
+address: 1.114
+command: 95
+#
+name: Up
+type: parsed
+protocol: necx1
+address: 1.114
+command: 3
+#
+name: Down
+type: parsed
+protocol: necx1
+address: 1.114
+command: 94
+#
+name: Left
+type: parsed
+protocol: necx1
+address: 1.114
+command: 2
+#
+name: Right
+type: parsed
+protocol: necx1
+address: 1.114
+command: 64
+#
+name: Menu
+type: parsed
+protocol: necx1
+address: 1.114
+command: 28
+#
+name: Exit
+type: parsed
+protocol: necx1
+address: 1.114
+command: 24
+#

@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: nec2
+address: 44
+command: 30
+#
+name: CINEMA SOUND
+type: parsed
+protocol: nec2
+address: 44
+command: 144
+#
+name: Vol_Up
+type: parsed
+protocol: nec2
+address: 44
+command: 23
+#
+name: VOL_DN
+type: parsed
+protocol: nec2
+address: 44
+command: 22
+#
+name: Mute
+type: parsed
+protocol: nec2
+address: 44
+command: 31
+#
+name: Optical
+type: parsed
+protocol: nec2
+address: 44
+command: 182
+#
+name: LG TV
+type: parsed
+protocol: nec2
+address: 44
+command: 209
+#
+name: BLUETOOTH
+type: parsed
+protocol: nec2
+address: 44
+command: 50
+#

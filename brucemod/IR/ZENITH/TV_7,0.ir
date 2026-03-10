@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INFO
+type: parsed
+protocol: zenith
+address: 7.0
+command: 25
+#
+name: PICTURE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 28
+#
+name: CLEAR
+type: parsed
+protocol: zenith
+address: 7.0
+command: 50
+#
+name: INPUT - DBS
+type: parsed
+protocol: zenith
+address: 7.0
+command: 74
+#
+name: VCR PLUS +
+type: parsed
+protocol: zenith
+address: 7.0
+command: 105
+#
+name: RECORD
+type: parsed
+protocol: zenith
+address: 7.0
+command: 120
+#
+name: GUIDE
+type: parsed
+protocol: zenith
+address: 7.0
+command: 125
+#
+name: QUIT
+type: parsed
+protocol: zenith
+address: 7.0
+command: 126
+#

@@ -1,0 +1,153 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: M2
+type: parsed
+protocol: rc5
+address: 25
+command: 0
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 0
+#
+name: DVD
+type: parsed
+protocol: rc5
+address: 25
+command: 1
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 1
+#
+name: LD
+type: parsed
+protocol: rc5
+address: 25
+command: 2
+#
+name: SAT
+type: parsed
+protocol: rc5
+address: 25
+command: 3
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 3
+#
+name: VCR
+type: parsed
+protocol: rc5
+address: 25
+command: 4
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 4
+#
+name: TV
+type: parsed
+protocol: rc5
+address: 25
+command: 5
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 5
+#
+name: CD
+type: parsed
+protocol: rc5
+address: 25
+command: 6
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 6
+#
+name: TUN
+type: parsed
+protocol: rc5
+address: 25
+command: 7
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 7
+#
+name: AUX1
+type: parsed
+protocol: rc5
+address: 25
+command: 8
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 8
+#
+name: AUX2
+type: parsed
+protocol: rc5
+address: 25
+command: 9
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 9
+#
+name: MAIN
+type: parsed
+protocol: rc5
+address: 25
+command: 10
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 10
+#
+name: Z2
+type: parsed
+protocol: rc5
+address: 25
+command: 11
+#
+name: 
+type: parsed
+protocol: rc5
+address: 25
+command: 11
+#
+name: THX
+type: parsed
+protocol: rc5
+address: 25
+command: 33
+#
+name: PRE
+type: parsed
+protocol: rc5
+address: 25
+command: 35
+#

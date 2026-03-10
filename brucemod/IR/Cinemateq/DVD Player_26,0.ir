@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 1
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 2
+#
+name: 2
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 5
+#
+name: 3
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 6
+#
+name: 4
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 9
+#
+name: 5
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 10
+#
+name: 6
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 13
+#
+name: 7
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 14
+#
+name: 8
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 17
+#
+name: 9
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 18
+#
+name: 0
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 21
+#
+name: EJECT
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 22
+#
+name: UP
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 25
+#
+name: DOWN
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 26
+#
+name: LEFT
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 29
+#
+name: OK
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 30
+#
+name: RIGHT
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 33
+#
+name: ANGEL
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 34
+#
+name: TITEL + KAPITEL
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 37
+#
+name: SETUP
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 38
+#
+name: AUDIO MODE
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 41
+#
+name: CK
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 42
+#
+name: SUB TITLE
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 45
+#
+name: KAPITEL <
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 46
+#
+name: 
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 49
+#
+name: KAPITEL >
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 50
+#
+name: ZEITLUPE <
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 53
+#
+name: ZEITLUPE >
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 57
+#
+name: A-B
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 58
+#
+name: REPEAT
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 61
+#
+name: ZOOM
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 62
+#
+name: OPTION
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 65
+#
+name: ZUFALLSWIEDERGABE
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 66
+#
+name: STOP
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 69
+#
+name: PAUSE
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 70
+#
+name: PLAY
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 73
+#
+name: SUCHLAUF <<
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 74
+#
+name: SUCHLAUF >>
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 77
+#
+name: POWER ON
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 78
+#
+name: POWER OFF
+type: parsed
+protocol: canalsat
+address: 26.0
+command: 81
+#

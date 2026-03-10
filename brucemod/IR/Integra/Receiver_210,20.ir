@@ -1,0 +1,351 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: TUNE UP
+type: parsed
+protocol: nec1
+address: 210.20
+command: 64
+#
+name: Z2 TUNING UP
+type: parsed
+protocol: nec1
+address: 210.20
+command: 64
+#
+name: TUNE DOWN
+type: parsed
+protocol: nec1
+address: 210.20
+command: 65
+#
+name: Z2 TUNING DOWN
+type: parsed
+protocol: nec1
+address: 210.20
+command: 65
+#
+name: SEARCH MODE
+type: parsed
+protocol: nec1
+address: 210.20
+command: 77
+#
+name: XM SEARCH MODE
+type: parsed
+protocol: nec1
+address: 210.20
+command: 77
+#
+name: NET TUNE FFWD
+type: parsed
+protocol: nec2
+address: 210.20
+command: 128
+#
+name: NET TUNE REW
+type: parsed
+protocol: nec2
+address: 210.20
+command: 129
+#
+name: NET TUNE RETURN
+type: parsed
+protocol: nec1
+address: 210.20
+command: 134
+#
+name: MUSIC SERVER
+type: parsed
+protocol: nec1
+address: 210.20
+command: 136
+#
+name: INTERNET RADIO
+type: parsed
+protocol: nec1
+address: 210.20
+command: 137
+#
+name: NET TUNE PLAY
+type: parsed
+protocol: nec1
+address: 210.20
+command: 141
+#
+name: NET TUNE STOP
+type: parsed
+protocol: nec1
+address: 210.20
+command: 142
+#
+name: NET TUNE TRACK +
+type: parsed
+protocol: nec1
+address: 210.20
+command: 143
+#
+name: NET TUNE TRACK -
+type: parsed
+protocol: nec1
+address: 210.20
+command: 144
+#
+name: NET TUNE PAUSE
+type: parsed
+protocol: nec1
+address: 210.20
+command: 145
+#
+name: NET TUNE REPEAT
+type: parsed
+protocol: nec1
+address: 210.20
+command: 146
+#
+name: NET TUNE RANDOM
+type: parsed
+protocol: nec1
+address: 210.20
+command: 147
+#
+name: NET TUNE DISPLAY
+type: parsed
+protocol: nec1
+address: 210.20
+command: 158
+#
+name: NET TUNE UP
+type: parsed
+protocol: nec2
+address: 210.20
+command: 192
+#
+name: NET TUNE DOWN
+type: parsed
+protocol: nec2
+address: 210.20
+command: 193
+#
+name: NET TUNE LEFT
+type: parsed
+protocol: nec2
+address: 210.20
+command: 194
+#
+name: NET TUNE RIGHT
+type: parsed
+protocol: nec2
+address: 210.20
+command: 195
+#
+name: NET TUNE SELECT
+type: parsed
+protocol: nec1
+address: 210.20
+command: 196
+#
+name: 1
+type: parsed
+protocol: nec1
+address: 210.20
+command: 213
+#
+name: NET TUNE 1
+type: parsed
+protocol: nec1
+address: 210.20
+command: 213
+#
+name: Z2 1
+type: parsed
+protocol: nec1
+address: 210.20
+command: 213
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.20
+command: 213
+#
+name: 2
+type: parsed
+protocol: nec1
+address: 210.20
+command: 214
+#
+name: NET TUNE 2
+type: parsed
+protocol: nec1
+address: 210.20
+command: 214
+#
+name: Z2 2
+type: parsed
+protocol: nec1
+address: 210.20
+command: 214
+#
+name: 3
+type: parsed
+protocol: nec1
+address: 210.20
+command: 215
+#
+name: NET TUNE 3
+type: parsed
+protocol: nec1
+address: 210.20
+command: 215
+#
+name: Z2 3
+type: parsed
+protocol: nec1
+address: 210.20
+command: 215
+#
+name: 4
+type: parsed
+protocol: nec1
+address: 210.20
+command: 216
+#
+name: NET TUNE 4
+type: parsed
+protocol: nec1
+address: 210.20
+command: 216
+#
+name: Z2 4
+type: parsed
+protocol: nec1
+address: 210.20
+command: 216
+#
+name: 5
+type: parsed
+protocol: nec1
+address: 210.20
+command: 217
+#
+name: NET TUNE 5
+type: parsed
+protocol: nec1
+address: 210.20
+command: 217
+#
+name: Z2 5
+type: parsed
+protocol: nec1
+address: 210.20
+command: 217
+#
+name: 6
+type: parsed
+protocol: nec1
+address: 210.20
+command: 218
+#
+name: NET TUNE 6
+type: parsed
+protocol: nec1
+address: 210.20
+command: 218
+#
+name: Z2 6
+type: parsed
+protocol: nec1
+address: 210.20
+command: 218
+#
+name: 7
+type: parsed
+protocol: nec1
+address: 210.20
+command: 219
+#
+name: NET TUNE 7
+type: parsed
+protocol: nec1
+address: 210.20
+command: 219
+#
+name: Z2 7
+type: parsed
+protocol: nec1
+address: 210.20
+command: 219
+#
+name: 8
+type: parsed
+protocol: nec1
+address: 210.20
+command: 220
+#
+name: NET TUNE 8
+type: parsed
+protocol: nec1
+address: 210.20
+command: 220
+#
+name: Z2 8
+type: parsed
+protocol: nec1
+address: 210.20
+command: 220
+#
+name: 9
+type: parsed
+protocol: nec1
+address: 210.20
+command: 221
+#
+name: NET TUNE 9
+type: parsed
+protocol: nec1
+address: 210.20
+command: 221
+#
+name: Z2 9
+type: parsed
+protocol: nec1
+address: 210.20
+command: 221
+#
+name: 0/10
+type: parsed
+protocol: nec1
+address: 210.20
+command: 222
+#
+name: NET TUNE 0/10
+type: parsed
+protocol: nec1
+address: 210.20
+command: 222
+#
+name: Z2 0/10
+type: parsed
+protocol: nec1
+address: 210.20
+command: 222
+#
+name: DIRECT TUNE
+type: parsed
+protocol: nec1
+address: 210.20
+command: 223
+#
+name: Z2 DIRECT TUNING
+type: parsed
+protocol: nec1
+address: 210.20
+command: 223
+#
+name: DIRECT TUNING
+type: parsed
+protocol: nec1
+address: 210.20
+command: 223
+#

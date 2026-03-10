@@ -1,0 +1,747 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: 0
+type: parsed
+protocol: rc5
+address: 20
+command: 0
+#
+name: FIGURE 0
+type: parsed
+protocol: rc5
+address: 20
+command: 0
+#
+name: 1
+type: parsed
+protocol: rc5
+address: 20
+command: 1
+#
+name: FIGURE 1
+type: parsed
+protocol: rc5
+address: 20
+command: 1
+#
+name: 2
+type: parsed
+protocol: rc5
+address: 20
+command: 2
+#
+name: FIGURE 2
+type: parsed
+protocol: rc5
+address: 20
+command: 2
+#
+name: 3
+type: parsed
+protocol: rc5
+address: 20
+command: 3
+#
+name: FIGURE 3
+type: parsed
+protocol: rc5
+address: 20
+command: 3
+#
+name: 4
+type: parsed
+protocol: rc5
+address: 20
+command: 4
+#
+name: FIGURE 4
+type: parsed
+protocol: rc5
+address: 20
+command: 4
+#
+name: 5
+type: parsed
+protocol: rc5
+address: 20
+command: 5
+#
+name: FIGURE 5
+type: parsed
+protocol: rc5
+address: 20
+command: 5
+#
+name: 6
+type: parsed
+protocol: rc5
+address: 20
+command: 6
+#
+name: FIGURE 6
+type: parsed
+protocol: rc5
+address: 20
+command: 6
+#
+name: 7
+type: parsed
+protocol: rc5
+address: 20
+command: 7
+#
+name: FIGURE 7
+type: parsed
+protocol: rc5
+address: 20
+command: 7
+#
+name: 8
+type: parsed
+protocol: rc5
+address: 20
+command: 8
+#
+name: FIGURE 8
+type: parsed
+protocol: rc5
+address: 20
+command: 8
+#
+name: 9
+type: parsed
+protocol: rc5
+address: 20
+command: 9
+#
+name: FIGURE 9
+type: parsed
+protocol: rc5
+address: 20
+command: 9
+#
+name: FIGURE 10/0
+type: parsed
+protocol: rc5
+address: 20
+command: 10
+#
+name: 10
+type: parsed
+protocol: rc5
+address: 20
+command: 10
+#
+name: TIME
+type: parsed
+protocol: rc5
+address: 20
+command: 11
+#
+name: POWER ON/STANDBY
+type: parsed
+protocol: rc5
+address: 20
+command: 12
+#
+name: POWER
+type: parsed
+protocol: rc5
+address: 20
+command: 12
+#
+name: 
+type: parsed
+protocol: rc5
+address: 20
+command: 12
+#
+name: SCROLL/RECALL
+type: parsed
+protocol: rc5
+address: 20
+command: 15
+#
+name: RECALL
+type: parsed
+protocol: rc5
+address: 20
+command: 15
+#
+name: VOLUME UP
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: VOLUME +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: VOL +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: VOLUME DOWN
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: VOLUME -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: VOL -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: RANDOM
+type: parsed
+protocol: rc5
+address: 20
+command: 28
+#
+name: SHUFFLE
+type: parsed
+protocol: rc5
+address: 20
+command: 28
+#
+name: PLAY MODE REPEAT
+type: parsed
+protocol: rc5
+address: 20
+command: 29
+#
+name: PLAY MODE
+type: parsed
+protocol: rc5
+address: 20
+command: 29
+#
+name: REPEAT
+type: parsed
+protocol: rc5
+address: 20
+command: 29
+#
+name: DISC
+type: parsed
+protocol: rc5
+address: 20
+command: 30
+#
+name: DISC +
+type: parsed
+protocol: rc5
+address: 20
+command: 30
+#
+name: DISK
+type: parsed
+protocol: rc5
+address: 20
+command: 30
+#
+name: DISC SKIP
+type: parsed
+protocol: rc5
+address: 20
+command: 30
+#
+name: DISC -
+type: parsed
+protocol: rc5
+address: 20
+command: 31
+#
+name: SONG+
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: NEXT
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: SKIP >>
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: TRACK >>
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: SEARCH >>
+type: parsed
+protocol: rc5
+address: 20
+command: 32
+#
+name: SONG-
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: PREVIOUS
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: SKIP <<
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: TRACK <<
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: SEARCH <<
+type: parsed
+protocol: rc5
+address: 20
+command: 33
+#
+name: PROGRAM 1
+type: parsed
+protocol: rc5
+address: 20
+command: 36
+#
+name: PROGRAM
+type: parsed
+protocol: rc5
+address: 20
+command: 36
+#
+name: PITCH RESET
+type: parsed
+protocol: rc5
+address: 20
+command: 37
+#
+name: PROGRAM 2
+type: parsed
+protocol: rc5
+address: 20
+command: 37
+#
+name: PITCH + (FOLDER +)
+type: parsed
+protocol: rc5
+address: 20
+command: 38
+#
+name: PROGRAM 3
+type: parsed
+protocol: rc5
+address: 20
+command: 38
+#
+name: PITCH +
+type: parsed
+protocol: rc5
+address: 20
+command: 38
+#
+name: PITCH - (FOLDER -)
+type: parsed
+protocol: rc5
+address: 20
+command: 39
+#
+name: PROGRAM 4
+type: parsed
+protocol: rc5
+address: 20
+command: 39
+#
+name: PITCH -
+type: parsed
+protocol: rc5
+address: 20
+command: 39
+#
+name: PROGRAM 5
+type: parsed
+protocol: rc5
+address: 20
+command: 40
+#
+name: PROGRAM 6
+type: parsed
+protocol: rc5
+address: 20
+command: 41
+#
+name: PROGRAM 2
+type: parsed
+protocol: rc5
+address: 20
+command: 41
+#
+name: PROGRAM
+type: parsed
+protocol: rc5
+address: 20
+command: 41
+#
+name: INTRO SCAN (AMS)
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: INTRO SCAN
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: SCAN
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: AMS
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: INTRO
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: EJECT
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: OPEN/EJECT
+type: parsed
+protocol: rc5
+address: 20
+command: 45
+#
+name: PAUSE
+type: parsed
+protocol: rc5
+address: 20
+command: 48
+#
+name: DELETE/CANCEL
+type: parsed
+protocol: rc5
+address: 20
+command: 49
+#
+name: DELETE
+type: parsed
+protocol: rc5
+address: 20
+command: 49
+#
+name: CANCEL
+type: parsed
+protocol: rc5
+address: 20
+command: 49
+#
+name: BACKWARD
+type: parsed
+protocol: rc5
+address: 20
+command: 50
+#
+name: SEARCH <<
+type: parsed
+protocol: rc5
+address: 20
+command: 50
+#
+name: SCAN <<
+type: parsed
+protocol: rc5
+address: 20
+command: 50
+#
+name: SKIP <<
+type: parsed
+protocol: rc5
+address: 20
+command: 50
+#
+name: FORWARD
+type: parsed
+protocol: rc5
+address: 20
+command: 52
+#
+name: SEARCH >>
+type: parsed
+protocol: rc5
+address: 20
+command: 52
+#
+name: SCAN >>
+type: parsed
+protocol: rc5
+address: 20
+command: 52
+#
+name: SKIP >>
+type: parsed
+protocol: rc5
+address: 20
+command: 52
+#
+name: PLAY
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: POWER ON (PLAY)
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: 
+type: parsed
+protocol: rc5
+address: 20
+command: 53
+#
+name: STOP
+type: parsed
+protocol: rc5
+address: 20
+command: 54
+#
+name: DISC 1
+type: parsed
+protocol: rc5
+address: 20
+command: 55
+#
+name: DISK 1
+type: parsed
+protocol: rc5
+address: 20
+command: 55
+#
+name: DISC 2
+type: parsed
+protocol: rc5
+address: 20
+command: 56
+#
+name: DISK 2
+type: parsed
+protocol: rc5
+address: 20
+command: 56
+#
+name: DISC 3
+type: parsed
+protocol: rc5
+address: 20
+command: 57
+#
+name: DISK 3
+type: parsed
+protocol: rc5
+address: 20
+command: 57
+#
+name: REPEAT A/B
+type: parsed
+protocol: rc5
+address: 20
+command: 59
+#
+name: REPEAT A-B
+type: parsed
+protocol: rc5
+address: 20
+command: 59
+#
+name: POWER OFF
+type: parsed
+protocol: rc5
+address: 20
+command: 63
+#
+name: DISC 4
+type: parsed
+protocol: rc5
+address: 20
+command: 64
+#
+name: DISK 4
+type: parsed
+protocol: rc5
+address: 20
+command: 64
+#
+name: DISC 5
+type: parsed
+protocol: rc5
+address: 20
+command: 65
+#
+name: DISK 5
+type: parsed
+protocol: rc5
+address: 20
+command: 65
+#
+name: SOUND MODE
+type: parsed
+protocol: rc5
+address: 20
+command: 66
+#
+name: DISPLAY (DIMMER)
+type: parsed
+protocol: rc5
+address: 20
+command: 71
+#
+name: DIMMER
+type: parsed
+protocol: rc5
+address: 20
+command: 71
+#
+name: DISPLAY DIMMER
+type: parsed
+protocol: rc5
+address: 20
+command: 71
+#
+name: FOLDER +
+type: parsed
+protocol: rc5
+address: 20
+command: 80
+#
+name: FOLDER -
+type: parsed
+protocol: rc5
+address: 20
+command: 81
+#
+name: MENU
+type: parsed
+protocol: rc5
+address: 20
+command: 82
+#
+name: CURSOR LEFT
+type: parsed
+protocol: rc5
+address: 20
+command: 85
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: rc5
+address: 20
+command: 86
+#
+name: ENTER
+type: parsed
+protocol: rc5
+address: 20
+command: 87
+#
+name: TEXT
+type: parsed
+protocol: rc5
+address: 20
+command: 88
+#
+name: CATEGORY
+type: parsed
+protocol: rc5
+address: 20
+command: 92
+#
+name: EDIT
+type: parsed
+protocol: rc5
+address: 20
+command: 104
+#
+name: TITLE
+type: parsed
+protocol: rc5
+address: 20
+command: 109
+#
+name: TITLE INPUT
+type: parsed
+protocol: rc5
+address: 20
+command: 110
+#
+name: NEXT DISC
+type: parsed
+protocol: rc5
+address: 20
+command: 114
+#
+name: PREVIOUS DISC
+type: parsed
+protocol: rc5
+address: 20
+command: 115
+#
+name: PREVIOUS DISK
+type: parsed
+protocol: rc5
+address: 20
+command: 115
+#
+name: FADE
+type: parsed
+protocol: rc5
+address: 20
+command: 120
+#

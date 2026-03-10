@@ -1,0 +1,231 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: STOP
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 0
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 1
+#
+name: SCAN <<
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 4
+#
+name: SCAN >>
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 5
+#
+name: PAUSE
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 6
+#
+name: PLAY
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 10
+#
+name: STILL/STEP >
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 12
+#
+name: STILL/STEP <
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 13
+#
+name: 1
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 16
+#
+name: 2
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 17
+#
+name: 3
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 18
+#
+name: 4
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 19
+#
+name: 5
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 20
+#
+name: 6
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 21
+#
+name: 7
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 22
+#
+name: 8
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 23
+#
+name: 9
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 24
+#
+name: 0
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 25
+#
+name: AUDIO SELECT
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 51
+#
+name: POWER
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 61
+#
+name: INTRO SCAN
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 70
+#
+name: REPEAT
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 71
+#
+name: A-B REPEAT
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 72
+#
+name: SKIP <<
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 73
+#
+name: SKIP >>
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 74
+#
+name: RANDOM
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 77
+#
+name: TIME MODE
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 85
+#
+name: FP DISPLAY
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 145
+#
+name: CLEAR
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 160
+#
+name: RECALL
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 161
+#
+name: +10
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 164
+#
+name: PROGRAM
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 170
+#
+name: EDIT
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 173
+#
+name: MODE
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 192
+#
+name: SIDE A
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 195
+#
+name: SIDE B
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 196
+#
+name: D/A CX
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 208
+#
+name: DISPLAY
+type: parsed
+protocol: panasonic
+address: 144.64
+command: 210
+#

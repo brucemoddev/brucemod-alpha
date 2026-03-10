@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: UNIVERSAL PORT
+type: parsed
+protocol: nec1
+address: 210.23
+command: 138
+#
+name: USB
+type: parsed
+protocol: nec1
+address: 210.23
+command: 158
+#
+name: XM
+type: parsed
+protocol: nec1
+address: 210.23
+command: 218
+#
+name: SIRIUS
+type: parsed
+protocol: nec1
+address: 210.23
+command: 219
+#

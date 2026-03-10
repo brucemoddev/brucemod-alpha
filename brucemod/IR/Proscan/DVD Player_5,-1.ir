@@ -1,0 +1,225 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: CLEAR
+type: parsed
+protocol: rca
+address: 5
+command: 6
+#
+name: MENU
+type: parsed
+protocol: rca
+address: 5
+command: 8
+#
+name: PLAY
+type: parsed
+protocol: rca
+address: 5
+command: 21
+#
+name: SET UP
+type: parsed
+protocol: rca
+address: 5
+command: 24
+#
+name: PAUSE
+type: parsed
+protocol: rca
+address: 5
+command: 25
+#
+name: GUIDE
+type: parsed
+protocol: rca
+address: 5
+command: 26
+#
+name: FORWARD
+type: parsed
+protocol: rca
+address: 5
+command: 28
+#
+name: REVERSE
+type: parsed
+protocol: rca
+address: 5
+command: 29
+#
+name: STOP
+type: parsed
+protocol: rca
+address: 5
+command: 31
+#
+name: CH+
+type: parsed
+protocol: rca
+address: 5
+command: 32
+#
+name: CH-
+type: parsed
+protocol: rca
+address: 5
+command: 34
+#
+name: RETURN
+type: parsed
+protocol: rca
+address: 5
+command: 39
+#
+name: 0
+type: parsed
+protocol: rca
+address: 5
+command: 48
+#
+name: 1
+type: parsed
+protocol: rca
+address: 5
+command: 49
+#
+name: 2
+type: parsed
+protocol: rca
+address: 5
+command: 50
+#
+name: 3
+type: parsed
+protocol: rca
+address: 5
+command: 51
+#
+name: 4
+type: parsed
+protocol: rca
+address: 5
+command: 52
+#
+name: 5
+type: parsed
+protocol: rca
+address: 5
+command: 53
+#
+name: 6
+type: parsed
+protocol: rca
+address: 5
+command: 54
+#
+name: 7
+type: parsed
+protocol: rca
+address: 5
+command: 55
+#
+name: 8
+type: parsed
+protocol: rca
+address: 5
+command: 56
+#
+name: 9
+type: parsed
+protocol: rca
+address: 5
+command: 57
+#
+name: DVD
+type: parsed
+protocol: rca
+address: 5
+command: 58
+#
+name: POWER
+type: parsed
+protocol: rca
+address: 5
+command: 59
+#
+name: INFO
+type: parsed
+protocol: rca
+address: 5
+command: 60
+#
+name: MARKER*ANT
+type: parsed
+protocol: rca
+address: 5
+command: 80
+#
+name: MOVE LEFT
+type: parsed
+protocol: rca
+address: 5
+command: 86
+#
+name: MOVE RIGHT
+type: parsed
+protocol: rca
+address: 5
+command: 87
+#
+name: MOVE DOWN
+type: parsed
+protocol: rca
+address: 5
+command: 88
+#
+name: MOVE UP
+type: parsed
+protocol: rca
+address: 5
+command: 89
+#
+name: PLAY MODE
+type: parsed
+protocol: rca
+address: 5
+command: 118
+#
+name: ANGLE
+type: parsed
+protocol: rca
+address: 5
+command: 119
+#
+name: SUBTITLE
+type: parsed
+protocol: rca
+address: 5
+command: 120
+#
+name: SUBTITLE ON/OFF
+type: parsed
+protocol: rca
+address: 5
+command: 128
+#
+name: REPEAT
+type: parsed
+protocol: rca
+address: 5
+command: 148
+#
+name: AUDIO MODE
+type: parsed
+protocol: rca
+address: 5
+command: 176
+#
+name: SELECT
+type: parsed
+protocol: rca
+address: 5
+command: 244
+#

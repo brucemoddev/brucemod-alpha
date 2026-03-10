@@ -1,0 +1,15 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: PAGE-
+type: parsed
+protocol: nec2
+address: 72.80
+command: 5
+#
+name: PAGE+
+type: parsed
+protocol: nec2
+address: 72.80
+command: 6
+#

@@ -1,0 +1,309 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: sony20
+address: 90.27
+command: 21
+#
+name: enter
+type: parsed
+protocol: sony20
+address: 58.9
+command: 11
+#
+name: Left
+type: parsed
+protocol: sony20
+address: 58.9
+command: 123
+#
+name: Right
+type: parsed
+protocol: sony20
+address: 58.9
+command: 124
+#
+name: Up
+type: parsed
+protocol: sony20
+address: 58.9
+command: 121
+#
+name: Down
+type: parsed
+protocol: sony20
+address: 58.9
+command: 122
+#
+name: Play
+type: parsed
+protocol: sony20
+address: 58.9
+command: 50
+#
+name: Pause
+type: parsed
+protocol: sony20
+address: 58.9
+command: 57
+#
+name: Stop
+type: parsed
+protocol: sony20
+address: 58.9
+command: 56
+#
+name: Previous
+type: parsed
+protocol: sony20
+address: 58.9
+command: 48
+#
+name: Next
+type: parsed
+protocol: sony20
+address: 58.9
+command: 49
+#
+name: eject
+type: parsed
+protocol: sony20
+address: 90.27
+command: 22
+#
+name: rewind
+type: parsed
+protocol: sony20
+address: 58.9
+command: 51
+#
+name: FAST_FORWARD
+type: parsed
+protocol: sony20
+address: 58.9
+command: 52
+#
+name: Menu
+type: parsed
+protocol: sony20
+address: 58.9
+command: 27
+#
+name: top_menu
+type: parsed
+protocol: sony20
+address: 58.9
+command: 26
+#
+name: display
+type: parsed
+protocol: sony20
+address: 58.9
+command: 84
+#
+name: subtitle
+type: parsed
+protocol: sony20
+address: 58.9
+command: 99
+#
+name: TRIANGLE
+type: parsed
+protocol: sony20
+address: 90.27
+command: 92
+#
+name: Square
+type: parsed
+protocol: sony20
+address: 90.27
+command: 95
+#
+name: CIRCLE
+type: parsed
+protocol: sony20
+address: 90.27
+command: 93
+#
+name: cross
+type: parsed
+protocol: sony20
+address: 90.27
+command: 94
+#
+name: Start
+type: parsed
+protocol: sony20
+address: 90.27
+command: 83
+#
+name: Select
+type: parsed
+protocol: sony20
+address: 90.27
+command: 80
+#
+name: L1
+type: parsed
+protocol: sony20
+address: 90.27
+command: 90
+#
+name: L2
+type: parsed
+protocol: sony20
+address: 90.27
+command: 88
+#
+name: L3
+type: parsed
+protocol: sony20
+address: 90.27
+command: 81
+#
+name: R1
+type: parsed
+protocol: sony20
+address: 90.27
+command: 91
+#
+name: R2
+type: parsed
+protocol: sony20
+address: 90.27
+command: 89
+#
+name: R3
+type: parsed
+protocol: sony20
+address: 90.27
+command: 82
+#
+name: return
+type: parsed
+protocol: sony20
+address: 58.9
+command: 14
+#
+name: A_B
+type: parsed
+protocol: sony20
+address: 58.9
+command: 42
+#
+name: TIME
+type: parsed
+protocol: sony20
+address: 58.9
+command: 40
+#
+name: CLEAR
+type: parsed
+protocol: sony20
+address: 58.9
+command: 15
+#
+name: SLOW_RW
+type: parsed
+protocol: sony20
+address: 58.9
+command: 96
+#
+name: SLOW_FF
+type: parsed
+protocol: sony20
+address: 58.9
+command: 97
+#
+name: REPEAT
+type: parsed
+protocol: sony20
+address: 58.9
+command: 44
+#
+name: program
+type: parsed
+protocol: sony20
+address: 58.9
+command: 31
+#
+name: ANGLE
+type: parsed
+protocol: sony20
+address: 58.9
+command: 101
+#
+name: shuffle
+type: parsed
+protocol: sony20
+address: 58.9
+command: 53
+#
+name: Audio
+type: parsed
+protocol: sony20
+address: 58.9
+command: 100
+#
+name: 0
+type: parsed
+protocol: sony20
+address: 58.9
+command: 9
+#
+name: 1
+type: parsed
+protocol: sony20
+address: 58.9
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony20
+address: 58.9
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 58.9
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 58.9
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 58.9
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 58.9
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony20
+address: 58.9
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony20
+address: 58.9
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony20
+address: 58.9
+command: 8
+#

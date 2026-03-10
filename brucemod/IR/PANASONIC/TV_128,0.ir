@@ -1,0 +1,555 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: INPUT TUNER
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 0
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 1
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 2
+#
+name: INPUT VIDEO 3
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 3
+#
+name: INPUT VIDEO 4
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 4
+#
+name: INPUT SELECT/SCROLL
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 5
+#
+name: PICTURE MENU
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 6
+#
+name: SOUND SELECT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 7
+#
+name: P-NR
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 10
+#
+name: NORMALIZE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 12
+#
+name: SLEEP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 15
+#
+name: DIGIT 1
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 16
+#
+name: DIGIT 2
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 17
+#
+name: DIGIT 3
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 18
+#
+name: DIGIT 4
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 19
+#
+name: DIGIT 5
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 20
+#
+name: DIGIT 6
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 21
+#
+name: DIGIT 7
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 22
+#
+name: DIGIT 8
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 23
+#
+name: DIGIT 9
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 24
+#
+name: DIGIT 0/10
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 25
+#
+name: DIGIT 11
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 26
+#
+name: DIGIT 12
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 27
+#
+name: DIGIT 13
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 28
+#
+name: DIGIT 14
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 29
+#
+name: DIGIT 15
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 30
+#
+name: DIGIT 16
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 31
+#
+name: VOLUME UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 32
+#
+name: VOLUME DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 33
+#
+name: VOLUME MUTE TOGGLE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 50
+#
+name: SAP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 51
+#
+name: CHANNEL UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 52
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 53
+#
+name: CHANNEL PREVIOUS
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 55
+#
+name: SEARCH
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 56
+#
+name: INFO / RECALL
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 57
+#
+name: POWER TOGGLE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 61
+#
+name: POWER ON
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 62
+#
+name: POWER OFF
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 63
+#
+name: CONTRAST UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 66
+#
+name: CONTRAST DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 67
+#
+name: BRIGHTNESS UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 68
+#
+name: BRIGHTNESS DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 69
+#
+name: CURSOR ENTER/SELECT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 73
+#
+name: CURSOR UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 74
+#
+name: CURSOR DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 75
+#
+name: CURSOR LEFT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 78
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 79
+#
+name: PICTURE SELECT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 80
+#
+name: SOUND MENU
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 81
+#
+name: MENU
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 82
+#
+name: PIP VOLUME UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 83
+#
+name: PIP VOLUME DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 84
+#
+name: PIP INPUT SCROLL
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 86
+#
+name: PIP POSITION UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 87
+#
+name: PIP POSITION DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 88
+#
+name: PIP POSITION LEFT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 89
+#
+name: PIP POSITION RIGHT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 90
+#
+name: PIP SIZE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 91
+#
+name: PIP FREEZE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 92
+#
+name: PIP TOGGLE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 93
+#
+name: PIP SWAP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 94
+#
+name: PIP FRAME ADVANCE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 95
+#
+name: FREEZE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 99
+#
+name: PIP CHANNEL UP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 100
+#
+name: PIP CHANNEL DOWN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 101
+#
+name: PIP MODE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 102
+#
+name: PIP POSITION SWITCH
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 103
+#
+name: PIP AUDIO SWITCH
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 104
+#
+name: PIP REPLAY
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 105
+#
+name: TUNING
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 108
+#
+name: COLOR BUTTON RED
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 112
+#
+name: COLOR BUTTON GREEN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 113
+#
+name: COLOR BUTTON YELLOW
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 114
+#
+name: COLOR BUTTON BLUE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 115
+#
+name: INPUT PC/VGA
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 122
+#
+name: BBE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 126
+#
+name: CLOSED CAPTION
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 157
+#
+name: CHANNEL SKIP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 158
+#
+name: LANGUAGE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 160
+#
+name: AUTO SEARCH
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 166
+#
+name: HELP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 172
+#
+name: GAME / ZOOM
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 187
+#
+name: PROG / DASH
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 208
+#
+name: EXIT
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 211
+#
+name: RETURN
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 212
+#
+name: STORE
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 213
+#
+name: PIP RECORD
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 224
+#
+name: PIP
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 226
+#
+name: PIP MULTI WINDOW
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 230
+#
+name: PIP MOVE/ZOOM
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 231
+#
+name: VIERA TOOLS
+type: parsed
+protocol: panasonic
+address: 128.0
+command: 239
+#

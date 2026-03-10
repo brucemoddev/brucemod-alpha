@@ -1,0 +1,243 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: Power
+type: parsed
+protocol: necx2
+address: 7.0
+command: 2
+#
+name: Menu
+type: parsed
+protocol: sony20
+address: 90.14
+command: 58
+#
+name: Guide
+type: parsed
+protocol: nec
+address: 33.156
+command: 13
+#
+name: Up
+type: parsed
+protocol: nec
+address: 110.0
+command: 7
+#
+name: Down
+type: parsed
+protocol: nec
+address: 110.0
+command: 13
+#
+name: Ok
+type: parsed
+protocol: nec
+address: 110.0
+command: 10
+#
+name: Left
+type: parsed
+protocol: nec
+address: 110.0
+command: 9
+#
+name: Right
+type: parsed
+protocol: nec
+address: 110.0
+command: 11
+#
+name: Left_Arrow
+type: parsed
+protocol: sony20
+address: 90.14
+command: 110
+#
+name: tv
+type: parsed
+protocol: sony20
+address: 90.14
+command: 99
+#
+name: Info
+type: parsed
+protocol: nec
+address: 33.156
+command: 25
+#
+name: Check
+type: parsed
+protocol: sony20
+address: 90.14
+command: 56
+#
+name: rewind
+type: parsed
+protocol: sony20
+address: 90.14
+command: 27
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: sony20
+address: 90.14
+command: 26
+#
+name: FAST_FORWARD
+type: parsed
+protocol: sony20
+address: 90.14
+command: 28
+#
+name: Input
+type: parsed
+protocol: sony20
+address: 90.14
+command: 24
+#
+name: Stop
+type: parsed
+protocol: sony20
+address: 90.14
+command: 25
+#
+name: cc
+type: parsed
+protocol: sony20
+address: 90.14
+command: 95
+#
+name: Vol_Up
+type: parsed
+protocol: necx2
+address: 7
+command: 7
+#
+name: VOL_DN
+type: parsed
+protocol: necx2
+address: 7
+command: 11
+#
+name: Menu
+type: parsed
+protocol: necx2
+address: 90.14
+command: 108
+#
+name: Mute
+type: parsed
+protocol: necx2
+address: 7.0
+command: 15
+#
+name: CH_NEXT
+type: parsed
+protocol: sony20
+address: 90.14
+command: 16
+#
+name: CH_PREV
+type: parsed
+protocol: sony20
+address: 90.14
+command: 17
+#
+name: 1
+type: parsed
+protocol: sony20
+address: 90.14
+command: 0
+#
+name: 2
+type: parsed
+protocol: sony20
+address: 90.14
+command: 1
+#
+name: 3
+type: parsed
+protocol: sony20
+address: 90.14
+command: 2
+#
+name: 4
+type: parsed
+protocol: sony20
+address: 90.14
+command: 3
+#
+name: 5
+type: parsed
+protocol: sony20
+address: 90.14
+command: 4
+#
+name: 6
+type: parsed
+protocol: sony20
+address: 90.14
+command: 5
+#
+name: 7
+type: parsed
+protocol: sony20
+address: 90.14
+command: 6
+#
+name: 8
+type: parsed
+protocol: sony20
+address: 90.14
+command: 7
+#
+name: 9
+type: parsed
+protocol: sony20
+address: 90.14
+command: 8
+#
+name: 0
+type: parsed
+protocol: sony20
+address: 90.14
+command: 9
+#
+name: Sleep
+type: parsed
+protocol: necx2
+address: 7
+command: 3
+#
+name: enter
+type: parsed
+protocol: sony20
+address: 90.14
+command: 74
+#
+name: RED_TRIANGLE
+type: parsed
+protocol: nec
+address: 33.156
+command: 2
+#
+name: GREEN_SQUARE
+type: parsed
+protocol: nec
+address: 33.156
+command: 19
+#
+name: BLUE_CIRCLE
+type: parsed
+protocol: nec
+address: 33.156
+command: 12
+#
+name: YELLOW_X
+type: parsed
+protocol: nec
+address: 33.156
+command: 22
+#

@@ -1,0 +1,237 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: antenna
+type: parsed
+protocol: rca
+address: 14
+command: 5
+#
+name: KEY_CLEAR
+type: parsed
+protocol: rca
+address: 14
+command: 6
+#
+name: KEY_MENU
+type: parsed
+protocol: rca
+address: 14
+command: 8
+#
+name: track-
+type: parsed
+protocol: rca
+address: 14
+command: 10
+#
+name: track+
+type: parsed
+protocol: rca
+address: 14
+command: 11
+#
+name: KEY_PLAY
+type: parsed
+protocol: rca
+address: 14
+command: 21
+#
+name: KEY_RECORD
+type: parsed
+protocol: rca
+address: 14
+command: 23
+#
+name: KEY_PAUSE
+type: parsed
+protocol: rca
+address: 14
+command: 25
+#
+name: KEY_INFO
+type: parsed
+protocol: rca
+address: 14
+command: 26
+#
+name: KEY_FORWARD
+type: parsed
+protocol: rca
+address: 14
+command: 28
+#
+name: reverse
+type: parsed
+protocol: rca
+address: 14
+command: 29
+#
+name: KEY_LIGHTS_TOGGLE
+type: parsed
+protocol: rca
+address: 14
+command: 30
+#
+name: KEY_STOP
+type: parsed
+protocol: rca
+address: 14
+command: 31
+#
+name: fradv
+type: parsed
+protocol: rca
+address: 14
+command: 32
+#
+name: goback
+type: parsed
+protocol: rca
+address: 14
+command: 39
+#
+name: KEY_POWER
+type: parsed
+protocol: rca
+address: 14
+command: 42
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: rca
+address: 14
+command: 44
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: rca
+address: 14
+command: 45
+#
+name: KEY_0
+type: parsed
+protocol: rca
+address: 14
+command: 48
+#
+name: KEY_1
+type: parsed
+protocol: rca
+address: 14
+command: 49
+#
+name: KEY_2
+type: parsed
+protocol: rca
+address: 14
+command: 50
+#
+name: KEY_3
+type: parsed
+protocol: rca
+address: 14
+command: 51
+#
+name: KEY_4
+type: parsed
+protocol: rca
+address: 14
+command: 52
+#
+name: KEY_5
+type: parsed
+protocol: rca
+address: 14
+command: 53
+#
+name: KEY_6
+type: parsed
+protocol: rca
+address: 14
+command: 54
+#
+name: KEY_7
+type: parsed
+protocol: rca
+address: 14
+command: 55
+#
+name: KEY_8
+type: parsed
+protocol: rca
+address: 14
+command: 56
+#
+name: KEY_9
+type: parsed
+protocol: rca
+address: 14
+command: 57
+#
+name: KEY_POWER
+type: parsed
+protocol: rca
+address: 14
+command: 58
+#
+name: off
+type: parsed
+protocol: rca
+address: 14
+command: 59
+#
+name: KEY_INFO
+type: parsed
+protocol: rca
+address: 14
+command: 60
+#
+name: speed
+type: parsed
+protocol: rca
+address: 14
+command: 70
+#
+name: input
+type: parsed
+protocol: rca
+address: 14
+command: 71
+#
+name: KEY_SEARCH
+type: parsed
+protocol: rca
+address: 14
+command: 83
+#
+name: KEY_LEFT
+type: parsed
+protocol: rca
+address: 14
+command: 86
+#
+name: KEY_RIGHT
+type: parsed
+protocol: rca
+address: 14
+command: 87
+#
+name: KEY_DOWN
+type: parsed
+protocol: rca
+address: 14
+command: 88
+#
+name: KEY_UP
+type: parsed
+protocol: rca
+address: 14
+command: 89
+#
+name: KEY_OK
+type: parsed
+protocol: rca
+address: 14
+command: 244
+#

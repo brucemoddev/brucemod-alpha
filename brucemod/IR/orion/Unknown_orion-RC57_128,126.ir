@@ -1,0 +1,45 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: KEY_AGAIN
+type: parsed
+protocol: nec
+address: 128.126
+command: 10
+#
+name: KEY_POWER
+type: parsed
+protocol: nec
+address: 128.126
+command: 11
+#
+name: KEY_PLAY
+type: parsed
+protocol: nec
+address: 128.126
+command: 12
+#
+name: KEY_STOP
+type: parsed
+protocol: nec
+address: 128.126
+command: 13
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: nec
+address: 128.126
+command: 14
+#
+name: KEY_REWIND
+type: parsed
+protocol: nec
+address: 128.126
+command: 15
+#
+name: still
+type: parsed
+protocol: nec
+address: 128.126
+command: 16
+#

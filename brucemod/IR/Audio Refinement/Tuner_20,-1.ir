@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+# Extracted from Ultimate-Remote IRDB
+name: SEARCH +
+type: parsed
+protocol: rc5
+address: 20
+command: 16
+#
+name: SEARCH -
+type: parsed
+protocol: rc5
+address: 20
+command: 17
+#
+name: FM/AM
+type: parsed
+protocol: rc5
+address: 20
+command: 28
+#
+name: TUNER
+type: parsed
+protocol: rc5
+address: 20
+command: 43
+#
+name: PRESET -
+type: parsed
+protocol: rc5
+address: 20
+command: 60
+#
+name: PRESET +
+type: parsed
+protocol: rc5
+address: 20
+command: 63
+#
